@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p48457-e880357.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-block-collection-xwalk/main"
+    url: "https://author-p48457-e880357.adobeaemcloud.com/bin/franklin.delivery/kevalteknopoint/exp-mord-agent/main"
     type: "markup"
     suffix: ".html"

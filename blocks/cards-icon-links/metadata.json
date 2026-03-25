@@ -1,0 +1,9 @@
+{
+  "variantName": "cards-icon-links",
+  "baseBlock": "cards",
+  "description": "Grid of icon-based quick action links with small centered icons, headings, and arrow CTAs",
+  "sourceUrl": "https://www.ngssuper.com.au/",
+  "sourceSelector": "section.s-base-section",
+  "created": "2026-03-23",
+  "usedBy": ["https://www.ngssuper.com.au/"]
+}

@@ -1,0 +1,9 @@
+{
+  "variantName": "hero-homepage",
+  "baseBlock": "hero",
+  "description": "Homepage hero with dark gradient background and circular decorative image",
+  "sourceUrl": "https://www.ngssuper.com.au/",
+  "sourceSelector": "section.s-page-header.skin-primary",
+  "created": "2026-03-23",
+  "usedBy": ["https://www.ngssuper.com.au/"]
+}

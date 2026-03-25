@@ -1,0 +1,9 @@
+{
+  "variantName": "hero-feature",
+  "baseBlock": "hero",
+  "description": "Feature hero with centered award/badge image and heading with CTA below",
+  "sourceUrl": "https://www.ngssuper.com.au/",
+  "sourceSelector": "section.s-feature-cta-panel.panel-skin-2",
+  "created": "2026-03-23",
+  "usedBy": ["https://www.ngssuper.com.au/"]
+}

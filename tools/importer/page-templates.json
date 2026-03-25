@@ -1,0 +1,507 @@
+{
+  "templates": [
+    {
+      "name": "homepage",
+      "urls": [
+        "https://www.ngssuper.com.au/"
+      ],
+      "description": "Main landing page with hero banner, feature highlights, and promotional content",
+      "blocks": [
+        {
+          "name": "hero-homepage",
+          "instances": [
+            "section.s-page-header.skin-primary"
+          ]
+        },
+        {
+          "name": "columns",
+          "instances": [
+            "section.s-block-fluid.no-top-padding",
+            "section.s-content-block.bg-theme-3 table"
+          ]
+        },
+        {
+          "name": "cards-icon-links",
+          "instances": [
+            "section.s-base-section"
+          ]
+        },
+        {
+          "name": "hero-feature",
+          "instances": [
+            "section.s-feature-cta-panel.panel-skin-2"
+          ]
+        },
+        {
+          "name": "cards",
+          "instances": [
+            "section.s-block-fluid:not(.no-top-padding)"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Hero Banner",
+          "selector": "section.s-page-header.skin-primary",
+          "style": "dark",
+          "blocks": [
+            "hero-homepage"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Disclaimer Text",
+          "selector": "section.s-page-header + section.s-content-block.color-primary-1",
+          "style": "dark",
+          "blocks": [],
+          "defaultContent": [
+            "p"
+          ]
+        },
+        {
+          "id": "section-3",
+          "name": "Feature Columns",
+          "selector": "section.s-block-fluid.no-top-padding",
+          "style": null,
+          "blocks": [
+            "columns"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-4",
+          "name": "Quick Links Grid",
+          "selector": "section.s-base-section",
+          "style": null,
+          "blocks": [
+            "cards-icon-links"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-5",
+          "name": "Announcement Banner",
+          "selector": "section.s-content-block.bg-theme-3",
+          "style": "warm-beige",
+          "blocks": [
+            "columns"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-6",
+          "name": "Award Feature",
+          "selector": "section.s-feature-cta-panel.panel-skin-2",
+          "style": null,
+          "blocks": [
+            "hero-feature"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-7",
+          "name": "News and Articles",
+          "selector": "section.s-block-fluid:not(.no-top-padding)",
+          "style": null,
+          "blocks": [
+            "cards"
+          ],
+          "defaultContent": [
+            "h2"
+          ]
+        },
+        {
+          "id": "section-8",
+          "name": "CTA Banner",
+          "selector": ".page-content > section.s-content-block.color-primary-1:last-of-type",
+          "style": "dark",
+          "blocks": [],
+          "defaultContent": [
+            "h2",
+            "a"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "section-landing",
+      "urls": [
+        "https://www.ngssuper.com.au/about-us",
+        "https://www.ngssuper.com.au/advice-and-education",
+        "https://www.ngssuper.com.au/for-employers",
+        "https://www.ngssuper.com.au/forms",
+        "https://www.ngssuper.com.au/forms-and-resources",
+        "https://www.ngssuper.com.au/insurance",
+        "https://www.ngssuper.com.au/investments",
+        "https://www.ngssuper.com.au/pds-fact-sheets",
+        "https://www.ngssuper.com.au/retirement",
+        "https://www.ngssuper.com.au/super"
+      ],
+      "description": "Top-level section landing pages (Super, Retirement, Investments, etc.) with hero, navigation cards, and CTAs",
+      "blocks": []
+    },
+    {
+      "name": "listing-page",
+      "urls": [
+        "https://www.ngssuper.com.au/articles",
+        "https://www.ngssuper.com.au/insights",
+        "https://www.ngssuper.com.au/news-hub"
+      ],
+      "description": "Article and insight listing pages with filterable card grids",
+      "blocks": []
+    },
+    {
+      "name": "insight-article",
+      "urls": [
+        "https://www.ngssuper.com.au/insights/general/aged-care-super-advice",
+        "https://www.ngssuper.com.au/insights/general/carbon-neutral-net-zero-whats-the-difference",
+        "https://www.ngssuper.com.au/insights/general/compassionate-release-of-super-fertility-treatment",
+        "https://www.ngssuper.com.au/insights/general/cyber-hygiene-staying-safe-online",
+        "https://www.ngssuper.com.au/insights/general/cyber-incident-update",
+        "https://www.ngssuper.com.au/insights/general/daily-commute-improve-financial-security",
+        "https://www.ngssuper.com.au/insights/general/data-curiosity-perfect-combination",
+        "https://www.ngssuper.com.au/insights/general/extras-to-up-your-financial-game",
+        "https://www.ngssuper.com.au/insights/general/federal-budget-meaning-for-women",
+        "https://www.ngssuper.com.au/insights/general/financial-wellbeing-australian-workforce",
+        "https://www.ngssuper.com.au/insights/general/financy-womens-index-results",
+        "https://www.ngssuper.com.au/insights/general/gender-equality-and-why-it-matters",
+        "https://www.ngssuper.com.au/insights/general/impact-of-menopause-on-superannuation",
+        "https://www.ngssuper.com.au/insights/general/is-super-paid-on-long-service-leave",
+        "https://www.ngssuper.com.au/insights/general/mental-health-month-check-in",
+        "https://www.ngssuper.com.au/insights/general/moments-that-shaped-australian-education",
+        "https://www.ngssuper.com.au/insights/general/money-myth-women-are-bad-with-money",
+        "https://www.ngssuper.com.au/insights/general/retail-or-industry-super-fund",
+        "https://www.ngssuper.com.au/insights/general/single-thriving-retirement",
+        "https://www.ngssuper.com.au/insights/general/still-not-protecting-the-future",
+        "https://www.ngssuper.com.au/insights/general/super-in-a-separation-or-divorce",
+        "https://www.ngssuper.com.au/insights/general/womens-journey-to-financial-equality",
+        "https://www.ngssuper.com.au/insights/insurance/i-never-thought-it-would-happen-to-me",
+        "https://www.ngssuper.com.au/insights/insurance/increase-your-insurance-cover",
+        "https://www.ngssuper.com.au/insights/insurance/types-of-insurance-in-super-explained",
+        "https://www.ngssuper.com.au/insights/insurance/value-of-insurance",
+        "https://www.ngssuper.com.au/insights/investment/asset-classes-alts",
+        "https://www.ngssuper.com.au/insights/investment/asset-classes-an-introduction",
+        "https://www.ngssuper.com.au/insights/investment/asset-classes-fixed-income",
+        "https://www.ngssuper.com.au/insights/investment/asset-classes-infrastructure",
+        "https://www.ngssuper.com.au/insights/investment/asset-classes-shares",
+        "https://www.ngssuper.com.au/insights/investment/cost-of-switching-volatile-investment-markets",
+        "https://www.ngssuper.com.au/insights/investment/difference-responsible-ethical-investing",
+        "https://www.ngssuper.com.au/insights/investment/first-home-super-saver-scheme-what-you-need-to-kno",
+        "https://www.ngssuper.com.au/insights/investment/greenwashing-what-you-need-to-know",
+        "https://www.ngssuper.com.au/insights/investment/investing-101-introduction",
+        "https://www.ngssuper.com.au/insights/investment/investing-is-on-trend",
+        "https://www.ngssuper.com.au/insights/investment/investment-option-closures",
+        "https://www.ngssuper.com.au/insights/investment/investment-terms",
+        "https://www.ngssuper.com.au/insights/investment/investments-spotlight-cip",
+        "https://www.ngssuper.com.au/insights/investment/investments-spotlight-main-sequence",
+        "https://www.ngssuper.com.au/insights/investment/investments-spotlight-second-st-san-francisco",
+        "https://www.ngssuper.com.au/insights/investment/keen-to-learn",
+        "https://www.ngssuper.com.au/insights/investment/march-market-volatility-faqs",
+        "https://www.ngssuper.com.au/insights/investment/ngs-statement-on-responsible-investment",
+        "https://www.ngssuper.com.au/insights/investment/ngs-super-chief-investment-officer-profiled",
+        "https://www.ngssuper.com.au/insights/investment/ngs-super-investments-spotlight-inari-agriculture",
+        "https://www.ngssuper.com.au/insights/investment/ngs-super-spotlight-aspire-social-impact-bond",
+        "https://www.ngssuper.com.au/insights/investment/ngs-super-spotlight-atmos-renewables",
+        "https://www.ngssuper.com.au/insights/investment/ngs-super-spotlight-sydney-desalination-plant",
+        "https://www.ngssuper.com.au/insights/investment/ngs-super-spotlight-tilt-renewables",
+        "https://www.ngssuper.com.au/insights/investment/ngs-super-spotlight-waratah-super-battery",
+        "https://www.ngssuper.com.au/insights/investment/protecting-your-super-at-ngs",
+        "https://www.ngssuper.com.au/insights/investment/should-i-be-investing-outside-super",
+        "https://www.ngssuper.com.au/insights/investment/why-your-investment-option-matters",
+        "https://www.ngssuper.com.au/insights/people/bringing-the-fun-to-super",
+        "https://www.ngssuper.com.au/insights/people/celebrating-excellence-in-education",
+        "https://www.ngssuper.com.au/insights/people/cultivating-culture-and-introspection",
+        "https://www.ngssuper.com.au/insights/people/deepening-leadership-through-learning",
+        "https://www.ngssuper.com.au/insights/people/female-financial-planners-path-to-pursue",
+        "https://www.ngssuper.com.au/insights/people/flying-high-julia-debel",
+        "https://www.ngssuper.com.au/insights/people/money-advice-financial-planner",
+        "https://www.ngssuper.com.au/insights/people/ngs-international-womens-day",
+        "https://www.ngssuper.com.au/insights/people/olivia-luxford-docemus-award",
+        "https://www.ngssuper.com.au/insights/people/recognising-leadership-scholarship-recipient",
+        "https://www.ngssuper.com.au/insights/people/small-steps-right-direction",
+        "https://www.ngssuper.com.au/insights/people/stem-week-discussions",
+        "https://www.ngssuper.com.au/insights/people/superannuation-meet-our-aged-care-specialists",
+        "https://www.ngssuper.com.au/insights/people/this-teacher-took-his-class-to-help-african-orphan",
+        "https://www.ngssuper.com.au/insights/preparing-to-retire/5-ways-to-stay-healthy-in-retirement",
+        "https://www.ngssuper.com.au/insights/preparing-to-retire/age-pension-travelling-overseas",
+        "https://www.ngssuper.com.au/insights/preparing-to-retire/living-her-best-life-how-marie-anne-is-thriving-in",
+        "https://www.ngssuper.com.au/insights/preparing-to-retire/planning-for-retirement",
+        "https://www.ngssuper.com.au/insights/preparing-to-retire/planting-seeds-retirement",
+        "https://www.ngssuper.com.au/insights/preparing-to-retire/put-more-into-super-for-your-retirement",
+        "https://www.ngssuper.com.au/insights/preparing-to-retire/retirement-savings-calculator",
+        "https://www.ngssuper.com.au/insights/preparing-to-retire/support-when-it-matters-most",
+        "https://www.ngssuper.com.au/insights/preparing-to-retire/the-value-of-advice",
+        "https://www.ngssuper.com.au/insights/preparing-to-retire/whats-foro-what-can-you-do-about-it",
+        "https://www.ngssuper.com.au/insights/super-tips/3-questions-to-ask-when-retiring-as-a-couple",
+        "https://www.ngssuper.com.au/insights/super-tips/3-superannuation-must-dos-in-your-20s",
+        "https://www.ngssuper.com.au/insights/super-tips/3-ways-to-up-your-financial-game",
+        "https://www.ngssuper.com.au/insights/super-tips/5-common-questions-super-answered",
+        "https://www.ngssuper.com.au/insights/super-tips/5-reasons-to-open-ngs-income-account",
+        "https://www.ngssuper.com.au/insights/super-tips/5-ways-to-save-money",
+        "https://www.ngssuper.com.au/insights/super-tips/achieving-financial-independence",
+        "https://www.ngssuper.com.au/insights/super-tips/an-update-from-our-chief-investment-officer",
+        "https://www.ngssuper.com.au/insights/super-tips/average-teacher-retirement-age",
+        "https://www.ngssuper.com.au/insights/super-tips/balance-the-scales-in-superannuation",
+        "https://www.ngssuper.com.au/insights/super-tips/comfort-of-financial-planning",
+        "https://www.ngssuper.com.au/insights/super-tips/dont-disrupt-your-super",
+        "https://www.ngssuper.com.au/insights/super-tips/early-release-of-super-explained",
+        "https://www.ngssuper.com.au/insights/super-tips/environmentally-ethically-aware",
+        "https://www.ngssuper.com.au/insights/super-tips/financial-fitness-basics-start-saving",
+        "https://www.ngssuper.com.au/insights/super-tips/financial-planner-tips-superannuation",
+        "https://www.ngssuper.com.au/insights/super-tips/financially-savvy",
+        "https://www.ngssuper.com.au/insights/super-tips/grow-super-on-parental-leave",
+        "https://www.ngssuper.com.au/insights/super-tips/how-long-will-my-super-last",
+        "https://www.ngssuper.com.au/insights/super-tips/how-much-do-you-need-to-retire",
+        "https://www.ngssuper.com.au/insights/super-tips/how-to-boost-your-super",
+        "https://www.ngssuper.com.au/insights/super-tips/how-to-calculate-your-super-estimate",
+        "https://www.ngssuper.com.au/insights/super-tips/how-to-crush-your-financial-goals-in-2026",
+        "https://www.ngssuper.com.au/insights/super-tips/how-to-find-lost-super",
+        "https://www.ngssuper.com.au/insights/super-tips/how-to-make-voluntary-super-contributions",
+        "https://www.ngssuper.com.au/insights/super-tips/how-to-start-planning-your-retirement",
+        "https://www.ngssuper.com.au/insights/super-tips/how-would-a-career-break-affect-my-super",
+        "https://www.ngssuper.com.au/insights/super-tips/managing-financial-stress",
+        "https://www.ngssuper.com.au/insights/super-tips/not-super-stressed",
+        "https://www.ngssuper.com.au/insights/super-tips/overcoming-financial-fear-in-retirement",
+        "https://www.ngssuper.com.au/insights/super-tips/payday-super",
+        "https://www.ngssuper.com.au/insights/super-tips/payday-super-changes",
+        "https://www.ngssuper.com.au/insights/super-tips/protect-yourself-from-online-scams",
+        "https://www.ngssuper.com.au/insights/super-tips/protecting-your-super-at-ngs",
+        "https://www.ngssuper.com.au/insights/super-tips/retire-early-and-travel-the-world",
+        "https://www.ngssuper.com.au/insights/super-tips/save-deposit-super-help-buy-first-property",
+        "https://www.ngssuper.com.au/insights/super-tips/silicon-valley-bank-ngs-super-exposure",
+        "https://www.ngssuper.com.au/insights/super-tips/stapling",
+        "https://www.ngssuper.com.au/insights/super-tips/stapling-what-does-it-mean",
+        "https://www.ngssuper.com.au/insights/super-tips/super-myths-debunked",
+        "https://www.ngssuper.com.au/insights/super-tips/super-part-time-casual-employees",
+        "https://www.ngssuper.com.au/insights/super-tips/super-teachers-education-workers",
+        "https://www.ngssuper.com.au/insights/super-tips/superannuation-withdrawal-tax",
+        "https://www.ngssuper.com.au/insights/super-tips/temporary-reduction-to-pension-drawdown-rates-ends",
+        "https://www.ngssuper.com.au/insights/super-tips/top-5-questions-to-ask-a-financial-planner",
+        "https://www.ngssuper.com.au/insights/super-tips/turn-around-your-neglected-super",
+        "https://www.ngssuper.com.au/insights/super-tips/understanding-super-and-making-a-will",
+        "https://www.ngssuper.com.au/insights/super-tips/understanding-the-super-guarantee-rate",
+        "https://www.ngssuper.com.au/insights/super-tips/unlocking-opportunities-a-day-in-the-life-of-a-fin",
+        "https://www.ngssuper.com.au/insights/super-tips/value-of-advice",
+        "https://www.ngssuper.com.au/insights/super-tips/want-to-start-a-side-hustle",
+        "https://www.ngssuper.com.au/insights/super-tips/what-to-do-if-your-employer-doesnt-pay-your-super",
+        "https://www.ngssuper.com.au/insights/super-tips/you-under-estimate-the-power-of-super"
+      ],
+      "description": "Insight articles covering super tips, investment, insurance, retirement, and people stories",
+      "blocks": []
+    },
+    {
+      "name": "news-article",
+      "urls": [
+        "https://www.ngssuper.com.au/articles/news/2018-scholarship-awards-winners-announced",
+        "https://www.ngssuper.com.au/articles/news/2020-mothers-day-classic-goes-virtual",
+        "https://www.ngssuper.com.au/articles/news/2020-mothers-day-classic-largest-school-team",
+        "https://www.ngssuper.com.au/articles/news/2020-ngs-scholarship-awards-winners",
+        "https://www.ngssuper.com.au/articles/news/2020-ngs-super-scholarship-awards-meet-the-winners",
+        "https://www.ngssuper.com.au/articles/news/2020-scholarship-awards-reimagined",
+        "https://www.ngssuper.com.au/articles/news/2021-ngs-scholarship-awards-winners",
+        "https://www.ngssuper.com.au/articles/news/2022-ngs-super-scholarship-awards-meet-the-winners",
+        "https://www.ngssuper.com.au/articles/news/2022-what-the-year-holds-for-super",
+        "https://www.ngssuper.com.au/articles/news/3-easy-actions-for-the-eofy",
+        "https://www.ngssuper.com.au/articles/news/calculate-your-future",
+        "https://www.ngssuper.com.au/articles/news/carbon-neutral-2030-progress-report-2024",
+        "https://www.ngssuper.com.au/articles/news/drive-to-create-better-communities",
+        "https://www.ngssuper.com.au/articles/news/eofy-contribution-dates-employers-2022",
+        "https://www.ngssuper.com.au/articles/news/federal-budget-highlights-2023-24",
+        "https://www.ngssuper.com.au/articles/news/federal-budget-highlights-2024-2025",
+        "https://www.ngssuper.com.au/articles/news/financial-security-essential-key-to-success",
+        "https://www.ngssuper.com.au/articles/news/fostering-school-spirit-docemus-award",
+        "https://www.ngssuper.com.au/articles/news/gender-equality-how-far-have-we-come",
+        "https://www.ngssuper.com.au/articles/news/helping-education-professionals-boost-their-super",
+        "https://www.ngssuper.com.au/articles/news/how-gen-z-can-take-control-of-their-finances",
+        "https://www.ngssuper.com.au/articles/news/international-womens-day",
+        "https://www.ngssuper.com.au/articles/news/introducing-our-service-promise-members-first,-(1)",
+        "https://www.ngssuper.com.au/articles/news/national-reconciliation-week-2023",
+        "https://www.ngssuper.com.au/articles/news/new-ceo-appointment-at-ngs-super",
+        "https://www.ngssuper.com.au/articles/news/new-financial-year-and-super",
+        "https://www.ngssuper.com.au/articles/news/ngs-chair-retires",
+        "https://www.ngssuper.com.au/articles/news/ngs-new-independent-chair-and-board-member",
+        "https://www.ngssuper.com.au/articles/news/ngs-response-data-breaches-australia",
+        "https://www.ngssuper.com.au/articles/news/ngs-scholarship-awards-diana-websters-story",
+        "https://www.ngssuper.com.au/articles/news/ngs-scholarship-awards-yvonne-terweeme",
+        "https://www.ngssuper.com.au/articles/news/ngs-super-best-of-the-best-for-value-again",
+        "https://www.ngssuper.com.au/articles/news/ngs-super-fund-exposure-russia-ukraine",
+        "https://www.ngssuper.com.au/articles/news/ngs-super-not-affiliated-with-ngs-crypto-0424",
+        "https://www.ngssuper.com.au/articles/news/ngs-super-offices-temporary-closure",
+        "https://www.ngssuper.com.au/articles/news/ngs-super-strengthens-executive-team",
+        "https://www.ngssuper.com.au/articles/news/ngs-super-wins-best-in-service-quality",
+        "https://www.ngssuper.com.au/articles/news/ngs-wins-money-magazine-best-value-balanced-super",
+        "https://www.ngssuper.com.au/articles/news/retirement-is-so-much-more-than-numbers",
+        "https://www.ngssuper.com.au/articles/news/salary-sacrifice-into-super",
+        "https://www.ngssuper.com.au/articles/news/staying-connected-to-yourself-and-others",
+        "https://www.ngssuper.com.au/articles/news/staying-strong-volatile-market",
+        "https://www.ngssuper.com.au/articles/news/suddenly-single-what-happens-to-your-super",
+        "https://www.ngssuper.com.au/articles/news/super-changes-from-1-july-2024",
+        "https://www.ngssuper.com.au/articles/news/super-made-simple",
+        "https://www.ngssuper.com.au/articles/news/superannuation-guarantee-rate-increases-1-jul-2021",
+        "https://www.ngssuper.com.au/articles/news/superannuation-investment-how-does-it-work",
+        "https://www.ngssuper.com.au/articles/news/superannuation-parental-leave",
+        "https://www.ngssuper.com.au/articles/news/superannuation-tax-changes-%E2%80%93-what-does-it-mean",
+        "https://www.ngssuper.com.au/articles/news/transfer-super-to-spouse",
+        "https://www.ngssuper.com.au/articles/news/transforming-futures",
+        "https://www.ngssuper.com.au/articles/news/womens-financial-toolkit"
+      ],
+      "description": "News articles with publication date, hero image, and article body content",
+      "blocks": []
+    },
+    {
+      "name": "investment-option",
+      "urls": [
+        "https://www.ngssuper.com.au/investments/specific-investment-options/australian-shares",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/balanced",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/cash-and-term-deposits",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/defensive",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/diversified",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/diversified-bonds",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/diversified-mysuper",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/high-growth",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/indexed-growth",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/infrastructure",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/international-shares",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/property",
+        "https://www.ngssuper.com.au/investments/specific-investment-options/retire-plus"
+      ],
+      "description": "Individual investment option detail pages showing fund performance, asset allocation, and risk profile",
+      "blocks": []
+    },
+    {
+      "name": "content-page",
+      "urls": [
+        "https://www.ngssuper.com.au/about-us/awards-and-ratings",
+        "https://www.ngssuper.com.au/about-us/careers-at-ngs",
+        "https://www.ngssuper.com.au/about-us/cyber-safety",
+        "https://www.ngssuper.com.au/about-us/fund-information",
+        "https://www.ngssuper.com.au/about-us/fund-information/annual-members-meeting",
+        "https://www.ngssuper.com.au/about-us/fund-information/annual-reports",
+        "https://www.ngssuper.com.au/about-us/fund-information/general-advice-warning",
+        "https://www.ngssuper.com.au/about-us/fund-information/member-outcomes-assessment",
+        "https://www.ngssuper.com.au/about-us/fund-information/privacy-statement",
+        "https://www.ngssuper.com.au/about-us/fund-information/proxy-voting",
+        "https://www.ngssuper.com.au/about-us/fund-information/significant-event-notices",
+        "https://www.ngssuper.com.au/about-us/our-team",
+        "https://www.ngssuper.com.au/about-us/reconciliation",
+        "https://www.ngssuper.com.au/about-us/service-promise",
+        "https://www.ngssuper.com.au/advice-and-education/advice-services",
+        "https://www.ngssuper.com.au/advice-and-education/advice-services/meet-our-financial-planners",
+        "https://www.ngssuper.com.au/advice-and-education/advice-services/resources-for-external-financial-planners",
+        "https://www.ngssuper.com.au/advice-and-education/advice-services/super-specialist",
+        "https://www.ngssuper.com.au/advice-and-education/advice-services/what-to-expect-from-financial-planning",
+        "https://www.ngssuper.com.au/advice-and-education/education-support",
+        "https://www.ngssuper.com.au/advice-and-education/education-support/calculators",
+        "https://www.ngssuper.com.au/advice-and-education/education-support/seminars-and-webinars",
+        "https://www.ngssuper.com.au/for-employers/employer-enquiry-form",
+        "https://www.ngssuper.com.au/for-employers/employer-resources",
+        "https://www.ngssuper.com.au/for-employers/employer-resources/customer-relationship-managers",
+        "https://www.ngssuper.com.au/for-employers/employer-resources/employer-forms-and-guides",
+        "https://www.ngssuper.com.au/for-employers/employer-resources/fact-sheets",
+        "https://www.ngssuper.com.au/for-employers/employer-resources/ngs-quicksuper",
+        "https://www.ngssuper.com.au/for-employers/supporting-your-employees",
+        "https://www.ngssuper.com.au/for-employers/supporting-your-employees/employer-super-obligations",
+        "https://www.ngssuper.com.au/for-employers/supporting-your-employees/payday-super",
+        "https://www.ngssuper.com.au/for-employers/supporting-your-employees/why-choose-ngs-super",
+        "https://www.ngssuper.com.au/for-employers/supporting-your-employees/workplace-visit-booking-form",
+        "https://www.ngssuper.com.au/for-employers/supporting-your-employees/workplace-visits",
+        "https://www.ngssuper.com.au/forms-and-resources/complaints",
+        "https://www.ngssuper.com.au/forms-and-resources/election-to-maintain-cover",
+        "https://www.ngssuper.com.au/forms-and-resources/faqs",
+        "https://www.ngssuper.com.au/forms-and-resources/financial-advice-booking-form",
+        "https://www.ngssuper.com.au/forms-and-resources/financial-advice-enquiry-form",
+        "https://www.ngssuper.com.au/forms-and-resources/insurance-reinstatement",
+        "https://www.ngssuper.com.au/forms-and-resources/publications-order-form",
+        "https://www.ngssuper.com.au/forms-and-resources/target-market-determinations",
+        "https://www.ngssuper.com.au/forms/super/add-money-to-my-super",
+        "https://www.ngssuper.com.au/insurance/income-protection-insurance",
+        "https://www.ngssuper.com.au/insurance/insurance-claim",
+        "https://www.ngssuper.com.au/insurance/life-disability-cover",
+        "https://www.ngssuper.com.au/insurance/tools-and-resources",
+        "https://www.ngssuper.com.au/investments/investment-performance",
+        "https://www.ngssuper.com.au/investments/investment-performance/online-investment-list",
+        "https://www.ngssuper.com.au/investments/manage-your-investments/how-ngs-manages-investments",
+        "https://www.ngssuper.com.au/investments/manage-your-investments/how-ngs-manages-investments/active-ownership-and-engagement",
+        "https://www.ngssuper.com.au/investments/manage-your-investments/how-ngs-manages-investments/investment-managers",
+        "https://www.ngssuper.com.au/investments/manage-your-investments/how-ngs-manages-investments/policies-and-principles",
+        "https://www.ngssuper.com.au/investments/manage-your-investments/portfolio-holdings-disclosure",
+        "https://www.ngssuper.com.au/investments/monthly-update",
+        "https://www.ngssuper.com.au/investments/specific-investment-options",
+        "https://www.ngssuper.com.au/investments/tools-and-resources",
+        "https://www.ngssuper.com.au/investments/unit-prices",
+        "https://www.ngssuper.com.au/investments/your-investment-returns",
+        "https://www.ngssuper.com.au/investments/your-investment-returns/superannuation-product-dashboard",
+        "https://www.ngssuper.com.au/retirement/manage-my-retirement",
+        "https://www.ngssuper.com.au/retirement/manage-my-retirement/income-account-payment-options",
+        "https://www.ngssuper.com.au/retirement/manage-my-retirement/working-after-retirement",
+        "https://www.ngssuper.com.au/retirement/preparing-for-retirement",
+        "https://www.ngssuper.com.au/retirement/preparing-for-retirement/how-much-will-i-need",
+        "https://www.ngssuper.com.au/retirement/preparing-for-retirement/how-much-will-i-need/quiz",
+        "https://www.ngssuper.com.au/retirement/preparing-for-retirement/transition-to-retirement",
+        "https://www.ngssuper.com.au/retirement/preparing-for-retirement/understanding-risk-and-your-retirement",
+        "https://www.ngssuper.com.au/retirement/preparing-for-retirement/why-retire-with-ngs",
+        "https://www.ngssuper.com.au/retirement/start-my-retirement",
+        "https://www.ngssuper.com.au/retirement/start-my-retirement/accessing-your-super-in-retirement",
+        "https://www.ngssuper.com.au/retirement/start-my-retirement/easy-default",
+        "https://www.ngssuper.com.au/retirement/start-my-retirement/income-account",
+        "https://www.ngssuper.com.au/retirement/start-my-retirement/retirement-bonus",
+        "https://www.ngssuper.com.au/retirement/start-my-retirement/super-age-pension",
+        "https://www.ngssuper.com.au/retirement/tools-and-resources",
+        "https://www.ngssuper.com.au/super/compare-super",
+        "https://www.ngssuper.com.au/super/grow-my-super",
+        "https://www.ngssuper.com.au/super/grow-my-super/after-tax-contributions",
+        "https://www.ngssuper.com.au/super/grow-my-super/boost-your-partners-super",
+        "https://www.ngssuper.com.au/super/grow-my-super/claim-a-tax-deduction",
+        "https://www.ngssuper.com.au/super/grow-my-super/downsizer-contributions",
+        "https://www.ngssuper.com.au/super/grow-my-super/salary-sacrifice",
+        "https://www.ngssuper.com.au/super/learn-about-super",
+        "https://www.ngssuper.com.au/super/learn-about-super/fees-and-cost",
+        "https://www.ngssuper.com.au/super/learn-about-super/how-your-super-is-taxed",
+        "https://www.ngssuper.com.au/super/learn-about-super/teachers-super-fund",
+        "https://www.ngssuper.com.au/super/manage-my-super",
+        "https://www.ngssuper.com.au/super/manage-my-super/accessing-your-super",
+        "https://www.ngssuper.com.au/super/manage-my-super/consolidate-super",
+        "https://www.ngssuper.com.au/super/manage-my-super/first-home-super-saver-scheme",
+        "https://www.ngssuper.com.au/super/manage-my-super/nominating-beneficiaries",
+        "https://www.ngssuper.com.au/super/manage-my-super/personalised-service",
+        "https://www.ngssuper.com.au/super/tools-and-resources"
+      ],
+      "description": "General content pages within sections (about, super, retirement, insurance, employers, forms) with informational content",
+      "blocks": []
+    },
+    {
+      "name": "member-portal",
+      "urls": [
+        "https://www.ngssuper.com.au/employer-join",
+        "https://www.ngssuper.com.au/join",
+        "https://www.ngssuper.com.au/login",
+        "https://www.ngssuper.com.au/member-join",
+        "https://www.ngssuper.com.au/ngsmemberonline",
+        "https://www.ngssuper.com.au/ngsmemberonline/memberonline"
+      ],
+      "description": "Member login, join, and portal access pages",
+      "blocks": []
+    },
+    {
+      "name": "interactive-tool",
+      "urls": [
+        "https://www.ngssuper.com.au/how-much-is-enough-deprecated",
+        "https://www.ngssuper.com.au/super-calculator",
+        "https://www.ngssuper.com.au/super-quiz"
+      ],
+      "description": "Interactive calculator and quiz pages with embedded tools",
+      "blocks": []
+    },
+    {
+      "name": "contact-page",
+      "urls": [
+        "https://www.ngssuper.com.au/contact-us",
+        "https://www.ngssuper.com.au/contactus"
+      ],
+      "description": "Contact us pages with forms and office information",
+      "blocks": []
+    }
+  ]
+}

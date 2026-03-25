@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "url": "https://www.ngssuper.com.au/",
+  "path": "index",
+  "timestamp": "2026-03-23T14:48:01.681Z",
+  "title": "NGS Super: High-performing Industry Super Fund For Education",
+  "template": "homepage",
+  "blocks": [
+    "hero-homepage",
+    "columns",
+    "columns",
+    "cards-icon-links",
+    "hero-feature",
+    "cards"
+  ]
+}

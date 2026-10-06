@@ -1,0 +1,28 @@
+{
+  "pageName": "content-en-in",
+  "originalUrl": "https://www.deptagency.com/en-in/",
+  "migratedUrl": "http://localhost:3000/content/en-in.html",
+  "migratedPath": "/content/en-in",
+  "created": "2026-05-25T15:49:24Z",
+  "iterations": [],
+  "status": {
+    "migrated_collection_complete": true,
+    "original_collection_complete": true,
+    "analysis_complete": true
+  },
+  "collection_metadata": {
+    "migrated": {
+      "elements": 79,
+      "timestamp": "2026-05-25T16:55:07.254Z"
+    },
+    "original": {
+      "elements": 49,
+      "timestamp": "2026-05-25T16:50:24Z"
+    }
+  },
+  "analysis": {
+    "similarity": 0.4,
+    "grade": "Poor",
+    "verified_differences": 8
+  }
+}

@@ -1,0 +1,113 @@
+/*
+ * Tata AIA brand design tokens.
+ * Values taken from the computed styles / :root palette of
+ * https://www.tataaia.com/life-insurance-plans/term-insurance.html
+ * Font: Inter (self-hosted, from Google Fonts) - see fonts.css + styles.css fallback.
+ */
+
+:root {
+  /* brand palette (live site :root custom properties) */
+  --color-brand-blue: #0073bb; /* --primary-blue */
+  --color-brand-blue-light: #078bdd; /* --primary-blue-light */
+  --color-brand-blue-dark: #0065a5; /* --primary-blue-dark */
+  --color-brand-blue-tone-dark: #005c95; /* --blue-tone-dark */
+  --color-brand-blue-secondary: #4197d3; /* --secondary-blue */
+  --color-brand-blue-tint-1: #b3d5eb; /* --blue-tone-light-2 */
+  --color-brand-blue-tint-2: #e0eef7; /* --blue-tone-light-3 */
+  --color-brand-blue-tint-3: #ecf5fa; /* --blue-tone-light-4 */
+  --color-brand-red: #d62049; /* --primary-red */
+  --color-brand-red-light: #e1365b; /* --primary-red-light */
+  --color-brand-red-dark: #bc133d; /* --primary-red-dark */
+  --color-brand-red-tint-1: #f3bcc8; /* --red-tone-light-2 */
+  --color-brand-red-tint-2: #fae4e9; /* --red-tone-light-3 */
+  --color-neutral-black: #333; /* --neutral-black */
+  --color-grey-dark: #58595b; /* --grey-dark */
+  --color-grey-light: #a7a9ac; /* --grey-light */
+  --color-moon-dust: #e6e7e8; /* --moon-dust */
+  --color-grey-bg: #f6f6f6; /* --grey-tone-light-5 */
+  --color-light-blue-bg: #f2f7fb; /* --secondary-tone-light-2 (light-blue bands) */
+  --color-white: #fff;
+  --color-success: #27ae60;
+  --color-error: #f64a4a;
+
+  /* gradients (.gradient-text on the live site) */
+  --heading-gradient: linear-gradient(90deg, var(--color-brand-blue) 0, var(--color-brand-red) 100%);
+  --button-gradient: linear-gradient(90deg, var(--color-brand-blue) 0, var(--color-brand-red) 100%);
+
+  /* semantic colours */
+  --background-color: var(--color-white);
+  --text-color: var(--color-neutral-black);
+  --text-color-muted: var(--color-grey-dark);
+  --heading-color: var(--color-neutral-black);
+  --link-color: var(--color-brand-blue);
+  --link-hover-color: var(--color-brand-blue-dark);
+  --color-border: var(--color-grey-light);
+  --color-border-light: var(--color-moon-dust);
+
+  /* typography */
+  --body-font-family: inter, inter-fallback, sans-serif;
+  --heading-font-family: var(--body-font-family);
+  --letter-spacing: -0.01em;
+  --body-font-size-xs: 12px;
+  --body-font-size-s: 14px;
+  --body-font-size-m: 16px;
+  --body-font-size-l: 18px;
+  --body-line-height: 1.5;
+  --heading-line-height: 1.25;
+
+  /* heading sizes (mobile) */
+  --heading-size-xxl: 20px;
+  --heading-size-xl: 20px;
+  --heading-size-l: 18px;
+  --heading-size-m: 16px;
+  --heading-size-s: 16px;
+  --heading-size-xs: 14px;
+
+  /* shape and depth */
+  --radius-s: 5px;
+  --radius-m: 8px;
+  --radius-l: 12px;
+  --radius-pill: 27px;
+  --button-border-radius: var(--radius-m);
+  --button-padding: 16px 24px;
+  --shadow-card: 0 4px 8px -2px rgb(51 51 51 / 12%);
+  --shadow-nav: 3px 6px 14px 0 rgb(0 115 187 / 10%);
+  --transition-base: 0.2s ease;
+
+  /* layout */
+  --nav-height: 95px;
+  --content-max-width: 1206px;
+  --section-padding: 20px 16px;
+
+  /* legacy aliases still referenced by some blocks */
+  --heading-font-size-xxl: var(--heading-size-xxl);
+  --heading-font-size-xl: var(--heading-size-xl);
+  --heading-font-size-l: var(--heading-size-l);
+  --heading-font-size-m: var(--heading-size-m);
+  --heading-font-size-s: var(--heading-size-s);
+  --max-content-width: var(--content-max-width);
+  --color-primary: var(--color-brand-blue);
+  --color-orange: var(--color-brand-red);
+  --color-orange-dark: var(--color-brand-red-dark);
+  --color-gradient: var(--heading-gradient);
+  --color-dark: var(--color-neutral-black);
+  --color-dark-grey: var(--color-grey-dark);
+  --color-medium-grey: var(--color-grey-light);
+  --color-light-grey: var(--color-moon-dust);
+  --color-light-gray: var(--color-moon-dust);
+  --light-color: var(--color-light-blue-bg);
+  --dark-color: var(--color-grey-dark);
+  --overlay-background-color: var(--color-light-blue-bg);
+}
+
+@media (width >= 900px) {
+  :root {
+    --heading-size-xxl: 28px;
+    --heading-size-xl: 32px;
+    --heading-size-l: 24px;
+    --heading-size-m: 20px;
+    --heading-size-s: 18px;
+    --heading-size-xs: 16px;
+    --section-padding: 32px 24px;
+  }
+}

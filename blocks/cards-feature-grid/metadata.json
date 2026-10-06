@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-feature-grid",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "feature-grid",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "each row = item: optional marker cell (icon image or short number), rich text cell (heading + paragraph); 2-column divided grid",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 3,
+    "lastUsed": "2026-10-01T15:33:57.472Z"
+  }
+}

@@ -1,0 +1,189 @@
+/*
+ * Columns Image Table: rounded two-tone panel - light chart side + brand-blue curved side
+ * holding the section title/intro (default content right before the block) and the table.
+ * The section grid lets the section's default content sit inside the blue side without
+ * moving any authored content.
+ */
+.columns-image-table .columns-image-table-row {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.columns-image-table .columns-image-table-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.columns-image-table .columns-image-table-data > :first-child {
+  margin-top: 0;
+}
+
+.columns-image-table .columns-image-table-scroller {
+  overflow-x: auto;
+  border-radius: var(--radius-m);
+  box-shadow: 0 4px 12px -4px rgb(0 40 80 / 35%);
+}
+
+.columns-image-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font: inherit; /* tables do not inherit font in quirks mode */
+  color: var(--color-neutral-black);
+  font-size: var(--body-font-size-xs);
+  line-height: 16px;
+}
+
+.columns-image-table th,
+.columns-image-table td {
+  padding: 8px 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.columns-image-table th {
+  background-color: var(--color-brand-blue-tone-dark);
+  color: var(--color-white);
+  font-weight: 600;
+}
+
+.columns-image-table td {
+  border-top: 1px solid var(--color-brand-blue-tint-1);
+  background-color: var(--color-brand-blue-tint-3);
+}
+
+.columns-image-table th + th {
+  border-left: 1px solid rgb(255 255 255 / 25%);
+}
+
+.columns-image-table td + td {
+  border-left: 1px solid var(--color-brand-blue-tint-1);
+}
+
+.columns-image-table tbody tr:nth-child(even) td {
+  background-color: var(--color-brand-blue-tint-2);
+}
+
+/* ---- two-tone panel (section = grid: title + data on the blue side, chart on the light side) */
+main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto auto auto;
+  isolation: isolate;
+}
+
+/* light outer panel */
+main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child)::after {
+  content: '';
+  grid-area: 1 / 1 / 4 / 2;
+  z-index: -2;
+  border: 1px solid var(--color-brand-blue-tint-2);
+  border-radius: var(--radius-l);
+  background-image: linear-gradient(160deg, var(--color-white) 0%, var(--color-brand-blue-tint-3) 100%);
+}
+
+/* brand-blue side */
+main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child)::before {
+  content: '';
+  grid-area: 1 / 1 / 3 / 2;
+  z-index: -1;
+  border-radius: var(--radius-l) var(--radius-l) 0 0;
+  background-image: linear-gradient(135deg, var(--color-brand-blue-secondary) 0%, var(--color-brand-blue) 100%);
+}
+
+main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) > div {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+}
+
+main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) > .default-content-wrapper {
+  grid-area: 1 / 1;
+  box-sizing: border-box;
+  padding: 24px 16px 16px;
+  color: var(--color-white);
+}
+
+main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) > .default-content-wrapper > h2 {
+  margin: 0 auto 12px;
+  background-image: none;
+  color: var(--color-white);
+  -webkit-text-fill-color: var(--color-white);
+  font-size: var(--heading-size-l);
+  text-align: center;
+}
+
+main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) > .default-content-wrapper > p {
+  color: var(--color-white);
+  font-size: var(--body-font-size-xs);
+  line-height: 18px;
+  text-align: center;
+}
+
+main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) :is(.columns-image-table-wrapper, .columns-image-table, .columns-image-table-row) {
+  display: contents;
+}
+
+main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) .columns-image-table-data {
+  grid-area: 2 / 1;
+  box-sizing: border-box;
+  padding: 0 16px 24px;
+}
+
+main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) .columns-image-table-media {
+  grid-area: 3 / 1;
+  box-sizing: border-box;
+  padding: 24px 16px;
+}
+
+@media (width >= 900px) {
+  .columns-image-table .columns-image-table-row {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 32px;
+  }
+
+  .columns-image-table .columns-image-table-row > * {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-rows: auto 1fr;
+    padding-inline: max(24px, calc((100% - var(--content-max-width)) / 2));
+  }
+
+  main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child)::after {
+    grid-area: 1 / 1 / 3 / 3;
+    border-radius: 16px;
+  }
+
+  /* curved left edge bulging into the chart side */
+  main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child)::before {
+    grid-area: 1 / 2 / 3 / 3;
+    margin-left: -36px;
+    border-radius: 96px 16px 16px 96px / 50% 16px 16px 50%;
+  }
+
+  main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) > .default-content-wrapper {
+    grid-area: 1 / 2;
+    padding: 36px 48px 16px 72px;
+  }
+
+  main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) > .default-content-wrapper > h2 {
+    font-size: var(--heading-size-l);
+  }
+
+  main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) .columns-image-table-data {
+    grid-area: 2 / 2;
+    padding: 8px 64px 40px 88px;
+  }
+
+  main > .section.columns-image-table-container:has(> .default-content-wrapper + .columns-image-table-wrapper:last-child) .columns-image-table-media {
+    grid-area: 1 / 1 / 3 / 2;
+    align-self: center;
+    padding: 32px 72px 32px 32px;
+  }
+}

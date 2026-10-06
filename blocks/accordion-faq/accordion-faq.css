@@ -1,0 +1,55 @@
+.accordion-faq details {
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+
+.accordion-faq details summary {
+  padding: 16px 20px;
+  font-weight: 600;
+  font-size: var(--body-font-size-m);
+  color: var(--color-dark-grey);
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background-color 0.2s;
+}
+
+.accordion-faq details summary::-webkit-details-marker {
+  display: none;
+}
+
+.accordion-faq details summary::after {
+  content: '+';
+  font-size: 20px;
+  font-weight: 300;
+  color: var(--color-orange);
+  transition: transform 0.2s;
+}
+
+.accordion-faq details[open] summary::after {
+  content: '−';
+}
+
+.accordion-faq details[open] summary {
+  background-color: var(--color-light-grey);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.accordion-faq details .accordion-faq-body {
+  padding: 16px 20px;
+}
+
+.accordion-faq details .accordion-faq-body p {
+  margin: 0;
+  font-size: var(--body-font-size-s);
+  line-height: 1.7;
+  color: var(--color-medium-grey);
+}
+
+.accordion-faq details .accordion-faq-body a {
+  color: var(--color-orange);
+}

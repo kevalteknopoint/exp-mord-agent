@@ -1,0 +1,20 @@
+## Hero
+
+This block is used to capture users’ attention with a prominent image, a headline, and an optional call-to-action, typically placed at the top of a page.
+Implementation
+This block’s table has 1 column and 3 rows, with the first row containing only the block name and optional variants. The single cell in the 2nd row should contain:
+Background Image (optional)
+The single cell in the 3rd row may contains the following elements as text or richtext
+Title (optional) - styled as a Heading.
+Subheading (optional)
+Call-to-Action (optional) - text with a link.
+There must never be more than 3 rows.
+When rendered, CSS and JavaScript will display this block as a large banner, combining the background asset with text and an optional button.
+When to use
+When you need a strong visual statement at the top of a page.
+To highlight a key message, offer, or brand identity.
+When you want a clear, high-impact call-to-action above the fold.
+When to consider another block
+If the layout requires more detailed content sections rather than a single headline.
+When page space is limited, and a large banner would distract from other priorities.
+If you need multiple content elements or a more flexible layout below the main image.

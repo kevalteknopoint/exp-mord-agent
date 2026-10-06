@@ -1,0 +1,22 @@
+## Carousel
+
+This block is used to display multiple images or slides in a rotating or swipable format, allowing users to navigate through a series of visual elements with optional text content.
+Implementation
+This container block has no properties itself as it does not define a model with properties, but can have zero to N children represented as multiple rows.
+The first row of the table containing only the block name and optional variants.
+Each subsequent row represents a single slide and can include:
+Type (optional) – a cell identifying the row as a slide (carousel-slide). Can be omitted; the row is still treated as a slide either way.
+Image (mandatory) - the image to be displayed. The model fields media_image and media_imageAlt are used here.
+Text content (optional) - this cell can contain multiple grouped element rendered as rich text. The model field content_text is used here.
+Title (optional) – styled as a Heading.
+Description or Additional Content (optional)  - description text
+Call-to-Action (optional) – linked text at the bottom of the cell.
+When rendered, CSS and JavaScript transform each row into a slide, providing navigation controls (e.g., arrows or dots) for users to move between them.
+When to use
+When you have multiple featured images or content pieces you want to showcase in a limited space.
+To present a dynamic gallery or promotional highlights.
+When you want to encourage user interaction by clicking or swiping through slides.
+When to consider another block
+If you only have one piece of featured content, making rotation unnecessary.
+When all content should remain visible without user interaction or scrolling.
+If performance or mobile constraints make slides less user-friendly.

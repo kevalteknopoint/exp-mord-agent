@@ -1,0 +1,16 @@
+/* Block: cards-article -- extracted from source computed styles (Your Journey section) */
+/* Card link (.m9-content-card) */
+.card {
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 6px 0px;
+  overflow: hidden;
+}
+/* Grid: 4 cols on large, 24px gutter (col padding 0 12px + row margin 0 -12px) */
+/* Image: object-fit cover, aspect-ratio ~1.785 (16:9), height 158 at 282 width */
+.card img { object-fit: cover; width: 100%; aspect-ratio: 16 / 9; }
+/* Body */
+.card-body { padding: 16px 44px 60px 24px; }
+/* h4 */
+.card h4 { font-size: 20px; font-weight: 400; font-family: "Open Sans", sans-serif; line-height: 30px; color: rgb(0,0,0); margin: 0; }
+/* title-sub: flex space-between (title + arrow icon) */

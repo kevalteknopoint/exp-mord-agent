@@ -1,0 +1,140 @@
+{
+  "url": "https://www.deptagency.com/en-in/",
+  "pageTitle": "DEPT® | Growth Invention | Tech & Marketing",
+  "analysisDate": "2026-05-25",
+  "sections": [
+    {
+      "sectionNumber": 1,
+      "style": "light/white background with embedded dark video",
+      "overview": "Hero video intro with large typographic heading and embedded YouTube player",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "description": "Large bold heading 'THE GROWTH INVENTION COMPANY' with mixed serif/sans-serif typography, a 'View all work' outline CTA button, and an embedded YouTube video (DEPT Manifesto 2026) with custom play/pause/mute controls and poster image"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 2,
+      "style": "light/white background",
+      "overview": "Brand statement text",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "description": "Large left-aligned statement paragraph: 'Invention at the intersection of marketing and technology. Home to the most ambitious brands.'"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 3,
+      "style": "light/white background",
+      "overview": "Adobe partner feature with image and descriptive copy",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "description": "Side-by-side layout with image on left (Adobe partner visual), title 'Platinum Adobe Solution Partner', multi-paragraph descriptive text about 18+ years of Adobe experience and Digital Strategic Innovation Partner of the Year 2025, and a 'LEARN ABOUT OUR ADOBE PRACTICE' outline CTA button"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 4,
+      "style": "light/white background",
+      "overview": "Work showcase with masonry grid of case study cards",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "description": "Large bold heading 'WORK' with 'View all work' outline CTA button"
+        },
+        {
+          "sequenceNumber": 2,
+          "description": "Masonry grid of 5 case study cards with varying aspect ratios (3:2, square, 7:4). Each card has video or image media, hover overlay with description text, brand name (NVIDIA, HDFC Ltd., Vijay Sales, Google, eBay), and category tags in parentheses. Cards link to individual case study pages."
+        }
+      ]
+    },
+    {
+      "sectionNumber": 5,
+      "style": "light/white background",
+      "overview": "Solutions section with numbered interactive talking points",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "description": "Text divider with 'Solutions' label"
+        },
+        {
+          "sequenceNumber": 2,
+          "description": "Large bold heading 'HOW WE INVENT GROWTH' with mixed serif/sans-serif typography"
+        },
+        {
+          "sequenceNumber": 3,
+          "description": "Numbered list of 4 interactive solutions (01-04): 'Enhance customer experience', 'Drive commerce growth', 'Scale technology and data', 'Transform with AI'. Each item is a link with number, title text, hover-revealed italic description and associated image, plus an arrow icon."
+        }
+      ]
+    },
+    {
+      "sectionNumber": 6,
+      "style": "light/white background",
+      "overview": "Growth Invention Framework feature with image and copy",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "description": "Side-by-side layout with image (Growth Invention Framework diagram), bold title 'GROWTH INVENTION FRAMEWORK', descriptive paragraph about combining marketing and technology experience with AI and data-driven insights, and a filled 'FIND OUT MORE' CTA button"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 7,
+      "style": "light/white background",
+      "overview": "Culture highlights carousel",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "description": "Horizontally scrolling carousel with 4 slides and navigation dots. Each slide contains: large bold title text overlay (B CORP Certified, Award-winning Agency, AI Native, Doing the Hard Work), a background/feature image, and brief statistics text at bottom (e.g., '100% climate neutral, 37% renewable energy consumption')."
+        }
+      ]
+    },
+    {
+      "sectionNumber": 8,
+      "style": "light/white background",
+      "overview": "Insights listing with article/whitepaper cards",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "description": "Large heading 'On Our Mind' with 'View all insights' outline CTA button"
+        },
+        {
+          "sequenceNumber": 2,
+          "description": "Grid of 4 insight cards, each with: featured image, type icon+label (Whitepaper or Insight), category tags in parentheses, and article title. Cards link to respective content pages."
+        }
+      ]
+    }
+  ],
+  "excludedElements": [
+    "Header/Navigation (auto-populated)",
+    "Footer (auto-populated)",
+    "Cookie banners and popups",
+    "Tracking pixels and analytics scripts"
+  ],
+  "blockInventory": {
+    "localBlocks": [
+      "accordion", "accordion-faq", "accordion-seo",
+      "cards", "cards-banner", "cards-icon-links", "cards-product", "cards-quicklinks", "cards-video",
+      "carousel", "carousel-hero", "carousel-stories", "carousel-testimonial",
+      "columns", "columns-locator", "columns-rates", "columns-stats",
+      "embed", "footer", "form", "fragment", "gallery",
+      "header", "hero", "hero-feature", "hero-homepage",
+      "modal", "quote", "search", "table", "tabs", "tabs-brands", "video"
+    ],
+    "blockCollectionAvailable": [
+      "hero - Large heading, text, buttons for page intro",
+      "cards - Grid of items with images/text",
+      "columns - Side-by-side content layout",
+      "accordion - Expandable Q&A sections",
+      "tabs - Switchable content panels",
+      "carousel - Rotating image/content displays",
+      "embed - External content embeddings",
+      "video - Video playback",
+      "search - Search functionality",
+      "table - Data tables"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+/* Block: cards-product -- CSS extracted from source computed styles (dulux.in) */
+/* DO NOT replace these values with generic defaults. */
+
+/* Grid: 4 columns (.col-l-3 = 25%), wrapper padding 0 12px => 24px gap, container margin 0 -12px */
+.cards-product {
+  color: rgb(51, 51, 51);
+}
+
+/* Card (.m9-content-card) */
+.cards-product-card {
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 6px 0px;
+  padding: 0;
+  margin: 0 0 10px;
+  width: 282px; /* at ~1224px content width, 4-up */
+}
+
+/* Image: 282x158 => aspect 16:9 (1.785), cover */
+.cards-product img {
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  border-radius: 0;
+}
+
+/* Title h4 */
+.cards-product h4 {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  line-height: 30px;
+  color: rgb(0, 0, 0);
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+/* Card content inset ~24px (title x=144 vs card x=120) */
+
+/* Link */
+.cards-product a {
+  color: rgb(102, 102, 102);
+  text-decoration: none;
+}
+
+/* Arrow button: 44x44, bg rgb(244,244,244), green arrow, bottom-right */
+.cards-product-arrow {
+  width: 44px;
+  height: 44px;
+  background-color: rgb(244, 244, 244);
+}

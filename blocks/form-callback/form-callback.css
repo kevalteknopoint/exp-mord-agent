@@ -1,0 +1,296 @@
+/* Form Callback: inline lead-capture bar on a blue -> red gradient */
+.form-callback {
+  --form-callback-tick: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='8' r='8' fill='%230073bb'/%3E%3Cpath d='M4.6 8.2l2.2 2.2 4.6-4.7' fill='none' stroke='%23fff' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+
+  box-sizing: border-box;
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 20px 16px;
+  border-radius: var(--radius-l);
+  background-image: var(--button-gradient);
+  color: var(--color-white);
+}
+
+.form-callback [hidden] {
+  display: none;
+}
+
+.form-callback .form-callback-intro > * {
+  margin: 0 0 12px;
+  color: inherit;
+}
+
+.form-callback .form-callback-success > * {
+  margin: 0;
+  color: inherit;
+  text-align: center;
+}
+
+.form-callback .form-callback-form {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  align-items: end;
+}
+
+.form-callback .form-callback-form[hidden],
+.form-callback .form-callback-success[hidden] {
+  display: none;
+}
+
+.form-callback .form-callback-fields {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+.form-callback .form-callback-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 0;
+}
+
+.form-callback .form-callback-field > label,
+.form-callback .form-callback-field legend {
+  color: var(--color-white);
+  font-size: var(--body-font-size-s);
+  font-weight: 600;
+  line-height: 18px;
+}
+
+.form-callback .form-callback-field fieldset {
+  display: flex;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.form-callback .form-callback-field legend {
+  margin-bottom: 6px;
+  padding: 0;
+}
+
+/* NRI segmented Yes / No */
+.form-callback .form-callback-nri label {
+  position: relative;
+  flex: 1 1 0;
+  cursor: pointer;
+}
+
+.form-callback .form-callback-nri input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.form-callback .form-callback-nri span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  box-sizing: border-box;
+  min-width: 80px;
+  height: 50px;
+  padding: 0 16px;
+  border: 1px solid var(--color-border-light);
+  background-color: rgb(255 255 255 / 10%);
+  color: var(--color-border-light);
+  font-size: var(--body-font-size-s);
+  font-weight: 700;
+  text-align: center;
+  transition: background-color var(--transition-base), color var(--transition-base);
+}
+
+.form-callback .form-callback-nri label:first-of-type span {
+  border-right-width: 0;
+  border-radius: var(--radius-m) 0 0 var(--radius-m);
+}
+
+.form-callback .form-callback-nri label:last-of-type span {
+  border-left-width: 0;
+  border-radius: 0 var(--radius-m) var(--radius-m) 0;
+}
+
+.form-callback .form-callback-nri input:checked + span {
+  position: relative;
+  z-index: 1;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-m);
+  background-color: var(--color-white);
+  box-shadow: 0 0 8px rgb(0 0 0 / 16%);
+  color: var(--color-brand-blue);
+}
+
+.form-callback .form-callback-nri input:checked + span::before {
+  content: '';
+  flex: 0 0 16px;
+  height: 16px;
+  background: var(--form-callback-tick) center / contain no-repeat;
+}
+
+.form-callback .form-callback-nri input:focus-visible + span {
+  outline: 2px solid var(--color-white);
+  outline-offset: 2px;
+}
+
+/* translucent text inputs */
+.form-callback .form-callback-field input[type='text'],
+.form-callback .form-callback-field input[type='tel'] {
+  width: 100%;
+  box-sizing: border-box;
+  height: 50px;
+  padding: 12px 16px;
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-m);
+  background-color: rgb(255 255 255 / 10%);
+  color: var(--color-white);
+  font: inherit;
+  font-size: var(--body-font-size-s);
+  font-weight: 500;
+}
+
+.form-callback .form-callback-field input::placeholder {
+  color: rgb(255 255 255 / 75%);
+}
+
+.form-callback .form-callback-field input:focus-visible {
+  outline: 2px solid var(--color-white);
+  outline-offset: 1px;
+}
+
+.form-callback .form-callback-mobile-input {
+  position: relative;
+}
+
+.form-callback .form-callback-prefix {
+  position: absolute;
+  top: 50%;
+  left: 16px;
+  padding-right: 12px;
+  border-right: 1px solid rgb(255 255 255 / 70%);
+  color: var(--color-white);
+  font-size: var(--body-font-size-s);
+  line-height: 24px;
+  transform: translateY(-50%);
+}
+
+.form-callback .form-callback-mobile-input input[type='tel'] {
+  padding-left: 66px;
+}
+
+.form-callback .form-callback-field input[aria-invalid='true'] {
+  border-color: var(--color-white);
+  outline: 2px solid var(--color-white);
+}
+
+/* white "Get a call back" button with red text */
+.form-callback .form-callback-submit,
+.form-callback button.form-callback-submit.button {
+  height: 50px;
+  margin: 0;
+  padding: 12px 24px;
+  border: 1px solid var(--color-white);
+  border-radius: var(--radius-m);
+  background-color: var(--color-white);
+  box-shadow: 0 0 10px rgb(214 32 73 / 10%);
+  color: var(--color-brand-red);
+  font-size: var(--body-font-size-s);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.form-callback button.form-callback-submit.button:hover,
+.form-callback button.form-callback-submit.button:focus-visible {
+  border-color: var(--color-white);
+  background-color: var(--color-brand-red-tint-2);
+  color: var(--color-brand-red-dark);
+}
+
+.form-callback .form-callback-submit:disabled {
+  opacity: 0.7;
+  cursor: progress;
+}
+
+.form-callback .form-callback-consent {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  color: var(--color-white);
+  font-size: 11px;
+  line-height: 1.45;
+}
+
+.form-callback .form-callback-consent input[type='checkbox'] {
+  appearance: none;
+  flex: 0 0 18px;
+  width: 18px;
+  height: 18px;
+  margin: 1px 0 0;
+  border: 1.5px solid var(--color-white);
+  border-radius: 3px;
+  background-color: var(--color-white);
+  cursor: pointer;
+}
+
+.form-callback .form-callback-consent input[type='checkbox']:checked {
+  background: var(--color-white) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 8.3l3 3 6-6.3' fill='none' stroke='%230073bb' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center / 14px no-repeat;
+}
+
+.form-callback .form-callback-consent input[type='checkbox']:focus-visible {
+  outline: 2px solid var(--color-white);
+  outline-offset: 2px;
+}
+
+.form-callback .form-callback-consent label > * {
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.form-callback .form-callback-consent a:any-link {
+  color: var(--color-white);
+  text-decoration: underline;
+}
+
+.form-callback .form-callback-status {
+  margin: 0;
+  color: var(--color-white);
+  font-size: var(--body-font-size-s);
+  font-weight: 600;
+}
+
+.form-callback .form-callback-status:empty {
+  display: none;
+}
+
+@media (width >= 600px) {
+  .form-callback {
+    padding: 24px;
+  }
+
+  .form-callback .form-callback-fields {
+    grid-template-columns: auto 1fr 1fr;
+  }
+}
+
+@media (width >= 900px) {
+  .form-callback {
+    padding: 24px 24px 20px;
+  }
+
+  .form-callback .form-callback-form {
+    grid-template-columns: 1fr auto;
+    gap: 16px 24px;
+  }
+
+  .form-callback .form-callback-fields {
+    gap: 24px;
+  }
+
+  .form-callback .form-callback-consent,
+  .form-callback .form-callback-status {
+    grid-column: 1 / -1;
+  }
+}

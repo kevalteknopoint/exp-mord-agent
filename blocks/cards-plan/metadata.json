@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-plan",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "plan-cards",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "each row = card: cell1 rich text (eyebrow, plan name, checklist or description, Know More link, primary CTA link), cell2 fine-print disclaimer",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 2,
+    "lastUsed": "2026-10-01T15:28:43.335Z"
+  }
+}

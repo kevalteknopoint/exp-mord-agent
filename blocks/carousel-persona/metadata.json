@@ -1,0 +1,25 @@
+{
+  "variantName": "carousel-persona",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "persona-slider",
+    "imagePattern": "avatar"
+  },
+  "contentPattern": {
+    "structure": "each row = slide card: cell1 round avatar image, cell2 rich text (heading + paragraph with inline links)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 2,
+    "lastUsed": "2026-10-01T15:30:45.759Z"
+  }
+}

@@ -1,0 +1,193 @@
+/* Cards Plan Links: slider of small soft-gradient plan tiles with progress bar + arrows */
+.cards-plan-links .cards-plan-links-track {
+  list-style: none;
+  margin: 0 -8px;
+  padding: 8px 8px 16px;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: calc((100% - 12px) / 2.25);
+  gap: 12px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: 8px;
+  scrollbar-width: none;
+}
+
+.cards-plan-links .cards-plan-links-track::-webkit-scrollbar {
+  display: none;
+}
+
+.cards-plan-links .cards-plan-links-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  min-height: 132px;
+  padding: 16px 12px 14px;
+  border-radius: var(--radius-l);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 12px rgb(51 51 51 / 10%);
+  overflow: hidden;
+  text-align: center;
+  scroll-snap-align: start;
+  isolation: isolate;
+}
+
+.cards-plan-links .cards-plan-links-card-image {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+}
+
+.cards-plan-links .cards-plan-links-card-image > * {
+  margin: 0;
+  height: 100%;
+}
+
+.cards-plan-links .cards-plan-links-card-image picture,
+.cards-plan-links .cards-plan-links-card-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cards-plan-links .cards-plan-links-card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.cards-plan-links .cards-plan-links-card-body > * {
+  margin: 0 0 8px;
+}
+
+.cards-plan-links .cards-plan-links-card-title {
+  display: flex;
+  flex-direction: column;
+  font-size: var(--body-font-size-s);
+  line-height: 20px;
+  color: var(--color-neutral-black);
+}
+
+.cards-plan-links .cards-plan-links-card-eyebrow {
+  font-size: 10px;
+  line-height: 14px;
+  color: var(--color-grey-dark);
+}
+
+.cards-plan-links .cards-plan-links-card-title strong {
+  font-weight: 700;
+}
+
+.cards-plan-links .cards-plan-links-card-body > .cards-plan-links-card-link {
+  margin: auto 0 0;
+  padding-top: 8px;
+}
+
+.cards-plan-links .cards-plan-links-card-link a:any-link {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  color: var(--color-brand-red);
+  font-size: var(--body-font-size-s);
+  font-weight: 700;
+  line-height: 18px;
+  text-decoration: none;
+}
+
+.cards-plan-links .cards-plan-links-card-link a:hover,
+.cards-plan-links .cards-plan-links-card-link a:focus-visible {
+  border: 0;
+  background: none;
+  color: var(--color-brand-red-dark);
+  text-decoration: underline;
+}
+
+/* slider controls: centered progress bar, prev/next at the right */
+.cards-plan-links .cards-plan-links-controls {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 16px;
+  margin-top: 8px;
+}
+
+.cards-plan-links .cards-plan-links-controls[hidden] {
+  display: none;
+}
+
+.cards-plan-links .cards-plan-links-progress {
+  grid-column: 2;
+  width: 100px;
+  height: 3px;
+  border-radius: 2px;
+  background: var(--color-border-light);
+  overflow: hidden;
+}
+
+.cards-plan-links .cards-plan-links-progress-bar {
+  display: block;
+  width: 30%;
+  height: 100%;
+  border-radius: 2px;
+  background: var(--color-neutral-black);
+  transition: margin-left 0.2s;
+}
+
+.cards-plan-links .cards-plan-links-nav {
+  grid-column: 3;
+  justify-self: end;
+  display: flex;
+  gap: 8px;
+}
+
+.cards-plan-links .cards-plan-links-nav button {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-s);
+  background: var(--color-white);
+  cursor: pointer;
+  transition: border-color var(--transition-base);
+}
+
+.cards-plan-links .cards-plan-links-nav button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.cards-plan-links .cards-plan-links-nav button:hover:not(:disabled) {
+  border-color: var(--color-brand-blue);
+}
+
+.cards-plan-links .cards-plan-links-nav button::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23333' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 8h10M9 4l4 4-4 4'/%3E%3C/svg%3E") center / 16px no-repeat;
+}
+
+.cards-plan-links .cards-plan-links-nav .cards-plan-links-prev::after {
+  transform: scaleX(-1);
+}
+
+@media (width >= 600px) {
+  .cards-plan-links .cards-plan-links-track {
+    grid-auto-columns: calc((100% - 48px) / 4);
+    gap: 16px;
+  }
+}
+
+@media (width >= 900px) {
+  .cards-plan-links .cards-plan-links-track {
+    grid-auto-columns: calc((100% - 80px) / 5);
+    gap: 20px;
+  }
+}

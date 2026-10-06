@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-solutions",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-05-25T15:27:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.deptagency.com/en-in/",
+    "originPage": "DEPT Agency India homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "solutions-list",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "number + title + description + image + link",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "numbered solutions or services lists",
+      "interactive feature lists with hover images",
+      "capability showcase with numbering"
+    ],
+    "notSuitableFor": [
+      "product catalog cards",
+      "article/blog cards",
+      "simple image grid cards"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en-in/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-25T15:27:00.000Z"
+  }
+}

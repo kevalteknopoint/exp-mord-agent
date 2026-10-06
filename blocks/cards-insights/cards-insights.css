@@ -1,0 +1,118 @@
+/* Block: cards-insights -- 4-column insight/article card grid */
+
+/* Card grid layout */
+.cards-insights > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px 20px;
+}
+
+@media (width >= 600px) {
+  .cards-insights > ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (width >= 900px) {
+  .cards-insights > ul {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 72px 20px;
+  }
+}
+
+/* Card item */
+.cards-insights > ul > li {
+  background-color: var(--background-color);
+  border: none;
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
+/* Card image container */
+.cards-insights .cards-insights-card-image {
+  line-height: 0;
+  overflow: clip;
+}
+
+.cards-insights .cards-insights-card-image p {
+  margin: 0;
+  line-height: 0;
+}
+
+.cards-insights > ul > li img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  display: block;
+}
+
+/* Card body */
+.cards-insights .cards-insights-card-body {
+  padding: 16px 0 0;
+  margin: 0;
+  display: grid;
+  gap: 8px;
+}
+
+/* Reset button styling - source shows plain text links, not buttons */
+.cards-insights .cards-insights-card-body p {
+  margin: 0;
+}
+
+.cards-insights .cards-insights-card-body p.button-container {
+  display: block;
+}
+
+main .cards-insights a.button:any-link {
+  display: block;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: none;
+  color: var(--text-color);
+  font-size: 24px;
+  font-weight: 400;
+  font-family: var(--body-font-family);
+  line-height: 1.33;
+  letter-spacing: -0.048em;
+  text-transform: none;
+  text-decoration: none;
+  white-space: normal;
+}
+
+main .cards-insights a.button:hover {
+  background: none;
+  color: var(--text-color);
+  text-decoration: underline;
+}
+
+/* Section-level: heading + pill CTA on same row */
+.cards-insights-wrapper ~ .default-content-wrapper,
+.default-content-wrapper:has(+ .cards-insights-wrapper) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.default-content-wrapper:has(+ .cards-insights-wrapper) h2 {
+  margin: 0;
+}
+
+.default-content-wrapper:has(+ .cards-insights-wrapper) p {
+  margin: 0;
+}
+
+/* Pill button style for the section CTA */
+main .default-content-wrapper:has(+ .cards-insights-wrapper) a.button:any-link {
+  border-radius: 1600px;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+}

@@ -1,0 +1,195 @@
+{
+  "url": "https://www.deptagency.com/en-in/",
+  "template": "homepage",
+  "analysisDate": "2026-05-25",
+  "variantMapping": {
+    "hero": "hero-video",
+    "columns": "columns-feature",
+    "cards (work)": "cards-casestudy",
+    "cards (solutions)": "cards-solutions",
+    "carousel": "carousel-culture",
+    "cards (insights)": "cards-insights"
+  },
+  "sections": [
+    {
+      "sectionNumber": 1,
+      "name": "Hero Video Intro",
+      "style": "light",
+      "sectionMetadata": false,
+      "sectionMetadataReason": "Hero block has its own intrinsic background/video styling, not section-level container styling",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "type": "block",
+          "blockName": "hero-video",
+          "blockVariant": "hero-video",
+          "baseBlock": "hero",
+          "reasoning": "Complex hero with large typographic heading, CTA button, and embedded YouTube video with custom controls. This is NOT simple typing - it requires video embedding, custom player controls, and specific layout.",
+          "matchType": "obvious",
+          "variantDecision": "new"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 2,
+      "name": "Statement",
+      "style": "light",
+      "sectionMetadata": false,
+      "sectionMetadataReason": "No distinct background styling",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "type": "default-content",
+          "reasoning": "Large statement paragraph is just text content with prominent styling. Author can type a paragraph normally; the visual emphasis is a CSS concern, not a structural block need."
+        }
+      ]
+    },
+    {
+      "sectionNumber": 3,
+      "name": "Adobe Partner Feature",
+      "style": "light",
+      "sectionMetadata": false,
+      "sectionMetadataReason": "No distinct background styling",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "type": "block",
+          "blockName": "columns-feature",
+          "blockVariant": "columns-feature",
+          "baseBlock": "columns",
+          "reasoning": "Side-by-side layout with image on left and text content (title, paragraphs, CTA button) on right. Requires structured two-column layout that cannot be achieved with default content flow. Obvious match with columns block.",
+          "matchType": "obvious",
+          "variantDecision": "new"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 4,
+      "name": "Work Listing",
+      "style": "light",
+      "sectionMetadata": false,
+      "sectionMetadataReason": "No distinct background styling",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "type": "default-content",
+          "reasoning": "Section heading 'WORK' and a CTA link 'View all work' - author can type heading and link normally."
+        },
+        {
+          "sequenceNumber": 2,
+          "type": "block",
+          "blockName": "cards-casestudy",
+          "blockVariant": "cards-casestudy",
+          "baseBlock": "cards",
+          "reasoning": "Masonry grid of 5 case study items with structured repeating pattern: each has media (video/image), brand name, category tags, hover overlay description. This is a structured repeating pattern requiring block decoration for grid layout and hover effects.",
+          "matchType": "obvious",
+          "variantDecision": "new"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 5,
+      "name": "Solutions / Talking Points",
+      "style": "light",
+      "sectionMetadata": false,
+      "sectionMetadataReason": "No distinct background styling",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "type": "default-content",
+          "reasoning": "Text divider with 'Solutions' label is a simple horizontal rule or separator - can be default content with styling."
+        },
+        {
+          "sequenceNumber": 2,
+          "type": "default-content",
+          "reasoning": "Large heading 'HOW WE INVENT GROWTH' - author can simply type a heading."
+        },
+        {
+          "sequenceNumber": 3,
+          "type": "block",
+          "blockName": "cards-solutions",
+          "blockVariant": "cards-solutions",
+          "baseBlock": "cards",
+          "reasoning": "Numbered interactive list of 4 solutions with hover-revealed descriptions and images. Each item has structured content (number, title, description, image, link). This is a repeating structured pattern requiring block decoration for the interactive hover behavior and numbered layout.",
+          "matchType": "obvious",
+          "variantDecision": "new"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 6,
+      "name": "Growth Invention Framework",
+      "style": "light",
+      "sectionMetadata": false,
+      "sectionMetadataReason": "No distinct background styling",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "type": "block",
+          "blockName": "columns-feature",
+          "blockVariant": "columns-feature",
+          "baseBlock": "columns",
+          "reasoning": "Side-by-side layout with image (framework diagram) and text content (title, paragraph, filled CTA button). Same pattern as Section 3 - requires structured two-column layout.",
+          "matchType": "obvious",
+          "variantDecision": "reuse"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 7,
+      "name": "Culture Carousel",
+      "style": "light",
+      "sectionMetadata": false,
+      "sectionMetadataReason": "No distinct background styling",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "type": "block",
+          "blockName": "carousel-culture",
+          "blockVariant": "carousel-culture",
+          "baseBlock": "carousel",
+          "reasoning": "Horizontally scrolling carousel with 4 slides, each containing bold title text, background image, and statistics text. Interactive component with navigation dots requiring carousel decoration. Obvious match with carousel block.",
+          "matchType": "obvious",
+          "variantDecision": "new"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 8,
+      "name": "On Our Mind / Insights",
+      "style": "light",
+      "sectionMetadata": false,
+      "sectionMetadataReason": "No distinct background styling",
+      "sequences": [
+        {
+          "sequenceNumber": 1,
+          "type": "default-content",
+          "reasoning": "Heading 'On Our Mind' and CTA link 'View all insights' - author can type heading and link normally."
+        },
+        {
+          "sequenceNumber": 2,
+          "type": "block",
+          "blockName": "cards-insights",
+          "blockVariant": "cards-insights",
+          "baseBlock": "cards",
+          "reasoning": "Grid of 4 insight/article cards with structured repeating pattern: each has featured image, type label with icon, category tags, and article title. Requires structured block for grid layout and consistent card formatting.",
+          "matchType": "obvious",
+          "variantDecision": "new"
+        }
+      ]
+    }
+  ],
+  "step3eValidation": {
+    "candidateSections": [
+      {
+        "sectionNumber": 1,
+        "blockType": "hero-video",
+        "backgroundAnalysis": "The hero has its own embedded video that serves as the background/visual. The video player IS the hero design, not a section container background.",
+        "layout": "Full-width content integrated with video player - edge to edge",
+        "decision": "SKIP section-metadata",
+        "reason": "Background is the hero's own video/design element. Block type (hero) typically has intrinsic background styling."
+      }
+    ],
+    "nonCandidateSections": "Sections 2-8 all have light/white background with no distinct section-level styling that would require section-metadata. Sections 3, 6, 7 contain single blocks but have no distinct background color to warrant section-metadata."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "variantName": "carousel-testimonial",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2026-05-07T09:14:14.451Z",
+  "sourceContext": {
+    "originUrl": "https://www.ceat.com/",
+    "originPage": "CEAT homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "grey",
+    "density": "spacious",
+    "purpose": "testimonial",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "quote text + reviewer info + product image",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "expert testimonial carousels",
+      "customer review sliders",
+      "quote carousels with product images"
+    ],
+    "notSuitableFor": [
+      "hero banner carousels",
+      "image-only galleries",
+      "product listing carousels"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-07T09:14:14.451Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "variantName": "accordion-faq",
+  "baseBlock": "accordion",
+  "version": "1.0.0",
+  "created": "2026-05-07T09:14:14.794Z",
+  "sourceContext": {
+    "originUrl": "https://www.ceat.com/",
+    "originPage": "CEAT homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "faq",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "question heading + answer text",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "FAQ sections",
+      "Q&A content",
+      "help and support expandable content"
+    ],
+    "notSuitableFor": [
+      "SEO content accordions",
+      "nested multi-level accordions",
+      "image-heavy expandable sections"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-07T09:14:14.794Z"
+  }
+}

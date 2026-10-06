@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-icon-list",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "icon-benefit-list",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "each row = item: cell1 icon image, cell2 rich text (heading + description)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 2,
+    "lastUsed": "2026-10-01T15:29:23.775Z"
+  }
+}

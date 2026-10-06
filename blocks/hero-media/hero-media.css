@@ -1,0 +1,34 @@
+/* Block: hero-media -- contained media banner (image only) */
+/* Values derived from source computed styles on https://www.dulux.in/ */
+
+.hero-media {
+  margin: 0;
+  padding: 0;
+}
+
+/* Image cell: the picture fills the contained column width at natural ratio */
+.hero-media > div:first-child > div {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+.hero-media > div:first-child p {
+  margin: 0;
+}
+
+.hero-media picture {
+  display: block;
+}
+
+.hero-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+}
+
+/* Second authored row is empty in this variant -- hide it */
+.hero-media > div:not(:first-child) {
+  display: none;
+}

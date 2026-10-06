@@ -1,0 +1,232 @@
+/* Block: carousel-culture
+   Source: .block-feature-turntable on deptagency.com
+   Layout: horizontal scroll carousel with large title, centered image, stats text, bar indicators */
+
+/* Wrapper: full width, no max-width constraint */
+.carousel-culture-wrapper {
+  max-width: 100% !important;
+  padding: 0 !important;
+}
+
+/* Block container */
+.carousel-culture {
+  position: relative;
+  overflow: hidden;
+  color: var(--text-color);
+  padding: 0;
+}
+
+/* Slides container */
+.carousel-culture .carousel-culture-slides-container {
+  position: relative;
+}
+
+/* Hide prev/next navigation buttons (source uses dots only) */
+.carousel-culture .carousel-culture-navigation-buttons {
+  display: none;
+}
+
+/* Slides list */
+.carousel-culture .carousel-culture-slides,
+.carousel-culture .carousel-culture-slide-indicators {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.carousel-culture .carousel-culture-slides {
+  display: flex;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  overflow: scroll clip;
+}
+
+.carousel-culture .carousel-culture-slides::-webkit-scrollbar {
+  display: none;
+}
+
+/* Individual slide */
+.carousel-culture .carousel-culture-slide {
+  flex: 0 0 100%;
+  scroll-snap-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  min-height: 75vw;
+  max-height: 1083px;
+  padding: 60px 24px 120px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/* Slide image cell - ordered between title and stats */
+.carousel-culture .carousel-culture-slide-image {
+  order: 2;
+  width: 100%;
+  max-width: 280px;
+  margin: 0 auto;
+}
+
+.carousel-culture .carousel-culture-slide-image picture {
+  display: block;
+}
+
+.carousel-culture .carousel-culture-slide-image p {
+  margin: 0;
+}
+
+.carousel-culture .carousel-culture-slide-image picture > img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Slide content cell uses display:contents to lift children into slide flex */
+.carousel-culture .carousel-culture-slide-content {
+  display: contents;
+}
+
+/* Title paragraph (first p in content) */
+.carousel-culture .carousel-culture-slide-content p:first-of-type {
+  order: 1;
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 1.025;
+  letter-spacing: -3px;
+  text-transform: uppercase;
+  color: var(--text-color);
+  margin: 0 0 16px;
+  text-align: center;
+  width: 100%;
+}
+
+/* Accent span (second line after br, wrapped by JS) */
+.carousel-culture .carousel-culture-slide-content .carousel-culture-accent {
+  display: block;
+  color: rgb(255, 73, 1);
+}
+
+/* Orange accent text via em in title */
+.carousel-culture .carousel-culture-slide-content p:first-of-type em,
+.carousel-culture .carousel-culture-slide-content p:first-of-type strong em {
+  color: rgb(255, 73, 1);
+  font-style: normal;
+}
+
+/* Bold text in title keeps black (unless inside accent span) */
+.carousel-culture .carousel-culture-slide-content p:first-of-type strong {
+  color: var(--text-color);
+}
+
+/* Strong inside accent span inherits orange */
+.carousel-culture .carousel-culture-slide-content p:first-of-type .carousel-culture-accent strong,
+.carousel-culture .carousel-culture-slide-content p:first-of-type .carousel-culture-accent em,
+.carousel-culture .carousel-culture-slide-content p:first-of-type .carousel-culture-accent em strong {
+  color: inherit;
+  font-style: normal;
+}
+
+/* Statistics / description paragraph (last p in content) */
+.carousel-culture .carousel-culture-slide-content p:last-of-type {
+  order: 3;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: -0.84px;
+  color: rgb(118, 118, 118);
+  margin: 16px 0 0;
+  text-align: center;
+  width: 100%;
+}
+
+/* Navigation indicators - bar style */
+.carousel-culture .carousel-culture-slide-indicators {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 52px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 46%;
+  max-width: 662px;
+  height: 7px;
+  padding: 0;
+  gap: 0;
+  line-height: 0;
+  background: none;
+}
+
+.carousel-culture .carousel-culture-slide-indicator {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+/* Indicator button (bar) */
+.carousel-culture .carousel-culture-slide-indicator button {
+  width: 100%;
+  height: 3px;
+  margin: 0;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background-color: rgb(18, 18, 18);
+  cursor: pointer;
+  transition: height 0.2s, border-radius 0.2s;
+}
+
+/* Active indicator */
+.carousel-culture .carousel-culture-slide-indicator button:disabled,
+.carousel-culture .carousel-culture-slide-indicator button:hover,
+.carousel-culture .carousel-culture-slide-indicator button:focus-visible {
+  height: 7px;
+  border-radius: 2px 8px 8px 2px;
+  background-color: rgb(18, 18, 18);
+}
+
+/* Last indicator gets right-side rounding */
+.carousel-culture .carousel-culture-slide-indicator:last-child button {
+  border-radius: 0 2px 2px 0;
+}
+
+.carousel-culture .carousel-culture-slide-indicator:last-child button:disabled,
+.carousel-culture .carousel-culture-slide-indicator:last-child button:hover {
+  border-radius: 0 8px 8px 2px;
+}
+
+/* First indicator gets left-side rounding when active */
+.carousel-culture .carousel-culture-slide-indicator:first-child button:disabled,
+.carousel-culture .carousel-culture-slide-indicator:first-child button:hover {
+  border-radius: 2px 8px 8px 2px;
+}
+
+/* Desktop styles */
+@media (width >= 900px) {
+  .carousel-culture .carousel-culture-slide {
+    flex: 0 0 50%;
+    scroll-snap-align: center;
+    min-height: min(75vw, 1083px);
+    padding: 60px 0 120px;
+  }
+
+  /* Title sizing at desktop */
+  .carousel-culture .carousel-culture-slide-content p:first-of-type {
+    font-size: 100px;
+    line-height: 102.5px;
+  }
+
+  /* Stats text at desktop */
+  .carousel-culture .carousel-culture-slide-content p:last-of-type {
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  /* Image max width on desktop */
+  .carousel-culture .carousel-culture-slide-image {
+    max-width: 63%;
+  }
+}

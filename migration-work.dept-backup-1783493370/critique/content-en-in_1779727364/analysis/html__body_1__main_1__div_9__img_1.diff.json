@@ -1,0 +1,13 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__main_1__div_9__img_1",
+    "section_description": "Node at /html/body[1]/main[1]/div[9]/img[1] (height 0, similarity 0.9141)"
+  },
+  "_meta": {
+    "migrated_id": "html__body_1__main_1__div_3__div_5__p_1__picture_1__img_1",
+    "similarity_score": 0.9141,
+    "total_style_changes": 395,
+    "is_leaf": true,
+    "height": 0
+  }
+}

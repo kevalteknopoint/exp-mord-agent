@@ -1,16 +1,20 @@
 {
   "status": "success",
-  "url": "https://www.ngssuper.com.au/",
+  "url": "https://www.dulux.in/",
   "path": "index",
-  "timestamp": "2026-03-23T14:48:01.681Z",
-  "title": "NGS Super: High-performing Industry Super Fund For Education",
+  "timestamp": "2026-07-08T07:20:18.510Z",
+  "title": "Wall Paint Colours - Home Painting, House Colour & Paint Solutions | Dulux India",
   "template": "homepage",
   "blocks": [
-    "hero-homepage",
-    "columns",
-    "columns",
-    "cards-icon-links",
-    "hero-feature",
-    "cards"
+    "hero-wizard",
+    "cards-callout",
+    "hero-promo",
+    "hero-promo",
+    "cards-article",
+    "cards-article",
+    "cards-product",
+    "hero-media",
+    "cards-video",
+    "carousel-badges"
   ]
 }

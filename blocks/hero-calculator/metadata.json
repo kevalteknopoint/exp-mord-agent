@@ -1,0 +1,33 @@
+{
+  "variantName": "hero-calculator",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "calculator-hero",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "row 1: image; row 2: promo rich text (badge, rating, heading, checklist, fine print); row 3: calculator rich text (heading + CTA link; form controls rendered by JS)",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "page-intro promo with an embedded premium/quote calculator"
+    ],
+    "notSuitableFor": [
+      "plain image heroes without a calculator (use hero)"
+    ]
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:23:16.055Z"
+  }
+}

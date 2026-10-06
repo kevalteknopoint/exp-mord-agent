@@ -1,0 +1,165 @@
+/* Table Rounded: brand-blue header row, light-blue rounded frame, compact grey body text */
+.table-rounded {
+  border: 1px solid var(--color-brand-blue-tint-1);
+  border-radius: var(--radius-l);
+  overflow: hidden;
+  background-color: var(--color-white);
+  color: var(--color-grey-dark);
+  font-size: var(--body-font-size-xs);
+  line-height: 18px;
+}
+
+.table-rounded .table-rounded-scroller {
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+
+.table-rounded table {
+  width: 100%;
+  min-width: 600px;
+  border-collapse: collapse;
+  table-layout: auto;
+  font: inherit; /* tables do not inherit font in quirks mode */
+  color: inherit;
+}
+
+.table-rounded.table-rounded-2-cols table {
+  min-width: 400px;
+}
+
+.table-rounded.table-rounded-4-cols table {
+  min-width: 760px;
+}
+
+.table-rounded th,
+.table-rounded td {
+  padding: 10px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.table-rounded th {
+  background-color: var(--color-brand-blue);
+  color: var(--color-white);
+  font-weight: 600;
+  vertical-align: middle;
+}
+
+.table-rounded td + td {
+  border-left: 1px solid var(--color-border-light);
+}
+
+.table-rounded tr + tr td {
+  border-top: 1px solid var(--color-border-light);
+}
+
+.table-rounded th + th {
+  border-left: 1px solid rgb(255 255 255 / 35%);
+}
+
+/* row labels */
+.table-rounded td.table-rounded-col-1 {
+  color: var(--color-neutral-black);
+  font-weight: 600;
+}
+
+.table-rounded th :is(p, li),
+.table-rounded td :is(p, li) {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.table-rounded th > *,
+.table-rounded td > * {
+  margin: 0 0 6px;
+}
+
+.table-rounded th > :last-child,
+.table-rounded td > :last-child {
+  margin-bottom: 0;
+}
+
+/* a lone footnote marker authored as its own paragraph stays inline with its sentence */
+.table-rounded td > p:has(> sup:only-child),
+.table-rounded td > p:has(> sup:only-child) + p,
+.table-rounded td > p:has(+ p > sup:only-child) {
+  display: inline;
+}
+
+.table-rounded td ul,
+.table-rounded td ol {
+  padding-left: 18px;
+}
+
+.table-rounded td li + li {
+  margin-top: 6px;
+}
+
+.table-rounded td a:any-link {
+  text-decoration: underline;
+}
+
+/* covered / not covered: lighter blue + pink headers, plain statements in both columns */
+.table-rounded.table-head-red th.table-rounded-col-1 {
+  background-color: var(--color-brand-blue-secondary);
+}
+
+.table-rounded.table-head-red th.table-rounded-col-2 {
+  background-color: #eb9aa7; /* live .table-head-red header */
+  border-left-color: var(--color-white);
+}
+
+.table-rounded.table-head-red td.table-rounded-col-1 {
+  color: inherit;
+  font-weight: 400;
+}
+
+/* checklist tables (bullet lists in every cell): narrow and centred */
+.table-rounded.table-rounded-lists {
+  max-width: 640px;
+  margin-inline: auto;
+}
+
+.table-rounded.table-rounded-lists table {
+  min-width: 0;
+}
+
+.table-rounded.table-rounded-lists td.table-rounded-col-1 {
+  color: inherit;
+  font-weight: 400;
+}
+
+.table-rounded.table-rounded-lists td {
+  padding-block: 14px;
+}
+
+@media (width >= 900px) {
+  .table-rounded {
+    font-size: var(--body-font-size-s);
+    line-height: 20px;
+  }
+
+  .table-rounded table,
+  .table-rounded.table-rounded-2-cols table,
+  .table-rounded.table-rounded-4-cols table {
+    min-width: 0;
+  }
+
+  .table-rounded th,
+  .table-rounded td {
+    padding: 12px 20px;
+  }
+
+  .table-rounded td.table-rounded-col-1 {
+    width: 24%;
+  }
+
+  .table-rounded.table-rounded-2-cols td.table-rounded-col-1 {
+    width: 30%;
+  }
+
+  .table-rounded.table-head-red td.table-rounded-col-1,
+  .table-rounded.table-rounded-lists td.table-rounded-col-1 {
+    width: 50%;
+  }
+}

@@ -1,0 +1,108 @@
+/* Block: cards-casestudy -- CSS extracted from source computed styles */
+/* DO NOT replace these values with generic defaults. */
+/* Refine: replace values matching brand.css variables, add responsive rules, handle EDS gotchas. */
+
+/* Grid container (.block-work-listing__items) */
+/* display: grid */
+/* grid-template-columns: repeat(12, 1fr) -- 12 equal columns */
+/* grid-template-rows: 730px 840px 730px */
+/* gap: 72px 20px */
+
+/* Card (.listing-card) */
+/* display: grid */
+/* grid-template: "img img" "meta expand" */
+/* aspect ratios vary by class: is-three-two (3:2), is-square (1:1), is-seven-four (7:4) */
+/* grid placement: cards span 7 columns or 12 columns depending on aspect */
+
+/* Media container (.listing-card__media-container) */
+/* position: relative */
+/* overflow: clip */
+/* grid-area: img */
+
+/* Hover card (.listing-card__hover-card) */
+/* display: flex */
+/* flex-direction: column */
+/* justify-content: center */
+/* position: absolute */
+/* inset: 0 */
+/* background-color: rgb(113, 92, 224) */
+/* padding: 36px 60px 64px */
+/* opacity: 0 */
+/* transition: opacity 0.3s, scale 0.3s cubic-bezier(0.5, 1, 0.89, 1) */
+/* z-index: 10 */
+
+/* Hover card title (.listing-card__hover-card-title) */
+/* font-size: 41.4px */
+/* font-weight: 700 */
+/* font-family: InterVariable, system-ui, sans-serif */
+/* color: rgb(255, 255, 255) */
+/* line-height: 35.19px */
+/* text-transform: uppercase */
+
+/* Hover card tag (.listing-card__hover-card-tag) - "View Work" */
+/* font-size: 16px */
+/* font-weight: 400 */
+/* color: rgb(18, 18, 18) */
+/* text-transform: uppercase */
+
+/* Meta section (.listing-card__meta) */
+/* display: flex */
+/* padding: 16px 0 0 */
+/* gap: 16px */
+/* grid-area: meta */
+
+/* Brand title (.listing-card__title) */
+/* font-size: 20px */
+/* font-weight: 900 */
+/* font-family: InterVariable, system-ui, sans-serif */
+/* color: rgb(0, 0, 0) */
+/* text-transform: uppercase */
+/* line-height: 21px */
+/* margin: 0 */
+
+/* Tags (.listing-card__tags) */
+/* display: flex */
+/* gap: 0px 8px */
+/* flex-wrap: wrap */
+/* margin: 0 */
+/* padding: 0 */
+
+/* Tag (.listing-card__tag) */
+/* font-size: 16px */
+/* font-weight: 400 */
+/* color: rgb(118, 118, 118) */
+
+/* Images / Video */
+/* object-fit: cover */
+/* width: 100% */
+
+.cards-casestudy {
+  color: rgb(0, 0, 0);
+}
+
+.cards-casestudy p {
+  font-size: 41.4px;
+  font-family: InterVariable, system-ui, sans-serif;
+  line-height: 35.19px;
+  color: rgb(255, 255, 255);
+}
+
+.cards-casestudy a {
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.cards-casestudy img {
+  object-fit: cover;
+  width: 100%;
+}
+
+.cards-casestudy ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 0px 8px;
+}

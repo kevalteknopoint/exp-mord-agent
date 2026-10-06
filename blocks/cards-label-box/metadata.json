@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-label-box",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "labeled-callout",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "row 1: tab label text; row 2: rich text body (paragraphs or bullet list)",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 2,
+    "lastUsed": "2026-10-01T15:44:06.026Z"
+  }
+}

@@ -4,56 +4,103 @@
 /**
  * Parser for hero-feature variant.
  * Base block: hero
- * Source: https://www.ngssuper.com.au/
- * Selector: section.s-feature-cta-panel.panel-skin-2
+ * Source: https://www.wipro.com/
+ * Selector: .banner.teaser.banner--content-center
+ * Generated: 2026-04-30
  *
- * Hero model fields:
+ * Hero model fields (from _hero.json / component-models.json):
  *   - image (reference) → Row 1
- *   - imageAlt (text, collapsed into image)
+ *   - imageAlt (text, collapsed into image — no separate row)
  *   - text (richtext) → Row 2
  *
- * Target table: 1 column, 2 rows (image row + text row)
+ * Target table: 1 column, 2 rows (image/video row + text row)
+ *
+ * Source DOM structure:
+ *   div.banner.teaser.banner--content-center
+ *     div.cmp-teaser
+ *       div.cmp-teaser__content
+ *         div.cmp-teaser__tout
+ *           div.cmp-teaser__pretitle                        → pretitle (may be empty)
+ *           div.cmp-teaser__description > p                 → description (may be whitespace only)
+ *           div.cmp-teaser__action-container
+ *             div.cmp-teaser__action-background
+ *               a.cmp-teaser__action-link                   → CTA link (href, text)
+ *           div.cmp-teaser__playicon-placeholder
+ *             a.cmp-teaser__play-link                       → video play link (mp4 href)
+ *       div.cmp-teaser__image > video                       → background video
+ *       div.cmp-teaser__mobile-image img                    → fallback background image
  */
 export default function parse(element, { document }) {
-  // Extract feature/award image
-  // Found in DOM: div.feature-panel-image > picture > img
-  const image = element.querySelector('div.feature-panel-image picture, .feature-panel-image img');
+  // --- Row 1: Image/Video media ---
+  // Validated: div.cmp-teaser__image > video[src] (desktop video)
+  const video = element.querySelector('.cmp-teaser__image video[src], .cmp-teaser__image video');
 
-  // Extract heading
-  // Found in DOM: h2.panel-title
-  const heading = element.querySelector('h2.panel-title, h2');
+  // Validated: div.cmp-teaser__mobile-image img.cmp-teaser__background-image (mobile fallback)
+  const fallbackImage = element.querySelector(
+    '.cmp-teaser__mobile-image img.cmp-teaser__background-image, .cmp-teaser__mobile-image img, .cmp-teaser__image img',
+  );
 
-  // Extract description (may be empty)
-  // Found in DOM: div.panel-description
-  const description = element.querySelector('div.panel-description');
+  // --- Row 2: Text content ---
+  // Validated: a.cmp-teaser__action-link (CTA with href and span text)
+  const ctaLink = element.querySelector(
+    'a.cmp-teaser__action-link, .cmp-teaser__action-container a',
+  );
 
-  // Extract CTA link
-  // Found in DOM: div.panel-cta-box > a.cta-primary
-  const cta = element.querySelector('div.panel-cta-box a, a.cta-primary');
+  // Validated: div.cmp-teaser__description p (may contain only whitespace/nbsp)
+  const descriptionEl = element.querySelector('.cmp-teaser__description p, .cmp-teaser__description');
 
-  // Build cells matching hero block library structure:
-  // Row 1: image (with field hint)
-  // Row 2: text content - heading, description, CTA (with field hint)
+  // Validated: div.cmp-teaser__pretitle (may be empty)
+  const pretitleEl = element.querySelector('.cmp-teaser__pretitle');
+
+  // Build cells matching hero block library structure (2 rows for xwalk hero model)
+
   const cells = [];
 
-  // Row 1: Image
+  // Row 1: Image / Video (field:image from UE model)
   const imageCell = document.createDocumentFragment();
   imageCell.appendChild(document.createComment(' field:image '));
-  if (image) {
-    imageCell.appendChild(image);
+  if (video && video.getAttribute('src')) {
+    // Prefer video — create a link to the video asset for import
+    const videoLink = document.createElement('a');
+    videoLink.href = video.getAttribute('src');
+    videoLink.textContent = video.getAttribute('src');
+    imageCell.appendChild(videoLink);
+  } else if (fallbackImage) {
+    imageCell.appendChild(fallbackImage);
   }
   cells.push([imageCell]);
 
-  // Row 2: Text content (heading + optional description + CTA as richtext)
+  // Row 2: Text content (field:text from UE model)
+  // Combines pretitle + description + CTA as richtext per hero model
   const textCell = document.createDocumentFragment();
   textCell.appendChild(document.createComment(' field:text '));
-  if (heading) textCell.appendChild(heading);
-  if (description && description.textContent.trim()) {
+
+  // Add pretitle as heading if present and non-empty
+  if (pretitleEl && pretitleEl.textContent.trim()) {
+    const h2 = document.createElement('h2');
+    h2.textContent = pretitleEl.textContent.trim();
+    textCell.appendChild(h2);
+  }
+
+  // Add description if present and has real content (not just whitespace/nbsp)
+  const descText = descriptionEl ? descriptionEl.textContent.replace(/ /g, ' ').trim() : '';
+  if (descText) {
     const p = document.createElement('p');
-    p.textContent = description.textContent.trim();
+    p.innerHTML = descriptionEl.innerHTML.trim();
     textCell.appendChild(p);
   }
-  if (cta) textCell.appendChild(cta);
+
+  // Add CTA link
+  if (ctaLink) {
+    const ctaP = document.createElement('p');
+    const a = document.createElement('a');
+    a.href = ctaLink.getAttribute('href') || '';
+    // Extract visible text from the link (may be inside a span)
+    a.textContent = ctaLink.textContent.trim() || 'Learn More';
+    ctaP.appendChild(a);
+    textCell.appendChild(ctaP);
+  }
+
   cells.push([textCell]);
 
   const block = WebImporter.Blocks.createBlock(document, { name: 'hero-feature', cells });

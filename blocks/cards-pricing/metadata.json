@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-pricing",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "colored",
+    "density": "compact",
+    "purpose": "pricing-tiers",
+    "imagePattern": "background"
+  },
+  "contentPattern": {
+    "structure": "each row = tile: cell1 optional background image, cell2 optional tag text, cell3 rich text (amount heading, label, price, CTA link)",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:26:05.082Z"
+  }
+}

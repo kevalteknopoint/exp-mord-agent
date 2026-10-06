@@ -307,6 +307,18 @@ function createOptimizedPicture(
   const { pathname } = url;
   const ext = pathname.substring(pathname.lastIndexOf('.') + 1);
 
+  // External images (different origin) are served by their own host and may not
+  // support the AEM optimization query params, so use the original src as-is.
+  const isExternal = url.origin !== window.location.origin;
+  if (isExternal) {
+    const img = document.createElement('img');
+    img.setAttribute('loading', eager ? 'eager' : 'lazy');
+    img.setAttribute('alt', alt);
+    img.setAttribute('src', src);
+    picture.appendChild(img);
+    return picture;
+  }
+
   // webp
   breakpoints.forEach((br) => {
     const source = document.createElement('source');

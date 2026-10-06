@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-feature",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-05-25T15:27:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.deptagency.com/en-in/",
+    "originPage": "DEPT Agency India homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "feature-content",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + heading + paragraph + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "partner/feature showcases with image and text",
+      "product or service highlights",
+      "side-by-side content with visual and descriptive copy"
+    ],
+    "notSuitableFor": [
+      "store locator sections",
+      "statistics displays",
+      "rate comparison layouts"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en-in/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-25T15:27:00.000Z"
+  }
+}

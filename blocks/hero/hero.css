@@ -1,27 +1,22 @@
-.hero-container .hero-wrapper {
+.hero-container > div {
   max-width: unset;
   padding: 0;
+  margin: 0;
 }
 
 .hero {
   position: relative;
-  padding: 40px 24px;
-  min-height: 300px;
-}
-
-.hero h1 {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  color: var(--background-color);
+  min-height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
 }
 
 .hero picture {
   position: absolute;
-  z-index: -1;
+  z-index: 0;
   inset: 0;
-  object-fit: cover;
-  box-sizing: border-box;
 }
 
 .hero img {
@@ -30,8 +25,24 @@
   height: 100%;
 }
 
-@media (width >= 900px) {
+.hero h1,
+.hero h2 {
+  position: relative;
+  z-index: 1;
+  color: var(--color-white);
+  text-align: center;
+  text-shadow: 0 2px 4px rgb(0 0 0 / 40%);
+  padding: 24px;
+  max-width: 800px;
+}
+
+.hero a.button:any-link {
+  position: relative;
+  z-index: 1;
+}
+
+@media (width >= 992px) {
   .hero {
-    padding: 40px 32px;
+    min-height: 350px;
   }
 }

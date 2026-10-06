@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-locator",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-05-07T09:14:05.234Z",
+  "sourceContext": {
+    "originUrl": "https://www.ceat.com/",
+    "originPage": "CEAT homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "store-locator",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "stats + search input + image side-by-side",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "store locator sections",
+      "location finder with stats",
+      "side-by-side content with search and image"
+    ],
+    "notSuitableFor": [
+      "simple text columns",
+      "rate comparison columns",
+      "statistics-only layouts"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-07T09:14:05.234Z"
+  }
+}

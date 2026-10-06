@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-callout",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-07-08T00:00:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.dulux.in/",
+    "originPage": "Dulux India homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "callout-tiles",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + linked heading (no description)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "2x2 or grid callout tiles linking to key destinations",
+      "navigational image tiles with a single heading link",
+      "quick-entry-point tile grids"
+    ],
+    "notSuitableFor": [
+      "cards with body copy and CTAs (use cards-article)",
+      "product listings (use cards-product)",
+      "video tiles (use cards-video)"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-07-08T00:00:00.000Z"
+  }
+}

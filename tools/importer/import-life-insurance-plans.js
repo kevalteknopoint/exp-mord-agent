@@ -1,0 +1,947 @@
+/* eslint-disable */
+/* global WebImporter */
+
+// PARSER IMPORTS
+import heroCalculatorParser from './parsers/hero-calculator.js';
+import cardsPricingParser from './parsers/cards-pricing.js';
+import tabsIllustrationParser from './parsers/tabs-illustration.js';
+import cardsPlanParser from './parsers/cards-plan.js';
+import cardsIconListParser from './parsers/cards-icon-list.js';
+import carouselPersonaParser from './parsers/carousel-persona.js';
+import embedVideoParser from './parsers/embed-video.js';
+import cardsPlanLinksParser from './parsers/cards-plan-links.js';
+import cardsFeatureGridParser from './parsers/cards-feature-grid.js';
+import columnsCalculatorParser from './parsers/columns-calculator.js';
+import cardsStatsParser from './parsers/cards-stats.js';
+import accordionSeoParser from './parsers/accordion-seo.js';
+import cardsFactorParser from './parsers/cards-factor.js';
+import tableRoundedParser from './parsers/table-rounded.js';
+import tableComparisonParser from './parsers/table-comparison.js';
+import cardsLabelBoxParser from './parsers/cards-label-box.js';
+import columnsDurationParser from './parsers/columns-duration.js';
+import cardsTextTileParser from './parsers/cards-text-tile.js';
+import columnsImageTableParser from './parsers/columns-image-table.js';
+import carouselReviewsParser from './parsers/carousel-reviews.js';
+import formCallbackParser from './parsers/form-callback.js';
+import cardsArticleParser from './parsers/cards-article.js';
+import tabsFaqParser from './parsers/tabs-faq.js';
+
+// TRANSFORMER IMPORTS
+import tataaiaCleanupTransformer from './transformers/tataaia-cleanup.js';
+import tataaiaSectionsTransformer from './transformers/tataaia-sections.js';
+
+// PARSER REGISTRY
+const parsers = {
+  'hero-calculator': heroCalculatorParser,
+  'cards-pricing': cardsPricingParser,
+  'tabs-illustration': tabsIllustrationParser,
+  'cards-plan': cardsPlanParser,
+  'cards-icon-list': cardsIconListParser,
+  'carousel-persona': carouselPersonaParser,
+  'embed-video': embedVideoParser,
+  'cards-plan-links': cardsPlanLinksParser,
+  'cards-feature-grid': cardsFeatureGridParser,
+  'columns-calculator': columnsCalculatorParser,
+  'cards-stats': cardsStatsParser,
+  'accordion-seo': accordionSeoParser,
+  'cards-factor': cardsFactorParser,
+  'table-rounded': tableRoundedParser,
+  'table-comparison': tableComparisonParser,
+  'cards-label-box': cardsLabelBoxParser,
+  'columns-duration': columnsDurationParser,
+  'cards-text-tile': cardsTextTileParser,
+  'columns-image-table': columnsImageTableParser,
+  'carousel-reviews': carouselReviewsParser,
+  'form-callback': formCallbackParser,
+  'cards-article': cardsArticleParser,
+  'tabs-faq': tabsFaqParser,
+};
+
+// PAGE TEMPLATE CONFIGURATION - Embedded from page-templates.json
+const PAGE_TEMPLATE = {
+  "name": "life-insurance-plans",
+  "description": "Tata AIA life insurance product landing page (term insurance): calculator hero, long-form SEO content, plan cards, tables, carousels, FAQs",
+  "urls": [
+    "https://www.tataaia.com/life-insurance-plans/term-insurance.html"
+  ],
+  "blocks": [
+    {
+      "name": "hero-calculator",
+      "instances": [
+        ".nolead-calc-banner-wrapper .term-calculator-container"
+      ]
+    },
+    {
+      "name": "cards-pricing",
+      "instances": [
+        ".insurance-coverage-cards.container-category-price"
+      ]
+    },
+    {
+      "name": "tabs-illustration",
+      "instances": [
+        ".benefits-ills-pure-protection-container .tabs.panelcontainer"
+      ]
+    },
+    {
+      "name": "cards-plan",
+      "instances": [
+        ".coveragecardcontainer.content-center",
+        ".categorypage-fourcards.coveragecardcontainer"
+      ]
+    },
+    {
+      "name": "cards-icon-list",
+      "instances": [
+        "#container-526c3450ed",
+        "#container-30eac4a7ea"
+      ]
+    },
+    {
+      "name": "carousel-persona",
+      "instances": [
+        ".who-buy-cards-parent.ta-container .who-buy-cards"
+      ]
+    },
+    {
+      "name": "embed-video",
+      "instances": [
+        ".youtube-center-brush .youtubevideo"
+      ]
+    },
+    {
+      "name": "cards-plan-links",
+      "instances": [
+        ".termplan-cards"
+      ]
+    },
+    {
+      "name": "cards-feature-grid",
+      "instances": [
+        ".investment-plan-cards-redesign"
+      ]
+    },
+    {
+      "name": "columns-calculator",
+      "instances": [
+        ".newpremiumcalc-container .newcalculatepremium"
+      ]
+    },
+    {
+      "name": "cards-stats",
+      "instances": [
+        ".whychoose-cards > .cmp-container > .container"
+      ]
+    },
+    {
+      "name": "accordion-seo",
+      "instances": [
+        ".faq-accordion-investment-plan .ta-fq-content-w",
+        ".accordion-first-section > .cmp-accordion > .cmp-accordion__item:nth-of-type(2)"
+      ]
+    },
+    {
+      "name": "cards-factor",
+      "instances": [
+        ".investment-risk-main-wrapper"
+      ]
+    },
+    {
+      "name": "table-rounded",
+      "instances": [
+        ".term-insurance-table",
+        ".term-table-text.four-column-table",
+        ".term-table-text.table-head-red",
+        ".term-table-text.document-table-center",
+        "[id=\"40\"] > .term-table-text"
+      ]
+    },
+    {
+      "name": "table-comparison",
+      "instances": [
+        ".compare-term-plan-table .compare-table-wrapper"
+      ]
+    },
+    {
+      "name": "cards-label-box",
+      "instances": [
+        ".leadproxyteaser.newlaunch-var-two"
+      ]
+    },
+    {
+      "name": "columns-duration",
+      "instances": [
+        ".life-cover.ta-container"
+      ]
+    },
+    {
+      "name": "cards-text-tile",
+      "instances": [
+        ".who-buy-cards-mob-swiper .who-buy-cards"
+      ]
+    },
+    {
+      "name": "columns-image-table",
+      "instances": [
+        ".claim-image-table"
+      ]
+    },
+    {
+      "name": "carousel-reviews",
+      "instances": [
+        ".testinomial-cards"
+      ]
+    },
+    {
+      "name": "form-callback",
+      "instances": [
+        ".tte-form-countrycode"
+      ]
+    },
+    {
+      "name": "cards-article",
+      "instances": [
+        ".blog-corouselstatic"
+      ]
+    },
+    {
+      "name": "tabs-faq",
+      "instances": [
+        ".faq-tabs"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "name": "Page title and intro",
+      "selector": [
+        ".breadcrumb"
+      ],
+      "style": null,
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-2",
+      "name": "Above-the-fold promo + calculator",
+      "selector": [
+        ".nolead-calc-banner-wrapper"
+      ],
+      "style": null,
+      "blocks": [
+        "hero-calculator"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-3",
+      "name": "In-page anchor navigation",
+      "selector": [
+        ".newsecondarynavigation"
+      ],
+      "style": "anchor-nav",
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-4",
+      "name": "Coverage tier price cards + reviewer byline",
+      "selector": [
+        "#container-f3864d3a26"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-pricing"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-5",
+      "name": "Interlinking pill links",
+      "selector": [
+        ".interlinking-widget"
+      ],
+      "style": "grey, link-pills",
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-6",
+      "name": "What is term insurance",
+      "selector": [
+        "#leadproxytext-5179f9a894"
+      ],
+      "style": null,
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-7",
+      "name": "Benefits illustration (tabbed)",
+      "selector": [
+        ".benefits-ills-mob-font-20"
+      ],
+      "style": null,
+      "blocks": [
+        "tabs-illustration"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-8",
+      "name": "Bestselling plans + example",
+      "selector": [
+        ".mob-mt-5.mt-40.enhancecoveragecontainer.enhance-container-tab"
+      ],
+      "style": null,
+      "blocks": [
+        "cards-plan"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-9",
+      "name": "How a term plan works",
+      "selector": [
+        "div.container.responsivegrid.mob-pt-20.pt-30"
+      ],
+      "style": null,
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-10",
+      "name": "Why buy term insurance",
+      "selector": [
+        "#container-d2b88fc833"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-icon-list"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-11",
+      "name": "Persona examples slider",
+      "selector": [
+        "#container-916e0a3aec"
+      ],
+      "style": null,
+      "blocks": [
+        "carousel-persona"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-12",
+      "name": "Explainer video",
+      "selector": [
+        "#container-cd5dfce657"
+      ],
+      "style": null,
+      "blocks": [
+        "embed-video"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-13",
+      "name": "Term plan quick links slider",
+      "selector": [
+        "#container-f4164bf945"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-plan-links"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-14",
+      "name": "Features of term insurance",
+      "selector": [
+        "#container-1ba1e4524a"
+      ],
+      "style": null,
+      "blocks": [
+        "cards-feature-grid"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-15",
+      "name": "1 Crore premium calculator",
+      "selector": [
+        ".newpremiumcalc-container"
+      ],
+      "style": null,
+      "blocks": [
+        "columns-calculator"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-16",
+      "name": "Why choose Tata AIA stats",
+      "selector": [
+        ".whychoose-cards"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-stats"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-17",
+      "name": "Who should buy slider",
+      "selector": [
+        "#container-217c32ab0c"
+      ],
+      "style": null,
+      "blocks": [
+        "carousel-persona"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-18",
+      "name": "Life stages accordion",
+      "selector": [
+        "#container-9d7e57cecd"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "accordion-seo"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-19",
+      "name": "Premium factors bordered cards",
+      "selector": [
+        "#container-adaee19218"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-factor"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-20",
+      "name": "Types of term plans",
+      "selector": [
+        "#container-f942407c45"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-feature-grid"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-21",
+      "name": "Term vs whole life table",
+      "selector": [
+        "#leadproxytext-4fac5f6122"
+      ],
+      "style": null,
+      "blocks": [
+        "table-rounded"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-22",
+      "name": "Best plans table",
+      "selector": [
+        "#container-5caf9ff5af"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "table-rounded"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-23",
+      "name": "Best plans cards + how to choose accordion",
+      "selector": [
+        ".rider-bg.faq_acc_with-viewallbtn"
+      ],
+      "style": null,
+      "blocks": [
+        "cards-plan",
+        "accordion-seo"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-24",
+      "name": "Choose plan as per needs",
+      "selector": [
+        "#container-fadf1d54e1"
+      ],
+      "style": "light-blue",
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-25",
+      "name": "Claim approval + plan comparison",
+      "selector": [
+        "#container-4a5dfb47f8"
+      ],
+      "style": null,
+      "blocks": [
+        "table-comparison"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-26",
+      "name": "Family financial future callout",
+      "selector": [
+        "#container-2c038f2903"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-label-box"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-27",
+      "name": "When to buy table",
+      "selector": [
+        "#container-fc5f3371ba"
+      ],
+      "style": null,
+      "blocks": [
+        "table-rounded"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-28",
+      "name": "Factors affecting premiums",
+      "selector": [
+        "#container-33e50a7826"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-icon-list"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-29",
+      "name": "NRI + cover needed",
+      "selector": [
+        "#container-b2c8b612e3"
+      ],
+      "style": null,
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-30",
+      "name": "Infographic image",
+      "selector": [
+        "#container-8edf4bc779"
+      ],
+      "style": "light-blue",
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-31",
+      "name": "Sum assured importance",
+      "selector": [
+        "#container-9dfa60f0af"
+      ],
+      "style": null,
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-32",
+      "name": "Policy period",
+      "selector": [
+        "#container-1c542e2ae3"
+      ],
+      "style": "light-blue",
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-33",
+      "name": "Right duration promo + age factor",
+      "selector": [
+        "#container-f4882e2f04"
+      ],
+      "style": null,
+      "blocks": [
+        "columns-duration"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-34",
+      "name": "Affordable tips tiles",
+      "selector": [
+        "#container-defa9db8ad"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-text-tile"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-35",
+      "name": "Payout options table",
+      "selector": [
+        "#leadproxytext-8e6b531b6b"
+      ],
+      "style": null,
+      "blocks": [
+        "table-rounded"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-36",
+      "name": "What is a rider",
+      "selector": [
+        "#container-8332a7d055"
+      ],
+      "style": "light-blue",
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-37",
+      "name": "ULIP note + rider types",
+      "selector": [
+        "[id=\"27\"]"
+      ],
+      "style": null,
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-38",
+      "name": "Riders importance",
+      "selector": [
+        "#container-b2a7b4132b"
+      ],
+      "style": "light-blue",
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-39",
+      "name": "Critical illness rider + top riders",
+      "selector": [
+        ".mob-mb-20.page-container.max-wid550"
+      ],
+      "style": null,
+      "blocks": [
+        "cards-label-box"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-40",
+      "name": "Plan benefits",
+      "selector": [
+        "#container-d35e3a192d"
+      ],
+      "style": "light-blue",
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-41",
+      "name": "Eligibility",
+      "selector": [
+        "#leadproxytext-ae2ba99d42"
+      ],
+      "style": null,
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-42",
+      "name": "Covered vs not covered",
+      "selector": [
+        "#container-1618092523"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "table-rounded"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-43",
+      "name": "Common mistakes",
+      "selector": [
+        "#leadproxytext-3a445fa119"
+      ],
+      "style": null,
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-44",
+      "name": "Why buy online tiles",
+      "selector": [
+        "#container-92e8aae3a5"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-text-tile"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-45",
+      "name": "Documents list + claim process",
+      "selector": [
+        "#container-b2fe259e25"
+      ],
+      "style": null,
+      "blocks": [
+        "table-rounded"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-46",
+      "name": "Avoid claim rejection",
+      "selector": [
+        "#container-6f11a5e168"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-feature-grid"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-47",
+      "name": "Claim documents table",
+      "selector": [
+        "#leadproxytext-7f29512ee4"
+      ],
+      "style": null,
+      "blocks": [
+        "table-rounded"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-48",
+      "name": "Claim approval time",
+      "selector": [
+        "#container-6ed3066365"
+      ],
+      "style": "light-blue",
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-49",
+      "name": "GST + claim settlement ratio",
+      "selector": [
+        "#container-e553947e67"
+      ],
+      "style": null,
+      "blocks": [
+        "columns-image-table"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-50",
+      "name": "Key terms",
+      "selector": [
+        "#container-74e18de16e"
+      ],
+      "style": "light-blue",
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-51",
+      "name": "Takeaways + insights",
+      "selector": [
+        "#leadproxytext-c876bebae1"
+      ],
+      "style": null,
+      "blocks": [],
+      "defaultContent": []
+    },
+    {
+      "id": "section-52",
+      "name": "Customer reviews carousel",
+      "selector": [
+        ".voiceof-happy-customer"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "carousel-reviews"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-53",
+      "name": "Call-back lead form",
+      "selector": [
+        ".tte-form-redesign"
+      ],
+      "style": null,
+      "blocks": [
+        "form-callback"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-54",
+      "name": "Related articles slider",
+      "selector": [
+        "#container-0e5e661886"
+      ],
+      "style": "light-blue",
+      "blocks": [
+        "cards-article"
+      ],
+      "defaultContent": []
+    },
+    {
+      "id": "section-55",
+      "name": "FAQs, disclaimer, last updated",
+      "selector": [
+        "#container-593dd46a6a"
+      ],
+      "style": null,
+      "blocks": [
+        "tabs-faq",
+        "accordion-seo"
+      ],
+      "defaultContent": []
+    }
+  ]
+};
+
+// TRANSFORMER REGISTRY
+const transformers = [
+  tataaiaCleanupTransformer,
+  ...(PAGE_TEMPLATE.sections && PAGE_TEMPLATE.sections.length > 1 ? [tataaiaSectionsTransformer] : []),
+];
+
+/**
+ * Execute all page transformers for a specific hook
+ */
+function executeTransformers(hookName, element, payload) {
+  const enhancedPayload = {
+    ...payload,
+    template: PAGE_TEMPLATE,
+  };
+
+  transformers.forEach((transformerFn) => {
+    try {
+      transformerFn.call(null, hookName, element, enhancedPayload);
+    } catch (e) {
+      console.error(`Transformer failed at ${hookName}:`, e);
+    }
+  });
+}
+
+/**
+ * Find all blocks on the page based on the embedded template configuration
+ */
+function findBlocksOnPage(document, template) {
+  const pageBlocks = [];
+
+  template.blocks.forEach((blockDef) => {
+    blockDef.instances.forEach((selector) => {
+      const elements = document.querySelectorAll(selector);
+      if (elements.length === 0) {
+        console.warn(`Block "${blockDef.name}" selector not found: ${selector}`);
+      }
+      elements.forEach((element) => {
+        pageBlocks.push({
+          name: blockDef.name,
+          selector,
+          element,
+          section: blockDef.section || null,
+        });
+      });
+    });
+  });
+
+  console.log(`Found ${pageBlocks.length} block instances on page`);
+  return pageBlocks;
+}
+
+// EXPORT DEFAULT CONFIGURATION
+export default {
+  transform: (payload) => {
+    const { document, url, html, params } = payload;
+
+    const main = document.body;
+
+    // 1. beforeTransform (initial cleanup + section break markers)
+    executeTransformers('beforeTransform', main, payload);
+
+    // 2. Find blocks on page using embedded template
+    const pageBlocks = findBlocksOnPage(document, PAGE_TEMPLATE);
+
+    // 3. Parse each block using registered parsers
+    pageBlocks.forEach((block) => {
+      if (!block.element.parentNode) return; // Already replaced by earlier parser
+      const parser = parsers[block.name];
+      if (parser) {
+        try {
+          parser(block.element, { document, url, params });
+        } catch (e) {
+          console.error(`Failed to parse ${block.name} (${block.selector}):`, e);
+        }
+      } else {
+        console.warn(`No parser found for block: ${block.name}`);
+      }
+    });
+
+    // 4. afterTransform (final cleanup + section metadata)
+    executeTransformers('afterTransform', main, payload);
+
+    // 5. WebImporter built-in rules
+    const hr = document.createElement('hr');
+    main.appendChild(hr);
+    WebImporter.rules.createMetadata(main, document);
+    WebImporter.rules.transformBackgroundImages(main, document);
+    WebImporter.rules.adjustImageUrls(main, url, params.originalURL);
+
+    // 6. Generate sanitized path (root URL maps to /index)
+    const rawPath = new URL(params.originalURL).pathname
+      .replace(/\/$/, '')
+      .replace(/\.html?$/, '');
+    const path = WebImporter.FileUtils.sanitizePath(rawPath === '' ? '/index' : rawPath);
+
+    return [{
+      element: main,
+      path,
+      report: {
+        title: document.title,
+        template: PAGE_TEMPLATE.name,
+        blocks: pageBlocks.map((b) => b.name),
+      },
+    }];
+  },
+};

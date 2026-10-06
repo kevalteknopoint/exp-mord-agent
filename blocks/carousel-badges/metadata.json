@@ -1,0 +1,39 @@
+{
+  "variantName": "carousel-badges",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2026-07-08T00:00:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.dulux.in/",
+    "originPage": "Dulux India homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "badge-rating-carousel",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "rotating image slides (award/rating badges)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "award/rating badge carousels",
+      "logo or certification rotating strips",
+      "image-only rotating showcases near the footer"
+    ],
+    "notSuitableFor": [
+      "text-heavy testimonial carousels (use carousel-testimonial)",
+      "full-width hero banner carousels (use carousel-hero)",
+      "static single images"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-07-08T00:00:00.000Z"
+  }
+}

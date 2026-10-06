@@ -1,0 +1,71 @@
+/* Block: columns-feature -- CSS extracted from source computed styles */
+/* DO NOT replace these values with generic defaults. */
+/* Refine: replace values matching brand.css variables, add responsive rules, handle EDS gotchas. */
+
+.columns-feature {
+  color: rgb(0, 0, 0);
+  padding: 160px 0px 40px;
+  margin: 0px 20px;
+}
+
+.columns-feature p {
+  font-size: 47.9968px;
+  font-family: InterVariable, system-ui, sans-serif;
+  line-height: 48px;
+  color: rgb(0, 0, 0);
+  margin: 0px 0px 32px;
+}
+
+.columns-feature a {
+  color: rgb(18, 18, 18);
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.columns-feature img {
+  object-fit: cover;
+  width: 100%;
+}
+
+.columns-feature {
+  display: grid;
+  gap: normal 20px;
+  grid-template-columns: 12-column grid (~40% image / ~50% text with gap);
+}
+
+.columns-feature /* title */ {
+  font-size: 47.9968px;
+  font-weight: 400;
+  font-family: InterVariable, system-ui, sans-serif;
+  line-height: 48px;
+  letter-spacing: -1.19992px;
+  color: rgb(0, 0, 0);
+  margin: 0px 0px 32px;
+}
+
+.columns-feature /* description text */ {
+  font-size: 24px;
+  font-weight: 200;
+  font-family: InterVariable, system-ui, sans-serif;
+  line-height: 31.92px;
+  color: rgb(0, 0, 0);
+  margin: 0px 0px 16px;
+}
+
+.columns-feature /* CTA button */ {
+  color: rgb(18, 18, 18);
+  padding: 12px 24px 10.4px;
+  border: 1px solid rgb(18, 18, 18);
+  border-radius: 1600px;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: -0.8px;
+}
+
+.columns-feature /* image ratio info */ {
+  width: 560px /* 40% of block */;
+  height: 700px;
+  object-fit: cover;
+}

@@ -1,0 +1,63 @@
+{
+  "definitions": [
+    {
+      "title": "Cards Plan",
+      "id": "cards-plan",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Cards Plan",
+              "filter": "cards-plan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Plan Card",
+      "id": "cards-plan-item",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Plan Card",
+              "model": "cards-plan-item"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "cards-plan-item",
+      "fields": [
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text (eyebrow, plan name, benefits, links)",
+          "valueType": "string"
+        },
+        {
+          "component": "richtext",
+          "name": "disclaimer",
+          "value": "",
+          "label": "Disclaimer / UIN",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "cards-plan",
+      "components": [
+        "cards-plan-item"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__main_1__div_4",
+    "section_description": "Node at /html/body[1]/main[1]/div[4] (height 1, similarity 0.9834)"
+  },
+  "_meta": {
+    "migrated_id": "html__body_1__main_1__div_2__div_2",
+    "similarity_score": 0.9834,
+    "total_style_changes": 396,
+    "is_leaf": false,
+    "height": 1
+  },
+  "_children_diffs": [
+    {
+      "webpage_section": {
+        "section_id": "html__body_1__main_1__div_4__div_1",
+        "section_description": "Node at /html/body[1]/main[1]/div[4]/div[1] (height 0, similarity 0.9458)"
+      },
+      "_meta": {
+        "migrated_id": "html__body_1__main_1__div_2__div_2__div_1__div_1__div_2",
+        "similarity_score": 0.9458,
+        "total_style_changes": 385,
+        "is_leaf": true,
+        "height": 0
+      }
+    },
+    {
+      "webpage_section": {
+        "section_id": "html__body_1__main_1__div_4__img_1",
+        "section_description": "Node at /html/body[1]/main[1]/div[4]/img[1] (height 0, similarity 0.9141)"
+      },
+      "_meta": {
+        "migrated_id": "html__body_1__main_1__div_2__div_2__div_1__div_1__div_1",
+        "similarity_score": 0.9141,
+        "total_style_changes": 395,
+        "is_leaf": true,
+        "height": 0
+      }
+    }
+  ]
+}

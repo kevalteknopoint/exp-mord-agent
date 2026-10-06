@@ -1,0 +1,25 @@
+{
+  "variantName": "embed-video",
+  "baseBlock": "embed",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "youtube-video",
+    "imagePattern": "video"
+  },
+  "contentPattern": {
+    "structure": "single cell: optional poster image + video URL link (link text used as video title)",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:31:53.343Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "variantName": "carousel-stories",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2026-05-07T09:14:05.214Z",
+  "sourceContext": {
+    "originUrl": "https://www.ceat.com/",
+    "originPage": "CEAT homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "stories",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "thumbnail images + play overlay",
+    "buttonCount": 0,
+    "imageCount": 5
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "Instagram-style story carousels",
+      "video thumbnail galleries",
+      "image story collections with play buttons"
+    ],
+    "notSuitableFor": [
+      "hero banners",
+      "testimonial carousels",
+      "product showcases"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-07T09:14:05.214Z"
+  }
+}

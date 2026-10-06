@@ -1,0 +1,56 @@
+/* Block: hero-video -- CSS extracted from source computed styles */
+/* DO NOT replace these values with generic defaults. */
+/* Refine: replace values matching brand.css variables, add responsive rules, handle EDS gotchas. */
+
+.hero-video {
+  color: rgb(0, 0, 0);
+  padding: 75px 20px 0px;
+  margin: 72px 0px 0px;
+  text-align: center;
+}
+
+.hero-video h1 {
+  font-size: 112px;
+  font-weight: 900;
+  font-family: InterVariable, system-ui, sans-serif;
+  line-height: 96.32px;
+  letter-spacing: -3.36px;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  margin: 0px 0px 140px;
+  max-width: 792px;
+}
+
+/* "GROWTH" word styled with .is-fancy-serif class */
+/* color: rgb(255, 73, 1) -- orange/red accent */
+/* font-family stays InterVariable (not serif despite class name) */
+
+.hero-video p {
+  font-size: 12px;
+  font-family: InterVariable, system-ui, sans-serif;
+  line-height: 19.92px;
+  color: rgb(118, 118, 118);
+}
+
+.hero-video a {
+  color: rgb(18, 18, 18);
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.hero-video a.button:any-link {
+  color: rgb(18, 18, 18);
+  padding: 18px 60px 15.6px;
+  border: 1px solid rgb(18, 18, 18);
+  border-radius: 1600px;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: -0.8px;
+  display: inline-block;
+}
+
+/* Video container: width 1400px, 16:9 aspect ratio, no border-radius */
+/* Block uses display: grid, full width 1440px */
+/* Block children: H1, A (cta), P (deco), P (deco), DIV (video container) */

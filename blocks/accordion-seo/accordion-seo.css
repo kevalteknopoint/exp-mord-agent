@@ -1,0 +1,201 @@
+/* Accordion SEO: stacked rounded panels with bold numbered titles and a chevron */
+.accordion-seo {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.accordion-seo .accordion-seo-item {
+  margin: 0;
+  border: 1px solid rgb(0 115 187 / 10%);
+  border-radius: var(--radius-l);
+  background-color: var(--color-light-blue-bg);
+  box-shadow: 0 2px 6px -2px rgb(0 115 187 / 12%);
+}
+
+.accordion-seo .accordion-seo-item-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 16px;
+  color: var(--color-neutral-black);
+  font-size: var(--body-font-size-s);
+  font-weight: 700;
+  line-height: 20px;
+  list-style: none;
+  cursor: pointer;
+}
+
+.accordion-seo .accordion-seo-item-label::-webkit-details-marker {
+  display: none;
+}
+
+.accordion-seo .accordion-seo-item-label > * {
+  margin: 0;
+  font: inherit;
+  color: inherit;
+}
+
+/* chevron */
+.accordion-seo .accordion-seo-item-label::after {
+  content: '';
+  flex: 0 0 auto;
+  width: 8px;
+  height: 8px;
+  margin: 0 4px 4px 0;
+  border-right: 2px solid var(--color-neutral-black);
+  border-bottom: 2px solid var(--color-neutral-black);
+  transform: rotate(45deg);
+  transition: transform var(--transition-base);
+}
+
+.accordion-seo .accordion-seo-item[open] > .accordion-seo-item-label::after {
+  margin: 4px 4px 0 0;
+  transform: rotate(-135deg);
+}
+
+.accordion-seo .accordion-seo-item-label:focus-visible {
+  outline: 2px solid var(--color-brand-blue);
+  outline-offset: -2px;
+  border-radius: var(--radius-l);
+}
+
+.accordion-seo .accordion-seo-item-body {
+  padding: 0 16px 16px;
+  color: var(--color-grey-dark);
+  font-size: var(--body-font-size-s);
+  line-height: 22px;
+  overflow-wrap: anywhere;
+}
+
+.accordion-seo .accordion-seo-item-body :is(p, li) {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.accordion-seo .accordion-seo-item-body > * {
+  margin: 0 0 8px;
+}
+
+.accordion-seo .accordion-seo-item-body > :last-child {
+  margin-bottom: 0;
+}
+
+.accordion-seo .accordion-seo-item-body strong {
+  color: var(--color-neutral-black);
+}
+
+.accordion-seo .accordion-seo-item-body h3 {
+  margin: 16px 0 8px;
+  font-size: var(--body-font-size-m);
+}
+
+.accordion-seo .accordion-seo-item-body ul {
+  padding-left: 20px;
+}
+
+.accordion-seo .accordion-seo-item-body a:any-link {
+  color: var(--link-color);
+  text-decoration: underline;
+}
+
+/* collapsed extra items + the authored "View more / View less" paragraph after the block */
+.accordion-seo:not(.accordion-seo-expanded) .accordion-seo-item-extra {
+  display: none;
+}
+
+.accordion-seo-view-more {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  width: fit-content;
+  margin-inline: auto;
+  color: var(--color-brand-blue);
+  font-size: var(--body-font-size-s);
+  font-weight: 600;
+  line-height: 20px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.accordion-seo-view-more img {
+  display: block;
+  width: 20px;
+  height: 20px;
+  transition: transform var(--transition-base);
+}
+
+.accordion-seo-view-more[aria-expanded='true'] img {
+  transform: rotate(180deg);
+}
+
+.accordion-seo-view-more:focus-visible {
+  outline: 2px solid var(--color-brand-blue);
+  outline-offset: 2px;
+}
+
+/* single item (e.g. Disclaimer): collapsible gradient section title + small print */
+.accordion-seo.accordion-seo-single .accordion-seo-item {
+  border: 0;
+  border-radius: 0;
+  background-color: transparent;
+  box-shadow: none;
+}
+
+/* on light-blue bands the panels are white (single-item titles stay transparent) */
+main > .section:is(.light-blue, .light) .accordion-seo .accordion-seo-item {
+  background-color: var(--color-white);
+}
+
+main > .section:is(.light-blue, .light) .accordion-seo.accordion-seo-single .accordion-seo-item {
+  background-color: transparent;
+}
+
+.accordion-seo.accordion-seo-single .accordion-seo-item-label {
+  padding: 8px 0;
+  font-size: var(--heading-size-xxl);
+  line-height: var(--heading-line-height);
+}
+
+.accordion-seo.accordion-seo-single .accordion-seo-item-label > * {
+  width: fit-content;
+  background-image: var(--heading-gradient);
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.accordion-seo.accordion-seo-single .accordion-seo-item-body {
+  padding: 8px 0 0;
+  font-size: var(--body-font-size-xs);
+  line-height: 18px;
+}
+
+.accordion-seo.accordion-seo-single .accordion-seo-item-body li + li {
+  margin-top: 6px;
+}
+
+@media (width >= 900px) {
+  .accordion-seo .accordion-seo-item-label {
+    padding: 16px 24px;
+    font-size: var(--body-font-size-m);
+    line-height: 22px;
+  }
+
+  .accordion-seo .accordion-seo-item-body {
+    padding: 0 24px 18px;
+  }
+
+  .accordion-seo.accordion-seo-single .accordion-seo-item-label {
+    padding: 8px 0;
+    font-size: var(--heading-size-xxl);
+    line-height: var(--heading-line-height);
+  }
+
+  .accordion-seo.accordion-seo-single .accordion-seo-item-body {
+    padding: 8px 0 0;
+  }
+}

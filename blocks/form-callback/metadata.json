@@ -1,0 +1,25 @@
+{
+  "variantName": "form-callback",
+  "baseBlock": "form",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "colored",
+    "density": "compact",
+    "purpose": "callback-form",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "row 1: optional intro rich text; row 2: submit link (label = button text, href = POST endpoint); row 3: consent rich text; row 4: optional success message. NRI toggle, name, mobile (+91) and consent checkbox rendered by JS",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:50:16.459Z"
+  }
+}

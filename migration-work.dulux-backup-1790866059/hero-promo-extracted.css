@@ -1,0 +1,7 @@
+/* Block: hero-promo -- CSS extracted from source computed styles (primary-brand-3) */
+.hero-promo { background-color: rgb(1, 33, 105); color: rgb(255, 255, 255); }
+.hero-promo h2 { font-size: 36px; font-weight: 400; font-family: ColourSansRegular2, sans-serif; line-height: 40.5px; color: rgb(255, 255, 255); }
+.hero-promo p { font-size: 16px; font-family: "Open Sans", sans-serif; line-height: 24px; color: rgb(255, 255, 255); }
+/* layout: content-wrapper padding 80px 83px; grid flex row-reverse align center justify end; text col 41.67% width ~510px, padding 0 12px */
+/* section overflow hidden, bg image inset:0 cover; section height ~516px */
+/* CTA button green rgb(0,167,142) bg, white text, border-radius 4px, padding 10px 16px */

@@ -1,0 +1,25 @@
+{
+  "variantName": "tabs-illustration",
+  "baseBlock": "tabs",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "benefit-illustration",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "each row = tab: cell1 tab label; cell2 persona (avatar image, heading, description, attribute list); cell3 timeline (step images, list of steps with age label/title/caption, CTA link)",
+    "buttonCount": 1,
+    "imageCount": 4
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:27:54.760Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-factor",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "factor-cards",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "each row = bordered card: single rich text cell (centered title heading + paragraph); decorative watermark via CSS",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:39:40.804Z"
+  }
+}

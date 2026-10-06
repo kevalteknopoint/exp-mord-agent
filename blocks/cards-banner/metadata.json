@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-banner",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-05-07T09:14:05.194Z",
+  "sourceContext": {
+    "originUrl": "https://www.ceat.com/",
+    "originPage": "CEAT homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "promotional-banner",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "background image + heading + description + 2 CTAs",
+    "buttonCount": 2,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "promotional banner cards",
+      "warranty or offer announcements",
+      "single-item cards with CTA buttons"
+    ],
+    "notSuitableFor": [
+      "multi-item product grids",
+      "icon-based link cards",
+      "video cards"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-07T09:14:05.194Z"
+  }
+}

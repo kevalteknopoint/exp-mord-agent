@@ -1,0 +1,25 @@
+{
+  "variantName": "table-comparison",
+  "baseBlock": "table",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "plan-comparison",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "first row = header (label title + plan names); each next row = attribute label cell + one rich-text value cell per plan; bold-only paragraphs (Minimum/Maximum) split a value into sub-rows; last row with empty label + links = CTA buttons",
+    "buttonCount": 2,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:42:03.980Z"
+  }
+}

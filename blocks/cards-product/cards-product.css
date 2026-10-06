@@ -1,0 +1,94 @@
+/* Block: cards-product -- design migrated from dulux.in Featured Products */
+
+.cards-product > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+
+.cards-product > ul > li {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px 0 rgb(0 0 0 / 10%);
+  position: relative;
+}
+
+/* Image: 16:9, cover, spans full card width, flush to top corners */
+.cards-product .cards-product-card-image {
+  line-height: 0;
+}
+
+.cards-product .cards-product-card-image img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+}
+
+/* Body: title area with inset padding, room for arrow at bottom-right */
+.cards-product .cards-product-card-body {
+  padding: 24px 24px 60px;
+}
+
+/* The h4 duplicates the link text; hide it and use the (auto-decorated)
+   link as the single clickable title, matching the source card. */
+.cards-product .cards-product-card-body h4 {
+  display: none;
+}
+
+/* EDS auto-decorates the standalone <p><a> into a .button; reset it back to
+   a plain title-styled link (source has no button, just a title). */
+.cards-product .cards-product-card-body .button-container {
+  margin: 0;
+  display: block;
+}
+
+.cards-product .cards-product-card-body a.button,
+.cards-product .cards-product-card-body a.button:any-link {
+  display: block;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background-color: transparent;
+  color: #000;
+  font-family: var(--body-font-family);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  text-transform: none;
+  letter-spacing: normal;
+  white-space: normal;
+}
+
+.cards-product .cards-product-card-body a.button:hover {
+  background-color: transparent;
+  color: #000;
+  border: 0;
+}
+
+/* Green arrow affordance in a light-grey square, bottom-right of each card */
+.cards-product > ul > li::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 44px;
+  height: 44px;
+  background-color: #f4f4f4;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="%2300a78e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media (width >= 900px) {
+  .cards-product > ul {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

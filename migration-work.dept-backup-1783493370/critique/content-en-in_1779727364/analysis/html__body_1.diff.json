@@ -1,0 +1,62 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1",
+    "section_description": "Full page body containing the DEPT Agency India homepage with hero section, work portfolio, services accordion, Growth Invention Framework, B Corp certification cards, On Our Mind insights, and footer"
+  },
+  "difference_1": {
+    "element_id": "/html/body[1]/main[1]/div[1]",
+    "element_description": "Hero section with heading THE GROWTH INVENTION COMPANY, navigation, and video background showing a person with PARTNER-LED text overlay",
+    "computed_style_change": "display: grid -> block; padding-top: 100px -> 0px; text-align: center -> start; grid-template-columns removed",
+    "difference": "The hero section video background shows a YouTube embed error (Sign in to confirm you are not a bot) instead of displaying the actual video content with the person and PARTNER-LED text overlay. The video area is entirely replaced by a dark gray embed placeholder. Navigation items differ - original shows What we do, Work, Insights, Culture links with CONTACT button; migrated shows Examples, Getting Started, Documentation with Button text and search icon (EDS boilerplate nav).",
+    "dissimilarity_score": 0.85,
+    "noticeability_score": 0.95
+  },
+  "difference_2": {
+    "element_id": "/html/body[1]/main[1]/div[6]",
+    "element_description": "Work portfolio section showing project cards in a grid layout with video thumbnails and project titles",
+    "computed_style_change": "display: grid -> block; grid-template-columns: 12-column grid -> none; height: 2443px -> 5740px",
+    "difference": "The work portfolio section has completely different layout. Original shows a visually rich grid of project cards with video thumbnails, colorful backgrounds, and project titles. Migrated shows WORK heading with black rectangular cards in a different grid arrangement - cards appear as dark placeholders without original colorful imagery. Layout changed from dynamic multi-column grid to simpler block arrangement.",
+    "dissimilarity_score": 0.7,
+    "noticeability_score": 0.85
+  },
+  "difference_3": {
+    "element_id": "/html/body[1]/main[1]/div[8]",
+    "element_description": "HOW WE INVENT GROWTH section with large heading and numbered accordion items",
+    "computed_style_change": "padding-top: 40px -> 0px; padding-bottom: 40px -> 0px; height: 877px -> 501px",
+    "difference": "The large HOW WE INVENT GROWTH heading is completely missing in the migrated version. Only the accordion list items are shown without the prominent section heading. Migrated version also shows arrow indicators on the right side that were not in the original.",
+    "dissimilarity_score": 0.6,
+    "noticeability_score": 0.8
+  },
+  "difference_4": {
+    "element_id": "/html/body[1]/main[1]/div[9]",
+    "element_description": "Growth Invention Framework section with blurred colorful image on left and text description on right",
+    "computed_style_change": "display: grid -> block; grid-template-columns: 12-column -> none; height: 794px -> 1690px",
+    "difference": "Section changed from clean side-by-side layout (image left, text right) to a vertical stacked layout where the image dominates. Migrated version shows raw URLs and markup text instead of properly rendered content, with EDS boilerplate navigation elements overlaid inappropriately.",
+    "dissimilarity_score": 0.75,
+    "noticeability_score": 0.85
+  },
+  "difference_5": {
+    "element_id": "/html/body[1]/main[1]/div[11]",
+    "element_description": "ON OUR MIND insights section with heading and four article cards with thumbnail images",
+    "computed_style_change": "display: grid -> block; grid-template-columns removed; padding-top: 40px -> 80px",
+    "difference": "Card images are missing - showing as empty white placeholder boxes with broken image icons instead of actual article thumbnails. Card layout preserved (4 columns with titles) but without visual impact of photographs. A VIEW ALL INSIGHTS button added that was not in original.",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.75
+  },
+  "difference_6": {
+    "element_id": "/html/body[1]/footer[1]",
+    "element_description": "Footer with DEPT logo, navigation links, social links, newsletter subscription, and orange DEPT APPAREL banner",
+    "computed_style_change": "N/A - footer not rendered in migrated version",
+    "difference": "The entire footer section is missing from the migrated page. Original has comprehensive footer with DEPT logo, multiple columns of links, social media links, newsletter subscription, certification badges, and distinctive orange DEPT APPAREL banner.",
+    "dissimilarity_score": 0.9,
+    "noticeability_score": 0.9
+  },
+  "difference_7": {
+    "element_id": "/html/body[1]/main[1]/div[10]",
+    "element_description": "B CORP CERTIFIED and AWARD-WINNING AGENCY section with two large certification cards",
+    "computed_style_change": "display changes; layout shift from carousel to side-by-side",
+    "difference": "In original this appears as a carousel/slider showing one card at a time with partial views of adjacent cards. In migrated, both cards shown side-by-side in full view as two-column layout.",
+    "dissimilarity_score": 0.35,
+    "noticeability_score": 0.5
+  }
+}

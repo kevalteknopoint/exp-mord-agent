@@ -1,0 +1,180 @@
+{
+  "url": "https://www.deptagency.com/en-in/",
+  "timestamp": "2026-05-25T15:22:54.560Z",
+  "paths": {
+    "documentPath": "/en-in/index",
+    "htmlFilePath": "/en-in/index.plain.html",
+    "mdFilePath": "/en-in/index.md",
+    "dirPath": "/en-in",
+    "filename": "index"
+  },
+  "screenshot": "migration-work/screenshot.png",
+  "html": {
+    "filePath": "migration-work/cleaned.html",
+    "size": 253825
+  },
+  "metadata": {
+    "title": "DEPT® | Growth Invention | Tech & Marketing",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "format-detection": "telephone=no",
+    "application-name": "DEPT®",
+    "apple-mobile-web-app-title": "DEPT®",
+    "mobile-web-app-capable": "yes",
+    "google-site-verification": "pIeaNQQS2G8Liy_XOgIn5pelxWkKWtNadkHrBAIm6F0",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "description": "DEPT® is a Growth Invention company built to help the world’s most ambitious brands grow faster. Invention at the intersection of technology and marketing.",
+    "og:locale": "en_US",
+    "og:type": "website",
+    "og:title": "DEPT® | Growth Invention | Tech & Marketing",
+    "og:description": "DEPT® is a Growth Invention company built to help the world’s most ambitious brands grow faster. Invention at the intersection of technology and marketing.",
+    "og:url": "https://www.deptagency.com/en-in/",
+    "og:site_name": "DEPT®",
+    "article:modified_time": "2026-04-29T13:01:04+00:00",
+    "og:image": "https://www.deptagency.com/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+    "og:image:width": "2931",
+    "og:image:height": "1649",
+    "og:image:type": "image/webp",
+    "twitter:card": "summary_large_image",
+    "generator": "WPML ver:4.9.2 stt:80,74,79,77,78,67,84,83;",
+    "canonical": "https://www.deptagency.com/en-in/",
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://www.deptagency.com/en-in/",
+          "url": "https://www.deptagency.com/en-in/",
+          "name": "DEPT® | Growth Invention | Tech & Marketing",
+          "isPartOf": {
+            "@id": "https://www.deptagency.com/en-uki/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://www.deptagency.com/en-in/#primaryimage"
+          },
+          "image": {
+            "@id": "https://www.deptagency.com/en-in/#primaryimage"
+          },
+          "thumbnailUrl": "https://www.deptagency.com/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+          "datePublished": "2021-02-09T14:17:37+00:00",
+          "dateModified": "2026-04-29T13:01:04+00:00",
+          "description": "DEPT® is a Growth Invention company built to help the world’s most ambitious brands grow faster. Invention at the intersection of technology and marketing.",
+          "breadcrumb": {
+            "@id": "https://www.deptagency.com/en-in/#breadcrumb"
+          },
+          "inLanguage": "en-in",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://www.deptagency.com/en-in/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-in",
+          "@id": "https://www.deptagency.com/en-in/#primaryimage",
+          "url": "https://www.deptagency.com/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+          "contentUrl": "https://www.deptagency.com/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+          "width": 2931,
+          "height": 1649
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.deptagency.com/en-in/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://www.deptagency.com/en-uki/#website",
+          "url": "https://www.deptagency.com/en-uki/",
+          "name": "DEPT®",
+          "description": "",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://www.deptagency.com/en-uki/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-in"
+        }
+      ]
+    }
+  },
+  "images": {
+    "count": 48,
+    "mapping": {
+      "https://www.deptagency.com/wp-content/uploads/2023/08/breakfast-in-bed-couple.jpg": "./images/6d6f2857f62155ce67c2c9e83901522b.jpg",
+      "https://www.deptagency.com/wp-content/uploads/2025/10/logo-dept.svg": "./images/7d871e17ae48ddd7e606886f7899daa0.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/10/Customer-experience-solutions.webp": "./images/8328ed98f8e0c4f23d83a55734feece3.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/10/AI-solutions.webp": "./images/777737849b3146d85c65ea9bb77b84ab.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/06/Adobe_452x554_Pic.png": "./images/8267762798f5df7f42f311b43283e5c7.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/10/Commerce-Growth-solutions.webp": "./images/0ee08e2eec8325f73c6ea98bbadadb7a.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/10/Awards-culture-carousel.webp": "./images/5e11d471c0cd73e8297805f829fae97d.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/10/Technology-and-Data-solutions.webp": "./images/dccf891c5b84ef0d4347c7c1802128fc.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/10/AI-Native-culture-carousel.webp": "./images/8fa5d7afe0db73a55a5d62fbdc1faab7.png",
+      "https://www.deptagency.com/wp-content/uploads/2024/09/Gallery.png": "./images/e8bc5e306d2a9df021166bf6a5a8a609.png",
+      "https://www.google.ca/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-KFL48JSY6E&cid=1373821779.1779722552&gtm=45g92e65k1v879808932za204zd879808932&rcb=19&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=0~115938466~115938469&z=1151264018": "./images/3091aea7d1730da3f4083a09ed5858d9.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/10/BCORP-culture-carousel.webp": "./images/8a1d987d1de0a57a389b73fbaa214720.png",
+      "https://www.deptagency.com/wp-content/uploads/2024/09/The-Climate-Label.svg": "./images/736a946e753f5d2a9d49104aa92c1a3b.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/10/Hard-work-culture-carousel.webp": "./images/76ef3796da38a350084b16dbe2b88fb3.png",
+      "https://www.deptagency.com/wp-content/uploads/2024/09/dept-bcorp-logo.svg": "./images/10b1b70879f5f7b07696aa36c7f20b67.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/10/Growth-Invention-Framework-ft.webp": "./images/e9890a33a8f3743cf169f1a29256ae5b.png",
+      "https://www.deptagency.com/wp-content/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp": "./images/59040067b8e82ab671bccc9d2550a81f.png",
+      "https://www.google.com/pagead/1p-user-list/766039809/?random=1779722552070&cv=11&fst=1779721200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45g92e65k1v879808932za204zd879808932xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=0~115938466~115938469~116701381&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.deptagency.com%2Fen-in%2F&rcb=19&frm=0&tiba=DEPT%C2%AE%20%7C%20Growth%20Invention%20%7C%20Tech%20%26%20Marketing&did=dYzg1YT&gdid=dYzg1YT.dNzQzZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1858739448.1779722552&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uamb=0&uam=&uap=Linux&uapv=&uaw=0&data=event%3Dgtag.config&gap.gtb=1&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEABaugfYwT0OLuMoRH30E61x9VE7GmJauRH58ZHOQY97ZhTJ9htrDTVt1vKKrnfqqurkBIvcWTFl5RULJzOKz10H7rqO4OSunA4YnfstUWpZwt42rik3_tmiD8ONKLS8Q6qZOaNetXtfa5up0GYNLOiQYA869FpuKqTx8mN4W7S6RZbNhmRY3ogwccfe2YKD8Hu3wcXZkIPoJYKXFXS9E9Wd6K_cP-nUSTJvXcSFxwDoMMgSvSFxYG7IVd7IgHrK_jk55bWT6BcaHA7aHrusBVDaptZg&random=2411264719&rmt_tld=0&ipr=y": "./images/785008132e415f8041ad15854fe33eb2.png",
+      "https://alb.reddit.com/rp.gif?ts=1779722554571&id=t2_16797w1q&event=PageVisit&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=c4b51d00-62b6-4828-94c3-4e7c9bd61b00&aaid=&external_id=&idfa=&integration=gtm&partner=&partner_version=1.0.1&opt_out=0&sh=1280&sw=720&v=rdt_47ad39b8&dpm=&dpcc=&dprc=": "./images/fcf5ff565f5bb1c5e896723275509e45.png",
+      "https://www.google.com/pagead/1p-user-list/792141183/?random=1779722555258&cv=11&fst=1779721200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65k1v9118572304z878519084za20gzb78519084zd78519084xec&gcd=13r3r3r3r5l1&dma=0&tag_exp=0~115938466~115938469~116701381~118694324&rcb=17&frm=0&gdid=dYzg1YT.dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1858739448.1779722552&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEABaugfasa7FpgUxYn2Ujjos97M0OR73RQLh40MchqKHY_47pj4CRS_NBsDmozOGvMiEeA47YH6Kd1iEiL5sVS6dU2BZC5Sno8uxydgOmUDVkSp30DObvB6Fd-h40j_rk-CsoSDj0g67eSSDH2p5cy7CdGOtfmgNInT2f7jeIPu6-UpKGlg1rw4a643YqUS4CJ0kmWEyY5fFeS9wnlhA8xW5WJnCWpgaZtR7Ea5SAsTg2zFxvW9CQ5jbZqYEx8c2iEgj-VaAlmMCtEFn8dCB8BiGcdawaI0y18LCZ8hEEm3Lvg&random=3097022381&rmt_tld=0&ipr=y": "./images/5cf52c36fb6804c689ebb2cde64ae2ab.png",
+      "https://www.deptagency.com/wp-content/uploads/2026/01/Navigating-Indias-DPDP-Act-with-Privacy-by-Design-Insight-1920x1080-1.webp": "./images/2c5fc17f0faae14e8b54692c110ae074.png",
+      "https://www.google.com/pagead/1p-user-list/810542950/?random=1779722555268&cv=11&fst=1779721200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65k1v9181639250z878519084za20gzb78519084zd78519084xec&gcd=13r3r3r3r5l1&dma=0&tag_exp=0~115938466~115938468~116701381&rcb=16&frm=0&gdid=dYzg1YT.dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1858739448.1779722552&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEABaugfaQrO7NA1BF3DGvU4zrzJD3hGoLpEY1BwjrdET8dDq8OOCnKltL8y-KpJugU-jMyh_LtuPshy2AEHK0mKxKAcq464YjSKPtVEEJ26YgV9x3H8gMDkA6KQ0kwFBmcAmQYyhWnHd54dmLMiSrSAg69HwVniz37NxUDRe0kj91O59NmG9Um6Qn4RCG0b4GGq-fH05A4cRJT8QEOmU8OQfEPr2E2wZTXx_wGu95bZj_OAtw-5d6pPLMnI_L5o-y3svrcNMiXWP05HwP_kPOASiKdbuw8xrmkywRl0Sbt67Hk&random=1403381216&rmt_tld=0&ipr=y": "./images/a7cfa9d4285ce834ca976d6e64bff548.png",
+      "https://www.google.com/pagead/1p-user-list/810507279/?random=1779722555279&cv=11&fst=1779721200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65k1v9181639859z878519084za20gzb78519084zd78519084xec&gcd=13r3r3r3r5l1&dma=0&tag_exp=0~115938466~115938468~116701381~118689381&rcb=11&frm=0&gdid=dYzg1YT.dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1858739448.1779722552&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEABaugfX7k_U1CoEOZ5NHRKg2L2Jh041yZcuddPWMCsBndrIKg8gSq7S5oMgWJ5fWuk2CfdyAxgt52JpEt7mPfbF_2uXrrcTkMo5FYIivhKqVkldzCijZWGueXFk_JQfFMmf5HfxSEttTekwFw1S09GbISBBVBNMJvDlnW4YYHSOosQTfgqv4Vvm5y2_gWx9RzcQBiSP3kuGQvoB2zN1lB_mijcwZP9jEPBPs_JMrABL5ClKBjkw_38_s1WAWzk_a8uFJ64VEET42P0AJKR3B_PIRZAwkUHJwy1bMNYolzZ_1K&random=2482961925&rmt_tld=0&ipr=y": "./images/3d32fa07221de78fb58f5117566cf2be.png",
+      "https://www.google.com/pagead/1p-user-list/10954856218/?random=1779722555320&cv=11&fst=1779721200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be65k1v892205830z878519084za20gzb78519084zd78519084xec&gcd=13r3r3r3r5l1&dma=0&tag_exp=0~115938466~115938468~116701381&rcb=5&frm=0&gdid=dYzg1YT.dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1858739448.1779722552&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=CA&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEABaugfRPzJU5CAww3UZNE5nV9X0JM5yyde8uKGrOcaZNoMNyvsGWePXhGB1i7qnk-TUPoGE608hgmJFxFuCyodmWbHLQHCrg0AYGyrxWLWBZfBhYNxWXxyRV8tvj6XWCq0qtZxy4XYo1xSzieeZ0Lb4zTKVO7KWeypGeOkS146hfMJGdMieM--V8Zi-cdKKEWRkyfN36y0Szgk6WE3AgB98Br4udHhqpM5mtK6V2YAolIsQusPRx5NgJDAeT3UWCN7vpN8czzyRyuiyHnb-WY5XpIT1EteckEXw1xrK6eMg9i&random=2943757616&rmt_tld=0&ipr=y": "./images/eff92c90636e68a59adf6a6d8b7f0367.png",
+      "https://www.google.ca/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-KFL48JSY6E&cid=1373821779.1779722552&gtm=45g92e65k1v879808932z878519084za204zd879808932&rcb=19&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=0~115938466~115938469~116701381&z=2075802070": "./images/bceea615d4b88ff2b66531e31387aaef.png",
+      "https://www.google.com/pagead/1p-user-list/792141183/?random=1779722555465&cv=11&fst=1779721200000&bg=ffffff&guid=ON&async=1&gtm=45be65k1v9118572304z878519084za20gzb78519084zd78519084xea&gcd=13r3r3r3r5l1&dma=0&tag_exp=0~115938466~115938469~116701381~118694324&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.deptagency.com%2Fen-in%2F&rcb=17&frm=0&tiba=DEPT%C2%AE%20%7C%20Growth%20Invention%20%7C%20Tech%20%26%20Marketing&did=dYzg1YT%2CdOThhZD&gdid=dYzg1YT.dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1858739448.1779722552&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=KA&data=ads_data_redaction%3Dfalse&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEABaugfV0wqJ5e11Wt-BtrJqI0ebJHr7FwC_azeZftqcdDpeRh95O4wNT9ciB6R-Y-P6DYvARaRHzFJKwezH-2BitIZgScYLXv28sdJBf8FgVE-pxNsduKjphQFibeuuxX-ksp7lNewSX4hhlPRZgYJnIqXJktcyGhKNC3-mV5YTVq4ZxBSQzxV8m024C_ioQF4TtmZvLmHfjyMrihgiwfC6ffZGXMRB4tYEn7-6XIJR9vERRMmA3ExdzvQ6L8gCePHJXU02CGbqN_nm0zCE_xhjoNMozvZ3QLRMiV76xJSRMP&random=3805678387&rmt_tld=0&ipr=y": "./images/c39d19d40a4ca8cbcf603a560b30edbf.png",
+      "https://sst.deptagency.com/data?v=2&event=page_view&dtdc=eyJwYWdlX2xvY2F0aW9uIjoiaHR0cHM6Ly93d3cuZGVwdGFnZW5jeS5jb20vZW4taW4vIiwicGFnZV9ob3N0bmFtZSI6Ind3dy5kZXB0YWdlbmN5LmNvbSIsInBhZ2VfcmVmZXJyZXIiOiIiLCJwYWdlX3RpdGxlIjoiREVQVMKuIHwgR3Jvd3RoIEludmVudGlvbiB8IFRlY2ggJiBNYXJrZXRpbmciLCJwYWdlX2VuY29kaW5nIjoiVVRGLTgiLCJjb25zZW50X3N0YXRlIjp7ImFkX3N0b3JhZ2UiOnRydWUsImFkX3VzZXJfZGF0YSI6dHJ1ZSwiYWRfcGVyc29uYWxpemF0aW9uIjp0cnVlLCJhbmFseXRpY3Nfc3RvcmFnZSI6dHJ1ZSwiZnVuY3Rpb25hbGl0eV9zdG9yYWdlIjp0cnVlLCJwZXJzb25hbGl6YXRpb25fc3RvcmFnZSI6dHJ1ZSwic2VjdXJpdHlfc3RvcmFnZSI6dHJ1ZX0sImV2ZW50X2lkIjoiMTc3OTcyMzExNTI4Ml8xNzc5NzIzMjE2MjU2MTE4IiwiZXh0ZXJuYWxfaWQiOiIxMzczODIxNzc5LjE3Nzk3MjI1NTIiLCJfZGNpZF90ZW1wIjoiZGNpZC4xLjE3Nzk3MjI1NTUzNTcuMTgxMTI2OTUzIn0%3D": "./images/82a40f78532dce665ce7c54583762a5f.png",
+      "https://i.ytimg.com/vi/IWds6TrTSeo/maxresdefault.jpg": "./images/56f65a4bbc408e7eff81aca07fb1364a.jpg",
+      "https://www.google.com/pagead/1p-user-list/792141183/?random=1779722555458&cv=11&fst=1779721200000&bg=ffffff&guid=ON&async=1&gtm=45be65k1v9118572304z878519084za20gzb78519084zd78519084xea&gcd=13r3r3r3r5l1&dma=0&tag_exp=0~115938466~115938469~116701381~118694324&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.deptagency.com%2Fen-in%2F&rcb=17&frm=0&tiba=DEPT%C2%AE%20%7C%20Growth%20Invention%20%7C%20Tech%20%26%20Marketing&did=dYzg1YT%2CdOThhZD&gdid=dYzg1YT.dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1858739448.1779722552&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=KA&data=ads_data_redaction%3Dfalse&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEABaugfb1lSZvPOwywjZaSkiUA0i2pK8TepODKM9tpqnAnw57XaZAwdBRA9sLUfYqvXCKCYvYjTFgBrcYCzHv0FiinYJkS0dbMlQYcXPJJdLc2TO8FtWIHauSU7Rvh1-vGrNOLaUDS5ggVdJajmpXeeeDaUbrIcKNIg9DsLGKfj1MCzJVYp8KoDAu7mBLK_CzpaBaRRQ2gnF0542vq01WphFg_9UJIm60-OHrpxbx8y4gHxVhJtUEepHDaCHwLQqX0Z4q_wKX8Rd6IVmgt8hIpKeIdEt8TVBT9U85PBHmRZhWg&random=2923041759&rmt_tld=0&ipr=y": "./images/088567b262a6d2e566023a5c43711237.png",
+      "https://www.google.ca/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-KFL48JSY6E&cid=1373821779.1779722552&gtm=45g92e65k1v879808932za204zd879808932&rcb=19&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=0~115938466~115938469~116701381&z=1762133095": "./images/58840ba23fc9887167c965192eacebd1.png",
+      "https://adservice.google.com/ddm/fls/z/dc_pre=CLGi6ZXf1JQDFea-jggd2tESjw;src=13092140;type=home10;cat=home20;rcb=14;ord=1;num=7007837027200;npa=0;auiddc=*;u1=en-in;u10=2;u11=1;u2=;u3=;u9=1413;gdid=dYzg1YT.dOThhZD;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe65k1v9175597478z878519084za20gzb78519084zd78519084xea;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=0~115938466~115938469~116701381;epver=2;dc_random=1779722555_W6icHPZ5IZn758Ctib_LPCwae2ppOdb3uQ;_dc_test=1;~oref=https%3A%2F%2Fwww.deptagency.com%2Fen-in%2F": "./images/4d8ff7de96d603cdc9bb1242a7cd4e52.png",
+      "https://adservice.google.com/ddm/fls/z/dc_pre=CMvT75Xf1JQDFUGOjggds_YP3Q;src=5924983;type=page-0;cat=allpages;rcb=2;ord=7868923486908;npa=0;auiddc=*;u1=en-in;u2=;u3=;u9=1445;u10=2;u11=1;u20=500537101917539;u4=;u5=;gdid=dYzg1YT.dOThhZD;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe65k1v9190831746z878519084za20gzb78519084zd78519084xea;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=0~115938466~115938469~116701381;epver=2;dc_random=1779722555_azskgvePwD1T6TzQfa-dkignm4m1ZRlzpQ;_dc_test=1;~oref=https%3A%2F%2Fwww.deptagency.com%2Fen-in%2F": "./images/1e80263ba02255e4f95d23dbaf8a6c2d.png",
+      "https://adservice.google.com/ddm/fls/z/dc_pre=COTh7ZXf1JQDFfHh5wMdTtYohA;src=8597917;type=allpages;cat=depta0;rcb=16;ord=5386150609272;npa=0;auiddc=*;u1=en-in;u2=;u3=;u9=1376;u10=2;u11=1;u20=500537101917539;gdid=dYzg1YT.dOThhZD;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe65k1v9181627498z878519084za20gzb78519084zd78519084xea;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=0~115616986~115938466~115938469~116701381~118128923~118694324;epver=2;dc_random=1779722555_CL3OBTHkPiyAsZjwAJ2MS7fNm3CW0ZE72Q;_dc_test=1;~oref=https%3A%2F%2Fwww.deptagency.com%2Fen-in%2F": "./images/3876e919d98cba2bb46c3836aeeb6864.png",
+      "https://adservice.google.com/ddm/fls/z/dc_pre=CNuL85Xf1JQDFW2NjggdQxAuJw;src=5924983;type=sessi-0;cat=allsessi;rcb=2;ord=454449750774.43164;npa=0;auiddc=*;u1=en-in;u2=;u3=;u9=1447;u10=2;u11=1;u20=500537101917539;u4=;u5=;gdid=dYzg1YT.dOThhZD;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe65k1v9190831746z878519084za20gzb78519084zd78519084xea;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=0~115938466~115938469~116701381;epver=2;dc_random=1779722555_WpehfWR4K1kMrYQqvSIksBsjA4ZTBfJiAw;_dc_test=1;~oref=https%3A%2F%2Fwww.deptagency.com%2Fen-in%2F": "./images/b7e5661c347ed3053006ecd53951d257.png",
+      "https://www.deptagency.com/wp-content/uploads/2026/03/Dimi-presenting-at-WFA-Forum-Mumbai.webp": "./images/716e8e64d22161bf039870e6527589d4.png",
+      "https://www.google.com/pagead/1p-user-list/855424480/?random=1779722556115&cv=11&fst=1779721200000&bg=ffffff&guid=ON&async=1&gtm=45be65k1z878519084za20gzb78519084zd78519084xea&gcd=13r3r3r3r5l1&dma=0&tag_exp=0~115938466~115938468~116701381~118694324&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.deptagency.com%2Fen-in%2F&rcb=4&frm=0&tiba=DEPT%C2%AE%20%7C%20Growth%20Invention%20%7C%20Tech%20%26%20Marketing&did=dYzg1YT%2CdOThhZD&gdid=dYzg1YT.dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1858739448.1779722552&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B99.0.0.0%7CHeadlessChrome%3B145.0.7632.6%7CChromium%3B145.0.7632.6&uamb=0&uam=&uap=Linux&uapv=&uaw=0&_tu=KA&data=ads_data_redaction%3Dfalse&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEABaugfQDH-Bw9trfJENBT4do8BZwqU-2FmcYOrlm4jNGynNOKMJBd6qQQfp7QcJBjQrQzDyENInpyiVwl7oa0VVDJV1tF5cF-R2rDx0T8vBQIN3jrXjaHbrWJZ3TsYTaEwlzt8vOCZPjWp18ybvnJ5mUZrnhsNcY2BT8OPz0IQib9UEmPtZ6shaj-J1ummtuAkckAHcSPAHp49QeRkEvHL7GuLaqtt21v2MshSv_VZT1A4tUTWKp0RGSMZAXftPvPieBtQO2o8_FINnQ6SdIBEHBfH76LA-EaaVchRGaXrGXC&random=539760291&rmt_tld=0&ipr=y": "./images/28833f90a54096fffcd4e585e5c5fec6.png",
+      "https://www.deptagency.com/wp-content/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp": "./images/8469f0e8d11bd223d9dd189c3fa3d82a.png",
+      "https://sst.deptagency.com/4dcheck?client_id=394738_1779722557291&ads_blocked=false&gtm_blocked=false&ga_blocked=false": "./images/4c9071c1368aca508f7ccad1d490b6f3.png",
+      "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMzMDYmdGw9MTI5NjAw&piggybackCookie=NzBkZWZiODNlOGU3ZGExNTRmOTc2NzE1YjAxOTdlZTc&gdpr=0&gdpr_consent=BOOoKswOOoKswA2ABBENAkwAAAAXyACACYAIIA": "./images/a17aec23115e34946dba91437101ffa0.png",
+      "https://eb2.3lift.com/xuid?ld=1&mid=4714&xuid=NzBkZWZiODNlOGU3ZGExNTRmOTc2NzE1YjAxOTdlZTc&dongle=c85e&gdpr=0&cmp_cs=&us_privacy=": "./images/28b9f88044415eb12113ee9a411448e5.png",
+      "https://ib.adnxs.com/setuid?entity=172&code=NzBkZWZiODNlOGU3ZGExNTRmOTc2NzE1YjAxOTdlZTc": "./images/631f81283d0277a8294cbfc8d7211ebc.png",
+      "https://pixel.rubiconproject.com/tap.php?v=194538&nid=3644&put=NzBkZWZiODNlOGU3ZGExNTRmOTc2NzE1YjAxOTdlZTc&expires=365&gdpr=0&gdpr_consent=": "./images/f1cd6402c0d8d2976a0ec524510a2dcd.png",
+      "https://d.adroll.com/cm/g/in": "./images/a4dfbd47d61d01cf889ea60a17be4c84.png",
+      "https://ml314.com/utsync.ashx?et=0&eid=92980&fp=70defb83e8e7da154f976715b0197ee7&gdpr=0&gdpr_consent=": "./images/42a364e4a3112893810caa07df3e1d0e.png",
+      "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=105&external_user_id=NzBkZWZiODNlOGU3ZGExNTRmOTc2NzE1YjAxOTdlZTc&expiration=1811258557&C=1": "./images/2dc9a1e2ce3a4808212473dcc999689b.png",
+      "https://x.bidswitch.net/ul_cb/sync?dsp_id=44&user_id=NzBkZWZiODNlOGU3ZGExNTRmOTc2NzE1YjAxOTdlZTc": "./images/5138464d27b446f7cc7b30127bbe3454.png",
+      "https://pixel.tapad.com/idsync/ex/receive?partner_id=1830&partner_device_id=42d51970-766d-4093-a526-c39547b6b20e&ttd_puid=11f1a94c-5621-46ee-8298-a1eb5b002eb1%2C%2C": "./images/efcaec07c92ea05a24c070b92d87ff18.png",
+      "https://us-u.openx.net/w/1.0/sd?cc=1&id=537103138&val=70defb83e8e7da154f976715b0197ee7&gdpr=0&gdpr_consent=": "./images/a6f935ea68f2555f1e82b28505945312.png"
+    },
+    "stats": {
+      "total": 90,
+      "converted": 45,
+      "skipped": 3,
+      "failed": 41,
+      "tooLarge": 0,
+      "limitReached": 0
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "url": "https://www.dulux.in/",
+  "representativeUrl": "https://www.dulux.in/",
+  "documentPath": "/index",
+  "analyzedAt": "2026-07-08",
+  "notes": "Content lives under #app > div.app-root. Main content grid (div.aem-Grid--12) contains 17 AEM components in document order. Header (header.s1-header) and footer (footer.s3-secondary-footer) are auto-populated and excluded. The color wizard, product carousel widget, and social logo-group are JS-rendered interactive widgets with little static markup.",
+  "blockInventory": {
+    "vanillaBaseBlocks": ["tabs", "accordion", "cards", "carousel", "columns", "embed", "hero", "search", "table", "video"],
+    "existingCustomVariants": {
+      "cards-insights": "image + type label + category tags + title (articles grid)",
+      "cards-product": "product image + product name link",
+      "cards-solutions": "number + title + description + image + link",
+      "cards-banner": "background image + heading + description + 2 CTAs",
+      "cards-casestudy": "image/video + brand name + category tags",
+      "cards-icon-links": "icon + link items",
+      "cards-video": "video thumbnail cards",
+      "cards-quicklinks": "quick link cards",
+      "hero-feature": "feature hero",
+      "hero-homepage": "homepage hero",
+      "hero-video": "heading + CTA + embedded video",
+      "carousel-hero": "full-width image + overlay heading + CTA",
+      "carousel-stories": "thumbnail images + play overlay",
+      "carousel-testimonial": "quote + reviewer + product image",
+      "carousel-culture": "culture highlight carousel",
+      "columns-feature": "image + heading + paragraph + CTA",
+      "columns-locator": "store locator + stats + image",
+      "columns-stats": "stats columns",
+      "columns-rates": "rates columns",
+      "tabs-brands": "brand/partner tabbed link lists",
+      "accordion-faq": "FAQ Q&A",
+      "accordion-seo": "SEO expandable content",
+      "gallery": "image gallery"
+    },
+    "note": "Existing custom variants originate from a prior NGS Super (finance) migration. Domain semantics differ from Dulux (paint), so most are not reused; the generic structural shapes (cards grid, hero banner, image feature) still guide new variant creation."
+  },
+  "sections": [
+    {
+      "id": "sec-1",
+      "order": 1,
+      "selector": "div.c32-color-wizard",
+      "hint": "block",
+      "visualStyle": "light, full-width interactive hero at top with background image and stepper wizard",
+      "overview": "Interactive 'Welcome to your world in colour' color wizard - a multi-step guided selector (choose colours / not sure / looking for product / advice / ideas / nearest store).",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Full-width intro banner with headline 'Welcome to your world in colour' plus an interactive multi-step wizard offering entry-point choices and Know More / Claim Your Warranty links."
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "order": 2,
+      "selector": "div.cmp-c10-callout-blocks",
+      "hint": "block",
+      "layout": "2x2",
+      "visualStyle": "light background, 2x2 grid of image tiles",
+      "overview": "2x2 grid of callout tiles: Colour Play, Sustainability, Products, Store finder. Each tile = image + heading (linked).",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Grid of 4 tiles, each with an image and a linked heading: 'Try out our New Dulux Colour Play', 'Making a positive impact...', 'The right products for the job', 'Find a store near you'."
+        }
+      ]
+    },
+    {
+      "id": "sec-3",
+      "order": 3,
+      "selector": "div.cmp-c12-hero-banner.style-appearance-primary-brand-3",
+      "hint": "block",
+      "visualStyle": "dark blue brand-colored promotional banner, right-aligned image, edge-to-edge",
+      "overview": "Promotional hero banner 'Can't decide on an Inspiration?' with subtext and 'Try It Now!' CTA plus a side image (Colour Play).",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Full-width brand-blue banner: heading 'Can't decide on an Inspiration?', paragraph 'Try out our Colour Play to help you choose!', CTA button 'Try It Now!', and a supporting image."
+        }
+      ]
+    },
+    {
+      "id": "sec-4",
+      "order": 4,
+      "selector": "div.cmp-c23-text-block.style-hero:nth-of-type(5)",
+      "hint": "default-content",
+      "visualStyle": "light, centered eyebrow + heading + paragraph",
+      "overview": "Section intro text: eyebrow 'Inspiring Paint Solutions', heading 'Dive into a world of colours with Dulux', paragraph describing Dulux.",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Centered eyebrow label, large heading, and a descriptive paragraph. Pure typed text."
+        }
+      ]
+    },
+    {
+      "id": "sec-5",
+      "order": 5,
+      "selector": "div.cmp-c43-related-content:nth-of-type(6)",
+      "hint": "block",
+      "layout": "4x1",
+      "visualStyle": "light background, 4-column card grid",
+      "overview": "Colour of the Year 2026 related content: 4 cards each with image, heading, and arrow link.",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Grid of 4 cards, each with an image, a heading (e.g. 'Dulux Colour of the Year 2026 - Free Groove'), and a link/arrow to an inspiration article."
+        }
+      ]
+    },
+    {
+      "id": "sec-6",
+      "order": 6,
+      "selector": "div.cmp-c23-text-block.style-hero:nth-of-type(7)",
+      "hint": "default-content",
+      "visualStyle": "light, centered eyebrow + heading",
+      "overview": "Section intro: eyebrow 'Featured Products', heading 'Colours to Suit Your Palettes'.",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Centered eyebrow label and heading. Pure typed text."
+        }
+      ]
+    },
+    {
+      "id": "sec-7",
+      "order": 7,
+      "selector": "div.cmp-c43-related-content:nth-of-type(8)",
+      "hint": "block",
+      "layout": "4x1",
+      "visualStyle": "light background, 4-column product card grid",
+      "overview": "Featured products: 4 cards each with product image and product name (Velvet Touch Glo, SuperClean, Weathershield Powerflexx, Promise Interior Primer).",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Grid of 4 product cards, each with a product image and a linked product name."
+        }
+      ]
+    },
+    {
+      "id": "sec-8",
+      "order": 8,
+      "selector": "div.cmp-c19-media.style-contain",
+      "hint": "block",
+      "visualStyle": "full-width media banner with overlaid heading text",
+      "overview": "Media banner (Weathershield Powerflexx campaign image) with overlaid text 'Paint with Confidence, backed by Dulux Assurance!'.",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Large full-width image with an overlaid heading. Single image + short heading; a hero-style media banner."
+        }
+      ]
+    },
+    {
+      "id": "sec-9",
+      "order": 9,
+      "selector": "div.cmp-c23-text-block.style-hero:nth-of-type(11)",
+      "hint": "default-content",
+      "visualStyle": "light, centered eyebrow + heading",
+      "overview": "Section intro: eyebrow 'Perfect Your Paint', heading 'Tips, Tricks, & More on Our Channel'.",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Centered eyebrow label and heading. Pure typed text."
+        }
+      ]
+    },
+    {
+      "id": "sec-10",
+      "order": 10,
+      "selector": "div.cmp-c43-related-content:nth-of-type(12)",
+      "hint": "block",
+      "layout": "3x1",
+      "visualStyle": "light background, video card grid",
+      "overview": "YouTube channel videos: 3 cards each with video thumbnail (play overlay), heading, and link.",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Grid of 3 video cards, each with a thumbnail image with play overlay and a heading linking to a video."
+        }
+      ]
+    },
+    {
+      "id": "sec-11",
+      "order": 11,
+      "selector": "div.cmp-c23-text-block.style-hero:nth-of-type(13)",
+      "hint": "default-content",
+      "visualStyle": "light, centered eyebrow + heading",
+      "overview": "Section intro: eyebrow 'Expert Advice', heading 'Your Journey, The Right Way'.",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Centered eyebrow label and heading. Pure typed text."
+        }
+      ]
+    },
+    {
+      "id": "sec-12",
+      "order": 12,
+      "selector": "div.cmp-c43-related-content:nth-of-type(14)",
+      "hint": "block",
+      "layout": "4x1",
+      "visualStyle": "light background, 4-column article card grid",
+      "overview": "Expert advice articles: 4 cards each with image, heading, and link (Multi-Surface Paint, Easy Home DIY, Right Amount of Paint, Waterproofing Guide).",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Grid of 4 article cards, each with an image, a heading, and a link to an advice article."
+        }
+      ]
+    },
+    {
+      "id": "sec-13",
+      "order": 13,
+      "selector": "div.cmp-c23-text-block.style-hero:nth-of-type(15)",
+      "hint": "default-content",
+      "visualStyle": "light, centered single CTA link",
+      "overview": "'View All Articles' link.",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "A single centered link 'View All Articles'. Pure typed link."
+        }
+      ]
+    },
+    {
+      "id": "sec-14",
+      "order": 14,
+      "selector": "div.cmp-c12-hero-banner.style-appearance-light",
+      "hint": "block",
+      "visualStyle": "light promotional banner with right-aligned image, edge-to-edge",
+      "overview": "Painting services promo banner 'Looking for Painting Services' with 'Book Free Consultation Now' CTA and a service image.",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Full-width light banner: heading 'Looking for Painting Services', CTA button 'Book Free Consultation Now', and a supporting image."
+        }
+      ]
+    },
+    {
+      "id": "sec-15",
+      "order": 15,
+      "selector": "div.cmp-c15-carousel",
+      "hint": "block",
+      "layout": "5x1",
+      "visualStyle": "light background, rotating badge/rating carousel near footer",
+      "overview": "Rotating carousel of employer-rating badges (AmbitionBox / AkzoNobel awards) - image slides.",
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Rotating carousel of award/rating badge images (multiple image slides)."
+        }
+      ]
+    }
+  ]
+}

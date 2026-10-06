@@ -1,0 +1,99 @@
+{
+  "definitions": [
+    {
+      "title": "Tabs Illustration",
+      "id": "tabs-illustration",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Tabs Illustration",
+              "filter": "tabs-illustration"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Tabs Illustration Item",
+      "id": "tabs-illustration-item",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Tab",
+              "model": "tabs-illustration-item",
+              "title": "Tab Name"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "tabs-illustration-item",
+      "fields": [
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "title",
+          "value": "",
+          "label": "Tab Title"
+        },
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "persona_image",
+          "label": "Persona Avatar",
+          "multi": false
+        },
+        {
+          "component": "richtext",
+          "valueType": "string",
+          "name": "persona_text",
+          "value": "",
+          "label": "Persona (heading, description, attribute list)"
+        },
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "timeline_image1",
+          "label": "Step 1 Image",
+          "multi": false
+        },
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "timeline_image2",
+          "label": "Step 2 Image",
+          "multi": false
+        },
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "timeline_image3",
+          "label": "Step 3 Image",
+          "multi": false
+        },
+        {
+          "component": "richtext",
+          "valueType": "string",
+          "name": "timeline_text",
+          "value": "",
+          "label": "Timeline (list of steps + CTA link)"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "tabs-illustration",
+      "components": [
+        "tabs-illustration-item"
+      ]
+    }
+  ]
+}

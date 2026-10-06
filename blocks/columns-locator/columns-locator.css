@@ -1,0 +1,68 @@
+.columns-locator > div {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  background: var(--color-white);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgb(0 0 0 / 8%);
+}
+
+.columns-locator > div > div {
+  flex: 1;
+  padding: 24px;
+}
+
+.columns-locator > div > div:first-child {
+  position: relative;
+  background: var(--color-dark);
+  color: var(--color-white);
+  padding: 32px;
+}
+
+.columns-locator > div > div:first-child h2 {
+  color: var(--color-white);
+  font-size: var(--heading-font-size-xxl);
+  font-weight: 700;
+}
+
+.columns-locator > div > div:first-child p {
+  color: rgb(255 255 255 / 80%);
+}
+
+.columns-locator > div > div:last-child input {
+  width: 100%;
+  padding: 12px 16px;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  font-size: var(--body-font-size-m);
+}
+
+.columns-locator > div > div:last-child a {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 4px;
+  border: 1px solid var(--color-border);
+  border-radius: 20px;
+  font-size: var(--body-font-size-xs);
+  color: var(--color-dark-grey);
+  transition: var(--transition-base);
+}
+
+.columns-locator > div > div:last-child a:hover {
+  border-color: var(--color-orange);
+  color: var(--color-orange);
+  text-decoration: none;
+}
+
+.columns-locator img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+@media (width >= 768px) {
+  .columns-locator > div {
+    flex-direction: row;
+    align-items: stretch;
+  }
+}

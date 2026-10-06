@@ -1,0 +1,3 @@
+| Cards-banner |
+|------|
+| Content |

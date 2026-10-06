@@ -1,0 +1,150 @@
+/* Block: hero-promo
+   Dulux "promo banner": full-width background image with a coloured content
+   panel overlaid. Values extracted from source computed styles.
+   Variant handled: primary-brand-3 (dark blue panel) + light (default). */
+
+/* Full-bleed: escape the section max-width wrapper */
+.hero-promo-container .hero-promo-wrapper {
+  max-width: unset;
+  padding: 0;
+}
+
+.hero-promo {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 320px;
+  padding: 32px 16px;
+  box-sizing: border-box;
+}
+
+/* Row 1 = image cell -> full-bleed background layer */
+.hero-promo > div:first-child {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  margin: 0;
+}
+
+.hero-promo > div:first-child > div {
+  height: 100%;
+}
+
+.hero-promo > div:first-child p {
+  margin: 0;
+  height: 100%;
+}
+
+.hero-promo picture {
+  display: block;
+  height: 100%;
+}
+
+.hero-promo picture img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Row 2 = text cell -> the coloured content panel, overlaid */
+.hero-promo > div:last-child {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.hero-promo > div:last-child > div {
+  box-sizing: border-box;
+  padding: 32px 24px;
+  border-radius: 12px;
+  background-color: var(--link-hover-color); /* #012169 dark blue panel */
+  color: #fff;
+}
+
+.hero-promo h2 {
+  margin: 0 0 12px;
+  font-family: var(--heading-font-family);
+  font-size: var(--heading-size-xxl); /* 36px */
+  font-weight: 400;
+  line-height: 1.125;
+  color: #fff;
+}
+
+.hero-promo p {
+  margin: 0 0 20px;
+  font-family: var(--body-font-family);
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.hero-promo p:last-child {
+  margin-bottom: 0;
+}
+
+/* CTA -> EDS auto-decorates <p><a> into a .button (green brand button). */
+.hero-promo .button-container {
+  margin: 0;
+}
+
+.hero-promo a.button:any-link {
+  display: inline-block;
+  padding: 12px 28px;
+  border: 2px solid var(--link-color);
+  border-radius: 4px;
+  background-color: var(--link-color);
+  color: #fff;
+  font-family: var(--body-font-family);
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.hero-promo a.button:hover {
+  background-color: var(--link-hover-color);
+  border-color: var(--link-hover-color);
+  color: #fff;
+}
+
+/* --- light appearance variant: panel is light with dark text --- */
+.hero-promo.light > div:last-child > div {
+  background-color: var(--light, #fafafa);
+  color: var(--text-color);
+}
+
+.hero-promo.light h2 {
+  color: var(--text-color);
+}
+
+.hero-promo.light p {
+  color: var(--text-color);
+}
+
+/* --- Desktop: panel sits at ~42% width on the right over the image --- */
+@media (width >= 900px) {
+  .hero-promo {
+    min-height: 460px;
+    padding: 80px 37px;
+    justify-content: flex-end;
+  }
+
+  .hero-promo > div:last-child {
+    width: 42%;
+    max-width: 560px;
+    margin-right: 5%;
+  }
+
+  .hero-promo > div:last-child > div {
+    padding: 56px 48px;
+    border-radius: 20px;
+  }
+
+  .hero-promo h2 {
+    margin-bottom: 16px;
+    line-height: 40.5px;
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "variantName": "columns-calculator",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "premium-calculator",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "1 row x 2 columns: col1 heading + fine print (gender toggle and age slider injected by JS); col2 price label, price, CTA link, optional hidden rate list (age, male premium, female premium)",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:36:08.770Z"
+  }
+}

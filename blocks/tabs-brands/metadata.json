@@ -1,0 +1,39 @@
+{
+  "variantName": "tabs-brands",
+  "baseBlock": "tabs",
+  "version": "1.0.0",
+  "created": "2026-05-07T09:14:14.430Z",
+  "sourceContext": {
+    "originUrl": "https://www.ceat.com/",
+    "originPage": "CEAT homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "brand-links",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "tab headers + brand link lists per tab",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "brand/partner link sections",
+      "categorized link lists",
+      "tabbed navigation for vehicle/brand types"
+    ],
+    "notSuitableFor": [
+      "content-heavy tabbed sections",
+      "image gallery tabs",
+      "accordion-style content"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-07T09:14:14.430Z"
+  }
+}

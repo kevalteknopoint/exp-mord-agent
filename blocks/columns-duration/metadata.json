@@ -1,0 +1,25 @@
+{
+  "variantName": "columns-duration",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "duration-promo",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "1 row x 2 columns: col1 heading + check list + CTA link; col2 intro heading/paragraph + comparison tiles (each tile = h4-h6 badge heading followed by icon, amount, label, price)",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:45:19.907Z"
+  }
+}

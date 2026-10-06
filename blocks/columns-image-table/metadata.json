@@ -1,0 +1,25 @@
+{
+  "variantName": "columns-image-table",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "image-with-table",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "1 row x 2 columns: col1 chart image; col2 optional heading + data table (rich-text table, or list items with | separated values, first item = header)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:46:44.104Z"
+  }
+}

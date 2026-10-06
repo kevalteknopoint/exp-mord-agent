@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-stats",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "stats-tiles",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "each row = stat tile: cell1 line icon, cell2 rich text (bold stat value + short label)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:37:17.419Z"
+  }
+}

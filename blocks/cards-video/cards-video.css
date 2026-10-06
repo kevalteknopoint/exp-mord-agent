@@ -1,0 +1,68 @@
+/* Block: cards-video -- design migrated from dulux.in "Tips, Tricks, & More" video cards */
+
+.cards-video > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+
+.cards-video > ul > li {
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: visible;
+}
+
+/* Video poster / image */
+.cards-video .cards-card-image {
+  position: relative;
+  line-height: 0;
+  margin-bottom: 12px;
+}
+
+.cards-video .cards-card-image img,
+.cards-video > ul > li img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 0;
+}
+
+/* Title */
+.cards-video .cards-card-body {
+  padding: 0;
+}
+
+.cards-video .cards-card-body h4 {
+  margin: 0;
+  font-family: var(--body-font-family);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #000;
+  text-align: left;
+}
+
+/* Authored content repeats the title as a link; EDS decorates it into a
+   button. The source shows only the title, so hide the redundant button. */
+.cards-video .cards-card-body .button-container {
+  display: none;
+}
+
+/* Make the whole card clickable via the image link if present */
+.cards-video .cards-card-image a {
+  display: block;
+}
+
+@media (width >= 900px) {
+  .cards-video > ul {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-product",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-05-07T09:14:05.171Z",
+  "sourceContext": {
+    "originUrl": "https://www.ceat.com/",
+    "originPage": "CEAT homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "product",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "product image + product name link",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "product showcase grids",
+      "tyre product listings",
+      "category product cards with image and name"
+    ],
+    "notSuitableFor": [
+      "text-heavy content cards",
+      "video cards",
+      "testimonial cards"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index", "/index"],
+    "reuseCount": 2,
+    "lastUsed": "2026-07-08T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,79 @@
+/* Cards Icon List: vertical list - small line icon, bold title, grey description */
+.cards-icon-list > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.cards-icon-list .cards-icon-list-item {
+  display: grid;
+  grid-template-columns: 32px minmax(0, 1fr);
+  gap: 12px;
+  align-items: start;
+}
+
+.cards-icon-list .cards-icon-list-item.cards-icon-list-no-icon {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.cards-icon-list .cards-icon-list-icon > * {
+  margin: 0;
+}
+
+.cards-icon-list .cards-icon-list-icon img {
+  display: block;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+.cards-icon-list .cards-icon-list-body > * {
+  margin: 0 0 4px;
+}
+
+.cards-icon-list .cards-icon-list-body > :last-child {
+  margin-bottom: 0;
+}
+
+.cards-icon-list .cards-icon-list-body > :is(h2, h3, h4, h5, h6) {
+  margin-bottom: 4px;
+  font-size: var(--body-font-size-s);
+  line-height: 20px;
+  color: var(--color-neutral-black);
+}
+
+.cards-icon-list .cards-icon-list-body > :is(p, ul, ol),
+.cards-icon-list .cards-icon-list-body li {
+  font-size: var(--body-font-size-s);
+  line-height: 22px;
+  color: var(--color-grey-dark);
+}
+
+.cards-icon-list .cards-icon-list-body a:any-link {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+@media (width >= 900px) {
+  .cards-icon-list > ul {
+    gap: 18px;
+  }
+
+  .cards-icon-list .cards-icon-list-item {
+    grid-template-columns: 36px minmax(0, 1fr);
+    gap: 16px;
+  }
+
+  .cards-icon-list .cards-icon-list-icon img {
+    width: 36px;
+    height: 36px;
+  }
+
+  .cards-icon-list .cards-icon-list-body > :is(h2, h3, h4, h5, h6) {
+    font-size: var(--body-font-size-m);
+    line-height: 22px;
+  }
+}

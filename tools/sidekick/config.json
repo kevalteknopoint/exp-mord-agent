@@ -1,4 +1,11 @@
 {
+  "project": "NPRPL",
+  "org": "kevalteknopoint",
+  "site": "exp-mord-agent",
+  "repo": "exp-mord-agent",
+  "contentSourceUrl": "https://author-p48457-e880357.adobeaemcloud.com",
+  "contentSourceType": "markup",
+  "host": "main--exp-mord-agent--kevalteknopoint.aem.live",
   "plugins": [
     {
       "id": "aemedit",

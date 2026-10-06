@@ -1,0 +1,25 @@
+{
+  "variantName": "tabs-faq",
+  "baseBlock": "tabs",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "faq-tabs",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "optional first single-cell row = collapsible title; each next row = tab: cell1 tab label, cell2 rich text (question headings + answer paragraphs, numbered automatically)",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:51:41.035Z"
+  }
+}

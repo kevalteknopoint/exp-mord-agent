@@ -1,0 +1,31 @@
+{
+  "https://www.dulux.in/": {
+    "signature": "s(s,s,s(s(sB(2x2B,2x1),s(4x1(,,,),sB,s,sB,sB,sB,sB,sB,s(,),sB,sB,sB,sB,sB,sB,sB,2x1),4x2B,4x1B,sB(2x1,5x1,2x1)),s),s,s,s,s)",
+    "nodeMap": {
+      "r": "body",
+      "rc3": "#app",
+      "rc3c1": "#app > div.app-root",
+      "rc3c1c1": "#app > div.app-root > header.s1-header",
+      "rc3c1c2": "#app > div.app-root > div.aem-Grid.aem-Grid--12.aem-Grid--default--12",
+      "rc3c1c2c1": "div.c32-color-wizard",
+      "rc3c1c2c2": "div.cmp-c23-text-block.style-hero:nth-of-type(2)",
+      "rc3c1c2c3": "div.cmp-c10-callout-blocks",
+      "rc3c1c2c4": "div.cmp-c12-hero-banner.style-appearance-primary-brand-3",
+      "rc3c1c2c6": "div.cmp-c43-related-content:nth-of-type(6)",
+      "rc3c1c2c9": "div.cmp-c19-media",
+      "rc3c1c2c16": "div.cmp-c12-hero-banner.style-appearance-light",
+      "rc3c1c2c17": "div.cmp-c15-carousel",
+      "rc3c1c3": "#app > div.app-root > section.c18-logo-group",
+      "rc3c1c5": "footer.s3-secondary-footer"
+    },
+    "sections": [
+      { "id": "rc1", "selector": "div.c32-color-wizard", "layout": null, "hasBg": true, "hint": "block" },
+      { "id": "rc2", "selector": "div.cmp-c10-callout-blocks", "layout": "2x2", "hasBg": false, "hint": "block" },
+      { "id": "rc3", "selector": "div.cmp-c12-hero-banner.style-appearance-primary-brand-3", "layout": null, "hasBg": true, "hint": "block" },
+      { "id": "rc4", "selector": "div.cmp-c43-related-content:nth-of-type(6)", "layout": "4x2", "hasBg": false, "hint": "block" },
+      { "id": "rc5", "selector": "div.cmp-c19-media", "layout": null, "hasBg": false, "hint": "block" },
+      { "id": "rc6", "selector": "div.cmp-c12-hero-banner.style-appearance-light", "layout": null, "hasBg": true, "hint": "block" },
+      { "id": "rc7", "selector": "div.cmp-c15-carousel", "layout": "5x1", "hasBg": true, "hint": "block" }
+    ]
+  }
+}

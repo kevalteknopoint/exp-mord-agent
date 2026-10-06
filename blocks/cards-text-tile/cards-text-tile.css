@@ -1,0 +1,70 @@
+/* Cards Text Tile: grid of rounded text tiles (bold title + grey text).
+   Tiles are light blue on white sections and white with a soft shadow on tinted sections. */
+.cards-text-tile > ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1082px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
+}
+
+.cards-text-tile .cards-text-tile-item {
+  padding: 16px;
+  border-radius: var(--radius-l);
+  background-color: var(--color-light-blue-bg);
+}
+
+main > .section:is(.light-blue, .light, .grey) .cards-text-tile .cards-text-tile-item {
+  background-color: var(--color-white);
+  box-shadow: 0 2px 10px rgb(0 115 187 / 6%);
+}
+
+.cards-text-tile .cards-text-tile-body > * {
+  margin: 0 0 8px;
+}
+
+.cards-text-tile .cards-text-tile-body > :last-child {
+  margin-bottom: 0;
+}
+
+.cards-text-tile .cards-text-tile-body > :is(h2, h3, h4, h5, h6) {
+  margin-bottom: 10px;
+  font-size: var(--body-font-size-s);
+  line-height: 20px;
+  color: var(--color-neutral-black);
+}
+
+.cards-text-tile .cards-text-tile-body > :is(p, ul, ol),
+.cards-text-tile .cards-text-tile-body li {
+  font-size: var(--body-font-size-s);
+  line-height: 24px;
+  color: var(--color-grey-dark);
+}
+
+@media (width >= 600px) {
+  .cards-text-tile > ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (width >= 900px) {
+  .cards-text-tile > ul {
+    gap: 16px 18px;
+  }
+
+  /* 5+ tiles: three per row */
+  .cards-text-tile > ul:has(> li:nth-child(5)) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .cards-text-tile .cards-text-tile-item {
+    min-height: 168px;
+    padding: 20px;
+  }
+
+  .cards-text-tile > ul:has(> li:nth-child(5)) .cards-text-tile-item {
+    min-height: 200px;
+  }
+}

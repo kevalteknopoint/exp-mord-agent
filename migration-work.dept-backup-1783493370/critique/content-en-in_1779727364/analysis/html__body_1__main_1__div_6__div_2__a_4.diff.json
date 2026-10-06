@@ -1,0 +1,56 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__main_1__div_6__div_2__a_4",
+    "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[4] (height 2, similarity 0.4115)"
+  },
+  "_meta": {
+    "migrated_id": "html__body_1__main_1__div_3",
+    "similarity_score": 0.4115,
+    "total_style_changes": 407,
+    "is_leaf": false,
+    "height": 2
+  },
+  "_children_diffs": [
+    {
+      "webpage_section": {
+        "section_id": "html__body_1__main_1__div_6__div_2__a_4__div_1",
+        "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[4]/div[1] (height 1, similarity 0.3549)"
+      },
+      "_meta": {
+        "migrated_id": "html__body_1__main_1__div_3",
+        "similarity_score": 0.3549,
+        "total_style_changes": 413,
+        "is_leaf": false,
+        "height": 1
+      },
+      "_children_diffs": [
+        {
+          "webpage_section": {
+            "section_id": "html__body_1__main_1__div_6__div_2__a_4__div_1__video_1",
+            "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[4]/div[1]/video[1] (height 0, similarity 0.682)"
+          },
+          "_meta": {
+            "migrated_id": "html__body_1__main_1__div_1__div_1__div_1__div_1",
+            "similarity_score": 0.682,
+            "total_style_changes": 407,
+            "is_leaf": true,
+            "height": 0
+          }
+        },
+        {
+          "webpage_section": {
+            "section_id": "html__body_1__main_1__div_6__div_2__a_4__div_1__div_1",
+            "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[4]/div[1]/div[1] (height 0, similarity 0.3781)"
+          },
+          "_meta": {
+            "migrated_id": "html__body_1__main_1__div_3",
+            "similarity_score": 0.3781,
+            "total_style_changes": 426,
+            "is_leaf": true,
+            "height": 0
+          }
+        }
+      ]
+    }
+  ]
+}

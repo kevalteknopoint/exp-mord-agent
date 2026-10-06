@@ -1,0 +1,77 @@
+/*
+ * carousel-badges
+ * Source: Dulux India c15-image-carousel used as a static rating-badge display.
+ * Two AmbitionBox badge images shown side-by-side (24px gap) on desktop,
+ * stacked on mobile. No autoplay/nav/indicator chrome is visible on the source,
+ * so the boilerplate carousel controls are hidden and the slide track is laid
+ * out as a simple flex row instead of a scroll-snap carousel.
+ */
+
+.carousel-badges .carousel-badges-slides-container {
+  position: relative;
+}
+
+/* Lay the slides out as a simple side-by-side row (not a scroll carousel) */
+.carousel-badges .carousel-badges-slides {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+}
+
+.carousel-badges .carousel-badges-slide {
+  flex: 1 1 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+/* Image cell fills the slide; badge images keep their natural aspect ratio */
+.carousel-badges .carousel-badges-slide .carousel-badges-slide-image {
+  width: 100%;
+}
+
+.carousel-badges .carousel-badges-slide .carousel-badges-slide-image p {
+  margin: 0;
+}
+
+.carousel-badges .carousel-badges-slide .carousel-badges-slide-image picture {
+  display: block;
+}
+
+.carousel-badges .carousel-badges-slide .carousel-badges-slide-image picture > img {
+  width: 100%;
+  max-width: 588px;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Content column is empty for badges - remove it from the flow */
+.carousel-badges .carousel-badges-slide .carousel-badges-slide-content {
+  display: none;
+}
+
+/* Source shows no nav arrows or indicator dots - hide carousel chrome */
+.carousel-badges .carousel-badges-navigation-buttons,
+.carousel-badges .carousel-badges-slide-indicators,
+.carousel-badges nav[aria-label] {
+  display: none;
+}
+
+/* Two badges side-by-side on desktop with a 24px gap */
+@media (width >= 900px) {
+  .carousel-badges .carousel-badges-slides {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .carousel-badges .carousel-badges-slide {
+    flex: 0 1 50%;
+    max-width: 50%;
+  }
+}

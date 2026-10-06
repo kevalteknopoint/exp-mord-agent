@@ -1,0 +1,39 @@
+{
+  "variantName": "hero-video",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-05-25T15:27:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.deptagency.com/en-in/",
+    "originPage": "DEPT Agency India homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "video-hero",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + CTA + embedded video",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "homepage heroes with background video",
+      "manifesto/brand statement sections with video",
+      "full-width video hero sections"
+    ],
+    "notSuitableFor": [
+      "static image heroes",
+      "heroes without video",
+      "text-only hero sections"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en-in/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-25T15:27:00.000Z"
+  }
+}

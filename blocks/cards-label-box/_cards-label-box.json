@@ -1,0 +1,41 @@
+{
+  "definitions": [
+    {
+      "title": "Cards Label Box",
+      "id": "cards-label-box",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Cards Label Box",
+              "model": "cards-label-box"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "cards-label-box",
+      "fields": [
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "label",
+          "value": "",
+          "label": "Label"
+        },
+        {
+          "component": "richtext",
+          "valueType": "string",
+          "name": "text",
+          "value": "",
+          "label": "Body"
+        }
+      ]
+    }
+  ],
+  "filters": []
+}

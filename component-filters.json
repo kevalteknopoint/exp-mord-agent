@@ -9,13 +9,16 @@
     "id": "section",
     "components": [
       "accordion",
+      "accordion-seo",
       "button",
+      "cards-article",
       "cards",
       "carousel",
       "columns",
       "embed",
       "fragment",
       "form",
+      "gallery",
       "hero",
       "image",
       "quote",
@@ -24,7 +27,40 @@
       "table",
       "text",
       "title",
-      "video"
+      "video",
+      "hero-calculator",
+      "cards-pricing",
+      "tabs-illustration",
+      "cards-plan",
+      "cards-icon-list",
+      "carousel-persona",
+      "embed-video",
+      "cards-plan-links",
+      "cards-feature-grid",
+      "columns-calculator",
+      "cards-stats",
+      "cards-factor",
+      "table-rounded",
+      "table-comparison",
+      "cards-label-box",
+      "columns-duration",
+      "cards-text-tile",
+      "columns-image-table",
+      "carousel-reviews",
+      "form-callback",
+      "tabs-faq"
+    ]
+  },
+  {
+    "id": "accordion-faq",
+    "components": [
+      "accordion-faq-item"
+    ]
+  },
+  {
+    "id": "accordion-seo",
+    "components": [
+      "accordion-seo-item"
     ]
   },
   {
@@ -34,15 +70,207 @@
     ]
   },
   {
+    "id": "cards-article",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-banner",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-callout",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-casestudy",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-factor",
+    "components": [
+      "cards-factor-item"
+    ]
+  },
+  {
+    "id": "cards-feature-grid",
+    "components": [
+      "cards-feature-grid-item"
+    ]
+  },
+  {
+    "id": "cards-icon-list",
+    "components": [
+      "cards-icon-list-item"
+    ]
+  },
+  {
+    "id": "cards-insights",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-plan-links",
+    "components": [
+      "cards-plan-links-item"
+    ]
+  },
+  {
+    "id": "cards-plan",
+    "components": [
+      "cards-plan-item"
+    ]
+  },
+  {
+    "id": "cards-pricing",
+    "components": [
+      "cards-pricing-item"
+    ]
+  },
+  {
+    "id": "cards-product",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-quicklinks",
+    "components": [
+      "card-quicklink"
+    ]
+  },
+  {
+    "id": "cards-solutions",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-stats",
+    "components": [
+      "cards-stats-item"
+    ]
+  },
+  {
+    "id": "cards-text-tile",
+    "components": [
+      "cards-text-tile-item"
+    ]
+  },
+  {
+    "id": "cards-video",
+    "components": [
+      "card-video"
+    ]
+  },
+  {
     "id": "cards",
     "components": [
       "card"
     ]
   },
   {
+    "id": "carousel-badges",
+    "components": [
+      "carousel-badges-item"
+    ]
+  },
+  {
+    "id": "carousel-culture",
+    "components": [
+      "carousel-culture-item"
+    ]
+  },
+  {
+    "id": "carousel-hero",
+    "components": [
+      "carousel-hero-item"
+    ]
+  },
+  {
+    "id": "carousel-persona",
+    "components": [
+      "carousel-persona-item"
+    ]
+  },
+  {
+    "id": "carousel-reviews",
+    "components": [
+      "carousel-reviews-item"
+    ]
+  },
+  {
+    "id": "carousel-stories",
+    "components": [
+      "carousel-stories-item"
+    ]
+  },
+  {
+    "id": "carousel-testimonial",
+    "components": [
+      "carousel-testimonial-item"
+    ]
+  },
+  {
     "id": "carousel",
     "components": [
       "carousel-item"
+    ]
+  },
+  {
+    "id": "columns-calculator",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "columns-duration",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "columns-feature",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
+    ]
+  },
+  {
+    "id": "columns-image-table",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "columns-locator",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
     ]
   },
   {
@@ -58,6 +286,60 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "gallery",
+    "components": [
+      "gallery-item"
+    ]
+  },
+  {
+    "id": "table-comparison",
+    "components": [
+      "table-comparison-row"
+    ]
+  },
+  {
+    "id": "table-comparison-2-columns",
+    "components": [
+      "table-comparison-col-2"
+    ]
+  },
+  {
+    "id": "table-comparison-3-columns",
+    "components": [
+      "table-comparison-col-3"
+    ]
+  },
+  {
+    "id": "table-comparison-4-columns",
+    "components": [
+      "table-comparison-col-4"
+    ]
+  },
+  {
+    "id": "table-rounded",
+    "components": [
+      "table-rounded-row"
+    ]
+  },
+  {
+    "id": "table-rounded-2-columns",
+    "components": [
+      "table-rounded-col-2"
+    ]
+  },
+  {
+    "id": "table-rounded-3-columns",
+    "components": [
+      "table-rounded-col-3"
+    ]
+  },
+  {
+    "id": "table-rounded-4-columns",
+    "components": [
+      "table-rounded-col-4"
     ]
   },
   {
@@ -82,6 +364,24 @@
     "id": "table-4-columns",
     "components": [
       "table-col-4"
+    ]
+  },
+  {
+    "id": "tabs-brands",
+    "components": [
+      "tabs-brands-item"
+    ]
+  },
+  {
+    "id": "tabs-faq",
+    "components": [
+      "tabs-faq-item"
+    ]
+  },
+  {
+    "id": "tabs-illustration",
+    "components": [
+      "tabs-illustration-item"
     ]
   },
   {

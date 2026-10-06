@@ -1,14 +1,29 @@
 .columns > div {
   display: flex;
   flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.columns > div > div {
+  flex: 1;
+}
+
+.columns > div > div h3 {
+  color: var(--color-primary);
+  font-size: var(--heading-font-size-m);
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.columns > div > div p {
+  font-size: var(--body-font-size-s);
+  color: var(--text-color);
+  margin-bottom: 0;
 }
 
 .columns img {
   width: 100%;
-}
-
-.columns > div > div {
-  order: 1;
 }
 
 .columns > div > .columns-img-col {
@@ -19,11 +34,11 @@
   display: block;
 }
 
-@media (width >= 900px) {
+@media (width >= 768px) {
   .columns > div {
-    align-items: center;
-    flex-direction: unset;
+    flex-direction: row;
     gap: 24px;
+    align-items: flex-start;
   }
 
   .columns > div > div {

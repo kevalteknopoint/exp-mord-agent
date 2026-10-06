@@ -1,0 +1,195 @@
+/* Cards Plan: outlined white plan cards with full-width footer CTA + fine print */
+.cards-plan > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+}
+
+.cards-plan .cards-plan-item {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1 1 100%;
+  max-width: 386px;
+  min-width: 0;
+}
+
+.cards-plan .cards-plan-card {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  border: 1px solid var(--color-brand-blue-tint-1);
+  border-radius: var(--radius-l);
+  background-color: var(--color-white);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+}
+
+/* featured card (first card of a checklist block): gradient outline + gradient CTA */
+.cards-plan .cards-plan-item:first-child .cards-plan-card:has(.cards-plan-checklist) {
+  border-color: transparent;
+  background:
+    linear-gradient(var(--color-white), var(--color-white)) padding-box,
+    var(--heading-gradient) border-box;
+}
+
+.cards-plan .cards-plan-card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 16px 16px 14px;
+  color: var(--color-grey-dark);
+}
+
+.cards-plan .cards-plan-card-body > * {
+  margin: 0 0 12px;
+}
+
+.cards-plan .cards-plan-card-body > :last-child {
+  margin-bottom: 0;
+}
+
+/* eyebrow ("Tata AIA") */
+.cards-plan .cards-plan-card-body > p:first-child {
+  margin-bottom: 2px;
+  font-size: var(--body-font-size-xs);
+  line-height: 18px;
+  color: var(--color-grey-dark);
+}
+
+/* plan name + divider */
+.cards-plan .cards-plan-card-body > :is(h2, h3, h4, h5, h6) {
+  margin-bottom: 14px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--color-border-light);
+  font-size: var(--body-font-size-m);
+  line-height: 22px;
+  color: var(--color-neutral-black);
+}
+
+.cards-plan .cards-plan-card-body > p:not(:first-child, .cards-plan-card-link) {
+  font-size: var(--body-font-size-s);
+  line-height: 22px;
+}
+
+.cards-plan .cards-plan-checklist {
+  list-style: none;
+  padding: 0;
+}
+
+.cards-plan .cards-plan-checklist li {
+  position: relative;
+  margin: 0 0 12px;
+  padding-left: 30px;
+  font-size: var(--body-font-size-s);
+  line-height: 20px;
+  color: var(--color-grey-dark);
+}
+
+.cards-plan .cards-plan-checklist li:last-child {
+  margin-bottom: 0;
+}
+
+.cards-plan .cards-plan-checklist li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='none' stroke='%230073bb' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='10' cy='10' r='8.3'/%3E%3Cpath d='m6.3 10.2 2.5 2.5 4.9-5'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+
+/* "Know More" text link, centered at the bottom of the body */
+.cards-plan .cards-plan-card-body > .cards-plan-card-link {
+  margin-top: auto;
+  padding-top: 16px;
+  text-align: center;
+}
+
+.cards-plan .cards-plan-card-link a:any-link {
+  display: inline;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  color: var(--color-brand-blue);
+  font-size: var(--body-font-size-s);
+  font-weight: 700;
+  line-height: 18px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.cards-plan .cards-plan-card-link a:hover,
+.cards-plan .cards-plan-card-link a:focus-visible {
+  border: 0;
+  background: none;
+  color: var(--color-brand-blue-dark);
+}
+
+/* full-width footer button */
+.cards-plan .cards-plan-card-action {
+  margin: 0;
+}
+
+.cards-plan .cards-plan-card-action a:any-link {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 15px 16px;
+  border: 0;
+  border-radius: 0;
+  background: var(--color-brand-blue);
+  color: var(--color-white);
+  font-size: var(--body-font-size-s);
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.cards-plan .cards-plan-card-action a:hover,
+.cards-plan .cards-plan-card-action a:focus-visible {
+  border: 0;
+  background: var(--color-brand-blue-dark);
+  color: var(--color-white);
+}
+
+.cards-plan .cards-plan-item:first-child .cards-plan-card:has(.cards-plan-checklist) .cards-plan-card-action a:any-link {
+  background: var(--button-gradient);
+}
+
+.cards-plan .cards-plan-item:first-child .cards-plan-card:has(.cards-plan-checklist) .cards-plan-card-action a:hover {
+  opacity: 0.92;
+}
+
+.cards-plan .cards-plan-disclaimer {
+  padding: 0 8px;
+  font-size: 10px;
+  line-height: 14px;
+  text-align: center;
+  color: var(--color-grey-dark);
+}
+
+.cards-plan .cards-plan-disclaimer > * {
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+@media (width >= 600px) {
+  .cards-plan .cards-plan-item {
+    flex-basis: calc(50% - 12px);
+  }
+}
+
+@media (width >= 1200px) {
+  .cards-plan .cards-plan-item {
+    flex: 1 1 0;
+  }
+}

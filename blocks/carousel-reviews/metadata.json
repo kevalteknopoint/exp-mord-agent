@@ -1,0 +1,25 @@
+{
+  "variantName": "carousel-reviews",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "grey",
+    "density": "spacious",
+    "purpose": "testimonial",
+    "imagePattern": "avatar"
+  },
+  "contentPattern": {
+    "structure": "each row = review card: cell1 round avatar image, cell2 rich text (reviewer name heading, plan name, date, rating paragraph e.g. 4/5, Watch Video link, quote text)",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:48:42.219Z"
+  }
+}

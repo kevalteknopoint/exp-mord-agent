@@ -1,0 +1,103 @@
+/* Embed Video: centered 16:9 video in a white rounded card frame */
+.embed-video {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 8px;
+  border: 1px solid rgb(0 115 187 / 8%);
+  border-radius: 16px;
+  background-color: var(--color-white);
+  box-shadow: 0 8px 24px 0 rgb(0 115 187 / 12%);
+}
+
+/* reserve the 16:9 area before the iframe is injected (avoids layout shift) */
+.embed-video:empty::before {
+  content: '';
+  display: block;
+  aspect-ratio: 16 / 9;
+  border-radius: 10px;
+  background-color: var(--color-light-blue-bg);
+}
+
+.embed-video .embed-video-frame,
+.embed-video .embed-video-placeholder {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: var(--color-neutral-black);
+}
+
+.embed-video .embed-video-frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.embed-video .embed-video-placeholder {
+  cursor: pointer;
+}
+
+.embed-video .embed-video-placeholder picture,
+.embed-video .embed-video-placeholder img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.embed-video .embed-video-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 68px;
+  height: 48px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 12px;
+  background: var(--color-brand-red);
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  transition: background-color var(--transition-base);
+}
+
+.embed-video .embed-video-play:hover,
+.embed-video .embed-video-play:focus-visible {
+  background: var(--color-brand-red-dark);
+}
+
+.embed-video .embed-video-play::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 54%;
+  border-style: solid;
+  border-width: 10px 0 10px 17px;
+  border-color: transparent transparent transparent var(--color-white);
+  transform: translate(-50%, -50%);
+}
+
+@media (width >= 600px) {
+  .embed-video {
+    padding: 12px;
+    border-radius: 20px;
+  }
+
+  .embed-video .embed-video-frame,
+  .embed-video .embed-video-placeholder,
+  .embed-video:empty::before {
+    border-radius: 12px;
+  }
+}
+
+@media (width >= 900px) {
+  .embed-video {
+    padding: 16px;
+    border-radius: 24px;
+  }
+}

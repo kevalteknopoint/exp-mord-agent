@@ -1,0 +1,28 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__main_1__div_11",
+    "section_description": "Node at /html/body[1]/main[1]/div[11] (height 1, similarity 0.5901)"
+  },
+  "_meta": {
+    "migrated_id": "html__body_1__main_1__div_4",
+    "similarity_score": 0.5901,
+    "total_style_changes": 396,
+    "is_leaf": false,
+    "height": 1
+  },
+  "_children_diffs": [
+    {
+      "webpage_section": {
+        "section_id": "html__body_1__main_1__div_11__div_1",
+        "section_description": "Node at /html/body[1]/main[1]/div[11]/div[1] (height 0, similarity 0.5341)"
+      },
+      "_meta": {
+        "migrated_id": "html__body_1__main_1__div_4",
+        "similarity_score": 0.5341,
+        "total_style_changes": 405,
+        "is_leaf": true,
+        "height": 0
+      }
+    }
+  ]
+}

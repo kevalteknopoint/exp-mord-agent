@@ -1,0 +1,177 @@
+/* Block: cards-casestudy -- Masonry-style case study cards */
+/* Source: DEPT Agency work listing grid */
+/* Extracted values: grid gap 72px 20px, brand font-size 20px, font-weight 900, */
+/* color rgb(0,0,0), text-transform uppercase, line-height 21px */
+/* Tags color: rgb(118, 118, 118), image object-fit: cover */
+
+.cards-casestudy > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 48px 20px;
+}
+
+.cards-casestudy > ul > li {
+  background-color: var(--background-color);
+  border: none;
+  overflow: hidden;
+}
+
+/* Media cell (image or video link) */
+.cards-casestudy .cards-casestudy-card-image {
+  position: relative;
+  overflow: clip;
+  line-height: 0;
+}
+
+.cards-casestudy .cards-casestudy-card-image p {
+  margin: 0;
+  line-height: 0;
+  font-size: 0;
+}
+
+.cards-casestudy .cards-casestudy-card-image picture {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  background-color: #1a1a1a;
+}
+
+.cards-casestudy > ul > li img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  display: block;
+}
+
+/* Video link placeholder styling */
+.cards-casestudy .cards-casestudy-card-image a:any-link {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  background-color: #1a1a1a;
+  color: transparent;
+  font-size: 0;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+/* Reset button styling on video links in media cell */
+main .cards-casestudy .cards-casestudy-card-image a.button:any-link {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background-color: #1a1a1a;
+  color: transparent;
+  font-size: 0;
+  text-transform: none;
+  letter-spacing: normal;
+  white-space: normal;
+  overflow: hidden;
+}
+
+main .cards-casestudy .cards-casestudy-card-image a.button:hover {
+  background-color: #1a1a1a;
+  color: transparent;
+  text-decoration: none;
+}
+
+main .cards-casestudy .cards-casestudy-card-image .button-container {
+  display: block;
+  line-height: 0;
+  font-size: 0;
+}
+
+/* Meta/body cell (brand name + View Work link) */
+.cards-casestudy .cards-casestudy-card-body {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  padding: 16px 0 0;
+  flex-wrap: wrap;
+}
+
+.cards-casestudy .cards-casestudy-card-body p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.3;
+  color: var(--text-color);
+}
+
+.cards-casestudy .cards-casestudy-card-body p strong {
+  font-size: 20px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  line-height: 21px;
+  color: var(--text-color);
+}
+
+/* Reset EDS button styling for "View Work" links in body */
+main .cards-casestudy .cards-casestudy-card-body a.button:any-link {
+  display: inline;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: none;
+  color: rgb(118, 118, 118);
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: normal;
+  white-space: normal;
+  transition: none;
+}
+
+main .cards-casestudy .cards-casestudy-card-body a.button:hover {
+  background: none;
+  color: var(--text-color);
+  text-decoration: underline;
+}
+
+main .cards-casestudy .cards-casestudy-card-body .button-container {
+  display: inline;
+}
+
+@media (width >= 900px) {
+  .cards-casestudy > ul {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 72px 20px;
+  }
+
+  /* Third card spans full width with wider aspect ratio */
+  .cards-casestudy > ul > li:nth-child(3) {
+    grid-column: 1 / -1;
+  }
+
+  .cards-casestudy > ul > li:nth-child(3) img {
+    aspect-ratio: 7 / 4;
+  }
+
+  .cards-casestudy > ul > li:nth-child(3) .cards-casestudy-card-image a:any-link {
+    aspect-ratio: 7 / 4;
+  }
+
+  main .cards-casestudy > ul > li:nth-child(3) .cards-casestudy-card-image a.button:any-link {
+    aspect-ratio: 7 / 4;
+  }
+
+  /* Second card is taller/square aspect ratio */
+  .cards-casestudy > ul > li:nth-child(2) img {
+    aspect-ratio: 1 / 1;
+  }
+
+  .cards-casestudy > ul > li:nth-child(2) picture {
+    aspect-ratio: 1 / 1;
+  }
+
+  .cards-casestudy > ul > li:nth-child(3) picture {
+    aspect-ratio: 7 / 4;
+  }
+}

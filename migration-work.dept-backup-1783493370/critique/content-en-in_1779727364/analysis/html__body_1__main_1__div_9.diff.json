@@ -1,0 +1,41 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__main_1__div_9",
+    "section_description": "Node at /html/body[1]/main[1]/div[9] (height 1, similarity 0.74)"
+  },
+  "_meta": {
+    "migrated_id": "html__body_1__main_1__div_3__div_5",
+    "similarity_score": 0.74,
+    "total_style_changes": 396,
+    "is_leaf": false,
+    "height": 1
+  },
+  "_children_diffs": [
+    {
+      "webpage_section": {
+        "section_id": "html__body_1__main_1__div_9__img_1",
+        "section_description": "Node at /html/body[1]/main[1]/div[9]/img[1] (height 0, similarity 0.9141)"
+      },
+      "_meta": {
+        "migrated_id": "html__body_1__main_1__div_3__div_5__p_1__picture_1__img_1",
+        "similarity_score": 0.9141,
+        "total_style_changes": 395,
+        "is_leaf": true,
+        "height": 0
+      }
+    },
+    {
+      "webpage_section": {
+        "section_id": "html__body_1__main_1__div_9__div_1",
+        "section_description": "Node at /html/body[1]/main[1]/div[9]/div[1] (height 0, similarity 0.6804)"
+      },
+      "_meta": {
+        "migrated_id": "html__body_1__main_1__div_1__div_1__div_1__div_2__div_1",
+        "similarity_score": 0.6804,
+        "total_style_changes": 388,
+        "is_leaf": true,
+        "height": 0
+      }
+    }
+  ]
+}

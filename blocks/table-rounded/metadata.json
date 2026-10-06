@@ -1,0 +1,25 @@
+{
+  "variantName": "table-rounded",
+  "baseBlock": "table",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "data-table",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "each row = table row; first row is the header; 1-4 rich-text columns (paragraphs, bullet lists)",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 7,
+    "lastUsed": "2026-10-01T15:40:46.274Z"
+  }
+}

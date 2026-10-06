@@ -1,0 +1,110 @@
+/* Block: carousel-culture -- CSS extracted from source computed styles */
+/* DO NOT replace these values with generic defaults. */
+/* Source: .block-feature-turntable on https://www.deptagency.com/en-in/ */
+
+/* Block container */
+.carousel-culture {
+  color: rgb(0, 0, 0);
+  overflow: hidden;
+  position: relative;
+  /* full-width: 1440px at desktop, 100% of parent */
+  /* height: ~1083px (approx 75vw) */
+}
+
+/* Title (first p in each slide) */
+.carousel-culture .title {
+  font-size: 100px;
+  font-weight: 900;
+  line-height: 102.5px; /* 1.025 ratio */
+  letter-spacing: -3px;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  font-family: InterVariable, system-ui, sans-serif;
+  margin: 0;
+}
+
+/* Title accent span (second line) */
+.carousel-culture .title span {
+  color: rgb(255, 73, 1);
+}
+
+/* Statistics / description text (second p) */
+.carousel-culture .stats {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(118, 118, 118);
+  font-family: InterVariable, system-ui, sans-serif;
+  letter-spacing: -0.84px;
+}
+
+/* Image */
+.carousel-culture img {
+  object-fit: contain;
+  width: 100%;
+  /* actual image: 720x504 = aspect 1.43:1 */
+}
+
+/* Slide item layout */
+.carousel-culture .slide-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 0 120px;
+  /* each item: 50% viewport width */
+  width: 50%;
+}
+
+/* Active slide */
+.carousel-culture .slide-item.active {
+  opacity: 1;
+  filter: blur(0px);
+}
+
+/* Neighboring (adjacent) slides */
+.carousel-culture .slide-item.adjacent {
+  opacity: 0.55;
+  filter: blur(1px);
+}
+
+/* Far slides */
+.carousel-culture .slide-item.far {
+  opacity: 0.1;
+  filter: blur(1px);
+}
+
+/* Navigation dots container */
+.carousel-culture .nav-dots {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 52px;
+  left: 0;
+  right: 0;
+  height: 7px;
+}
+
+/* Individual dot (bar style) */
+.carousel-culture .nav-dot {
+  flex: 1;
+  height: 3px;
+  background-color: rgb(18, 18, 18);
+  border-radius: 0px;
+  cursor: pointer;
+  border: none;
+  padding: 0;
+}
+
+/* Active dot */
+.carousel-culture .nav-dot.active {
+  height: 7px;
+  border-radius: 2px 8px 8px 2px;
+  background-color: rgb(18, 18, 18);
+}
+
+/* Last dot */
+.carousel-culture .nav-dot:last-child {
+  border-radius: 0px 2px 2px 0px;
+}

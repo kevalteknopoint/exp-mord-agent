@@ -1,0 +1,374 @@
+{
+  "url": "https://www.dulux.in/",
+  "documentPath": "/index",
+  "analyzedAt": "2026-07-08",
+  "model": "David's Model - default content preferred; blocks only for structured/repeating/interactive content.",
+  "sections": [
+    {
+      "id": "sec-1",
+      "order": 1,
+      "selector": "div.c32-color-wizard",
+      "hint": "block",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Full-width intro banner 'Welcome to your world in colour' with interactive wizard entry points and Know More / Claim Your Warranty links.",
+          "decision": "block",
+          "blockName": "hero-wizard",
+          "reason": "hint=block. Prominent full-width intro banner with heading, background image, and CTAs. Wizard interactivity cannot be authored as default content; the closest content-model shape is a hero with heading + image + CTAs. Interactive stepping is a decoration concern.",
+          "match": "obvious",
+          "genericBlock": "hero",
+          "blockVariant": "hero-wizard"
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "order": 2,
+      "selector": "div.cmp-c10-callout-blocks",
+      "hint": "block",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "2x2 grid of tiles, each image + linked heading (Colour Play, Sustainability, Products, Store finder).",
+          "decision": "block",
+          "blockName": "cards-callout",
+          "reason": "hint=block. Repeating structured grid of image + heading link items -> cards.",
+          "match": "obvious",
+          "genericBlock": "cards",
+          "blockVariant": "cards-callout"
+        }
+      ]
+    },
+    {
+      "id": "sec-3",
+      "order": 3,
+      "selector": "div.cmp-c12-hero-banner.style-appearance-primary-brand-3",
+      "hint": "block",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Brand-blue full-width promo banner: heading, paragraph, CTA button, side image.",
+          "decision": "block",
+          "blockName": "hero-promo",
+          "reason": "hint=block. Full-width banner with background/side image + heading + CTA -> hero.",
+          "match": "obvious",
+          "genericBlock": "hero",
+          "blockVariant": "hero-promo"
+        }
+      ]
+    },
+    {
+      "id": "sec-4",
+      "order": 4,
+      "selector": "div.cmp-c23-text-block.style-hero:nth-of-type(5)",
+      "hint": "default-content",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Centered eyebrow 'Inspiring Paint Solutions', heading 'Dive into a world of colours with Dulux', descriptive paragraph.",
+          "decision": "default-content",
+          "reason": "Author types eyebrow, heading, and paragraph normally. No structure required. Centered styling is a CSS/section concern."
+        }
+      ]
+    },
+    {
+      "id": "sec-5",
+      "order": 5,
+      "selector": "div.cmp-c43-related-content:nth-of-type(6)",
+      "hint": "block",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "4-column grid of cards: image + heading + arrow link (Colour of the Year 2026 inspiration articles).",
+          "decision": "block",
+          "blockName": "cards-article",
+          "reason": "hint=block. Repeating card grid of image + heading + link -> cards.",
+          "match": "obvious",
+          "genericBlock": "cards",
+          "blockVariant": "cards-article"
+        }
+      ]
+    },
+    {
+      "id": "sec-6",
+      "order": 6,
+      "selector": "div.cmp-c23-text-block.style-hero:nth-of-type(7)",
+      "hint": "default-content",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Centered eyebrow 'Featured Products', heading 'Colours to Suit Your Palettes'.",
+          "decision": "default-content",
+          "reason": "Author types eyebrow + heading normally."
+        }
+      ]
+    },
+    {
+      "id": "sec-7",
+      "order": 7,
+      "selector": "div.cmp-c43-related-content:nth-of-type(8)",
+      "hint": "block",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "4-column grid of product cards: product image + linked product name.",
+          "decision": "block",
+          "blockName": "cards-product",
+          "reason": "hint=block. Repeating product card grid (image + name link) -> cards.",
+          "match": "obvious",
+          "genericBlock": "cards",
+          "blockVariant": "cards-product"
+        }
+      ]
+    },
+    {
+      "id": "sec-8",
+      "order": 8,
+      "selector": "div.cmp-c19-media.style-contain",
+      "hint": "block",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Full-width media banner (campaign image) with overlaid heading 'Paint with Confidence, backed by Dulux Assurance!'.",
+          "decision": "block",
+          "blockName": "hero-media",
+          "reason": "hint=block. Full-width image with overlaid heading text -> hero (media/banner shape). Not a plain inline image because of the full-bleed image + overlay treatment.",
+          "match": "obvious",
+          "genericBlock": "hero",
+          "blockVariant": "hero-media"
+        }
+      ]
+    },
+    {
+      "id": "sec-9",
+      "order": 9,
+      "selector": "div.cmp-c23-text-block.style-hero:nth-of-type(11)",
+      "hint": "default-content",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Centered eyebrow 'Perfect Your Paint', heading 'Tips, Tricks, & More on Our Channel'.",
+          "decision": "default-content",
+          "reason": "Author types eyebrow + heading normally."
+        }
+      ]
+    },
+    {
+      "id": "sec-10",
+      "order": 10,
+      "selector": "div.cmp-c43-related-content:nth-of-type(12)",
+      "hint": "block",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "3-column grid of video cards: thumbnail with play overlay + heading + link.",
+          "decision": "block",
+          "blockName": "cards-video",
+          "reason": "hint=block. Repeating video-thumbnail card grid -> cards.",
+          "match": "obvious",
+          "genericBlock": "cards",
+          "blockVariant": "cards-video"
+        }
+      ]
+    },
+    {
+      "id": "sec-11",
+      "order": 11,
+      "selector": "div.cmp-c23-text-block.style-hero:nth-of-type(13)",
+      "hint": "default-content",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Centered eyebrow 'Expert Advice', heading 'Your Journey, The Right Way'.",
+          "decision": "default-content",
+          "reason": "Author types eyebrow + heading normally."
+        }
+      ]
+    },
+    {
+      "id": "sec-12",
+      "order": 12,
+      "selector": "div.cmp-c43-related-content:nth-of-type(14)",
+      "hint": "block",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "4-column grid of article cards: image + heading + link (expert advice articles).",
+          "decision": "block",
+          "blockName": "cards-article",
+          "reason": "hint=block. Repeating article card grid (image + heading + link) -> cards.",
+          "match": "obvious",
+          "genericBlock": "cards",
+          "blockVariant": "cards-article"
+        }
+      ]
+    },
+    {
+      "id": "sec-13",
+      "order": 13,
+      "selector": "div.cmp-c23-text-block.style-hero:nth-of-type(15)",
+      "hint": "default-content",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Single centered link 'View All Articles'.",
+          "decision": "default-content",
+          "reason": "Author types a single link normally."
+        }
+      ]
+    },
+    {
+      "id": "sec-14",
+      "order": 14,
+      "selector": "div.cmp-c12-hero-banner.style-appearance-light",
+      "hint": "block",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Light full-width promo banner: heading 'Looking for Painting Services', CTA 'Book Free Consultation Now', side image.",
+          "decision": "block",
+          "blockName": "hero-promo",
+          "reason": "hint=block. Full-width banner with image + heading + CTA -> hero.",
+          "match": "obvious",
+          "genericBlock": "hero",
+          "blockVariant": "hero-promo"
+        }
+      ]
+    },
+    {
+      "id": "sec-15",
+      "order": 15,
+      "selector": "div.cmp-c15-carousel",
+      "hint": "block",
+      "sectionStyle": null,
+      "sequences": [
+        {
+          "seq": 1,
+          "description": "Rotating carousel of award/rating badge image slides.",
+          "decision": "block",
+          "blockName": "carousel-badges",
+          "reason": "hint=block. Rotating image slides -> carousel.",
+          "match": "obvious",
+          "genericBlock": "carousel",
+          "blockVariant": "carousel-badges"
+        }
+      ]
+    }
+  ],
+  "step3eValidation": {
+    "note": "All block sections contain exactly one sequence. Reviewed screenshot for each single-block section.",
+    "decisions": [
+      {
+        "section": "sec-1",
+        "block": "hero",
+        "background": "full-bleed image",
+        "decision": "SKIP section-metadata",
+        "reason": "hero intrinsic background"
+      },
+      {
+        "section": "sec-2",
+        "block": "cards",
+        "background": "solid light with padding",
+        "decision": "SKIP section-metadata",
+        "reason": "default light section, no distinct bg"
+      },
+      {
+        "section": "sec-3",
+        "block": "hero",
+        "background": "brand-blue full-bleed banner",
+        "decision": "SKIP section-metadata",
+        "reason": "banner intrinsic background"
+      },
+      {
+        "section": "sec-5",
+        "block": "cards",
+        "background": "light",
+        "decision": "SKIP section-metadata",
+        "reason": "default light section"
+      },
+      {
+        "section": "sec-7",
+        "block": "cards",
+        "background": "light",
+        "decision": "SKIP section-metadata",
+        "reason": "default light section"
+      },
+      {
+        "section": "sec-8",
+        "block": "hero",
+        "background": "full-bleed campaign image",
+        "decision": "SKIP section-metadata",
+        "reason": "media banner intrinsic background"
+      },
+      {
+        "section": "sec-10",
+        "block": "cards",
+        "background": "light",
+        "decision": "SKIP section-metadata",
+        "reason": "default light section"
+      },
+      {
+        "section": "sec-12",
+        "block": "cards",
+        "background": "light",
+        "decision": "SKIP section-metadata",
+        "reason": "default light section"
+      },
+      {
+        "section": "sec-14",
+        "block": "hero",
+        "background": "light full-bleed banner",
+        "decision": "SKIP section-metadata",
+        "reason": "banner intrinsic background"
+      },
+      {
+        "section": "sec-15",
+        "block": "carousel",
+        "background": "light",
+        "decision": "SKIP section-metadata",
+        "reason": "default light section"
+      }
+    ]
+  },
+  "variantMapping": {
+    "sec-1": "hero-wizard",
+    "sec-2": "cards-callout",
+    "sec-3": "hero-promo",
+    "sec-5": "cards-article",
+    "sec-7": "cards-product",
+    "sec-8": "hero-media",
+    "sec-10": "cards-video",
+    "sec-12": "cards-article",
+    "sec-14": "hero-promo",
+    "sec-15": "carousel-badges"
+  },
+  "variantSummary": {
+    "reused": [
+      "cards-product",
+      "cards-video"
+    ],
+    "created": [
+      "hero-wizard",
+      "hero-promo",
+      "hero-media",
+      "cards-callout",
+      "cards-article",
+      "carousel-badges"
+    ]
+  }
+}

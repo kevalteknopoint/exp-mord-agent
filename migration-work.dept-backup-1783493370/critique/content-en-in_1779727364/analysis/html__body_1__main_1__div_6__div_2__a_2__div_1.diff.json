@@ -1,0 +1,56 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__main_1__div_6__div_2__a_2__div_1",
+    "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[2]/div[1] (height 2, similarity 0.2574)"
+  },
+  "_meta": {
+    "migrated_id": "html__body_1",
+    "similarity_score": 0.2574,
+    "total_style_changes": 407,
+    "is_leaf": false,
+    "height": 2
+  },
+  "_children_diffs": [
+    {
+      "webpage_section": {
+        "section_id": "html__body_1__main_1__div_6__div_2__a_2__div_1__picture_1",
+        "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[2]/div[1]/picture[1] (height 1, similarity 0.4271)"
+      },
+      "_meta": {
+        "migrated_id": "html__body_1__main_1__div_1__div_1__div_1__div_1",
+        "similarity_score": 0.4271,
+        "total_style_changes": 394,
+        "is_leaf": false,
+        "height": 1
+      },
+      "_children_diffs": [
+        {
+          "webpage_section": {
+            "section_id": "html__body_1__main_1__div_6__div_2__a_2__div_1__picture_1__img_1",
+            "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[2]/div[1]/picture[1]/img[1] (height 0, similarity 0.4271)"
+          },
+          "_meta": {
+            "migrated_id": "html__body_1__main_1__div_1__div_1__div_1__div_1",
+            "similarity_score": 0.4271,
+            "total_style_changes": 407,
+            "is_leaf": true,
+            "height": 0
+          }
+        }
+      ]
+    },
+    {
+      "webpage_section": {
+        "section_id": "html__body_1__main_1__div_6__div_2__a_2__div_1__div_1",
+        "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[2]/div[1]/div[1] (height 0, similarity 0.358)"
+      },
+      "_meta": {
+        "migrated_id": "html__body_1__main_1__div_2__div_2",
+        "similarity_score": 0.358,
+        "total_style_changes": 432,
+        "is_leaf": true,
+        "height": 0
+      }
+    }
+  ]
+}

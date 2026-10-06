@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dulux.in/",
+  "timestamp": "2026-07-08T06:52:48.960Z",
+  "paths": {
+    "documentPath": "/index",
+    "htmlFilePath": "/index.plain.html",
+    "mdFilePath": "/index.md",
+    "dirPath": "",
+    "filename": "index"
+  },
+  "screenshot": "/workspace/current/migration-work/screenshot.png",
+  "html": {
+    "filePath": "/workspace/current/migration-work/cleaned.html",
+    "size": 967662
+  },
+  "metadata": {
+    "title": "Wall Paint Colours - Home Painting, House Colour & Paint Solutions | Dulux India",
+    "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover",
+    "keywords": "paint colours",
+    "description": "Dulux India Paint: Transform your home with best paint colors. Discover wall paint, home paint, house colors & combinations. Get painting tips, expert help & solutions.",
+    "template": "t10-home",
+    "robots": "index,follow",
+    "canonical": "https://www.dulux.in/",
+    "jsonLd": {
+      "@context": "https://schema.org/",
+      "@type": "Organization",
+      "@id": "#Organization",
+      "url": "https://www.dulux.in/",
+      "name": "Dulux Paints",
+      "description": "Dulux India Paints: Transform your home with best paint colors. Discover wall paint, home paint, house colors & combinations. Get painting tips, expert help & solutions.",
+      "logo": "https://images.akzonobel.com/akzonobel-common/DULUX_RGB_imp_05.png?impolicy=.auto",
+      "telephone": "1800-3000-4455",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "AkzoNobel India Limited Magnum Towers, 9th Floor, Sector 58",
+        "addressLocality": "Golf Course ext. road,",
+        "addressRegion": "Gurugram",
+        "addressCountry": "India",
+        "postalCode": "122011"
+      },
+      "sameAs": [
+        "https://www.facebook.com/Dulux.In/",
+        "https://www.youtube.com/user/duluxindia",
+        "https://www.instagram.com/dulux.india/"
+      ]
+    }
+  },
+  "images": {
+    "count": 31,
+    "mapping": {
+      "https://images.akzonobel.com/akzonobel-common/DULUX_RGB_imp_05.png?impolicy=.auto": "./images/ab31293e47c7a618d5959467c19fad71.png",
+      "https://images.akzonobel.com/akzonobel-cetabever/pl/pl/homepage/logo-sadolin-global.png?impolicy=.auto": "./images/a78768b0db72f9791bc0118a3473e1d8.png",
+      "https://images.akzonobel.com/akzonobel-common/jsw-dulux-logo.png?impolicy=.auto": "./images/2059fcd40a908fc9fef98e19261dcbed.png",
+      "https://dmmy6mpbxgeck.cloudfront.net/86cc56ef-b462-4836-9c24-eb0123ae8ea0/widget/12c71a48-6d92-414f-bef3-2a92f9954485": "./images/26c8b9e663a80e80aa47e41d2388c57b.png",
+      "https://dmmy6mpbxgeck.cloudfront.net/86cc56ef-b462-4836-9c24-eb0123ae8ea0/bot_logo/dbb3abb9-2e78-40e5-a0b3-bcf1daec8835": "./images/e86b1a67704a458d9ebe11bdfad4151e.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/homepage/dulux-banner-website-version.jpg?impolicy=.auto&imwidth=1366": "./images/e19e070e19ef6dc78a4335d627c79de1.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/sustainability.png?impolicy=.auto&imwidth=588": "./images/56396a5114ddbefd740a3c5d518ff274.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/colour-play.png?impolicy=.auto&imwidth=588": "./images/a4c31a1e5687616aeec1f4f307c6a075.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/uk/en/homepage/entrypoint_img_products2x.png?impolicy=.auto&imwidth=588": "./images/dd894c5c15e33613adadb4c8bba9b955.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/uk/en/homepage/image-entrypoint-xl2x.png?impolicy=.auto&imwidth=588": "./images/21c0d49e2a8fec8786262c04e3d432d2.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/colour-of-the-year/colour-of-the-year-2026/homepage/cf-callout-block.jpg?impolicy=.auto&imwidth=588": "./images/fe061e4209bfc9177e7c2cf5ff611451.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/colour-swiper-desktop.jpg?impolicy=.auto&imwidth=1900": "./images/f9628c1b87cf7bb831e36d4154a0b7ec.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/colour-of-the-year/colour-of-the-year-2026/gr/en/cons/c-6/dulux-colour-futures-colours-of-the-year-2026-rhythm-of-blues-livingroom-inspiration-global-24m.png?impolicy=.auto&imwidth=588": "./images/ad3eb18d4aac3108f0c8b05e9f5e855f.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/velvet-touch-pearl-desktop.jpg?impolicy=.auto&imwidth=588": "./images/69150d6d2da116e769efe9b690297ecd.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/colour-of-the-year/colour-of-the-year-2026/gr/en/cons/c-6/dulux-colour-futures-colours-of-the-year-2026-rhythm-of-blues-free-homeoffice-inspiration-global-26m.png?impolicy=.auto&imwidth=588": "./images/3d2d5e6e0c873e694f65c24a37d86d07.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/colour-of-the-year/colour-of-the-year-2026/gr/en/cons/c-6/dulux-colour-futures-colours-of-the-year-2026-rhythm-of-blues-free-livingroom-inspiration-global-1m.png?impolicy=.auto&imwidth=588": "./images/1a239201b6c267a6b32e1d6ea345df68.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/dulux-superclean-desktop.jpg?impolicy=.auto&imwidth=588": "./images/29e07ddc5770758bf9313abe046b929b.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/ws-dulux-powerflexx-yash-kv.jpg?impolicy=.auto&imwidth=1366": "./images/67fe3cef71c1586a47e667df24bb5466.jpg",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/dulux-weathershield-powerflexx-desktop.jpg?impolicy=.auto&imwidth=588": "./images/60ebbe10b766f493828a8858d0823b55.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/dulux-promise-interior-primer-desktop.jpg?impolicy=.auto&imwidth=588": "./images/dfa8d828effe2324121162069608c6bb.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/yt-dulux-velvet-touch.jpg?impolicy=.auto&imwidth=588": "./images/085d6507da2eee1439d47cac5331fdf7.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/yt-dulux-simply-refresh.jpg?impolicy=.auto&imwidth=588": "./images/afda1139bb06b1f1d4f458eb70f898e3.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/weathershield-thumbnails.png?impolicy=.auto&imwidth=588": "./images/0abe70454390cac39ae39cafb3ed6da9.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/expert-easy-home-diy.jpg?impolicy=.auto&imwidth=588": "./images/a38f9a1ce3963c6643addcd6f122a9a2.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/expert-right-amount-of-paint.jpg?impolicy=.auto&imwidth=588": "./images/5e47b5dc75ef031ede037c89f01c8db5.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/homepage/banner-1-desktop.png?impolicy=.auto&imwidth=1900": "./images/68afb463705501eadd35f79b915bc789.jpg",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/footer/akzonobel-rating-badge-3-on-ambitionbox-20250107.jpg?impolicy=.auto&imwidth=588": "./images/1cf6ce6d28eaa0331d77f619f238f7d2.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/footer/akzonobel-rating-badge-2-on-ambitionbox-20250107.jpg?impolicy=.auto&imwidth=588": "./images/916796450e46d1f5a416ab1987c40e72.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/expert-multi-surface-paint.jpg?impolicy=.auto&imwidth=588": "./images/e7baf38788489203fe91cd8ea74da9bb.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/sadolin.png?impolicy=.auto": "./images/fb4280cb155ba595bae3229257c94984.png",
+      "https://images.akzonobel.com/akzonobel-flourish/dulux/in/dulux/en/home/new/expert-guide-interior-exterior-waterproofing.jpg?impolicy=.auto&imwidth=588": "./images/a2328cb513e1247359d694cf3be2a522.png"
+    },
+    "stats": {
+      "total": 31,
+      "converted": 27,
+      "skipped": 4,
+      "failed": 0,
+      "tooLarge": 0,
+      "limitReached": 0
+    }
+  }
+}

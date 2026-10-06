@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-text-tile",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "text-tiles",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "each row = tile: single rich text cell (bold heading + paragraph); 2-column grid",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 2,
+    "lastUsed": "2026-10-01T15:46:01.424Z"
+  }
+}

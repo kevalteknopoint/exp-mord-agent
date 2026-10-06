@@ -1,0 +1,64 @@
+/* Cards Factor: bordered text cards, 3-up with centered last row (structural only) */
+.cards-factor > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+
+.cards-factor .cards-factor-card {
+  position: relative;
+  flex: 0 0 100%;
+  box-sizing: border-box;
+  padding: 16px 16px 32px;
+  border: 1px solid;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.cards-factor .cards-factor-card::after {
+  content: '';
+  position: absolute;
+  left: 8px;
+  bottom: 8px;
+  width: 20px;
+  height: 20px;
+  border: 1px solid currentcolor;
+  border-radius: 50%;
+  opacity: 0.2;
+  pointer-events: none;
+}
+
+.cards-factor .cards-factor-card-body > * {
+  margin: 0 0 8px;
+}
+
+.cards-factor .cards-factor-card-body > :first-child {
+  text-align: center;
+}
+
+.cards-factor .cards-factor-card-image img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+@media (width >= 600px) {
+  .cards-factor .cards-factor-card {
+    flex-basis: calc((100% - 16px) / 2);
+  }
+}
+
+@media (width >= 900px) {
+  .cards-factor > ul {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .cards-factor .cards-factor-card {
+    flex-basis: calc((100% - 32px) / 3);
+  }
+}

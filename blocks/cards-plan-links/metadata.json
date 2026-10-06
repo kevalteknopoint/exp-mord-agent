@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-plan-links",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "plan-link-tiles",
+    "imagePattern": "background"
+  },
+  "contentPattern": {
+    "structure": "each row = tile: cell1 optional background image, cell2 rich text (bold plan name + Check Plan link)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/life-insurance-plans/term-insurance"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-01T15:33:10.824Z"
+  }
+}

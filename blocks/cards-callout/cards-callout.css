@@ -1,0 +1,61 @@
+/* Block: cards-callout -- design migrated from dulux.in c10 callout blocks */
+
+.cards-callout > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+
+.cards-callout > ul > li {
+  background-color: var(--background-color);
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 2px 6px 0;
+  overflow: hidden;
+}
+
+/* Whole card is a single link (matches source a.m9-content-card) */
+.cards-callout .cards-callout-card-link {
+  display: block;
+  color: rgb(102, 102, 102);
+  text-decoration: none;
+}
+
+.cards-callout .cards-callout-card-image {
+  line-height: 0;
+}
+
+.cards-callout .cards-callout-card-image img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.cards-callout .cards-callout-card-body {
+  padding: 16px;
+}
+
+.cards-callout .cards-callout-card-body h4 {
+  margin: 0;
+  font-family: var(--body-font-family);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  color: rgb(102, 102, 102);
+}
+
+/* Tablet: two columns */
+@media (width >= 600px) {
+  .cards-callout > ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Desktop: four columns matching source col-l-3 layout */
+@media (width >= 900px) {
+  .cards-callout > ul {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

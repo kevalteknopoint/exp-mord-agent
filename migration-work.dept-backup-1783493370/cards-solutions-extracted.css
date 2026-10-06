@@ -1,0 +1,84 @@
+/* Block: cards-solutions -- CSS extracted from source computed styles */
+/* DO NOT replace these values with generic defaults. */
+/* Refine: replace values matching brand.css variables, add responsive rules, handle EDS gotchas. */
+
+.cards-solutions {
+  color: rgb(0, 0, 0);
+  padding: 40px 20px;
+}
+
+.cards-solutions h2 {
+  font-size: 74.4332px;
+  font-weight: 900;
+  font-family: InterVariable, system-ui, sans-serif;
+  line-height: 66.6786px;
+  letter-spacing: -2.233px;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  margin: 0px 0px 88px;
+}
+
+.cards-solutions a {
+  color: rgb(118, 118, 118);
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.cards-solutions ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Link item (grid layout) */
+.cards-solutions ul a {
+  display: grid;
+  grid-template-columns: 60px 1fr auto;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid rgb(118, 118, 118);
+  text-decoration: none;
+  color: rgb(118, 118, 118);
+}
+
+/* First item has top border */
+.cards-solutions ul li:first-child a {
+  border-top: 1px solid rgb(118, 118, 118);
+}
+
+/* Number */
+.cards-solutions .block-talking-points__item-number {
+  font-size: 24px;
+  font-weight: 900;
+  color: rgb(118, 118, 118);
+  line-height: 31.92px;
+}
+
+/* Title text */
+.cards-solutions .block-talking-points__item-text {
+  font-size: 31.9984px;
+  font-weight: 400;
+  color: rgb(118, 118, 118);
+}
+
+/* Hover description */
+.cards-solutions .block-talking-points__items-hover-container {
+  font-weight: 600;
+  color: rgb(255, 73, 1);
+  height: 80px;
+}
+
+/* Arrow */
+.cards-solutions svg {
+  width: 17px;
+  height: 16px;
+  color: rgb(118, 118, 118);
+}
+
+/* Image in hover */
+.cards-solutions img {
+  object-fit: cover;
+  width: 142.219px;
+  height: 80px;
+}

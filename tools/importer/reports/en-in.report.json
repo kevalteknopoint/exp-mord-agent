@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "https://www.deptagency.com/en-in/",
+  "path": "en-in",
+  "timestamp": "2026-05-25T15:46:45.466Z",
+  "title": "DEPT® | Growth Invention | Tech & Marketing",
+  "template": "homepage",
+  "blocks": [
+    "hero-video",
+    "columns-feature",
+    "columns-feature",
+    "cards-casestudy",
+    "cards-solutions",
+    "carousel-culture",
+    "cards-insights"
+  ]
+}

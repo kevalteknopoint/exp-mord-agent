@@ -1,0 +1,41 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__main_1__div_6__div_2__a_5__div_1",
+    "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[5]/div[1] (height 1, similarity 0.288)"
+  },
+  "_meta": {
+    "migrated_id": "html__body_1__main_1__div_3",
+    "similarity_score": 0.288,
+    "total_style_changes": 413,
+    "is_leaf": false,
+    "height": 1
+  },
+  "_children_diffs": [
+    {
+      "webpage_section": {
+        "section_id": "html__body_1__main_1__div_6__div_2__a_5__div_1__video_1",
+        "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[5]/div[1]/video[1] (height 0, similarity 0.6291)"
+      },
+      "_meta": {
+        "migrated_id": "html__body_1__main_1__div_3__div_6__div_1__div_1__ul_1__li_1__div_1",
+        "similarity_score": 0.6291,
+        "total_style_changes": 408,
+        "is_leaf": true,
+        "height": 0
+      }
+    },
+    {
+      "webpage_section": {
+        "section_id": "html__body_1__main_1__div_6__div_2__a_5__div_1__div_1",
+        "section_description": "Node at /html/body[1]/main[1]/div[6]/div[2]/a[5]/div[1]/div[1] (height 0, similarity 0.3019)"
+      },
+      "_meta": {
+        "migrated_id": "html__body_1__main_1__div_3",
+        "similarity_score": 0.3019,
+        "total_style_changes": 426,
+        "is_leaf": true,
+        "height": 0
+      }
+    }
+  ]
+}

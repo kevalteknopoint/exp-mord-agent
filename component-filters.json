@@ -51,7 +51,14 @@
       "tabs-faq",
       "cards-loan-banner",
       "carousel-quote",
-      "cards-service-links"
+      "cards-service-links",
+      "hero-split",
+      "cards-solution",
+      "tabs-feature",
+      "tabs-vertical",
+      "cards-recognition",
+      "cards-spotlight",
+      "form-contact"
     ]
   },
   {
@@ -157,15 +164,33 @@
     ]
   },
   {
+    "id": "cards-recognition",
+    "components": [
+      "cards-recognition-card"
+    ]
+  },
+  {
     "id": "cards-service-links",
     "components": [
       "cards-service-links-item"
     ]
   },
   {
+    "id": "cards-solution",
+    "components": [
+      "cards-solution-card"
+    ]
+  },
+  {
     "id": "cards-solutions",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "cards-spotlight",
+    "components": [
+      "cards-spotlight-card"
     ]
   },
   {
@@ -310,9 +335,21 @@
     ]
   },
   {
+    "id": "form-contact",
+    "components": [
+      "form-contact-field"
+    ]
+  },
+  {
     "id": "gallery",
     "components": [
       "gallery-item"
+    ]
+  },
+  {
+    "id": "hero-split",
+    "components": [
+      "hero-split-item"
     ]
   },
   {
@@ -364,9 +401,21 @@
     ]
   },
   {
+    "id": "tabs-feature",
+    "components": [
+      "tabs-feature-item"
+    ]
+  },
+  {
     "id": "tabs-illustration",
     "components": [
       "tabs-illustration-item"
+    ]
+  },
+  {
+    "id": "tabs-vertical",
+    "components": [
+      "tabs-vertical-item"
     ]
   },
   {

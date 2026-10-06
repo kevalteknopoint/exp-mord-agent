@@ -45,6 +45,18 @@
             {
               "name": "Loans: customer service",
               "value": "loans-service"
+            },
+            {
+              "name": "Broadridge: intro split (heading left, text right)",
+              "value": "br-intro-split"
+            },
+            {
+              "name": "Broadridge: light-blue panel",
+              "value": "br-panel"
+            },
+            {
+              "name": "Broadridge: CTA aligned right",
+              "value": "br-cta-end"
             }
           ]
         }
@@ -98,7 +110,14 @@
         "tabs-faq",
         "cards-loan-banner",
         "carousel-quote",
-        "cards-service-links"
+        "cards-service-links",
+        "hero-split",
+        "cards-solution",
+        "tabs-feature",
+        "tabs-vertical",
+        "cards-recognition",
+        "cards-spotlight",
+        "form-contact"
       ]
     }
   ]

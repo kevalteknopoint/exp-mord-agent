@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-solution",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light blue",
+    "density": "airy",
+    "purpose": "featured solutions",
+    "imagePattern": "illustration top"
+  },
+  "contentPattern": {
+    "structure": "each row = card: cell1 illustration image, cell2 rich text (h3 title, description paragraph, link rendered as arrow; whole card clickable)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/broadridge"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-06T15:30:00.000Z"
+  }
+}

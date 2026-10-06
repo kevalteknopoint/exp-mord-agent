@@ -1,0 +1,25 @@
+{
+  "variantName": "hero-split",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "navy, white text",
+    "density": "spacious",
+    "purpose": "homepage hero with promos",
+    "imagePattern": "optional background images"
+  },
+  "contentPattern": {
+    "structure": "row 1 = main panel: cell1 optional background image, cell2 rich text (h1, intro paragraph, CTA link = white button); rows 2+ = promo cards: cell1 optional background image, cell2 rich text (tag paragraph, heading, link rendered as arrow)",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/broadridge"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-06T15:30:00.000Z"
+  }
+}

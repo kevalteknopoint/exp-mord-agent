@@ -28,6 +28,20 @@
           "name": "template",
           "label": "Template",
           "description": "Optional page template name - added as a body class to scope page-specific styling (e.g. loans)"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "nav",
+          "label": "Navigation",
+          "description": "Optional path of the header navigation fragment (default /nav), e.g. /broadridge-nav"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "footer",
+          "label": "Footer",
+          "description": "Optional path of the footer fragment (default /footer), e.g. /broadridge-footer"
         }
       ]
     }

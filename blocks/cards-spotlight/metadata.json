@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-spotlight",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "navy, white text",
+    "density": "compact",
+    "purpose": "insights / articles",
+    "imagePattern": "photo top"
+  },
+  "contentPattern": {
+    "structure": "each row = card: cell1 photo, cell2 rich text (tag paragraph, h3 title, link rendered as arrow; whole card clickable)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/broadridge"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-06T15:30:00.000Z"
+  }
+}

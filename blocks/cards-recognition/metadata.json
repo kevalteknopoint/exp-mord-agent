@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-recognition",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light grey cards on light blue panel",
+    "density": "spacious",
+    "purpose": "awards / analyst coverage",
+    "imagePattern": "one feature image card"
+  },
+  "contentPattern": {
+    "structure": "each row = card: cell1 optional image (=> large feature card spanning 2 rows, image fills card), cell2 rich text (h3 title, link rendered as arrow)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/broadridge"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-06T15:30:00.000Z"
+  }
+}

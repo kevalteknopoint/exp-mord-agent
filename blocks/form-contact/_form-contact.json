@@ -1,0 +1,147 @@
+{
+  "definitions": [
+    {
+      "title": "Form Contact",
+      "id": "form-contact",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Form Contact",
+              "filter": "form-contact",
+              "model": "form-contact"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Form Field",
+      "id": "form-contact-field",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Form Field",
+              "model": "form-contact-field"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "form-contact",
+      "fields": [
+        {
+          "component": "richtext",
+          "name": "intro",
+          "value": "",
+          "label": "Intro (heading, paragraph)",
+          "valueType": "string"
+        },
+        {
+          "component": "richtext",
+          "name": "contact",
+          "value": "",
+          "label": "Contact details (e.g. specialist phone list)",
+          "valueType": "string"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "submitLabel",
+          "value": "",
+          "label": "Submit Button Label"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "action",
+          "value": "",
+          "label": "Form Action URL",
+          "description": "POST endpoint for submissions (JSON). Leave empty to only show the thank-you message."
+        }
+      ]
+    },
+    {
+      "id": "form-contact-field",
+      "fields": [
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "label",
+          "value": "",
+          "label": "Label"
+        },
+        {
+          "component": "select",
+          "valueType": "string",
+          "name": "kind",
+          "value": "text",
+          "label": "Field Type",
+          "options": [
+            {
+              "name": "Text",
+              "value": "text"
+            },
+            {
+              "name": "Email",
+              "value": "email"
+            },
+            {
+              "name": "Telephone",
+              "value": "tel"
+            },
+            {
+              "name": "Dropdown",
+              "value": "select"
+            },
+            {
+              "name": "Multi-line text",
+              "value": "textarea"
+            }
+          ]
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "options",
+          "value": "",
+          "label": "Dropdown Options",
+          "description": "Comma separated; the first entry is the placeholder (e.g. Choose Country, Canada, Germany)"
+        },
+        {
+          "component": "multiselect",
+          "valueType": "string",
+          "name": "settings",
+          "label": "Settings",
+          "value": [
+            "required"
+          ],
+          "options": [
+            {
+              "name": "Required",
+              "value": "required"
+            },
+            {
+              "name": "Full width",
+              "value": "full"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "form-contact",
+      "components": [
+        "form-contact-field"
+      ]
+    }
+  ]
+}

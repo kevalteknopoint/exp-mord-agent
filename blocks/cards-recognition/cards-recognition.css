@@ -1,0 +1,129 @@
+/* Cards Recognition - large image feature card + stacked text cards (design: migration-work/design-broadridge/spec.md) */
+.cards-recognition > ul {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--br-card-gap, 16px);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-recognition .cards-recognition-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 220px;
+  overflow: hidden;
+  border-radius: var(--br-radius, 4px);
+  background-color: var(--br-color-surface, #f9f9f9);
+  color: var(--br-color-text, #060932);
+  transition: box-shadow 0.2s ease;
+}
+
+.cards-recognition .cards-recognition-card:hover {
+  box-shadow: var(--br-shadow, 0 16px 40px rgb(6 9 50 / 12%));
+}
+
+.cards-recognition .cards-recognition-feature {
+  min-height: 420px;
+  box-shadow: 0 10px 24px rgb(6 9 50 / 14%);
+}
+
+.cards-recognition .cards-recognition-image {
+  position: absolute;
+  inset: 0;
+}
+
+.cards-recognition .cards-recognition-image picture,
+.cards-recognition .cards-recognition-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cards-recognition .cards-recognition-body {
+  position: relative;
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 23px;
+}
+
+.cards-recognition .cards-recognition-feature .cards-recognition-body {
+  justify-content: flex-end;
+}
+
+.cards-recognition .cards-recognition-body :is(h2, h3, h4) {
+  max-width: 24em;
+  margin: 0;
+  font-size: var(--br-card-title-size, 20px);
+  font-weight: 300;
+  line-height: 1.4;
+}
+
+.cards-recognition .cards-recognition-link-wrapper {
+  margin: auto 0 0;
+  padding-top: 32px;
+}
+
+.cards-recognition .cards-recognition-feature .cards-recognition-link-wrapper {
+  margin-top: 0;
+  padding-top: 48px;
+}
+
+.cards-recognition .cards-recognition-link:any-link {
+  display: block;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  color: var(--br-color-text, #060932);
+  font-size: 0;
+  text-decoration: none;
+}
+
+.cards-recognition .cards-recognition-link::before {
+  content: '';
+  display: block;
+  width: 24px;
+  height: 24px;
+  background-color: currentcolor;
+  mask: url('../../icons/arrow-right.svg') center / contain no-repeat;
+  transition: transform 0.2s ease;
+}
+
+.cards-recognition .cards-recognition-link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+.cards-recognition .cards-recognition-card:hover .cards-recognition-link::before {
+  transform: translateX(4px);
+}
+
+.cards-recognition .cards-recognition-card:has(.cards-recognition-link:focus-visible) {
+  outline: 2px solid var(--br-color-blue, #2762fc);
+  outline-offset: 2px;
+}
+
+@media (width >= 900px) {
+  .cards-recognition > ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-auto-rows: minmax(266px, auto);
+  }
+
+  .cards-recognition .cards-recognition-card {
+    min-height: 0;
+  }
+
+  .cards-recognition .cards-recognition-feature {
+    grid-row: span 2;
+    min-height: 563px;
+  }
+
+  .cards-recognition .cards-recognition-feature .cards-recognition-link-wrapper {
+    margin-top: 0;
+    padding-top: 100px;
+  }
+}

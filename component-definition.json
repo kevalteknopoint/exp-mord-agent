@@ -630,6 +630,36 @@
           }
         },
         {
+          "title": "Cards Recognition",
+          "id": "cards-recognition",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Recognition",
+                  "filter": "cards-recognition"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Recognition Card",
+          "id": "cards-recognition-card",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Recognition Card",
+                  "model": "cards-recognition-card"
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Cards Service Links",
           "id": "cards-service-links",
           "plugins": {
@@ -660,6 +690,36 @@
           }
         },
         {
+          "title": "Cards Solution",
+          "id": "cards-solution",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Solution",
+                  "filter": "cards-solution"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Solution Card",
+          "id": "cards-solution-card",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Solution Card",
+                  "model": "cards-solution-card"
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Cards Solutions",
           "id": "cards-solutions",
           "plugins": {
@@ -684,6 +744,36 @@
                 "template": {
                   "name": "Card",
                   "model": "card"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Spotlight",
+          "id": "cards-spotlight",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Spotlight",
+                  "filter": "cards-spotlight"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Spotlight Card",
+          "id": "cards-spotlight-card",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Spotlight Card",
+                  "model": "cards-spotlight-card"
                 }
               }
             }
@@ -1215,6 +1305,37 @@
           }
         },
         {
+          "title": "Form Contact",
+          "id": "form-contact",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Form Contact",
+                  "filter": "form-contact",
+                  "model": "form-contact"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Form Field",
+          "id": "form-contact-field",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Form Field",
+                  "model": "form-contact-field"
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Form",
           "id": "form",
           "plugins": {
@@ -1344,6 +1465,36 @@
                 "template": {
                   "name": "Hero Promo",
                   "model": "hero-promo"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Hero Split",
+          "id": "hero-split",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Hero Split",
+                  "filter": "hero-split"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Hero Panel",
+          "id": "hero-split-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Hero Panel",
+                  "model": "hero-split-item"
                 }
               }
             }
@@ -1655,6 +1806,36 @@
           }
         },
         {
+          "title": "Tabs Feature",
+          "id": "tabs-feature",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Tabs Feature",
+                  "filter": "tabs-feature"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Feature Tab",
+          "id": "tabs-feature-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Feature Tab",
+                  "model": "tabs-feature-item"
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Tabs Illustration",
           "id": "tabs-illustration",
           "plugins": {
@@ -1680,6 +1861,36 @@
                   "name": "Tab",
                   "model": "tabs-illustration-item",
                   "title": "Tab Name"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Tabs Vertical",
+          "id": "tabs-vertical",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Tabs Vertical",
+                  "filter": "tabs-vertical"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Vertical Tab",
+          "id": "tabs-vertical-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Vertical Tab",
+                  "model": "tabs-vertical-item"
                 }
               }
             }

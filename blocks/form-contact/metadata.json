@@ -1,0 +1,25 @@
+{
+  "variantName": "form-contact",
+  "baseBlock": "form",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light blue panel, white form card",
+    "density": "spacious",
+    "purpose": "lead capture",
+    "imagePattern": "none"
+  },
+  "contentPattern": {
+    "structure": "rows 1-4 (block fields, single cell): intro rich text, contact rich text, submit label, action URL; rows 5+ = fields: label | kind | options | settings (required, full)",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/broadridge"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-06T15:30:00.000Z"
+  }
+}

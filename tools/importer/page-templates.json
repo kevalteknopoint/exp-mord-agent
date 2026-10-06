@@ -781,6 +781,66 @@
           "defaultContent": []
         }
       ]
+    },
+    {
+      "name": "broadridge",
+      "urls": [
+        "http://localhost:8090/migration-work/design-broadridge/source/broadridge.html",
+        "http://localhost:8090/migration-work/design-broadridge/source/broadridge-nav.html",
+        "http://localhost:8090/migration-work/design-broadridge/source/broadridge-footer.html"
+      ],
+      "representativeUrl": "http://localhost:8090/migration-work/design-broadridge/source/broadridge.html",
+      "description": "Broadridge homepage from design image (+ broadridge-nav / broadridge-footer fragments): split hero, solution cards, industry tabs, capability tabs, recognition cards, spotlight cards, contact form",
+      "blocks": [
+        {
+          "name": "hero-split",
+          "instances": [
+            "#hero .hero-split"
+          ]
+        },
+        {
+          "name": "cards-solution",
+          "instances": [
+            "#featured-solutions .solution-cards"
+          ]
+        },
+        {
+          "name": "tabs-feature",
+          "instances": [
+            "#industries .industry-tabs"
+          ]
+        },
+        {
+          "name": "tabs-vertical",
+          "instances": [
+            "#capabilities .capability-tabs"
+          ]
+        },
+        {
+          "name": "cards-recognition",
+          "instances": [
+            "#recognition .recognition-cards"
+          ]
+        },
+        {
+          "name": "cards-spotlight",
+          "instances": [
+            "#spotlight .spotlight-cards"
+          ]
+        },
+        {
+          "name": "form-contact",
+          "instances": [
+            "#contact .contact-form"
+          ]
+        },
+        {
+          "name": "columns",
+          "instances": [
+            ".footer-columns"
+          ]
+        }
+      ]
     }
   ],
   "metadata": {

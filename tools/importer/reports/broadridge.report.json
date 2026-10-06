@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "url": "http://localhost:8090/migration-work/design-broadridge/source/broadridge.html",
+  "path": "broadridge",
+  "timestamp": "2026-10-06T15:31:56.805Z",
+  "title": "Broadridge | Be ready for what the market demands next",
+  "template": "broadridge",
+  "blocks": [
+    "hero-split",
+    "cards-solution",
+    "tabs-feature",
+    "tabs-vertical",
+    "cards-recognition",
+    "cards-spotlight",
+    "form-contact"
+  ]
+}

@@ -1,0 +1,644 @@
+/*
+ * /broadridge page theme (page metadata Template "broadridge" => body.broadridge).
+ * Everything here is scoped under body.broadridge so the site-wide Tata AIA theme
+ * (brand.css / styles.css) of every other page stays untouched. The page uses its own
+ * header (/broadridge-nav) and footer (/broadridge-footer) fragments, styled here too.
+ * Design: migration-work/design-broadridge/spec.md - navy / bright blue / light blue,
+ * light-weight humanist headings, flat cards with 4px corners.
+ */
+
+body.broadridge {
+  /* palette */
+  --br-color-navy-deep: #000c36;
+  --br-color-navy: #031f60;
+  --br-color-navy-hero: #04226b;
+  --br-color-chip: #123bb9;
+  --br-color-blue: #2762fc;
+  --br-color-blue-dark: #1149d8;
+  --br-color-light-blue: #e7f1fb;
+  --br-color-light-blue-line: #bcd1f5;
+  --br-color-footer: #bad0f5;
+  --br-color-text: #060932;
+  --br-color-text-muted: #435c92;
+  --br-color-page: #f9f9f9;
+  --br-color-surface: #f9f9f9;
+  --br-color-white: #fff;
+  --br-color-field-border: #dfe3ea;
+  --br-color-required: #d62049;
+
+  /* typography */
+  --br-font-family: inter, inter-fallback, 'Helvetica Neue', arial, sans-serif;
+  --br-heading-weight: 300;
+  --br-heading-letter-spacing: -0.015em;
+  --br-hero-heading-size: 36px;
+  --br-section-heading-size: 28px;
+  --br-panel-heading-size: 26px;
+  --br-card-title-size: 20px;
+  --br-body-size-l: 17px;
+  --br-body-size-m: 16px;
+  --br-body-size-s: 14px;
+  --br-body-size-xs: 13px;
+
+  /* shape / layout */
+  --br-radius: 4px;
+  --br-gutter: 20px;
+  --br-band-max-width: 1276px;
+  --br-content-max-width: 1152px;
+  --br-card-gap: 16px;
+  --br-section-space: 64px;
+  --br-shadow: 0 16px 40px rgb(6 9 50 / 12%);
+
+  /* re-point the shared semantic tokens for the whole page (incl. header/footer) */
+  --background-color: var(--br-color-page);
+  --text-color: var(--br-color-text);
+  --heading-color: var(--br-color-text);
+  --link-color: var(--br-color-blue);
+  --link-hover-color: var(--br-color-blue-dark);
+  --body-font-family: var(--br-font-family);
+  --heading-font-family: var(--br-font-family);
+  --letter-spacing: 0;
+  --nav-height: 64px;
+
+  background-color: var(--br-color-page);
+  color: var(--br-color-text);
+  font-family: var(--br-font-family);
+}
+
+body.broadridge main {
+  overflow-x: clip;
+}
+
+/* typography */
+body.broadridge :is(h1, h2, h3, h4, h5, h6) {
+  font-family: var(--br-font-family);
+  font-weight: var(--br-heading-weight);
+  letter-spacing: var(--br-heading-letter-spacing);
+  color: inherit;
+}
+
+body.broadridge main p,
+body.broadridge main li {
+  font-size: var(--br-body-size-m);
+  line-height: 1.6;
+}
+
+/* buttons: solid bright blue, square-ish corners */
+body.broadridge main a.button:any-link,
+body.broadridge main button.button {
+  padding: 15px 28px;
+  border: 1px solid var(--br-color-blue);
+  border-radius: 2px;
+  background: var(--br-color-blue);
+  color: var(--br-color-white);
+  font-size: var(--br-body-size-m);
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+body.broadridge main a.button:hover,
+body.broadridge main a.button:focus-visible,
+body.broadridge main button.button:hover {
+  border-color: var(--br-color-blue-dark);
+  background: var(--br-color-blue-dark);
+  color: var(--br-color-white);
+}
+
+body.broadridge main a:focus-visible,
+body.broadridge main button:focus-visible {
+  outline: 2px solid var(--br-color-blue);
+  outline-offset: 2px;
+}
+
+/* sections */
+body.broadridge main > .section {
+  padding: var(--br-section-space) var(--br-gutter) 0;
+}
+
+body.broadridge main > .section:first-of-type {
+  padding-top: 24px;
+}
+
+body.broadridge main > .section:last-of-type {
+  padding-bottom: var(--br-section-space);
+}
+
+body.broadridge main > .section > div {
+  max-width: var(--br-content-max-width);
+}
+
+body.broadridge main > .section > div + div {
+  margin-top: 32px;
+}
+
+body.broadridge main .default-content-wrapper > p {
+  font-size: var(--br-body-size-l);
+}
+
+/* section headings: left-aligned, light, solid colour (no site gradient) */
+body.broadridge main .default-content-wrapper > h2,
+body.broadridge main .default-content-wrapper > :is(h3, h4):first-child {
+  width: auto;
+  max-width: none;
+  margin: 0 0 32px;
+  background: none;
+  color: var(--br-color-text);
+  font-size: var(--br-section-heading-size);
+  font-weight: var(--br-heading-weight);
+  line-height: 1.25;
+  text-align: left;
+  -webkit-text-fill-color: currentcolor;
+}
+
+body.broadridge main .default-content-wrapper > h2 + p {
+  text-align: left;
+}
+
+/* section style: br-intro-split - heading left, intro paragraph right (desktop) */
+body.broadridge main > .section.br-intro-split .default-content-wrapper > h2 {
+  margin-bottom: 16px;
+}
+
+/* section style: br-panel - light-blue band, wider than the content column */
+body.broadridge main > .section.br-panel {
+  box-sizing: border-box;
+  max-width: var(--br-band-max-width);
+  margin: var(--br-section-space) auto 0;
+  padding: 48px var(--br-gutter);
+  background-color: var(--br-color-light-blue);
+}
+
+body.broadridge main > .section.br-panel:last-of-type {
+  margin-bottom: var(--br-section-space);
+}
+
+body.broadridge main > .section.br-panel + .section {
+  padding-top: var(--br-section-space);
+}
+
+/* section style: br-cta-end - trailing button aligned to the end */
+body.broadridge main > .section.br-cta-end > .default-content-wrapper:last-child {
+  display: flex;
+  justify-content: flex-end;
+}
+
+body.broadridge main > .section.br-cta-end > .default-content-wrapper:last-child .button-container {
+  margin: 0;
+}
+
+@media (width >= 900px) {
+  body.broadridge {
+    --br-hero-heading-size: 50px;
+    --br-section-heading-size: 34px;
+    --br-panel-heading-size: 32px;
+    --br-card-title-size: 22px;
+    --br-body-size-l: 18px;
+    --br-gutter: 40px;
+    --br-card-gap: 31px;
+    --br-section-space: 100px;
+    --nav-height: 113px;
+  }
+
+  body.broadridge main > .section:first-of-type {
+    padding-top: 61px;
+  }
+
+  body.broadridge main .default-content-wrapper > h2,
+  body.broadridge main .default-content-wrapper > :is(h3, h4):first-child {
+    margin-bottom: 40px;
+  }
+
+  body.broadridge main > .section.br-panel > div {
+    max-width: var(--br-content-max-width);
+  }
+
+  body.broadridge main > .section.br-intro-split > .default-content-wrapper:first-child {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 64px;
+    align-items: start;
+  }
+
+  body.broadridge main > .section.br-intro-split > .default-content-wrapper:first-child > :is(h2, p) {
+    margin: 0;
+  }
+
+  body.broadridge main > .section.br-intro-split > div + div {
+    margin-top: 40px;
+  }
+
+  body.broadridge main > .section.br-panel {
+    padding: 80px 62px 64px;
+  }
+
+  body.broadridge main > .section.br-panel.br-cta-end {
+    padding-bottom: 40px;
+  }
+}
+
+/* header, main and footer rules below target separate subtrees, so source order across them is irrelevant */
+/* stylelint-disable no-descending-specificity */
+
+/* ---------- header (/broadridge-nav) ---------- */
+body.broadridge header .nav-wrapper {
+  background-color: var(--br-color-page);
+}
+
+body.broadridge header .nav-utility-bar {
+  display: none;
+}
+
+body.broadridge header nav {
+  max-width: var(--br-band-max-width);
+  padding: 0 var(--br-gutter);
+  background-color: var(--br-color-white);
+  color: var(--br-color-text);
+}
+
+body.broadridge header nav .nav-brand {
+  flex-basis: 156px;
+}
+
+body.broadridge header nav .nav-brand img {
+  display: block;
+  width: 156px;
+}
+
+body.broadridge header nav .nav-brand a:any-link {
+  display: inline-block;
+}
+
+body.broadridge header nav .nav-sections ul {
+  font-size: var(--br-body-size-m);
+}
+
+body.broadridge header nav .nav-sections ul > li {
+  font-weight: 400;
+}
+
+body.broadridge header nav .nav-sections ul > li > ul a:any-link {
+  color: var(--br-color-text);
+}
+
+body.broadridge header nav .nav-sections ul > li > ul a:hover {
+  color: var(--br-color-blue);
+}
+
+body.broadridge header nav .nav-tools .button-container {
+  margin: 0;
+}
+
+body.broadridge header nav .nav-tools a:any-link,
+body.broadridge header nav .nav-tools .button {
+  display: inline-block;
+  padding: 10px 18px;
+  border: 0;
+  border-radius: 2px;
+  background: var(--br-color-blue);
+  color: var(--br-color-white);
+  font-size: var(--br-body-size-s);
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+body.broadridge header nav .nav-tools a:hover {
+  background: var(--br-color-blue-dark);
+  color: var(--br-color-white);
+}
+
+body.broadridge header nav .nav-hamburger button {
+  background-color: var(--br-color-white);
+}
+
+@media (width >= 900px) {
+  body.broadridge header .nav-utility-bar {
+    display: block;
+    box-sizing: border-box;
+    max-width: var(--br-band-max-width);
+    height: 37px;
+    margin: 0 auto;
+    padding: 0 62px;
+    background-color: var(--br-color-navy-deep);
+    color: var(--br-color-white);
+  }
+
+  body.broadridge header .nav-utility-bar ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 24px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: var(--br-body-size-xs);
+  }
+
+  body.broadridge header .nav-utility-bar p {
+    margin: 0;
+  }
+
+  body.broadridge header .nav-utility-bar a:any-link {
+    color: var(--br-color-white);
+    font-size: var(--br-body-size-xs);
+  }
+
+  body.broadridge header .nav-utility-bar a:hover {
+    text-decoration: underline;
+  }
+
+  body.broadridge header .nav-utility-bar li:last-child {
+    padding-left: 24px;
+    border-left: 1px solid rgb(255 255 255 / 70%);
+  }
+
+  body.broadridge header .nav-utility-bar a[href*='search']::after {
+    content: '';
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-left: 8px;
+    vertical-align: -3px;
+    background-color: currentcolor;
+    mask: url('../icons/search.svg') center / contain no-repeat;
+  }
+
+  body.broadridge header nav {
+    height: 76px;
+    padding: 0 62px;
+  }
+
+  body.broadridge header nav .nav-sections {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  body.broadridge header nav .nav-sections ul {
+    gap: 32px;
+  }
+
+  body.broadridge header nav .nav-sections .nav-drop {
+    padding-right: 22px;
+  }
+
+  body.broadridge header nav .nav-sections .nav-drop::after {
+    top: 4px;
+    width: 5px;
+    height: 5px;
+    border-width: 1.5px 1.5px 0 0;
+  }
+
+  body.broadridge header nav .nav-sections .nav-drop[aria-expanded='true']::after {
+    top: 8px;
+    bottom: unset;
+  }
+
+  body.broadridge header nav .nav-sections .default-content-wrapper > ul > li[aria-expanded='true'] > ul {
+    top: 200%;
+    left: -16px;
+    width: 260px;
+    padding: 16px 24px;
+    border-radius: var(--br-radius);
+    background-color: var(--br-color-white);
+    box-shadow: var(--br-shadow);
+  }
+
+  body.broadridge header nav .nav-sections .default-content-wrapper > ul > li > ul::before {
+    border-bottom-color: var(--br-color-white);
+  }
+
+  body.broadridge header nav .nav-sections .default-content-wrapper > ul > li > ul > li {
+    font-size: var(--br-body-size-s);
+  }
+
+  body.broadridge header nav .nav-tools {
+    margin-left: 32px;
+  }
+}
+
+/* ---------- footer (/broadridge-footer) ---------- */
+body.broadridge footer {
+  background-color: var(--br-color-footer);
+  color: var(--br-color-text);
+}
+
+body.broadridge footer .footer > div {
+  max-width: var(--br-content-max-width);
+  margin: 0 auto;
+  padding: 56px var(--br-gutter) 48px;
+}
+
+body.broadridge footer .section > div {
+  max-width: none;
+}
+
+body.broadridge footer p,
+body.broadridge footer li {
+  margin: 0;
+  font-size: var(--br-body-size-s);
+  line-height: 1.6;
+}
+
+body.broadridge footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body.broadridge footer a:any-link {
+  color: var(--br-color-text);
+  text-decoration: none;
+}
+
+body.broadridge footer a:hover {
+  color: var(--br-color-blue);
+  text-decoration: underline;
+}
+
+body.broadridge footer :is(h3, h4) {
+  margin: 0 0 8px;
+  font-size: var(--br-body-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+body.broadridge footer .button-container {
+  margin: 0;
+}
+
+body.broadridge footer a.button:any-link {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--br-color-text);
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  text-align: left;
+}
+
+body.broadridge footer .columns > div {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 40px;
+  text-align: left;
+}
+
+body.broadridge footer .columns > div > div {
+  flex: 1 1 auto;
+}
+
+/* brand column */
+body.broadridge footer .columns > div > div:first-child {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+body.broadridge footer .columns > div > div:first-child img {
+  display: block;
+  width: 156px;
+  height: auto;
+}
+
+body.broadridge footer .columns > div > div:first-child > p:nth-of-type(2) {
+  font-size: var(--br-body-size-xs);
+}
+
+body.broadridge footer .columns > div > div:first-child > p:nth-of-type(3) {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+body.broadridge footer .columns > div > div:first-child > ul:first-of-type {
+  display: flex;
+  gap: 30px;
+}
+
+body.broadridge footer .columns > div > div:first-child > ul:first-of-type a:any-link {
+  display: block;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  background-color: var(--br-color-blue);
+  color: transparent;
+  font-size: 0;
+  mask: url('../icons/linkedin.svg') center / contain no-repeat;
+}
+
+body.broadridge footer .columns > div > div:first-child > ul:first-of-type a[href*='instagram'] {
+  mask-image: url('../icons/instagram.svg');
+}
+
+body.broadridge footer .columns > div > div:first-child > ul:first-of-type a[href*='youtube'] {
+  mask-image: url('../icons/youtube.svg');
+}
+
+body.broadridge footer .columns > div > div:first-child > :is(h3, h4) {
+  margin: 8px 0 0;
+  font-size: var(--br-body-size-xs);
+  font-weight: 400;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+body.broadridge footer .columns > div > div:first-child > ul:nth-of-type(2) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+  margin-top: -8px;
+}
+
+body.broadridge footer .columns > div > div:first-child > ul:nth-of-type(2) li {
+  font-size: var(--br-body-size-xs);
+}
+
+body.broadridge footer .columns > div > div:first-child > p:last-child {
+  color: var(--br-color-text-muted);
+  font-size: var(--br-body-size-xs);
+}
+
+/* links column: Company Info (2 columns) | Industries, then legal links */
+body.broadridge footer .columns > div > div:last-child {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px 0;
+}
+
+body.broadridge footer .columns > div > div:last-child > ul:nth-of-type(1),
+body.broadridge footer .columns > div > div:last-child > ul:nth-of-type(2) {
+  margin-bottom: 24px;
+}
+
+body.broadridge footer .columns > div > div:last-child > ul:nth-of-type(1) {
+  columns: 2;
+  column-gap: 32px;
+}
+
+body.broadridge footer .columns > div > div:last-child > ul li {
+  padding: 3px 0;
+}
+
+body.broadridge footer .columns > div > div:last-child > ul:nth-of-type(3) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  padding-top: 24px;
+  border-top: 1px solid var(--br-color-text);
+}
+
+body.broadridge footer .columns > div > div:last-child > ul:nth-of-type(3) li {
+  padding: 0;
+  font-size: var(--br-body-size-xs);
+}
+
+body.broadridge footer .columns > div > div:last-child > ul:nth-of-type(3) a:any-link {
+  color: var(--br-color-text-muted);
+}
+
+@media (width >= 900px) {
+  body.broadridge footer .footer > div {
+    padding: 95px 0 80px;
+  }
+
+  body.broadridge footer .columns > div {
+    flex-direction: row;
+    gap: 0;
+  }
+
+  body.broadridge footer .columns > div > div:first-child {
+    flex: 0 0 400px;
+    margin-right: 162px;
+  }
+
+  body.broadridge footer .columns > div > div:last-child {
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: auto auto 1fr auto;
+    gap: 8px 24px;
+    align-content: start;
+  }
+
+  body.broadridge footer .columns > div > div:last-child > :is(h3, h4):nth-of-type(1) {
+    grid-area: 1 / 1;
+  }
+
+  body.broadridge footer .columns > div > div:last-child > ul:nth-of-type(1) {
+    grid-area: 2 / 1;
+    margin-bottom: 0;
+  }
+
+  body.broadridge footer .columns > div > div:last-child > :is(h3, h4):nth-of-type(2) {
+    grid-area: 1 / 2;
+  }
+
+  body.broadridge footer .columns > div > div:last-child > ul:nth-of-type(2) {
+    grid-area: 2 / 2;
+    margin-bottom: 0;
+  }
+
+  body.broadridge footer .columns > div > div:last-child > ul:nth-of-type(3) {
+    grid-area: 4 / 1 / 5 / 3;
+    margin-top: 32px;
+  }
+}

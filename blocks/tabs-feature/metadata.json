@@ -1,0 +1,25 @@
+{
+  "variantName": "tabs-feature",
+  "baseBlock": "tabs",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light, blue active underline",
+    "density": "spacious",
+    "purpose": "audience / industry tabs",
+    "imagePattern": "image left of text"
+  },
+  "contentPattern": {
+    "structure": "each row = tab: cell1 tab label, cell2 image, cell3 rich text (h3, paragraph, link with arrow)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/broadridge"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-06T15:30:00.000Z"
+  }
+}

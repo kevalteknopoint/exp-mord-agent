@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "url": "http://localhost:8090/migration-work/design-broadridge/source/broadridge-footer.html",
+  "path": "broadridge-footer",
+  "timestamp": "2026-10-06T15:32:08.055Z",
+  "title": "Broadridge footer fragment: columns block (brand column, link lists column)",
+  "template": "broadridge-footer",
+  "blocks": [
+    "columns"
+  ]
+}

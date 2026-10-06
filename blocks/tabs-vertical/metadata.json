@@ -1,0 +1,25 @@
+{
+  "variantName": "tabs-vertical",
+  "baseBlock": "tabs",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light blue active tab, white card",
+    "density": "spacious",
+    "purpose": "capabilities list",
+    "imagePattern": "none"
+  },
+  "contentPattern": {
+    "structure": "each row = tab: cell1 tab label, cell2 rich text (h3, paragraph, link rendered as arrow)",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/broadridge"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-06T15:30:00.000Z"
+  }
+}

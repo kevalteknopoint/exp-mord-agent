@@ -1,0 +1,185 @@
+/* Form Contact - intro + specialist contacts left, white form card right (design: migration-work/design-broadridge/spec.md) */
+.form-contact {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
+}
+
+.form-contact .form-contact-aside {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.form-contact .form-contact-intro :is(h2, h3) {
+  margin: 0 0 24px;
+  color: #0a2a8a;
+  font-size: var(--br-section-heading-size, 28px);
+  font-weight: 300;
+  line-height: 1.3;
+}
+
+.form-contact .form-contact-intro p {
+  margin: 0;
+  font-size: var(--br-body-size-l, 17px);
+  line-height: 1.6;
+}
+
+.form-contact .form-contact-contact p {
+  margin: 0 0 12px;
+  font-size: var(--br-body-size-m, 16px);
+}
+
+.form-contact .form-contact-contact ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.form-contact .form-contact-contact li {
+  margin: 0;
+  padding: 4px 0;
+  font-size: var(--br-body-size-s, 14px);
+}
+
+.form-contact .form-contact-contact a:any-link {
+  margin-right: 12px;
+  color: var(--br-color-text, #060932);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.form-contact .form-contact-contact a:hover {
+  color: var(--br-color-blue, #2762fc);
+}
+
+/* form card */
+.form-contact .form-contact-form {
+  padding: 24px 20px;
+  border-radius: 2px;
+  background-color: var(--br-color-white, #fff);
+  box-shadow: 0 24px 48px rgb(6 9 50 / 10%);
+}
+
+.form-contact .form-contact-fields {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px 31px;
+}
+
+.form-contact .form-contact-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.form-contact .form-contact-field label {
+  color: var(--br-color-text, #060932);
+  font-size: var(--br-body-size-s, 14px);
+  line-height: 1.4;
+}
+
+.form-contact .form-contact-required {
+  color: var(--br-color-required, #d62049);
+}
+
+.form-contact .form-contact-field :is(input, select, textarea) {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 54px;
+  padding: 12px 14px;
+  border: 1px solid var(--br-color-field-border, #dfe3ea);
+  border-radius: 0;
+  background-color: var(--br-color-surface, #f9f9f9);
+  color: var(--br-color-text, #060932);
+  font-size: var(--br-body-size-m, 16px);
+}
+
+.form-contact .form-contact-field select {
+  padding-right: 40px;
+  appearance: none;
+  background-image: url('../../icons/chevron-down.svg');
+  background-position: right 14px center;
+  background-repeat: no-repeat;
+  background-size: 18px;
+  color: #6b7184;
+}
+
+.form-contact .form-contact-field select:has(option:checked:not([value=''])) {
+  color: var(--br-color-text, #060932);
+}
+
+.form-contact .form-contact-field :is(input, select, textarea):focus {
+  border-color: var(--br-color-blue, #2762fc);
+  outline: 1px solid var(--br-color-blue, #2762fc);
+}
+
+.form-contact .form-contact-submit {
+  width: 100%;
+  min-height: 54px;
+  margin: 31px 0 0;
+  padding: 12px 24px;
+  border: 0;
+  border-radius: 0;
+  background-color: var(--br-color-blue, #2762fc);
+  color: var(--br-color-white, #fff);
+  font-size: var(--br-body-size-l, 17px);
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.form-contact .form-contact-submit:hover,
+.form-contact .form-contact-submit:focus-visible {
+  background-color: var(--br-color-blue-dark, #1149d8);
+}
+
+.form-contact .form-contact-submit:disabled {
+  opacity: 0.6;
+  cursor: progress;
+}
+
+.form-contact .form-contact-status {
+  margin: 12px 0 0;
+  font-size: var(--br-body-size-s, 14px);
+}
+
+.form-contact .form-contact-status:empty {
+  display: none;
+}
+
+.form-contact .form-contact-error {
+  color: var(--br-color-required, #d62049);
+}
+
+@media (width >= 600px) {
+  .form-contact .form-contact-fields {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .form-contact .form-contact-full {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (width >= 900px) {
+  .form-contact {
+    grid-template-columns: minmax(0, 436fr) minmax(0, 659fr);
+    gap: 0 57px;
+    align-items: stretch;
+  }
+
+  .form-contact .form-contact-aside {
+    justify-content: space-between;
+    padding: 18px 0 0;
+  }
+
+  .form-contact .form-contact-intro :is(h2, h3) {
+    margin-bottom: 40px;
+    font-size: 40px;
+    line-height: 1.2;
+  }
+
+  .form-contact .form-contact-form {
+    padding: 31px;
+  }
+}

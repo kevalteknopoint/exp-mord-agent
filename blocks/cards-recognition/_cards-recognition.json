@@ -1,0 +1,70 @@
+{
+  "definitions": [
+    {
+      "title": "Cards Recognition",
+      "id": "cards-recognition",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Cards Recognition",
+              "filter": "cards-recognition"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Recognition Card",
+      "id": "cards-recognition-card",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Recognition Card",
+              "model": "cards-recognition-card"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "cards-recognition-card",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Image (optional - makes this the large feature card)",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Image (optional - makes this the large feature card) Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text (heading, link)",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "cards-recognition",
+      "components": [
+        "cards-recognition-card"
+      ]
+    }
+  ]
+}

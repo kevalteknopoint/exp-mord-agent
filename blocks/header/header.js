@@ -185,11 +185,21 @@ export default async function decorate(block) {
   nav.id = 'nav';
   while (fragment.firstElementChild) nav.append(fragment.firstElementChild);
 
-  const classes = ['brand', 'sections', 'tools'];
+  // optional 4th section = utility links, rendered as a bar above the main nav
+  const classes = ['brand', 'sections', 'tools', 'utility'];
   classes.forEach((c, i) => {
     const section = nav.children[i];
     if (section) section.classList.add(`nav-${c}`);
   });
+  const navUtility = nav.querySelector('.nav-utility');
+  if (navUtility) {
+    navUtility.classList.replace('nav-utility', 'nav-utility-bar');
+    navUtility.querySelectorAll('.button').forEach((link) => {
+      link.className = '';
+      link.closest('.button-container')?.classList.remove('button-container');
+    });
+    navUtility.remove();
+  }
 
   const navBrand = nav.querySelector('.nav-brand');
   const brandLink = navBrand.querySelector('.button');
@@ -239,6 +249,7 @@ export default async function decorate(block) {
 
   const navWrapper = document.createElement('div');
   navWrapper.className = 'nav-wrapper';
+  if (navUtility) navWrapper.append(navUtility);
   navWrapper.append(nav);
   block.append(navWrapper);
 

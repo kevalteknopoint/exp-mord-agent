@@ -1,0 +1,121 @@
+/* Cards Spotlight - photo + navy body with tag chip, title, arrow (design: migration-work/design-broadridge/spec.md) */
+.cards-spotlight > ul {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--br-card-gap, 16px);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-spotlight .cards-spotlight-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border-radius: var(--br-radius, 4px);
+  background-color: var(--br-color-navy, #031f60);
+  color: var(--br-color-white, #fff);
+}
+
+.cards-spotlight .cards-spotlight-image {
+  aspect-ratio: 264 / 176;
+  overflow: hidden;
+}
+
+.cards-spotlight .cards-spotlight-image picture,
+.cards-spotlight .cards-spotlight-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.cards-spotlight .cards-spotlight-card:hover .cards-spotlight-image img {
+  transform: scale(1.04);
+}
+
+.cards-spotlight .cards-spotlight-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  min-height: 220px;
+  box-sizing: border-box;
+  padding: 23px;
+}
+
+.cards-spotlight .cards-spotlight-tag {
+  align-self: flex-start;
+  margin: 0 0 10px;
+  padding: 1px 7px;
+  background-color: var(--br-color-chip, #123bb9);
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.cards-spotlight .cards-spotlight-body :is(h2, h3, h4) {
+  margin: 0;
+  color: var(--br-color-white, #fff);
+  font-size: var(--br-card-title-size, 20px);
+  font-weight: 300;
+  line-height: 1.25;
+}
+
+.cards-spotlight .cards-spotlight-link-wrapper {
+  margin: auto 0 0;
+  padding-top: 32px;
+}
+
+.cards-spotlight .cards-spotlight-link:any-link {
+  display: block;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  color: var(--br-color-white, #fff);
+  font-size: 0;
+  text-decoration: none;
+}
+
+.cards-spotlight .cards-spotlight-link::before {
+  content: '';
+  display: block;
+  width: 24px;
+  height: 24px;
+  background-color: currentcolor;
+  mask: url('../../icons/arrow-right.svg') center / contain no-repeat;
+  transition: transform 0.2s ease;
+}
+
+.cards-spotlight .cards-spotlight-link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+.cards-spotlight .cards-spotlight-card:hover .cards-spotlight-link::before {
+  transform: translateX(4px);
+}
+
+.cards-spotlight .cards-spotlight-card:has(.cards-spotlight-link:focus-visible) {
+  outline: 2px solid var(--br-color-blue, #2762fc);
+  outline-offset: 2px;
+}
+
+@media (width >= 600px) {
+  .cards-spotlight > ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (width >= 900px) {
+  .cards-spotlight > ul {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .cards-spotlight .cards-spotlight-body {
+    min-height: 272px;
+  }
+}

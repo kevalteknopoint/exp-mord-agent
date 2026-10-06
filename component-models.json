@@ -27,6 +27,20 @@
         "name": "template",
         "label": "Template",
         "description": "Optional page template name - added as a body class to scope page-specific styling (e.g. loans)"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "nav",
+        "label": "Navigation",
+        "description": "Optional path of the header navigation fragment (default /nav), e.g. /broadridge-nav"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "footer",
+        "label": "Footer",
+        "description": "Optional path of the footer fragment (default /footer), e.g. /broadridge-footer"
       }
     ]
   },
@@ -155,6 +169,18 @@
           {
             "name": "Loans: customer service",
             "value": "loans-service"
+          },
+          {
+            "name": "Broadridge: intro split (heading left, text right)",
+            "value": "br-intro-split"
+          },
+          {
+            "name": "Broadridge: light-blue panel",
+            "value": "br-panel"
+          },
+          {
+            "name": "Broadridge: CTA aligned right",
+            "value": "br-cta-end"
           }
         ]
       }
@@ -534,6 +560,32 @@
     ]
   },
   {
+    "id": "cards-recognition-card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image (optional - makes this the large feature card)",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Image (optional - makes this the large feature card) Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (heading, link)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "cards-service-links-item",
     "fields": [
       {
@@ -560,6 +612,32 @@
     ]
   },
   {
+    "id": "cards-solution-card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Illustration",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Illustration Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (heading, description, link)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "card",
     "fields": [
       {
@@ -574,6 +652,32 @@
         "name": "text",
         "value": "",
         "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-spotlight-card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Image Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (tag paragraph e.g. Content type, heading, link)",
         "valueType": "string"
       }
     ]
@@ -1078,6 +1182,108 @@
     ]
   },
   {
+    "id": "form-contact",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "intro",
+        "value": "",
+        "label": "Intro (heading, paragraph)",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "contact",
+        "value": "",
+        "label": "Contact details (e.g. specialist phone list)",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "submitLabel",
+        "value": "",
+        "label": "Submit Button Label"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "action",
+        "value": "",
+        "label": "Form Action URL",
+        "description": "POST endpoint for submissions (JSON). Leave empty to only show the thank-you message."
+      }
+    ]
+  },
+  {
+    "id": "form-contact-field",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "label",
+        "value": "",
+        "label": "Label"
+      },
+      {
+        "component": "select",
+        "valueType": "string",
+        "name": "kind",
+        "value": "text",
+        "label": "Field Type",
+        "options": [
+          {
+            "name": "Text",
+            "value": "text"
+          },
+          {
+            "name": "Email",
+            "value": "email"
+          },
+          {
+            "name": "Telephone",
+            "value": "tel"
+          },
+          {
+            "name": "Dropdown",
+            "value": "select"
+          },
+          {
+            "name": "Multi-line text",
+            "value": "textarea"
+          }
+        ]
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "options",
+        "value": "",
+        "label": "Dropdown Options",
+        "description": "Comma separated; the first entry is the placeholder (e.g. Choose Country, Canada, Germany)"
+      },
+      {
+        "component": "multiselect",
+        "valueType": "string",
+        "name": "settings",
+        "label": "Settings",
+        "value": [
+          "required"
+        ],
+        "options": [
+          {
+            "name": "Required",
+            "value": "required"
+          },
+          {
+            "name": "Full width",
+            "value": "full"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "form",
     "fields": [
       {
@@ -1203,6 +1409,32 @@
         "name": "text",
         "value": "",
         "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "hero-split-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image (optional - main panel / promo card background)",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Image (optional - main panel / promo card background) Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (main panel: heading, intro, CTA link | promo card: tag paragraph, heading, link)",
         "valueType": "string"
       }
     ]
@@ -1641,6 +1873,39 @@
     ]
   },
   {
+    "id": "tabs-feature-item",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "title",
+        "value": "",
+        "label": "Tab Label"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Image Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Panel Text (heading, paragraph, link)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "tabs-illustration-item",
     "fields": [
       {
@@ -1691,6 +1956,25 @@
         "name": "timeline_text",
         "value": "",
         "label": "Timeline (list of steps + CTA link)"
+      }
+    ]
+  },
+  {
+    "id": "tabs-vertical-item",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "title",
+        "value": "",
+        "label": "Tab Label"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Panel Text (heading, paragraph, link)",
+        "valueType": "string"
       }
     ]
   },

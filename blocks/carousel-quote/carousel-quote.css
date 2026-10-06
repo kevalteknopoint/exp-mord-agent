@@ -41,7 +41,7 @@
   justify-content: space-between;
   gap: 32px;
   box-sizing: border-box;
-  min-height: 220px;
+  min-height: 232px;
   margin: 0;
   padding: 24px;
   border-radius: var(--loans-radius-m);

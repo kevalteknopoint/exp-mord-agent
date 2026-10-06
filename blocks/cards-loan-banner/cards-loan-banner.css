@@ -54,7 +54,7 @@
   flex-direction: column;
   align-items: center;
   box-sizing: border-box;
-  padding: 72px 24px 20px;
+  padding: 72px 14px 20px;
   font-family: var(--loans-font-family);
   text-align: center;
 }
@@ -74,11 +74,11 @@
 }
 
 .cards-loan-banner .cards-loan-banner-body > :is(h1, h2, h3, h4, h5, h6) {
-  max-width: 16ch;
+  max-width: 20ch;
   font-family: var(--loans-font-family);
-  font-size: var(--loans-banner-heading-size, 32px);
+  font-size: var(--loans-banner-heading-size, 34px);
   font-weight: var(--loans-heading-weight, 300);
-  line-height: var(--loans-heading-line-height, 1.15);
+  line-height: var(--loans-banner-heading-line-height, 1.3);
   letter-spacing: var(--loans-heading-letter-spacing, -0.02em);
   color: inherit;
 }

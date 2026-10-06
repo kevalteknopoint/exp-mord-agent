@@ -1,0 +1,161 @@
+/* Cards Loan Banner - stacked full-bleed rounded banner cards (tokens from styles/loans.css, body.loans) */
+.cards-loan-banner > ul {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--loans-banner-gap, 8px);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-loan-banner .cards-loan-banner-item {
+  position: relative;
+  display: flex;
+  overflow: hidden;
+  aspect-ratio: 4 / 7;
+  min-height: 520px;
+  border-radius: var(--loans-radius-l, 24px);
+  background-color: var(--loans-color-black);
+  color: var(--loans-color-white);
+  isolation: isolate;
+}
+
+.cards-loan-banner .cards-loan-banner-dark {
+  background-color: var(--loans-color-sky);
+  color: var(--loans-color-ink);
+}
+
+/* full-bleed photo */
+.cards-loan-banner .cards-loan-banner-image {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+}
+
+.cards-loan-banner .cards-loan-banner-image p,
+.cards-loan-banner .cards-loan-banner-image picture {
+  display: block;
+  height: 100%;
+  margin: 0;
+}
+
+.cards-loan-banner .cards-loan-banner-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center bottom;
+}
+
+/* text overlaid at the top, fine print pinned to the bottom */
+.cards-loan-banner .cards-loan-banner-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 72px 24px 20px;
+  font-family: var(--loans-font-family);
+  text-align: center;
+}
+
+.cards-loan-banner .cards-loan-banner-body > * {
+  max-width: 34ch;
+  margin: 0;
+}
+
+.cards-loan-banner .cards-loan-banner-body > .cards-loan-banner-eyebrow {
+  margin-bottom: 12px;
+  font-size: var(--loans-eyebrow-size, 11px);
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: var(--loans-eyebrow-letter-spacing, 0.2em);
+  text-transform: uppercase;
+}
+
+.cards-loan-banner .cards-loan-banner-body > :is(h1, h2, h3, h4, h5, h6) {
+  max-width: 16ch;
+  font-family: var(--loans-font-family);
+  font-size: var(--loans-banner-heading-size, 32px);
+  font-weight: var(--loans-heading-weight, 300);
+  line-height: var(--loans-heading-line-height, 1.15);
+  letter-spacing: var(--loans-heading-letter-spacing, -0.02em);
+  color: inherit;
+}
+
+.cards-loan-banner .cards-loan-banner-body > .cards-loan-banner-cta {
+  margin-top: 32px;
+}
+
+.cards-loan-banner a.cards-loan-banner-button:any-link {
+  display: inline-block;
+  box-sizing: border-box;
+  min-width: 196px;
+  padding: 13px 32px;
+  border: 0;
+  border-radius: var(--loans-radius-pill, 999px);
+  background-color: var(--loans-color-white);
+  color: var(--loans-color-ink);
+  font-family: var(--loans-font-family);
+  font-size: var(--loans-body-size-s, 13px);
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.cards-loan-banner a.cards-loan-banner-button:hover,
+.cards-loan-banner a.cards-loan-banner-button:focus-visible {
+  background-color: var(--loans-color-surface);
+  color: var(--loans-color-black);
+}
+
+.cards-loan-banner a.cards-loan-banner-button:focus-visible {
+  outline: 2px solid currentcolor;
+  outline-offset: 3px;
+}
+
+.cards-loan-banner .cards-loan-banner-body > .cards-loan-banner-fineprint {
+  max-width: none;
+  margin-top: auto;
+  padding-top: 24px;
+  color: var(--loans-color-white);
+  font-size: var(--loans-fineprint-size, 10px);
+  line-height: 1.4;
+  opacity: 0.85;
+}
+
+@media (width >= 900px) {
+  .cards-loan-banner > ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--loans-banner-gap-desktop, 16px);
+  }
+
+  .cards-loan-banner .cards-loan-banner-item {
+    aspect-ratio: 4 / 5;
+    min-height: 0;
+  }
+
+  .cards-loan-banner .cards-loan-banner-body {
+    padding: 72px 40px 28px;
+  }
+
+  .cards-loan-banner .cards-loan-banner-body > .cards-loan-banner-eyebrow {
+    margin-bottom: 16px;
+    font-size: 12px;
+  }
+
+  .cards-loan-banner .cards-loan-banner-body > :is(h1, h2, h3, h4, h5, h6) {
+    font-size: var(--loans-banner-heading-size-desktop, 44px);
+  }
+
+  .cards-loan-banner .cards-loan-banner-body > .cards-loan-banner-cta {
+    margin-top: 36px;
+  }
+
+  .cards-loan-banner .cards-loan-banner-body > .cards-loan-banner-fineprint {
+    font-size: 11px;
+  }
+}

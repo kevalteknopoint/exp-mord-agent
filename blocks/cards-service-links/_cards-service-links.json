@@ -1,0 +1,70 @@
+{
+  "definitions": [
+    {
+      "title": "Cards Service Links",
+      "id": "cards-service-links",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Cards Service Links",
+              "filter": "cards-service-links"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Service Link",
+      "id": "cards-service-links-item",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Service Link",
+              "model": "cards-service-links-item"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "cards-service-links-item",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Graphic (optional)",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Graphic (optional) Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text (a single link)",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "cards-service-links",
+      "components": [
+        "cards-service-links-item"
+      ]
+    }
+  ]
+}

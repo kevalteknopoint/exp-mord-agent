@@ -1,4 +1,5 @@
 @import url('brand.css');
+@import url('loans.css'); /* page-scoped theme, body.loans only */
 
 /* metric-adjusted local fallback for Inter (keeps CLS low until fonts.css loads) */
 @font-face {

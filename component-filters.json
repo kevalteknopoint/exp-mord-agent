@@ -48,7 +48,10 @@
       "columns-image-table",
       "carousel-reviews",
       "form-callback",
-      "tabs-faq"
+      "tabs-faq",
+      "cards-loan-banner",
+      "carousel-quote",
+      "cards-service-links"
     ]
   },
   {
@@ -118,6 +121,12 @@
     ]
   },
   {
+    "id": "cards-loan-banner",
+    "components": [
+      "cards-loan-banner-item"
+    ]
+  },
+  {
     "id": "cards-plan-links",
     "components": [
       "cards-plan-links-item"
@@ -145,6 +154,12 @@
     "id": "cards-quicklinks",
     "components": [
       "card-quicklink"
+    ]
+  },
+  {
+    "id": "cards-service-links",
+    "components": [
+      "cards-service-links-item"
     ]
   },
   {
@@ -199,6 +214,12 @@
     "id": "carousel-persona",
     "components": [
       "carousel-persona-item"
+    ]
+  },
+  {
+    "id": "carousel-quote",
+    "components": [
+      "carousel-quote-item"
     ]
   },
   {

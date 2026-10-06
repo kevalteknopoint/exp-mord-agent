@@ -449,6 +449,37 @@
           }
         },
         {
+          "title": "Cards Loan Banner",
+          "id": "cards-loan-banner",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Loan Banner",
+                  "filter": "cards-loan-banner"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Loan Banner",
+          "id": "cards-loan-banner-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Loan Banner",
+                  "model": "cards-loan-banner-item",
+                  "theme": "light"
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Cards Plan Links",
           "id": "cards-plan-links",
           "plugins": {
@@ -593,6 +624,36 @@
                 "template": {
                   "name": "Card Quicklink",
                   "model": "card-quicklink"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Service Links",
+          "id": "cards-service-links",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Service Links",
+                  "filter": "cards-service-links"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Service Link",
+          "id": "cards-service-links-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Service Link",
+                  "model": "cards-service-links-item"
                 }
               }
             }
@@ -863,6 +924,36 @@
                 "template": {
                   "name": "Persona Slide",
                   "model": "carousel-persona-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Quote",
+          "id": "carousel-quote",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Carousel Quote",
+                  "filter": "carousel-quote"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Quote",
+          "id": "carousel-quote-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Quote",
+                  "model": "carousel-quote-item"
                 }
               }
             }

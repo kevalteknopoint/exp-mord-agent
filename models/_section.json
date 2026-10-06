@@ -33,6 +33,18 @@
             {
               "name": "Highlight",
               "value": "highlight"
+            },
+            {
+              "name": "Loans: banners",
+              "value": "loans-banners"
+            },
+            {
+              "name": "Loans: testimonials",
+              "value": "loans-testimonials"
+            },
+            {
+              "name": "Loans: customer service",
+              "value": "loans-service"
             }
           ]
         }
@@ -83,7 +95,10 @@
         "columns-image-table",
         "carousel-reviews",
         "form-callback",
-        "tabs-faq"
+        "tabs-faq",
+        "cards-loan-banner",
+        "carousel-quote",
+        "cards-service-links"
       ]
     }
   ]

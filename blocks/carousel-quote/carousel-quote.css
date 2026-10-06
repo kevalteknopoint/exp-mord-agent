@@ -1,0 +1,172 @@
+/* Carousel Quote - testimonial slider (tokens from styles/loans.css, body.loans) */
+.carousel-quote {
+  position: relative;
+  font-family: var(--loans-font-family);
+  color: var(--loans-color-text);
+}
+
+.carousel-quote .carousel-quote-track {
+  display: grid;
+  grid-auto-columns: 100%;
+  grid-auto-flow: column;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.carousel-quote .carousel-quote-track::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-quote .carousel-quote-track:focus-visible {
+  outline: 2px solid var(--loans-color-black);
+  outline-offset: 4px;
+}
+
+.carousel-quote .carousel-quote-slide {
+  display: flex;
+  margin: 0;
+  scroll-snap-align: start;
+}
+
+.carousel-quote .carousel-quote-card {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 32px;
+  box-sizing: border-box;
+  min-height: 220px;
+  margin: 0;
+  padding: 24px;
+  border-radius: var(--loans-radius-m);
+  background-color: var(--loans-color-surface);
+}
+
+.carousel-quote .carousel-quote-text {
+  margin: 0;
+  padding: 0;
+}
+
+.carousel-quote .carousel-quote-text p {
+  margin: 0;
+  font-size: var(--loans-body-size-m);
+  line-height: 1.55;
+  color: var(--loans-color-text);
+}
+
+.carousel-quote .carousel-quote-author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.carousel-quote .carousel-quote-avatar {
+  flex: 0 0 auto;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  border-radius: 50%;
+  background-color: var(--loans-color-border);
+}
+
+.carousel-quote .carousel-quote-avatar p,
+.carousel-quote .carousel-quote-avatar picture {
+  display: block;
+  height: 100%;
+  margin: 0;
+}
+
+.carousel-quote .carousel-quote-avatar img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.carousel-quote .carousel-quote-who p {
+  margin: 0;
+  line-height: 1.35;
+}
+
+.carousel-quote .carousel-quote-name {
+  font-size: var(--loans-body-size-s);
+  color: var(--loans-color-text);
+}
+
+.carousel-quote .carousel-quote-name strong {
+  font-weight: 500;
+}
+
+.carousel-quote .carousel-quote-who .carousel-quote-role {
+  font-size: var(--loans-body-size-xs);
+  color: var(--loans-color-text-muted);
+}
+
+.carousel-quote .carousel-quote-text p + p {
+  margin-top: 12px;
+}
+
+/* prev / next */
+.carousel-quote .carousel-quote-nav {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 24px;
+}
+
+.carousel-quote .carousel-quote-nav button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--loans-color-border);
+  border-radius: 50%;
+  background-color: var(--loans-color-bg);
+  color: var(--loans-color-text);
+  cursor: pointer;
+  transition: border-color 0.2s ease, background-color 0.2s ease, opacity 0.2s ease;
+}
+
+.carousel-quote .carousel-quote-nav button:focus-visible {
+  outline: 2px solid var(--loans-color-black);
+  outline-offset: 2px;
+}
+
+.carousel-quote .carousel-quote-nav button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.carousel-quote .carousel-quote-nav button:hover:not(:disabled) {
+  border-color: var(--loans-color-text);
+}
+
+.carousel-quote.carousel-quote-static .carousel-quote-nav {
+  display: none;
+}
+
+@media (width >= 700px) {
+  .carousel-quote .carousel-quote-track {
+    grid-auto-columns: calc((100% - 16px) / 2);
+  }
+
+  .carousel-quote .carousel-quote-card {
+    min-height: 260px;
+    padding: 32px;
+  }
+}
+
+@media (width >= 1600px) {
+  .carousel-quote .carousel-quote-track {
+    grid-auto-columns: calc((100% - 32px) / 3);
+  }
+}

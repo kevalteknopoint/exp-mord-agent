@@ -21,6 +21,13 @@
           "name": "keywords",
           "multi": true,
           "label": "Keywords"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "template",
+          "label": "Template",
+          "description": "Optional page template name - added as a body class to scope page-specific styling (e.g. loans)"
         }
       ]
     }

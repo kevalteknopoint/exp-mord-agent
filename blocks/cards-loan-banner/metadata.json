@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-loan-banner",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "photo, light/dark text",
+    "density": "spacious",
+    "purpose": "promotional banner",
+    "imagePattern": "full-bleed background"
+  },
+  "contentPattern": {
+    "structure": "each row = banner card: cell1 background image, cell2 rich text (eyebrow paragraph, heading, Apply link, fine-print paragraph), cell3 theme (light = white text | dark = dark text)",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/loans"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-06T14:24:29.000Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-service-links",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light grey rows",
+    "density": "compact",
+    "purpose": "link list",
+    "imagePattern": "optional decorative graphic"
+  },
+  "contentPattern": {
+    "structure": "each row = link row: cell1 optional graphic image (row rendered tall with the graphic at the bottom), cell2 rich text with a single link",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/loans"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-06T14:24:29.000Z"
+  }
+}

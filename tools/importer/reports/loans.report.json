@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "http://localhost:8090/migration-work/design-loans/source/loans.html",
+  "path": "loans",
+  "timestamp": "2026-10-06T14:24:46.138Z",
+  "title": "Loans",
+  "template": "loans",
+  "blocks": [
+    "cards-loan-banner",
+    "carousel-quote",
+    "cards-service-links"
+  ]
+}

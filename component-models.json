@@ -20,6 +20,13 @@
         "name": "keywords",
         "multi": true,
         "label": "Keywords"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "template",
+        "label": "Template",
+        "description": "Optional page template name - added as a body class to scope page-specific styling (e.g. loans)"
       }
     ]
   },
@@ -136,6 +143,18 @@
           {
             "name": "Highlight",
             "value": "highlight"
+          },
+          {
+            "name": "Loans: banners",
+            "value": "loans-banners"
+          },
+          {
+            "name": "Loans: testimonials",
+            "value": "loans-testimonials"
+          },
+          {
+            "name": "Loans: customer service",
+            "value": "loans-service"
           }
         ]
       }
@@ -370,6 +389,49 @@
     ]
   },
   {
+    "id": "cards-loan-banner-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Background Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Background Image Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (eyebrow paragraph, heading, Apply link, fine print paragraph)",
+        "valueType": "string"
+      },
+      {
+        "component": "select",
+        "valueType": "string",
+        "name": "theme",
+        "value": "light",
+        "label": "Text Colour",
+        "options": [
+          {
+            "name": "Light text (for dark images)",
+            "value": "light"
+          },
+          {
+            "name": "Dark text (for light images)",
+            "value": "dark"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "cards-plan-links-item",
     "fields": [
       {
@@ -467,6 +529,32 @@
         "name": "text",
         "value": "",
         "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-service-links-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Graphic (optional)",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Graphic (optional) Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (a single link)",
         "valueType": "string"
       }
     ]
@@ -652,6 +740,32 @@
         "name": "text",
         "value": "",
         "label": "Text (heading + paragraph)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "carousel-quote-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "media_image",
+        "label": "Avatar",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "media_imageAlt",
+        "value": "",
+        "label": "Avatar Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "content_text",
+        "value": "",
+        "label": "Text (quote paragraph, customer name in bold, role)",
         "valueType": "string"
       }
     ]

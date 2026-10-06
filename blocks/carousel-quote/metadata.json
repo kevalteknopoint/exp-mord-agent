@@ -1,0 +1,25 @@
+{
+  "variantName": "carousel-quote",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light grey cards",
+    "density": "comfortable",
+    "purpose": "testimonial",
+    "imagePattern": "avatar"
+  },
+  "contentPattern": {
+    "structure": "each row = testimonial slide: cell1 round avatar image, cell2 rich text (quote paragraph(s), customer name as a bold paragraph, role paragraph)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/loans"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-06T14:24:29.000Z"
+  }
+}

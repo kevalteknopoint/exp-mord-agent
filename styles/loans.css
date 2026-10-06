@@ -1,0 +1,148 @@
+/*
+ * /loans page theme (page metadata Template "loans" => body.loans).
+ * Everything here is scoped under body.loans so the site-wide Tata AIA theme
+ * (brand.css / styles.css) of every other page stays untouched.
+ * Design: migration-work/design-loans/spec.md - clean grotesk sans (Inter), light-weight
+ * large headings, black / white / greys.
+ */
+
+body.loans {
+  /* palette */
+  --loans-color-black: #000;
+  --loans-color-white: #fff;
+  --loans-color-bg: #fff;
+  --loans-color-text: #141414;
+  --loans-color-text-muted: #6e6e6e;
+  --loans-color-ink: #1d2433;
+  --loans-color-surface: #f2f2f2;
+  --loans-color-surface-hover: #e9e9e9;
+  --loans-color-border: #d6d6d6;
+  --loans-color-sky: #a9c3e6;
+
+  /* typography */
+  --loans-font-family: inter, inter-fallback, 'Helvetica Neue', arial, sans-serif;
+  --loans-heading-weight: 300;
+  --loans-heading-line-height: 1.15;
+  --loans-heading-letter-spacing: -0.02em;
+  --loans-section-heading-size: 32px;
+  --loans-banner-heading-size: 32px;
+  --loans-banner-heading-size-desktop: 44px;
+  --loans-eyebrow-size: 11px;
+  --loans-eyebrow-letter-spacing: 0.2em;
+  --loans-body-size-xs: 11px;
+  --loans-body-size-s: 13px;
+  --loans-body-size-m: 14px;
+  --loans-fineprint-size: 10px;
+
+  /* shape / layout */
+  --loans-radius-l: 24px;
+  --loans-radius-m: 16px;
+  --loans-radius-pill: 999px;
+  --loans-banner-gap: 8px;
+  --loans-banner-gap-desktop: 16px;
+  --loans-gutter: 16px;
+  --loans-content-max-width: 1280px;
+
+  background-color: var(--loans-color-bg);
+}
+
+/* re-point the shared semantic tokens inside main only (header/footer keep the site theme) */
+body.loans main {
+  --text-color: var(--loans-color-text);
+  --heading-color: var(--loans-color-text);
+  --link-color: var(--loans-color-text);
+  --link-hover-color: var(--loans-color-black);
+  --body-font-family: var(--loans-font-family);
+  --heading-font-family: var(--loans-font-family);
+  --letter-spacing: 0;
+
+  overflow-x: clip;
+  color: var(--loans-color-text);
+  font-family: var(--loans-font-family);
+  letter-spacing: 0;
+}
+
+/* sections */
+body.loans main > .section {
+  padding: 48px var(--loans-gutter);
+}
+
+body.loans main > .section > div {
+  max-width: var(--loans-content-max-width);
+}
+
+body.loans main > .section.loans-banners {
+  padding: 8px;
+}
+
+body.loans main > .section.loans-banners + .section {
+  padding-top: 56px;
+}
+
+body.loans main > .section.loans-service {
+  padding-bottom: 64px;
+}
+
+/* section intro: small eyebrow + large light-weight left-aligned heading */
+body.loans main .default-content-wrapper > p {
+  margin: 0 0 12px;
+  font-size: var(--loans-body-size-s);
+  line-height: 1.4;
+  color: var(--loans-color-text);
+}
+
+body.loans main .default-content-wrapper > h2,
+body.loans main .default-content-wrapper > :is(h3, h4):first-child {
+  width: auto;
+  max-width: 18ch;
+  margin: 0 0 32px;
+  margin-inline: 0;
+  background: none;
+  color: var(--loans-color-text);
+  font-family: var(--loans-font-family);
+  font-size: var(--loans-section-heading-size);
+  font-weight: var(--loans-heading-weight);
+  line-height: var(--loans-heading-line-height);
+  letter-spacing: var(--loans-heading-letter-spacing);
+  text-align: left;
+  -webkit-text-fill-color: currentcolor;
+}
+
+body.loans main > .section > div + div {
+  margin-top: 0;
+}
+
+@media (width >= 900px) {
+  body.loans {
+    --loans-section-heading-size: 48px;
+    --loans-gutter: 32px;
+    --loans-body-size-m: 16px;
+    --loans-body-size-s: 14px;
+    --loans-body-size-xs: 12px;
+  }
+
+  body.loans main > .section {
+    padding: 72px var(--loans-gutter);
+  }
+
+  body.loans main > .section.loans-banners {
+    padding: 16px;
+  }
+
+  body.loans main > .section.loans-banners > div {
+    max-width: none;
+  }
+
+  body.loans main > .section.loans-banners + .section {
+    padding-top: 96px;
+  }
+
+  body.loans main > .section.loans-service {
+    padding-bottom: 112px;
+  }
+
+  body.loans main .default-content-wrapper > h2,
+  body.loans main .default-content-wrapper > :is(h3, h4):first-child {
+    margin-bottom: 40px;
+  }
+}

@@ -1003,8 +1003,8 @@ export default {
     WebImporter.rules.adjustImageUrls(main, url, params.originalURL);
 
     // 6. Output path is fixed: the redesign is imported from the live term-insurance URL into a separate
-    //    document so /life-insurance-plans/term-insurance stays untouched
-    const path = WebImporter.FileUtils.sanitizePath('/life-insurance-plans/term-insurance-redesign');
+    //    top-level document (Content Sync only lists top-level pages) so /term-insurance stays untouched
+    const path = WebImporter.FileUtils.sanitizePath('/term-insurance-redesign');
 
     return [{
       element: main,

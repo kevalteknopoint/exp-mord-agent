@@ -2861,7 +2861,7 @@ var CustomImportScript = (() => {
       WebImporter.rules.createMetadata(main, document2);
       WebImporter.rules.transformBackgroundImages(main, document2);
       WebImporter.rules.adjustImageUrls(main, url, params.originalURL);
-      const path = WebImporter.FileUtils.sanitizePath("/life-insurance-plans/term-insurance-redesign");
+      const path = WebImporter.FileUtils.sanitizePath("/term-insurance-redesign");
       return [{
         element: main,
         path,

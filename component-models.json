@@ -1235,142 +1235,31 @@
     ]
   },
   {
-    "id": "table-comparison",
-    "fields": [
-      {
-        "component": "select",
-        "name": "filter",
-        "label": "Columns",
-        "valueType": "string",
-        "value": "table-comparison",
-        "options": [
-          {
-            "name": "1 Column",
-            "value": "table-comparison"
-          },
-          {
-            "name": "2 Columns",
-            "value": "table-comparison-2-columns"
-          },
-          {
-            "name": "3 Columns",
-            "value": "table-comparison-3-columns"
-          },
-          {
-            "name": "4 Columns",
-            "value": "table-comparison-4-columns"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "table-comparison-row",
     "fields": [
       {
         "component": "richtext",
         "valueType": "string",
         "name": "column1text",
-        "label": "Column1"
-      }
-    ]
-  },
-  {
-    "id": "table-comparison-col-2",
-    "fields": [
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column1text",
-        "label": "Column1"
+        "label": "Label"
       },
       {
         "component": "richtext",
         "valueType": "string",
         "name": "column2text",
-        "label": "Column2"
-      }
-    ]
-  },
-  {
-    "id": "table-comparison-col-3",
-    "fields": [
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column1text",
-        "label": "Column1"
-      },
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column2text",
-        "label": "Column2"
+        "label": "Plan 1"
       },
       {
         "component": "richtext",
         "valueType": "string",
         "name": "column3text",
-        "label": "Column3"
-      }
-    ]
-  },
-  {
-    "id": "table-comparison-col-4",
-    "fields": [
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column1text",
-        "label": "Column1"
-      },
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column2text",
-        "label": "Column2"
-      },
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column3text",
-        "label": "Column3"
+        "label": "Plan 2"
       },
       {
         "component": "richtext",
         "valueType": "string",
         "name": "column4text",
-        "label": "Column4"
-      }
-    ]
-  },
-  {
-    "id": "table-rounded",
-    "fields": [
-      {
-        "component": "select",
-        "name": "filter",
-        "label": "Columns",
-        "valueType": "string",
-        "value": "table-rounded",
-        "options": [
-          {
-            "name": "1 Column",
-            "value": "table-rounded"
-          },
-          {
-            "name": "2 Columns",
-            "value": "table-rounded-2-columns"
-          },
-          {
-            "name": "3 Columns",
-            "value": "table-rounded-3-columns"
-          },
-          {
-            "name": "4 Columns",
-            "value": "table-rounded-4-columns"
-          }
-        ]
+        "label": "Plan 3 (optional)"
       }
     ]
   },
@@ -1381,76 +1270,25 @@
         "component": "richtext",
         "valueType": "string",
         "name": "column1text",
-        "label": "Column1"
-      }
-    ]
-  },
-  {
-    "id": "table-rounded-col-2",
-    "fields": [
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column1text",
-        "label": "Column1"
+        "label": "Column 1"
       },
       {
         "component": "richtext",
         "valueType": "string",
         "name": "column2text",
-        "label": "Column2"
-      }
-    ]
-  },
-  {
-    "id": "table-rounded-col-3",
-    "fields": [
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column1text",
-        "label": "Column1"
-      },
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column2text",
-        "label": "Column2"
+        "label": "Column 2"
       },
       {
         "component": "richtext",
         "valueType": "string",
         "name": "column3text",
-        "label": "Column3"
-      }
-    ]
-  },
-  {
-    "id": "table-rounded-col-4",
-    "fields": [
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column1text",
-        "label": "Column1"
-      },
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column2text",
-        "label": "Column2"
-      },
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "column3text",
-        "label": "Column3"
+        "label": "Column 3 (optional)"
       },
       {
         "component": "richtext",
         "valueType": "string",
         "name": "column4text",
-        "label": "Column4"
+        "label": "Column 4 (optional)"
       }
     ]
   },

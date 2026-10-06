@@ -6,7 +6,7 @@
  * Instance selectors: .term-insurance-table, .term-table-text.four-column-table, .term-table-text.table-head-red,
  *   .term-table-text.document-table-center, [id="40"] > .term-table-text   (7 matches, 2 markup shapes)
  *
- * Model: container block, items table-rounded-row / -col-2 / -col-3 / -col-4 with fields column1text..column4text.
+ * Model: container block, every row is a table-rounded-row item with fields column1text..column4text (unused trailing columns stay empty).
  * Output: one block row per table row (first row = header), each cell hinted with column{N}text;
  *   all rows padded to the same column count.
  *

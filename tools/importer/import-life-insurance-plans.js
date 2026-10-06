@@ -928,11 +928,14 @@ export default {
     WebImporter.rules.transformBackgroundImages(main, document);
     WebImporter.rules.adjustImageUrls(main, url, params.originalURL);
 
-    // 6. Generate sanitized path (root URL maps to /index)
+    // 6. Generate sanitized path: pages are flattened to the site root (Content Sync only lists
+    //    top-level pages), e.g. /life-insurance-plans/term-insurance -> /term-insurance
     const rawPath = new URL(params.originalURL).pathname
       .replace(/\/$/, '')
-      .replace(/\.html?$/, '');
-    const path = WebImporter.FileUtils.sanitizePath(rawPath === '' ? '/index' : rawPath);
+      .replace(/\.html?$/, '')
+      .split('/')
+      .pop();
+    const path = WebImporter.FileUtils.sanitizePath(`/${rawPath || 'index'}`);
 
     return [{
       element: main,

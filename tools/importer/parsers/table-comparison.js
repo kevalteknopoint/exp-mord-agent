@@ -5,7 +5,7 @@
  * Source: https://www.tataaia.com/life-insurance-plans/term-insurance.html
  * Instance selector: .compare-term-plan-table .compare-table-wrapper
  *
- * Model: container block, items table-comparison-row / -col-2 / -col-3 / -col-4 (column1text..column4text).
+ * Model: container block, every row is a table-comparison-row item with fields column1text..column4text (unused trailing columns stay empty).
  * Output (per block README):
  *   row 1        : header - label column title + one cell per compared plan
  *   rows 2..n    : attribute label + one rich-text value cell per plan; Minimum/Maximum groups become

@@ -87,8 +87,19 @@ function setupViewMore(block, tbody) {
   update(false);
 }
 
+/* rows authored in Universal Editor carry every column field; drop the unused trailing columns */
+function trimEmptyColumns(rows) {
+  const hasContent = (cell) => cell.textContent.trim() || cell.querySelector('img, picture, a');
+  const used = rows.reduce(
+    (max, row) => Math.max(max, [...row.children].findLastIndex(hasContent) + 1),
+    0,
+  );
+  rows.forEach((row) => [...row.children].slice(used).forEach((cell) => cell.remove()));
+}
+
 export default function decorate(block) {
   const rows = [...block.children];
+  trimEmptyColumns(rows);
   const table = document.createElement('table');
   const thead = document.createElement('thead');
   const tbody = document.createElement('tbody');

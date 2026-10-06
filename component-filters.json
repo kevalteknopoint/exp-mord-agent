@@ -301,45 +301,9 @@
     ]
   },
   {
-    "id": "table-comparison-2-columns",
-    "components": [
-      "table-comparison-col-2"
-    ]
-  },
-  {
-    "id": "table-comparison-3-columns",
-    "components": [
-      "table-comparison-col-3"
-    ]
-  },
-  {
-    "id": "table-comparison-4-columns",
-    "components": [
-      "table-comparison-col-4"
-    ]
-  },
-  {
     "id": "table-rounded",
     "components": [
       "table-rounded-row"
-    ]
-  },
-  {
-    "id": "table-rounded-2-columns",
-    "components": [
-      "table-rounded-col-2"
-    ]
-  },
-  {
-    "id": "table-rounded-3-columns",
-    "components": [
-      "table-rounded-col-3"
-    ]
-  },
-  {
-    "id": "table-rounded-4-columns",
-    "components": [
-      "table-rounded-col-4"
     ]
   },
   {

@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "http://localhost:8090/migration-work/design-kotak/source/kotak-life.html",
+  "path": "kotak-life",
+  "timestamp": "2026-10-07T10:54:58.370Z",
+  "title": "Life Insurance: Kotak Life | Where promises are kept Always",
+  "template": "kotak-life",
+  "blocks": [
+    "hero-statement",
+    "cards-shortcut",
+    "search-prompt",
+    "carousel-promo",
+    "tabs-plans",
+    "carousel-stack",
+    "cards-metric",
+    "columns-showcase",
+    "cards-impact",
+    "carousel-expand",
+    "form-contact"
+  ]
+}

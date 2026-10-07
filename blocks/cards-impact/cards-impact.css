@@ -1,0 +1,200 @@
+/* Cards Impact - tagged content cards, red raised feature (design: migration-work/design-kotak/spec.md) */
+.cards-impact .cards-impact-list {
+  display: flex;
+  gap: 12px;
+  margin: 0 calc(-1 * var(--kl-gutter, 16px));
+  padding: 0 var(--kl-gutter, 16px);
+  overflow-x: auto;
+  list-style: none;
+  scroll-padding: 0 var(--kl-gutter, 16px);
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.cards-impact .cards-impact-list::-webkit-scrollbar {
+  display: none;
+}
+
+.cards-impact .cards-impact-card {
+  position: relative;
+  display: flex;
+  flex: 0 0 82%;
+  flex-direction: column;
+  min-height: 270px;
+  overflow: hidden;
+  border-radius: 8px;
+  background: #eff8ff;
+  color: var(--kl-color-text, #1a1c20);
+  scroll-snap-align: start;
+}
+
+.cards-impact .cards-impact-red {
+  background: linear-gradient(180deg, #861e24 0%, #c3192a 45%, #e3132d 100%);
+  color: #fff;
+}
+
+.cards-impact .cards-impact-body {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 24px 24px 22px;
+}
+
+.cards-impact .cards-impact-tag {
+  align-self: flex-start;
+  margin: 0 0 14px;
+  padding: 2px 9px;
+  border: 1px solid #1e4679;
+  border-radius: 999px;
+  background: #fff;
+  color: #1e4679;
+  font-size: 12px;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.cards-impact .cards-impact-body :is(h2, h3, h4) {
+  margin: 0 0 8px;
+  color: inherit;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.cards-impact .cards-impact-body p {
+  margin: 0;
+  color: inherit;
+  font-size: 14px;
+  line-height: 1.4;
+  opacity: 0.85;
+}
+
+.cards-impact .cards-impact-body .cards-impact-tag {
+  color: #1e4679;
+  font-size: 12px;
+  opacity: 1;
+}
+
+.cards-impact .cards-impact-body .cards-impact-link-wrapper {
+  margin-top: auto;
+  padding-top: 40px;
+  opacity: 1;
+}
+
+.cards-impact .cards-impact-link:any-link {
+  display: block;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+  border-radius: 50%;
+  background: #fff;
+  color: transparent;
+  font-size: 0;
+}
+
+.cards-impact .cards-impact-link::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--kl-color-red, #e3132d);
+  mask: url('../../icons/play.svg') 55% center / 22px no-repeat;
+}
+
+.cards-impact .cards-impact-arrow::before {
+  mask-image: url('../../icons/arrow-right.svg');
+  mask-position: center;
+}
+
+.cards-impact .cards-impact-link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+.cards-impact .cards-impact-card:has(.cards-impact-link:focus-visible) {
+  outline: 2px solid var(--kl-color-red, #e3132d);
+  outline-offset: 2px;
+}
+
+.cards-impact .cards-impact-image {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 66%;
+}
+
+.cards-impact .cards-impact-image picture,
+.cards-impact .cards-impact-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.cards-impact .cards-impact-light .cards-impact-image img {
+  mix-blend-mode: darken;
+}
+
+.cards-impact .cards-impact-dots {
+  display: flex;
+  justify-content: flex-end;
+  gap: 5px;
+  margin-top: 12px;
+}
+
+.cards-impact .cards-impact-dots span {
+  width: 7px;
+  height: 7px;
+  border: 1px solid #a6a9b0;
+  border-radius: 999px;
+  transition: width 0.3s ease;
+}
+
+.cards-impact .cards-impact-dots span.active {
+  width: 32px;
+  border-color: var(--kl-color-red, #e3132d);
+  background: var(--kl-color-red, #e3132d);
+}
+
+@media (width >= 900px) {
+  .cards-impact .cards-impact-list {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: center;
+    gap: 23px;
+    margin: 0;
+    padding: 27px 0 0;
+    overflow: visible;
+  }
+
+  .cards-impact .cards-impact-card {
+    min-height: 370px;
+  }
+
+  .cards-impact .cards-impact-red {
+    min-height: 424px;
+    box-shadow: 0 18px 36px rgb(227 19 45 / 22%);
+  }
+
+  .cards-impact .cards-impact-body {
+    padding: 26px 26px 24px;
+  }
+
+  .cards-impact .cards-impact-body :is(h2, h3, h4) {
+    font-size: 26px;
+  }
+
+  .cards-impact .cards-impact-body p {
+    font-size: 17px;
+  }
+
+  .cards-impact .cards-impact-image {
+    width: 70%;
+  }
+
+  .cards-impact .cards-impact-dots {
+    display: none;
+  }
+}

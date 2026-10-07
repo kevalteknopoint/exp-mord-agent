@@ -1,0 +1,151 @@
+/* Search Prompt - pill prompt bar with rotating suggestion (design: migration-work/design-kotak/spec.md) */
+.search-prompt {
+  max-width: 798px;
+  margin: 0 auto;
+}
+
+.search-prompt .search-prompt-form {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  height: 52px;
+  box-sizing: border-box;
+  padding: 0 6px 0 10px;
+  border: 2px solid transparent;
+  border-radius: 999px;
+  background:
+    linear-gradient(#fff, #fff) padding-box,
+    linear-gradient(90deg, #f4a1ad 0%, #e3132d 30%, #b9c9e4 70%, #e3132d 100%) border-box;
+  box-shadow: 0 6px 18px rgb(227 19 45 / 10%);
+}
+
+.search-prompt .search-prompt-mark {
+  flex: 0 0 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 2px 8px rgb(26 28 32 / 12%);
+}
+
+.search-prompt .search-prompt-mark::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--kl-color-red, #e3132d);
+  mask: url('../../icons/sparkle.svg') center / 16px no-repeat;
+}
+
+.search-prompt .search-prompt-field {
+  position: relative;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.search-prompt .search-prompt-field input {
+  width: 100%;
+  height: 40px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--kl-color-text, #1a1c20);
+  font-size: 15px;
+  outline: none;
+  appearance: none;
+}
+
+.search-prompt .search-prompt-hint {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  color: var(--kl-color-text, #1a1c20);
+  font-size: 14px;
+  white-space: pre;
+  pointer-events: none;
+}
+
+.search-prompt .search-prompt-hint strong {
+  font-weight: 600;
+}
+
+.search-prompt .search-prompt-hint strong.search-prompt-in {
+  animation: search-prompt-in 0.4s ease;
+}
+
+@keyframes search-prompt-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.search-prompt .search-prompt-field.search-prompt-filled .search-prompt-hint,
+.search-prompt .search-prompt-field:focus-within .search-prompt-hint {
+  visibility: hidden;
+}
+
+.search-prompt .search-prompt-form:focus-within {
+  box-shadow: 0 0 0 3px rgb(227 19 45 / 18%);
+}
+
+.search-prompt .search-prompt-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.search-prompt .search-prompt-actions button {
+  width: 36px;
+  height: 36px;
+  margin: 0;
+  padding: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.search-prompt .search-prompt-mic {
+  border: 1px solid #d5d8de;
+  background: #fff;
+}
+
+.search-prompt .search-prompt-mic::before,
+.search-prompt .search-prompt-submit::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--kl-color-text, #1a1c20);
+  mask: url('../../icons/mic.svg') center / 18px no-repeat;
+}
+
+.search-prompt .search-prompt-submit {
+  border: 0;
+  background: var(--kl-color-red, #e3132d);
+}
+
+.search-prompt .search-prompt-submit::before {
+  background: #fff;
+  mask-image: url('../../icons/arrow-right.svg');
+}
+
+.search-prompt .search-prompt-submit:hover {
+  background: var(--kl-color-red-dark, #b80f24);
+}
+
+@media (width >= 900px) {
+  .search-prompt .search-prompt-form {
+    height: 56px;
+    padding: 0 12px 0 14px;
+  }
+
+  .search-prompt .search-prompt-hint {
+    font-size: 16px;
+  }
+}

@@ -44,6 +44,20 @@
           "valueType": "string"
         },
         {
+          "component": "reference",
+          "valueType": "string",
+          "name": "intro_image",
+          "label": "Intro Image (optional, shown below the intro)",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "intro_imageAlt",
+          "value": "",
+          "label": "Intro Image Alt Text"
+        },
+        {
           "component": "richtext",
           "name": "contact",
           "value": "",
@@ -97,12 +111,24 @@
               "value": "tel"
             },
             {
+              "name": "Date",
+              "value": "date"
+            },
+            {
               "name": "Dropdown",
               "value": "select"
             },
             {
               "name": "Multi-line text",
               "value": "textarea"
+            },
+            {
+              "name": "Checkbox (e.g. consent)",
+              "value": "checkbox"
+            },
+            {
+              "name": "Note (static text)",
+              "value": "note"
             }
           ]
         },
@@ -130,6 +156,14 @@
             {
               "name": "Full width",
               "value": "full"
+            },
+            {
+              "name": "Label as placeholder",
+              "value": "placeholder"
+            },
+            {
+              "name": "After the submit button",
+              "value": "after"
             }
           ]
         }

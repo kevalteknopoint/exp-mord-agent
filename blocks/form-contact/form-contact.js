@@ -4,14 +4,16 @@ import { moveInstrumentation } from '../../scripts/scripts.js';
  * Form Contact
  * Block fields (single-cell rows, in order): intro (rich text), contact (rich text,
  * e.g. specialist phone list), submit label, form action URL.
- * Item rows (one per form field): label | type (text, email, tel, select, textarea) |
- * options (comma separated, first one is the placeholder for selects) |
- * settings (comma separated: "required", "full" = full width).
+ * The intro cell may also hold an image (grouped intro_image field), shown below the intro.
+ * Item rows (one per form field): label | type (text, email, tel, date, select, textarea,
+ * checkbox, note = static text) | options (comma separated, first one is the placeholder for
+ * selects) | settings (comma separated: "required", "full" = full width, "placeholder" = label
+ * shown inside the field, "after" = placed after the submit button, e.g. a consent checkbox).
  * The submitted field name is derived from the label.
  * Left column: intro + contact (pinned to the bottom); right column: white form card.
  */
 
-const TYPES = ['text', 'email', 'tel', 'select', 'textarea'];
+const TYPES = ['text', 'email', 'tel', 'date', 'select', 'textarea', 'checkbox', 'note'];
 let formContactCount = 0;
 
 const cellText = (cell) => (cell?.textContent || '').trim();
@@ -34,18 +36,27 @@ function buildField(cells, index) {
 
   const wrapper = document.createElement('div');
   wrapper.className = `form-contact-field form-contact-${width}`;
+  if (settings.includes('after')) wrapper.dataset.after = 'true';
+
+  if (type === 'note') {
+    const note = document.createElement('p');
+    note.className = 'form-contact-note';
+    note.textContent = label;
+    wrapper.classList.add('form-contact-full');
+    wrapper.append(note);
+    return wrapper;
+  }
 
   const labelEl = document.createElement('label');
   labelEl.htmlFor = id;
   labelEl.textContent = label;
-  if (required) {
+  if (required && type !== 'checkbox') {
     const mark = document.createElement('span');
     mark.className = 'form-contact-required';
     mark.setAttribute('aria-hidden', 'true');
     mark.textContent = ' *';
     labelEl.append(mark);
   }
-  wrapper.append(labelEl);
 
   let control;
   if (type === 'select') {
@@ -74,7 +85,26 @@ function buildField(cells, index) {
   control.id = id;
   control.name = name;
   control.required = required;
-  wrapper.append(control);
+
+  if (type === 'checkbox') {
+    wrapper.classList.add('form-contact-check');
+    control.value = 'yes';
+    wrapper.append(control, labelEl);
+    return wrapper;
+  }
+
+  if (settings.includes('placeholder')) {
+    wrapper.classList.add('form-contact-inline-label');
+    control.placeholder = label;
+    if (type === 'date') {
+      // date inputs cannot show a placeholder: show text until focused
+      wrapper.classList.add('form-contact-date');
+      control.type = 'text';
+      control.addEventListener('focus', () => { control.type = 'date'; });
+      control.addEventListener('blur', () => { if (!control.value) control.type = 'text'; });
+    }
+  }
+  wrapper.append(labelEl, control);
   return wrapper;
 }
 
@@ -93,7 +123,7 @@ async function submit(form, action) {
       if (!resp.ok) throw new Error(`${resp.status}`);
     }
     form.reset();
-    status.textContent = 'Thank you. A Broadridge specialist will be in touch soon.';
+    status.textContent = 'Thank you. We will be in touch soon.';
     status.className = 'form-contact-status form-contact-success';
   } catch (e) {
     status.textContent = 'Sorry, something went wrong. Please try again.';
@@ -117,13 +147,14 @@ export default function decorate(block) {
     const cell = row.firstElementChild || row;
     const part = document.createElement('div');
     part.className = cls;
+    cell.querySelectorAll('picture').forEach((pic) => pic.closest('p')?.classList.add('form-contact-image'));
     moveInstrumentation(cell, part);
     while (cell.firstChild) part.append(cell.firstChild);
     part.querySelectorAll('.button').forEach((a) => {
       a.classList.remove('button', 'primary', 'secondary');
       a.closest('.button-container')?.classList.remove('button-container');
     });
-    if (part.textContent.trim()) aside.append(part);
+    if (part.textContent.trim() || part.querySelector('picture')) aside.append(part);
   });
 
   const form = document.createElement('form');
@@ -143,6 +174,8 @@ export default function decorate(block) {
   button.className = 'form-contact-submit';
   button.textContent = cellText(submitRow) || 'Submit';
   form.append(button);
+  // fields flagged "after" (e.g. a consent checkbox) follow the submit button
+  form.append(...fields.querySelectorAll(':scope > [data-after]'));
 
   const status = document.createElement('p');
   status.className = 'form-contact-status';

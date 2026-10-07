@@ -1,0 +1,25 @@
+{
+  "variantName": "hero-statement",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "dark, white text",
+    "density": "spacious",
+    "purpose": "homepage statement hero",
+    "imagePattern": "art-directed artwork"
+  },
+  "contentPattern": {
+    "structure": "block fields: image (desktop artwork), mobileImage (optional mobile artwork), text (h1 with <strong> words, tagline paragraph, scroll link)",
+    "buttonCount": 0,
+    "imageCount": 2
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/kotak-life"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T12:00:00.000Z"
+  }
+}

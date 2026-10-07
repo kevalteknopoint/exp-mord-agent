@@ -1,0 +1,227 @@
+/* Carousel Promo - gradient promo banner slides (design: migration-work/design-kotak/spec.md) */
+.carousel-promo {
+  position: relative;
+}
+
+.carousel-promo .carousel-promo-track {
+  display: flex;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  overflow-x: auto;
+  list-style: none;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.carousel-promo .carousel-promo-track::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-promo .carousel-promo-slide {
+  display: grid;
+  flex: 0 0 100%;
+  grid-template:
+    'tag tag' auto
+    'title title' auto
+    'cta cta' auto
+    'stat1 stat2' auto
+    'media media' auto
+    'fine fine' auto / 1fr 1fr;
+  box-sizing: border-box;
+  padding: 24px 24px 18px;
+  overflow: hidden;
+  border-radius: 8px;
+  background:
+    radial-gradient(ellipse at 20% 0%, rgb(255 255 255 / 12%) 0, rgb(255 255 255 / 0%) 45%),
+    linear-gradient(180deg, #6d0a15 0%, #a8131f 30%, #7d4a5f 55%, #5b80b8 75%, #5076a7 100%);
+  color: #fff;
+  scroll-snap-align: start;
+}
+
+.carousel-promo .carousel-promo-text,
+.carousel-promo .carousel-promo-stats,
+.carousel-promo .carousel-promo-stats ul {
+  display: contents;
+}
+
+.carousel-promo p,
+.carousel-promo li {
+  margin: 0;
+  color: #fff;
+}
+
+.carousel-promo .carousel-promo-tag {
+  grid-area: tag;
+  justify-self: start;
+  margin-bottom: 8px;
+  padding: 1px 8px;
+  border: 1px solid #fff;
+  border-radius: 2px;
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.carousel-promo .carousel-promo-title {
+  grid-area: title;
+  margin: 0 0 16px;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.carousel-promo .carousel-promo-cta {
+  grid-area: cta;
+  margin-bottom: 20px;
+}
+
+.carousel-promo .carousel-promo-button:any-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 5px 5px 5px 18px;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--kl-color-text, #1a1c20);
+  font-size: 15px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.carousel-promo .carousel-promo-button::after {
+  content: '';
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--kl-color-red, #e3132d) url('../../icons/arrow-right-white.svg') center / 18px no-repeat;
+}
+
+.carousel-promo .carousel-promo-button:hover {
+  box-shadow: 0 4px 12px rgb(0 0 0 / 25%);
+}
+
+.carousel-promo .carousel-promo-stats li {
+  align-self: end;
+  list-style: none;
+  font-size: 12px;
+  line-height: 1.3;
+}
+
+.carousel-promo .carousel-promo-stats li:first-child {
+  grid-area: stat1;
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+.carousel-promo .carousel-promo-stats li:nth-child(2) {
+  grid-area: stat2;
+  align-self: start;
+}
+
+.carousel-promo .carousel-promo-stats strong {
+  display: block;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.carousel-promo .carousel-promo-media {
+  grid-area: media;
+  justify-self: center;
+  width: 100%;
+  max-width: 300px;
+}
+
+.carousel-promo .carousel-promo-media picture,
+.carousel-promo .carousel-promo-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.carousel-promo .carousel-promo-fine {
+  grid-area: fine;
+  margin-top: 14px;
+  font-size: 11px;
+  line-height: 1.4;
+}
+
+.carousel-promo .carousel-promo-dots {
+  display: flex;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-top: 12px;
+}
+
+.carousel-promo .carousel-promo-dots button {
+  width: 8px;
+  height: 8px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #a6a9b0;
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+  transition: width 0.3s ease, background-color 0.3s ease;
+}
+
+.carousel-promo .carousel-promo-dots button[aria-current='true'] {
+  width: 36px;
+  border-color: var(--kl-color-red, #e3132d);
+  background: var(--kl-color-red, #e3132d);
+}
+
+@media (width >= 900px) {
+  .carousel-promo .carousel-promo-slide {
+    grid-template:
+      'tag tag stat1 media stat2' auto
+      'title title stat1 media stat2' auto
+      'cta fine stat1 media stat2' auto / auto minmax(0, 1fr) 130px 280px 190px;
+    align-items: center;
+    min-height: 188px;
+    padding: 18px 26px;
+    background:
+      radial-gradient(ellipse at 40% 10%, rgb(255 255 255 / 10%) 0, rgb(255 255 255 / 0%) 40%),
+      linear-gradient(90deg, #43040d 0%, #9b1220 28%, #8e2a3a 40%, #6b5f80 48%, #5b80b8 56%, #5076a7 100%);
+  }
+
+  .carousel-promo .carousel-promo-title {
+    margin-bottom: 12px;
+    font-size: 34px;
+    line-height: 1.2;
+  }
+
+  .carousel-promo .carousel-promo-cta {
+    margin: 0 14px 0 0;
+  }
+
+  .carousel-promo .carousel-promo-fine {
+    margin: 0;
+    font-size: 13px;
+  }
+
+  .carousel-promo .carousel-promo-stats li {
+    font-size: 13px;
+  }
+
+  .carousel-promo .carousel-promo-stats li:first-child {
+    align-self: center;
+    margin: 40px 0 0;
+  }
+
+  .carousel-promo .carousel-promo-stats li:nth-child(2) {
+    align-self: start;
+    margin: 12px 0 0 6px;
+  }
+
+  .carousel-promo .carousel-promo-stats strong {
+    font-size: 22px;
+  }
+
+  .carousel-promo .carousel-promo-media {
+    align-self: end;
+    max-width: none;
+    margin-bottom: -18px;
+  }
+}

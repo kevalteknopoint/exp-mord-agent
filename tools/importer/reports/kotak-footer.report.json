@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "url": "http://localhost:8090/migration-work/design-kotak/source/kotak-footer.html",
+  "path": "kotak-footer",
+  "timestamp": "2026-10-07T10:55:09.453Z",
+  "title": "Kotak Life footer fragment: link groups, apps + social, disclaimer box, legal links",
+  "template": "kotak-footer",
+  "blocks": [
+    "footer-links",
+    "footer-links"
+  ]
+}

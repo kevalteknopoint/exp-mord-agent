@@ -1,0 +1,25 @@
+{
+  "variantName": "carousel-promo",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "red to blue gradient, white text",
+    "density": "compact",
+    "purpose": "promotional banner",
+    "imagePattern": "photo inset"
+  },
+  "contentPattern": {
+    "structure": "each row = slide: cell1 photo, cell2 rich text (tag, h2, CTA, fine print), cell3 stats list (<strong>value</strong> label)",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/kotak-life"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T12:00:00.000Z"
+  }
+}

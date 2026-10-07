@@ -1,0 +1,161 @@
+/* Footer Links - footer link groups: columns on desktop, accordion on mobile (design: migration-work/design-kotak/spec.md) */
+.footer-links .footer-links-group {
+  border-bottom: 1px solid rgb(255 255 255 / 18%);
+}
+
+.footer-links .footer-links-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  width: 100%;
+  margin: 0;
+  padding: 20px 0;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  color: #fff;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-align: left;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.footer-links .footer-links-toggle::after {
+  content: '';
+  flex: 0 0 18px;
+  height: 18px;
+  background: currentcolor;
+  mask: url('../../icons/chevron-down.svg') center / contain no-repeat;
+  transition: transform 0.2s ease;
+}
+
+.footer-links .footer-links-toggle[aria-expanded='true']::after {
+  transform: rotate(180deg);
+}
+
+.footer-links .footer-links-panel {
+  display: none;
+  padding: 0 0 20px;
+}
+
+.footer-links .footer-links-group.open .footer-links-panel {
+  display: block;
+}
+
+.footer-links .footer-links-panel :is(ul, ol) {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer-links .footer-links-panel li {
+  margin: 0;
+  padding: 0 0 12px;
+  font-size: 14px;
+  line-height: 1.35;
+}
+
+.footer-links .footer-links-panel a:any-link {
+  color: rgb(255 255 255 / 75%);
+  text-decoration: none;
+}
+
+.footer-links .footer-links-panel a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.footer-links .footer-links-panel p {
+  margin: 0 0 12px;
+  color: rgb(255 255 255 / 75%);
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.footer-links .footer-links-subgroup {
+  margin-bottom: 16px;
+}
+
+.footer-links .footer-links-subgroup :is(h3, h4, h5, h6) {
+  margin: 0 0 8px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+@media (width >= 900px) {
+  .footer-links .footer-links-groups {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0 24px;
+    padding: 0 22px;
+  }
+
+  .footer-links .footer-links-group {
+    border: 0;
+  }
+
+  .footer-links .footer-links-toggle {
+    padding: 28px 0 12px;
+    cursor: default;
+  }
+
+  .footer-links .footer-links-toggle::after {
+    display: none;
+  }
+
+  .footer-links .footer-links-panel,
+  .footer-links .footer-links-group .footer-links-panel {
+    display: block;
+    padding: 0 0 28px;
+  }
+
+  .footer-links .footer-links-panel li {
+    padding: 0 0 4px;
+    font-size: 14px;
+  }
+
+  /* a group with sub-headings (e.g. Calculators) takes a full row, sub-groups in columns */
+  .footer-links .footer-links-group:has(.footer-links-has-subgroups) {
+    grid-column: 1 / -1;
+    margin: 0 -22px;
+    padding: 0 22px;
+    border-top: 1px solid rgb(255 255 255 / 25%);
+  }
+
+  .footer-links .footer-links-has-subgroups {
+    display: grid;
+    grid-template-columns: 235px 225px 174px 1fr;
+    grid-auto-flow: column;
+    grid-template-rows: auto auto;
+    gap: 0;
+  }
+
+  .footer-links .footer-links-subgroup:nth-child(1),
+  .footer-links .footer-links-subgroup:nth-child(2) {
+    grid-column: 1;
+  }
+
+  .footer-links .footer-links-subgroup:nth-child(3) {
+    grid-column: 2;
+    grid-row: 1 / 3;
+  }
+
+  .footer-links .footer-links-subgroup:nth-child(4) {
+    grid-column: 3;
+    grid-row: 1 / 3;
+  }
+
+  .footer-links .footer-links-subgroup:nth-child(n + 5) {
+    grid-column: 4;
+  }
+
+  .footer-links .footer-links-subgroup li {
+    padding: 0 0 2px;
+  }
+}

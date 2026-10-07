@@ -71,6 +71,12 @@
   background-color: var(--br-color-white, #fff);
 }
 
+.tabs-vertical .tabs-vertical-content {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+}
+
 .tabs-vertical .tabs-vertical-panel[aria-hidden='true'] {
   display: none;
 }

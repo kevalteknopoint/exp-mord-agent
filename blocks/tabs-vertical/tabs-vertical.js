@@ -50,9 +50,10 @@ export default function decorate(block) {
     panel.setAttribute('role', 'tabpanel');
     panel.setAttribute('aria-labelledby', button.id);
     moveInstrumentation(row, panel);
+    // the rich text cell keeps its own (UE) instrumentation inside the panel
     if (textCell) {
-      moveInstrumentation(textCell, panel);
-      while (textCell.firstChild) panel.append(textCell.firstChild);
+      textCell.className = 'tabs-vertical-content';
+      panel.append(textCell);
     }
     const link = [...panel.querySelectorAll('a')].pop();
     if (link) {

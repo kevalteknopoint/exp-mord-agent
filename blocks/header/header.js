@@ -253,6 +253,11 @@ export default async function decorate(block) {
   navWrapper.append(nav);
   block.append(navWrapper);
 
+  // lets page themes restyle the header once the page is scrolled (e.g. transparent over a hero)
+  const onScroll = () => navWrapper.classList.toggle('header-scrolled', window.scrollY > 8);
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+
   if (getMetadata('breadcrumbs').toLowerCase() === 'true') {
     navWrapper.append(await buildBreadcrumbs());
   }

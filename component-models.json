@@ -181,6 +181,26 @@
           {
             "name": "Broadridge: CTA aligned right",
             "value": "br-cta-end"
+          },
+          {
+            "name": "Kotak: centred heading",
+            "value": "kl-center"
+          },
+          {
+            "name": "Kotak: intro split (heading left, text right)",
+            "value": "kl-intro-split"
+          },
+          {
+            "name": "Kotak: text beside block",
+            "value": "kl-split"
+          },
+          {
+            "name": "Kotak: popular searches band",
+            "value": "kl-searches"
+          },
+          {
+            "name": "Kotak: footer disclaimer box",
+            "value": "kl-disclaimer"
           }
         ]
       }
@@ -377,6 +397,49 @@
     ]
   },
   {
+    "id": "cards-impact-card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Illustration",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Illustration Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (tag paragraph e.g. Video, heading, description, link)",
+        "valueType": "string"
+      },
+      {
+        "component": "select",
+        "valueType": "string",
+        "name": "theme",
+        "value": "light",
+        "label": "Theme",
+        "options": [
+          {
+            "name": "Light",
+            "value": "light"
+          },
+          {
+            "name": "Red (raised feature)",
+            "value": "red"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "card",
     "fields": [
       {
@@ -452,6 +515,57 @@
           {
             "name": "Dark text (for light images)",
             "value": "dark"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cards-metric-card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image (portrait or line art)",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Image (portrait or line art) Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (stat: heading + label | quote: quote, bold name, role)",
+        "valueType": "string"
+      },
+      {
+        "component": "select",
+        "valueType": "string",
+        "name": "style",
+        "value": "light",
+        "label": "Style",
+        "options": [
+          {
+            "name": "Quote (2 rows)",
+            "value": "quote"
+          },
+          {
+            "name": "Red, tall (2 rows)",
+            "value": "red-tall"
+          },
+          {
+            "name": "Red",
+            "value": "red"
+          },
+          {
+            "name": "Light",
+            "value": "light"
           }
         ]
       }
@@ -607,6 +721,32 @@
         "name": "text",
         "value": "",
         "label": "Text (a single link)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-shortcut-card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Icon",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Icon Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (heading, subtitle, link)",
         "valueType": "string"
       }
     ]
@@ -804,6 +944,32 @@
     ]
   },
   {
+    "id": "carousel-expand-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Poster Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Poster Image Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (caption e.g. customer name, link to the video)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "carousel-hero-item",
     "fields": [
       {
@@ -849,6 +1015,39 @@
     ]
   },
   {
+    "id": "carousel-promo-slide",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Photo",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Photo Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (tag paragraph, heading, CTA link, fine print)",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "stats",
+        "value": "",
+        "label": "Stats (list - value in bold, then label)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "carousel-quote-item",
     "fields": [
       {
@@ -889,6 +1088,18 @@
         "name": "text",
         "value": "",
         "label": "Review (name heading, plan/date, rating like 4/5, Watch Video link, quote)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "carousel-stack-card",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (tag paragraph, lead-in paragraph, heading - bold amount, follow-up paragraph)",
         "valueType": "string"
       }
     ]
@@ -1067,6 +1278,32 @@
     ]
   },
   {
+    "id": "columns-showcase",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Visual",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Visual Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (heading, paragraph, CTA link)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "columns",
     "fields": [
       {
@@ -1143,6 +1380,25 @@
     ]
   },
   {
+    "id": "footer-links-group",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "title",
+        "value": "",
+        "label": "Group Title"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Links (list, or sub-headings each followed by a list, or paragraphs)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "form-callback",
     "fields": [
       {
@@ -1190,6 +1446,20 @@
         "value": "",
         "label": "Intro (heading, paragraph)",
         "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "intro_image",
+        "label": "Intro Image (optional, shown below the intro)",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "intro_imageAlt",
+        "value": "",
+        "label": "Intro Image Alt Text"
       },
       {
         "component": "richtext",
@@ -1245,12 +1515,24 @@
             "value": "tel"
           },
           {
+            "name": "Date",
+            "value": "date"
+          },
+          {
             "name": "Dropdown",
             "value": "select"
           },
           {
             "name": "Multi-line text",
             "value": "textarea"
+          },
+          {
+            "name": "Checkbox (e.g. consent)",
+            "value": "checkbox"
+          },
+          {
+            "name": "Note (static text)",
+            "value": "note"
           }
         ]
       },
@@ -1278,6 +1560,14 @@
           {
             "name": "Full width",
             "value": "full"
+          },
+          {
+            "name": "Label as placeholder",
+            "value": "placeholder"
+          },
+          {
+            "name": "After the submit button",
+            "value": "after"
           }
         ]
       }
@@ -1440,6 +1730,46 @@
     ]
   },
   {
+    "id": "hero-statement",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Artwork (desktop)",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Artwork (desktop) Alt Text"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "mobileImage",
+        "label": "Artwork (mobile, optional)",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "mobileImageAlt",
+        "value": "",
+        "label": "Artwork (mobile, optional) Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (h1 statement - bold words in bold, tagline paragraph, optional scroll-down link)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "hero-video",
     "fields": [
       {
@@ -1548,6 +1878,35 @@
         "value": "",
         "label": "Attribution",
         "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "search-prompt",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "prefix",
+        "value": "",
+        "label": "Prefix",
+        "description": "e.g. I want to"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "suggestions",
+        "value": "",
+        "label": "Suggestions",
+        "description": "Comma separated, rotated in bold, e.g. make a claim..., pay my premium..."
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "action",
+        "value": "",
+        "label": "Search Page URL",
+        "description": "The query is sent as ?q="
       }
     ]
   },
@@ -1956,6 +2315,40 @@
         "name": "timeline_text",
         "value": "",
         "label": "Timeline (list of steps + CTA link)"
+      }
+    ]
+  },
+  {
+    "id": "tabs-plans-card",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "tab",
+        "value": "",
+        "label": "Tab",
+        "description": "Cards with the same tab label are grouped into one tab"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Illustration",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Illustration Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (optional badge paragraph, heading - bold words shown in red, description, link)",
+        "valueType": "string"
       }
     ]
   },

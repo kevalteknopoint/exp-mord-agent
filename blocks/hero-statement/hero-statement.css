@@ -1,0 +1,143 @@
+/* Hero Statement - dark full-bleed statement hero (design: migration-work/design-kotak/spec.md) */
+main > .section.hero-statement-container {
+  padding: 0;
+}
+
+main > .section.hero-statement-container > .hero-statement-wrapper {
+  max-width: none;
+}
+
+.hero-statement {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 46% 52%, rgb(150 20 32 / 38%) 0, rgb(150 20 32 / 0%) 26%),
+    linear-gradient(180deg, #01060c 0%, #050b16 70%, #0d1a2e 100%);
+  color: #fff;
+}
+
+.hero-statement .hero-statement-content {
+  position: relative;
+  z-index: 1;
+  box-sizing: border-box;
+  width: 100%;
+  padding: calc(var(--nav-height, 120px) + 40px) var(--kl-inline-pad, 16px) 24px;
+}
+
+.hero-statement h1 {
+  margin: 0;
+  color: #fff;
+  font-size: var(--kl-hero-size, 32px);
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+
+.hero-statement h1 strong {
+  font-weight: 700;
+}
+
+.hero-statement .hero-statement-tagline {
+  position: relative;
+  margin: 28px 0 0;
+
+  /* first line starts inside the red circle, the second line ("hamesha.") is indented past it */
+  padding-left: 2.2em;
+  text-indent: -1.6em;
+  color: #fff;
+  font-size: var(--kl-tagline-size, 24px);
+  font-weight: 300;
+  line-height: 1.25;
+}
+
+.hero-statement .hero-statement-tagline::before {
+  content: '';
+  position: absolute;
+  top: -0.53em;
+  left: 0;
+  z-index: -1;
+  width: 2.3em;
+  height: 2.3em;
+  border-radius: 50%;
+  background: var(--kl-color-red, #e3132d);
+}
+
+.hero-statement .hero-statement-scroll-wrapper {
+  display: none;
+}
+
+/* mobile: the artwork sits below the statement */
+.hero-statement .hero-statement-art {
+  position: relative;
+  order: 1;
+  margin-top: auto;
+}
+
+.hero-statement .hero-statement-art picture,
+.hero-statement .hero-statement-art img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (width >= 900px) {
+  .hero-statement {
+    min-height: 744px;
+  }
+
+  .hero-statement .hero-statement-art {
+    position: absolute;
+    inset: 120px 0 0 48%;
+    margin: 0;
+  }
+
+  .hero-statement .hero-statement-art img {
+    height: 100%;
+    object-fit: cover;
+    object-position: left center;
+  }
+
+  .hero-statement .hero-statement-content {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    justify-content: center;
+    padding: calc(var(--nav-height, 120px) + 60px) var(--kl-inline-pad, 55px) 0;
+  }
+
+  .hero-statement h1 {
+    max-width: 10.5em;
+  }
+
+  .hero-statement .hero-statement-tagline {
+    margin-top: 44px;
+  }
+
+  .hero-statement .hero-statement-scroll-wrapper {
+    display: block;
+    margin: auto 0 0;
+    padding: 64px 0 24px;
+    text-align: center;
+  }
+
+  .hero-statement .hero-statement-scroll:any-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+  }
+
+  .hero-statement .hero-statement-scroll::after {
+    content: '';
+    width: 16px;
+    height: 24px;
+    box-sizing: border-box;
+    border: 1.5px solid currentcolor;
+    border-radius: 8px;
+    background: linear-gradient(currentcolor, currentcolor) center 5px / 1.5px 5px no-repeat;
+  }
+}

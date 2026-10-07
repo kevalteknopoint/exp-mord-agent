@@ -1,0 +1,88 @@
+/* Columns Showcase - large visual + right-aligned text (design: migration-work/design-kotak/spec.md) */
+.columns-showcase {
+  display: grid;
+  grid-template:
+    'text' auto
+    'media' auto
+    'cta' auto / 1fr;
+}
+
+.columns-showcase .columns-showcase-content {
+  grid-area: text;
+  text-align: right;
+}
+
+.columns-showcase .columns-showcase-content :is(h2, h3) {
+  margin: 0 0 6px auto;
+  max-width: 9em;
+  color: var(--kl-color-text, #1a1c20);
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.columns-showcase .columns-showcase-content p {
+  margin: 0 0 0 auto;
+  max-width: 14em;
+  color: var(--kl-color-text, #1a1c20);
+  font-size: 19px;
+  font-weight: 300;
+  line-height: 1.3;
+}
+
+.columns-showcase .columns-showcase-media {
+  grid-area: media;
+  margin: 16px -16px 0;
+}
+
+.columns-showcase .columns-showcase-media picture,
+.columns-showcase .columns-showcase-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.columns-showcase .columns-showcase-cta {
+  grid-area: cta;
+  justify-self: center;
+  margin-top: 12px;
+}
+
+.columns-showcase .columns-showcase-cta .button-container {
+  margin: 0;
+}
+
+@media (width >= 900px) {
+  /* the heading may run over the visual (as in the design): text spans both columns */
+  .columns-showcase {
+    grid-template-columns: minmax(0, 660px) minmax(0, 1fr);
+    grid-template-rows: 1fr auto auto 120px;
+  }
+
+  .columns-showcase .columns-showcase-media {
+    grid-area: 1 / 1 / 5 / 2;
+    margin: 0 0 0 -5px;
+  }
+
+  .columns-showcase .columns-showcase-content {
+    position: relative;
+    grid-area: 2 / 1 / 3 / 3;
+  }
+
+  .columns-showcase .columns-showcase-content :is(h2, h3) {
+    max-width: none;
+    font-size: 34px;
+    white-space: nowrap;
+  }
+
+  .columns-showcase .columns-showcase-content p {
+    max-width: none;
+    font-size: 24px;
+  }
+
+  .columns-showcase .columns-showcase-cta {
+    grid-area: 3 / 2 / 4 / 3;
+    justify-self: end;
+    margin-top: 24px;
+  }
+}

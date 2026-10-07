@@ -841,6 +841,90 @@
           ]
         }
       ]
+    },
+    {
+      "name": "kotak-life",
+      "urls": [
+        "http://localhost:8090/migration-work/design-kotak/source/kotak-life.html",
+        "http://localhost:8090/migration-work/design-kotak/source/kotak-nav.html",
+        "http://localhost:8090/migration-work/design-kotak/source/kotak-footer.html"
+      ],
+      "representativeUrl": "http://localhost:8090/migration-work/design-kotak/source/kotak-life.html",
+      "description": "Kotak Life homepage from desktop + mobile design images (+ kotak-nav / kotak-footer fragments)",
+      "blocks": [
+        {
+          "name": "hero-statement",
+          "instances": [
+            "#hero .hero-statement"
+          ]
+        },
+        {
+          "name": "cards-shortcut",
+          "instances": [
+            "#looking-for .shortcuts"
+          ]
+        },
+        {
+          "name": "search-prompt",
+          "instances": [
+            "#looking-for .search-prompt"
+          ]
+        },
+        {
+          "name": "carousel-promo",
+          "instances": [
+            "#promo .promo-slides"
+          ]
+        },
+        {
+          "name": "tabs-plans",
+          "instances": [
+            "#plans .plan-tabs"
+          ]
+        },
+        {
+          "name": "carousel-stack",
+          "instances": [
+            "#offer .offer-stack"
+          ]
+        },
+        {
+          "name": "cards-metric",
+          "instances": [
+            "#trust .metrics"
+          ]
+        },
+        {
+          "name": "columns-showcase",
+          "instances": [
+            "#advisor .showcase"
+          ]
+        },
+        {
+          "name": "cards-impact",
+          "instances": [
+            "#insights .impact-cards"
+          ]
+        },
+        {
+          "name": "carousel-expand",
+          "instances": [
+            "#stories .story-cards"
+          ]
+        },
+        {
+          "name": "form-contact",
+          "instances": [
+            "#lead .lead-form"
+          ]
+        },
+        {
+          "name": "footer-links",
+          "instances": [
+            ".link-groups, .disclaimer"
+          ]
+        }
+      ]
     }
   ],
   "metadata": {

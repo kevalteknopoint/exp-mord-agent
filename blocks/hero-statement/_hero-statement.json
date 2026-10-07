@@ -1,0 +1,62 @@
+{
+  "definitions": [
+    {
+      "title": "Hero Statement",
+      "id": "hero-statement",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Hero Statement",
+              "model": "hero-statement"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "hero-statement",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Artwork (desktop)",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Artwork (desktop) Alt Text"
+        },
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "mobileImage",
+          "label": "Artwork (mobile, optional)",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "mobileImageAlt",
+          "value": "",
+          "label": "Artwork (mobile, optional) Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text (h1 statement - bold words in bold, tagline paragraph, optional scroll-down link)",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": []
+}

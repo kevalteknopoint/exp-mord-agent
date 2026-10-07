@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-metric",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "red gradient + light blue tiles",
+    "density": "medium",
+    "purpose": "trust stats and leader quote",
+    "imagePattern": "line art / portrait"
+  },
+  "contentPattern": {
+    "structure": "each row = tile: cell1 image, cell2 rich text, cell3 style (quote | red-tall | red | light)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/kotak-life"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T12:00:00.000Z"
+  }
+}

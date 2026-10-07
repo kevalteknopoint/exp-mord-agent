@@ -1,0 +1,25 @@
+{
+  "variantName": "search-prompt",
+  "baseBlock": "search",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "white pill, gradient ring",
+    "density": "compact",
+    "purpose": "search / intent prompt",
+    "imagePattern": "none"
+  },
+  "contentPattern": {
+    "structure": "block fields: prefix | suggestions (comma separated) | action URL",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/kotak-life"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T12:00:00.000Z"
+  }
+}

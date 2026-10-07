@@ -1,0 +1,151 @@
+/* Carousel Stack - stacked red offer cards with numbered pager (design: migration-work/design-kotak/spec.md) */
+.carousel-stack {
+  max-width: 434px;
+}
+
+.carousel-stack .carousel-stack-cards {
+  position: relative;
+  display: grid;
+  margin: 0 32px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.carousel-stack .carousel-stack-card {
+  display: flex;
+  flex-direction: column;
+  grid-area: 1 / 1;
+  min-height: 248px;
+  box-sizing: border-box;
+  padding: 18px 26px 28px;
+  border-radius: 6px;
+  background: linear-gradient(160deg, #841c23 0%, #b71a26 45%, #e3132d 100%);
+  box-shadow: 0 16px 30px rgb(26 28 32 / 18%);
+  color: #fff;
+  transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+.carousel-stack .carousel-stack-content {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+}
+
+.carousel-stack .carousel-stack-card[data-depth='0'] {
+  z-index: 3;
+}
+
+/* the cards behind peek out on the right */
+.carousel-stack .carousel-stack-card[data-depth='1'] {
+  z-index: 2;
+  background: linear-gradient(160deg, #0f2c55 0%, #1e4679 100%);
+  transform: translateX(16px) scaleY(0.88);
+}
+
+.carousel-stack .carousel-stack-card[data-depth='2'] {
+  z-index: 1;
+  transform: translateX(32px) scaleY(0.8);
+}
+
+.carousel-stack .carousel-stack-card:not([data-depth='0']) > * {
+  visibility: hidden;
+}
+
+.carousel-stack .carousel-stack-card[data-depth='3'],
+.carousel-stack .carousel-stack-card[data-depth='4'],
+.carousel-stack .carousel-stack-card[data-depth='5'] {
+  opacity: 0;
+}
+
+.carousel-stack .carousel-stack-card p,
+.carousel-stack .carousel-stack-card :is(h2, h3, h4) {
+  margin: 0;
+  color: #fff;
+}
+
+.carousel-stack .carousel-stack-tag {
+  align-self: flex-end;
+  margin-bottom: auto;
+  padding: 2px 10px;
+  border: 1px solid #fff;
+  border-radius: 2px;
+  font-size: 13px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.carousel-stack .carousel-stack-tag + p {
+  margin-top: 40px;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.carousel-stack .carousel-stack-card :is(h2, h3, h4) {
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 1.25;
+}
+
+.carousel-stack .carousel-stack-card :is(h2, h3, h4) strong {
+  font-weight: 700;
+}
+
+.carousel-stack .carousel-stack-card :is(h2, h3, h4) + p {
+  margin-top: 6px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.carousel-stack .carousel-stack-pager {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 26px 32px 0 46px;
+}
+
+.carousel-stack .carousel-stack-pager button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #a6a9b0;
+  font-family: inherit;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.carousel-stack .carousel-stack-pager button[aria-current='true'] {
+  display: flex;
+  flex: 1 1 auto;
+  align-items: center;
+  gap: 12px;
+  color: var(--kl-color-red, #e3132d);
+}
+
+.carousel-stack .carousel-stack-pager button[aria-current='true']::after {
+  content: '';
+  flex: 1 1 auto;
+  height: 1px;
+  background: #d5d8de;
+}
+
+@media (width >= 900px) {
+  .carousel-stack {
+    margin-left: auto;
+  }
+
+  .carousel-stack .carousel-stack-card {
+    min-height: 367px;
+    padding: 26px 26px 54px;
+  }
+
+  .carousel-stack .carousel-stack-tag + p,
+  .carousel-stack .carousel-stack-card :is(h2, h3, h4) {
+    font-size: 40px;
+  }
+
+  .carousel-stack .carousel-stack-card :is(h2, h3, h4) + p {
+    font-size: 24px;
+  }
+}

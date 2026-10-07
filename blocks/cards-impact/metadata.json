@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-impact",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light blue + red feature",
+    "density": "medium",
+    "purpose": "insights / media",
+    "imagePattern": "line illustration bottom right"
+  },
+  "contentPattern": {
+    "structure": "each row = card: cell1 illustration, cell2 rich text (tag, h3, description, link as round icon button), cell3 theme (light | red)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/kotak-life"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T12:00:00.000Z"
+  }
+}

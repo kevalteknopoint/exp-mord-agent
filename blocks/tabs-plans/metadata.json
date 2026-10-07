@@ -1,0 +1,25 @@
+{
+  "variantName": "tabs-plans",
+  "baseBlock": "tabs",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "white cards with soft gradients",
+    "density": "medium",
+    "purpose": "product finder",
+    "imagePattern": "line illustration bottom"
+  },
+  "contentPattern": {
+    "structure": "each row = plan card: cell1 tab label (grouping), cell2 illustration, cell3 rich text (badge, h3 with <strong> red words, description, link)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/kotak-life"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T12:00:00.000Z"
+  }
+}

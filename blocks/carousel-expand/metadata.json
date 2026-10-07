@@ -1,0 +1,25 @@
+{
+  "variantName": "carousel-expand",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "photo",
+    "density": "compact",
+    "purpose": "customer testimonials",
+    "imagePattern": "expanding posters"
+  },
+  "contentPattern": {
+    "structure": "each row = story: cell1 poster, cell2 rich text (caption, video link -> play button)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/kotak-life"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T12:00:00.000Z"
+  }
+}

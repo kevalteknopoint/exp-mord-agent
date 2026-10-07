@@ -1,0 +1,25 @@
+{
+  "variantName": "cards-shortcut",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "white cards",
+    "density": "compact",
+    "purpose": "quick links",
+    "imagePattern": "small icon"
+  },
+  "contentPattern": {
+    "structure": "each row = card: cell1 icon, cell2 rich text (h3 title, subtitle, link - whole card clickable, diagonal arrow)",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/kotak-life"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T12:00:00.000Z"
+  }
+}

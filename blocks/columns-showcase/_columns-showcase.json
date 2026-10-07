@@ -1,0 +1,48 @@
+{
+  "definitions": [
+    {
+      "title": "Columns Showcase",
+      "id": "columns-showcase",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Columns Showcase",
+              "model": "columns-showcase"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "columns-showcase",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Visual",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Visual Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text (heading, paragraph, CTA link)",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": []
+}

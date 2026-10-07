@@ -1,0 +1,95 @@
+{
+  "definitions": [
+    {
+      "title": "Cards Metric",
+      "id": "cards-metric",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Cards Metric",
+              "filter": "cards-metric"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Metric Tile",
+      "id": "cards-metric-card",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Metric Tile",
+              "model": "cards-metric-card"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "cards-metric-card",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Image (portrait or line art)",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Image (portrait or line art) Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text (stat: heading + label | quote: quote, bold name, role)",
+          "valueType": "string"
+        },
+        {
+          "component": "select",
+          "valueType": "string",
+          "name": "style",
+          "value": "light",
+          "label": "Style",
+          "options": [
+            {
+              "name": "Quote (2 rows)",
+              "value": "quote"
+            },
+            {
+              "name": "Red, tall (2 rows)",
+              "value": "red-tall"
+            },
+            {
+              "name": "Red",
+              "value": "red"
+            },
+            {
+              "name": "Light",
+              "value": "light"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "cards-metric",
+      "components": [
+        "cards-metric-card"
+      ]
+    }
+  ]
+}

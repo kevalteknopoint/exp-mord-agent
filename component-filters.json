@@ -58,7 +58,18 @@
       "tabs-vertical",
       "cards-recognition",
       "cards-spotlight",
-      "form-contact"
+      "form-contact",
+      "hero-statement",
+      "cards-shortcut",
+      "search-prompt",
+      "carousel-promo",
+      "tabs-plans",
+      "carousel-stack",
+      "cards-metric",
+      "columns-showcase",
+      "cards-impact",
+      "carousel-expand",
+      "footer-links"
     ]
   },
   {
@@ -122,6 +133,12 @@
     ]
   },
   {
+    "id": "cards-impact",
+    "components": [
+      "cards-impact-card"
+    ]
+  },
+  {
     "id": "cards-insights",
     "components": [
       "card"
@@ -131,6 +148,12 @@
     "id": "cards-loan-banner",
     "components": [
       "cards-loan-banner-item"
+    ]
+  },
+  {
+    "id": "cards-metric",
+    "components": [
+      "cards-metric-card"
     ]
   },
   {
@@ -173,6 +196,12 @@
     "id": "cards-service-links",
     "components": [
       "cards-service-links-item"
+    ]
+  },
+  {
+    "id": "cards-shortcut",
+    "components": [
+      "cards-shortcut-card"
     ]
   },
   {
@@ -230,6 +259,12 @@
     ]
   },
   {
+    "id": "carousel-expand",
+    "components": [
+      "carousel-expand-item"
+    ]
+  },
+  {
     "id": "carousel-hero",
     "components": [
       "carousel-hero-item"
@@ -242,6 +277,12 @@
     ]
   },
   {
+    "id": "carousel-promo",
+    "components": [
+      "carousel-promo-slide"
+    ]
+  },
+  {
     "id": "carousel-quote",
     "components": [
       "carousel-quote-item"
@@ -251,6 +292,12 @@
     "id": "carousel-reviews",
     "components": [
       "carousel-reviews-item"
+    ]
+  },
+  {
+    "id": "carousel-stack",
+    "components": [
+      "carousel-stack-card"
     ]
   },
   {
@@ -335,6 +382,12 @@
     ]
   },
   {
+    "id": "footer-links",
+    "components": [
+      "footer-links-group"
+    ]
+  },
+  {
     "id": "form-contact",
     "components": [
       "form-contact-field"
@@ -410,6 +463,12 @@
     "id": "tabs-illustration",
     "components": [
       "tabs-illustration-item"
+    ]
+  },
+  {
+    "id": "tabs-plans",
+    "components": [
+      "tabs-plans-card"
     ]
   },
   {

@@ -57,6 +57,26 @@
             {
               "name": "Broadridge: CTA aligned right",
               "value": "br-cta-end"
+            },
+            {
+              "name": "Kotak: centred heading",
+              "value": "kl-center"
+            },
+            {
+              "name": "Kotak: intro split (heading left, text right)",
+              "value": "kl-intro-split"
+            },
+            {
+              "name": "Kotak: text beside block",
+              "value": "kl-split"
+            },
+            {
+              "name": "Kotak: popular searches band",
+              "value": "kl-searches"
+            },
+            {
+              "name": "Kotak: footer disclaimer box",
+              "value": "kl-disclaimer"
             }
           ]
         }
@@ -117,7 +137,18 @@
         "tabs-vertical",
         "cards-recognition",
         "cards-spotlight",
-        "form-contact"
+        "form-contact",
+        "hero-statement",
+        "cards-shortcut",
+        "search-prompt",
+        "carousel-promo",
+        "tabs-plans",
+        "carousel-stack",
+        "cards-metric",
+        "columns-showcase",
+        "cards-impact",
+        "carousel-expand",
+        "footer-links"
       ]
     }
   ]

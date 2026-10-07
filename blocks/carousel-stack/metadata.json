@@ -1,0 +1,25 @@
+{
+  "variantName": "carousel-stack",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "red gradient cards",
+    "density": "compact",
+    "purpose": "offer highlight",
+    "imagePattern": "none"
+  },
+  "contentPattern": {
+    "structure": "each row = offer card: rich text (tag, lead-in, h3 with <strong> amount, follow-up)",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/kotak-life"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T12:00:00.000Z"
+  }
+}

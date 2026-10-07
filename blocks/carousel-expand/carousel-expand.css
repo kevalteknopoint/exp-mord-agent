@@ -1,0 +1,133 @@
+/* Carousel Expand - wide active video story + narrow peeks (design: migration-work/design-kotak/spec.md) */
+.carousel-expand .carousel-expand-track {
+  display: flex;
+  gap: 12px;
+  height: 160px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.carousel-expand .carousel-expand-item {
+  position: relative;
+  flex: 0 0 42px;
+  overflow: hidden;
+  border-radius: 6px;
+  background: #e6e8ec;
+  cursor: pointer;
+  transition: flex-basis 0.5s ease, flex-grow 0.5s ease;
+}
+
+.carousel-expand .carousel-expand-item.active {
+  flex: 1 1 auto;
+  cursor: default;
+}
+
+.carousel-expand .carousel-expand-media,
+.carousel-expand .carousel-expand-media picture,
+.carousel-expand .carousel-expand-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-expand .carousel-expand-media img {
+  object-fit: cover;
+}
+
+.carousel-expand .carousel-expand-caption p {
+  margin: 0;
+}
+
+/* caption text is kept for screen readers; the poster carries the story visually */
+.carousel-expand .carousel-expand-caption > p:not(.carousel-expand-play-wrapper) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.carousel-expand .carousel-expand-play:any-link {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: block;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+  border-radius: 50%;
+  background: var(--kl-color-red, #e3132d);
+  color: transparent;
+  font-size: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.carousel-expand .carousel-expand-play::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  mask: url('../../icons/play.svg') 55% center / 55% no-repeat;
+}
+
+.carousel-expand .carousel-expand-play:hover {
+  background: var(--kl-color-red-dark, #b80f24);
+}
+
+.carousel-expand .carousel-expand-item.active .carousel-expand-play {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.carousel-expand .carousel-expand-dots {
+  display: flex;
+  justify-content: flex-end;
+  gap: 5px;
+  margin-top: 12px;
+}
+
+.carousel-expand .carousel-expand-dots button {
+  width: 7px;
+  height: 7px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #a6a9b0;
+  border-radius: 999px;
+  background: none;
+  cursor: pointer;
+  transition: width 0.3s ease;
+}
+
+.carousel-expand .carousel-expand-dots button[aria-current='true'] {
+  width: 32px;
+  border-color: var(--kl-color-red, #e3132d);
+  background: var(--kl-color-red, #e3132d);
+}
+
+@media (width >= 900px) {
+  .carousel-expand .carousel-expand-track {
+    gap: 18px;
+    height: 355px;
+  }
+
+  .carousel-expand .carousel-expand-item {
+    flex-basis: 133px;
+  }
+
+  .carousel-expand .carousel-expand-play:any-link {
+    top: 28px;
+    right: 28px;
+    width: 44px;
+    height: 44px;
+  }
+
+  .carousel-expand .carousel-expand-dots {
+    justify-content: center;
+    margin-top: 20px;
+  }
+}

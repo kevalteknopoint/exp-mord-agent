@@ -1,9 +1,15 @@
 /* Block: hero-media -- contained media banner (image only) */
+
 /* Values derived from source computed styles on https://www.dulux.in/ */
 
 .hero-media {
   margin: 0;
   padding: 0;
+}
+
+/* Second authored row is empty in this variant -- hide it */
+.hero-media > div:not(:first-child) {
+  display: none;
 }
 
 /* Image cell: the picture fills the contained column width at natural ratio */
@@ -26,9 +32,4 @@
   width: 100%;
   height: auto;
   border-radius: 0;
-}
-
-/* Second authored row is empty in this variant -- hide it */
-.hero-media > div:not(:first-child) {
-  display: none;
 }

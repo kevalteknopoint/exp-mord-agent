@@ -12,14 +12,14 @@
 .cards-callout > ul > li {
   background-color: var(--background-color);
   border-radius: 4px;
-  box-shadow: rgba(0, 0, 0, 0.1) 0 2px 6px 0;
+  box-shadow: rgb(0 0 0 / 10%) 0 2px 6px 0;
   overflow: hidden;
 }
 
 /* Whole card is a single link (matches source a.m9-content-card) */
 .cards-callout .cards-callout-card-link {
   display: block;
-  color: rgb(102, 102, 102);
+  color: rgb(102 102 102);
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@
   font-size: 20px;
   font-weight: 600;
   line-height: 30px;
-  color: rgb(102, 102, 102);
+  color: rgb(102 102 102);
 }
 
 /* Tablet: two columns */

@@ -26,8 +26,8 @@
   margin-bottom: 12px;
 }
 
-.cards-video .cards-card-image img,
-.cards-video > ul > li img {
+.cards-video > ul > li img,
+.cards-video .cards-card-image img {
   width: 100%;
   aspect-ratio: 16 / 9;
   object-fit: cover;

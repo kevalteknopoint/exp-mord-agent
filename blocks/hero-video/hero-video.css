@@ -1,4 +1,5 @@
 /* Block: hero-video */
+
 /* Full-width hero with large heading, outline CTA pill button, and embedded YouTube video */
 
 /* Full-width wrapper override */
@@ -25,6 +26,11 @@
   justify-content: center;
 }
 
+.hero-video > div > div {
+  width: 100%;
+  max-width: 1400px;
+}
+
 /* Row 1: Video container */
 .hero-video > div:first-child {
   order: 2;
@@ -34,12 +40,6 @@
 /* Row 2: Text content */
 .hero-video > div:last-child {
   order: 1;
-}
-
-/* Cell styling */
-.hero-video > div > div {
-  width: 100%;
-  max-width: 1400px;
 }
 
 /* Heading */
@@ -59,7 +59,7 @@
 .hero-video h1 em,
 .hero-video h1 strong em,
 .hero-video h1 i {
-  color: rgb(255, 73, 1);
+  color: rgb(255 73 1);
   font-style: normal;
 }
 

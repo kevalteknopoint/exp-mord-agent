@@ -1,4 +1,5 @@
 /* Block: cards-solutions -- Numbered interactive solutions list */
+
 /* Based on source .block-talking-points computed styles */
 
 .cards-solutions {
@@ -23,22 +24,17 @@
   align-items: center;
   padding: 24px 0;
   min-height: 80px;
-  border-bottom: 1px solid rgb(118, 118, 118);
+  border-bottom: 1px solid rgb(118 118 118);
   text-decoration: none;
-  color: rgb(118, 118, 118);
+  color: rgb(118 118 118);
   transition: color 0.3s ease;
-}
-
-/* First item gets top border */
-.cards-solutions > ul > li:first-child .cards-solutions-item {
-  border-top: 1px solid rgb(118, 118, 118);
 }
 
 /* Number */
 .cards-solutions .cards-solutions-item-number {
   font-size: 16px;
   font-weight: 900;
-  color: rgb(118, 118, 118);
+  color: rgb(118 118 118);
   line-height: 1.33;
 }
 
@@ -54,7 +50,7 @@
 .cards-solutions .cards-solutions-item-text {
   font-size: 24px;
   font-weight: 400;
-  color: rgb(118, 118, 118);
+  color: rgb(118 118 118);
   line-height: 1.25;
   transition: color 0.3s ease;
 }
@@ -65,7 +61,7 @@
   font-size: 24px;
   font-weight: 600;
   font-style: italic;
-  color: rgb(255, 73, 1);
+  color: rgb(255 73 1);
   line-height: 1.25;
 }
 
@@ -89,7 +85,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgb(118, 118, 118);
+  color: rgb(118 118 118);
   transition: color 0.3s ease;
 }
 
@@ -123,6 +119,11 @@
   color: var(--text-color);
 }
 
+/* First item gets top border */
+.cards-solutions > ul > li:first-child .cards-solutions-item {
+  border-top: 1px solid rgb(118 118 118);
+}
+
 /* Button reset - EDS auto-decorates links as buttons */
 main .cards-solutions a.button:any-link {
   display: grid;
@@ -131,10 +132,10 @@ main .cards-solutions a.button:any-link {
   padding: 24px 0;
   min-height: 80px;
   border: none;
-  border-bottom: 1px solid rgb(118, 118, 118);
+  border-bottom: 1px solid rgb(118 118 118);
   border-radius: 0;
   background: none;
-  color: rgb(118, 118, 118);
+  color: rgb(118 118 118);
   font-size: inherit;
   font-weight: inherit;
   text-transform: none;

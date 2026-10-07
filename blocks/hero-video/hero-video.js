@@ -1,3 +1,18 @@
+function extractYouTubeId(url) {
+  try {
+    const u = new URL(url);
+    if (u.hostname.includes('youtube.com')) {
+      return u.searchParams.get('v');
+    }
+    if (u.hostname.includes('youtu.be')) {
+      return u.pathname.slice(1);
+    }
+  } catch (e) {
+    // not a valid URL
+  }
+  return null;
+}
+
 export default function decorate(block) {
   // Find the video link and convert to embedded YouTube iframe
   const videoRow = block.querySelector(':scope > div:first-child');
@@ -37,19 +52,4 @@ export default function decorate(block) {
       );
     }
   }
-}
-
-function extractYouTubeId(url) {
-  try {
-    const u = new URL(url);
-    if (u.hostname.includes('youtube.com')) {
-      return u.searchParams.get('v');
-    }
-    if (u.hostname.includes('youtu.be')) {
-      return u.pathname.slice(1);
-    }
-  } catch (e) {
-    // not a valid URL
-  }
-  return null;
 }

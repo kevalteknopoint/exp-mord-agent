@@ -1,7 +1,11 @@
 /* Block: cards-casestudy -- Masonry-style case study cards */
+
 /* Source: DEPT Agency work listing grid */
+
 /* Extracted values: grid gap 72px 20px, brand font-size 20px, font-weight 900, */
+
 /* color rgb(0,0,0), text-transform uppercase, line-height 21px */
+
 /* Tags color: rgb(118, 118, 118), image object-fit: cover */
 
 .cards-casestudy > ul {
@@ -120,7 +124,7 @@ main .cards-casestudy .cards-casestudy-card-body a.button:any-link {
   border: none;
   border-radius: 0;
   background: none;
-  color: rgb(118, 118, 118);
+  color: rgb(118 118 118);
   font-size: 16px;
   font-weight: 400;
   text-transform: none;

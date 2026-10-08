@@ -207,6 +207,19 @@ export default async function decorate(block) {
     brandLink.className = '';
     brandLink.closest('.button-container').className = '';
   }
+  // a logo image authored next to the brand link (linked images do not survive Universal Editor
+  // content) becomes the link's content; the link text is kept as its accessible name
+  const brandPicture = navBrand.querySelector('picture');
+  const homeLink = navBrand.querySelector('a');
+  if (brandPicture && homeLink && !homeLink.contains(brandPicture)) {
+    const label = homeLink.textContent.trim();
+    if (label) homeLink.setAttribute('aria-label', label);
+    const pictureWrapper = brandPicture.closest('p');
+    homeLink.replaceChildren(brandPicture);
+    if (pictureWrapper && !pictureWrapper.textContent.trim() && !pictureWrapper.querySelector('picture')) {
+      pictureWrapper.remove();
+    }
+  }
 
   const navSections = nav.querySelector('.nav-sections');
   if (navSections) {

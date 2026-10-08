@@ -925,6 +925,78 @@
           ]
         }
       ]
+    },
+    {
+      "name": "tata-cars",
+      "urls": [
+        "http://localhost:8090/migration-work/design-tatacars/source/tata-cars.html",
+        "http://localhost:8090/migration-work/design-tatacars/source/tata-cars-nav.html",
+        "http://localhost:8090/migration-work/design-tatacars/source/tata-cars-footer.html"
+      ],
+      "representativeUrl": "http://localhost:8090/migration-work/design-tatacars/source/tata-cars.html",
+      "description": "Tata Cars homepage from a mobile design image (+ tata-cars-nav / tata-cars-footer fragments)",
+      "blocks": [
+        {
+          "name": "carousel-showcase",
+          "instances": [
+            "#hero .showcase"
+          ]
+        },
+        {
+          "name": "filter-dropdowns",
+          "instances": [
+            "#bestsellers .filters"
+          ]
+        },
+        {
+          "name": "cards-car",
+          "instances": [
+            "#bestsellers .cars"
+          ]
+        },
+        {
+          "name": "calculator-emi",
+          "instances": [
+            "#emi .calculator"
+          ]
+        },
+        {
+          "name": "dealer-finder",
+          "instances": [
+            "#dealers .dealer-finder"
+          ]
+        },
+        {
+          "name": "carousel-reels",
+          "instances": [
+            "#family .reels"
+          ]
+        },
+        {
+          "name": "cards-action",
+          "instances": [
+            "#actions .action-cards"
+          ]
+        },
+        {
+          "name": "cards-proof",
+          "instances": [
+            "#proof .proof-cards"
+          ]
+        },
+        {
+          "name": "cta-sticky",
+          "instances": [
+            "#sticky .sticky-cta"
+          ]
+        },
+        {
+          "name": "form-contact",
+          "instances": [
+            ".footer-newsletter .lead-form"
+          ]
+        }
+      ]
     }
   ],
   "metadata": {

@@ -1,0 +1,101 @@
+/* Dealer Finder - pincode search + map preview (design: migration-work/design-tatacars/spec.md) */
+.dealer-finder .dealer-finder-form {
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  border: 1px solid #d5d5d5;
+}
+
+.dealer-finder .dealer-finder-form:focus-within {
+  border-color: var(--tc-color-blue, #004dff);
+}
+
+.dealer-finder .dealer-finder-field {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 8px 12px;
+}
+
+.dealer-finder .dealer-finder-field span {
+  color: #666;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.dealer-finder .dealer-finder-field input {
+  margin: 2px 0 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--tc-color-text, #111);
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  outline: none;
+}
+
+.dealer-finder .dealer-finder-submit {
+  flex: 0 0 52px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  cursor: pointer;
+}
+
+.dealer-finder .dealer-finder-submit::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: #333;
+  mask: url('../../icons/search.svg') center / 22px no-repeat;
+}
+
+.dealer-finder .dealer-finder-result {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 12px 0 0;
+  color: #444;
+  font-size: 13px;
+}
+
+.dealer-finder .dealer-finder-result::before {
+  content: '';
+  flex: 0 0 14px;
+  height: 14px;
+  background: var(--tc-color-blue, #004dff);
+  mask: url('../../icons/pin.svg') center / contain no-repeat;
+}
+
+.dealer-finder .dealer-finder-map {
+  margin-top: 16px;
+}
+
+.dealer-finder .dealer-finder-map picture,
+.dealer-finder .dealer-finder-map img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (width >= 900px) {
+  .dealer-finder {
+    display: grid;
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    gap: 0 48px;
+    align-items: start;
+  }
+
+  .dealer-finder .dealer-finder-map {
+    margin-top: 0;
+  }
+
+  .dealer-finder .dealer-finder-map img {
+    height: 320px;
+    object-fit: cover;
+  }
+}

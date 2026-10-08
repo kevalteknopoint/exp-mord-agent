@@ -1,0 +1,20 @@
+{
+  "variantName": "cards-proof",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "proof points"
+  },
+  "contentPattern": {
+    "structure": "Each row = proof point: rich text (value heading, label paragraph, description, optional link shown as a corner arrow)."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/tata-cars"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T16:00:00.000Z"
+  }
+}

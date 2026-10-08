@@ -1,0 +1,20 @@
+{
+  "variantName": "cards-action",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "quick actions"
+  },
+  "contentPattern": {
+    "structure": "Each row = action: icon | rich text (heading, description, optional italic-only paragraph = chip, link shown as a square arrow button)."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/tata-cars"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T16:00:00.000Z"
+  }
+}

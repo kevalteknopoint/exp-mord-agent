@@ -1,0 +1,20 @@
+{
+  "variantName": "calculator-emi",
+  "baseBlock": "calculator",
+  "canonicalModel": "key-value",
+  "visualCharacteristics": {
+    "purpose": "EMI calculator"
+  },
+  "contentPattern": {
+    "structure": "Key-value block: price range + default (\u20b9), down payment range (% of price), tenure options + recommended, interest range + default, CTA label + link, disclaimer note. Computes the monthly EMI live."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/tata-cars"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T16:00:00.000Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variantName": "carousel-reels",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "customer video stories"
+  },
+  "contentPattern": {
+    "structure": "Each row = story: poster | rich text (quote paragraph, bold name, meta paragraph, tag paragraph) | video link | duration."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/tata-cars"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T16:00:00.000Z"
+  }
+}

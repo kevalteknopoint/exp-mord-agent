@@ -1,0 +1,78 @@
+{
+  "definitions": [
+    {
+      "title": "Cards Car",
+      "id": "cards-car",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Cards Car",
+              "filter": "cards-car"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Car Card",
+      "id": "cards-car-card",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Car Card",
+              "model": "cards-car-card"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "cards-car-card",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Car Image",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Car Image Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text (linked name heading, social proof, fuels 'Petrol \u00b7 Diesel \u00b7 EV', price lines with bold amounts, tenure, CTA links)",
+          "valueType": "string"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "offer",
+          "value": "",
+          "label": "Offer Line",
+          "description": "e.g. Enjoy 10% off + 3 vouchers"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "cards-car",
+      "components": [
+        "cards-car-card"
+      ]
+    }
+  ]
+}

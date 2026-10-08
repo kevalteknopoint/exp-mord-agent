@@ -69,7 +69,16 @@
       "columns-showcase",
       "cards-impact",
       "carousel-expand",
-      "footer-links"
+      "footer-links",
+      "carousel-showcase",
+      "filter-dropdowns",
+      "cards-car",
+      "calculator-emi",
+      "dealer-finder",
+      "carousel-reels",
+      "cards-action",
+      "cards-proof",
+      "cta-sticky"
     ]
   },
   {
@@ -91,6 +100,12 @@
     ]
   },
   {
+    "id": "cards-action",
+    "components": [
+      "cards-action-card"
+    ]
+  },
+  {
     "id": "cards-article",
     "components": [
       "card"
@@ -106,6 +121,12 @@
     "id": "cards-callout",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "cards-car",
+    "components": [
+      "cards-car-card"
     ]
   },
   {
@@ -178,6 +199,12 @@
     "id": "cards-product",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "cards-proof",
+    "components": [
+      "cards-proof-item"
     ]
   },
   {
@@ -289,9 +316,21 @@
     ]
   },
   {
+    "id": "carousel-reels",
+    "components": [
+      "carousel-reels-card"
+    ]
+  },
+  {
     "id": "carousel-reviews",
     "components": [
       "carousel-reviews-item"
+    ]
+  },
+  {
+    "id": "carousel-showcase",
+    "components": [
+      "carousel-showcase-slide"
     ]
   },
   {
@@ -379,6 +418,12 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "filter-dropdowns",
+    "components": [
+      "filter-dropdowns-item"
     ]
   },
   {

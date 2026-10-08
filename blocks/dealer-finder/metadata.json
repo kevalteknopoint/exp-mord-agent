@@ -1,0 +1,20 @@
+{
+  "variantName": "dealer-finder",
+  "baseBlock": "form",
+  "canonicalModel": "key-value",
+  "visualCharacteristics": {
+    "purpose": "dealer search"
+  },
+  "contentPattern": {
+    "structure": "Key-value block: field label | default pincode | result text | map image | dealer locator page (search sent as ?pincode=)."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/tata-cars"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T16:00:00.000Z"
+  }
+}

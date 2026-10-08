@@ -1,0 +1,174 @@
+/* Cards Car - bestseller car cards on charcoal (design: migration-work/design-tatacars/spec.md) */
+.cards-car > ul {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-car .cards-car-card {
+  display: flex;
+  flex-direction: column;
+  padding: 40px 0 28px;
+  border-bottom: 1px solid #505050;
+  color: #fff;
+}
+
+.cards-car .cards-car-card:last-child {
+  border-bottom: 0;
+}
+
+.cards-car .cards-car-name {
+  margin: 0;
+  color: #fff;
+  font-family: var(--tc-display-font, sans-serif);
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.cards-car .cards-car-name-link:any-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.cards-car .cards-car-name-link::after {
+  content: '';
+  width: 18px;
+  height: 18px;
+  background: currentcolor;
+  mask: url('../../icons/arrow-right.svg') center / contain no-repeat;
+  transition: transform 0.2s ease;
+}
+
+.cards-car .cards-car-name-link:hover::after {
+  transform: translateX(4px);
+}
+
+.cards-car .cards-car-head .cards-car-proof {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 4px 0 0;
+  color: rgb(255 255 255 / 80%);
+  font-size: 13px;
+}
+
+.cards-car .cards-car-head .cards-car-proof::before {
+  content: '';
+  width: 14px;
+  height: 14px;
+  background: #7a9cff;
+  mask: url('../../icons/trend-up.svg') center / contain no-repeat;
+}
+
+.cards-car .cards-car-image {
+  margin: 16px 0;
+  text-align: center;
+}
+
+.cards-car .cards-car-image picture,
+.cards-car .cards-car-image img {
+  display: inline-block;
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+.cards-car .cards-car-body p {
+  margin: 0;
+  color: rgb(255 255 255 / 80%);
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.cards-car .cards-car-body .cards-car-fuels {
+  margin-bottom: 8px;
+  color: #8a8a8a;
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.cards-car .cards-car-ev {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--tc-color-ev, #1aa39f);
+  font-size: 13px;
+}
+
+.cards-car .cards-car-ev::before {
+  content: '';
+  width: 12px;
+  height: 12px;
+  background: currentcolor;
+  mask: url('../../icons/ev-plug.svg') center / contain no-repeat;
+}
+
+.cards-car .cards-car-price strong {
+  color: #fff;
+  font-weight: 500;
+}
+
+.cards-car .cards-car-body .cards-car-note {
+  color: #7a9cff;
+  font-size: 13px;
+}
+
+.cards-car .cards-car-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.cards-car .cards-car-actions .button-container {
+  margin: 0;
+}
+
+.cards-car .cards-car-actions a.button:any-link {
+  width: 100%;
+}
+
+.cards-car .cards-car-offer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+  color: rgb(255 255 255 / 85%);
+  font-size: 13px;
+}
+
+.cards-car .cards-car-offer p {
+  margin: 0;
+}
+
+.cards-car .cards-car-offer::before {
+  content: '';
+  flex: 0 0 14px;
+  height: 14px;
+  background: currentcolor;
+  mask: url('../../icons/tag.svg') center / contain no-repeat;
+}
+
+@media (width >= 900px) {
+  .cards-car > ul {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0 32px;
+  }
+
+  .cards-car .cards-car-card {
+    padding: 40px 0 32px;
+    border-bottom: 0;
+  }
+
+  .cards-car .cards-car-name {
+    font-size: 24px;
+  }
+}

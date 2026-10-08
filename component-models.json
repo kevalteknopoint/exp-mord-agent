@@ -201,6 +201,26 @@
           {
             "name": "Kotak: footer disclaimer box",
             "value": "kl-disclaimer"
+          },
+          {
+            "name": "Tata Cars: announcement strip",
+            "value": "tc-announce"
+          },
+          {
+            "name": "Tata Cars: charcoal band",
+            "value": "tc-dark"
+          },
+          {
+            "name": "Tata Cars: centred heading",
+            "value": "tc-center"
+          },
+          {
+            "name": "Tata Cars: why choose (stripes + emblem)",
+            "value": "tc-why"
+          },
+          {
+            "name": "Tata Cars: black band",
+            "value": "tc-black"
           }
         ]
       }
@@ -264,20 +284,123 @@
     ]
   },
   {
-    "id": "card",
+    "id": "calculator-emi",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "priceMin",
+        "value": "",
+        "label": "Minimum Price (₹)"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "priceMax",
+        "value": "",
+        "label": "Maximum Price (₹)"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "price",
+        "value": "",
+        "label": "Default Price (₹)"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "downMin",
+        "value": "",
+        "label": "Minimum Down Payment (%)"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "downMax",
+        "value": "",
+        "label": "Maximum Down Payment (%)"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "tenures",
+        "value": "",
+        "label": "Tenure Options (years)",
+        "description": "Comma separated, e.g. 3, 5, 7"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "recommended",
+        "value": "",
+        "label": "Recommended Tenure (years)"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "rateMin",
+        "value": "",
+        "label": "Minimum Interest Rate (%)"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "rateMax",
+        "value": "",
+        "label": "Maximum Interest Rate (%)"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "rate",
+        "value": "",
+        "label": "Default Interest Rate (%)"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "ctaLabel",
+        "value": "",
+        "label": "CTA Label"
+      },
+      {
+        "component": "aem-content",
+        "valueType": "string",
+        "name": "ctaLink",
+        "label": "CTA Link"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "note",
+        "value": "",
+        "label": "Disclaimer Note"
+      }
+    ]
+  },
+  {
+    "id": "cards-action-card",
     "fields": [
       {
         "component": "reference",
         "valueType": "string",
         "name": "image",
-        "label": "Image",
+        "label": "Icon",
         "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Icon Alt Text"
       },
       {
         "component": "richtext",
         "name": "text",
         "value": "",
-        "label": "Text",
+        "label": "Text (heading, description, optional italic chip, link)",
         "valueType": "string"
       }
     ]
@@ -317,6 +440,59 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-car-card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Car Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Car Image Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (linked name heading, social proof, fuels 'Petrol · Diesel · EV', price lines with bold amounts, tenure, CTA links)",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "offer",
+        "value": "",
+        "label": "Offer Line",
+        "description": "e.g. Enjoy 10% off + 3 vouchers"
       }
     ]
   },
@@ -650,6 +826,18 @@
         "name": "text",
         "value": "",
         "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-proof-item",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (big value heading, label, description, optional link)",
         "valueType": "string"
       }
     ]
@@ -1074,6 +1262,46 @@
     ]
   },
   {
+    "id": "carousel-reels-card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Poster Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Poster Image Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (quote, bold name, city · model, tag)",
+        "valueType": "string"
+      },
+      {
+        "component": "aem-content",
+        "valueType": "string",
+        "name": "link",
+        "label": "Video Link"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "duration",
+        "value": "",
+        "label": "Duration",
+        "description": "e.g. 0:47"
+      }
+    ]
+  },
+  {
     "id": "carousel-reviews-item",
     "fields": [
       {
@@ -1088,6 +1316,32 @@
         "name": "text",
         "value": "",
         "label": "Review (name heading, plan/date, rating like 4/5, Watch Video link, quote)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "carousel-showcase-slide",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Car Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Car Image Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (heading, model, price lines with bold amounts, italic badge, CTA links - italic link = outline)",
         "valueType": "string"
       }
     ]
@@ -1323,6 +1577,65 @@
     ]
   },
   {
+    "id": "cta-sticky",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (info paragraph, CTA links - italic link = outline)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "dealer-finder",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "label",
+        "value": "",
+        "label": "Field Label"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "pincode",
+        "value": "",
+        "label": "Default Pincode"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "result",
+        "value": "",
+        "label": "Result Text",
+        "description": "e.g. 4 dealers near you"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "map",
+        "label": "Map Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "mapAlt",
+        "value": "",
+        "label": "Map Image Alt Text"
+      },
+      {
+        "component": "aem-content",
+        "valueType": "string",
+        "name": "action",
+        "label": "Dealer Locator Page"
+      }
+    ]
+  },
+  {
     "id": "embed-video",
     "fields": [
       {
@@ -1376,6 +1689,25 @@
         "valueType": "string",
         "name": "embed_uri",
         "label": "URI"
+      }
+    ]
+  },
+  {
+    "id": "filter-dropdowns-item",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "title",
+        "value": "",
+        "label": "Filter Label"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Options (list of links)",
+        "valueType": "string"
       }
     ]
   },

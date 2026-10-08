@@ -1,0 +1,20 @@
+{
+  "variantName": "cards-car",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "car cards"
+  },
+  "contentPattern": {
+    "structure": "Each row = car: image | rich text (linked model name heading, social-proof paragraph, fuel list with ' \u00b7 ' separators - EV is highlighted, price paragraphs with the amount in bold, tenure paragraph, CTA links - italic link = outline) | offer line."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/tata-cars"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T16:00:00.000Z"
+  }
+}

@@ -1,0 +1,135 @@
+/* Carousel Reels - swipeable customer video stories (design: migration-work/design-tatacars/spec.md) */
+.carousel-reels .carousel-reels-track {
+  display: flex;
+  gap: 16px;
+  margin: 0 calc(-1 * var(--tc-gutter, 16px));
+  padding: 0 var(--tc-gutter, 16px);
+  overflow-x: auto;
+  list-style: none;
+  scroll-padding: 0 var(--tc-gutter, 16px);
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.carousel-reels .carousel-reels-track::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-reels .carousel-reels-card {
+  flex: 0 0 82%;
+  scroll-snap-align: start;
+}
+
+.carousel-reels .carousel-reels-media {
+  position: relative;
+  aspect-ratio: 295 / 405;
+  overflow: hidden;
+  background: #222;
+}
+
+.carousel-reels .carousel-reels-media picture,
+.carousel-reels .carousel-reels-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.carousel-reels .carousel-reels-play:any-link {
+  position: absolute;
+  bottom: 12px;
+  left: 12px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  border-radius: 50%;
+  background: #fff;
+  color: transparent;
+  font-size: 0;
+}
+
+.carousel-reels .carousel-reels-play::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: #111;
+  mask: url('../../icons/play.svg') 58% center / 55% no-repeat;
+}
+
+.carousel-reels .carousel-reels-play::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+.carousel-reels .carousel-reels-duration {
+  position: absolute;
+  right: 12px;
+  bottom: 14px;
+  color: #fff;
+  font-size: 12px;
+  text-shadow: 0 1px 3px rgb(0 0 0 / 50%);
+}
+
+.carousel-reels .carousel-reels-body {
+  padding-top: 20px;
+}
+
+.carousel-reels .carousel-reels-body p {
+  margin: 0;
+  color: #555;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.carousel-reels .carousel-reels-body .carousel-reels-quote {
+  margin-bottom: 8px;
+  color: var(--tc-color-text, #111);
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.carousel-reels .carousel-reels-body .carousel-reels-name {
+  font-size: 14px;
+}
+
+.carousel-reels .carousel-reels-name strong {
+  font-weight: 500;
+}
+
+.carousel-reels .carousel-reels-body .carousel-reels-tag {
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid #ccc;
+  color: #444;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.carousel-reels .carousel-reels-tag::after {
+  content: '';
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-left: 4px;
+  background: var(--tc-color-ev, #1aa39f);
+  mask: url('../../icons/bolt.svg') center / contain no-repeat;
+}
+
+@media (width >= 900px) {
+  .carousel-reels .carousel-reels-track {
+    gap: 32px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .carousel-reels .carousel-reels-card {
+    flex-basis: calc((100% - 64px) / 3);
+  }
+
+  .carousel-reels .carousel-reels-body .carousel-reels-quote {
+    font-size: 19px;
+  }
+}

@@ -77,6 +77,26 @@
             {
               "name": "Kotak: footer disclaimer box",
               "value": "kl-disclaimer"
+            },
+            {
+              "name": "Tata Cars: announcement strip",
+              "value": "tc-announce"
+            },
+            {
+              "name": "Tata Cars: charcoal band",
+              "value": "tc-dark"
+            },
+            {
+              "name": "Tata Cars: centred heading",
+              "value": "tc-center"
+            },
+            {
+              "name": "Tata Cars: why choose (stripes + emblem)",
+              "value": "tc-why"
+            },
+            {
+              "name": "Tata Cars: black band",
+              "value": "tc-black"
             }
           ]
         }
@@ -148,7 +168,16 @@
         "columns-showcase",
         "cards-impact",
         "carousel-expand",
-        "footer-links"
+        "footer-links",
+        "carousel-showcase",
+        "filter-dropdowns",
+        "cards-car",
+        "calculator-emi",
+        "dealer-finder",
+        "carousel-reels",
+        "cards-action",
+        "cards-proof",
+        "cta-sticky"
       ]
     }
   ]

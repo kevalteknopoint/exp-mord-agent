@@ -1,0 +1,20 @@
+{
+  "variantName": "cta-sticky",
+  "baseBlock": "cta",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "sticky mobile CTA bar"
+  },
+  "contentPattern": {
+    "structure": "Block field: rich text (info paragraph, CTA links). Fixed bar at the bottom of the screen on mobile; hidden on desktop."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/tata-cars"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T16:00:00.000Z"
+  }
+}

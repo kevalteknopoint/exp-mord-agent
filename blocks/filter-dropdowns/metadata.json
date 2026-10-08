@@ -1,0 +1,20 @@
+{
+  "variantName": "filter-dropdowns",
+  "baseBlock": "filter",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "filter bar"
+  },
+  "contentPattern": {
+    "structure": "Each row = filter: label | rich text list of option links. Renders a bar of toggles, each opening its option panel."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/tata-cars"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T16:00:00.000Z"
+  }
+}

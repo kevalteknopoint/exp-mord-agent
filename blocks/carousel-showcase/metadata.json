@@ -1,0 +1,20 @@
+{
+  "variantName": "carousel-showcase",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "purpose": "car hero carousel"
+  },
+  "contentPattern": {
+    "structure": "Each row = slide: car image | rich text (heading, model paragraph, price paragraphs with the amount in bold, an italic-only paragraph = availability badge, CTA links - an italic link is the outline button). Dots + autoplay."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": {
+    "pagesUsing": [
+      "/tata-cars"
+    ],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-07T16:00:00.000Z"
+  }
+}

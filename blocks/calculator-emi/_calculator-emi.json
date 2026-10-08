@@ -1,0 +1,119 @@
+{
+  "definitions": [
+    {
+      "title": "Calculator EMI",
+      "id": "calculator-emi",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Calculator EMI",
+              "model": "calculator-emi",
+              "key-value": true
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "calculator-emi",
+      "fields": [
+        {
+          "component": "text",
+          "valueType": "number",
+          "name": "priceMin",
+          "value": "",
+          "label": "Minimum Price (\u20b9)"
+        },
+        {
+          "component": "text",
+          "valueType": "number",
+          "name": "priceMax",
+          "value": "",
+          "label": "Maximum Price (\u20b9)"
+        },
+        {
+          "component": "text",
+          "valueType": "number",
+          "name": "price",
+          "value": "",
+          "label": "Default Price (\u20b9)"
+        },
+        {
+          "component": "text",
+          "valueType": "number",
+          "name": "downMin",
+          "value": "",
+          "label": "Minimum Down Payment (%)"
+        },
+        {
+          "component": "text",
+          "valueType": "number",
+          "name": "downMax",
+          "value": "",
+          "label": "Maximum Down Payment (%)"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "tenures",
+          "value": "",
+          "label": "Tenure Options (years)",
+          "description": "Comma separated, e.g. 3, 5, 7"
+        },
+        {
+          "component": "text",
+          "valueType": "number",
+          "name": "recommended",
+          "value": "",
+          "label": "Recommended Tenure (years)"
+        },
+        {
+          "component": "text",
+          "valueType": "number",
+          "name": "rateMin",
+          "value": "",
+          "label": "Minimum Interest Rate (%)"
+        },
+        {
+          "component": "text",
+          "valueType": "number",
+          "name": "rateMax",
+          "value": "",
+          "label": "Maximum Interest Rate (%)"
+        },
+        {
+          "component": "text",
+          "valueType": "number",
+          "name": "rate",
+          "value": "",
+          "label": "Default Interest Rate (%)"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "ctaLabel",
+          "value": "",
+          "label": "CTA Label"
+        },
+        {
+          "component": "aem-content",
+          "valueType": "string",
+          "name": "ctaLink",
+          "label": "CTA Link"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "note",
+          "value": "",
+          "label": "Disclaimer Note"
+        }
+      ]
+    }
+  ],
+  "filters": []
+}

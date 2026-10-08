@@ -1,0 +1,239 @@
+/* Calculator EMI - car loan EMI calculator (design: migration-work/design-tatacars/spec.md) */
+.calculator-emi {
+  color: var(--tc-color-text, #111);
+}
+
+.calculator-emi .calculator-emi-field {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 40px;
+}
+
+.calculator-emi .calculator-emi-field:first-child {
+  margin-top: 0;
+}
+
+.calculator-emi .calculator-emi-label {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.calculator-emi .calculator-emi-value {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  width: 50%;
+  max-width: 200px;
+  height: 30px;
+  box-sizing: border-box;
+  padding: 0 8px;
+  background: #e6e6e6;
+  color: #333;
+  font-size: 14px;
+}
+
+.calculator-emi .calculator-emi-value input {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+}
+
+.calculator-emi .calculator-emi-value:focus-within {
+  outline: 2px solid var(--tc-color-blue, #004dff);
+}
+
+.calculator-emi .calculator-emi-prefix:empty {
+  display: none;
+}
+
+.calculator-emi .calculator-emi-unit {
+  margin-left: auto;
+  color: #555;
+}
+
+.calculator-emi .calculator-emi-range {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 18px;
+  color: #888;
+  font-size: 10px;
+}
+
+.calculator-emi .calculator-emi-range input {
+  grid-column: 1 / -1;
+  width: 100%;
+  height: 24px;
+  margin: 0 0 4px;
+  background: transparent;
+  appearance: none;
+  cursor: pointer;
+}
+
+.calculator-emi .calculator-emi-range input::-webkit-slider-runnable-track {
+  height: 1px;
+  background: linear-gradient(90deg, var(--tc-color-blue, #004dff) var(--fill, 50%), #b4b4b4 var(--fill, 50%));
+}
+
+.calculator-emi .calculator-emi-range input::-moz-range-track {
+  height: 1px;
+  background: linear-gradient(90deg, var(--tc-color-blue, #004dff) var(--fill, 50%), #b4b4b4 var(--fill, 50%));
+}
+
+.calculator-emi .calculator-emi-range input::-webkit-slider-thumb {
+  width: 64px;
+  height: 24px;
+  margin-top: -12px;
+  border: 1px solid #cfd8f5;
+  border-radius: 6px;
+  background:
+    radial-gradient(circle, var(--tc-color-blue, #004dff) 1.5px, transparent 2px) 16px 6px / 4px 6px repeat-y,
+    radial-gradient(circle, var(--tc-color-blue, #004dff) 1.5px, transparent 2px) 44px 6px / 4px 6px repeat-y,
+    #fff;
+  box-shadow: 0 2px 6px rgb(0 0 0 / 12%);
+  appearance: none;
+}
+
+.calculator-emi .calculator-emi-range input::-moz-range-thumb {
+  width: 64px;
+  height: 24px;
+  border: 1px solid #cfd8f5;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0 2px 6px rgb(0 0 0 / 12%);
+}
+
+.calculator-emi .calculator-emi-value input:focus {
+  outline: none;
+}
+
+.calculator-emi .calculator-emi-range input:focus-visible {
+  outline: 2px solid var(--tc-color-blue, #004dff);
+  outline-offset: 4px;
+}
+
+.calculator-emi .calculator-emi-max {
+  text-align: right;
+}
+
+.calculator-emi .calculator-emi-tenures {
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-auto-flow: column;
+  margin-top: 16px;
+  padding: 2px;
+  background: #e6e6e6;
+}
+
+.calculator-emi .calculator-emi-tenures button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 34px;
+  margin: 0;
+  padding: 2px 4px;
+  border: 1px solid transparent;
+  border-radius: 0;
+  background: none;
+  color: #555;
+  font-family: inherit;
+  font-size: 12px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.calculator-emi .calculator-emi-tenures button small {
+  color: var(--tc-color-blue, #004dff);
+  font-size: 8px;
+  letter-spacing: 0.02em;
+}
+
+.calculator-emi .calculator-emi-tenures button[aria-checked='true'] {
+  border-color: #d0d0d0;
+  background: #fff;
+  color: var(--tc-color-blue, #004dff);
+  font-weight: 600;
+}
+
+.calculator-emi .calculator-emi-result {
+  margin-top: 40px;
+}
+
+.calculator-emi .calculator-emi-amount {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0;
+  padding: 14px 10px;
+  background: #e6e6e6;
+}
+
+.calculator-emi .calculator-emi-amount strong {
+  font-family: var(--tc-display-font, sans-serif);
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.calculator-emi .calculator-emi-amount span {
+  color: #333;
+  font-size: 12px;
+}
+
+.calculator-emi .calculator-emi-result .button-container {
+  margin: 8px 0 0;
+}
+
+.calculator-emi .calculator-emi-result a.button:any-link {
+  width: 100%;
+}
+
+.calculator-emi .calculator-emi-note {
+  margin: 12px 0 0;
+  color: #555;
+  font-size: 10px;
+}
+
+@media (width >= 900px) {
+  .calculator-emi {
+    display: grid;
+    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+    gap: 0 64px;
+    align-items: end;
+  }
+
+  .calculator-emi .calculator-emi-label {
+    font-size: 14px;
+  }
+
+  .calculator-emi .calculator-emi-value {
+    height: 36px;
+    font-size: 16px;
+  }
+
+  .calculator-emi .calculator-emi-range {
+    font-size: 12px;
+  }
+
+  .calculator-emi .calculator-emi-result {
+    position: sticky;
+    bottom: 24px;
+  }
+
+  .calculator-emi .calculator-emi-amount {
+    padding: 28px 20px;
+  }
+
+  .calculator-emi .calculator-emi-amount strong {
+    font-size: 40px;
+  }
+}

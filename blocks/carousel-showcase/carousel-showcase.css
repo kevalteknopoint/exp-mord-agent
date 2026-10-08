@@ -1,0 +1,195 @@
+/* Carousel Showcase - dark car hero slides (design: migration-work/design-tatacars/spec.md) */
+main > .section.carousel-showcase-container {
+  padding: 0;
+}
+
+main > .section.carousel-showcase-container > .carousel-showcase-wrapper {
+  max-width: none;
+}
+
+.carousel-showcase {
+  position: relative;
+  padding-bottom: 40px;
+  background: linear-gradient(180deg, #1d1d1d 0%, #2d2d2d 30%, #2b2b2b 100%);
+  color: #fff;
+}
+
+.carousel-showcase .carousel-showcase-track {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  overflow-x: auto;
+  list-style: none;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.carousel-showcase .carousel-showcase-track::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-showcase .carousel-showcase-slide {
+  display: flex;
+  flex: 0 0 100%;
+  flex-direction: column;
+  scroll-snap-align: start;
+}
+
+.carousel-showcase .carousel-showcase-media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 232px;
+}
+
+.carousel-showcase .carousel-showcase-media picture,
+.carousel-showcase .carousel-showcase-media img {
+  display: block;
+  width: 100%;
+  max-height: 340px;
+  object-fit: contain;
+}
+
+.carousel-showcase .carousel-showcase-body {
+  padding: 0 var(--tc-gutter, 16px);
+}
+
+.carousel-showcase .carousel-showcase-body :is(h1, h2, h3) {
+  margin: 0 calc(-1 * var(--tc-gutter, 16px)) 0 0;
+  padding: 0 0 6px;
+  border-bottom: 1px solid rgb(255 255 255 / 45%);
+  color: #fff;
+  font-family: var(--tc-display-font, sans-serif);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.05;
+  text-transform: uppercase;
+}
+
+.carousel-showcase .carousel-showcase-body p {
+  margin: 0;
+  color: rgb(255 255 255 / 75%);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.carousel-showcase .carousel-showcase-model {
+  padding: 12px 0 20px;
+  color: #fff;
+  font-size: 18px;
+}
+
+.carousel-showcase .carousel-showcase-price strong {
+  color: #fff;
+  font-weight: 500;
+}
+
+.carousel-showcase .carousel-showcase-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+  padding: 5px 10px;
+  background: #0a0a0a;
+}
+
+.carousel-showcase .carousel-showcase-body .carousel-showcase-badge em {
+  color: #fff;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.carousel-showcase .carousel-showcase-badge::before {
+  content: '';
+  width: 12px;
+  height: 12px;
+  background: #fff;
+  mask: url('../../icons/car.svg') center / contain no-repeat;
+}
+
+.carousel-showcase .carousel-showcase-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.carousel-showcase .carousel-showcase-actions .button-container {
+  margin: 0;
+}
+
+.carousel-showcase .carousel-showcase-actions a.button:any-link {
+  width: 100%;
+}
+
+.carousel-showcase .carousel-showcase-dots {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin-top: 28px;
+}
+
+.carousel-showcase .carousel-showcase-dots button {
+  width: 5px;
+  height: 5px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: rgb(255 255 255 / 45%);
+  cursor: pointer;
+  transition: width 0.3s ease, background-color 0.3s ease;
+}
+
+.carousel-showcase .carousel-showcase-dots button[aria-current='true'] {
+  width: 24px;
+  background: #fff;
+}
+
+@media (width >= 900px) {
+  .carousel-showcase {
+    padding-bottom: 48px;
+  }
+
+  .carousel-showcase .carousel-showcase-slide {
+    display: grid;
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    gap: 0 48px;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 48px max(var(--tc-gutter, 40px), calc((100% - var(--tc-content-max-width, 1200px)) / 2)) 0;
+  }
+
+  .carousel-showcase .carousel-showcase-media {
+    order: 1;
+    min-height: 420px;
+  }
+
+  .carousel-showcase .carousel-showcase-media img {
+    max-height: 480px;
+  }
+
+  .carousel-showcase .carousel-showcase-body {
+    padding: 0;
+  }
+
+  .carousel-showcase .carousel-showcase-body :is(h1, h2, h3) {
+    margin-right: 0;
+    font-size: 36px;
+  }
+
+  .carousel-showcase .carousel-showcase-model {
+    font-size: 22px;
+  }
+
+  .carousel-showcase .carousel-showcase-body p {
+    font-size: 18px;
+  }
+
+  .carousel-showcase .carousel-showcase-actions {
+    max-width: 480px;
+  }
+}

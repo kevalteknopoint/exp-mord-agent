@@ -179,6 +179,52 @@
           }
         },
         {
+          "title": "Calculator EMI",
+          "id": "calculator-emi",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Calculator EMI",
+                  "model": "calculator-emi",
+                  "key-value": true
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Action",
+          "id": "cards-action",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Action",
+                  "filter": "cards-action"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Action",
+          "id": "cards-action-card",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Action",
+                  "model": "cards-action-card"
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Cards Article",
           "id": "cards-article",
           "plugins": {
@@ -263,6 +309,36 @@
                 "template": {
                   "name": "Card",
                   "model": "card"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Car",
+          "id": "cards-car",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Car",
+                  "filter": "cards-car"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Car Card",
+          "id": "cards-car-card",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Car Card",
+                  "model": "cards-car-card"
                 }
               }
             }
@@ -654,6 +730,36 @@
                 "template": {
                   "name": "Card",
                   "model": "card"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Proof",
+          "id": "cards-proof",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Proof",
+                  "filter": "cards-proof"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Proof Point",
+          "id": "cards-proof-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Proof Point",
+                  "model": "cards-proof-item"
                 }
               }
             }
@@ -1200,6 +1306,36 @@
           }
         },
         {
+          "title": "Carousel Reels",
+          "id": "carousel-reels",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Carousel Reels",
+                  "filter": "carousel-reels"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Video Story",
+          "id": "carousel-reels-card",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Video Story",
+                  "model": "carousel-reels-card"
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Carousel Reviews",
           "id": "carousel-reviews",
           "plugins": {
@@ -1224,6 +1360,36 @@
                 "template": {
                   "name": "Review Slide",
                   "model": "carousel-reviews-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Showcase",
+          "id": "carousel-showcase",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Carousel Showcase",
+                  "filter": "carousel-showcase"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Showcase Slide",
+          "id": "carousel-showcase-slide",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Showcase Slide",
+                  "model": "carousel-showcase-slide"
                 }
               }
             }
@@ -1455,6 +1621,37 @@
           }
         },
         {
+          "title": "CTA Sticky",
+          "id": "cta-sticky",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "CTA Sticky",
+                  "model": "cta-sticky"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Dealer Finder",
+          "id": "dealer-finder",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Dealer Finder",
+                  "model": "dealer-finder",
+                  "key-value": true
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Embed Video",
           "id": "embed-video",
           "plugins": {
@@ -1479,6 +1676,36 @@
                 "template": {
                   "name": "Embed",
                   "model": "embed"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Filter Dropdowns",
+          "id": "filter-dropdowns",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Filter Dropdowns",
+                  "filter": "filter-dropdowns"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Filter",
+          "id": "filter-dropdowns-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Filter",
+                  "model": "filter-dropdowns-item"
                 }
               }
             }

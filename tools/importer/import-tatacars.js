@@ -177,21 +177,18 @@ function addMetadata(main, document, template) {
   return meta;
 }
 
-/**
- * adjustImageUrls absolutises image src / link href against the local source URL
- * (http://localhost:8090/images/tatacars/x.jpg) - rewrite back to site-relative paths.
- */
-// Images live in the code repo (/images/tatacars/). They are referenced by absolute URL on the
-// live Edge Delivery host so they also resolve in Universal Editor on AEM author (where the
-// site-relative /images/... path does not exist) and can be ingested by Content Sync.
-const IMAGE_HOST = 'https://main--exp-mord-agent--kevalteknopoint.aem.live';
+// adjustImageUrls absolutises image src / link href against the local source URL
+// (http://localhost:8090/...): links go back to site-relative paths, images to their DAM path.
+// Images are uploaded to AEM Assets (package migration-work/packages/exp-mord-agent-design-images-*.zip,
+// /content/dam/exp-mord-agent/tatacars/) and referenced by DAM path, so they resolve in Universal Editor on
+// AEM author and are delivered with the page when it is published.
+const DAM_FOLDER = '/content/dam/exp-mord-agent/tatacars/';
 
 function relativizeUrls(main) {
   main.querySelectorAll('img[src]').forEach((img) => {
     const src = img.getAttribute('src');
-    const m = src.match(/^(?:https?:)?\/\/localhost(?::\d+)?(\/images\/tatacars\/[^?#]+)/i)
-      || src.match(/^(\/images\/tatacars\/[^?#]+)/i);
-    if (m) img.setAttribute('src', `${IMAGE_HOST}${m[1]}`);
+    const m = src.match(/\/images\/tatacars\/([^?#/]+)/i);
+    if (m) img.setAttribute('src', `${DAM_FOLDER}${m[1]}`);
   });
   main.querySelectorAll('a[href]').forEach((a) => {
     const m = a.getAttribute('href').match(/^(?:https?:)?\/\/localhost(?::\d+)?(\/[^#]*)?(#.*)?$/i);

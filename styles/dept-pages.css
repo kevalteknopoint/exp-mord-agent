@@ -148,7 +148,7 @@ body.dept main > .section.dept-bg-orange {
 /* ---------- article body sections ---------- */
 body.dept main > .section.dept-title-and-content,
 body.dept main > .section.dept-rich-text,
-body.dept main > .section.dept-statement {
+body.dept:not(.dept-home, .dept-brand) main > .section.dept-statement {
   padding-top: 80px;
   padding-bottom: 80px;
 }
@@ -268,7 +268,7 @@ body.dept main > .section.dept-highlighted-item-listing .default-content-wrapper
 
   body.dept main > .section.dept-title-and-content,
   body.dept main > .section.dept-rich-text,
-  body.dept main > .section.dept-statement {
+  body.dept:not(.dept-home, .dept-brand) main > .section.dept-statement {
     padding-top: 160px;
     padding-bottom: 160px;
   }

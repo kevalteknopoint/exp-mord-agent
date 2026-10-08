@@ -260,13 +260,13 @@ var CustomImportScript = (() => {
     const cells = [];
     cards.forEach((card) => {
       const imageFrag = document.createDocumentFragment();
-      const video = card.querySelector(".listing-card__media-container video.listing-card__video");
+      const video2 = card.querySelector(".listing-card__media-container video.listing-card__video");
       const img = card.querySelector(".listing-card__media-container img.listing-card__image");
-      if (video && video.getAttribute("src") || img) {
+      if (video2 && video2.getAttribute("src") || img) {
         imageFrag.appendChild(document.createComment(" field:image "));
       }
-      if (video) {
-        const videoSrc = video.getAttribute("src") || "";
+      if (video2) {
+        const videoSrc = video2.getAttribute("src") || "";
         const videoEl = document.createElement("a");
         videoEl.href = videoSrc;
         videoEl.textContent = videoSrc;
@@ -719,8 +719,12 @@ var CustomImportScript = (() => {
   function scrollyVideoIntro(elements, ctx) {
     return runParser(parse, elements, ctx);
   }
+  var TWO_COLUMN_VARIANTS = ["left-aligned-asset", "right-aligned-asset", "fifty-fifty-asset"];
+  var variantOf = (node) => node.getAttribute && node.getAttribute("data-variant") || "";
   function assetsAndCopy(elements, ctx) {
-    return runParser(parse2, elements, ctx);
+    const variant = variantOf(elements[0]);
+    if (!variant || TWO_COLUMN_VARIANTS.includes(variant)) return runParser(parse2, elements, ctx);
+    return elements.flatMap((e) => mediaAndContent(e, ctx));
   }
   function talkingPoints(elements, ctx) {
     return runParser(parse3, elements, ctx);
@@ -789,10 +793,10 @@ var CustomImportScript = (() => {
     const nodes = flatten(ctx.document, clone);
     return nodes;
   }
-  function highlightedItemListing([element], ctx) {
+  function highlightedItemListing([element], ctx, titleSel = ".block-highlighted-item-listing__title") {
     const { document } = ctx;
-    const out = titleAndCta(ctx, element, ".block-highlighted-item-listing__title", ".block-highlighted-item-listing__cta-button");
-    const cards = [...element.querySelectorAll(".universal-item-card, .block-highlighted-item-listing__cards > a")];
+    const out = titleAndCta(ctx, element, titleSel, ".block-highlighted-item-listing__cta-button");
+    const cards = [...element.querySelectorAll(".universal-item-card, .block-highlighted-item-listing__cards > a, .block-highlighted-cases__projects > a")];
     if (cards.length) {
       const rows = cards.map((card) => {
         const img = image(document, card.querySelector("img"));
@@ -859,10 +863,221 @@ var CustomImportScript = (() => {
     });
     return out;
   }
+  function videoSource(document, node) {
+    const iframe = node.querySelector("iframe[src], iframe[data-src]");
+    let url = "";
+    if (iframe) {
+      const src = iframe.getAttribute("src") || iframe.getAttribute("data-src") || "";
+      const yt = src.match(/youtube(?:-nocookie)?\.com\/embed\/([^?&/]+)/);
+      const vimeo = src.match(/player\.vimeo\.com\/video\/(\d+)/);
+      if (yt) url = `https://www.youtube.com/watch?v=${yt[1]}`;
+      else if (vimeo) url = `https://vimeo.com/${vimeo[1]}`;
+      else url = src;
+    }
+    const videoEl = node.matches("video") ? node : node.querySelector("video");
+    if (!url && videoEl) {
+      const source = videoEl.querySelector("source[src]");
+      url = videoEl.getAttribute("src") || source && source.getAttribute("src") || "";
+    }
+    if (url && url.startsWith("/")) url = `https://www.dept.global${url}`;
+    const posterEl = node.querySelector(".plyr__poster");
+    let poster = posterEl ? backgroundImage(document, posterEl) : null;
+    if (!poster && videoEl && videoEl.getAttribute("poster")) {
+      poster = document.createElement("img");
+      poster.src = videoEl.getAttribute("poster");
+      poster.alt = "";
+    }
+    return { url, poster };
+  }
+  function videoBlock(document, node, textNodes = []) {
+    const { url, poster } = videoSource(document, node);
+    if (!url) return null;
+    const cells = [
+      [field(document, "uri", linkParagraph(document, url, url))]
+    ];
+    if (poster || textNodes.length) cells.push([field(document, "poster", poster)]);
+    if (textNodes.length) cells.push([field(document, "text", textNodes)]);
+    return block(document, "video-embed", cells);
+  }
+  var PLAYER = '.plyr, .video, video, iframe[src*="youtube"], iframe[src*="vimeo"]';
+  function mediaAndContent(element, ctx) {
+    const { document } = ctx;
+    const clone = element.cloneNode(true);
+    const players = [...clone.querySelectorAll(PLAYER)].filter((p) => !p.parentElement || !p.parentElement.closest(PLAYER));
+    if (!players.length) return flatten(document, clone);
+    const blocks = players.map((p) => videoBlock(document, p));
+    players.forEach((p, i) => {
+      const marker = document.createElement("p");
+      marker.textContent = `@@video-${i}@@`;
+      p.replaceWith(marker);
+    });
+    const out = [];
+    flatten(document, clone).forEach((n) => {
+      const m = n.textContent.trim().match(/^@@video-(\d+)@@$/);
+      if (m) {
+        if (blocks[Number(m[1])]) out.push(blocks[Number(m[1])]);
+      } else {
+        out.push(n);
+      }
+    });
+    return out;
+  }
+  function video([element], ctx) {
+    const vb = videoBlock(ctx.document, element);
+    return vb ? [vb] : flatten(ctx.document, element);
+  }
+  function jumbotron([element], ctx) {
+    const { document } = ctx;
+    const title = text(element.querySelector(".jumbotron__title, h1, h2"));
+    const heading2 = title ? [el(document, "h2", title)] : [];
+    const vb = videoBlock(document, element, heading2);
+    if (vb) return [vb];
+    return flatten(document, element);
+  }
+  function authorLines(document, author) {
+    if (!author) return [];
+    const parts = author.innerHTML.split(/<br\s*\/?>/i).map((x) => x.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim()).filter(Boolean);
+    const out = [];
+    if (parts[0]) {
+      const p = el(document, "p");
+      p.append(el(document, "strong", parts[0]));
+      out.push(p);
+    }
+    if (parts[1]) out.push(el(document, "p", parts.slice(1).join(" ")));
+    return out;
+  }
+  function insightIntro([element], ctx) {
+    const { document } = ctx;
+    const img = image(document, pick(element, '[class*="__featured"]', "img:not(.author__portrait)"));
+    const title = pick(element, "h1");
+    const textNodes = [];
+    const badge = text(pick(element, '[class*="__badge"]'));
+    if (badge) textNodes.push(el(document, "p", badge));
+    if (title) textNodes.push(el(document, "h1", text(title)));
+    if (img && !img.alt && title) img.alt = text(title);
+    const portrait = image(document, pick(element, ".author__portrait"));
+    const details = authorLines(document, pick(element, ".author__text"));
+    element.querySelectorAll('[class*="__insight-meta-item"]').forEach((item) => {
+      const label = text(item.querySelector('[class*="meta-label"]'));
+      const value = [...item.querySelectorAll("span")].filter((sp) => !sp.matches('[class*="meta-label"]')).map(text).join(" ").trim();
+      if (value) details.push(el(document, "p", label ? `${label}: ${value}` : value));
+    });
+    const cells = [[field(document, "image", img)], [field(document, "text", textNodes)]];
+    if (portrait || details.length) {
+      cells.push([field(document, "portrait", portrait)]);
+      cells.push([field(document, "details", details)]);
+    }
+    return [block(document, "article-header (intro)", cells)];
+  }
+  function insightCta([element], ctx) {
+    const { document } = ctx;
+    const img = image(document, element.querySelector("img"));
+    const body = [];
+    const title = text(pick(element, '[class*="__title"]'));
+    if (title) body.push(el(document, "h2", title));
+    const desc = text(pick(element, 'p[class*="__text"]'));
+    if (desc) body.push(el(document, "p", desc));
+    const cta = pick(element, 'a[class*="__cta"]', "a.button-v2", "a[href]");
+    if (cta && cta.href) body.push(linkParagraph(document, cta.href, text(cta), true));
+    return [block(document, "cta-banner", [[field(document, "image", img)], [field(document, "text", body)]])];
+  }
+  function stats([element], ctx) {
+    const { document } = ctx;
+    const out = [];
+    const title = text(pick(element, '[class*="stats-and-copy__title"]', '[class*="stats-panel__title"]'));
+    if (title) out.push(el(document, "h2", title));
+    let items = [...element.querySelectorAll(".stats-item")];
+    if (!items.length) items = [...element.querySelectorAll('li[class*="__card"]')];
+    const rows = items.map((item) => {
+      const value = text(item.querySelector('.block-stats-item__stat, .stats-item__stat, [class*="card-title"]'));
+      const label = text(item.querySelector('.stats-item__heading, [class*="card-subtitle"]'));
+      if (!value && !label) return null;
+      const nodes = [];
+      if (value) nodes.push(el(document, "p", value));
+      if (label) nodes.push(el(document, "p", label));
+      return [field(document, "text", nodes)];
+    }).filter(Boolean);
+    if (rows.length) out.push(block(document, "stats-grid", rows));
+    else out.push(...flatten(document, element));
+    return out;
+  }
+  function nextCase([element], ctx) {
+    const { document } = ctx;
+    const img = image(document, element.querySelector("img"));
+    const body = [];
+    const label = text(element.querySelector(".next-case__label"));
+    if (label) body.push(el(document, "p", label));
+    const client = text(element.querySelector(".next-case__client"));
+    if (client) body.push(el(document, "h2", client));
+    const title = text(element.querySelector(".next-case__title"));
+    if (title) body.push(el(document, "p", title));
+    const tags = [...element.querySelectorAll(".next-case__tags li")].map((li) => text(li).replace(/[()]/g, "").trim()).filter(Boolean);
+    if (tags.length) body.push(el(document, "p", tags.join(", ")));
+    const cta = element.querySelector("a[href]");
+    if (cta) body.push(linkParagraph(document, cta.href, text(cta) || "View Work"));
+    return [block(document, "next-case", [[field(document, "image", img)], [field(document, "text", body)]])];
+  }
+  function panelSplit([element], ctx) {
+    const { document } = ctx;
+    const left = element.querySelector('[class*="__left"]');
+    const right = element.querySelector('[class*="__right"]');
+    if (!left || !right) return flatten(document, element);
+    return [block(document, "panel-split", [
+      [field(document, "left", flatten(document, left))],
+      [field(document, "right", flatten(document, right))]
+    ])];
+  }
+  function caseIntro([element], ctx) {
+    const { document } = ctx;
+    const categories = element.querySelector('[class*="__category-container"]');
+    const left = categories ? flatten(document, categories) : [];
+    const clone = element.cloneNode(true);
+    const cat = clone.querySelector('[class*="__category-container"]');
+    if (cat) cat.remove();
+    const right = flatten(document, clone);
+    if (!left.length) return right;
+    return [block(document, "panel-split (intro)", [
+      [field(document, "left", left)],
+      [field(document, "right", right)]
+    ])];
+  }
+  function highlightedCases([element], ctx) {
+    return highlightedItemListing([element], ctx, ".block-highlighted-cases__heading");
+  }
+  function casePostHeader([element], ctx) {
+    const { document } = ctx;
+    const out = [];
+    const back = element.querySelector('a[class*="back"]');
+    if (back && back.href) out.push(linkParagraph(document, back.href, text(back) || "Back"));
+    const h1 = element.querySelector("h1");
+    if (h1) out.push(el(document, "h1", text(h1)));
+    return out.length ? out : flatten(document, element);
+  }
+  function quote([element], ctx) {
+    const { document } = ctx;
+    const q = text(element.querySelector('.quote__heading, blockquote, [class*="__quote-text"], h2, h3'));
+    const by = text(element.querySelector('.quote__paragraph, [class*="__author"], cite'));
+    if (!q) return flatten(document, element);
+    const out = [el(document, "h2", q)];
+    if (by && by !== q) out.push(el(document, "p", by));
+    return out;
+  }
   var HANDLERS = {
     "scrolly-video-intro": { handler: scrollyVideoIntro, style: "dept-hero" },
     "statement-v2": { style: "dept-statement" },
-    "assets-and-copy": { handler: assetsAndCopy, style: "dept-features", group: true },
+    "assets-and-copy": {
+      handler: assetsAndCopy,
+      style: (node) => {
+        if (!variantOf(node) || TWO_COLUMN_VARIANTS.includes(variantOf(node))) return "dept-features";
+        const first = node.querySelector("h1, h2, h3, h4, p, img, picture, video, iframe, .plyr");
+        const textFirst = first && /^(H\d|P)$/.test(first.tagName) && text(first);
+        return `dept-assets-and-copy, dept-variant-${variantOf(node)}${textFirst ? ", dept-text-first" : ""}`;
+      },
+      // only the two-column rows (homepage feature rows) form one block; every other variant
+      // stays its own section, like on the source
+      group: true,
+      groupKey: (node) => !variantOf(node) || TWO_COLUMN_VARIANTS.includes(variantOf(node)) ? `two-column:${variantOf(node)}` : null
+    },
     "talking-points": { handler: talkingPoints, style: "dept-services" },
     "work-listing": { handler: workListing, style: "dept-work" },
     "title-with-cta": { handler: titleWithCta, style: "dept-solutions", joinNext: ["image-and-fact"] },
@@ -874,11 +1089,26 @@ var CustomImportScript = (() => {
     "title-and-content": { handler: titleAndContent },
     "highlighted-item-listing": { handler: highlightedItemListing },
     "get-in-touch": { handler: getInTouch },
-    "cta-text": { handler: ctaText }
+    "cta-text": { handler: ctaText },
+    video: { handler: video },
+    jumbotron: { handler: jumbotron },
+    "insight-intro": { handler: insightIntro, style: "dept-article-post-header" },
+    "insight-cta": { handler: insightCta },
+    "stats-panel": { handler: stats },
+    "stats-and-copy": { handler: stats },
+    "next-case": { handler: nextCase },
+    "panel-with-rich-text": { handler: panelSplit },
+    "panel-with-image-and-rich-text": { handler: panelSplit },
+    "highlighted-cases": { handler: highlightedCases, style: "dept-highlighted-item-listing" },
+    "case-post-header": { handler: casePostHeader },
+    "case-intro": { handler: caseIntro },
+    quote: { handler: quote },
+    "case-quote": { handler: quote, style: "dept-quote" }
   };
 
   // tools/importer/import-dept-site.js
   var LOCALES = ["en-au-b", "en-au", "en-in", "en-nl", "en-uki", "de-dach", "en-dk", "latam", "macedonia", "en"];
+  var FRAGMENT_LOCALE = { "en-au-b": "en-au", en: "" };
   var SKIP = /* @__PURE__ */ new Set(["flyout-drawer", "pardot-forms", "page-overlay", "tracking-blockers", "navigation", "footer-v2"]);
   var THEME = /(?:__theme|background-color)--([a-zA-Z]+)\b/;
   var DARK = ["onyxgrey", "richblack", "black", "darkgrey", "charcoal"];
@@ -898,7 +1128,11 @@ var CustomImportScript = (() => {
     return (classes[0] || node.tagName.toLowerCase()).replace(/__.*$/, "");
   }
   function themeStyles(node) {
-    const m = node.className.match(THEME);
+    let m = node.className.match(THEME);
+    if (!m) {
+      const column = [...node.children].find((child) => /--(richBlack|onyxGrey)\b/.test(child.className));
+      m = column && column.className.match(/--(richBlack|onyxGrey)\b/);
+    }
     const color = m && m[1].toLowerCase();
     if (!color || color === "white") return [];
     return DARK.includes(color) ? [`dept-bg-${color}`, "dept-dark"] : [`dept-bg-${color}`];
@@ -919,7 +1153,9 @@ var CustomImportScript = (() => {
       const prevPart = prev && prev.parts[prev.parts.length - 1];
       if (prevPart && !prefix.length) {
         const prevDef = HANDLERS[prevPart.name] || {};
-        if (prevPart.name === name && def.group) {
+        const key = def.groupKey ? def.groupKey(node) : "";
+        const sameGroup = key !== null && (!def.groupKey || def.groupKey(prevPart.elements[0]) === key);
+        if (prevPart.name === name && def.group && sameGroup) {
           prevPart.elements.push(node);
           return;
         }
@@ -939,6 +1175,7 @@ var CustomImportScript = (() => {
   }
   var import_dept_site_default = {
     transform: (payload) => {
+      var _a;
       const { document, url, params } = payload;
       const originalURL = params.originalURL || url;
       const { locale, type } = classify(originalURL);
@@ -968,15 +1205,21 @@ var CustomImportScript = (() => {
         meta.Image = img;
       }
       meta.template = "dept";
-      meta.theme = `dept-${type}`;
-      meta.nav = `${localePrefix}/nav`;
-      meta.footer = `${localePrefix}/footer`;
+      const brandDesign = !!document.querySelector('main [class*="text-sans-"]');
+      meta.theme = brandDesign ? `dept-${type}, dept-brand` : `dept-${type}`;
+      const fragmentLocale = (_a = FRAGMENT_LOCALE[locale]) != null ? _a : locale;
+      const fragmentPrefix = fragmentLocale ? `/dept/${fragmentLocale}` : "/dept";
+      meta.nav = `${fragmentPrefix}/nav`;
+      meta.footer = `${fragmentPrefix}/footer`;
       try {
         transform("beforeTransform", body, payload);
       } catch (e) {
         console.error("cleanup failed", e);
       }
       const sourceMain = document.querySelector("main") || body;
+      if (sourceMain.querySelector(":scope > .four-oh-four, .four-oh-four")) {
+        throw new Error("source page is a 404 (not found) page");
+      }
       const sections = buildSections(sourceMain);
       const out = document.createElement("div");
       const report = [];
@@ -996,8 +1239,10 @@ var CustomImportScript = (() => {
             result = elements.flatMap((x) => flatten(document, x));
           }
           nodes.push(...result);
-          const style = def.style || `dept-${name}`;
-          if (!styles.includes(style)) styles.push(style);
+          const style = (typeof def.style === "function" ? def.style(elements[0]) : def.style) || `dept-${name}`;
+          style.split(",").map((x) => x.trim()).forEach((x) => {
+            if (x && !styles.includes(x)) styles.push(x);
+          });
         });
         styles.push(...section.theme);
         nodes.forEach((n) => out.append(n));

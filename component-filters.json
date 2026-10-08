@@ -544,5 +544,11 @@
       "button",
       "title"
     ]
+  },
+  {
+    "id": "stats-grid",
+    "components": [
+      "stat"
+    ]
   }
 ]

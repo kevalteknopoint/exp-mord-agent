@@ -1,0 +1,79 @@
+/* Inline 16:9 video (dept.global video players) */
+main .video-embed {
+  position: relative;
+  overflow: hidden;
+  background: #121212;
+}
+
+main .video-embed .video-embed-media {
+  position: relative;
+  aspect-ratio: 16 / 9;
+}
+
+main .video-embed .video-embed-poster,
+main .video-embed .video-embed-poster img,
+main .video-embed .video-embed-frame,
+main .video-embed .video-embed-frame :is(iframe, video) {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+main .video-embed .video-embed-poster img,
+main .video-embed .video-embed-frame video {
+  object-fit: cover;
+}
+
+/* the poster fades out once the player is in place */
+main .video-embed .video-embed-poster {
+  z-index: 1;
+  transition: opacity 0.6s ease 0.8s;
+}
+
+main .video-embed.video-embed-playing .video-embed-poster {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* the source link stays for authors and as a no-JS fallback, hidden visually */
+main .video-embed .video-embed-source {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+main .video-embed .video-embed-text {
+  position: absolute;
+  z-index: 2;
+  left: 21px;
+  right: 21px;
+  bottom: 40px;
+  color: #fff;
+}
+
+main .video-embed .video-embed-text :is(h1, h2, h3) {
+  margin: 0;
+  color: #fff;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 46px;
+}
+
+@media (width >= 900px) {
+  main .video-embed .video-embed-text {
+    left: 64px;
+    right: 64px;
+    bottom: 80px;
+  }
+
+  main .video-embed .video-embed-text :is(h1, h2, h3) {
+    font-size: 80px;
+    line-height: 86px;
+  }
+}

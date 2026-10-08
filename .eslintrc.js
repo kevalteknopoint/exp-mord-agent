@@ -24,6 +24,8 @@ module.exports = {
       'page-metadata': 6,
       'calculator-emi': 13,
       'dealer-finder': 5,
+      // 4 content rows + the "classes" option (intro variant), which is not a cell
+      'article-header': 5,
     }],
   },
 };

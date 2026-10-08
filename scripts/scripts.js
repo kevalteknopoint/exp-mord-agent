@@ -29,6 +29,11 @@ const BLOCK_FOLDERS = {
     'article-header',
     'cards-related',
     'contact-specialist',
+    'video-embed',
+    'cta-banner',
+    'stats-grid',
+    'next-case',
+    'panel-split',
   ],
 };
 window.hlx = window.hlx || {};

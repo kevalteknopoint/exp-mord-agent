@@ -73,8 +73,8 @@ function splitWords(el) {
  */
 export default function decorate(main) {
   if (!main) return;
-  // the scroll reveals belong to the new homepage design (theme dept-home)
-  if (!document.body.classList.contains('dept-home')) return;
+  // the scroll reveals belong to the new brand design (themes dept-home / dept-brand)
+  if (!document.body.matches('.dept-home, .dept-brand')) return;
   if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
   if (document.querySelector('[data-aue-resource]')) return;
 

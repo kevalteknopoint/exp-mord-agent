@@ -19,6 +19,7 @@ import {
 } from './parsers/dept/utils.js';
 
 const LOCALES = ['en-au-b', 'en-au', 'en-in', 'en-nl', 'en-uki', 'de-dach', 'en-dk', 'latam', 'macedonia', 'en'];
+const FRAGMENT_LOCALE = { 'en-au-b': 'en-au', en: '' };
 const SKIP = new Set(['flyout-drawer', 'pardot-forms', 'page-overlay', 'tracking-blockers', 'navigation', 'footer-v2']);
 const THEME = /(?:__theme|background-color)--([a-zA-Z]+)\b/;
 const DARK = ['onyxgrey', 'richblack', 'black', 'darkgrey', 'charcoal'];
@@ -44,7 +45,12 @@ function componentName(node) {
 
 /** Section styles for the source background theme: dept-bg-<color> (+ dept-dark), none for white. */
 function themeStyles(node) {
-  const m = node.className.match(THEME);
+  // the theme sits on the component, or on its first-level columns (panels: __left--richBlack)
+  let m = node.className.match(THEME);
+  if (!m) {
+    const column = [...node.children].find((child) => /--(richBlack|onyxGrey)\b/.test(child.className));
+    m = column && column.className.match(/--(richBlack|onyxGrey)\b/);
+  }
   const color = m && m[1].toLowerCase();
   if (!color || color === 'white') return [];
   return DARK.includes(color) ? [`dept-bg-${color}`, 'dept-dark'] : [`dept-bg-${color}`];
@@ -67,7 +73,9 @@ function buildSections(sourceMain) {
     const prevPart = prev && prev.parts[prev.parts.length - 1];
     if (prevPart && !prefix.length) {
       const prevDef = HANDLERS[prevPart.name] || {};
-      if (prevPart.name === name && def.group) {
+      const key = def.groupKey ? def.groupKey(node) : '';
+      const sameGroup = key !== null && (!def.groupKey || def.groupKey(prevPart.elements[0]) === key);
+      if (prevPart.name === name && def.group && sameGroup) {
         prevPart.elements.push(node);
         return;
       }
@@ -115,9 +123,14 @@ export default {
       meta.Image = img;
     }
     meta.template = 'dept';
-    meta.theme = `dept-${type}`;
-    meta.nav = `${localePrefix}/nav`;
-    meta.footer = `${localePrefix}/footer`;
+    // pages built from the new brand components (text-sans-* type scale) use the homepage design
+    const brandDesign = !!document.querySelector('main [class*="text-sans-"]');
+    meta.theme = brandDesign ? `dept-${type}, dept-brand` : `dept-${type}`;
+    // locales without their own homepage use the header/footer of their parent site
+    const fragmentLocale = FRAGMENT_LOCALE[locale] ?? locale;
+    const fragmentPrefix = fragmentLocale ? `/dept/${fragmentLocale}` : '/dept';
+    meta.nav = `${fragmentPrefix}/nav`;
+    meta.footer = `${fragmentPrefix}/footer`;
 
     try {
       deptCleanupTransformer('beforeTransform', body, payload);
@@ -126,6 +139,10 @@ export default {
     }
 
     const sourceMain = document.querySelector('main') || body;
+    // pages listed in the sitemap that no longer exist render the 404 component: do not import them
+    if (sourceMain.querySelector(':scope > .four-oh-four, .four-oh-four')) {
+      throw new Error('source page is a 404 (not found) page');
+    }
     const sections = buildSections(sourceMain);
     const out = document.createElement('div');
     const report = [];
@@ -146,8 +163,10 @@ export default {
           result = elements.flatMap((x) => flatten(document, x));
         }
         nodes.push(...result);
-        const style = def.style || `dept-${name}`;
-        if (!styles.includes(style)) styles.push(style);
+        const style = (typeof def.style === 'function' ? def.style(elements[0]) : def.style) || `dept-${name}`;
+        style.split(',').map((x) => x.trim()).forEach((x) => {
+          if (x && !styles.includes(x)) styles.push(x);
+        });
       });
       styles.push(...section.theme);
       nodes.forEach((n) => out.append(n));

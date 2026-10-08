@@ -56,7 +56,7 @@ body.dept main {
 }
 
 /* homepage (theme dept-home): tight tracking of the new brand design */
-body.dept:where(.dept-home) main {
+body.dept:where(.dept-home, .dept-brand) main {
   letter-spacing: var(--dept-letter-spacing);
 }
 
@@ -87,7 +87,7 @@ body.dept main .default-content-wrapper a:any-link {
 }
 
 /* display headings: heavy uppercase */
-body.dept:where(.dept-home) main .default-content-wrapper :is(h1, h2) {
+body.dept:where(.dept-home, .dept-brand) main .default-content-wrapper :is(h1, h2) {
   font-size: var(--dept-display-size);
   font-weight: 900;
   line-height: var(--dept-display-line);
@@ -95,13 +95,13 @@ body.dept:where(.dept-home) main .default-content-wrapper :is(h1, h2) {
   text-transform: uppercase;
 }
 
-body.dept:where(.dept-home) main em {
+body.dept:where(.dept-home, .dept-brand) main em {
   color: var(--dept-color-orange);
   font-style: normal;
 }
 
 /* outline pill links ("View all work", "View all insights") */
-body.dept:where(.dept-home) main a.button:any-link {
+body.dept:where(.dept-home, .dept-brand) main a.button:any-link {
   display: inline-block;
   margin: 0;
   border: 1px solid var(--dept-color-black);
@@ -119,8 +119,8 @@ body.dept:where(.dept-home) main a.button:any-link {
   transition: color 0.3s var(--dept-ease), background-color 0.3s var(--dept-ease), border-color 0.3s var(--dept-ease);
 }
 
-body.dept:where(.dept-home) main a.button:hover,
-body.dept:where(.dept-home) main a.button:focus-visible {
+body.dept:where(.dept-home, .dept-brand) main a.button:hover,
+body.dept:where(.dept-home, .dept-brand) main a.button:focus-visible {
   background: var(--dept-color-black);
   color: var(--dept-color-white);
 }

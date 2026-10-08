@@ -1,117 +1,82 @@
 /* Block: columns-feature
- * Side-by-side layout: image left (~40%), text content right (~50%)
- * Extracted from source: deptagency.com .block-assets-and-copy
+ * One row per feature: 4:5 image left, title + copy + outline pill right, vertically centred.
+ * Values measured from https://www.dept.global/en-in/ .block-assets-and-copy (left-aligned-asset):
+ * every row is its own block there (padding 40px 0 mobile, 160px 0 40px from 62rem), a 12-column
+ * grid with 20px gaps on desktop, image in columns 1-5 and text in columns 7-11.
+ * The scroll reveal (words, slide-up copy, picture fade/scale) comes from templates/dept/dept.js,
+ * so no opacity/transform is set here; the <picture> stays a block-level wrapper it can transform.
  */
 
 .columns-feature > div {
-  display: flex;
-  flex-direction: column;
+  padding: 40px 0;
 }
 
-.columns-feature > div > div {
-  order: 1;
-}
-
+/* image */
 .columns-feature > div > .columns-feature-img-col {
-  order: 0;
+  margin-bottom: 80px;
+}
+
+.columns-feature > div > .columns-feature-img-col picture {
+  display: block;
 }
 
 .columns-feature > div > .columns-feature-img-col img {
   display: block;
   width: 100%;
   height: auto;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
 }
 
-.columns-feature h2 {
-  font-size: 28px;
-  font-weight: 400;
-  font-family: var(--heading-font-family);
-  line-height: 1;
-  letter-spacing: -0.025em;
-  text-transform: none;
-  color: var(--text-color);
+/* title: fluid 32px (375px) -> 48px (1065px+), same formula as the source's text-sans-48 */
+main .columns-feature > div > div > :is(h2, h3) {
   margin: 0 0 32px;
+  color: var(--dept-color-ink, #000);
+  font-size: clamp(2rem, 1.648rem + 1.502vw, 3rem);
+  font-weight: 400;
+  line-height: clamp(2.25rem, 1.986rem + 1.127vw, 3rem);
+  letter-spacing: -0.025em;
 }
 
-.columns-feature p {
-  font-size: 18px;
-  font-weight: 200;
-  font-family: var(--body-font-family);
-  line-height: 1.33;
-  color: var(--text-color);
+/* copy: fluid 20px -> 24px, extralight (source text-sans-24) */
+main .columns-feature > div > div > p {
   margin: 0 0 16px;
+  color: var(--dept-color-ink, #000);
+  font-size: clamp(1.25rem, 1.162rem + 0.376vw, 1.5rem);
+  font-weight: 200;
+  line-height: clamp(1.75rem, 1.664rem + 0.368vw, 1.995rem);
+  letter-spacing: -0.048em;
 }
 
-.columns-feature p:last-child {
+main .columns-feature > div > div > p:last-child {
   margin-bottom: 0;
 }
 
-.columns-feature .button-container {
-  margin-top: 32px;
-}
-
-main .columns-feature a.button:any-link {
-  background: none;
-  color: var(--link-color);
-  padding: 12px 24px;
-  border: 1px solid var(--link-color);
-  border-radius: 1600px;
+/* "Find out more": pill look + hover come from the dept theme (a.button); the flex container
+   keeps the paragraph exactly as tall as the pill (no line-box gap below it); position keeps the
+   pill above the copy while that slides up (translated 40px) during the scroll reveal */
+main .columns-feature > div > div > p.button-container {
+  position: relative;
+  display: flex;
   font-size: 16px;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: -0.05em;
-  text-decoration: none;
+  line-height: 20px;
 }
 
-main .columns-feature a.button:hover {
-  background-color: var(--text-color);
-  color: var(--background-color);
-}
-
-@media (width >= 900px) {
-  .columns-feature {
+@media (width >= 992px) {
+  .columns-feature > div {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    align-items: center;
+    column-gap: 20px;
     padding: 160px 0 40px;
   }
 
-  .columns-feature > div {
-    display: grid;
-    grid-template-columns: 5fr 1fr 5fr;
-    align-items: center;
-    gap: 0;
-  }
-
-  .columns-feature > div > div {
-    order: unset;
-  }
-
   .columns-feature > div > .columns-feature-img-col {
-    order: unset;
-    grid-column: 1;
-    grid-row: 1;
-  }
-
-  .columns-feature > div > .columns-feature-img-col img {
-    width: 100%;
-    height: 700px;
-    object-fit: cover;
+    grid-area: 1 / 1 / auto / span 5;
+    margin-bottom: 0;
   }
 
   .columns-feature > div > div:not(.columns-feature-img-col) {
-    grid-column: 3;
-    grid-row: 1;
-  }
-
-  .columns-feature h2 {
-    font-size: 48px;
-    line-height: 1;
-    letter-spacing: -0.025em;
-    margin: 0 0 32px;
-  }
-
-  .columns-feature p {
-    font-size: 24px;
-    font-weight: 200;
-    line-height: 1.33;
+    grid-area: 1 / 7 / auto / span 5;
   }
 }

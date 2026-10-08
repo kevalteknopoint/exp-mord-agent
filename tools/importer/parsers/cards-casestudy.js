@@ -3,9 +3,9 @@
 /**
  * Parser for cards-casestudy
  * Base block: cards
- * Source: https://www.deptagency.com/en-in/
+ * Source: https://www.dept.global/en-in/
  * Selector: .block-work-listing__items
- * Generated: 2026-05-25
+ * Generated: 2026-05-25 / Re-validated against dept.global DOM: 2026-10-08
  *
  * Structure (container block):
  *   Each card row = [image, text]
@@ -19,10 +19,12 @@ export default function parse(element, { document }) {
   cards.forEach((card) => {
     // --- Image/Media cell ---
     const imageFrag = document.createDocumentFragment();
-    imageFrag.appendChild(document.createComment(' field:image '));
-
     const video = card.querySelector('.listing-card__media-container video.listing-card__video');
     const img = card.querySelector('.listing-card__media-container img.listing-card__image');
+    // Hint only when the media cell has content
+    if ((video && video.getAttribute('src')) || img) {
+      imageFrag.appendChild(document.createComment(' field:image '));
+    }
 
     if (video) {
       // For video cards, create an image placeholder from video src (poster frame)
@@ -42,7 +44,9 @@ export default function parse(element, { document }) {
 
     const href = card.getAttribute('href') || '';
     const brandNameEl = card.querySelector('.listing-card__meta p.listing-card__title');
-    const hoverTitle = card.querySelector('.listing-card__hover-card-title span');
+    // NOTE: html2md preProcess (DOMUtils.removeSpans) unwraps class-less <span>s before
+    // parsers run, so read text from the classed containers, never from inner spans.
+    const hoverTitle = card.querySelector('.listing-card__hover-card-title');
     const tagEls = card.querySelectorAll('.listing-card__tags .listing-card__tag');
 
     // Build text content: brand name as heading, description, tags
@@ -54,9 +58,9 @@ export default function parse(element, { document }) {
       textFrag.appendChild(heading);
     }
 
-    if (hoverTitle) {
+    if (hoverTitle && hoverTitle.textContent.trim()) {
       const desc = document.createElement('p');
-      desc.textContent = hoverTitle.textContent.trim();
+      desc.textContent = hoverTitle.textContent.replace(/\s+/g, ' ').trim();
       textFrag.appendChild(desc);
     }
 
@@ -65,14 +69,9 @@ export default function parse(element, { document }) {
       const tagsP = document.createElement('p');
       const tagTexts = [];
       tagEls.forEach((tagLi) => {
-        // Extract only the middle span (category name), skip parentheses spans
-        const spans = tagLi.querySelectorAll('span');
-        spans.forEach((span) => {
-          const text = span.textContent.trim();
-          if (text !== '(' && text !== ')') {
-            tagTexts.push(text);
-          }
-        });
+        // "( Category )" -> "Category" (works with or without the inner spans)
+        const text = tagLi.textContent.replace(/[()\u00a0]/g, ' ').replace(/\s+/g, ' ').trim();
+        if (text) tagTexts.push(text);
       });
       tagsP.textContent = tagTexts.join(', ');
       textFrag.appendChild(tagsP);

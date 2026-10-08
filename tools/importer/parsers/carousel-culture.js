@@ -4,9 +4,9 @@
 /**
  * Parser: carousel-culture
  * Base block: carousel
- * Source: https://www.deptagency.com/en-in/
+ * Source: https://www.dept.global/en-in/
  * Selector: .block-feature-turntable
- * Generated: 2026-05-25
+ * Generated: 2026-05-25 / Re-validated against dept.global DOM: 2026-10-08
  *
  * Container block - each slide becomes one row.
  * UE Model fields per item:
@@ -31,14 +31,16 @@ export default function parse(element, { document }) {
 
     // Column 1: media_image with field hint
     const mediaFrag = document.createDocumentFragment();
-    mediaFrag.appendChild(document.createComment(' field:media_image '));
     if (image) {
+      mediaFrag.appendChild(document.createComment(' field:media_image '));
       mediaFrag.appendChild(image);
     }
 
     // Column 2: content_text (richtext combining title + description) with field hint
     const contentFrag = document.createDocumentFragment();
-    contentFrag.appendChild(document.createComment(' field:content_text '));
+    if (title || description) {
+      contentFrag.appendChild(document.createComment(' field:content_text '));
+    }
     if (title) {
       contentFrag.appendChild(title);
     }

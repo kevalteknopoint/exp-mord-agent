@@ -13,6 +13,9 @@ import {
   loadCSS,
 } from './aem.js';
 
+// page templates (page metadata "template") that load templates/<name>/<name>.js
+const TEMPLATE_SCRIPTS = ['dept'];
+
 /**
  * Moves all the attributes from a given elmenet to another given element.
  * @param {Element} from the element to copy attributes from
@@ -157,6 +160,19 @@ async function loadLazy(doc) {
 
   loadCSS(`${window.hlx.codeBasePath}/styles/lazy-styles.css`);
   loadFonts();
+
+  // templates with their own behavior (e.g. scroll animations) ship templates/<name>/<name>.js
+  const template = getMetadata('template');
+  if (TEMPLATE_SCRIPTS.includes(template)) {
+    try {
+      const { codeBasePath } = window.hlx;
+      const mod = await import(`${codeBasePath}/templates/${template}/${template}.js`);
+      if (mod.default) await mod.default(main);
+    } catch (e) {
+      // eslint-disable-next-line no-console
+      console.error(`failed to load template script ${template}`, e);
+    }
+  }
 }
 
 /**

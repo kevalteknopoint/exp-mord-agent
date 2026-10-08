@@ -4,67 +4,96 @@
 /**
  * Parser: cards-solutions
  * Base block: cards
- * Source: https://www.deptagency.com/en-in/
+ * Source: https://www.dept.global/en-in/
  * Selector: .block-talking-points
- * Generated: 2026-05-25
+ * Updated: 2026-10-08 (re-validated against dept.global DOM)
  *
- * Container block — each card item becomes one row with columns: image | text
+ * Source: numbered list of 4 links `a.block-talking-points__item` (number, title,
+ * hover description + hover image inside `.block-talking-points__items-hover-container`).
+ * Iterates the `<li>` wrappers (not the anchors) to stay immune to inline-merge drift.
+ *
+ * Container block — each item becomes one row: image | text
  * UE model fields per card: image (reference), text (richtext)
+ * Number (01..04) is not authored — the block JS generates it from row index.
+ * Section heading (.block-talking-points__title) and intro (.block-talking-points__subtitle)
+ * are kept as default content before the block.
  */
 export default function parse(element, { document }) {
-  // Get all card items from the talking points list
-  const items = element.querySelectorAll('.block-talking-points__items > li');
+  let items = [...element.querySelectorAll('.block-talking-points__items > li')];
+  if (!items.length) items = [...element.querySelectorAll('a.block-talking-points__item')];
+
+  // Default content preserved before the block
+  const defaultContent = [];
+  const title = element.querySelector('.block-talking-points__title');
+  if (title && title.textContent.trim()) {
+    const h2 = document.createElement('h2');
+    h2.textContent = title.textContent.replace(/\s+/g, ' ').trim();
+    defaultContent.push(h2);
+  }
+  const subtitle = element.querySelector('.block-talking-points__subtitle');
+  if (subtitle && subtitle.textContent.trim()) {
+    const p = document.createElement('p');
+    p.textContent = subtitle.textContent.replace(/\s+/g, ' ').trim();
+    defaultContent.push(p);
+  }
 
   const cells = [];
 
   items.forEach((item) => {
-    // Extract image from the hover container
-    const image = item.querySelector('.block-talking-points__item-image');
-
-    // Build the text content: title + description + link
+    const link = item.matches('a') ? item : item.querySelector('a.block-talking-points__item, a[href]');
+    const image = item.querySelector('img.block-talking-points__item-image, .block-talking-points__item-image-container img');
     const titleSpan = item.querySelector('.block-talking-points__item-text');
     const hoverDescSpan = item.querySelector('.block-talking-points__items-hover-container > span.is-fancy-serif');
-    const link = item.querySelector('a.block-talking-points__item');
 
-    // Build image cell with field hint
+    // Image cell (hint only when an image exists)
     const imageCell = document.createDocumentFragment();
-    imageCell.appendChild(document.createComment(' field:image '));
-    if (image) {
+    if (image && image.getAttribute('src')) {
+      imageCell.appendChild(document.createComment(' field:image '));
       const img = document.createElement('img');
-      img.src = image.src;
-      img.alt = image.alt || '';
+      img.src = image.getAttribute('src');
+      img.alt = image.getAttribute('alt') || '';
       imageCell.appendChild(img);
     }
 
-    // Build text cell with field hint
-    const textCell = document.createDocumentFragment();
-    textCell.appendChild(document.createComment(' field:text '));
-
-    // Add title as heading
-    if (titleSpan) {
+    // Text cell: H3 title + description + link
+    const textParts = [];
+    const titleText = titleSpan ? titleSpan.textContent.replace(/\s+/g, ' ').trim() : '';
+    if (titleText) {
       const heading = document.createElement('h3');
-      heading.textContent = titleSpan.textContent.trim();
-      textCell.appendChild(heading);
+      heading.textContent = titleText;
+      textParts.push(heading);
     }
-
-    // Add description paragraph
-    if (hoverDescSpan) {
+    if (hoverDescSpan && hoverDescSpan.textContent.trim()) {
       const desc = document.createElement('p');
-      desc.textContent = hoverDescSpan.textContent.trim();
-      textCell.appendChild(desc);
+      desc.textContent = hoverDescSpan.textContent.replace(/\s+/g, ' ').trim();
+      textParts.push(desc);
+    }
+    if (link && link.getAttribute('href')) {
+      const p = document.createElement('p');
+      const cta = document.createElement('a');
+      cta.href = link.getAttribute('href');
+      cta.textContent = titleText || 'Learn more';
+      p.appendChild(cta);
+      textParts.push(p);
     }
 
-    // Add link/CTA if available
-    if (link) {
-      const cta = document.createElement('a');
-      cta.href = link.href;
-      cta.textContent = titleSpan ? titleSpan.textContent.trim() : 'Learn more';
-      textCell.appendChild(cta);
+    if (!textParts.length && !imageCell.childNodes.length) return;
+
+    const textCell = document.createDocumentFragment();
+    if (textParts.length) {
+      textCell.appendChild(document.createComment(' field:text '));
+      textParts.forEach((el) => textCell.appendChild(el));
     }
 
     cells.push([imageCell, textCell]);
   });
 
+  if (!cells.length) {
+    element.replaceWith(...defaultContent);
+    return;
+  }
+
   const block = WebImporter.Blocks.createBlock(document, { name: 'cards-solutions', cells });
+  defaultContent.forEach((el) => element.before(el));
   element.replaceWith(block);
 }

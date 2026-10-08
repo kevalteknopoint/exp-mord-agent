@@ -1,136 +1,114 @@
-/* Block: hero-video */
+/* Block: hero-video (source: dept.global .block-scrolly-video-intro) */
 
-/* Full-width hero with large heading, outline CTA pill button, and embedded YouTube video */
-
-/* Full-width wrapper override */
-.hero-video-wrapper {
-  max-width: 100% !important;
-  padding: 0 !important;
-}
-
+/*
+ * Authored rows: 1 = video link, 2 = h1 + CTA. Rows are re-ordered so the text sits
+ * above the video. On /dept the section (.section.dept-hero) supplies the top padding
+ * and 21px gutters; --dept-* tokens fall back to the site tokens elsewhere.
+ */
 .hero-video {
   display: flex;
   flex-direction: column;
-  align-items: center;
   text-align: center;
-  padding: 48px 20px 0;
-  margin: 0;
-  background-color: var(--background-color);
-  color: var(--text-color);
 }
 
-/* Row layout - stack vertically, video row first reversed to bottom via order */
-.hero-video > div {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-
-.hero-video > div > div {
-  width: 100%;
-  max-width: 1400px;
-}
-
-/* Row 1: Video container */
+/* video row */
 .hero-video > div:first-child {
   order: 2;
-  margin-top: 60px;
 }
 
-/* Row 2: Text content */
+/* text row */
 .hero-video > div:last-child {
   order: 1;
 }
 
-/* Heading */
-.hero-video h1 {
-  font-size: var(--heading-size-xxl);
-  font-weight: 900;
-  font-family: var(--heading-font-family);
-  line-height: 0.86;
-  letter-spacing: -0.03em;
-  text-transform: uppercase;
-  color: var(--text-color);
-  margin: 0 auto 80px;
-  max-width: 792px;
+/* flex column so title and CTA margins add up (source is a grid) instead of collapsing */
+.hero-video > div:last-child > div {
+  display: flex;
+  flex-direction: column;
 }
 
-/* Accent color for emphasized word "GROWTH" */
-.hero-video h1 em,
-.hero-video h1 strong em,
-.hero-video h1 i {
-  color: rgb(255 73 1);
+/* .block raises specificity over the dept.css "body.dept main :is(h1, ...)" / ".button-container" resets */
+.hero-video.block h1 {
+  max-width: 792px;
+  margin: 0 auto 60px;
+  color: var(--dept-color-ink, var(--text-color));
+  font-size: var(--dept-display-size, clamp(44px, calc(6.385vw + 20px), 112px));
+  font-weight: 900;
+  line-height: var(--dept-display-line, 0.97);
+  letter-spacing: var(--dept-display-tracking, -0.03em);
+  text-transform: uppercase;
+}
+
+.hero-video h1 em {
+  color: var(--dept-color-orange, #ff4901);
   font-style: normal;
 }
 
-/* CTA button - pill/outline style */
-main .hero-video a.button:any-link {
-  padding: 18px 60px 16px;
-  border: 1px solid var(--link-color);
-  border-radius: 1600px;
-  font-size: 16px;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: -0.05em;
-  color: var(--link-color);
-  background: none;
-  display: inline-block;
+/* CTA: outline pill from dept.css, centred */
+.hero-video.block .button-container {
+  display: flex;
+  justify-content: center;
+  margin: 28px 0;
 }
 
-main .hero-video a.button:hover {
-  background-color: var(--text-color);
-  color: var(--background-color);
-}
-
-/* Video embed area */
+/* video: full content width, 16:9, black letterbox, square corners */
 .hero-video .video-embed {
   position: relative;
   width: 100%;
-  max-width: 1400px;
   aspect-ratio: 16 / 9;
-  margin: 0 auto;
+  overflow: hidden;
+  background-color: #000;
 }
 
 .hero-video .video-embed iframe {
   position: absolute;
-  top: 0;
-  left: 0;
+  inset: 0;
   width: 100%;
   height: 100%;
   border: 0;
 }
 
-/* Fallback link styling for the video URL */
+/* fallback when the link is not a YouTube URL */
 .hero-video > div:first-child a {
   color: var(--link-color);
-  text-decoration: underline;
   font-size: 14px;
+  text-decoration: underline;
 }
 
-/* Hide the paragraph wrapping the video link when iframe is present */
-.hero-video > div:first-child .video-embed ~ p {
-  display: none;
-}
-
-/* Desktop refinements */
-@media (width >= 900px) {
+/*
+ * Scroll-linked intro (desktop, motion allowed): the video grows from 32.5% to full width
+ * from its top-centre; title and CTA stay put (as on the live source).
+ * --hero-video-progress (0..1, eased) is driven by hero-video.js.
+ */
+@media (width >= 992px) and (prefers-reduced-motion: no-preference) {
   .hero-video {
-    padding: 75px 20px 0;
+    --hero-video-progress: 0;
+    --hero-video-scale-from: 0.325;
   }
 
-  .hero-video h1 {
-    font-size: 112px;
-    line-height: 96px;
-    letter-spacing: -3.36px;
-    margin: 0 auto 140px;
-    max-width: 792px;
+  .hero-video .video-embed {
+    transform: scale(calc(var(--hero-video-scale-from) + (1 - var(--hero-video-scale-from)) * var(--hero-video-progress)));
+    transform-origin: 50% 0;
+  }
+}
+
+@media (width > 1800px) and (prefers-reduced-motion: no-preference) {
+  .hero-video {
+    --hero-video-scale-from: 0.5;
+  }
+}
+
+/* large desktop spacing (source switches at 1440px) */
+@media (width >= 1440px) {
+  .hero-video.block h1 {
+    margin-bottom: 140px;
   }
 
-  .hero-video > div:first-child {
-    margin-top: 80px;
+  .hero-video.block .button-container {
+    margin: 52px 0 76px;
   }
 
-  main .hero-video a.button:any-link {
+  main .hero-video .button-container a.button:any-link {
     padding: 18px 60px 16px;
   }
 }

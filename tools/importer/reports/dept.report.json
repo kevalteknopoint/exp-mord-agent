@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/",
+  "path": "dept",
+  "timestamp": "2026-10-08T10:24:49.715Z",
+  "title": "DEPT® | Growth Invention | Tech & Marketing",
+  "template": "dept",
+  "blocks": [
+    "hero-video",
+    "columns-feature",
+    "columns-feature",
+    "cards-solutions",
+    "cards-casestudy",
+    "cards-solution-rows",
+    "cards-solution-rows",
+    "cards-solution-rows",
+    "cards-solution-rows",
+    "cards-solution-rows",
+    "carousel-culture",
+    "cards-insights"
+  ]
+}

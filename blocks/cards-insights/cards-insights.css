@@ -1,95 +1,253 @@
-/* Block: cards-insights -- 4-column insight/article card grid */
+/*
+ * Block: cards-insights -- insight/article listing cards (source: dept.global listing-card-v2 is-four-five)
+ * Values measured from https://www.dept.global/en-in/ (.block-custom-listing__items).
+ * Source breakpoints: 62rem (992px) 4-column grid, 90rem (1440px) larger row gap.
+ */
 
-/* Card grid layout */
+/* ---------- grid ---------- */
 .cards-insights > ul {
   list-style: none;
   margin: 0;
   padding: 0;
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 52px;
 }
 
-@media (width >= 600px) {
-  .cards-insights > ul {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (width >= 900px) {
-  .cards-insights > ul {
-    grid-template-columns: repeat(4, 1fr);
-    gap: 72px 20px;
-  }
-}
-
-/* Card item */
+/* ---------- card ---------- */
 .cards-insights > ul > li {
-  background-color: var(--background-color);
-  border: none;
-  display: grid;
-  grid-template-rows: auto 1fr;
-}
-
-/* Card image container */
-.cards-insights .cards-insights-card-image {
-  line-height: 0;
-  overflow: clip;
-}
-
-.cards-insights .cards-insights-card-image p {
+  position: relative;
   margin: 0;
+  color: var(--dept-color-ink, #000);
+  font-size: 16px;
+  line-height: 24px;
+  transition:
+    color 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1)),
+    background-color 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1)),
+    opacity 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1));
+}
+
+.cards-insights > ul > li p {
+  margin: 0;
+}
+
+/* image (4:5). The picture fades/scales in via the /dept template reveal, so only the img is styled here */
+.cards-insights .cards-insights-card-image {
+  position: relative;
+  isolation: isolate;
+  overflow: clip;
   line-height: 0;
 }
 
-.cards-insights > ul > li img {
+.cards-insights .cards-insights-card-image img {
+  display: block;
   width: 100%;
+  height: auto;
   aspect-ratio: 4 / 5;
   object-fit: cover;
-  display: block;
+  background-color: var(--dept-color-muted, #767676);
+  transition:
+    transform 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1)),
+    scale 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1));
 }
 
-/* Card body */
+/* ---------- meta: "type tags" / "title title" ---------- */
 .cards-insights .cards-insights-card-body {
-  padding: 16px 0 0;
-  margin: 0;
   display: grid;
-  gap: 8px;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 8px 16px;
+  padding-top: 12px;
 }
 
-/* Reset button styling - source shows plain text links, not buttons */
-.cards-insights .cards-insights-card-body p {
-  margin: 0;
+/* type tag (Case Study / Insight / Whitepaper) */
+.cards-insights .cards-insights-card-body .cards-insights-type {
+  grid-column: 1;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 8px 6px;
+  border-radius: 4px;
+  background-color: #c4c4c4;
+  color: var(--dept-color-black, #121212);
+  font-size: 14px;
+  line-height: 1.43;
+  letter-spacing: -0.05em;
+  white-space: nowrap;
 }
 
-.cards-insights .cards-insights-card-body p.button-container {
+.cards-insights .cards-insights-type[data-type='case-study'] {
+  background-color: #888eff;
+}
+
+.cards-insights .cards-insights-type[data-type='insight'] {
+  background-color: #ffe61c;
+}
+
+.cards-insights .cards-insights-type[data-type='whitepaper'] {
+  background-color: #57ee6f;
+}
+
+.cards-insights .cards-insights-type-icon,
+.cards-insights .cards-insights-type-icon svg {
   display: block;
+  width: 16px;
+  height: 16px;
 }
 
-main .cards-insights a.button:any-link {
-  display: block;
-  padding: 0;
-  border: none;
-  border-radius: 0;
-  background: none;
-  color: var(--text-color);
-  font-size: 24px;
+/* topic tags, rendered as "( Tag )" */
+.cards-insights .cards-insights-card-body .cards-insights-tags {
+  grid-column: 2;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 8px;
+  color: var(--dept-color-muted, #767676);
+  font-size: 16px;
+  line-height: 1.25;
+  letter-spacing: -0.05em;
+}
+
+.cards-insights .cards-insights-tag::before {
+  content: '(\00a0';
+}
+
+.cards-insights .cards-insights-tag::after {
+  content: '\00a0)';
+}
+
+/* title (fluid 20px at 375px to 24px at 1440px, like the source) */
+.cards-insights .cards-insights-card-body .cards-insights-title {
+  grid-column: 1 / -1;
+  color: var(--dept-color-black, #121212);
+  font-size: max(20px, min(calc(18.592px + 0.376vw), 24px));
   font-weight: 400;
-  font-family: var(--body-font-family);
-  line-height: 1.33;
+  line-height: max(28px, min(calc(26.624px + 0.368vw), 31.92px));
   letter-spacing: -0.048em;
-  text-transform: none;
+}
+
+.cards-insights .cards-insights-title a:any-link,
+.cards-insights .cards-insights-title a:hover {
+  color: inherit;
   text-decoration: none;
-  white-space: normal;
 }
 
-main .cards-insights a.button:hover {
-  background: none;
-  color: var(--text-color);
-  text-decoration: underline;
+/* the whole card is the link, like on the source */
+.cards-insights .cards-insights-title-link a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
 }
 
-/* Section-level: heading + pill CTA on same row */
+/* ---------- hover card (over the image) ---------- */
+.cards-insights .cards-insights-card-body .cards-insights-hover {
+  position: absolute;
+  inset: 0 0 auto;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 32px;
+  box-sizing: border-box;
+  aspect-ratio: 4 / 5;
+  padding: 24px 36px;
+  background-color: #1027ef;
+  color: var(--dept-color-white, #fff);
+  text-align: center;
+  opacity: 0;
+  overflow: clip;
+  container-type: size;
+  transition:
+    color 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1)),
+    background-color 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1)),
+    opacity 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1));
+}
+
+/* the source scales the card 105% -> 100% inside the clipped image; the card here is not
+   inside the image cell, so its content scales while the card itself stays within the image */
+.cards-insights .cards-insights-hover > * {
+  max-width: 720px;
+  transition: scale 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1));
+}
+
+.cards-insights .cards-insights-hover a:any-link,
+.cards-insights .cards-insights-hover a:hover {
+  color: inherit;
+  font-size: max(32px, min(11.5cqmin, 80px));
+  font-weight: 700;
+  line-height: 0.85;
+  letter-spacing: -0.05em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/* the hover card is the click target over the image */
+.cards-insights .cards-insights-hover a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+.cards-insights .cards-insights-hover-tag {
+  display: block;
+  padding: 10px 24px;
+  border: 1px solid var(--dept-color-black, #121212);
+  border-radius: 9999px;
+  background-color: var(--dept-color-white, #fff);
+  color: var(--dept-color-black, #121212);
+  font-size: 16px;
+  line-height: 1.25;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+}
+
+.cards-insights > ul > li:hover .cards-insights-hover,
+.cards-insights > ul > li:focus-within .cards-insights-hover {
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .cards-insights .cards-insights-hover > * {
+    scale: 1.05;
+  }
+
+  .cards-insights > ul > li:hover .cards-insights-hover > *,
+  .cards-insights > ul > li:focus-within .cards-insights-hover > * {
+    scale: none;
+  }
+}
+
+@media (pointer: coarse) {
+  .cards-insights .cards-insights-hover-tag {
+    display: none;
+  }
+}
+
+@media (width >= 992px) {
+  .cards-insights > ul {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    align-items: start;
+    column-gap: 20px;
+  }
+
+  .cards-insights .cards-insights-card-body {
+    padding-top: 16px;
+  }
+
+  .cards-insights .cards-insights-card-body .cards-insights-hover {
+    padding: 36px 60px 64px;
+  }
+}
+
+@media (width >= 1440px) {
+  .cards-insights > ul {
+    row-gap: 72px;
+  }
+}
+
+/* ---------- section: heading + pill CTA on the same row ---------- */
 .cards-insights-wrapper ~ .default-content-wrapper,
 .default-content-wrapper:has(+ .cards-insights-wrapper) {
   display: flex;

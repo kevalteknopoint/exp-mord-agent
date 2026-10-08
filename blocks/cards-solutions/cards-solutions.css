@@ -1,178 +1,256 @@
-/* Block: cards-solutions -- Numbered interactive solutions list */
-
-/* Based on source .block-talking-points computed styles */
+/*
+ * cards-solutions -- numbered talking-points list with hover reveal.
+ * Source: https://www.dept.global/en-in/ ul.block-talking-points__items (values measured
+ * with getComputedStyle at 375px / 1440px; source breakpoints 48rem, 62rem, 90rem kept).
+ * Fine pointer: on hover/focus the title slides up out of the row, the orange description
+ * slides in from below, the 16:9 image rises inside its clip box and the arrow slides in.
+ * Coarse pointer (touch): description is always shown under the title, arrow visible.
+ */
 
 .cards-solutions {
-  padding: 40px 0;
+  /* source --motion-spring-snappy */
+  --cards-solutions-spring: linear(0, 0.0014, 0.0053 1.02%, 0.0126, 0.0227 2.18%, 0.0517 3.41%, 0.094 4.79%, 0.1865 7.26%, 0.4182 12.77%, 0.5246 15.46%, 0.6249, 0.7112, 0.7831 23.95%, 0.8146 25.4%, 0.844, 0.8699 28.45%, 0.8935, 0.9139 31.64%, 0.932, 0.9473, 0.9601 36.65%, 0.9714 38.47%, 0.9808 40.35%, 0.9948 44.49%, 1.0031 49.43%, 1.0057 53.35%, 1.0063 58.14%, 1.0014 80.78%, 1.0001 99.94%);
+  --cards-solutions-line: var(--dept-color-muted, #767676);
+
+  padding-bottom: 30px;
 }
 
 .cards-solutions > ul {
-  list-style: none;
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 
 .cards-solutions > ul > li {
   margin: 0;
-  padding: 0;
-}
-
-/* Link item - grid layout matching source */
-.cards-solutions .cards-solutions-item {
-  display: grid;
-  grid-template-columns: 60px 1fr auto;
-  align-items: center;
-  padding: 24px 0;
-  min-height: 80px;
-  border-bottom: 1px solid rgb(118 118 118);
-  text-decoration: none;
-  color: rgb(118 118 118);
-  transition: color 0.3s ease;
-}
-
-/* Number */
-.cards-solutions .cards-solutions-item-number {
   font-size: 16px;
+  line-height: 24px;
+}
+
+/* row */
+.cards-solutions .cards-solutions-item {
+  position: relative;
+  display: grid;
+  grid-template:
+    'number title arrow' auto
+    '. subtitle .' auto / auto 1fr auto;
+  box-sizing: border-box;
+  padding-block: 12px;
+  border-bottom: 1px solid var(--cards-solutions-line);
+  color: var(--dept-color-black, #121212);
+  text-decoration: none;
+  transition: color 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1));
+}
+
+.cards-solutions .cards-solutions-item:focus {
+  outline: none;
+}
+
+.cards-solutions .cards-solutions-item:focus-visible {
+  border-radius: 4px;
+  outline: 2px solid currentcolor;
+  outline-offset: 2px;
+  color: var(--dept-color-black, #121212);
+}
+
+.cards-solutions > ul > li:first-child .cards-solutions-item {
+  border-top: 1px solid var(--cards-solutions-line);
+}
+
+/* number (text-sans-20-24 is-bold-sans) */
+.cards-solutions .cards-solutions-item-number {
+  grid-area: number;
+  align-self: end;
+  margin-right: 20px;
+  font-size: clamp(20px, calc(1.162rem + 0.376vw), 24px);
   font-weight: 900;
-  color: rgb(118 118 118);
-  line-height: 1.33;
+  line-height: clamp(28px, calc(1.664rem + 0.368vw), 31.92px);
+  letter-spacing: -0.048em;
+  text-transform: uppercase;
+  transition: color 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1));
 }
 
-/* Title container */
+/* title wrapper (text-sans-24-32): contents, so title + hover box sit in the row grid */
 .cards-solutions .cards-solutions-item-title {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0 16px;
+  display: contents;
+  font-size: clamp(24px, calc(1.324rem + 0.751vw), 32px);
+  line-height: clamp(32px, calc(1.756rem + 0.826vw), 40px);
+  letter-spacing: -0.042em;
 }
 
-/* Title text */
 .cards-solutions .cards-solutions-item-text {
-  font-size: 24px;
+  grid-area: title;
+  margin: 0;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
   font-weight: 400;
-  color: rgb(118 118 118);
-  line-height: 1.25;
-  transition: color 0.3s ease;
+  line-height: inherit;
+  letter-spacing: inherit;
+  translate: 0 0.025lh;
 }
 
-/* Description - hidden by default, shown on hover */
-.cards-solutions .cards-solutions-item-description {
-  display: none;
-  font-size: 24px;
+/* description + image */
+.cards-solutions .cards-solutions-item-hover {
+  grid-area: subtitle;
+  color: var(--dept-color-orange, #ff4901);
   font-weight: 600;
-  font-style: italic;
-  color: rgb(255 73 1);
-  line-height: 1.25;
 }
 
-/* Image container - hidden by default */
+.cards-solutions .cards-solutions-item-description {
+  margin: 0;
+  font: inherit;
+  letter-spacing: inherit;
+}
+
 .cards-solutions .cards-solutions-item-image {
-  display: none;
-  width: 100px;
-  height: 60px;
-  overflow: hidden;
-  flex-shrink: 0;
+  position: relative;
+  overflow: clip;
+}
+
+.cards-solutions .cards-solutions-item-image picture {
+  display: block;
 }
 
 .cards-solutions .cards-solutions-item-image img {
-  width: 100%;
-  height: 100%;
+  display: none;
+  width: auto;
+  max-width: none;
+  height: 80px;
+  aspect-ratio: 16 / 9;
   object-fit: cover;
 }
 
-/* Arrow icon */
+/* arrow */
 .cards-solutions .cards-solutions-item-arrow {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: rgb(118 118 118);
-  transition: color 0.3s ease;
+  grid-area: arrow;
+  align-self: end;
+  display: block;
+  margin-left: 12px;
+  line-height: 0;
 }
 
 .cards-solutions .cards-solutions-item-arrow svg {
+  display: block;
   width: 17px;
   height: 16px;
 }
 
-/* Hover state - reveal description and change colors */
-.cards-solutions .cards-solutions-item:hover {
-  color: var(--text-color);
+@media (width >= 768px) {
+  .cards-solutions .cards-solutions-item-image img {
+    display: block;
+    transition:
+      opacity 0.45s var(--cards-solutions-spring),
+      translate 0.45s var(--cards-solutions-spring);
+  }
 }
 
-.cards-solutions .cards-solutions-item:hover .cards-solutions-item-text {
-  color: var(--text-color);
+@media (width >= 992px) {
+  .cards-solutions .cards-solutions-item {
+    min-height: 104px;
+  }
 }
 
-.cards-solutions .cards-solutions-item:hover .cards-solutions-item-number {
-  color: var(--text-color);
-}
-
-.cards-solutions .cards-solutions-item:hover .cards-solutions-item-description {
-  display: inline;
-}
-
-.cards-solutions .cards-solutions-item:hover .cards-solutions-item-image {
-  display: block;
-}
-
-.cards-solutions .cards-solutions-item:hover .cards-solutions-item-arrow {
-  color: var(--text-color);
-}
-
-/* First item gets top border */
-.cards-solutions > ul > li:first-child .cards-solutions-item {
-  border-top: 1px solid rgb(118 118 118);
-}
-
-/* Button reset - EDS auto-decorates links as buttons */
-main .cards-solutions a.button:any-link {
-  display: grid;
-  grid-template-columns: 60px 1fr auto;
-  align-items: center;
-  padding: 24px 0;
-  min-height: 80px;
-  border: none;
-  border-bottom: 1px solid rgb(118 118 118);
-  border-radius: 0;
-  background: none;
-  color: rgb(118 118 118);
-  font-size: inherit;
-  font-weight: inherit;
-  text-transform: none;
-  letter-spacing: normal;
-  white-space: normal;
-}
-
-main .cards-solutions a.button:hover {
-  background: none;
-  color: var(--text-color);
-}
-
-/* Desktop styles */
-@media (width >= 900px) {
+@media (width >= 1440px) {
   .cards-solutions {
-    padding: 40px 0;
+    padding-bottom: 40px;
   }
 
   .cards-solutions .cards-solutions-item {
-    grid-template-columns: 60px 1fr auto;
-    padding: 12px 0;
+    padding-block: 32px;
   }
 
   .cards-solutions .cards-solutions-item-number {
-    font-size: 24px;
+    margin-right: 32px;
+  }
+
+  .cards-solutions .cards-solutions-item-arrow {
+    margin-left: 32px;
+  }
+}
+
+/* ---------- fine pointer: single-line row with hover reveal ---------- */
+@media (pointer: fine) {
+  .cards-solutions .cards-solutions-item {
+    grid-template: 'number title arrow .' auto / auto auto auto 1fr;
+    align-items: center;
+    overflow-y: clip;
+    color: var(--dept-color-muted, #767676);
+  }
+
+  .cards-solutions .cards-solutions-item-number {
+    align-self: center;
+  }
+
+  .cards-solutions .cards-solutions-item:is(:hover, :focus-visible) .cards-solutions-item-number {
+    color: var(--dept-color-orange, #ff4901);
   }
 
   .cards-solutions .cards-solutions-item-text {
-    font-size: 32px;
+    translate: 0 0;
+    transition: translate 0.3s var(--cards-solutions-spring);
   }
 
-  .cards-solutions .cards-solutions-item-description {
-    font-size: 32px;
+  .cards-solutions .cards-solutions-item-hover {
+    grid-area: title;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    column-gap: 1.5ch;
+    translate: 0 225%;
+    transition: translate 0.3s var(--cards-solutions-spring);
   }
 
-  .cards-solutions .cards-solutions-item-image {
-    width: 142px;
-    height: 80px;
+  .cards-solutions .cards-solutions-item-arrow {
+    align-self: center;
+    margin-top: 20px;
+    opacity: 0;
+    translate: -100% 0;
+    transition:
+      opacity 0.45s var(--cards-solutions-spring),
+      translate 0.45s var(--cards-solutions-spring);
+  }
+
+  .cards-solutions .cards-solutions-item:is(:hover, :focus-visible) .cards-solutions-item-arrow {
+    opacity: 1;
+    translate: 0 0;
+  }
+}
+
+@media (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .cards-solutions .cards-solutions-item-image img {
+    translate: 0 100%;
+  }
+
+  .cards-solutions .cards-solutions-item:is(:hover, :focus-visible) .cards-solutions-item-text {
+    translate: 0 -225%;
+  }
+
+  .cards-solutions .cards-solutions-item:is(:hover, :focus-visible) .cards-solutions-item-hover,
+  .cards-solutions .cards-solutions-item:is(:hover, :focus-visible) .cards-solutions-item-image img {
+    translate: 0 0;
+  }
+}
+
+/* reduced motion: no sliding, the title cross-fades to the description + image */
+@media (pointer: fine) and (prefers-reduced-motion: reduce) {
+  .cards-solutions .cards-solutions-item-text,
+  .cards-solutions .cards-solutions-item-hover,
+  .cards-solutions .cards-solutions-item-arrow,
+  .cards-solutions .cards-solutions-item-image img {
+    translate: none;
+    transition: opacity 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1));
+  }
+
+  .cards-solutions .cards-solutions-item-hover {
+    opacity: 0;
+  }
+
+  .cards-solutions .cards-solutions-item:is(:hover, :focus-visible) .cards-solutions-item-text {
+    opacity: 0;
+  }
+
+  .cards-solutions .cards-solutions-item:is(:hover, :focus-visible) .cards-solutions-item-hover {
+    opacity: 1;
   }
 }

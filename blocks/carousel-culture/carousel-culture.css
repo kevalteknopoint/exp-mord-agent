@@ -1,32 +1,20 @@
 /* Block: carousel-culture
-   Source: .block-feature-turntable on deptagency.com
-   Layout: horizontal scroll carousel with large title, centered image, stats text, bar indicators */
+   Source: .block-feature-turntable on https://www.dept.global/en-in/ (values from computed styles).
+   Looping "turntable": centred slide full size, neighbours scaled/faded/blurred by JS.
+   Breakpoints follow the source (48rem = 768px, 62rem = 992px; image height by viewport height). */
 
-/* Wrapper: full width, no max-width constraint */
 .carousel-culture-wrapper {
   max-width: 100% !important;
   padding: 0 !important;
 }
 
-/* Block container */
 .carousel-culture {
   position: relative;
-  overflow: hidden;
-  color: var(--text-color);
-  padding: 0;
+  overflow: clip;
+  color: var(--dept-color-ink, #000);
 }
 
-/* Slides container */
-.carousel-culture .carousel-culture-slides-container {
-  position: relative;
-}
-
-/* Hide prev/next navigation buttons (source uses dots only) */
-.carousel-culture .carousel-culture-navigation-buttons {
-  display: none;
-}
-
-/* Slides list */
+/* track: one grid row, so its height is the tallest slide's content */
 .carousel-culture .carousel-culture-slides,
 .carousel-culture .carousel-culture-slide-indicators {
   list-style: none;
@@ -35,198 +23,216 @@
 }
 
 .carousel-culture .carousel-culture-slides {
-  display: flex;
-  scroll-behavior: smooth;
-  scroll-snap-type: x mandatory;
-  overflow: scroll clip;
+  display: grid;
+  grid-auto-columns: 58%;
+  grid-auto-flow: column;
+  cursor: grab;
+  touch-action: pan-y;
 }
 
-.carousel-culture .carousel-culture-slides::-webkit-scrollbar {
-  display: none;
+.carousel-culture.is-dragging .carousel-culture-slides {
+  cursor: grabbing;
 }
 
-/* Individual slide */
 .carousel-culture .carousel-culture-slide {
-  flex: 0 0 100%;
-  scroll-snap-align: center;
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+/* item: scale / opacity / blur / --opacity are set inline by JS */
+.carousel-culture .carousel-culture-item {
+  --opacity: 1;
+
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  position: relative;
-  min-height: 75vw;
-  max-height: 1083px;
-  padding: 60px 24px 120px;
   box-sizing: border-box;
+  height: 100%;
+  padding-block: 60px;
   text-align: center;
+  user-select: none;
 }
 
-/* Slide image cell - ordered between title and stats */
-.carousel-culture .carousel-culture-slide-image {
-  order: 2;
-  width: 100%;
-  max-width: 280px;
-  margin: 0 auto;
-}
-
-.carousel-culture .carousel-culture-slide-image picture {
-  display: block;
-}
-
-.carousel-culture .carousel-culture-slide-image p {
-  margin: 0;
-}
-
-.carousel-culture .carousel-culture-slide-image picture > img {
-  width: 100%;
-  height: auto;
-  object-fit: contain;
-}
-
-/* Slide content cell uses display:contents to lift children into slide flex */
+/* the authored cells (and the <p>/<picture> wrappers) are lifted into the item's flex column
+   so the order is title -> image -> description, as on the source */
+.carousel-culture .carousel-culture-slide-image,
+.carousel-culture .carousel-culture-slide-image > p,
+.carousel-culture .carousel-culture-slide-image picture,
 .carousel-culture .carousel-culture-slide-content {
   display: contents;
 }
 
-/* Title paragraph (first p in content) */
-.carousel-culture .carousel-culture-slide-content p:first-of-type {
+.carousel-culture .carousel-culture-item img {
+  order: 2;
+  width: 100%;
+  max-width: 70vw;
+  height: 100%;
+  max-height: 40dvh;
+  aspect-ratio: 2 / 3;
+  margin: 0 0 20px;
+  object-fit: contain;
+  -webkit-user-drag: none;
+}
+
+/* title: text-sans-48-100 + is-bold-sans */
+.carousel-culture .carousel-culture-title {
   order: 1;
-  font-size: 48px;
+  z-index: 1;
+  width: 80vw;
+  max-width: 840px;
+  margin: 0;
+  color: var(--dept-color-ink, #000);
+  font-family: var(--dept-font, inherit);
+  font-size: clamp(48px, calc(1.856rem + 4.883vw), 100px);
+  font-style: normal;
   font-weight: 900;
   line-height: 1.025;
-  letter-spacing: -3px;
+  letter-spacing: -0.03em;
   text-transform: uppercase;
-  color: var(--text-color);
-  margin: 0 0 16px;
-  text-align: center;
-  width: 100%;
+  text-wrap: balance;
+  opacity: var(--opacity);
 }
 
-/* Accent span (second line after br, wrapped by JS) */
-.carousel-culture .carousel-culture-slide-content .carousel-culture-accent {
-  display: block;
-  color: rgb(255 73 1);
-}
-
-/* Orange accent text via em in title */
-.carousel-culture .carousel-culture-slide-content p:first-of-type em,
-.carousel-culture .carousel-culture-slide-content p:first-of-type strong em {
-  color: rgb(255 73 1);
-  font-style: normal;
-}
-
-/* Bold text in title keeps black (unless inside accent span) */
-.carousel-culture .carousel-culture-slide-content p:first-of-type strong {
-  color: var(--text-color);
-}
-
-/* Strong inside accent span inherits orange */
-.carousel-culture .carousel-culture-slide-content p:first-of-type .carousel-culture-accent strong,
-.carousel-culture .carousel-culture-slide-content p:first-of-type .carousel-culture-accent em,
-.carousel-culture .carousel-culture-slide-content p:first-of-type .carousel-culture-accent em strong {
+.carousel-culture .carousel-culture-title :is(strong, b) {
   color: inherit;
-  font-style: normal;
+  font-weight: inherit;
 }
 
-/* Statistics / description paragraph (last p in content) */
-.carousel-culture .carousel-culture-slide-content p:last-of-type {
+/* the source keeps authored emphasis italic ("Agency") */
+.carousel-culture .carousel-culture-title :is(em, i) {
+  color: inherit;
+  font-style: italic;
+}
+
+.carousel-culture .carousel-culture-title .carousel-culture-accent,
+.carousel-culture .carousel-culture-title .carousel-culture-accent :is(strong, b, em, i) {
+  color: var(--dept-color-orange, #ff4901);
+}
+
+/* description: text-sans-16-20 */
+.carousel-culture .carousel-culture-description {
   order: 3;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: -0.84px;
-  color: rgb(118 118 118);
-  margin: 16px 0 0;
-  text-align: center;
   width: 100%;
+  margin: 0;
+  color: var(--dept-color-ink, #000);
+  font-family: var(--dept-font, inherit);
+  font-size: clamp(16px, calc(0.912rem + 0.376vw), 20px);
+  line-height: 24px;
+  letter-spacing: -0.042em;
+  opacity: var(--opacity);
 }
 
-/* Navigation indicators - bar style */
+/* any further authored paragraphs follow the description */
+.carousel-culture .carousel-culture-description ~ * {
+  order: 4;
+  margin: 16px 0 0;
+}
+
+/* nav bar: four segments, the active one grows to 7px with rounded ends */
 .carousel-culture .carousel-culture-slide-indicators {
+  position: absolute;
+  inset: auto 0 52px;
   display: flex;
   align-items: center;
   justify-content: center;
-  position: absolute;
-  bottom: 52px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 46%;
-  max-width: 662px;
+  width: calc(100% - 42px);
   height: 7px;
-  padding: 0;
-  gap: 0;
-  line-height: 0;
-  background: none;
+  margin: 0 auto;
 }
 
 .carousel-culture .carousel-culture-slide-indicator {
-  flex: 1;
-  height: 100%;
   display: flex;
+  flex: 1 1 0;
   align-items: center;
+  height: 100%;
+  margin: 0;
 }
 
-/* Indicator button (bar) */
 .carousel-culture .carousel-culture-slide-indicator button {
+  display: block;
   width: 100%;
   height: 3px;
   margin: 0;
   padding: 0;
-  border: none;
+  border: 0;
   border-radius: 0;
-  background-color: rgb(18 18 18);
+  background-color: var(--dept-color-black, #121212);
   cursor: pointer;
-  transition: height 0.2s, border-radius 0.2s;
+  transition:
+    height 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1)),
+    border-radius 0.3s var(--dept-ease, cubic-bezier(0.4, 0, 0.2, 1));
 }
 
-/* Active indicator */
-.carousel-culture .carousel-culture-slide-indicator button:disabled,
-.carousel-culture .carousel-culture-slide-indicator button:hover,
-.carousel-culture .carousel-culture-slide-indicator button:focus-visible {
-  height: 7px;
-  border-radius: 2px 8px 8px 2px;
-  background-color: rgb(18 18 18);
+.carousel-culture .carousel-culture-slide-indicator:first-child button {
+  border-radius: 4px 0 0 4px;
 }
 
-/* Last indicator gets right-side rounding */
 .carousel-culture .carousel-culture-slide-indicator:last-child button {
-  border-radius: 0 2px 2px 0;
+  border-radius: 0 4px 4px 0;
 }
 
-.carousel-culture .carousel-culture-slide-indicator:last-child button:disabled,
-.carousel-culture .carousel-culture-slide-indicator:last-child button:hover {
-  border-radius: 0 8px 8px 2px;
+.carousel-culture .carousel-culture-slide-indicator button.active,
+.carousel-culture .carousel-culture-slide-indicator button:hover {
+  height: 7px;
+  border-radius: 8px;
 }
 
-/* First indicator gets left-side rounding when active */
-.carousel-culture .carousel-culture-slide-indicator:first-child button:disabled,
-.carousel-culture .carousel-culture-slide-indicator:first-child button:hover {
-  border-radius: 2px 8px 8px 2px;
+.carousel-culture .carousel-culture-slide-indicator button:focus-visible {
+  outline: 2px solid var(--dept-color-black, #121212);
+  outline-offset: 4px;
 }
 
-/* Desktop styles */
-@media (width >= 900px) {
-  .carousel-culture .carousel-culture-slide {
-    flex: 0 0 50%;
-    scroll-snap-align: center;
-    min-height: min(75vw, 1083px);
-    padding: 60px 0 120px;
+/* single slide: no track movement, no nav */
+.carousel-culture.is-single .carousel-culture-slides {
+  grid-auto-columns: 100%;
+  cursor: auto;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel-culture .carousel-culture-slide-indicator button {
+    transition: none;
+  }
+}
+
+@media (height >= 800px) {
+  .carousel-culture .carousel-culture-item img {
+    max-height: 56dvh;
+  }
+}
+
+@media (height >= 1024px) {
+  .carousel-culture .carousel-culture-item img {
+    max-height: 64dvh;
+  }
+}
+
+@media (width >= 768px) {
+  .carousel-culture .carousel-culture-item {
+    padding-bottom: 120px;
   }
 
-  /* Title sizing at desktop */
-  .carousel-culture .carousel-culture-slide-content p:first-of-type {
-    font-size: 100px;
-    line-height: 102.5px;
+  .carousel-culture .carousel-culture-item img {
+    max-width: 100%;
   }
 
-  /* Stats text at desktop */
-  .carousel-culture .carousel-culture-slide-content p:last-of-type {
-    font-size: 20px;
-    line-height: 24px;
+  .carousel-culture .carousel-culture-title {
+    width: auto;
   }
 
-  /* Image max width on desktop */
-  .carousel-culture .carousel-culture-slide-image {
-    max-width: 63%;
+  .carousel-culture .carousel-culture-slide-indicators {
+    max-width: min(46vw, 680px);
+  }
+}
+
+@media (width >= 992px) {
+  .carousel-culture .carousel-culture-slides {
+    grid-auto-columns: min(50%, 1040px);
+  }
+
+  .carousel-culture .carousel-culture-title .carousel-culture-accent {
+    display: inline-block;
+    translate: 0 -0.15em;
   }
 }

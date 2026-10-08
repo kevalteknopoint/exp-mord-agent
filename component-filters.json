@@ -54,6 +54,7 @@
       "cards-service-links",
       "hero-split",
       "cards-solution",
+      "cards-solution-rows",
       "tabs-feature",
       "tabs-vertical",
       "cards-recognition",
@@ -229,6 +230,12 @@
     "id": "cards-shortcut",
     "components": [
       "cards-shortcut-card"
+    ]
+  },
+  {
+    "id": "cards-solution-rows",
+    "components": [
+      "cards-solution-rows-item"
     ]
   },
   {

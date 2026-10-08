@@ -1,73 +1,82 @@
+import { createOptimizedPicture } from '../../scripts/aem.js';
+import { moveInstrumentation } from '../../scripts/scripts.js';
+
+const ARROW_SVG = '<svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M0.276367 9.01565V6.87304H13.6607L10.1546 1.19652L12.1581 0L16.9998 7.95826L12.1303 16L10.1268 14.7757L13.6607 9.01565H0.276367Z" fill="currentColor"></path></svg>';
+
+/**
+ * Numbered talking-points list (source: dept.global .block-talking-points).
+ * Each row: [image cell, text cell (heading, description, link)].
+ * Output per row:
+ *   li > a.cards-solutions-item
+ *     span.cards-solutions-item-number
+ *     div.cards-solutions-item-title          (display: contents)
+ *       h3.cards-solutions-item-text          (title, slides out on hover)
+ *       div.cards-solutions-item-hover        (slides in on hover)
+ *         p.cards-solutions-item-description
+ *         div.cards-solutions-item-image > picture
+ *     span.cards-solutions-item-arrow
+ * @param {Element} block The block element
+ */
 export default function decorate(block) {
   const ul = document.createElement('ul');
 
   [...block.children].forEach((row, index) => {
     const li = document.createElement('li');
+    moveInstrumentation(row, li);
+
     const cells = [...row.children];
+    const imageCell = cells.find((cell) => cell.querySelector('picture, img') && !cell.textContent.trim());
+    const textCell = cells.find((cell) => cell !== imageCell) || cells[0];
 
-    // Cell 0: image (hidden on default, shown on hover)
-    // Cell 1: text content (h3 title, p description, p with link)
-    const textCell = cells[1] || cells[0];
-    const imageCell = cells.length > 1 ? cells[0] : null;
-
-    // Extract link URL from the anchor in text cell
-    const anchor = textCell.querySelector('a');
-    const href = anchor ? anchor.getAttribute('href') : '#';
-
-    // Extract title (h3)
-    const h3 = textCell.querySelector('h3');
-    const title = h3 ? h3.textContent.trim() : '';
-
-    // Extract description (first p that is not a link container)
-    const paragraphs = textCell.querySelectorAll('p');
-    let description = '';
-    paragraphs.forEach((p) => {
-      if (!p.querySelector('a') && p.textContent.trim()) {
-        description = p.textContent.trim();
-      }
-    });
-
-    // Extract image if available
-    const picture = imageCell ? imageCell.querySelector('picture') : null;
-
-    // Build the link item
+    const anchor = textCell?.querySelector('a');
     const a = document.createElement('a');
-    a.href = href;
     a.className = 'cards-solutions-item';
+    a.href = anchor ? anchor.getAttribute('href') : '#';
 
-    // Number (01, 02, 03, 04)
-    const numberSpan = document.createElement('span');
-    numberSpan.className = 'cards-solutions-item-number';
-    numberSpan.textContent = String(index + 1).padStart(2, '0');
+    const number = document.createElement('span');
+    number.className = 'cards-solutions-item-number';
+    number.setAttribute('aria-hidden', 'true');
+    number.textContent = String(index + 1).padStart(2, '0');
 
-    // Title container
-    const titleDiv = document.createElement('div');
-    titleDiv.className = 'cards-solutions-item-title';
+    const title = document.createElement('div');
+    title.className = 'cards-solutions-item-title';
 
-    const titleSpan = document.createElement('span');
-    titleSpan.className = 'cards-solutions-item-text';
-    titleSpan.textContent = title;
+    // keep the authored heading element (and its id) so the outline stays intact
+    let heading = textCell?.querySelector('h1, h2, h3, h4, h5, h6');
+    if (!heading) {
+      heading = document.createElement('h3');
+      heading.textContent = anchor ? anchor.textContent.trim() : '';
+    }
+    heading.className = 'cards-solutions-item-text';
 
-    const descSpan = document.createElement('span');
-    descSpan.className = 'cards-solutions-item-description';
-    descSpan.textContent = description;
+    const hover = document.createElement('div');
+    hover.className = 'cards-solutions-item-hover';
 
-    titleDiv.append(titleSpan, descSpan);
-
-    // Image container (shown on hover)
-    if (picture) {
-      const imgContainer = document.createElement('div');
-      imgContainer.className = 'cards-solutions-item-image';
-      imgContainer.append(picture);
-      titleDiv.append(imgContainer);
+    const description = textCell
+      ? [...textCell.querySelectorAll('p')].find((p) => !p.querySelector('a') && p.textContent.trim())
+      : null;
+    if (description) {
+      description.className = 'cards-solutions-item-description';
+      hover.append(description);
     }
 
-    // Arrow icon
+    const img = imageCell?.querySelector('img');
+    if (img) {
+      const picture = createOptimizedPicture(img.src, img.alt, false, [{ width: '400' }]);
+      moveInstrumentation(img, picture.querySelector('img'));
+      const imageWrap = document.createElement('div');
+      imageWrap.className = 'cards-solutions-item-image';
+      imageWrap.append(picture);
+      hover.append(imageWrap);
+    }
+
+    title.append(heading, hover);
+
     const arrow = document.createElement('span');
     arrow.className = 'cards-solutions-item-arrow';
-    arrow.innerHTML = '<svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg" role="presentation"><path d="M0.276367 9.01565V6.87304H13.6607L10.1546 1.19652L12.1581 0L16.9998 7.95826L12.1303 16L10.1268 14.7757L13.6607 9.01565H0.276367Z" fill="currentColor"></path></svg>';
+    arrow.innerHTML = ARROW_SVG;
 
-    a.append(numberSpan, titleDiv, arrow);
+    a.append(number, title, arrow);
     li.append(a);
     ul.append(li);
   });

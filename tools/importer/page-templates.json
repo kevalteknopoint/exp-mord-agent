@@ -1,999 +1,168 @@
 {
   "templates": [
     {
-      "name": "life-insurance-plans",
+      "name": "dept",
       "urls": [
-        "https://www.tataaia.com/life-insurance-plans/term-insurance.html"
+        "https://www.dept.global/en-in/"
       ],
-      "representativeUrl": "https://www.tataaia.com/life-insurance-plans/term-insurance.html",
-      "description": "Tata AIA life insurance product landing page (term insurance): calculator hero, long-form SEO content, plan cards, tables, carousels, FAQs",
+      "representativeUrl": "https://www.dept.global/en-in/",
+      "description": "DEPT India homepage: video hero, statement, feature rows, AI services list, work grid, solution rows, culture carousel, insights",
       "blocks": [
         {
-          "name": "hero-calculator",
+          "name": "hero-video",
           "instances": [
-            ".nolead-calc-banner-wrapper .term-calculator-container"
+            ".block-scrolly-video-intro"
           ]
         },
         {
-          "name": "cards-pricing",
+          "name": "columns-feature",
           "instances": [
-            ".insurance-coverage-cards.container-category-price"
+            ".block-assets-and-copy"
           ]
         },
         {
-          "name": "tabs-illustration",
+          "name": "cards-solutions",
           "instances": [
-            ".benefits-ills-pure-protection-container .tabs.panelcontainer"
+            ".block-talking-points"
           ]
         },
         {
-          "name": "cards-plan",
+          "name": "cards-casestudy",
           "instances": [
-            ".coveragecardcontainer.content-center",
-            ".categorypage-fourcards.coveragecardcontainer"
+            ".block-work-listing__items"
           ]
         },
         {
-          "name": "cards-icon-list",
+          "name": "cards-solution-rows",
           "instances": [
-            "#container-526c3450ed",
-            "#container-30eac4a7ea"
+            ".block-image-and-fact"
           ]
         },
         {
-          "name": "carousel-persona",
+          "name": "carousel-culture",
           "instances": [
-            ".who-buy-cards-parent.ta-container .who-buy-cards"
+            ".block-feature-turntable"
           ]
         },
         {
-          "name": "embed-video",
+          "name": "cards-insights",
           "instances": [
-            ".youtube-center-brush .youtubevideo"
-          ]
-        },
-        {
-          "name": "cards-plan-links",
-          "instances": [
-            ".termplan-cards"
-          ]
-        },
-        {
-          "name": "cards-feature-grid",
-          "instances": [
-            ".investment-plan-cards-redesign"
-          ]
-        },
-        {
-          "name": "columns-calculator",
-          "instances": [
-            ".newpremiumcalc-container .newcalculatepremium"
-          ]
-        },
-        {
-          "name": "cards-stats",
-          "instances": [
-            ".whychoose-cards > .cmp-container > .container"
-          ]
-        },
-        {
-          "name": "accordion-seo",
-          "instances": [
-            ".faq-accordion-investment-plan .ta-fq-content-w",
-            ".accordion-first-section > .cmp-accordion > .cmp-accordion__item:nth-of-type(2)"
-          ]
-        },
-        {
-          "name": "cards-factor",
-          "instances": [
-            ".investment-risk-main-wrapper"
-          ]
-        },
-        {
-          "name": "table-rounded",
-          "instances": [
-            ".term-insurance-table",
-            ".term-table-text.four-column-table",
-            ".term-table-text.table-head-red",
-            ".term-table-text.document-table-center",
-            "[id=\"40\"] > .term-table-text"
-          ]
-        },
-        {
-          "name": "table-comparison",
-          "instances": [
-            ".compare-term-plan-table .compare-table-wrapper"
-          ]
-        },
-        {
-          "name": "cards-label-box",
-          "instances": [
-            ".leadproxyteaser.newlaunch-var-two"
-          ]
-        },
-        {
-          "name": "columns-duration",
-          "instances": [
-            ".life-cover.ta-container"
-          ]
-        },
-        {
-          "name": "cards-text-tile",
-          "instances": [
-            ".who-buy-cards-mob-swiper .who-buy-cards"
-          ]
-        },
-        {
-          "name": "columns-image-table",
-          "instances": [
-            ".claim-image-table"
-          ]
-        },
-        {
-          "name": "carousel-reviews",
-          "instances": [
-            ".testinomial-cards"
-          ]
-        },
-        {
-          "name": "form-callback",
-          "instances": [
-            ".tte-form-countrycode"
-          ]
-        },
-        {
-          "name": "cards-article",
-          "instances": [
-            ".blog-corouselstatic"
-          ]
-        },
-        {
-          "name": "tabs-faq",
-          "instances": [
-            ".faq-tabs"
+            ".block-custom-listing__items"
           ]
         }
       ],
-      "urlPattern": "/life-insurance-plans/*",
+      "urlPattern": "/*",
       "sections": [
         {
           "id": "section-1",
-          "name": "Page title and intro",
+          "name": "Hero video intro",
           "selector": [
-            ".breadcrumb"
+            ".block-scrolly-video-intro"
           ],
-          "style": null,
-          "blocks": [],
+          "style": "dept-hero",
+          "blocks": [
+            "hero-video"
+          ],
           "defaultContent": []
         },
         {
           "id": "section-2",
-          "name": "Above-the-fold promo + calculator",
+          "name": "Statement",
           "selector": [
-            ".nolead-calc-banner-wrapper"
+            ".block-statement-v2"
           ],
-          "style": null,
-          "blocks": [
-            "hero-calculator"
-          ],
-          "defaultContent": []
+          "style": "dept-statement",
+          "blocks": [],
+          "defaultContent": [
+            ".block-statement-v2__title"
+          ]
         },
         {
           "id": "section-3",
-          "name": "In-page anchor navigation",
+          "name": "Feature rows (DEPTIFY, Adobe partner)",
           "selector": [
-            ".newsecondarynavigation"
+            ".block-statement-v2 + .block-assets-and-copy",
+            ".block-assets-and-copy"
           ],
-          "style": "anchor-nav",
-          "blocks": [],
+          "style": "dept-features",
+          "blocks": [
+            "columns-feature"
+          ],
           "defaultContent": []
         },
         {
           "id": "section-4",
-          "name": "Coverage tier price cards + reviewer byline",
+          "name": "Services / AI Transformation",
           "selector": [
-            "#container-f3864d3a26"
+            ".block-assets-and-copy + .block-text-divider__text-divider",
+            "#main-content > .block-text-divider__text-divider:nth-of-type(5)"
           ],
-          "style": "light-blue",
+          "style": "dept-services",
           "blocks": [
-            "cards-pricing"
+            "cards-solutions"
           ],
-          "defaultContent": []
+          "defaultContent": [
+            ".block-text-divider__text-divider",
+            ".block-talking-points__title",
+            ".block-talking-points__subtitle"
+          ]
         },
         {
           "id": "section-5",
-          "name": "Interlinking pill links",
+          "name": "Work listing",
           "selector": [
-            ".interlinking-widget"
+            ".block-work-listing"
           ],
-          "style": "grey, link-pills",
-          "blocks": [],
-          "defaultContent": []
+          "style": "dept-work",
+          "blocks": [
+            "cards-casestudy"
+          ],
+          "defaultContent": [
+            ".block-work-listing__title",
+            ".block-work-listing > a.button-v2"
+          ]
         },
         {
           "id": "section-6",
-          "name": "What is term insurance",
+          "name": "Solutions / How we invent growth",
           "selector": [
-            "#leadproxytext-5179f9a894"
+            ".block-work-listing + .block-text-divider__text-divider",
+            "#main-content > .block-text-divider__text-divider:nth-of-type(8)"
           ],
-          "style": null,
-          "blocks": [],
-          "defaultContent": []
+          "style": "dept-solutions",
+          "blocks": [
+            "cards-solution-rows"
+          ],
+          "defaultContent": [
+            ".block-text-divider__text-divider",
+            ".block-title-with-cta__title"
+          ]
         },
         {
           "id": "section-7",
-          "name": "Benefits illustration (tabbed)",
+          "name": "Culture carousel",
           "selector": [
-            ".benefits-ills-mob-font-20"
+            ".block-feature-turntable"
           ],
-          "style": null,
+          "style": "dept-culture",
           "blocks": [
-            "tabs-illustration"
+            "carousel-culture"
           ],
           "defaultContent": []
         },
         {
           "id": "section-8",
-          "name": "Bestselling plans + example",
+          "name": "On our mind / Insights",
           "selector": [
-            ".mob-mt-5.mt-40.enhancecoveragecontainer.enhance-container-tab"
+            ".block-custom-listing"
           ],
-          "style": null,
+          "style": "dept-insights",
           "blocks": [
-            "cards-plan"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-9",
-          "name": "How a term plan works",
-          "selector": [
-            "div.container.responsivegrid.mob-pt-20.pt-30"
-          ],
-          "style": null,
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-10",
-          "name": "Why buy term insurance",
-          "selector": [
-            "#container-d2b88fc833"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-icon-list"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-11",
-          "name": "Persona examples slider",
-          "selector": [
-            "#container-916e0a3aec"
-          ],
-          "style": null,
-          "blocks": [
-            "carousel-persona"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-12",
-          "name": "Explainer video",
-          "selector": [
-            "#container-cd5dfce657"
-          ],
-          "style": null,
-          "blocks": [
-            "embed-video"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-13",
-          "name": "Term plan quick links slider",
-          "selector": [
-            "#container-f4164bf945"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-plan-links"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-14",
-          "name": "Features of term insurance",
-          "selector": [
-            "#container-1ba1e4524a"
-          ],
-          "style": null,
-          "blocks": [
-            "cards-feature-grid"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-15",
-          "name": "1 Crore premium calculator",
-          "selector": [
-            ".newpremiumcalc-container"
-          ],
-          "style": null,
-          "blocks": [
-            "columns-calculator"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-16",
-          "name": "Why choose Tata AIA stats",
-          "selector": [
-            ".whychoose-cards"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-stats"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-17",
-          "name": "Who should buy slider",
-          "selector": [
-            "#container-217c32ab0c"
-          ],
-          "style": null,
-          "blocks": [
-            "carousel-persona"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-18",
-          "name": "Life stages accordion",
-          "selector": [
-            "#container-9d7e57cecd"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "accordion-seo"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-19",
-          "name": "Premium factors bordered cards",
-          "selector": [
-            "#container-adaee19218"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-factor"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-20",
-          "name": "Types of term plans",
-          "selector": [
-            "#container-f942407c45"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-feature-grid"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-21",
-          "name": "Term vs whole life table",
-          "selector": [
-            "#leadproxytext-4fac5f6122"
-          ],
-          "style": null,
-          "blocks": [
-            "table-rounded"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-22",
-          "name": "Best plans table",
-          "selector": [
-            "#container-5caf9ff5af"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "table-rounded"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-23",
-          "name": "Best plans cards + how to choose accordion",
-          "selector": [
-            ".rider-bg.faq_acc_with-viewallbtn"
-          ],
-          "style": null,
-          "blocks": [
-            "cards-plan",
-            "accordion-seo"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-24",
-          "name": "Choose plan as per needs",
-          "selector": [
-            "#container-fadf1d54e1"
-          ],
-          "style": "light-blue",
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-25",
-          "name": "Claim approval + plan comparison",
-          "selector": [
-            "#container-4a5dfb47f8"
-          ],
-          "style": null,
-          "blocks": [
-            "table-comparison"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-26",
-          "name": "Family financial future callout",
-          "selector": [
-            "#container-2c038f2903"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-label-box"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-27",
-          "name": "When to buy table",
-          "selector": [
-            "#container-fc5f3371ba"
-          ],
-          "style": null,
-          "blocks": [
-            "table-rounded"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-28",
-          "name": "Factors affecting premiums",
-          "selector": [
-            "#container-33e50a7826"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-icon-list"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-29",
-          "name": "NRI + cover needed",
-          "selector": [
-            "#container-b2c8b612e3"
-          ],
-          "style": null,
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-30",
-          "name": "Infographic image",
-          "selector": [
-            "#container-8edf4bc779"
-          ],
-          "style": "light-blue",
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-31",
-          "name": "Sum assured importance",
-          "selector": [
-            "#container-9dfa60f0af"
-          ],
-          "style": null,
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-32",
-          "name": "Policy period",
-          "selector": [
-            "#container-1c542e2ae3"
-          ],
-          "style": "light-blue",
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-33",
-          "name": "Right duration promo + age factor",
-          "selector": [
-            "#container-f4882e2f04"
-          ],
-          "style": null,
-          "blocks": [
-            "columns-duration"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-34",
-          "name": "Affordable tips tiles",
-          "selector": [
-            "#container-defa9db8ad"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-text-tile"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-35",
-          "name": "Payout options table",
-          "selector": [
-            "#leadproxytext-8e6b531b6b"
-          ],
-          "style": null,
-          "blocks": [
-            "table-rounded"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-36",
-          "name": "What is a rider",
-          "selector": [
-            "#container-8332a7d055"
-          ],
-          "style": "light-blue",
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-37",
-          "name": "ULIP note + rider types",
-          "selector": [
-            "[id=\"27\"]"
-          ],
-          "style": null,
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-38",
-          "name": "Riders importance",
-          "selector": [
-            "#container-b2a7b4132b"
-          ],
-          "style": "light-blue",
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-39",
-          "name": "Critical illness rider + top riders",
-          "selector": [
-            ".mob-mb-20.page-container.max-wid550"
-          ],
-          "style": null,
-          "blocks": [
-            "cards-label-box"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-40",
-          "name": "Plan benefits",
-          "selector": [
-            "#container-d35e3a192d"
-          ],
-          "style": "light-blue",
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-41",
-          "name": "Eligibility",
-          "selector": [
-            "#leadproxytext-ae2ba99d42"
-          ],
-          "style": null,
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-42",
-          "name": "Covered vs not covered",
-          "selector": [
-            "#container-1618092523"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "table-rounded"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-43",
-          "name": "Common mistakes",
-          "selector": [
-            "#leadproxytext-3a445fa119"
-          ],
-          "style": null,
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-44",
-          "name": "Why buy online tiles",
-          "selector": [
-            "#container-92e8aae3a5"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-text-tile"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-45",
-          "name": "Documents list + claim process",
-          "selector": [
-            "#container-b2fe259e25"
-          ],
-          "style": null,
-          "blocks": [
-            "table-rounded"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-46",
-          "name": "Avoid claim rejection",
-          "selector": [
-            "#container-6f11a5e168"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-feature-grid"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-47",
-          "name": "Claim documents table",
-          "selector": [
-            "#leadproxytext-7f29512ee4"
-          ],
-          "style": null,
-          "blocks": [
-            "table-rounded"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-48",
-          "name": "Claim approval time",
-          "selector": [
-            "#container-6ed3066365"
-          ],
-          "style": "light-blue",
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-49",
-          "name": "GST + claim settlement ratio",
-          "selector": [
-            "#container-e553947e67"
-          ],
-          "style": null,
-          "blocks": [
-            "columns-image-table"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-50",
-          "name": "Key terms",
-          "selector": [
-            "#container-74e18de16e"
-          ],
-          "style": "light-blue",
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-51",
-          "name": "Takeaways + insights",
-          "selector": [
-            "#leadproxytext-c876bebae1"
-          ],
-          "style": null,
-          "blocks": [],
-          "defaultContent": []
-        },
-        {
-          "id": "section-52",
-          "name": "Customer reviews carousel",
-          "selector": [
-            ".voiceof-happy-customer"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "carousel-reviews"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-53",
-          "name": "Call-back lead form",
-          "selector": [
-            ".tte-form-redesign"
-          ],
-          "style": null,
-          "blocks": [
-            "form-callback"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-54",
-          "name": "Related articles slider",
-          "selector": [
-            "#container-0e5e661886"
-          ],
-          "style": "light-blue",
-          "blocks": [
-            "cards-article"
-          ],
-          "defaultContent": []
-        },
-        {
-          "id": "section-55",
-          "name": "FAQs, disclaimer, last updated",
-          "selector": [
-            "#container-593dd46a6a"
-          ],
-          "style": null,
-          "blocks": [
-            "tabs-faq",
-            "accordion-seo"
-          ],
-          "defaultContent": []
-        }
-      ]
-    },
-    {
-      "name": "broadridge",
-      "urls": [
-        "http://localhost:8090/migration-work/design-broadridge/source/broadridge.html",
-        "http://localhost:8090/migration-work/design-broadridge/source/broadridge-nav.html",
-        "http://localhost:8090/migration-work/design-broadridge/source/broadridge-footer.html"
-      ],
-      "representativeUrl": "http://localhost:8090/migration-work/design-broadridge/source/broadridge.html",
-      "description": "Broadridge homepage from design image (+ broadridge-nav / broadridge-footer fragments): split hero, solution cards, industry tabs, capability tabs, recognition cards, spotlight cards, contact form",
-      "blocks": [
-        {
-          "name": "hero-split",
-          "instances": [
-            "#hero .hero-split"
-          ]
-        },
-        {
-          "name": "cards-solution",
-          "instances": [
-            "#featured-solutions .solution-cards"
-          ]
-        },
-        {
-          "name": "tabs-feature",
-          "instances": [
-            "#industries .industry-tabs"
-          ]
-        },
-        {
-          "name": "tabs-vertical",
-          "instances": [
-            "#capabilities .capability-tabs"
-          ]
-        },
-        {
-          "name": "cards-recognition",
-          "instances": [
-            "#recognition .recognition-cards"
-          ]
-        },
-        {
-          "name": "cards-spotlight",
-          "instances": [
-            "#spotlight .spotlight-cards"
-          ]
-        },
-        {
-          "name": "form-contact",
-          "instances": [
-            "#contact .contact-form"
-          ]
-        },
-        {
-          "name": "columns",
-          "instances": [
-            ".footer-columns"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "kotak-life",
-      "urls": [
-        "http://localhost:8090/migration-work/design-kotak/source/kotak-life.html",
-        "http://localhost:8090/migration-work/design-kotak/source/kotak-nav.html",
-        "http://localhost:8090/migration-work/design-kotak/source/kotak-footer.html"
-      ],
-      "representativeUrl": "http://localhost:8090/migration-work/design-kotak/source/kotak-life.html",
-      "description": "Kotak Life homepage from desktop + mobile design images (+ kotak-nav / kotak-footer fragments)",
-      "blocks": [
-        {
-          "name": "hero-statement",
-          "instances": [
-            "#hero .hero-statement"
-          ]
-        },
-        {
-          "name": "cards-shortcut",
-          "instances": [
-            "#looking-for .shortcuts"
-          ]
-        },
-        {
-          "name": "search-prompt",
-          "instances": [
-            "#looking-for .search-prompt"
-          ]
-        },
-        {
-          "name": "carousel-promo",
-          "instances": [
-            "#promo .promo-slides"
-          ]
-        },
-        {
-          "name": "tabs-plans",
-          "instances": [
-            "#plans .plan-tabs"
-          ]
-        },
-        {
-          "name": "carousel-stack",
-          "instances": [
-            "#offer .offer-stack"
-          ]
-        },
-        {
-          "name": "cards-metric",
-          "instances": [
-            "#trust .metrics"
-          ]
-        },
-        {
-          "name": "columns-showcase",
-          "instances": [
-            "#advisor .showcase"
-          ]
-        },
-        {
-          "name": "cards-impact",
-          "instances": [
-            "#insights .impact-cards"
-          ]
-        },
-        {
-          "name": "carousel-expand",
-          "instances": [
-            "#stories .story-cards"
-          ]
-        },
-        {
-          "name": "form-contact",
-          "instances": [
-            "#lead .lead-form"
-          ]
-        },
-        {
-          "name": "footer-links",
-          "instances": [
-            ".link-groups, .disclaimer"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "tata-cars",
-      "urls": [
-        "http://localhost:8090/migration-work/design-tatacars/source/tata-cars.html",
-        "http://localhost:8090/migration-work/design-tatacars/source/tata-cars-nav.html",
-        "http://localhost:8090/migration-work/design-tatacars/source/tata-cars-footer.html"
-      ],
-      "representativeUrl": "http://localhost:8090/migration-work/design-tatacars/source/tata-cars.html",
-      "description": "Tata Cars homepage from a mobile design image (+ tata-cars-nav / tata-cars-footer fragments)",
-      "blocks": [
-        {
-          "name": "carousel-showcase",
-          "instances": [
-            "#hero .showcase"
-          ]
-        },
-        {
-          "name": "filter-dropdowns",
-          "instances": [
-            "#bestsellers .filters"
-          ]
-        },
-        {
-          "name": "cards-car",
-          "instances": [
-            "#bestsellers .cars"
-          ]
-        },
-        {
-          "name": "calculator-emi",
-          "instances": [
-            "#emi .calculator"
-          ]
-        },
-        {
-          "name": "dealer-finder",
-          "instances": [
-            "#dealers .dealer-finder"
-          ]
-        },
-        {
-          "name": "carousel-reels",
-          "instances": [
-            "#family .reels"
-          ]
-        },
-        {
-          "name": "cards-action",
-          "instances": [
-            "#actions .action-cards"
-          ]
-        },
-        {
-          "name": "cards-proof",
-          "instances": [
-            "#proof .proof-cards"
-          ]
-        },
-        {
-          "name": "cta-sticky",
-          "instances": [
-            "#sticky .sticky-cta"
-          ]
-        },
-        {
-          "name": "form-contact",
-          "instances": [
-            ".footer-newsletter .lead-form"
+            "cards-insights"
+          ],
+          "defaultContent": [
+            ".block-custom-listing__title",
+            ".block-custom-listing > a.button-v2"
           ]
         }
       ]

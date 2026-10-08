@@ -3,12 +3,12 @@
 /**
  * Parser for hero-video
  * Base block: hero
- * Source: https://www.deptagency.com/en-in/
+ * Source: https://www.dept.global/en-in/
  * Selector: .block-scrolly-video-intro
- * Generated: 2026-05-25
+ * Generated: 2026-05-25 / Re-validated against dept.global DOM: 2026-10-08
  *
  * UE Model fields: image (reference), imageAlt (collapsed), text (richtext)
- * Structure: Row 1 = video/image, Row 2 = text (heading + CTA)
+ * Structure: Row 1 = video/image (YouTube link preferred, poster fallback), Row 2 = text (H1 + CTA)
  */
 export default function parse(element, { document }) {
   // === Extract video URL from YouTube iframe ===
@@ -35,8 +35,8 @@ export default function parse(element, { document }) {
   // === Build Row 1: image/video field ===
   // For xwalk, the video is represented as a link in the image cell
   const imageCell = document.createDocumentFragment();
-  const imageComment = document.createComment(' field:image ');
-  imageCell.appendChild(imageComment);
+  // Hint only when the cell has content
+  if (videoUrl || posterImg) imageCell.appendChild(document.createComment(' field:image '));
 
   if (videoUrl) {
     const videoLink = document.createElement('a');
@@ -55,6 +55,12 @@ export default function parse(element, { document }) {
   if (heading) {
     // Clone the heading to preserve semantic HTML
     const h = heading.cloneNode(true);
+    // the accent word(s) (orange on the source) are authored as emphasis
+    h.querySelectorAll('.is-fancy-serif').forEach((span) => {
+      const em = document.createElement('em');
+      em.textContent = span.textContent;
+      span.replaceWith(em);
+    });
     textCell.appendChild(h);
   }
 
@@ -64,7 +70,7 @@ export default function parse(element, { document }) {
     const link = ctaLink.cloneNode(true);
     // Ensure href is absolute
     if (link.getAttribute('href') && !link.getAttribute('href').startsWith('http')) {
-      link.href = `https://www.deptagency.com${link.getAttribute('href')}`;
+      link.href = `https://www.dept.global${link.getAttribute('href')}`;
     }
     p.appendChild(link);
     textCell.appendChild(p);

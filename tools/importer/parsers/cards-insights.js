@@ -4,9 +4,9 @@
 /**
  * Parser: cards-insights
  * Base block: cards
- * Source: https://www.deptagency.com/en-in/
+ * Source: https://www.dept.global/en-in/
  * Selector: .block-custom-listing__items
- * Generated: 2026-05-25T00:00:00.000Z
+ * Generated: 2026-05-25T00:00:00.000Z / Re-validated against dept.global DOM: 2026-10-08
  *
  * Structure (xwalk container block):
  *   Each card row = [image, text]
@@ -29,8 +29,8 @@ export default function parse(element, { document }) {
     // Column 1: Image with field hint
     const img = card.querySelector('img.listing-card-v2__image');
     const imageCell = document.createDocumentFragment();
-    imageCell.appendChild(document.createComment(' field:image '));
     if (img) {
+      imageCell.appendChild(document.createComment(' field:image '));
       const picture = img.closest('picture') || img;
       imageCell.appendChild(picture.cloneNode(true));
     }
@@ -40,47 +40,48 @@ export default function parse(element, { document }) {
     const textCell = document.createDocumentFragment();
     textCell.appendChild(document.createComment(' field:text '));
 
-    // Extract type label (e.g., "Whitepaper", "Insight")
-    const typeTag = card.querySelector('.listing-card-v2__type-tag span');
-    if (typeTag) {
+    // NOTE: html2md preProcess (DOMUtils.removeSpans) unwraps class-less <span>s before
+    // parsers run, so read text from the classed containers, never from inner spans.
+    const clean = (el) => (el ? el.textContent.replace(/\u00a0/g, ' ').replace(/\s+/g, ' ').trim() : '');
+
+    // Type label (e.g. "Case Study", "Insight", "Whitepaper"); the icon is an <img>, not text
+    const typeText = clean(card.querySelector('.listing-card-v2__type-tag'));
+    if (typeText) {
       const typePara = document.createElement('p');
-      typePara.textContent = typeTag.textContent.trim();
+      typePara.textContent = typeText;
       textCell.appendChild(typePara);
     }
 
-    // Extract category tags
-    const tags = card.querySelectorAll('.listing-card-v2__tag');
-    if (tags.length > 0) {
-      const tagTexts = [];
-      tags.forEach((tag) => {
-        // Extract actual tag text (skip the parentheses spans)
-        const spans = tag.querySelectorAll('span');
-        spans.forEach((span) => {
-          const text = span.textContent.trim();
-          if (text && text !== '(' && text !== ')') {
-            tagTexts.push(text);
-          }
-        });
-      });
-      if (tagTexts.length > 0) {
-        const tagPara = document.createElement('p');
-        tagPara.textContent = tagTexts.join(', ');
-        textCell.appendChild(tagPara);
-      }
+    // Category tags: "( Category )" -> "Category"
+    const tagTexts = [...card.querySelectorAll('.listing-card-v2__tag')]
+      .map((tag) => clean(tag).replace(/[()]/g, ' ').replace(/\s+/g, ' ').trim())
+      .filter(Boolean);
+    if (tagTexts.length > 0) {
+      const tagPara = document.createElement('p');
+      tagPara.textContent = tagTexts.join(', ');
+      textCell.appendChild(tagPara);
     }
 
-    // Extract title and wrap as link to preserve href
-    const title = card.querySelector('p.listing-card-v2__title, .listing-card-v2__title');
+    // Title: the hover-card title (when present) is the article title; the meta title is then
+    // the client name (e.g. case study card: "Electronics Retailer") and is kept as a label.
+    const metaTitle = clean(card.querySelector('.listing-card-v2__meta .listing-card-v2__title, .listing-card-v2__title'));
+    const hoverTitle = clean(card.querySelector('.listing-card-v2__hover-card-title'));
+    const titleText = hoverTitle || metaTitle;
+    if (hoverTitle && metaTitle && metaTitle !== hoverTitle) {
+      const clientPara = document.createElement('p');
+      clientPara.textContent = metaTitle;
+      textCell.appendChild(clientPara);
+    }
     const cardHref = card.getAttribute('href');
-    if (title) {
+    if (titleText) {
       const titleEl = document.createElement('p');
       if (cardHref) {
         const link = document.createElement('a');
         link.setAttribute('href', cardHref);
-        link.textContent = title.textContent.trim();
+        link.textContent = titleText;
         titleEl.appendChild(link);
       } else {
-        titleEl.textContent = title.textContent.trim();
+        titleEl.textContent = titleText;
       }
       textCell.appendChild(titleEl);
     }

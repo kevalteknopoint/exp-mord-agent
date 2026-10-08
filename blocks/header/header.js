@@ -170,6 +170,42 @@ async function buildBreadcrumbs() {
 }
 
 /**
+ * Reads a header option a page theme sets as a CSS custom property on the header block
+ * @param {Element} block The header block element
+ * @param {string} name Custom property name
+ * @returns {string} The trimmed value ('' when unset)
+ */
+function headerOption(block, name) {
+  return getComputedStyle(block).getPropertyValue(name).trim();
+}
+
+/**
+ * Replaces an authored search link with a search form: the link URL is the form action, its first
+ * query parameter (e.g. ?query=) the input name, its text the label and placeholder.
+ * @param {Element} link The search link
+ */
+function buildSearchForm(link) {
+  const url = new URL(link.href);
+  const [param = 'q'] = [...url.searchParams.keys()];
+  const label = link.textContent.trim() || 'Search';
+  const inputId = `nav-search-${Math.random().toString(36).slice(2, 8)}`;
+  const form = document.createElement('form');
+  form.className = 'nav-search';
+  form.setAttribute('role', 'search');
+  form.action = `${url.origin}${url.pathname}`;
+  form.method = 'get';
+  form.innerHTML = `<label class="nav-search-label" for="${inputId}"></label>
+    <input class="nav-search-input" id="${inputId}" type="text" autocomplete="off">
+    <button class="nav-search-submit" type="submit"></button>`;
+  form.querySelector('label').textContent = label;
+  const input = form.querySelector('input');
+  input.name = param;
+  input.placeholder = `${label}...`;
+  form.querySelector('button').setAttribute('aria-label', label);
+  (link.closest('p') || link).replaceWith(form);
+}
+
+/**
  * loads and decorates the header, mainly the nav
  * @param {Element} block The header block element
  */
@@ -237,6 +273,31 @@ export default async function decorate(block) {
       buttonContainer.classList.remove('button-container');
       buttonContainer.querySelector('.button').classList.remove('button');
     });
+    // page themes opt in with --header-mobile-accordion: on - in the mobile menu, the titled
+    // groups inside a dropdown (title + link list) open and close like an accordion
+    if (headerOption(block, '--header-mobile-accordion') === 'on') {
+      navSections.querySelectorAll('.nav-drop > ul > li').forEach((group) => {
+        const title = group.querySelector(':scope > p');
+        if (!title || !group.querySelector(':scope > ul')) return;
+        group.classList.add('nav-group');
+        group.setAttribute('aria-expanded', 'false');
+        title.setAttribute('role', 'button');
+        title.tabIndex = 0;
+        const toggle = (e) => {
+          if (isDesktop.matches) return;
+          e.stopPropagation();
+          const expanded = group.getAttribute('aria-expanded') === 'true';
+          group.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        };
+        title.addEventListener('click', toggle);
+        title.addEventListener('keydown', (e) => {
+          if (e.code === 'Enter' || e.code === 'Space') {
+            e.preventDefault();
+            toggle(e);
+          }
+        });
+      });
+    }
   }
 
   const navTools = nav.querySelector('.nav-tools');
@@ -245,6 +306,8 @@ export default async function decorate(block) {
     if (search && search.textContent === '') {
       search.setAttribute('aria-label', 'Search');
     }
+    // page themes opt in with --header-search: expand
+    if (search && headerOption(block, '--header-search') === 'expand') buildSearchForm(search);
   }
 
   // hamburger for mobile
@@ -266,10 +329,29 @@ export default async function decorate(block) {
   navWrapper.append(nav);
   block.append(navWrapper);
 
-  // lets page themes restyle the header once the page is scrolled (e.g. transparent over a hero)
-  const onScroll = () => navWrapper.classList.toggle('header-scrolled', window.scrollY > 8);
+  // lets page themes restyle the header once the page is scrolled (e.g. transparent over a hero);
+  // themes opting in with --header-hide-on-scroll: on also get .header-hidden while scrolling down
+  const hideOnScroll = headerOption(block, '--header-hide-on-scroll') === 'on';
+  let lastScrollY = window.scrollY;
+  const onScroll = () => {
+    const { scrollY } = window;
+    navWrapper.classList.toggle('header-scrolled', scrollY > 8);
+    if (hideOnScroll && Math.abs(scrollY - lastScrollY) > 4) {
+      const menuOpen = nav.getAttribute('aria-expanded') === 'true' && !isDesktop.matches;
+      const dropOpen = navSections?.querySelector('.nav-drop[aria-expanded="true"]');
+      const goingDown = scrollY > lastScrollY && scrollY > navWrapper.offsetHeight;
+      navWrapper.classList.toggle('header-hidden', goingDown && !menuOpen && !dropOpen);
+      lastScrollY = scrollY;
+    }
+  };
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
+
+  // a click outside the nav closes an open desktop dropdown
+  document.addEventListener('click', (e) => {
+    if (!navSections || !isDesktop.matches || nav.contains(e.target)) return;
+    toggleAllNavSections(navSections);
+  });
 
   if (getMetadata('breadcrumbs').toLowerCase() === 'true') {
     navWrapper.append(await buildBreadcrumbs());

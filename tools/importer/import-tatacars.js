@@ -181,10 +181,17 @@ function addMetadata(main, document, template) {
  * adjustImageUrls absolutises image src / link href against the local source URL
  * (http://localhost:8090/images/tatacars/x.jpg) - rewrite back to site-relative paths.
  */
+// Images live in the code repo (/images/tatacars/). They are referenced by absolute URL on the
+// live Edge Delivery host so they also resolve in Universal Editor on AEM author (where the
+// site-relative /images/... path does not exist) and can be ingested by Content Sync.
+const IMAGE_HOST = 'https://main--exp-mord-agent--kevalteknopoint.aem.live';
+
 function relativizeUrls(main) {
   main.querySelectorAll('img[src]').forEach((img) => {
-    const m = img.getAttribute('src').match(/^(?:https?:)?\/\/localhost(?::\d+)?(\/images\/tatacars\/[^?#]+)/i);
-    if (m) img.setAttribute('src', m[1]);
+    const src = img.getAttribute('src');
+    const m = src.match(/^(?:https?:)?\/\/localhost(?::\d+)?(\/images\/tatacars\/[^?#]+)/i)
+      || src.match(/^(\/images\/tatacars\/[^?#]+)/i);
+    if (m) img.setAttribute('src', `${IMAGE_HOST}${m[1]}`);
   });
   main.querySelectorAll('a[href]').forEach((a) => {
     const m = a.getAttribute('href').match(/^(?:https?:)?\/\/localhost(?::\d+)?(\/[^#]*)?(#.*)?$/i);

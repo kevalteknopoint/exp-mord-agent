@@ -642,10 +642,12 @@ var CustomImportScript = (() => {
     main.append(block);
     return meta;
   }
+  var IMAGE_HOST = "https://main--exp-mord-agent--kevalteknopoint.aem.live";
   function relativizeUrls(main) {
     main.querySelectorAll("img[src]").forEach((img) => {
-      const m = img.getAttribute("src").match(/^(?:https?:)?\/\/localhost(?::\d+)?(\/images\/tatacars\/[^?#]+)/i);
-      if (m) img.setAttribute("src", m[1]);
+      const src = img.getAttribute("src");
+      const m = src.match(/^(?:https?:)?\/\/localhost(?::\d+)?(\/images\/tatacars\/[^?#]+)/i) || src.match(/^(\/images\/tatacars\/[^?#]+)/i);
+      if (m) img.setAttribute("src", `${IMAGE_HOST}${m[1]}`);
     });
     main.querySelectorAll("a[href]").forEach((a) => {
       const m = a.getAttribute("href").match(/^(?:https?:)?\/\/localhost(?::\d+)?(\/[^#]*)?(#.*)?$/i);

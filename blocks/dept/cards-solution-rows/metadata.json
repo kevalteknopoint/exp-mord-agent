@@ -1,0 +1,18 @@
+{
+  "variantName": "cards-solution-rows",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "summary": "5 stacked rows: title + description + Learn more CTA (left), landscape image (right), top borders"
+  },
+  "contentPattern": {
+    "structure": "Row per solution: cell 1 image, cell 2 H3 title + description + link 'Learn more'."
+  },
+  "usage": {
+    "pagesUsing": ["/en-in/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-08T00:00:00.000Z"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

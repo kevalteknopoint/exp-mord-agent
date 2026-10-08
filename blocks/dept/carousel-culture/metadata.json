@@ -1,0 +1,39 @@
+{
+  "variantName": "carousel-culture",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2026-05-25T15:27:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.deptagency.com/en-in/",
+    "originPage": "DEPT Agency India homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "culture-highlights",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "title text overlay + background image + statistics text",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "company culture highlight carousels",
+      "brand values showcase with images",
+      "achievement/certification carousels"
+    ],
+    "notSuitableFor": [
+      "hero banner carousels",
+      "testimonial carousels",
+      "product image galleries"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en-in/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-25T15:27:00.000Z"
+  }
+}

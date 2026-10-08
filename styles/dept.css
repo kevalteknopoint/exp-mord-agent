@@ -1,0 +1,1208 @@
+/*
+ * /dept page theme (page metadata Template "dept" => body.dept).
+ * Everything here is scoped under body.dept so the site-wide Tata AIA theme
+ * (brand.css / styles.css) of every other page stays untouched. The page uses its own
+ * header (/dept-nav) and footer (/dept-footer) fragments, styled here too.
+ * Source: https://www.dept.global/en-in/ (values measured from the live page).
+ */
+
+body.dept {
+  /* palette */
+  --dept-color-black: #121212;
+  --dept-color-ink: #000;
+  --dept-color-muted: #767676;
+  --dept-color-white: #fff;
+  --dept-color-orange: #ff4901;
+
+  /* typography */
+  --dept-font: inter, inter-fallback, 'Helvetica Neue', arial, sans-serif;
+  --dept-letter-spacing: -0.05em;
+
+  /* motion */
+  --dept-ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --dept-ease-out: cubic-bezier(0.25, 1, 0.5, 1);
+  --dept-ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  /* shared semantic tokens */
+  --background-color: var(--dept-color-white);
+  --text-color: var(--dept-color-ink);
+  --heading-color: var(--dept-color-ink);
+  --link-color: var(--dept-color-black);
+  --link-hover-color: var(--dept-color-muted);
+  --body-font-family: var(--dept-font);
+  --heading-font-family: var(--dept-font);
+  --nav-height: 106px;
+
+  background: var(--dept-color-white);
+  color: var(--dept-color-ink);
+  font-family: var(--dept-font);
+}
+
+/* header, main and footer rules below target separate subtrees, so source order across them is irrelevant */
+/* stylelint-disable no-descending-specificity */
+
+/* ---------- main: type scale (fluid between the source's 375px and 1440px values) ---------- */
+body.dept main {
+  --dept-display-size: clamp(44px, calc(6.385vw + 20px), 112px);
+  --dept-display-line: 0.97;
+  --dept-display-tracking: -0.03em;
+  --dept-statement-size: clamp(32px, calc(2.629vw + 22.14px), 60px);
+  --dept-subtitle-size: clamp(24px, calc(0.376vw + 22.6px), 28px);
+  --dept-gutter: 21px;
+
+  overflow-x: clip;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* homepage (theme dept-home): tight tracking of the new brand design */
+body.dept:where(.dept-home, .dept-brand) main {
+  letter-spacing: var(--dept-letter-spacing);
+}
+
+body.dept main > .section {
+  padding: 0 var(--dept-gutter);
+}
+
+body.dept main > .section > div {
+  max-width: none;
+}
+
+body.dept main > .section > div + div {
+  margin-top: 0;
+}
+
+body.dept main :is(h1, h2, h3, h4, h5, h6) {
+  margin: 0;
+  color: var(--dept-color-ink);
+  font-family: var(--dept-font);
+}
+
+body.dept main p {
+  margin: 0;
+}
+
+body.dept main .default-content-wrapper a:any-link {
+  text-decoration: none;
+}
+
+/* display headings: heavy uppercase */
+body.dept:where(.dept-home, .dept-brand) main .default-content-wrapper :is(h1, h2) {
+  font-size: var(--dept-display-size);
+  font-weight: 900;
+  line-height: var(--dept-display-line);
+  letter-spacing: var(--dept-display-tracking);
+  text-transform: uppercase;
+}
+
+body.dept:where(.dept-home, .dept-brand) main em {
+  color: var(--dept-color-orange);
+  font-style: normal;
+}
+
+/* outline pill links ("View all work", "View all insights") */
+body.dept:where(.dept-home, .dept-brand) main a.button:any-link {
+  display: inline-block;
+  margin: 0;
+  border: 1px solid var(--dept-color-black);
+  border-radius: 9999px;
+  padding: 12px 24px 10.4px;
+  background: transparent;
+  color: var(--dept-color-black);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.8px;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+  transition: color 0.3s var(--dept-ease), background-color 0.3s var(--dept-ease), border-color 0.3s var(--dept-ease);
+}
+
+body.dept:where(.dept-home, .dept-brand) main a.button:hover,
+body.dept:where(.dept-home, .dept-brand) main a.button:focus-visible {
+  background: var(--dept-color-black);
+  color: var(--dept-color-white);
+}
+
+body.dept main .button-container {
+  margin: 0;
+}
+
+/* section labels ("Services", "Solutions") */
+body.dept main :is(.dept-services, .dept-solutions) .default-content-wrapper > p:first-child {
+  margin: var(--dept-gutter) 0;
+  padding-bottom: 17px;
+  color: var(--dept-color-muted);
+  font-size: 20px;
+  line-height: 21px;
+  letter-spacing: -0.84px;
+}
+
+/* sections */
+body.dept main > .section.dept-hero {
+  margin-top: 72px;
+  padding-top: 60px;
+}
+
+body.dept main > .section.dept-statement {
+  padding-top: 20px;
+  padding-bottom: 136px;
+}
+
+body.dept main .dept-statement p {
+  max-width: 689px;
+  font-size: var(--dept-statement-size);
+  line-height: 1.05;
+  letter-spacing: -0.04em;
+}
+
+body.dept main .dept-services .default-content-wrapper h2 {
+  max-width: 800px;
+
+  /* label margin (21px) + block padding (30px / 40px) on the source; margins would collapse */
+  margin: 51px 0 36px;
+}
+
+body.dept main .dept-services .default-content-wrapper h2 + p {
+  max-width: 768px;
+  margin-bottom: 80px;
+  font-size: var(--dept-subtitle-size);
+  line-height: 31.92px;
+  letter-spacing: -0.048em;
+}
+
+body.dept main > .section.dept-work {
+  padding-top: 40px;
+  padding-bottom: 90px;
+}
+
+body.dept main :is(.dept-work, .dept-insights) > .default-content-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+body.dept main .dept-work > .default-content-wrapper {
+  margin-bottom: 48px;
+}
+
+body.dept main .dept-solutions .default-content-wrapper > p + p {
+  max-width: 760px;
+  padding: 40px 0 60px;
+  font-size: var(--dept-display-size);
+  font-weight: 900;
+  line-height: var(--dept-display-line);
+  letter-spacing: var(--dept-display-tracking);
+  text-transform: uppercase;
+}
+
+body.dept main > .section.dept-insights {
+  padding-top: 40px;
+  padding-bottom: 280px;
+}
+
+body.dept main .dept-insights .default-content-wrapper h2 {
+  font-size: clamp(48px, calc(4.131vw + 32.5px), 92px);
+  font-weight: 700;
+  line-height: 0.9;
+}
+
+body.dept main .dept-insights .default-content-wrapper .button-container {
+  flex: 1 0 100%;
+}
+
+body.dept main .dept-insights .default-content-wrapper a.button:any-link {
+  width: 100%;
+  text-align: center;
+}
+
+body.dept main > .section.dept-culture {
+  padding: 0;
+}
+
+@media (width >= 900px) {
+  body.dept main {
+    --dept-display-line: 0.86;
+  }
+
+  body.dept main > .section.dept-statement {
+    padding-top: 40px;
+    padding-bottom: 200px;
+  }
+
+  body.dept main .dept-services .default-content-wrapper h2 {
+    margin: 61px 0 52px;
+  }
+
+  body.dept main .dept-services .default-content-wrapper h2 + p {
+    margin-bottom: 104px;
+  }
+
+  body.dept main > .section.dept-work {
+    padding-bottom: 148px;
+  }
+
+  body.dept main .dept-solutions .default-content-wrapper > p + p {
+    padding: 148px 0 80px;
+  }
+
+  body.dept main > .section.dept-insights {
+    padding-bottom: 296px;
+  }
+
+  body.dept main .dept-insights .default-content-wrapper .button-container {
+    flex: 0 0 auto;
+  }
+
+  body.dept main .dept-insights .default-content-wrapper a.button:any-link {
+    width: auto;
+  }
+}
+
+/* mobile: the "View all" link sits below the cards (source layout); the authored order is unchanged */
+@media (width < 900px) {
+  body.dept main > .section:is(.dept-work, .dept-insights) {
+    display: flex;
+    flex-direction: column;
+  }
+
+  body.dept main :is(.dept-work, .dept-insights) > .default-content-wrapper {
+    display: contents;
+  }
+
+  body.dept main :is(.dept-work, .dept-insights) > .default-content-wrapper > :is(h2, h3) {
+    margin-bottom: 40px;
+  }
+
+  body.dept main :is(.dept-work, .dept-insights) > .default-content-wrapper > .button-container {
+    order: 1;
+    margin-top: 40px;
+    text-align: start;
+  }
+}
+
+/* ---------- header (/dept-nav) ---------- */
+
+/* header options read by header.js */
+body.dept header .header {
+  --header-hide-on-scroll: on;
+  --header-search: expand;
+  --header-mobile-accordion: on;
+}
+
+body.dept header .nav-wrapper {
+  background-color: rgb(255 255 255 / 90%);
+  backdrop-filter: blur(24px) brightness(1.05) saturate(1.25);
+  animation: dept-fade-in 1s ease both;
+  transition: transform 0.6s var(--dept-ease-out);
+}
+
+body.dept header .nav-wrapper.header-hidden {
+  transform: translateY(-100%);
+}
+
+@keyframes dept-fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes dept-shift-away {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+body.dept header nav {
+  height: var(--nav-height);
+  max-width: none;
+  padding: 21px;
+  color: var(--dept-color-ink);
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: var(--dept-letter-spacing);
+}
+
+/* the site-wide p/li type scale must not leak into the header */
+body.dept header nav :is(p, li) {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+body.dept header nav .nav-brand {
+  flex-basis: auto;
+  justify-self: center;
+  font-size: 0;
+  line-height: 0;
+}
+
+body.dept header nav .nav-brand a:any-link {
+  display: block;
+}
+
+body.dept header nav .nav-brand img {
+  display: block;
+  width: auto;
+  height: 64px;
+}
+
+body.dept header nav .nav-hamburger button {
+  background: transparent;
+}
+
+
+/* search form + Contact pill (shared by the desktop bar and the mobile menu) */
+body.dept header nav .nav-search-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+body.dept header nav .nav-search-input {
+  flex: 1;
+  min-width: 0;
+  border: 0;
+  padding: 0 0 0 12px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: uppercase;
+  outline: none;
+}
+
+body.dept header nav .nav-search-submit {
+  flex: 0 0 24px;
+  width: 24px;
+  height: 24px;
+  margin: 0 9px;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  background: currentcolor;
+  cursor: pointer;
+  transition: scale 0.3s var(--dept-ease);
+  mask: url('../icons/search.svg') center / contain no-repeat;
+}
+
+
+body.dept header nav .nav-tools .button-container {
+  margin: 0;
+}
+
+body.dept header nav .nav-tools a.button:any-link {
+  display: inline-block;
+  margin: 0;
+  border: 1px solid var(--dept-color-black);
+  border-radius: 9999px;
+  padding: 12px 24px 10.4px;
+  background-color: var(--dept-color-black);
+  color: var(--dept-color-white);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: var(--dept-letter-spacing);
+  text-transform: uppercase;
+  transition: color 0.3s var(--dept-ease), background-color 0.3s var(--dept-ease), border-color 0.3s var(--dept-ease);
+}
+
+body.dept header nav .nav-tools a.button:hover {
+  background-color: var(--dept-color-white);
+  color: var(--dept-color-black);
+}
+
+/* ---------- mobile header: centred logo + text "Menu" button, full-screen blurred menu ---------- */
+@media (width < 900px) {
+  body.dept header nav {
+    grid-template: 'start brand hamburger' auto / 1fr auto 1fr;
+    align-items: start;
+    gap: 0 16px;
+  }
+
+  body.dept header nav[aria-expanded='false'] .nav-tools {
+    display: none;
+  }
+
+  body.dept header nav .nav-hamburger {
+    justify-self: end;
+    height: 20px;
+  }
+
+  body.dept header nav .nav-hamburger button {
+    height: 20px;
+    padding: 0;
+    color: inherit;
+    font: inherit;
+    letter-spacing: inherit;
+    cursor: pointer;
+  }
+
+  body.dept header nav .nav-hamburger-icon {
+    display: none;
+  }
+
+  body.dept header nav .nav-hamburger button::after {
+    content: 'Menu';
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-hamburger button::after {
+    content: 'Close';
+  }
+
+  /* open menu: the bar becomes a full-screen overlay blurring the page behind it */
+  body.dept header .nav-wrapper:has(> nav[aria-expanded='true']) {
+    height: 100dvh;
+    background-color: rgb(255 255 255 / 30%);
+    backdrop-filter: blur(16px);
+  }
+
+  body.dept header nav[aria-expanded='true'] {
+    grid-template:
+      'sections hamburger' auto
+      'tools tools' auto / minmax(0, 1fr) auto;
+    align-content: start;
+    height: 100dvh;
+    padding: 32px;
+    animation: dept-fade-in 1s ease both;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-hamburger {
+    height: 28px;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-hamburger button {
+    height: 28px;
+    padding: 4px 8px;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-brand {
+    display: none;
+  }
+
+  /* top row: What we do, Work, Insights, Culture */
+  body.dept header nav[aria-expanded='true'] .nav-sections .default-content-wrapper > ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 12px;
+    margin: 0 0 0 -8px;
+    font-size: 16px;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .default-content-wrapper > ul > li {
+    padding: 4px 8px;
+    font-weight: 400;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-drop {
+    display: contents;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-drop > p {
+    padding: 4px 8px;
+    font-weight: 700;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-drop > p::after {
+    content: ' \2022';
+  }
+
+  /* the dropdown's groups become accordions below the top row */
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-drop > ul {
+    flex: 0 0 auto;
+    order: 1;
+
+    /* groups span the full menu width (under the Close button column too), 49px from each edge */
+    width: calc(100vw - 98px);
+    margin: 33px 0 0 25px;
+    padding: 0;
+    font-size: 16px;
+    list-style: none;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-group {
+    display: grid;
+    grid-template-rows: auto 0fr;
+    border-bottom: 1px solid var(--dept-color-muted);
+    transition: grid-template-rows 0.3s var(--dept-ease);
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-group:last-child {
+    border-bottom: 0;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-group[aria-expanded='true'] {
+    grid-template-rows: auto 1fr;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-group > p {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 32px 0 20px;
+    color: var(--dept-color-muted);
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-group > p::after {
+    content: '';
+    width: 12px;
+    height: 12px;
+    background: currentcolor;
+    transition: rotate 0.5s var(--dept-ease-spring);
+    mask: url('../icons/chevron-down.svg') center / contain no-repeat;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-group[aria-expanded='true'] > p::after {
+    rotate: 180deg;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-group > ul {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: inherit;
+    list-style: none;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-group > ul > li {
+    color: var(--dept-color-black);
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-sections .nav-group > ul > li:last-child {
+    margin: 20px 0 32px;
+  }
+
+  /* search + Contact below the groups */
+  body.dept header nav[aria-expanded='true'] .nav-tools .default-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 16px;
+    margin-top: 24px;
+  }
+
+  body.dept header nav[aria-expanded='true'] .nav-tools .nav-search {
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    height: 42px;
+    margin: 0;
+  }
+}
+
+@media (width >= 900px) {
+  body.dept {
+    --nav-height: 148px;
+  }
+
+  body.dept header nav {
+    display: grid;
+    grid-template: 'sections brand tools' auto / 1fr auto 1fr;
+    align-items: start;
+    gap: 32px;
+  }
+
+  body.dept header nav .nav-brand img {
+    height: 106px;
+  }
+
+  /* sections */
+  body.dept header nav .nav-sections {
+    justify-self: start;
+  }
+
+  body.dept header nav .nav-sections .default-content-wrapper > ul {
+    gap: 32px;
+    font-size: 16px;
+  }
+
+  body.dept header nav .nav-sections .default-content-wrapper > ul > li {
+    border-radius: 4px;
+    padding: 2px 4px;
+    font-weight: 400;
+    line-height: 20px;
+  }
+
+  body.dept header nav .nav-sections .nav-drop {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding-right: 4px;
+  }
+
+  body.dept header nav .nav-sections .nav-drop > p {
+    line-height: 20px;
+  }
+
+  body.dept header nav .nav-sections .nav-drop::after {
+    position: static;
+    width: 12px;
+    height: 12px;
+    border: 0;
+    background: currentcolor;
+    transform: none;
+    transition: scale 0.3s var(--dept-ease-spring);
+    mask: url('../icons/chevron-down.svg') center / contain no-repeat;
+  }
+
+  body.dept header nav .nav-sections .nav-drop[aria-expanded='true']::after {
+    bottom: auto;
+    transform: none;
+    scale: 1 -1;
+  }
+
+  /* "What we do" flyout: three link columns */
+  body.dept header nav .nav-sections .default-content-wrapper > ul > li > ul::before {
+    display: none;
+  }
+
+  body.dept header nav .nav-sections .default-content-wrapper > ul > li[aria-expanded='true'] > ul {
+    display: flex;
+    left: -16px;
+    top: calc(100% + 8px);
+    gap: 44px;
+    width: max-content;
+    max-width: 90vw;
+    border: 1px solid var(--dept-color-muted);
+    border-radius: 8px;
+    padding: 32px;
+    background-color: var(--dept-color-white);
+    color: var(--dept-color-black);
+    font-size: 14px;
+    line-height: 19.6px;
+    letter-spacing: -0.8px;
+    text-transform: uppercase;
+    white-space: normal;
+    cursor: auto;
+    animation: dept-shift-away 0.3s var(--dept-ease) both;
+  }
+
+  body.dept header nav .nav-sections .default-content-wrapper > ul > li > ul > li {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 0 32px 0 0;
+  }
+
+  body.dept header nav .nav-sections .default-content-wrapper > ul > li > ul > li > p {
+    color: var(--dept-color-muted);
+    line-height: 19.6px;
+  }
+
+  body.dept header nav .nav-sections .default-content-wrapper > ul > li > ul > li > ul {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 12px;
+    max-width: 168px;
+    font-size: inherit;
+    line-height: inherit;
+  }
+
+  body.dept header nav .nav-sections .default-content-wrapper > ul > li > ul > li > ul > li {
+    border-radius: 4px;
+    padding: 2px 4px;
+    font-weight: 400;
+    transition: background-color 0.3s var(--dept-ease), color 0.3s var(--dept-ease);
+  }
+
+  /* each group's "All ... →" link sits at the bottom of its column */
+  body.dept header nav .nav-sections .default-content-wrapper > ul > li > ul > li > ul > li:last-child {
+    margin-top: auto;
+    font-weight: 500;
+  }
+
+  body.dept header nav .nav-sections .default-content-wrapper > ul > li > ul > li > ul > li:hover {
+    background-color: rgb(18 18 18 / 6%);
+  }
+
+  /* tools: expanding search + Contact pill */
+  body.dept header nav .nav-tools .default-content-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 14px;
+  }
+
+  body.dept header nav .nav-tools .nav-search {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 42px;
+    height: 42px;
+    margin: 0;
+    overflow: hidden;
+    transition: width 0.3s var(--dept-ease);
+  }
+
+  body.dept header nav .nav-tools .nav-search:hover,
+  body.dept header nav .nav-tools .nav-search:focus-within {
+    width: 342px;
+  }
+
+  body.dept header nav .nav-tools .nav-search:hover .nav-search-submit {
+    scale: 1.15;
+  }
+}
+
+/* ---------- footer (/dept-footer) ---------- */
+
+/* footer options read by footer.js */
+body.dept footer .section.footer-brand {
+  --footer-link-logo: on;
+  --footer-popover-lists: on;
+}
+
+body.dept footer {
+  border-top: 0;
+  background: var(--dept-color-white);
+  color: var(--dept-color-ink);
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: var(--dept-letter-spacing);
+}
+
+/* mobile first: contact + social, pages + badges, logo + locations, apparel band, legal */
+body.dept footer .footer > div {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0 20px;
+  max-width: none;
+  margin: 0 21px;
+  border-top: 1px solid var(--dept-color-muted);
+  padding: 48px 0 0;
+  text-align: left;
+}
+
+body.dept footer .section,
+body.dept footer .section > div {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+body.dept footer :is(p, li) {
+  margin: 0;
+  color: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+body.dept footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body.dept footer a:any-link {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.3s var(--dept-ease);
+}
+
+body.dept footer a:hover {
+  color: var(--dept-color-muted);
+}
+
+body.dept footer .footer-contact {
+  grid-column: 1 / -1;
+  order: 1;
+}
+
+body.dept footer .footer-studios {
+  display: none;
+}
+
+body.dept footer .footer-pages {
+  grid-column: 1 / 4;
+  order: 2;
+  margin-top: 37px;
+}
+
+body.dept footer .footer-certifications {
+  grid-column: 4 / 5;
+  order: 3;
+  margin-top: 37px;
+}
+
+body.dept footer .footer-brand {
+  grid-column: 1 / -1;
+  order: 4;
+  margin-top: 52px;
+}
+
+body.dept footer .footer-bottom {
+  grid-column: 1 / -1;
+  order: 6;
+}
+
+/* brand: logo + location picker */
+body.dept footer .footer-brand .default-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 36px;
+  height: 100%;
+}
+
+body.dept footer .footer-logo a:any-link {
+  display: inline-block;
+}
+
+body.dept footer .footer-logo img {
+  display: block;
+  width: auto;
+  height: 140px;
+}
+
+body.dept footer .footer-popover {
+  position: relative;
+  align-self: flex-start;
+  width: fit-content;
+}
+
+body.dept footer .footer-popover-trigger {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+body.dept footer .footer-popover-trigger::after {
+  content: '';
+  width: 10px;
+  height: 10px;
+  translate: 0 -0.15em;
+  background: currentcolor;
+  transition: scale 0.3s var(--dept-ease-spring);
+  mask: url('../icons/dept-chevron-up.svg') center / contain no-repeat;
+}
+
+body.dept footer .footer-popover-trigger[aria-expanded='true']::after {
+  scale: 1 -1;
+}
+
+body.dept footer .footer-popover-list {
+  display: none;
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: -8px;
+  z-index: 2;
+  flex-direction: column;
+  gap: 16px;
+  width: max-content;
+  border: 1px solid var(--dept-color-muted);
+  border-radius: 8px;
+  padding: 16px;
+  background: var(--dept-color-white);
+  color: var(--dept-color-black);
+  font-size: 14px;
+  line-height: 19.6px;
+  text-transform: uppercase;
+  animation: dept-shift-away 0.3s var(--dept-ease) both;
+}
+
+body.dept footer .footer-popover-trigger[aria-expanded='true'] + .footer-popover-list {
+  display: flex;
+}
+
+/* studios + pages: uppercase link columns */
+body.dept footer :is(.footer-studios, .footer-pages) ul {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 36px 16px 0 0;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+/* contact + social, separated by thin rules */
+body.dept footer .footer-contact .default-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+}
+
+body.dept footer .footer-contact p {
+  margin-bottom: 36px;
+  border-bottom: 1px solid var(--dept-color-muted);
+  padding-bottom: 35.5px;
+}
+
+body.dept footer .footer-contact ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+}
+
+/* B Corp + climate neutral badges */
+body.dept footer .footer-certifications .default-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 100%;
+}
+
+body.dept footer .footer-certifications img {
+  display: block;
+  width: 40px;
+  height: auto;
+}
+
+/* DEPT Apparel band: full-bleed orange strip, artwork drawn on the link that covers the band */
+body.dept footer .footer-apparel {
+  position: relative;
+  grid-column: 1 / -1;
+  order: 5;
+  margin: 48px -21px 0;
+  background: var(--dept-color-orange);
+}
+
+body.dept footer .footer-apparel .default-content-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 42px 21px 30px;
+}
+
+body.dept footer .footer-apparel a:any-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  overflow: hidden;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  color: transparent;
+  font-size: 0;
+  background:
+    url('../icons/dept-apparel-logo.svg') left 21px top 18px / 228px 24px no-repeat,
+    url('../icons/dept-apparel-arrow.svg') right 21px top 18px / 22px 22px no-repeat,
+    url('../icons/dept-apparel-deco-one.svg') left 21px bottom 18px / 118px 12px no-repeat,
+    url('../icons/dept-apparel-deco-two.svg') right 21px bottom 18px / 174px 12px no-repeat;
+}
+
+body.dept footer .footer-apparel img {
+  display: block;
+  width: auto;
+  max-width: 264px;
+  height: auto;
+}
+
+/* legal row */
+body.dept footer .footer-bottom .default-content-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 24px 0 18px;
+  color: #595959;
+}
+
+body.dept footer .footer-bottom a:hover {
+  color: inherit;
+  text-decoration: underline;
+}
+
+@media (width >= 900px) {
+  body.dept footer .footer > div {
+    grid-template-columns: repeat(12, minmax(0, 1fr)) 52px;
+    padding-top: 52px;
+  }
+
+  body.dept footer .section {
+    order: 0;
+  }
+
+  body.dept footer .footer-brand {
+    grid-column: 1 / 4;
+    margin-top: 0;
+  }
+
+  body.dept footer .footer-brand .default-content-wrapper {
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  body.dept footer .footer-studios {
+    display: block;
+    grid-column: 6 / 8;
+  }
+
+  body.dept footer .footer-pages {
+    grid-column: 8 / 10;
+    margin-top: 0;
+  }
+
+  body.dept footer :is(.footer-studios, .footer-pages) ul {
+    justify-content: flex-end;
+    gap: 0;
+    height: 100%;
+    padding-top: 0;
+  }
+
+  body.dept footer .footer-contact {
+    grid-column: 10 / 13;
+  }
+
+  body.dept footer .footer-contact p {
+    margin-bottom: 28.5px;
+    padding-bottom: 28.5px;
+  }
+
+  body.dept footer .footer-contact ul {
+    gap: 8px 32px;
+  }
+
+  body.dept footer .footer-certifications {
+    grid-column: 13 / 14;
+    margin-top: 0;
+  }
+
+  body.dept footer .footer-certifications .default-content-wrapper {
+    align-items: flex-end;
+  }
+
+  body.dept footer .footer-apparel {
+    margin-top: 48px;
+  }
+
+  body.dept footer .footer-apparel .default-content-wrapper {
+    justify-content: center;
+    min-height: 70px;
+    padding: 24px 21px 24px 85px;
+  }
+
+  body.dept footer .footer-apparel a:any-link {
+    background:
+      url('../icons/dept-apparel-logo.svg') left 21px center / 228px 24px no-repeat,
+      url('../icons/dept-apparel-deco-one.svg') 28.4% center / 118px 12px no-repeat,
+      url('../icons/dept-apparel-deco-two.svg') 79.8% center / 174px 12px no-repeat,
+      url('../icons/dept-apparel-shop.svg') right 51px center / 79px 22px no-repeat,
+      url('../icons/dept-apparel-arrow.svg') right 21px center / 22px 22px no-repeat;
+  }
+
+  body.dept footer .footer-bottom .default-content-wrapper {
+    margin: 44px 0 24px;
+  }
+}
+
+/* ---------- scroll reveals (templates/dept/dept.js adds body.dept-motion + data-dept-reveal) ---------- */
+body.dept main .dept-word {
+  display: inline-block;
+  clip-path: inset(-0.08em -0.3em);
+}
+
+body.dept main .dept-word > span {
+  display: inline-block;
+}
+
+body.dept.dept-motion main [data-dept-reveal='words'] .dept-word > span {
+  transform: translateY(1.25lh);
+  transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+body.dept.dept-motion main [data-dept-reveal='slide'] {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: transform 0.8s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+body.dept.dept-motion main [data-dept-reveal='image'] {
+  display: block;
+  opacity: 0;
+  transform: scale(0.98);
+  transition: opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1) 0.25s, transform 0.7s cubic-bezier(0.22, 1, 0.36, 1) 0.25s;
+}
+
+body.dept.dept-motion main .dept-revealed[data-dept-reveal='words'] .dept-word > span,
+body.dept.dept-motion main .dept-revealed:is([data-dept-reveal='slide'], [data-dept-reveal='image']) {
+  opacity: 1;
+  transform: none;
+}
+
+@media (width >= 1440px) {
+  body.dept main > .section.dept-hero {
+    padding-top: 100px;
+  }
+}
+
+/* hero entrance on load (CSS only, so the LCP heading never waits for a script) */
+@keyframes dept-rise {
+  from {
+    clip-path: inset(0 0 100% 0);
+    transform: translateY(0.6em);
+  }
+
+  to {
+    clip-path: inset(-0.1em -0.3em);
+    transform: none;
+  }
+}
+
+@keyframes dept-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  body.dept main .dept-hero .hero-video h1 {
+    animation: dept-rise 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.1s both;
+  }
+
+  body.dept main .dept-hero .hero-video .button-container {
+    animation: dept-fade-up 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.45s both;
+  }
+
+  body.dept main .dept-hero .hero-video .video-embed {
+    animation: dept-fade-in 1s cubic-bezier(0.22, 1, 0.36, 1) 0.6s both;
+  }
+}
+
+/* feature titles with an accent word (DEPTIFY) are bold on the source; the importer can't keep <b> in headings */
+body.dept main .columns-feature :is(h2, h3):has(em) {
+  font-weight: 700;
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/building-an-automated-group-travel-app/",
+  "path": "dept/en-in/case/building-an-automated-group-travel-app",
+  "timestamp": "2026-10-08T15:16:51.812Z",
+  "title": "Featured work: ITA Group’s app development",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [
+    "image",
+    "statement",
+    "image",
+    "image"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/ITA-Group-MultiScreen-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/ITA-Group-MultiScreen-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/ITA-Group-Case-Image-Graph-1-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/ITA-Group-Case-Image-Graph-1-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/ITA-Group-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/ITA-Group-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/alex-glaser.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/alex-glaser.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Skyteam-case-min-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Skyteam-case-min-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline_1000x1200-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline_1000x1200-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Audience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Audience.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/ITA-Group-Case-Image-Mockup-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/ITA-Group-Case-Image-Mockup-1920x1080-1.jpg"
+    ]
+  ]
+}

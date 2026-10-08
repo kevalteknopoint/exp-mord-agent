@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "url": "http://localhost:8090/migration-work/design-dept/source/dept-nav.html",
+  "path": "dept-nav",
+  "timestamp": "2026-10-08T14:19:49.248Z",
+  "title": "DEPT header fragment: brand | sections (What we do flyout + links) | tools (search, Contact)",
+  "template": "dept-nav",
+  "blocks": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/logo-dept.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/logo-dept.svg"
+    ]
+  ]
+}

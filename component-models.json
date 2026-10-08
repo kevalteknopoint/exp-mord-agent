@@ -20,6 +20,34 @@
         "name": "keywords",
         "multi": true,
         "label": "Keywords"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "template",
+        "label": "Template",
+        "description": "Page template, added as a body class (DEPT pages: dept)"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "theme",
+        "label": "Theme",
+        "description": "Comma-separated body classes, e.g. dept-insight or dept-case, dept-brand"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "nav",
+        "label": "Navigation",
+        "description": "Path of the header fragment, e.g. /dept/en-in/nav"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "footer",
+        "label": "Footer",
+        "description": "Path of the footer fragment, e.g. /dept/en-in/footer"
       }
     ]
   },
@@ -136,6 +164,242 @@
           {
             "name": "Highlight",
             "value": "highlight"
+          },
+          {
+            "name": "DEPT: hero",
+            "value": "dept-hero"
+          },
+          {
+            "name": "DEPT: statement",
+            "value": "dept-statement"
+          },
+          {
+            "name": "DEPT: features",
+            "value": "dept-features"
+          },
+          {
+            "name": "DEPT: services",
+            "value": "dept-services"
+          },
+          {
+            "name": "DEPT: work",
+            "value": "dept-work"
+          },
+          {
+            "name": "DEPT: solutions",
+            "value": "dept-solutions"
+          },
+          {
+            "name": "DEPT: culture",
+            "value": "dept-culture"
+          },
+          {
+            "name": "DEPT: insights",
+            "value": "dept-insights"
+          },
+          {
+            "name": "DEPT: article post header",
+            "value": "dept-article-post-header"
+          },
+          {
+            "name": "DEPT: assets and copy",
+            "value": "dept-assets-and-copy"
+          },
+          {
+            "name": "DEPT: case intro",
+            "value": "dept-case-intro"
+          },
+          {
+            "name": "DEPT: case post header",
+            "value": "dept-case-post-header"
+          },
+          {
+            "name": "DEPT: case quote",
+            "value": "dept-case-quote"
+          },
+          {
+            "name": "DEPT: cta text",
+            "value": "dept-cta-text"
+          },
+          {
+            "name": "DEPT: custom listing",
+            "value": "dept-custom-listing"
+          },
+          {
+            "name": "DEPT: feature turntable",
+            "value": "dept-feature-turntable"
+          },
+          {
+            "name": "DEPT: full width image",
+            "value": "dept-full-width-image"
+          },
+          {
+            "name": "DEPT: get in touch",
+            "value": "dept-get-in-touch"
+          },
+          {
+            "name": "DEPT: highlighted cases",
+            "value": "dept-highlighted-cases"
+          },
+          {
+            "name": "DEPT: highlighted item listing",
+            "value": "dept-highlighted-item-listing"
+          },
+          {
+            "name": "DEPT: image",
+            "value": "dept-image"
+          },
+          {
+            "name": "DEPT: image and fact",
+            "value": "dept-image-and-fact"
+          },
+          {
+            "name": "DEPT: insight cta",
+            "value": "dept-insight-cta"
+          },
+          {
+            "name": "DEPT: insight intro",
+            "value": "dept-insight-intro"
+          },
+          {
+            "name": "DEPT: jumbotron",
+            "value": "dept-jumbotron"
+          },
+          {
+            "name": "DEPT: next case",
+            "value": "dept-next-case"
+          },
+          {
+            "name": "DEPT: panel with image and rich text",
+            "value": "dept-panel-with-image-and-rich-text"
+          },
+          {
+            "name": "DEPT: panel with rich text",
+            "value": "dept-panel-with-rich-text"
+          },
+          {
+            "name": "DEPT: quote",
+            "value": "dept-quote"
+          },
+          {
+            "name": "DEPT: scrolly video intro",
+            "value": "dept-scrolly-video-intro"
+          },
+          {
+            "name": "DEPT: statement v2",
+            "value": "dept-statement-v2"
+          },
+          {
+            "name": "DEPT: stats and copy",
+            "value": "dept-stats-and-copy"
+          },
+          {
+            "name": "DEPT: stats panel",
+            "value": "dept-stats-panel"
+          },
+          {
+            "name": "DEPT: talking points",
+            "value": "dept-talking-points"
+          },
+          {
+            "name": "DEPT: title and content",
+            "value": "dept-title-and-content"
+          },
+          {
+            "name": "DEPT: title with cta",
+            "value": "dept-title-with-cta"
+          },
+          {
+            "name": "DEPT: video",
+            "value": "dept-video"
+          },
+          {
+            "name": "DEPT: work listing",
+            "value": "dept-work-listing"
+          },
+          {
+            "name": "DEPT: dark",
+            "value": "dept-dark"
+          },
+          {
+            "name": "DEPT: bg onyxgrey",
+            "value": "dept-bg-onyxgrey"
+          },
+          {
+            "name": "DEPT: bg richblack",
+            "value": "dept-bg-richblack"
+          },
+          {
+            "name": "DEPT: bg platinum",
+            "value": "dept-bg-platinum"
+          },
+          {
+            "name": "DEPT: bg silver",
+            "value": "dept-bg-silver"
+          },
+          {
+            "name": "DEPT: bg light",
+            "value": "dept-bg-light"
+          },
+          {
+            "name": "DEPT: bg orange",
+            "value": "dept-bg-orange"
+          },
+          {
+            "name": "DEPT: bg sky",
+            "value": "dept-bg-sky"
+          },
+          {
+            "name": "DEPT: bg rose",
+            "value": "dept-bg-rose"
+          },
+          {
+            "name": "DEPT: bg blue",
+            "value": "dept-bg-blue"
+          },
+          {
+            "name": "DEPT: variant copy only",
+            "value": "dept-variant-copy-only"
+          },
+          {
+            "name": "DEPT: variant full width content",
+            "value": "dept-variant-full-width-content"
+          },
+          {
+            "name": "DEPT: variant left aligned asset",
+            "value": "dept-variant-left-aligned-asset"
+          },
+          {
+            "name": "DEPT: variant center aligned asset",
+            "value": "dept-variant-center-aligned-asset"
+          },
+          {
+            "name": "DEPT: variant mobile asset",
+            "value": "dept-variant-mobile-asset"
+          },
+          {
+            "name": "DEPT: variant three up asset one",
+            "value": "dept-variant-three-up-asset-one"
+          },
+          {
+            "name": "DEPT: variant three up asset two",
+            "value": "dept-variant-three-up-asset-two"
+          },
+          {
+            "name": "DEPT: variant fifty fifty asset",
+            "value": "dept-variant-fifty-fifty-asset"
+          },
+          {
+            "name": "DEPT: variant seventy thirty asset one",
+            "value": "dept-variant-seventy-thirty-asset-one"
+          },
+          {
+            "name": "DEPT: variant seventy thirty asset two",
+            "value": "dept-variant-seventy-thirty-asset-two"
+          },
+          {
+            "name": "DEPT: text first",
+            "value": "dept-text-first"
           }
         ]
       }
@@ -607,6 +871,367 @@
         "name": "placeholder_imageAlt",
         "value": "",
         "label": "Placeholder Image Alt Text"
+      }
+    ]
+  },
+  {
+    "id": "article-header",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "label": "Image alt text",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Back link and title",
+        "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "portrait",
+        "label": "Author portrait",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "portraitAlt",
+        "label": "Author portrait alt text",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "name": "details",
+        "value": "",
+        "label": "Author and details (name, role, \"Label: value\" lines)",
+        "valueType": "string"
+      },
+      {
+        "component": "multiselect",
+        "name": "classes",
+        "value": "",
+        "label": "Options",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Intro (light, badge)",
+            "value": "intro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-solution-rows-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "card",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "carousel-culture-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "media_image",
+        "label": "Background Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "media_imageAlt",
+        "value": "",
+        "label": "Bacgkround Alt"
+      },
+      {
+        "component": "richtext",
+        "name": "content_text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "columns-feature",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "columns",
+        "value": "",
+        "label": "Columns"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "rows",
+        "value": "",
+        "label": "Rows"
+      }
+    ]
+  },
+  {
+    "id": "contact-specialist",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Specialist photo",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "label": "Photo alt text",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Heading, role, name and contact link",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cta-banner",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "label": "Image alt text",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Title, text and button",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "hero-video",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "label": "Alt",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "next-case",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "label": "Image alt text",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Label, client (heading), title, tags and link",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "panel-split",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "left",
+        "value": "",
+        "label": "Left (heading or image)",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "right",
+        "value": "",
+        "label": "Right (text)",
+        "valueType": "string"
+      },
+      {
+        "component": "multiselect",
+        "name": "classes",
+        "value": "",
+        "label": "Options",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Intro (services list | statement)",
+            "value": "intro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stat",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Value and label",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "video-embed",
+    "fields": [
+      {
+        "component": "aem-content",
+        "valueType": "string",
+        "name": "uri",
+        "label": "Video (YouTube, Vimeo or MP4 URL)"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "poster",
+        "label": "Poster image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "posterAlt",
+        "label": "Poster alt text",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text over the video (optional)",
+        "valueType": "string"
       }
     ]
   }

@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-insights",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-05-25T15:27:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.deptagency.com/en-in/",
+    "originPage": "DEPT Agency India homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "insights-articles",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + type label + category tags + title",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "blog/article listing cards",
+      "insight and whitepaper cards",
+      "content marketing cards with type labels and tags"
+    ],
+    "notSuitableFor": [
+      "product cards",
+      "case study cards with video",
+      "icon-based navigation cards"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/en-in/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-25T15:27:00.000Z"
+  }
+}

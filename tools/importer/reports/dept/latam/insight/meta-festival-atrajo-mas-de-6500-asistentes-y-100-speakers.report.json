@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/meta-festival-atrajo-mas-de-6500-asistentes-y-100-speakers/",
+  "path": "dept/latam/insight/meta-festival-atrajo-mas-de-6500-asistentes-y-100-speakers",
+  "timestamp": "2026-10-08T15:00:08.567Z",
+  "title": "Meta Festival atrajo más de 6,500+ asistentes y 100+ speakers - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [
+    "jumbotron"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Map-Metapolis.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Map-Metapolis.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Map-Metapolis-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Map-Metapolis-1024x576.png"
+    ]
+  ]
+}

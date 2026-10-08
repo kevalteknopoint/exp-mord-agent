@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/smart-flux-launches-biggest-campaign-of-the-year-for-smart/",
+  "path": "dept/en-uki/insight/smart-flux-launches-biggest-campaign-of-the-year-for-smart",
+  "timestamp": "2026-10-08T14:59:54.011Z",
+  "title": "DEPT® launches biggest campaign of the year for smart - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [
+    "image",
+    "video"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/smart-PR-landing-page-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/smart-PR-landing-page-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/020_Extras_Lifestyle_01415-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/020_Extras_Lifestyle_01415-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/smart-PR-landing-page-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/smart-PR-landing-page-min.jpg"
+    ]
+  ]
+}

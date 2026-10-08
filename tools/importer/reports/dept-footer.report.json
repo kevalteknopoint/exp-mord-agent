@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "http://localhost:8090/migration-work/design-dept/source/dept-footer.html",
+  "path": "dept-footer",
+  "timestamp": "2026-10-08T14:19:54.554Z",
+  "title": "DEPT footer fragment: brand + locations | studios | pages | contact + social | certifications | apparel band | legal",
+  "template": "dept-footer",
+  "blocks": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/logo-dept.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/logo-dept.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/dept-bcorp-logo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/dept-bcorp-logo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/The-Climate-Label.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/The-Climate-Label.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Gallery.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Gallery.png"
+    ]
+  ]
+}

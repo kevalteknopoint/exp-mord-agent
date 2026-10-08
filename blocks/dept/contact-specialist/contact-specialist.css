@@ -1,0 +1,153 @@
+/* "Questions?" contact panel (dept.global get-in-touch) */
+main .contact-specialist {
+  display: grid;
+  grid-template-columns: 100%;
+}
+
+main .contact-specialist .contact-specialist-intro {
+  padding: 40px 21px 80px;
+  background: #121212;
+  color: #fff;
+}
+
+main .contact-specialist .contact-specialist-intro :is(h1, h2) {
+  margin: 0;
+  color: #fff;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 45px;
+  letter-spacing: normal;
+}
+
+main .contact-specialist .contact-specialist-panel {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  color: #121212;
+}
+
+main .contact-specialist .contact-specialist-image {
+  display: none;
+}
+
+main .contact-specialist .contact-specialist-image p {
+  height: 100%;
+  margin: 0;
+}
+
+main .contact-specialist .contact-specialist-image picture,
+main .contact-specialist .contact-specialist-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+main .contact-specialist .contact-specialist-image img {
+  object-fit: cover;
+}
+
+main .contact-specialist .contact-specialist-person > div {
+  display: flex;
+  flex-direction: column;
+  padding: 21px;
+}
+
+main .contact-specialist .contact-specialist-person p,
+main .contact-specialist .contact-specialist-person :is(h3, h4) {
+  margin: 0;
+}
+
+main .contact-specialist .contact-specialist-role {
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 17.6px;
+  letter-spacing: 0.32px;
+}
+
+main .contact-specialist .contact-specialist-person :is(h3, h4) {
+  color: #121212;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27.5px;
+  letter-spacing: normal;
+}
+
+main .contact-specialist .contact-specialist-cta {
+  margin: 0;
+}
+
+main .contact-specialist .contact-specialist-cta a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+  padding: 0 21px;
+  background: #5115f7;
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+main .contact-specialist .contact-specialist-cta a:hover,
+main .contact-specialist .contact-specialist-cta a:focus-visible {
+  background: #3d0fc4;
+}
+
+main .contact-specialist .contact-specialist-cta svg {
+  flex: none;
+  transition: transform 0.3s ease;
+}
+
+main .contact-specialist .contact-specialist-cta a:hover svg {
+  transform: translateX(4px);
+}
+
+@media (width >= 900px) {
+  main .contact-specialist {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    min-height: 900px;
+  }
+
+  main .contact-specialist .contact-specialist-intro {
+    padding: 200px 64px 80px;
+  }
+
+  main .contact-specialist .contact-specialist-intro :is(h1, h2) {
+    font-size: 60px;
+    line-height: 75px;
+  }
+
+  main .contact-specialist .contact-specialist-panel {
+    padding-bottom: 80px;
+  }
+
+  main .contact-specialist .contact-specialist-image {
+    display: block;
+    flex: 0 0 670px;
+    min-height: 0;
+  }
+
+  main .contact-specialist .contact-specialist-person > div {
+    padding: 40px 64px;
+  }
+
+  main .contact-specialist .contact-specialist-person :is(h3, h4) {
+    font-size: 34px;
+    line-height: 42.5px;
+  }
+
+  /* the bar sits over the top edge of the photo, like on the source */
+  main .contact-specialist .contact-specialist-cta {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+  }
+
+  main .contact-specialist .contact-specialist-cta a {
+    padding: 0 64px;
+  }
+}

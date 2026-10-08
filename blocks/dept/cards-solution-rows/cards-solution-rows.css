@@ -1,0 +1,126 @@
+/*
+ * cards-solution-rows: full-bleed "image and fact" rows (DEPT® "How we invent growth").
+ * Values measured from https://www.dept.global/en-in/ (.block-image-and-fact, light theme).
+ * Mobile: title, text, CTA and image stacked. Desktop (>= 992px, the source breakpoint):
+ * copy in the left half, image in the right half; rows are static (no sticky stacking).
+ * Scroll reveals (h3 words, paragraph slide, picture fade/scale) come from templates/dept.
+ */
+.cards-solution-rows {
+  --csr-inset: 21px;
+  --csr-inset-y: 33.6px;
+  --csr-gap: 20px;
+  --csr-ink: var(--dept-color-black, #121212);
+
+  /* full bleed: cancel the section's side gutter */
+  margin-inline: calc(-1 * var(--dept-gutter, 21px));
+}
+
+.cards-solution-rows > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cards-solution-rows .cards-solution-rows-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--csr-gap);
+  margin: 0;
+  border-top: 1px solid var(--dept-color-muted, #767676);
+  background-color: var(--dept-color-white, #fff);
+  color: var(--csr-ink);
+}
+
+.cards-solution-rows .cards-solution-rows-body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--csr-gap);
+}
+
+.cards-solution-rows .cards-solution-rows-image {
+  order: 2;
+  display: flex;
+  place-content: center;
+  padding: var(--csr-inset-y);
+}
+
+/* imported/authored images arrive wrapped in a <p>; drop its margins so the image aligns */
+.cards-solution-rows .cards-solution-rows-image > p {
+  width: 100%;
+  margin: 0;
+}
+
+.cards-solution-rows .cards-solution-rows-image picture {
+  display: block;
+  width: 100%;
+}
+
+.cards-solution-rows .cards-solution-rows-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 5 / 3;
+  object-fit: cover;
+}
+
+/* title: text-sans-32-48 */
+.cards-solution-rows .cards-solution-rows-body > :is(h2, h3, h4) {
+  margin: var(--csr-inset-y) var(--csr-inset) 0;
+  color: var(--csr-ink);
+  font-size: clamp(32px, calc(26.368px + 1.502vw), 48px);
+  font-weight: 400;
+  line-height: clamp(36px, calc(31.776px + 1.127vw), 48px);
+  letter-spacing: -0.025em;
+  text-wrap: balance;
+}
+
+/* text: text-sans-24-28 */
+.cards-solution-rows .cards-solution-rows-body > p:not(.button-container) {
+  margin: 0 var(--csr-inset) var(--csr-inset-y);
+  color: var(--csr-ink);
+  font-size: clamp(24px, calc(22.592px + 0.376vw), 28px);
+  line-height: 31.92px;
+  letter-spacing: -0.048em;
+  text-wrap: balance;
+}
+
+.cards-solution-rows .cards-solution-rows-body > .button-container {
+  margin: 0 0 24px var(--csr-inset);
+}
+
+/* outline pill comes from styles/dept.css; the source CTA is semibold */
+.cards-solution-rows .cards-solution-rows-body a.button:any-link {
+  font-weight: 600;
+}
+
+@media (width >= 992px) {
+  .cards-solution-rows .cards-solution-rows-item {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: var(--csr-inset);
+  }
+
+  .cards-solution-rows .cards-solution-rows-body {
+    grid-area: 1 / 1;
+    gap: 28px;
+  }
+
+  .cards-solution-rows .cards-solution-rows-image {
+    grid-area: 1 / 2;
+  }
+
+  .cards-solution-rows .cards-solution-rows-body > :is(h2, h3, h4),
+  .cards-solution-rows .cards-solution-rows-body > p:not(.button-container) {
+    max-width: clamp(400px, 38vw, 640px);
+  }
+
+  /* the text track absorbs the spare height so the CTA sits at the bottom of the row */
+  .cards-solution-rows .cards-solution-rows-body > p:not(.button-container) {
+    flex-grow: 1;
+  }
+
+  .cards-solution-rows .cards-solution-rows-body > .button-container {
+    margin: 40px 0 var(--csr-inset-y) var(--csr-inset);
+  }
+}

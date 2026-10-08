@@ -13,6 +13,34 @@ import {
   loadCSS,
 } from './aem.js';
 
+// page templates (page metadata "template") that load templates/<name>/<name>.js
+const TEMPLATE_SCRIPTS = ['dept'];
+
+// blocks that live in a site sub-folder: blocks/<folder>/<name>/ instead of blocks/<name>/
+const BLOCK_FOLDERS = {
+  dept: [
+    'cards-casestudy',
+    'cards-insights',
+    'cards-solution-rows',
+    'cards-solutions',
+    'carousel-culture',
+    'columns-feature',
+    'hero-video',
+    'article-header',
+    'cards-related',
+    'contact-specialist',
+    'video-embed',
+    'cta-banner',
+    'stats-grid',
+    'next-case',
+    'panel-split',
+  ],
+};
+window.hlx = window.hlx || {};
+window.hlx.blockFolders = Object.fromEntries(
+  Object.entries(BLOCK_FOLDERS).flatMap(([folder, names]) => names.map((name) => [name, folder])),
+);
+
 /**
  * Moves all the attributes from a given elmenet to another given element.
  * @param {Element} from the element to copy attributes from
@@ -96,11 +124,26 @@ function a11yLinks(main) {
 }
 
 /**
+ * Local preview only: DEPT images are referenced by their AEM Assets path, which the local
+ * content server cannot serve — show the original dept.global file instead.
+ * @param {Element} main The container element
+ */
+function previewDeptAssets(main) {
+  if (!['localhost', '127.0.0.1'].includes(window.location.hostname)) return;
+  main.querySelectorAll('img[src*="/content/dam/exp-mord-agent/dept/"]').forEach((img) => {
+    const path = new URL(img.src).pathname.replace('/content/dam/exp-mord-agent/dept/', '/wp-content/');
+    img.closest('picture')?.querySelectorAll('source').forEach((source) => source.remove());
+    img.src = `https://www.dept.global${path}`;
+  });
+}
+
+/**
  * Decorates the main element.
  * @param {Element} main The main element
  */
 // eslint-disable-next-line import/prefer-default-export
 export function decorateMain(main) {
+  previewDeptAssets(main);
   // hopefully forward compatible button decoration
   decorateButtons(main);
   decorateIcons(main);
@@ -157,6 +200,19 @@ async function loadLazy(doc) {
 
   loadCSS(`${window.hlx.codeBasePath}/styles/lazy-styles.css`);
   loadFonts();
+
+  // templates with their own behavior (e.g. scroll animations) ship templates/<name>/<name>.js
+  const template = getMetadata('template');
+  if (TEMPLATE_SCRIPTS.includes(template)) {
+    try {
+      const { codeBasePath } = window.hlx;
+      const mod = await import(`${codeBasePath}/templates/${template}/${template}.js`);
+      if (mod.default) await mod.default(main);
+    } catch (e) {
+      // eslint-disable-next-line no-console
+      console.error(`failed to load template script ${template}`, e);
+    }
+  }
 }
 
 /**

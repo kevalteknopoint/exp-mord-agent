@@ -24,7 +24,22 @@
       "table",
       "text",
       "title",
-      "video"
+      "video",
+      "article-header",
+      "cards-casestudy",
+      "cards-insights",
+      "cards-related",
+      "cards-solution-rows",
+      "cards-solutions",
+      "carousel-culture",
+      "columns-feature",
+      "contact-specialist",
+      "cta-banner",
+      "hero-video",
+      "next-case",
+      "panel-split",
+      "stats-grid",
+      "video-embed"
     ]
   },
   {
@@ -93,5 +108,62 @@
   {
     "id": "video",
     "components": []
+  },
+  {
+    "id": "cards-casestudy",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-insights",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-related",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-solution-rows",
+    "components": [
+      "cards-solution-rows-item"
+    ]
+  },
+  {
+    "id": "cards-solutions",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "carousel-culture",
+    "components": [
+      "carousel-culture-item"
+    ]
+  },
+  {
+    "id": "columns-feature",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
+    ]
+  },
+  {
+    "id": "stats-grid",
+    "components": [
+      "stat"
+    ]
   }
 ]

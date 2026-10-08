@@ -9,3 +9,12 @@ helix-importer-ui
 .idea
 localhost.pem
 localhost-key.pem
+
+# DEPT validation and bulk-import working files
+migration-work/navigation-validation/
+migration-work/footer-validation/
+tools/aem-packages/dept/download/
+tools/aem-packages/dept/node_modules/
+tools/importer/dept-bulk/chunks/
+tools/importer/dept-bulk/logs/
+node_modules

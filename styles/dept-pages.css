@@ -1,0 +1,482 @@
+/*
+ * DEPT site pages (template "dept", every page type except the homepages: theme dept-<type>).
+ * The homepages (theme dept-home) use the new brand design in dept.css; all other dept.global pages
+ * use the article design below. Section styles come from the source components
+ * (import-dept-site.js): dept-<component> plus dept-bg-<color> / dept-dark for the source themes.
+ * Values measured on https://www.dept.global/ insight pages at 1440px and 375px.
+ */
+
+/* stylelint-disable no-descending-specificity */
+
+body.dept:not(.dept-home, .dept-brand) main {
+  --dept-page-gutter: 21px;
+  --dept-text-column: 640px;
+
+  letter-spacing: normal;
+}
+
+body.dept:not(.dept-home, .dept-brand) main > .section {
+  padding: 0 var(--dept-page-gutter);
+}
+
+/* ---------- default content (article body) ---------- */
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper {
+  max-width: var(--dept-text-column);
+  margin: 0 auto;
+}
+
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper > * + * {
+  margin-top: 24px;
+}
+
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper :is(h1, h2) {
+  color: inherit;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 46px;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper :is(h3, h4, h5, h6) {
+  color: inherit;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper p,
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper li {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper :is(ul, ol) {
+  margin-bottom: 0;
+  padding: 0;
+}
+
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper li {
+  margin-left: 22px;
+  padding: 0 0 12px 32px;
+}
+
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper li:last-child {
+  padding-bottom: 0;
+}
+
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper a:any-link:not(.button) {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* pill buttons ("View All Insights") */
+body.dept:not(.dept-home, .dept-brand) main a.button:any-link {
+  display: inline-block;
+  margin: 0;
+  border: 0;
+  border-radius: 9999px;
+  padding: 12px 36px;
+  background: transparent;
+  box-shadow: inset 0 0 0 1px currentcolor;
+  color: #121212;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0.225px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+body.dept:not(.dept-home, .dept-brand) main a.button:hover,
+body.dept:not(.dept-home, .dept-brand) main a.button:focus-visible {
+  background: #121212;
+  color: #fff;
+  box-shadow: inset 0 0 0 1px #121212;
+}
+
+body.dept:not(.dept-home, .dept-brand) main .button-container {
+  margin: 0;
+}
+
+/* ---------- section themes (source background colours) ---------- */
+body.dept main > .section.dept-dark {
+  background: #121212;
+  color: #f2f2f2;
+}
+
+body.dept main > .section.dept-dark :is(h1, h2, h3, h4, h5, h6) {
+  color: #fff;
+}
+
+body.dept main > .section.dept-dark a.button:any-link {
+  color: #fff;
+}
+
+body.dept main > .section.dept-dark a.button:hover,
+body.dept main > .section.dept-dark a.button:focus-visible {
+  background: #fff;
+  color: #121212;
+  box-shadow: inset 0 0 0 1px #fff;
+}
+
+body.dept main > .section.dept-bg-platinum {
+  background: #f2f2f2;
+}
+
+body.dept main > .section.dept-bg-silver {
+  background: #e5e5e5;
+}
+
+body.dept main > .section.dept-bg-light {
+  background: #f7f9fa;
+}
+
+body.dept main > .section.dept-bg-orange {
+  background: #ff4901;
+  color: #121212;
+}
+
+/* ---------- article body sections ---------- */
+body.dept main > .section.dept-title-and-content,
+body.dept main > .section.dept-rich-text,
+body.dept main > .section.dept-statement {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+/* full-bleed blocks */
+body.dept main > .section:is(.dept-article-post-header, .dept-get-in-touch) {
+  padding: 0;
+}
+
+body.dept main > .section:is(.dept-article-post-header, .dept-get-in-touch) > div {
+  max-width: none;
+}
+
+/* large call-to-action line ("Learn more about our paid search offering — Explore") */
+body.dept main > .section.dept-cta-text {
+  padding: 30px var(--dept-page-gutter);
+  background: #f2f2f2;
+}
+
+body.dept main > .section.dept-cta-text .default-content-wrapper {
+  max-width: 800px;
+  margin: 0;
+}
+
+body.dept main > .section.dept-cta-text .default-content-wrapper > * + * {
+  margin-top: 30px;
+}
+
+body.dept main > .section.dept-cta-text p {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+body.dept main > .section.dept-cta-text .default-content-wrapper .button-container {
+  display: block;
+}
+
+body.dept main > .section.dept-cta-text .default-content-wrapper a:any-link {
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
+  background: none;
+  color: #a7a7a7;
+  font-size: inherit;
+  font-weight: 400;
+  line-height: inherit;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+body.dept main > .section.dept-cta-text .default-content-wrapper a:hover {
+  background: none;
+  color: #121212;
+  box-shadow: none;
+}
+
+/* related items: title + "View all" on one row, cards below */
+body.dept main > .section.dept-highlighted-item-listing {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+body.dept main > .section.dept-highlighted-item-listing .default-content-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  max-width: none;
+  margin: 0 0 40px;
+}
+
+body.dept main > .section.dept-highlighted-item-listing .default-content-wrapper > * + * {
+  margin-top: 0;
+}
+
+body.dept main > .section.dept-highlighted-item-listing .default-content-wrapper :is(h2, h3) {
+  flex: 1 1 100%;
+  font-size: 38px;
+  line-height: 44px;
+}
+
+@media (width >= 900px) {
+  body.dept:not(.dept-home, .dept-brand) main {
+    --dept-page-gutter: 64px;
+  }
+
+  body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper > * + * {
+    margin-top: 40px;
+  }
+
+  body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper :is(h1, h2) {
+    font-size: 60px;
+    line-height: 68px;
+  }
+
+  body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper :is(h3, h4, h5, h6) {
+    font-size: 26px;
+    line-height: 32px;
+  }
+
+  body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper p,
+  body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper li {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  body.dept:not(.dept-home, .dept-brand) main .default-content-wrapper li {
+    padding-bottom: 24px;
+  }
+
+  body.dept:not(.dept-home, .dept-brand) main a.button:any-link {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  body.dept main > .section.dept-title-and-content,
+  body.dept main > .section.dept-rich-text,
+  body.dept main > .section.dept-statement {
+    padding-top: 160px;
+    padding-bottom: 160px;
+  }
+
+  body.dept main > .section.dept-cta-text {
+    padding: 70px var(--dept-page-gutter) 60px;
+  }
+
+  body.dept main > .section.dept-cta-text p {
+    font-size: 48px;
+    line-height: 60px;
+  }
+
+  body.dept main > .section.dept-cta-text .default-content-wrapper > * + * {
+    margin-top: 60px;
+  }
+
+  body.dept main > .section.dept-highlighted-item-listing {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  body.dept main > .section.dept-highlighted-item-listing .default-content-wrapper {
+    flex-wrap: nowrap;
+    margin-bottom: 80px;
+  }
+
+  body.dept main > .section.dept-highlighted-item-listing .default-content-wrapper :is(h2, h3) {
+    flex: 1 1 auto;
+    margin: 0;
+    font-size: 46px;
+    line-height: 54px;
+  }
+}
+
+/* ---------- brand-design pages (case studies etc., theme dept-brand) ---------- */
+body.dept.dept-brand main > .section {
+  padding-right: 21px;
+  padding-left: 21px;
+}
+
+/* case intro title: client name + subtitle */
+body.dept main > .section.dept-case-intro-title {
+  padding-top: 72px;
+  padding-bottom: 32px;
+}
+
+body.dept main > .section.dept-case-intro-title .default-content-wrapper {
+  max-width: 1037px;
+  margin: 0;
+}
+
+body.dept main > .section.dept-case-intro-title h1 {
+  font-size: clamp(56px, calc(6.76vw + 30.6px), 128px);
+  font-weight: 700;
+  line-height: 0.79;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+}
+
+body.dept main > .section.dept-case-intro-title h1 + p {
+  margin-top: 16px;
+  font-size: clamp(28px, calc(1.88vw + 21px), 48px);
+  line-height: 1;
+  letter-spacing: -0.025em;
+}
+
+/* case intro (services | statement) */
+body.dept main > .section.dept-case-intro {
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+
+/* assets-and-copy variants */
+body.dept main > .section.dept-assets-and-copy {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+body.dept main > .section.dept-assets-and-copy .default-content-wrapper {
+  max-width: 689px;
+  margin: 0 auto;
+}
+
+body.dept main > .section.dept-assets-and-copy .default-content-wrapper > * + * {
+  margin-top: 32px;
+}
+
+body.dept main > .section.dept-assets-and-copy .default-content-wrapper :is(h2, h3) {
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.025em;
+  text-transform: none;
+}
+
+body.dept main > .section.dept-assets-and-copy .default-content-wrapper p {
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 1.33;
+  letter-spacing: -0.048em;
+}
+
+body.dept main > .section.dept-assets-and-copy .default-content-wrapper p a:any-link {
+  color: inherit;
+  text-decoration: underline;
+}
+
+/* image paragraphs break out of the text column */
+body.dept main > .section.dept-assets-and-copy .default-content-wrapper p:has(> picture:only-child),
+body.dept main > .section.dept-assets-and-copy .default-content-wrapper p:has(> img:only-child) {
+  margin-right: calc(50% - 50vw + 21px);
+  margin-left: calc(50% - 50vw + 21px);
+}
+
+body.dept main > .section.dept-assets-and-copy .default-content-wrapper img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* a row that starts with text gets the large top space of the source; media rows get 40px */
+body.dept main > .section.dept-assets-and-copy.dept-text-first {
+  padding-top: 80px;
+}
+
+/* media after the text of the same row */
+body.dept main > .section.dept-text-first .default-content-wrapper > p:has(> picture) {
+  margin-top: 80px;
+}
+
+body.dept main > .section.dept-assets-and-copy .video-embed-wrapper,
+body.dept main > .section.dept-full-width-image .default-content-wrapper {
+  max-width: none;
+}
+
+body.dept main > .section.dept-variant-center-aligned-asset .video-embed-wrapper {
+  max-width: 1138px;
+  margin: 0 auto;
+
+  /* the source player box is 13px taller than its 16:9 video */
+  padding-bottom: 13px;
+}
+
+/* a text block then its media: same column rules, media keeps its own width */
+body.dept main > .section.dept-assets-and-copy .default-content-wrapper + .video-embed-wrapper {
+  margin-top: 40px;
+}
+
+@media (width >= 900px) {
+  body.dept main > .section.dept-case-intro-title {
+    padding-top: 120px;
+  }
+
+  body.dept main > .section.dept-case-intro {
+    padding-top: 100px;
+    padding-bottom: 176px;
+  }
+
+  body.dept main > .section.dept-assets-and-copy .default-content-wrapper :is(h2, h3) {
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: -1.2px;
+  }
+
+  body.dept main > .section.dept-assets-and-copy .default-content-wrapper p {
+    font-size: 24px;
+    line-height: 31.92px;
+    letter-spacing: -1.152px;
+  }
+
+  body.dept main > .section.dept-assets-and-copy.dept-text-first {
+    padding-top: 160px;
+  }
+
+  body.dept main > .section.dept-text-first .default-content-wrapper > p:has(> picture) {
+    margin-top: 206px;
+  }
+
+  body.dept main > .section.dept-variant-center-aligned-asset .default-content-wrapper p:has(> picture:only-child),
+  body.dept main > .section.dept-variant-center-aligned-asset .default-content-wrapper p:has(> img:only-child) {
+    margin-right: -224.5px;
+    margin-left: -224.5px;
+  }
+}
+
+/* next project: full bleed */
+body.dept main > .section.dept-next-case {
+  padding: 0 0 108px;
+}
+
+body.dept main > .section.dept-next-case > div {
+  max-width: none;
+}
+
+/* full-width and centred media rows crop to 16:9 like the source */
+body.dept main > .section:is(.dept-variant-full-width-content, .dept-variant-center-aligned-asset) .default-content-wrapper img {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+/* 70/30 rows keep the empty media slot of the source below their text */
+body.dept main > .section:is(.dept-variant-seventy-thirty-asset-one, .dept-variant-seventy-thirty-asset-two) {
+  padding-bottom: 80px;
+}
+
+@media (width >= 900px) {
+  body.dept main > .section:is(.dept-variant-seventy-thirty-asset-one, .dept-variant-seventy-thirty-asset-two) {
+    padding-bottom: 240px;
+  }
+}

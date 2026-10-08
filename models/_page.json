@@ -21,6 +21,34 @@
           "name": "keywords",
           "multi": true,
           "label": "Keywords"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "template",
+          "label": "Template",
+          "description": "Page template, added as a body class (DEPT pages: dept)"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "theme",
+          "label": "Theme",
+          "description": "Comma-separated body classes, e.g. dept-insight or dept-case, dept-brand"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "nav",
+          "label": "Navigation",
+          "description": "Path of the header fragment, e.g. /dept/en-in/nav"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "footer",
+          "label": "Footer",
+          "description": "Path of the footer fragment, e.g. /dept/en-in/footer"
         }
       ]
     }

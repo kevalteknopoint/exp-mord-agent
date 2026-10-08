@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-how-and-why-of-the-digital-experience-platform/",
+  "path": "dept/insight/the-how-and-why-of-the-digital-experience-platform",
+  "timestamp": "2026-10-08T14:33:19.378Z",
+  "title": "The how and why of the digital experience platform - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [
+    "full-width-image"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/84-480x320-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/84-480x320-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jasper-Steenweg-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jasper-Steenweg-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DXP_visual@1x-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DXP_visual-1x-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jasper-Steenweg.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jasper-Steenweg.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/84-480x320-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/84-480x320-1.jpg"
+    ]
+  ]
+}

@@ -33,6 +33,242 @@
             {
               "name": "Highlight",
               "value": "highlight"
+            },
+            {
+              "name": "DEPT: hero",
+              "value": "dept-hero"
+            },
+            {
+              "name": "DEPT: statement",
+              "value": "dept-statement"
+            },
+            {
+              "name": "DEPT: features",
+              "value": "dept-features"
+            },
+            {
+              "name": "DEPT: services",
+              "value": "dept-services"
+            },
+            {
+              "name": "DEPT: work",
+              "value": "dept-work"
+            },
+            {
+              "name": "DEPT: solutions",
+              "value": "dept-solutions"
+            },
+            {
+              "name": "DEPT: culture",
+              "value": "dept-culture"
+            },
+            {
+              "name": "DEPT: insights",
+              "value": "dept-insights"
+            },
+            {
+              "name": "DEPT: article post header",
+              "value": "dept-article-post-header"
+            },
+            {
+              "name": "DEPT: assets and copy",
+              "value": "dept-assets-and-copy"
+            },
+            {
+              "name": "DEPT: case intro",
+              "value": "dept-case-intro"
+            },
+            {
+              "name": "DEPT: case post header",
+              "value": "dept-case-post-header"
+            },
+            {
+              "name": "DEPT: case quote",
+              "value": "dept-case-quote"
+            },
+            {
+              "name": "DEPT: cta text",
+              "value": "dept-cta-text"
+            },
+            {
+              "name": "DEPT: custom listing",
+              "value": "dept-custom-listing"
+            },
+            {
+              "name": "DEPT: feature turntable",
+              "value": "dept-feature-turntable"
+            },
+            {
+              "name": "DEPT: full width image",
+              "value": "dept-full-width-image"
+            },
+            {
+              "name": "DEPT: get in touch",
+              "value": "dept-get-in-touch"
+            },
+            {
+              "name": "DEPT: highlighted cases",
+              "value": "dept-highlighted-cases"
+            },
+            {
+              "name": "DEPT: highlighted item listing",
+              "value": "dept-highlighted-item-listing"
+            },
+            {
+              "name": "DEPT: image",
+              "value": "dept-image"
+            },
+            {
+              "name": "DEPT: image and fact",
+              "value": "dept-image-and-fact"
+            },
+            {
+              "name": "DEPT: insight cta",
+              "value": "dept-insight-cta"
+            },
+            {
+              "name": "DEPT: insight intro",
+              "value": "dept-insight-intro"
+            },
+            {
+              "name": "DEPT: jumbotron",
+              "value": "dept-jumbotron"
+            },
+            {
+              "name": "DEPT: next case",
+              "value": "dept-next-case"
+            },
+            {
+              "name": "DEPT: panel with image and rich text",
+              "value": "dept-panel-with-image-and-rich-text"
+            },
+            {
+              "name": "DEPT: panel with rich text",
+              "value": "dept-panel-with-rich-text"
+            },
+            {
+              "name": "DEPT: quote",
+              "value": "dept-quote"
+            },
+            {
+              "name": "DEPT: scrolly video intro",
+              "value": "dept-scrolly-video-intro"
+            },
+            {
+              "name": "DEPT: statement v2",
+              "value": "dept-statement-v2"
+            },
+            {
+              "name": "DEPT: stats and copy",
+              "value": "dept-stats-and-copy"
+            },
+            {
+              "name": "DEPT: stats panel",
+              "value": "dept-stats-panel"
+            },
+            {
+              "name": "DEPT: talking points",
+              "value": "dept-talking-points"
+            },
+            {
+              "name": "DEPT: title and content",
+              "value": "dept-title-and-content"
+            },
+            {
+              "name": "DEPT: title with cta",
+              "value": "dept-title-with-cta"
+            },
+            {
+              "name": "DEPT: video",
+              "value": "dept-video"
+            },
+            {
+              "name": "DEPT: work listing",
+              "value": "dept-work-listing"
+            },
+            {
+              "name": "DEPT: dark",
+              "value": "dept-dark"
+            },
+            {
+              "name": "DEPT: bg onyxgrey",
+              "value": "dept-bg-onyxgrey"
+            },
+            {
+              "name": "DEPT: bg richblack",
+              "value": "dept-bg-richblack"
+            },
+            {
+              "name": "DEPT: bg platinum",
+              "value": "dept-bg-platinum"
+            },
+            {
+              "name": "DEPT: bg silver",
+              "value": "dept-bg-silver"
+            },
+            {
+              "name": "DEPT: bg light",
+              "value": "dept-bg-light"
+            },
+            {
+              "name": "DEPT: bg orange",
+              "value": "dept-bg-orange"
+            },
+            {
+              "name": "DEPT: bg sky",
+              "value": "dept-bg-sky"
+            },
+            {
+              "name": "DEPT: bg rose",
+              "value": "dept-bg-rose"
+            },
+            {
+              "name": "DEPT: bg blue",
+              "value": "dept-bg-blue"
+            },
+            {
+              "name": "DEPT: variant copy only",
+              "value": "dept-variant-copy-only"
+            },
+            {
+              "name": "DEPT: variant full width content",
+              "value": "dept-variant-full-width-content"
+            },
+            {
+              "name": "DEPT: variant left aligned asset",
+              "value": "dept-variant-left-aligned-asset"
+            },
+            {
+              "name": "DEPT: variant center aligned asset",
+              "value": "dept-variant-center-aligned-asset"
+            },
+            {
+              "name": "DEPT: variant mobile asset",
+              "value": "dept-variant-mobile-asset"
+            },
+            {
+              "name": "DEPT: variant three up asset one",
+              "value": "dept-variant-three-up-asset-one"
+            },
+            {
+              "name": "DEPT: variant three up asset two",
+              "value": "dept-variant-three-up-asset-two"
+            },
+            {
+              "name": "DEPT: variant fifty fifty asset",
+              "value": "dept-variant-fifty-fifty-asset"
+            },
+            {
+              "name": "DEPT: variant seventy thirty asset one",
+              "value": "dept-variant-seventy-thirty-asset-one"
+            },
+            {
+              "name": "DEPT: variant seventy thirty asset two",
+              "value": "dept-variant-seventy-thirty-asset-two"
+            },
+            {
+              "name": "DEPT: text first",
+              "value": "dept-text-first"
             }
           ]
         }
@@ -59,7 +295,22 @@
         "table",
         "text",
         "title",
-        "video"
+        "video",
+        "article-header",
+        "cards-casestudy",
+        "cards-insights",
+        "cards-related",
+        "cards-solution-rows",
+        "cards-solutions",
+        "carousel-culture",
+        "columns-feature",
+        "contact-specialist",
+        "cta-banner",
+        "hero-video",
+        "next-case",
+        "panel-split",
+        "stats-grid",
+        "video-embed"
       ]
     }
   ]

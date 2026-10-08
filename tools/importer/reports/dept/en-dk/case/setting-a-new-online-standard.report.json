@@ -1,0 +1,80 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/setting-a-new-online-standard/",
+  "path": "dept/en-dk/case/setting-a-new-online-standard",
+  "timestamp": "2026-10-08T15:14:17.144Z",
+  "title": "Stokke sætter nye online standarder - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "full-width-image"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Stokke-Retail-in-asia.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Stokke-Retail-in-asia.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/stokke-08.acca825.7aadd062c1423c3f791240b98673b73c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/stokke-08.acca825.7aadd062c1423c3f791240b98673b73c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-124-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-124-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/STOKKE_195A5640_fotoKristinStoylen_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/STOKKE_195A5640_fotoKristinStoylen_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/stokke-mycarrier-front-and-back-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/stokke-mycarrier-front-and-back-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-119-2-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-119-2-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/foot-locker-bus-in-paris-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/foot-locker-bus-in-paris-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg"
+    ]
+  ]
+}

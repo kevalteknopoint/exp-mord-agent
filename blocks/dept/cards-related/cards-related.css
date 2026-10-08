@@ -1,0 +1,130 @@
+/* Related items grid (dept.global "More insights?" / highlighted item listing) */
+main .cards-related > ul {
+  display: grid;
+  grid-template-columns: 100%;
+  gap: 48px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+main .cards-related li {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+main .cards-related .cards-related-image {
+  overflow: hidden;
+  aspect-ratio: 5 / 6;
+  background: #f2f2f2;
+}
+
+main .cards-related .cards-related-image p {
+  height: 100%;
+  margin: 0;
+}
+
+main .cards-related .cards-related-image picture,
+main .cards-related .cards-related-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+main .cards-related .cards-related-image img {
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+main .cards-related li:hover .cards-related-image img {
+  transform: scale(1.04);
+}
+
+main .cards-related .cards-related-body {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-top: 20px;
+}
+
+main .cards-related .cards-related-body > * {
+  margin: 0;
+}
+
+main .cards-related .cards-related-eyebrow {
+  color: #67727b;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.24px;
+}
+
+main .cards-related :is(h2, h3, h4) {
+  color: inherit;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: normal;
+}
+
+main .cards-related .cards-related-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+main .cards-related .cards-related-link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+/* "Read Article": pill, decorative (the whole card is the link) */
+main .cards-related .cards-related-cta a {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  border-radius: 9999px;
+  padding: 12px 36px;
+  box-shadow: inset 0 0 0 1px currentcolor;
+  color: #121212;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0.225px;
+  text-decoration: none;
+  text-transform: uppercase;
+  pointer-events: none;
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+main .cards-related li:hover .cards-related-cta a {
+  background: #121212;
+  color: #fff;
+}
+
+main .cards-related .cards-related-link:focus-visible {
+  outline: none;
+}
+
+main .cards-related li:has(.cards-related-link:focus-visible) {
+  outline: 2px solid currentcolor;
+  outline-offset: 4px;
+}
+
+@media (width >= 900px) {
+  main .cards-related > ul {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 48px 21.5px;
+  }
+
+  main .cards-related :is(h2, h3, h4) {
+    font-size: 26px;
+    line-height: 32px;
+  }
+
+  main .cards-related .cards-related-cta a {
+    font-size: 15px;
+    line-height: 18px;
+  }
+}

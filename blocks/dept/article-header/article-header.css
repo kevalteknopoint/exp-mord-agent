@@ -1,0 +1,200 @@
+/* Article header (dept.global insight pages): dark band, back link, title next to image, author + meta */
+main .article-header {
+  display: grid;
+  grid-template:
+    'back' auto
+    'title' 1fr
+    'author' auto
+    'meta' auto / 100%;
+  align-items: center;
+  box-sizing: border-box;
+  min-height: 100svh;
+  padding: 64px 21px 40px;
+  background: #121212;
+  color: #fff;
+}
+
+main .article-header > div {
+  min-width: 0;
+}
+
+main .article-header .article-header-text {
+  display: contents;
+}
+
+main .article-header .article-header-text > div {
+  display: contents;
+}
+
+main .article-header .article-header-back-container {
+  grid-area: back;
+  align-self: start;
+  margin: 0;
+}
+
+main .article-header .article-header-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  color: #818181;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: 0.24px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+main .article-header .article-header-back:hover,
+main .article-header .article-header-back:focus-visible {
+  color: #fff;
+}
+
+main .article-header .article-header-back svg {
+  flex: none;
+}
+
+main .article-header .article-header-back span {
+  display: none;
+}
+
+main .article-header h1 {
+  grid-area: title;
+  margin: 0;
+  color: #fff;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 54px;
+  letter-spacing: normal;
+  overflow-wrap: anywhere;
+}
+
+main .article-header .article-header-media {
+  display: none;
+  grid-area: media;
+}
+
+main .article-header .article-header-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+main .article-header .article-header-portrait {
+  grid-area: author;
+  align-self: end;
+}
+
+main .article-header .article-header-portrait img {
+  display: block;
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  background: #f7f9fa;
+}
+
+main .article-header .article-header-empty {
+  display: none;
+}
+
+main .article-header .article-header-details {
+  display: contents;
+}
+
+main .article-header .article-header-details > div {
+  display: contents;
+}
+
+main .article-header .article-header-author {
+  grid-area: author;
+  align-self: end;
+  min-height: 64px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: 0.24px;
+}
+
+main .article-header .article-header-portrait:not(.article-header-empty) ~ .article-header-details .article-header-author {
+  padding-left: 94px;
+}
+
+main .article-header .article-header-author p,
+main .article-header .article-header-author strong {
+  margin: 0;
+  font-weight: 400;
+}
+
+main .article-header .article-header-meta {
+  grid-area: meta;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 64px;
+  margin: 30px 0 0;
+}
+
+main .article-header .article-header-meta dt {
+  margin: 0 0 8px;
+  color: #818181;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+main .article-header .article-header-meta dd {
+  margin: 0;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media (width >= 900px) {
+  main .article-header {
+    grid-template:
+      'back . .' auto
+      'title . media' 1fr
+      'author . meta' auto / minmax(0, 1fr) 110px minmax(0, 1fr);
+    row-gap: 24px;
+    min-height: min(810px, calc(100svh - 90px));
+    padding: 128px 64px 80px;
+  }
+
+  main .article-header .article-header-back {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  main .article-header .article-header-back span {
+    display: inline;
+  }
+
+  main .article-header h1 {
+    max-width: 560px;
+    font-size: 70px;
+    line-height: 78px;
+  }
+
+  main .article-header .article-header-media {
+    display: block;
+    justify-self: start;
+    width: min(480px, 100%);
+  }
+
+  main .article-header .article-header-author {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  main .article-header .article-header-portrait:not(.article-header-empty) ~ .article-header-details .article-header-author {
+    padding-left: 94px;
+  }
+
+  main .article-header .article-header-meta {
+    align-self: end;
+    margin: 0;
+  }
+
+  main .article-header .article-header-meta dd {
+    font-size: 26px;
+    line-height: 32px;
+  }
+}

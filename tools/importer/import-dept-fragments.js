@@ -12,6 +12,7 @@
 
 // TRANSFORMER IMPORTS
 import deptSectionsTransformer from './transformers/dept-sections.js';
+import { useDamImages } from './parsers/dept/utils.js';
 
 // PAGE TEMPLATE CONFIGURATION, keyed by source file name
 const TEMPLATES = {
@@ -94,6 +95,8 @@ export default {
     WebImporter.rules.transformBackgroundImages(main, document);
     WebImporter.rules.adjustImageUrls(main, url, params.originalURL);
     relativizeUrls(main);
+    // images are delivered from AEM Assets (Content Sync drops externally hosted images)
+    const images = useDamImages(main);
 
     // 4. Output path is fixed per template (top-level pages)
     const path = WebImporter.FileUtils.sanitizePath(template.path);
@@ -105,6 +108,7 @@ export default {
         title: template.description,
         template: template.name,
         blocks: [],
+        images,
       },
     }];
   },

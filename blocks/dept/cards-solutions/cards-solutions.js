@@ -1,5 +1,5 @@
-import { createOptimizedPicture } from '../../scripts/aem.js';
-import { moveInstrumentation } from '../../scripts/scripts.js';
+import { createOptimizedPicture } from '../../../scripts/aem.js';
+import { moveInstrumentation } from '../../../scripts/scripts.js';
 
 const ARROW_SVG = '<svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M0.276367 9.01565V6.87304H13.6607L10.1546 1.19652L12.1581 0L16.9998 7.95826L12.1303 16L10.1268 14.7757L13.6607 9.01565H0.276367Z" fill="currentColor"></path></svg>';
 

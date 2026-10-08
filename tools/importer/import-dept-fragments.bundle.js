@@ -87,6 +87,47 @@ var CustomImportScript = (() => {
     }
   }
 
+  // tools/importer/parsers/dept/utils.js
+  var DAM_ROOT = "/content/dam/exp-mord-agent/dept";
+  function damPath(src) {
+    if (!src) return null;
+    if (src.startsWith(`${DAM_ROOT}/`)) return src;
+    let u;
+    try {
+      u = new URL(src, "https://www.dept.global/");
+    } catch (e) {
+      return null;
+    }
+    if (!/^(www\.)?dept\.global$/.test(u.hostname)) return null;
+    const m = u.pathname.match(/^\/wp-content\/(.+)$/);
+    if (!m) return null;
+    let rel;
+    try {
+      rel = decodeURIComponent(m[1]);
+    } catch (e) {
+      rel = m[1];
+    }
+    rel = rel.split("/").filter(Boolean).map((seg) => seg.replace(/[^A-Za-z0-9._-]+/g, "-")).join("/");
+    return `${DAM_ROOT}/${rel}`;
+  }
+  function useDamImages(root) {
+    const pairs = [];
+    root.querySelectorAll("img[src]").forEach((img) => {
+      const src = img.getAttribute("src");
+      const dam = damPath(src);
+      if (!dam) return;
+      img.setAttribute("src", dam);
+      let source = src;
+      try {
+        source = new URL(src, "https://www.dept.global/").href.split(/[?#]/)[0];
+      } catch (e) {
+      }
+      pairs.push([source, dam]);
+    });
+    root.querySelectorAll("source[srcset]").forEach((s) => s.remove());
+    return pairs;
+  }
+
   // tools/importer/import-dept-fragments.js
   var TEMPLATES = {
     "dept-nav": {
@@ -149,6 +190,7 @@ var CustomImportScript = (() => {
       WebImporter.rules.transformBackgroundImages(main, document2);
       WebImporter.rules.adjustImageUrls(main, url, params.originalURL);
       relativizeUrls(main);
+      const images = useDamImages(main);
       const path = WebImporter.FileUtils.sanitizePath(template.path);
       return [{
         element: main,
@@ -156,7 +198,8 @@ var CustomImportScript = (() => {
         report: {
           title: template.description,
           template: template.name,
-          blocks: []
+          blocks: [],
+          images
         }
       }];
     }

@@ -566,14 +566,15 @@ async function loadBlock(block) {
   if (status !== 'loading' && status !== 'loaded') {
     block.dataset.blockStatus = 'loading';
     const { blockName } = block.dataset;
+    // blocks of a site kept in a sub-folder (blocks/<folder>/<name>/), see scripts.js BLOCK_FOLDERS
+    const folder = window.hlx.blockFolders?.[blockName];
+    const blockPath = `${window.hlx.codeBasePath}/blocks/${folder ? `${folder}/` : ''}${blockName}`;
     try {
-      const cssLoaded = loadCSS(`${window.hlx.codeBasePath}/blocks/${blockName}/${blockName}.css`);
+      const cssLoaded = loadCSS(`${blockPath}/${blockName}.css`);
       const decorationComplete = new Promise((resolve) => {
         (async () => {
           try {
-            const mod = await import(
-              `${window.hlx.codeBasePath}/blocks/${blockName}/${blockName}.js`
-            );
+            const mod = await import(`${blockPath}/${blockName}.js`);
             if (mod.default) {
               await mod.default(block);
             }

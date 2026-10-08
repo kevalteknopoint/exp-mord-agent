@@ -1,5 +1,5 @@
-import { moveInstrumentation } from '../../scripts/scripts.js';
-import { fetchPlaceholders } from '../../scripts/placeholders.js';
+import { moveInstrumentation } from '../../../scripts/scripts.js';
+import { fetchPlaceholders } from '../../../scripts/placeholders.js';
 
 /*
  * "Feature turntable" (source: .block-feature-turntable on dept.global).

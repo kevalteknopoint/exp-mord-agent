@@ -4,6 +4,7 @@
 @import url('kotak.css'); /* page-scoped theme, body.kotak only */
 @import url('tatacars.css'); /* page-scoped theme, body.tatacars only */
 @import url('dept.css'); /* page-scoped theme, body.dept only */
+@import url('dept-pages.css'); /* DEPT inner pages (not the homepages) */
 
 /* metric-adjusted local fallback for Inter (keeps CLS low until fonts.css loads) */
 @font-face {

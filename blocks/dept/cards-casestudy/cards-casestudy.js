@@ -1,5 +1,5 @@
-import { createOptimizedPicture } from '../../scripts/aem.js';
-import { moveInstrumentation } from '../../scripts/scripts.js';
+import { createOptimizedPicture } from '../../../scripts/aem.js';
+import { moveInstrumentation } from '../../../scripts/scripts.js';
 
 /*
  * Case study ("Work") cards, matching the DEPT work listing:

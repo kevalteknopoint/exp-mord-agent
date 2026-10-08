@@ -131,12 +131,6 @@
     ]
   },
   {
-    "id": "cards-casestudy",
-    "components": [
-      "card"
-    ]
-  },
-  {
     "id": "cards-factor",
     "components": [
       "cards-factor-item"
@@ -158,12 +152,6 @@
     "id": "cards-impact",
     "components": [
       "cards-impact-card"
-    ]
-  },
-  {
-    "id": "cards-insights",
-    "components": [
-      "card"
     ]
   },
   {
@@ -233,21 +221,9 @@
     ]
   },
   {
-    "id": "cards-solution-rows",
-    "components": [
-      "cards-solution-rows-item"
-    ]
-  },
-  {
     "id": "cards-solution",
     "components": [
       "cards-solution-card"
-    ]
-  },
-  {
-    "id": "cards-solutions",
-    "components": [
-      "card"
     ]
   },
   {
@@ -284,12 +260,6 @@
     "id": "carousel-badges",
     "components": [
       "carousel-badges-item"
-    ]
-  },
-  {
-    "id": "carousel-culture",
-    "components": [
-      "carousel-culture-item"
     ]
   },
   {
@@ -374,21 +344,6 @@
     "id": "columns-duration",
     "components": [
       "column"
-    ]
-  },
-  {
-    "id": "columns-feature",
-    "components": [
-      "column"
-    ]
-  },
-  {
-    "id": "column",
-    "components": [
-      "text",
-      "image",
-      "button",
-      "title"
     ]
   },
   {
@@ -538,5 +493,56 @@
   {
     "id": "video",
     "components": []
+  },
+  {
+    "id": "cards-casestudy",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-insights",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-related",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-solution-rows",
+    "components": [
+      "cards-solution-rows-item"
+    ]
+  },
+  {
+    "id": "cards-solutions",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "carousel-culture",
+    "components": [
+      "carousel-culture-item"
+    ]
+  },
+  {
+    "id": "columns-feature",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
+    ]
   }
 ]

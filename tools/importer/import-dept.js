@@ -20,6 +20,7 @@ import cardsInsightsParser from './parsers/cards-insights.js';
 // TRANSFORMER IMPORTS (this site's transformers only)
 import deptCleanupTransformer from './transformers/dept-cleanup.js';
 import deptSectionsTransformer from './transformers/dept-sections.js';
+import { useDamImages } from './parsers/dept/utils.js';
 
 // PARSER REGISTRY
 const parsers = {
@@ -40,7 +41,7 @@ const PAGE_TEMPLATE = {
     'https://www.dept.global/en-in/',
   ],
   path: '/dept',
-  metadata: { template: 'dept', nav: '/dept-nav', footer: '/dept-footer' },
+  metadata: { template: 'dept', theme: 'dept-home', nav: '/dept-nav', footer: '/dept-footer' },
   blocks: [
     { name: 'hero-video', instances: ['.block-scrolly-video-intro'] },
     { name: 'columns-feature', instances: ['.block-assets-and-copy'] },
@@ -167,6 +168,8 @@ export default {
     const meta = addMetadata(main, document, PAGE_TEMPLATE);
     WebImporter.rules.transformBackgroundImages(main, document);
     WebImporter.rules.adjustImageUrls(main, url, params.originalURL);
+    // images are delivered from AEM Assets (Content Sync drops externally hosted images)
+    const images = useDamImages(main);
 
     // 6. Fixed top-level path (never empty: an empty path breaks the bundled importer)
     const path = WebImporter.FileUtils.sanitizePath(PAGE_TEMPLATE.path);
@@ -178,6 +181,7 @@ export default {
         title: meta.Title,
         template: PAGE_TEMPLATE.name,
         blocks: pageBlocks.map((b) => b.name),
+        images,
       },
     }];
   },

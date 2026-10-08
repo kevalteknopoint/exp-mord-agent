@@ -11,3 +11,7 @@ localhost.pem
 localhost-key.pem
 migration-work/navigation-validation/
 migration-work/footer-validation/
+
+# DEPT image upload working files
+tools/aem-packages/dept/download/
+tools/aem-packages/dept/node_modules/

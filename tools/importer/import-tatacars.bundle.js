@@ -375,7 +375,9 @@ var CustomImportScript = (() => {
   }
   function hinted8(document2, field, ...nodes) {
     const frag = document2.createDocumentFragment();
-    frag.append(document2.createComment(` field:${field} `), ...nodes);
+    const hasContent = nodes.some((n) => (n.textContent || "").trim() || n.querySelector && n.querySelector("img") || n.nodeName === "IMG");
+    if (hasContent) frag.append(document2.createComment(` field:${field} `));
+    frag.append(...nodes);
     return frag;
   }
   function text(document2, value) {

@@ -17,9 +17,12 @@ function clean(t) {
   return (t || '').replace(/\s+/g, ' ').trim();
 }
 
+// field hint + content; empty cells get no hint (xwalk hinting rules)
 function hinted(document, field, ...nodes) {
   const frag = document.createDocumentFragment();
-  frag.append(document.createComment(` field:${field} `), ...nodes);
+  const hasContent = nodes.some((n) => (n.textContent || '').trim() || (n.querySelector && n.querySelector('img')) || n.nodeName === 'IMG');
+  if (hasContent) frag.append(document.createComment(` field:${field} `));
+  frag.append(...nodes);
   return frag;
 }
 

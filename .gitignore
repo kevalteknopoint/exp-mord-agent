@@ -22,5 +22,5 @@ node_modules
 # Catalog tool config/logs (contain local paths)
 catalog/.catalog-config.json
 catalog/*.log
-# Generated DEPT image packages (too large for GitHub)
-tools/aem-packages/dept/exp-mord-agent-dept-images*.zip
+# Unsplit DEPT image package (over GitHub's 100 MB limit; use --max-mb 90 parts)
+tools/aem-packages/dept/exp-mord-agent-dept-images-[0-9]*.zip

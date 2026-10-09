@@ -2,7 +2,8 @@
 """
 Builds installable AEM (FileVault / CRX) content packages with DEPT images as DAM assets.
 
-Reads a manifest CSV (source,dam_path — see build-manifest.py), downloads each source image from
+Reads a manifest CSV (source,dam_path — see build-manifest.py; built from the import reports if
+missing), downloads each source image from
 dept.global and writes it as a dam:Asset at its dam_path. Output is split into parts of at most
 --max-mb (default 400 MB) so each part can be uploaded in CRX Package Manager
 (Tools > Deployment > Packages > Upload > Install), then "Reprocess Assets" on
@@ -16,6 +17,7 @@ import argparse
 import csv
 import mimetypes
 import os
+import subprocess
 import sys
 import urllib.request
 import zipfile
@@ -121,6 +123,9 @@ def main():
     args = ap.parse_args()
 
     manifest = args.manifest if os.path.isabs(args.manifest) else os.path.join(HERE, args.manifest)
+    if not os.path.exists(manifest):
+        print(f'{os.path.basename(manifest)} not found, building it from the import reports')
+        subprocess.run([sys.executable, os.path.join(HERE, 'build-manifest.py'), '--out', manifest], check=True)
     with open(manifest, encoding='utf-8') as fh:
         rows = [(r['source'], r['dam_path']) for r in csv.DictReader(fh) if r['dam_path'].startswith(args.prefix)]
     print(f'{len(rows)} images to download')

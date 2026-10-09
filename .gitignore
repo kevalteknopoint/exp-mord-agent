@@ -22,3 +22,5 @@ node_modules
 # Catalog tool config/logs (contain local paths)
 catalog/.catalog-config.json
 catalog/*.log
+# Generated DEPT image packages (too large for GitHub)
+tools/aem-packages/dept/exp-mord-agent-dept-images*.zip

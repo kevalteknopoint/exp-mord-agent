@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-customer-driven-strategy-for-gas-networks-ireland/",
+  "path": "dept/case/a-customer-driven-strategy-for-gas-networks-ireland",
+  "timestamp": "2026-10-08T16:15:46.218Z",
+  "title": "A customer driven strategy - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [
+    "case-intro-title"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/gas-vanon-raod.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/gas-vanon-raod.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Group-10-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Group-10-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/StockSnap_AUVDUG2IVM-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/StockSnap_AUVDUG2IVM-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Group-9-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Group-9-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ireland-gas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ireland-gas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/gas-vanon-raod.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/gas-vanon-raod.jpg"
+    ]
+  ]
+}

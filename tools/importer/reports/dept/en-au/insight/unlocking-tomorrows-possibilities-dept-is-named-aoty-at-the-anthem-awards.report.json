@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/unlocking-tomorrows-possibilities-dept-is-named-aoty-at-the-anthem-awards/",
+  "path": "dept/en-au/insight/unlocking-tomorrows-possibilities-dept-is-named-aoty-at-the-anthem-awards",
+  "timestamp": "2026-10-08T16:16:31.719Z",
+  "title": "Unlocking tomorrow's possibilities: DEPT® is named AOTY at the Anthem Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "case-intro",
+    "video",
+    "case-quote",
+    "full-width-image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [
+    "full-width-image"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Anthema-Awards-featured-landscape.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Anthema-Awards-featured-landscape.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Kali-Healthcare-dept-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Kali-Healthcare-dept-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png"
+    ]
+  ]
+}

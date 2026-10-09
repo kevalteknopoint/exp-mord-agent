@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-brand-campaign-to-reimagine-charging/",
+  "path": "dept/case/a-brand-campaign-to-reimagine-charging",
+  "timestamp": "2026-10-08T16:13:46.919Z",
+  "title": "A brand campaign to reimagine charging - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [
+    "statement",
+    "image"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Audicase-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Audicase-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rob-Voortman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rob-Voortman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-toucan.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-toucan.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-products.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-products.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/regraded-AUDI-Amsterdam-%C2%A9rachelecclestone-093827-file1938-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/regraded-AUDI-Amsterdam--rachelecclestone-093827-file1938-scaled.jpg"
+    ]
+  ]
+}

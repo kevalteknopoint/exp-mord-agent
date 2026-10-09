@@ -1,0 +1,20 @@
+{
+  "analysis-urls-checklist": {
+    "captured": "2026-10-08T08:24:26.466Z",
+    "totalPages": 1,
+    "statusBreakdown": {
+      "marked": 0,
+      "analyzed": 1
+    },
+    "pages": {
+      "https://www.dept.global/en-in/": {
+        "url": "https://www.dept.global/en-in/",
+        "status": "analyzed",
+        "analyzedAt": "2026-10-08T08:24:41.633Z",
+        "slug": "www_dept_global_en-in--bb677817",
+        "title": "DEPT® | Growth Invention | Tech & Marketing",
+        "blockCount": 1
+      }
+    }
+  }
+}

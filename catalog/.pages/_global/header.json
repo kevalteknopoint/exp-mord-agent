@@ -1,0 +1,19 @@
+{
+  "detected": true,
+  "selector": "div.block-navigation.js-block-navigation",
+  "bounds": {
+    "x": 0,
+    "y": 0,
+    "width": 1440,
+    "height": 148
+  },
+  "complexity": "moderate",
+  "effort": "medium",
+  "estimatedHours": "4-8",
+  "features": [
+    "search",
+    "mobile-toggle",
+    "sticky"
+  ],
+  "linkCount": 5
+}

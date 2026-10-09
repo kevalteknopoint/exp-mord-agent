@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/how-to-approach-a-website-redesign-with-roi-in-mind/",
+  "path": "dept/en-nl/insight/how-to-approach-a-website-redesign-with-roi-in-mind",
+  "timestamp": "2026-10-08T16:14:10.788Z",
+  "title": "How to approach a website redesign with ROI in mind - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "two-cards-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [
+    "two-cards-and-content"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Website-redesign-ROI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Website-redesign-ROI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/alex-glaser-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/alex-glaser-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/bicycle-playing-cards-website2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/bicycle-playing-cards-website2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Patagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Patagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Zurich-office.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Zurich-office.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Website-redesign-ROI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Website-redesign-ROI.jpg"
+    ]
+  ]
+}

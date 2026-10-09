@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/how-to-create-an-enterprise-data-strategy/",
+  "path": "dept/en-nl/insight/how-to-create-an-enterprise-data-strategy",
+  "timestamp": "2026-10-08T16:16:36.519Z",
+  "title": "How to create an enterprise data strategy that actually works - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/AI-predictions-2025.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/AI-predictions-2025.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/data-organizatoin-recommended-roles.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/data-organizatoin-recommended-roles.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/accessibility-concept-e1677592301956.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/accessibility-concept-e1677592301956.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/dta-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/dta-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-canvas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-canvas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/AI-predictions-2025.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/AI-predictions-2025.jpg"
+    ]
+  ]
+}

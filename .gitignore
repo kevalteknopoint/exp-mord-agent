@@ -18,3 +18,7 @@ tools/aem-packages/dept/node_modules/
 tools/importer/dept-bulk/chunks/
 tools/importer/dept-bulk/logs/
 node_modules
+
+# Catalog tool config/logs (contain local paths)
+catalog/.catalog-config.json
+catalog/*.log

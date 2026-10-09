@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/how-to-choose-the-right-it-integration-platform/",
+  "path": "dept/en-nl/insight/how-to-choose-the-right-it-integration-platform",
+  "timestamp": "2026-10-08T16:15:30.321Z",
+  "title": "How to choose the right IT integration platform - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/implementing-digital-transformation-through-low-code-solutions-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/implementing-digital-transformation-through-low-code-solutions-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/the-role-of-integration-platforms-in-a-composable-enterprise-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/the-role-of-integration-platforms-in-a-composable-enterprise-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/AIs-impact-across-creative-growth-engineering-Landing-Page-950x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/AIs-impact-across-creative-growth-engineering-Landing-Page-950x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Soft-skills-product-development-insights.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Soft-skills-product-development-insights.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/implementing-digital-transformation-through-low-code-solutions-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/implementing-digital-transformation-through-low-code-solutions-1.png"
+    ]
+  ]
+}

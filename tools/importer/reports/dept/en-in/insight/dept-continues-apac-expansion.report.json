@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/dept-continues-apac-expansion/",
+  "path": "dept/en-in/insight/dept-continues-apac-expansion",
+  "timestamp": "2026-10-08T16:15:14.518Z",
+  "title": "DEPT® continues APAC expansion - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Insight-TeknoPoint.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Insight-TeknoPoint.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/digital-trends-2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/digital-trends-2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Adobe-Partnership-Insight-page-1000x1200-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Adobe-Partnership-Insight-page-1000x1200-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Insight-TeknoPoint.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Insight-TeknoPoint.png"
+    ]
+  ]
+}

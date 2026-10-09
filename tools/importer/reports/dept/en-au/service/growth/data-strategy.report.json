@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/data-strategy/",
+  "path": "dept/en-au/service/growth/data-strategy",
+  "timestamp": "2026-10-08T16:16:47.720Z",
+  "title": "Data consultancy services | Strategy, integration, transformation | - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "rich-text",
+    "two-column-items-list",
+    "text-block-hero",
+    "panel-with-cards",
+    "highlighted-item-listing",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [
+    "rich-text",
+    "two-column-items-list",
+    "text-block-hero",
+    "panel-with-cards",
+    "footer-top"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-in-spreadsheet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-in-spreadsheet.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/before-your-data-project.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/before-your-data-project.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/bigdatawatching.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/bigdatawatching.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/data-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/data-strategy.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/ai-transformation-favors-the-fast-focused-and-fearless/",
+  "path": "dept/insight/ai-transformation-favors-the-fast-focused-and-fearless",
+  "timestamp": "2026-10-08T16:14:04.123Z",
+  "title": "AI transformation favors the fast, focused, and fearless - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "media-with-text",
+    "custom-listing"
+  ],
+  "fallback": [
+    "media-with-text"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Bridget-Fahrland-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Bridget-Fahrland-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/speed-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/speed-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg"
+    ]
+  ]
+}

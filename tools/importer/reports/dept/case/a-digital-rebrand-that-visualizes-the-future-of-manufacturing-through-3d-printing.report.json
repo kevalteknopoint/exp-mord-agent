@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-digital-rebrand-that-visualizes-the-future-of-manufacturing-through-3d-printing/",
+  "path": "dept/case/a-digital-rebrand-that-visualizes-the-future-of-manufacturing-through-3d-printing",
+  "timestamp": "2026-10-08T16:16:38.588Z",
+  "title": "A digital rebrand that visualizes the future of manufacturing through 3D printing - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [
+    "case-intro-title"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/desktopmetal-insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/desktopmetal-insight.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/desktopmetal-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/desktopmetal-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/desktopmetal-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/desktopmetal-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-toucan.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-toucan.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/desktopmetal-insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/desktopmetal-insight.jpg"
+    ]
+  ]
+}

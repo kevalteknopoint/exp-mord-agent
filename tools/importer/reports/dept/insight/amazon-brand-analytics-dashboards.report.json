@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/amazon-brand-analytics-dashboards/",
+  "path": "dept/insight/amazon-brand-analytics-dashboards",
+  "timestamp": "2026-10-08T16:17:06.588Z",
+  "title": "Debugging the Sales Funnel with Amazon Brand Analytics Dashboards - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amazon-brand-analytics-dashboards.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amazon-brand-analytics-dashboards.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/kristen-bryk-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/kristen-bryk-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/kristen-bryk.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/kristen-bryk.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amazon-brand-analytics-dashboards.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amazon-brand-analytics-dashboards.png"
+    ]
+  ]
+}

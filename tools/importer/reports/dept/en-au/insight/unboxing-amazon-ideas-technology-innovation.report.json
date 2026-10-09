@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/unboxing-amazon-ideas-technology-innovation/",
+  "path": "dept/en-au/insight/unboxing-amazon-ideas-technology-innovation",
+  "timestamp": "2026-10-08T16:14:30.986Z",
+  "title": "Unboxing Amazon ideas, technology & innovation - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [
+    "intro-text",
+    "image"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/IMG_20221027_160155.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/IMG_20221027_160155.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sebastian-gilles-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sebastian-gilles-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/1-1920x1080.jpg.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/1-1920x1080.jpg.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sebastian-gilles.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sebastian-gilles.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/IMG_20221027_160155.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/IMG_20221027_160155.jpeg"
+    ]
+  ]
+}

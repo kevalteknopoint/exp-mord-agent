@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-green-strategy-to-reach-more-climate-conscious-donors/",
+  "path": "dept/case/a-green-strategy-to-reach-more-climate-conscious-donors",
+  "timestamp": "2026-10-08T16:17:33.791Z",
+  "title": "A green strategy to reach more climate-conscious donors - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "full-width-image",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-image-3-dig-in-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-image-3-dig-in-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-image-1-bunds-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-image-1-bunds-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-image-2-landscape-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-image-2-landscape-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-image-4-bunds-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-image-4-bunds-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Max-Reilman-Dept-1-min-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Max-Reilman-Dept-1-min-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/multiscreen-2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/multiscreen-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Google-Play-1920x1080-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Google-Play-1920x1080-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image.png"
+    ]
+  ]
+}

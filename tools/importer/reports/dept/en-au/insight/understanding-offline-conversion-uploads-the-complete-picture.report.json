@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/understanding-offline-conversion-uploads-the-complete-picture/",
+  "path": "dept/en-au/insight/understanding-offline-conversion-uploads-the-complete-picture",
+  "timestamp": "2026-10-08T16:14:58.519Z",
+  "title": "Understanding offline conversion uploads - the complete picture - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "panel-with-rich-text",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [
+    "article-related-posts"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Remarketing.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Remarketing.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Remarketing.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Remarketing.png"
+    ]
+  ]
+}

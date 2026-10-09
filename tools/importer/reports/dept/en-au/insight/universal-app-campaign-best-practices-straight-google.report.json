@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/universal-app-campaign-best-practices-straight-google/",
+  "path": "dept/en-au/insight/universal-app-campaign-best-practices-straight-google",
+  "timestamp": "2026-10-08T16:15:20.220Z",
+  "title": "Universal App Campaign best practices – straight from Google - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/working-in-google-analytics.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/working-in-google-analytics.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/working-in-google-analytics.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/working-in-google-analytics.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/allyship-amplified-building-bridges-fostering-inclusivity/",
+  "path": "dept/insight/allyship-amplified-building-bridges-fostering-inclusivity",
+  "timestamp": "2026-10-08T16:15:28.086Z",
+  "title": "Black History Month: A conversation on allyship & inclusivity in the workplace - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [
+    "statement"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Black-History-Month-Allyship-Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Black-History-Month-Allyship-Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Sandra-Masiliso-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Sandra-Masiliso-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Global-DEI-Leader-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Global-DEI-Leader-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/US-head-of-PC-Header-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/US-head-of-PC-Header-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Black-History-Month_Marlena-Edwards-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Black-History-Month_Marlena-Edwards-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Black-History-Month-Allyship-Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Black-History-Month-Allyship-Featured-Image.png"
+    ]
+  ]
+}

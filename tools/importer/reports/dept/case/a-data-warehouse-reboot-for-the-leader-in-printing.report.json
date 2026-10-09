@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-data-warehouse-reboot-for-the-leader-in-printing/",
+  "path": "dept/case/a-data-warehouse-reboot-for-the-leader-in-printing",
+  "timestamp": "2026-10-08T16:16:08.284Z",
+  "title": "Featured work: Shutterfly data warehouse migration - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "stats-and-copy",
+    "statement-v2",
+    "next-case"
+  ],
+  "fallback": [
+    "case-intro-title",
+    "image",
+    "image",
+    "statement-v2"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-photos.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-photos.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/photos-in-frames.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/photos-in-frames.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/puffco-build-your-own-commerce-solution-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/puffco-build-your-own-commerce-solution-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-canvas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-canvas.jpg"
+    ]
+  ]
+}

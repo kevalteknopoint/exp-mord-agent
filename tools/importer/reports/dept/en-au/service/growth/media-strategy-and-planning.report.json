@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/media-strategy-and-planning/",
+  "path": "dept/en-au/service/growth/media-strategy-and-planning",
+  "timestamp": "2026-10-08T16:17:05.018Z",
+  "title": "Media strategy and planning - DEPT® digital media strategists",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "rich-text",
+    "routing-banner",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [
+    "rich-text",
+    "routing-banner",
+    "footer-top"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/media-strategy-planning-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/media-strategy-planning-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/media-strategy-planning-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/media-strategy-planning-concept.jpg"
+    ]
+  ]
+}

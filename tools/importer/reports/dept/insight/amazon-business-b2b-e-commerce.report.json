@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/amazon-business-b2b-e-commerce/",
+  "path": "dept/insight/amazon-business-b2b-e-commerce",
+  "timestamp": "2026-10-08T16:17:59.587Z",
+  "title": "Amazon Business – B2B e-commerce with the shopping experience - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amazon-b2b-e-commerce.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amazon-b2b-e-commerce.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amazon-b2b-e-commerce.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amazon-b2b-e-commerce.png"
+    ]
+  ]
+}

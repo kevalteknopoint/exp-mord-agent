@@ -9,6 +9,7 @@
             "resourceType": "core/franklin/components/block/v1/block",
             "template": {
               "name": "Cards Related",
+              "model": "cards-related",
               "filter": "cards-related"
             }
           }
@@ -16,7 +17,46 @@
       }
     }
   ],
-  "models": [],
+  "models": [
+    {
+      "id": "cards-related",
+      "fields": [
+        {
+          "component": "multiselect",
+          "name": "classes",
+          "value": "",
+          "label": "Options",
+          "valueType": "string",
+          "options": [
+            {
+              "name": "Slider (horizontal scrolling row)",
+              "value": "slider"
+            },
+            {
+              "name": "Teaser (one full-bleed card, text over the image)",
+              "value": "teaser"
+            },
+            {
+              "name": "Info (four columns, square images)",
+              "value": "info"
+            },
+            {
+              "name": "Tiles (coloured text tiles)",
+              "value": "tiles"
+            },
+            {
+              "name": "Numbered (text cards, large number)",
+              "value": "numbered"
+            },
+            {
+              "name": "List (rows with a small image)",
+              "value": "list"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "filters": [
     {
       "id": "cards-related",

@@ -1,0 +1,195 @@
+/*
+ * Points list (dept.global partner point tables, award takeaways, service / web3 lists).
+ * Values measured on dept.global partner, awards, service and web3 pages at 1440px and 375px.
+ */
+
+/* stylelint-disable no-descending-specificity */
+main .points-list > :is(ul, ol) {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+main .points-list li {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+}
+
+main .points-list .points-list-text > * {
+  margin: 0;
+}
+
+/* the point text sets the type; paragraphs and lists follow it */
+main .points-list .points-list-text > :is(p, ul, ol) {
+  font-size: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+}
+
+main .points-list .points-list-text :is(h2, h3, h4, h5, h6) {
+  color: inherit;
+  font-weight: 400;
+  text-transform: none;
+}
+
+main .points-list .points-list-text a:any-link {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ---------- rows (default): title left (vertically centred), description right ---------- */
+main .points-list:not(.numbered, .columns, .stats) > ul {
+  border-bottom: 1px solid #767676;
+}
+
+main .points-list:not(.numbered, .columns, .stats) li {
+  border-top: 1px solid #767676;
+  padding: 40px 0;
+}
+
+main .points-list:not(.numbered, .columns, .stats) .points-list-text {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: -0.048em;
+}
+
+main .points-list:not(.numbered, .columns, .stats) .points-list-title {
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: -0.042em;
+}
+
+/* ---------- numbered: 01, 02 … before each statement ---------- */
+main .points-list.numbered > ol {
+  display: flex;
+  flex-direction: column;
+  gap: 110px;
+  counter-reset: point;
+}
+
+main .points-list.numbered li {
+  display: flex;
+  align-items: baseline;
+  counter-increment: point;
+}
+
+main .points-list.numbered li::before {
+  content: counter(point, decimal-leading-zero);
+  flex: 0 0 38px;
+  font-size: 16px;
+  line-height: 17.6px;
+  letter-spacing: 0.32px;
+}
+
+main .points-list.numbered .points-list-text {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  font-size: 18px;
+  line-height: 22.5px;
+}
+
+main .points-list.numbered .points-list-title {
+  font-size: 18px;
+  line-height: 22.5px;
+}
+
+/* ---------- columns / stats: grid of item title + grey description (dark sections) ---------- */
+main .points-list:is(.columns, .stats) > ul {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+main .points-list.stats > ul {
+  gap: 20px;
+}
+
+main .points-list:is(.columns, .stats) .points-list-text {
+  color: #818181;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+main .points-list:is(.columns, .stats) .points-list-title {
+  margin-bottom: 10px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+main .points-list.stats .points-list-title {
+  font-weight: 700;
+}
+
+@media (width >= 900px) {
+  main .points-list:not(.numbered, .columns, .stats) .points-list-text {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0 20px;
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  main .points-list:not(.numbered, .columns, .stats) .points-list-text > * {
+    grid-column: 2;
+  }
+
+  /* description paragraphs: 24px apart (the first one starts at the top, next to the title) */
+  main .points-list:not(.numbered, .columns, .stats) .points-list-text > * + * {
+    margin-top: 24px;
+  }
+
+  main .points-list:not(.numbered, .columns, .stats) .points-list-text > .points-list-title + * {
+    margin-top: 0;
+  }
+
+  main .points-list:not(.numbered, .columns, .stats) .points-list-text > .points-list-title {
+    grid-area: 1 / 1 / span 20;
+    align-self: center;
+    margin: 0;
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  main .points-list.numbered > ol {
+    gap: 120px;
+  }
+
+  main .points-list.numbered li::before {
+    flex-basis: 66px;
+  }
+
+  main .points-list.numbered :is(.points-list-text, .points-list-title) {
+    font-size: 26px;
+    line-height: 32.5px;
+  }
+
+  main .points-list:is(.columns, .stats) > ul {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 360px));
+    gap: 80px 90px;
+  }
+
+  main .points-list.stats > ul {
+    grid-template-rows: repeat(2, auto);
+    grid-auto-flow: column;
+    gap: 60px 112px;
+  }
+
+  main .points-list:is(.columns, .stats) .points-list-text {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  main .points-list:is(.columns, .stats) .points-list-title {
+    margin-bottom: 32px;
+    font-size: 26px;
+    line-height: 32px;
+  }
+}

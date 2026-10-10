@@ -12,6 +12,10 @@ export default function decorate(block) {
     const li = document.createElement('li');
     moveInstrumentation(row, li);
     while (row.firstElementChild) li.append(row.firstElementChild);
+    // text-only cards (tiles, numbered): drop the empty image cell
+    [...li.children].forEach((div) => {
+      if (!div.children.length && !div.textContent.trim()) div.remove();
+    });
     [...li.children].forEach((div) => {
       div.className = div.querySelector('picture') && !div.querySelector('h1, h2, h3, h4, h5, h6, p:not(:has(picture))')
         ? 'cards-related-image' : 'cards-related-body';

@@ -1,0 +1,96 @@
+/*
+ * People cards (dept.global event speakers / team).
+ * Values measured on dept.global event pages at 1440px and 375px.
+ */
+main .people-cards > ul {
+  display: grid;
+  grid-template-columns: 100%;
+  gap: 40px 20px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+main .people-cards li {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+main .people-cards .people-cards-image picture {
+  display: block;
+}
+
+main .people-cards .people-cards-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+}
+
+main .people-cards .people-cards-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 16px;
+  text-transform: uppercase;
+}
+
+main .people-cards .people-cards-body :is(h2, h3, h4) {
+  margin: 0;
+  color: inherit;
+  font-size: 20px;
+  font-weight: 900;
+  line-height: 21px;
+  letter-spacing: -0.84px;
+  text-transform: uppercase;
+}
+
+main .people-cards .people-cards-body p {
+  margin: 0;
+  color: #767676;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+main .people-cards .people-cards-body .people-cards-social {
+  margin-top: 32px;
+  color: #121212;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+main .people-cards .people-cards-social a:any-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #121212;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+/* arrow pointing up-right after the link label */
+main .people-cards .people-cards-social a::after {
+  content: '\2197';
+  font-size: 14px;
+  line-height: 1;
+}
+
+main .people-cards .people-cards-social a:hover {
+  color: #767676;
+}
+
+@media (width >= 600px) {
+  main .people-cards > ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (width >= 900px) {
+  main .people-cards > ul {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}

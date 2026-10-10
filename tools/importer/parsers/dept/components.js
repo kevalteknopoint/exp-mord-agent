@@ -15,6 +15,13 @@ import cardsCasestudyParser from '../cards-casestudy.js';
 import cardsSolutionRowsParser from '../cards-solution-rows.js';
 import carouselCultureParser from '../carousel-culture.js';
 import cardsInsightsParser from '../cards-insights.js';
+import { HANDLERS as DETAIL } from './handlers/detail.js';
+import { HANDLERS as LOGOS } from './handlers/logos.js';
+import { HANDLERS as LISTS } from './handlers/lists.js';
+import { HANDLERS as CARDS } from './handlers/cards.js';
+import { HANDLERS as INTROS } from './handlers/intros.js';
+import { HANDLERS as MEDIA } from './handlers/media.js';
+import { HANDLERS as ROUND2 } from './handlers/round2.js';
 import {
   text, pick, el, image, backgroundImage, flatten, field, block, linkParagraph,
 } from './utils.js';
@@ -29,14 +36,22 @@ function runParser(parser, elements, ctx) {
   return [...holder.childNodes];
 }
 
-/** New heading with the source text; accent words (.is-fancy-serif) become <em>. */
+/**
+ * New heading with the source text; accent words (.is-fancy-serif, em, i — also inside other
+ * wrappers such as <strong>) become <em>, <br>s become spaces.
+ */
 function heading(document, source, tag) {
   const h = el(document, tag);
-  source.childNodes.forEach((n) => {
-    if (n.nodeType === 1 && n.matches('.is-fancy-serif, em, i')) h.append(el(document, 'em', text(n)));
-    else h.append(n.textContent.replace(/\s+/g, ' '));
+  const walk = (from) => from.childNodes.forEach((n) => {
+    if (n.nodeType === 3) h.append(n.textContent.replace(/\s+/g, ' '));
+    else if (n.nodeType !== 1 || n.matches('svg, button, script, style')) return;
+    else if (n.tagName === 'BR') h.append(' ');
+    else if (n.matches('.is-fancy-serif, em, i')) {
+      if (text(n)) h.append(el(document, 'em', text(n)));
+    } else walk(n);
   });
-  h.innerHTML = h.innerHTML.trim();
+  walk(source);
+  h.innerHTML = h.innerHTML.replace(/<\/em>(\s*)<em>/g, '$1').replace(/\s+/g, ' ').trim();
   return h;
 }
 
@@ -72,6 +87,9 @@ function talkingPoints(elements, ctx) {
 
 function workListing([element], ctx) {
   const out = titleAndCta(ctx, element, '.block-work-listing__title', '.block-work-listing > a.button-v2, a.button-v2');
+  // partner / service pages: subtitle under the title (before the CTA)
+  const subtitle = text(element.querySelector('.block-work-listing__subtitle'));
+  if (subtitle) out.splice(out.length && out[0].tagName === 'H2' ? 1 : 0, 0, el(ctx.document, 'p', subtitle));
   const items = element.querySelector('.block-work-listing__items');
   if (items) out.push(...runParser(cardsCasestudyParser, [items], ctx));
   return out;
@@ -467,6 +485,10 @@ function quote([element], ctx) {
  * Handlers keyed by source component name ("block-" prefix and "__…" suffix removed).
  * style: section style; group: consecutive components of this kind form one section.
  */
+export {
+  heading, titleAndCta, runParser, highlightedItemListing, insightIntro, mediaAndContent, panelSplit, ctaText, videoBlock,
+};
+
 export const HANDLERS = {
   'scrolly-video-intro': { handler: scrollyVideoIntro, style: 'dept-hero' },
   'statement-v2': { style: 'dept-statement' },
@@ -511,4 +533,12 @@ export const HANDLERS = {
   'case-intro': { handler: caseIntro },
   quote: { handler: quote },
   'case-quote': { handler: quote, style: 'dept-quote' },
+  // page-type components, one file per group (handlers/*.js)
+  ...DETAIL,
+  ...LOGOS,
+  ...LISTS,
+  ...CARDS,
+  ...INTROS,
+  ...MEDIA,
+  ...ROUND2,
 };

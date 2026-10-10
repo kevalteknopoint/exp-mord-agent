@@ -128,3 +128,372 @@ main .cards-related li:has(.cards-related-link:focus-visible) {
     line-height: 18px;
   }
 }
+
+/* variants (dept.global card rows of other components); each targets its own block class */
+/* stylelint-disable no-descending-specificity */
+
+/* ---------- slider: horizontal scroll-snap row (two-cards-and-content, content cards) ---------- */
+main .cards-related.slider > ul {
+  grid-template-columns: none;
+  grid-auto-columns: 79%;
+  grid-auto-flow: column;
+  gap: 21px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+main .cards-related.slider > ul::-webkit-scrollbar {
+  display: none;
+}
+
+main .cards-related.slider li {
+  scroll-snap-align: start;
+}
+
+main .cards-related.slider .cards-related-body {
+  gap: 16px;
+  padding-top: 16px;
+}
+
+main .cards-related.slider :is(h2, h3, h4) {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+main .cards-related.slider .cards-related-body p {
+  color: #767676;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* ---------- teaser: one full-bleed card, text over the image (case-teaser-v2) ---------- */
+main .cards-related.teaser > ul {
+  display: block;
+}
+
+main .cards-related.teaser li {
+  display: grid;
+  min-height: min(100svh, 900px);
+  background: #121212;
+  color: #fff;
+}
+
+main .cards-related.teaser li > * {
+  grid-area: 1 / 1;
+}
+
+main .cards-related.teaser .cards-related-image {
+  aspect-ratio: auto;
+  background: none;
+}
+
+main .cards-related.teaser .cards-related-image::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, transparent 50%, rgb(0 0 0 / 45%));
+}
+
+main .cards-related.teaser li:hover .cards-related-image img {
+  transform: none;
+}
+
+main .cards-related.teaser .cards-related-body {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  align-content: end;
+  gap: 24px;
+  padding: 0 21px 40px;
+}
+
+main .cards-related.teaser :is(h2, h3, h4) {
+  color: #fff;
+  font-size: 40px;
+  line-height: 46px;
+}
+
+main .cards-related.teaser .cards-related-body p {
+  font-size: 18px;
+  line-height: 22px;
+}
+
+main .cards-related.teaser .cards-related-cta a {
+  justify-self: start;
+  padding: 12px 24px;
+  color: #fff;
+}
+
+main .cards-related.teaser li:hover .cards-related-cta a {
+  background: #fff;
+  color: #121212;
+}
+
+/* ---------- info: four columns of square images (four-card-information-block) ---------- */
+main .cards-related.info > ul {
+  grid-template-columns: none;
+  grid-auto-columns: 100%;
+  grid-auto-flow: column;
+  gap: 21px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+main .cards-related.info li {
+  scroll-snap-align: start;
+}
+
+main .cards-related.info .cards-related-image {
+  aspect-ratio: 1;
+}
+
+main .cards-related.info .cards-related-body {
+  gap: 10px;
+  padding-top: 40px;
+}
+
+main .cards-related.info :is(h2, h3, h4) {
+  font-size: 13px;
+  font-weight: 900;
+  line-height: 14.3px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+main .cards-related.info .cards-related-body p {
+  color: #767676;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+/* ---------- tiles: coloured text tiles (panel-with-cards) ---------- */
+main .cards-related.tiles > ul {
+  gap: 0;
+}
+
+main .cards-related.tiles li {
+  min-height: 240px;
+  padding: 40px;
+  background: #c4c4c4;
+  color: #121212;
+}
+
+main .cards-related.tiles li:nth-child(3n + 2) {
+  background: #f2f2f2;
+}
+
+main .cards-related.tiles li:nth-child(3n) {
+  background: #121212;
+  color: #fff;
+}
+
+main .cards-related.tiles .cards-related-body {
+  gap: 24px;
+  padding: 0;
+}
+
+main .cards-related.tiles :is(h2, h3, h4) {
+  font-size: 22px;
+  line-height: 28px;
+}
+
+main .cards-related.tiles li:nth-child(3n) :is(h2, h3, h4) {
+  color: #fff;
+}
+
+main .cards-related.tiles .cards-related-eyebrow,
+main .cards-related.tiles .cards-related-body p {
+  color: inherit;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* ---------- numbered: text cards with a large number (six-block-content) ---------- */
+main .cards-related.numbered > ul {
+  gap: 48px;
+}
+
+main .cards-related.numbered li {
+  padding-bottom: 48px;
+  border-bottom: 1px solid #767676;
+}
+
+main .cards-related.numbered .cards-related-body {
+  gap: 16px;
+  padding: 0;
+}
+
+main .cards-related.numbered .cards-related-eyebrow {
+  color: #121212;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 1.1;
+}
+
+main .cards-related.numbered .cards-related-body p:not(.cards-related-eyebrow) {
+  margin-top: 8px;
+  color: #67727b;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* ---------- list: rows with a small image (job-list) ---------- */
+main .cards-related.list > ul {
+  gap: 0;
+  border-bottom: 1px solid #ccc;
+}
+
+main .cards-related.list li {
+  display: grid;
+  grid-template-columns: 120px minmax(0, 1fr);
+  gap: 20px;
+  padding: 20px 0;
+  border-top: 1px solid #ccc;
+}
+
+main .cards-related.list .cards-related-image {
+  aspect-ratio: 176 / 128;
+}
+
+main .cards-related.list .cards-related-body {
+  gap: 12px;
+  padding: 0;
+}
+
+main .cards-related.list :is(h2, h3, h4) {
+  order: -1;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22px;
+}
+
+main .cards-related.list .cards-related-eyebrow {
+  align-self: flex-start;
+  border: 1px solid #ccc;
+  border-radius: 9999px;
+  padding: 4px 10px;
+  color: #a7a7a7;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 14px;
+  text-transform: uppercase;
+}
+
+main .cards-related.list .cards-related-body p:not(.cards-related-eyebrow) {
+  color: #a7a7a7;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+@media (width >= 900px) {
+  main .cards-related.slider > ul {
+    grid-auto-columns: calc((100% - 21px) / 2);
+  }
+
+  main .cards-related.slider :is(h2, h3, h4) {
+    font-size: 34px;
+    line-height: 36px;
+  }
+
+  main .cards-related.slider .cards-related-body p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  main .cards-related.teaser .cards-related-body {
+    grid-template-columns: minmax(0, 1fr) auto;
+    column-gap: 24px;
+    padding: 0 64px 64px;
+  }
+
+  main .cards-related.teaser .cards-related-body > :not(.cards-related-cta) {
+    grid-column: 1;
+  }
+
+  main .cards-related.teaser .cards-related-cta {
+    grid-area: 1 / 2 / span 2;
+    align-self: end;
+  }
+
+  main .cards-related.teaser :is(h2, h3, h4) {
+    font-size: 60px;
+    line-height: 68px;
+  }
+
+  main .cards-related.teaser .cards-related-body p {
+    font-size: 26px;
+    line-height: 32px;
+  }
+
+  main .cards-related.info > ul {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-auto-flow: row;
+    gap: 41px;
+    overflow: visible;
+  }
+
+  main .cards-related.info :is(h2, h3, h4) {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  main .cards-related.info .cards-related-body {
+    gap: 15px;
+  }
+
+  main .cards-related.info .cards-related-body p {
+    line-height: 20px;
+  }
+
+  main .cards-related.tiles > ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-rows: minmax(450px, auto);
+    grid-auto-rows: minmax(290px, auto);
+  }
+
+  main .cards-related.tiles li:first-child {
+    grid-row: span 2;
+  }
+
+  main .cards-related.tiles :is(h2, h3, h4) {
+    font-size: 24px;
+    line-height: 30px;
+  }
+
+  main .cards-related.numbered > ul {
+    gap: 80px 110px;
+  }
+
+  main .cards-related.numbered li {
+    padding-bottom: 80px;
+  }
+
+  main .cards-related.numbered .cards-related-eyebrow {
+    font-size: 64px;
+  }
+
+  main .cards-related.numbered :is(h2, h3, h4) {
+    font-size: 26px;
+    line-height: 32px;
+  }
+
+  main .cards-related.numbered .cards-related-body p:not(.cards-related-eyebrow) {
+    margin-top: 24px;
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  main .cards-related.list > ul {
+    grid-template-columns: 100%;
+  }
+
+  main .cards-related.list li {
+    grid-template-columns: 180px minmax(0, 1fr);
+  }
+
+  main .cards-related.list :is(h2, h3, h4) {
+    font-size: 18px;
+  }
+}

@@ -1,0 +1,92 @@
+/*
+ * Case credits (dept.global case pages): the awards table. Section labels and credits around it:
+ * styles/dept-pages-parts/lists.css (.dept-case-credits).
+ * Values measured on dept.global case pages at 1440px and 375px.
+ */
+main .case-credits table {
+  display: block;
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+}
+
+main .case-credits :is(thead, tbody) {
+  display: block;
+}
+
+/* the column headers only show next to each other (desktop) */
+main .case-credits thead {
+  display: none;
+}
+
+main .case-credits tr {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px 8px;
+  border-bottom: 1px solid #121212;
+  padding: 12px 0;
+}
+
+main .case-credits :is(th, td) {
+  border: 0;
+  padding: 0;
+  text-align: left;
+}
+
+/* "(  Award  )" */
+main .case-credits th::before {
+  content: '(\00a0\00a0';
+}
+
+main .case-credits th::after {
+  content: '\00a0\00a0)';
+}
+
+main .case-credits th {
+  color: #767676;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.05em;
+}
+
+main .case-credits td.case-credits-award {
+  align-self: center;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+}
+
+main .case-credits td:is(.case-credits-year, .case-credits-category) {
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.042em;
+}
+
+main .case-credits td.case-credits-category {
+  grid-column: 1 / -1;
+}
+
+@media (width >= 900px) {
+  main .case-credits thead {
+    display: block;
+    margin-bottom: 12px;
+  }
+
+  main .case-credits tr {
+    grid-template-columns: minmax(0, 4fr) minmax(0, 3fr) minmax(0, 6fr);
+    gap: 20px 8px;
+    padding: 24px 0;
+  }
+
+  main .case-credits thead tr {
+    gap: 20px;
+    border: 0;
+    padding: 0;
+  }
+
+  main .case-credits td.case-credits-category {
+    grid-column: auto;
+  }
+}

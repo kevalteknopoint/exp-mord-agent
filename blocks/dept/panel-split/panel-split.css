@@ -40,11 +40,12 @@ main .panel-split .panel-split-left :is(h1, h2, h3) {
   line-height: 44px;
 }
 
-main .panel-split .panel-split-right > * {
+/* the content sits in the cell div of the row */
+main .panel-split .panel-split-right > div > * {
   margin: 0;
 }
 
-main .panel-split .panel-split-right > * + * {
+main .panel-split .panel-split-right > div > * + * {
   margin-top: 24px;
 }
 

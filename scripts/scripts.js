@@ -34,6 +34,11 @@ const BLOCK_FOLDERS = {
     'stats-grid',
     'next-case',
     'panel-split',
+    'detail-panel',
+    'logo-grid',
+    'people-cards',
+    'points-list',
+    'case-credits',
   ],
 };
 window.hlx = window.hlx || {};

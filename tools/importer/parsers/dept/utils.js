@@ -97,6 +97,20 @@ export function flatten(document, source) {
       }
       if (child.nodeType !== 1) return;
       const tag = child.tagName;
+      // data tables (event schedules): every table would become a block named after its first
+      // cell, so one paragraph per row instead (header row bold, cells separated by " · ")
+      if (tag === 'TABLE') {
+        flush();
+        [...child.querySelectorAll('tr')].forEach((tr, i) => {
+          const line = [...tr.children].map((c) => text(c)).filter(Boolean).join(' · ');
+          if (!line) return;
+          const p = document.createElement('p');
+          if (i === 0 && tr.querySelector('th')) p.append(el(document, 'strong', line));
+          else p.textContent = line;
+          out.push(p);
+        });
+        return;
+      }
       if (BLOCK_TAGS.has(tag)) {
         flush();
         if (text(child) || child.querySelector('img') || tag === 'HR') out.push(child);

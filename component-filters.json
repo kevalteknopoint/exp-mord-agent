@@ -39,7 +39,12 @@
       "next-case",
       "panel-split",
       "stats-grid",
-      "video-embed"
+      "video-embed",
+      "detail-panel",
+      "logo-grid",
+      "people-cards",
+      "points-list",
+      "case-credits"
     ]
   },
   {
@@ -146,6 +151,12 @@
     ]
   },
   {
+    "id": "case-credits",
+    "components": [
+      "case-credits-item"
+    ]
+  },
+  {
     "id": "columns-feature",
     "components": [
       "column"
@@ -158,6 +169,24 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "logo-grid",
+    "components": [
+      "logo-grid-item"
+    ]
+  },
+  {
+    "id": "people-cards",
+    "components": [
+      "people-cards-item"
+    ]
+  },
+  {
+    "id": "points-list",
+    "components": [
+      "points-list-item"
     ]
   },
   {

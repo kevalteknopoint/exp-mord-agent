@@ -236,3 +236,183 @@
     translate: 0 -0.15em;
   }
 }
+
+/* ---------- scrolling variants (images, slides): native scroll-snap track, static nav bar ---------- */
+.carousel-culture:is(.images, .slides) .carousel-culture-slides {
+  display: flex;
+  overflow-x: auto;
+  cursor: auto;
+  touch-action: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  overscroll-behavior-x: contain;
+}
+
+.carousel-culture:is(.images, .slides) .carousel-culture-slides::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-culture:is(.images, .slides) .carousel-culture-slide {
+  scroll-snap-align: start;
+}
+
+.carousel-culture:is(.images, .slides) .carousel-culture-item {
+  display: block;
+  height: auto;
+  padding: 0;
+  text-align: left;
+  user-select: auto;
+}
+
+.carousel-culture:is(.images, .slides) .carousel-culture-item img {
+  display: block;
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  max-height: none;
+  margin: 0;
+  object-fit: cover;
+}
+
+/* images (title-block-carousel): 16:9 images, 75vw / 40vw wide, 21px apart; bar under the row */
+.carousel-culture.images .carousel-culture-slides {
+  gap: 21px;
+}
+
+.carousel-culture.images .carousel-culture-slide {
+  flex: 0 0 75vw;
+}
+
+.carousel-culture.images .carousel-culture-item img {
+  aspect-ratio: 16 / 9;
+}
+
+.carousel-culture.images .carousel-culture-slide-indicators {
+  position: static;
+  width: calc(100% - 42px);
+  margin: 52px auto 0;
+}
+
+.carousel-culture.images .carousel-culture-slide-indicator button {
+  background-color: #d9d9d9;
+}
+
+.carousel-culture.images .carousel-culture-slide-indicator button.active {
+  background-color: #767676;
+}
+
+/* slides (careers / numbered carousels, card heroes): full-width image, text bottom left */
+.carousel-culture.slides .carousel-culture-slide {
+  flex: 0 0 100%;
+}
+
+.carousel-culture.slides .carousel-culture-item {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  min-height: min(100svh, 900px);
+  padding: 120px 21px 80px;
+  color: #fff;
+}
+
+.carousel-culture.slides .carousel-culture-item img {
+  position: absolute;
+  inset: 0;
+  aspect-ratio: auto;
+  filter: brightness(0.6);
+}
+
+.carousel-culture.slides .carousel-culture-slide-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  max-width: 900px;
+}
+
+.carousel-culture.slides .carousel-culture-slide-content > * {
+  order: 0;
+  width: auto;
+  max-width: none;
+  margin: 0;
+  color: #fff;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: normal;
+  text-transform: none;
+  text-wrap: pretty;
+  opacity: 1;
+}
+
+.carousel-culture.slides .carousel-culture-slide-content > :is(h1, h2, h3) {
+  max-width: 10em;
+  font-size: 40px;
+  line-height: 46px;
+}
+
+.carousel-culture.slides .carousel-culture-slide-content > p:first-child:not(.button-container) {
+  text-transform: uppercase;
+}
+
+.carousel-culture.slides .carousel-culture-slide-content a:any-link {
+  color: #fff;
+}
+
+.carousel-culture.slides .carousel-culture-slide-content a.button:any-link {
+  display: inline-block;
+  margin-top: 16px;
+  border: 0;
+  border-radius: 9999px;
+  padding: 12px 36px;
+  background: transparent;
+  box-shadow: inset 0 0 0 1px #fff;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.carousel-culture.slides .carousel-culture-slide-content a.button:hover {
+  background: #fff;
+  color: #121212;
+  box-shadow: inset 0 0 0 1px #fff;
+}
+
+.carousel-culture.slides .carousel-culture-slide-indicators {
+  inset: auto 0 32px;
+}
+
+.carousel-culture.slides .carousel-culture-slide-indicator button {
+  background-color: rgb(255 255 255 / 50%);
+}
+
+.carousel-culture.slides .carousel-culture-slide-indicator button.active {
+  background-color: #fff;
+}
+
+@media (width >= 900px) {
+  .carousel-culture.images .carousel-culture-slide {
+    flex-basis: 40vw;
+  }
+
+  .carousel-culture.images .carousel-culture-slide-indicators {
+    max-width: 46vw;
+  }
+
+  .carousel-culture.slides .carousel-culture-item {
+    padding: 120px 64px;
+  }
+
+  .carousel-culture.slides .carousel-culture-slide-content > :is(h1, h2, h3) {
+    font-size: 60px;
+    line-height: 68px;
+  }
+}

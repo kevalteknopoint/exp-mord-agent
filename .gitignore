@@ -24,3 +24,8 @@ catalog/.catalog-config.json
 catalog/*.log
 # Unsplit DEPT image package (over GitHub's 100 MB limit; use --max-mb 90 parts)
 tools/aem-packages/dept/exp-mord-agent-dept-images-[0-9]*.zip
+
+# private bundles of tools/importer/dept-bulk/test-import.sh
+tools/importer/import-dept-site-test-*
+tools/importer/reports/import-dept-site-test-*
+__pycache__/

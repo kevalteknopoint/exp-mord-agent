@@ -269,6 +269,350 @@
             {
               "name": "DEPT: text first",
               "value": "dept-text-first"
+            },
+            {
+              "name": "DEPT: awards intro",
+              "value": "dept-awards-intro"
+            },
+            {
+              "name": "DEPT: call to action",
+              "value": "dept-call-to-action"
+            },
+            {
+              "name": "DEPT: carousel slides",
+              "value": "dept-carousel-slides"
+            },
+            {
+              "name": "DEPT: case credits",
+              "value": "dept-case-credits"
+            },
+            {
+              "name": "DEPT: case intro title",
+              "value": "dept-case-intro-title"
+            },
+            {
+              "name": "DEPT: case study showcase",
+              "value": "dept-case-study-showcase"
+            },
+            {
+              "name": "DEPT: case teaser",
+              "value": "dept-case-teaser"
+            },
+            {
+              "name": "DEPT: client panel",
+              "value": "dept-client-panel"
+            },
+            {
+              "name": "DEPT: content cards",
+              "value": "dept-content-cards"
+            },
+            {
+              "name": "DEPT: event content v2",
+              "value": "dept-event-content-v2"
+            },
+            {
+              "name": "DEPT: event details",
+              "value": "dept-event-details"
+            },
+            {
+              "name": "DEPT: event info",
+              "value": "dept-event-info"
+            },
+            {
+              "name": "DEPT: event intro",
+              "value": "dept-event-intro"
+            },
+            {
+              "name": "DEPT: event people",
+              "value": "dept-event-people"
+            },
+            {
+              "name": "DEPT: event register",
+              "value": "dept-event-register"
+            },
+            {
+              "name": "DEPT: event registration form",
+              "value": "dept-event-registration-form"
+            },
+            {
+              "name": "DEPT: footer top",
+              "value": "dept-footer-top"
+            },
+            {
+              "name": "DEPT: form page",
+              "value": "dept-form-page"
+            },
+            {
+              "name": "DEPT: four card information block",
+              "value": "dept-four-card-information-block"
+            },
+            {
+              "name": "DEPT: highlighted logos",
+              "value": "dept-highlighted-logos"
+            },
+            {
+              "name": "DEPT: highlighted statement",
+              "value": "dept-highlighted-statement"
+            },
+            {
+              "name": "DEPT: image cards",
+              "value": "dept-image-cards"
+            },
+            {
+              "name": "DEPT: industry intro",
+              "value": "dept-industry-intro"
+            },
+            {
+              "name": "DEPT: industry listing",
+              "value": "dept-industry-listing"
+            },
+            {
+              "name": "DEPT: intro text",
+              "value": "dept-intro-text"
+            },
+            {
+              "name": "DEPT: job details",
+              "value": "dept-job-details"
+            },
+            {
+              "name": "DEPT: job list",
+              "value": "dept-job-list"
+            },
+            {
+              "name": "DEPT: media with text",
+              "value": "dept-media-with-text"
+            },
+            {
+              "name": "DEPT: oversized image",
+              "value": "dept-oversized-image"
+            },
+            {
+              "name": "DEPT: panel agency detail",
+              "value": "dept-panel-agency-detail"
+            },
+            {
+              "name": "DEPT: panel framed left",
+              "value": "dept-panel-framed-left"
+            },
+            {
+              "name": "DEPT: panel framed right",
+              "value": "dept-panel-framed-right"
+            },
+            {
+              "name": "DEPT: panel location detail",
+              "value": "dept-panel-location-detail"
+            },
+            {
+              "name": "DEPT: panel square",
+              "value": "dept-panel-square"
+            },
+            {
+              "name": "DEPT: panel two media",
+              "value": "dept-panel-two-media"
+            },
+            {
+              "name": "DEPT: panel with cards",
+              "value": "dept-panel-with-cards"
+            },
+            {
+              "name": "DEPT: panel with list",
+              "value": "dept-panel-with-list"
+            },
+            {
+              "name": "DEPT: partner header",
+              "value": "dept-partner-header"
+            },
+            {
+              "name": "DEPT: points table",
+              "value": "dept-points-table"
+            },
+            {
+              "name": "DEPT: post header",
+              "value": "dept-post-header"
+            },
+            {
+              "name": "DEPT: rich text",
+              "value": "dept-rich-text"
+            },
+            {
+              "name": "DEPT: routing banner",
+              "value": "dept-routing-banner"
+            },
+            {
+              "name": "DEPT: routing extras",
+              "value": "dept-routing-extras"
+            },
+            {
+              "name": "DEPT: six block content",
+              "value": "dept-six-block-content"
+            },
+            {
+              "name": "DEPT: statement v1",
+              "value": "dept-statement-v1"
+            },
+            {
+              "name": "DEPT: text block hero",
+              "value": "dept-text-block-hero"
+            },
+            {
+              "name": "DEPT: three row block",
+              "value": "dept-three-row-block"
+            },
+            {
+              "name": "DEPT: title block",
+              "value": "dept-title-block"
+            },
+            {
+              "name": "DEPT: title block carousel",
+              "value": "dept-title-block-carousel"
+            },
+            {
+              "name": "DEPT: title left body right",
+              "value": "dept-title-left-body-right"
+            },
+            {
+              "name": "DEPT: two cards and content",
+              "value": "dept-two-cards-and-content"
+            },
+            {
+              "name": "DEPT: two column two row list",
+              "value": "dept-two-column-two-row-list"
+            },
+            {
+              "name": "DEPT: typography",
+              "value": "dept-typography"
+            },
+            {
+              "name": "DEPT: vacancy subnav",
+              "value": "dept-vacancy-subnav"
+            },
+            {
+              "name": "DEPT: whitepaper detail panel",
+              "value": "dept-whitepaper-detail-panel"
+            },
+            {
+              "name": "DEPT: whitepaper intro",
+              "value": "dept-whitepaper-intro"
+            },
+            {
+              "name": "DEPT: article related posts",
+              "value": "dept-article-related-posts"
+            },
+            {
+              "name": "DEPT: content listing",
+              "value": "dept-content-listing"
+            },
+            {
+              "name": "DEPT: cta banner",
+              "value": "dept-cta-banner"
+            },
+            {
+              "name": "DEPT: custom listing simple",
+              "value": "dept-custom-listing-simple"
+            },
+            {
+              "name": "DEPT: event header",
+              "value": "dept-event-header"
+            },
+            {
+              "name": "DEPT: event locations",
+              "value": "dept-event-locations"
+            },
+            {
+              "name": "DEPT: event program",
+              "value": "dept-event-program"
+            },
+            {
+              "name": "DEPT: form newsletter",
+              "value": "dept-form-newsletter"
+            },
+            {
+              "name": "DEPT: form with header",
+              "value": "dept-form-with-header"
+            },
+            {
+              "name": "DEPT: heading text image",
+              "value": "dept-heading-text-image"
+            },
+            {
+              "name": "DEPT: heading with columns",
+              "value": "dept-heading-with-columns"
+            },
+            {
+              "name": "DEPT: highlighted insight",
+              "value": "dept-highlighted-insight"
+            },
+            {
+              "name": "DEPT: information with two content cards",
+              "value": "dept-information-with-two-content-cards"
+            },
+            {
+              "name": "DEPT: insights header",
+              "value": "dept-insights-header"
+            },
+            {
+              "name": "DEPT: main page header",
+              "value": "dept-main-page-header"
+            },
+            {
+              "name": "DEPT: media parallax",
+              "value": "dept-media-parallax"
+            },
+            {
+              "name": "DEPT: office map",
+              "value": "dept-office-map"
+            },
+            {
+              "name": "DEPT: panel list",
+              "value": "dept-panel-list"
+            },
+            {
+              "name": "DEPT: paragraph",
+              "value": "dept-paragraph"
+            },
+            {
+              "name": "DEPT: partner post header",
+              "value": "dept-partner-post-header"
+            },
+            {
+              "name": "DEPT: podcasts",
+              "value": "dept-podcasts"
+            },
+            {
+              "name": "DEPT: post header split",
+              "value": "dept-post-header-split"
+            },
+            {
+              "name": "DEPT: service teaser",
+              "value": "dept-service-teaser"
+            },
+            {
+              "name": "DEPT: special awards",
+              "value": "dept-special-awards"
+            },
+            {
+              "name": "DEPT: square media with text",
+              "value": "dept-square-media-with-text"
+            },
+            {
+              "name": "DEPT: switched",
+              "value": "dept-switched"
+            },
+            {
+              "name": "DEPT: team gallery",
+              "value": "dept-team-gallery"
+            },
+            {
+              "name": "DEPT: three facts",
+              "value": "dept-three-facts"
+            },
+            {
+              "name": "DEPT: trends content",
+              "value": "dept-trends-content"
+            },
+            {
+              "name": "DEPT: two quotes",
+              "value": "dept-two-quotes"
             }
           ]
         }
@@ -310,7 +654,12 @@
         "next-case",
         "panel-split",
         "stats-grid",
-        "video-embed"
+        "video-embed",
+        "detail-panel",
+        "logo-grid",
+        "people-cards",
+        "points-list",
+        "case-credits"
       ]
     }
   ]

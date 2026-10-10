@@ -45,11 +45,14 @@ function componentName(node) {
 
 /** Section styles for the source background theme: dept-bg-<color> (+ dept-dark), none for white. */
 function themeStyles(node) {
-  // the theme sits on the component, or on its first-level columns (panels: __left--richBlack)
+  // the theme sits on the component, in its data-theme, or on its first-level columns
+  // (panels: __left--richBlack); text and button colour classes (typography__color--onyxGrey) are not themes
   let m = node.className.match(THEME);
+  if (!m && node.getAttribute('data-theme')) m = [null, node.getAttribute('data-theme')];
   if (!m) {
-    const column = [...node.children].find((child) => /--(richBlack|onyxGrey)\b/.test(child.className));
-    m = column && column.className.match(/--(richBlack|onyxGrey)\b/);
+    const COLUMN = /__(left|right|column)--(richBlack|onyxGrey)\b/;
+    const column = [...node.children].find((child) => COLUMN.test(child.className));
+    m = column && [null, column.className.match(COLUMN)[2]];
   }
   const color = m && m[1].toLowerCase();
   if (!color || color === 'white') return [];
@@ -147,8 +150,7 @@ export default {
     const out = document.createElement('div');
     const report = [];
 
-    sections.forEach((section, index) => {
-      if (index > 0) out.append(document.createElement('hr'));
+    sections.forEach((section) => {
       const nodes = [];
       section.prefix.forEach((p) => nodes.push(...flatten(document, p)));
       const styles = [];
@@ -169,6 +171,9 @@ export default {
         });
       });
       styles.push(...section.theme);
+      // components without content on the source (empty teasers, unfilled listings): no section
+      if (!nodes.length) return;
+      if (out.childNodes.length) out.append(document.createElement('hr'));
       nodes.forEach((n) => out.append(n));
       out.append(block(document, 'Section Metadata', { style: styles.join(', ') }));
     });
@@ -206,7 +211,8 @@ export default {
         template: `dept-${type}`,
         locale: locale || 'global',
         components: report,
-        fallback: report.filter((n) => !HANDLERS[n] || !HANDLERS[n].handler),
+        // components without an entry (style-only entries such as statement-v2 are intended)
+        fallback: report.filter((n) => !HANDLERS[n]),
         images,
       },
     }];

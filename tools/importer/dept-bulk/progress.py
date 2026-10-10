@@ -10,7 +10,7 @@ for log in sorted(glob.glob(os.path.join(HERE, 'logs', f'{prefix}*.log'))):
     urls = sum(1 for l in open(chunk) if l.strip()) if os.path.exists(chunk) else 0
     text = open(log, errors='replace').read()
     saved = len(re.findall(r'✅ Saved content', text))
-    reused = len(re.findall(r'♻️|Reused existing|reusing', text))
+    reused = len(re.findall(r'(?i)♻️|reused existing|reusing cached', text))
     nf = len(re.findall(r'source page is a 404', text))
     failed = len(re.findall(r'❌ Failed for', text)) - nf
     low = len(re.findall(r'below 90\.0%', text))

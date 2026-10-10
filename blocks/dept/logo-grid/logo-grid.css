@@ -1,0 +1,211 @@
+/*
+ * Logo grid (dept.global logo walls, award logos, partner cards).
+ * Values measured on dept.global at 1440px and 375px (industry, case and partner pages).
+ */
+main .logo-grid > ul {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+main .logo-grid li {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+main .logo-grid .logo-grid-image {
+  position: relative;
+}
+
+main .logo-grid .logo-grid-image a {
+  display: block;
+  height: 100%;
+}
+
+main .logo-grid picture {
+  display: block;
+  height: 100%;
+}
+
+/* logos fill their column at their own proportions (variants use a fixed box instead) */
+main .logo-grid .logo-grid-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+main .logo-grid .logo-grid-text p {
+  margin: 0;
+}
+
+/*
+ * ---------- awards: logo with the number of awards under it (dark panel) ----------
+ * centred rows: a few awards sit in the middle, like on the source
+ */
+main .logo-grid.awards > ul {
+  --logo-grid-columns: 2;
+  --logo-grid-gap: 40px;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 48px var(--logo-grid-gap);
+}
+
+main .logo-grid.awards li {
+  flex: 0 0 calc((100% - (var(--logo-grid-columns) - 1) * var(--logo-grid-gap)) / var(--logo-grid-columns));
+  align-items: center;
+  gap: 16px;
+}
+
+main .logo-grid.awards .logo-grid-image {
+  width: 100%;
+}
+
+main .logo-grid.awards .logo-grid-image img {
+  aspect-ratio: 4 / 3;
+}
+
+main .logo-grid.awards .logo-grid-text {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+}
+
+/* ---------- tiles: logos on light grey tiles, linked ---------- */
+main .logo-grid.tiles > ul {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+
+main .logo-grid.tiles .logo-grid-image {
+  background: #f7f9fa;
+}
+
+main .logo-grid.tiles .logo-grid-image img {
+  aspect-ratio: 4 / 3;
+}
+
+/* ---------- partner cards: large image, caption on hover, linked name ---------- */
+main .logo-grid.partners > ul {
+  grid-template-columns: 100%;
+  gap: 40px;
+}
+
+main .logo-grid.partners li {
+  gap: 16px;
+}
+
+main .logo-grid.partners .logo-grid-image {
+  overflow: hidden;
+}
+
+main .logo-grid.partners .logo-grid-image img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  transition: transform 0.6s ease;
+}
+
+main .logo-grid.partners .logo-grid-caption {
+  position: absolute;
+  right: 20px;
+  bottom: 8px;
+  left: 20px;
+  margin: 0;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+main .logo-grid.partners li:hover .logo-grid-caption {
+  opacity: 1;
+}
+
+main .logo-grid.partners li:hover .logo-grid-image img {
+  transform: scale(1.03);
+}
+
+main .logo-grid.partners .logo-grid-text p {
+  line-height: 21px;
+}
+
+main .logo-grid.partners .logo-grid-text a:any-link {
+  color: inherit;
+  font-size: 20px;
+  font-weight: 900;
+  line-height: 21px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+@media (width >= 600px) {
+  main .logo-grid.awards > ul {
+    --logo-grid-columns: 4;
+  }
+
+  main .logo-grid.tiles > ul {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  main .logo-grid.partners > ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 40px 20px;
+  }
+}
+
+@media (width >= 900px) {
+  main .logo-grid > ul {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 24px 56px;
+  }
+
+  main .logo-grid.columns-4 > ul {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  main .logo-grid.awards > ul {
+    --logo-grid-columns: 5;
+    --logo-grid-gap: 60px;
+
+    row-gap: 64px;
+  }
+
+  main .logo-grid.awards .logo-grid-image img {
+    aspect-ratio: 3 / 5;
+    max-height: 220px;
+  }
+
+  main .logo-grid.awards li {
+    gap: 64px;
+  }
+
+  main .logo-grid.tiles > ul {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 20px;
+  }
+
+  main .logo-grid.partners > ul {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  main .logo-grid.partners .logo-grid-image img {
+    aspect-ratio: 452 / 604;
+  }
+}
+
+@media (width >= 1200px) {
+  main .logo-grid.awards > ul {
+    --logo-grid-columns: 7;
+  }
+}

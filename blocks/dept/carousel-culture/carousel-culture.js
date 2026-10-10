@@ -254,6 +254,42 @@ function initTurntable(block, track, slides, dots) {
   measure();
 }
 
+/*
+ * Variants "images" (row of images, title-block-carousel) and "slides" (full-width image slides,
+ * careers / numbered carousels): a native scroll-snap track; dot i scrolls to slide i (the last
+ * dot is active at the end of the track, where the last slides cannot reach the start).
+ */
+const SCROLL_VARIANTS = ['images', 'slides'];
+
+function initScroller(track, slides, dots) {
+  const maxScroll = () => Math.max(0, track.scrollWidth - track.clientWidth);
+  const offsetOf = (slide) => slide.offsetLeft - slides[0].offsetLeft;
+  const setActive = (active) => dots.forEach((dot, i) => {
+    dot.classList.toggle('active', i === active);
+    dot.setAttribute('aria-pressed', i === active);
+  });
+  dots.forEach((dot, i) => dot.addEventListener('click', () => {
+    track.scrollTo({
+      left: Math.min(offsetOf(slides[i]), maxScroll()),
+      behavior: reducedMotion.matches ? 'auto' : 'smooth',
+    });
+  }));
+  track.addEventListener('scroll', () => {
+    const left = track.scrollLeft;
+    if (left >= maxScroll() - 2) {
+      setActive(slides.length - 1);
+      return;
+    }
+    let nearest = 0;
+    slides.forEach((slide, i) => {
+      const distance = Math.abs(offsetOf(slide) - left);
+      if (distance < Math.abs(offsetOf(slides[nearest]) - left)) nearest = i;
+    });
+    setActive(nearest);
+  }, { passive: true });
+  setActive(0);
+}
+
 let carouselId = 0;
 export default async function decorate(block) {
   carouselId += 1;
@@ -303,5 +339,6 @@ export default async function decorate(block) {
   nav.append(list);
   block.append(nav);
 
-  initTurntable(block, track, slides, dots);
+  if (SCROLL_VARIANTS.some((v) => block.classList.contains(v))) initScroller(track, slides, dots);
+  else initTurntable(block, track, slides, dots);
 }

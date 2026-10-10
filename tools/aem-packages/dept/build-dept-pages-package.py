@@ -30,6 +30,7 @@ ROOTS = ['dept', 'dept-nav', 'dept-footer']
 DEFAULT_SCRIPTS = os.path.expanduser(
     '~/.excat-marketplaces/excat-marketplace/excat/skills/excat-content-import/scripts')
 MAX_MB = 90
+BATCH = 400
 
 _spec = importlib.util.spec_from_file_location('build_dept_package', os.path.join(HERE, 'build-dept-package.py'))
 base = importlib.util.module_from_spec(_spec)  # reuse esc() and properties_xml()
@@ -52,6 +53,27 @@ def filter_xml(roots):
     return f'<?xml version="1.0" encoding="UTF-8"?>\n<workspaceFilter version="1.0">\n{lines}</workspaceFilter>\n'
 
 
+def stale_pages():
+    """Pages whose source is gone: their last import failed (live 404) after an earlier success.
+    The importer reports failures under reports/<live path>, successes under reports/dept/<live path>."""
+    import glob
+    import json
+    reports = os.path.join(REPO, 'tools', 'importer', 'reports')
+    stale = set()
+    for f in glob.glob(os.path.join(reports, '**', '*.report.json'), recursive=True):
+        rel = os.path.relpath(f, reports)[:-len('.report.json')]
+        if rel.startswith('dept' + os.sep) or rel == 'dept':
+            continue
+        try:
+            failed = json.load(open(f, encoding='utf-8'))
+            ok = json.load(open(os.path.join(reports, 'dept', f'{rel}.report.json'), encoding='utf-8'))
+        except (OSError, ValueError):
+            continue
+        if failed.get('status') == 'failed' and failed.get('timestamp', '') > ok.get('timestamp', ''):
+            stale.add(f'dept/{rel}'.replace(os.sep, '/'))
+    return stale
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--name', default='exp-mord-agent-dept-pages')
@@ -60,9 +82,15 @@ def main():
                     help='folder with node_modules/@adobe/helix-importer and jsdom')
     args = ap.parse_args()
 
+    # the same page list as convert-dept-pages.mjs, converted in batches (one node run each,
+    # so memory stays bounded over thousands of pages)
+    files = [f'content/{r}.plain.html' for r in ROOTS if os.path.exists(os.path.join(REPO, f'content/{r}.plain.html'))]
+    for d, _, names in os.walk(os.path.join(REPO, 'content', 'dept')):
+        files += sorted(os.path.relpath(os.path.join(d, n), REPO) for n in names if n.endswith('.plain.html'))
     with tempfile.TemporaryDirectory() as tmp:
-        subprocess.run(['node', os.path.join(HERE, 'convert-dept-pages.mjs'), REPO, tmp],
-                       check=True, env={**os.environ, 'SCRIPTS': args.scripts})
+        for i in range(0, len(files), BATCH):
+            subprocess.run(['node', os.path.join(HERE, 'convert-dept-pages.mjs'), REPO, tmp, *files[i:i + BATCH]],
+                           check=True, env={**os.environ, 'SCRIPTS': args.scripts})
         pages = {}
         for d, _, names in os.walk(tmp):
             for n in names:
@@ -71,6 +99,11 @@ def main():
                     ET.parse(f)  # fail on invalid XML rather than at install time
                     pages[os.path.relpath(f, tmp)[:-4]] = open(f, encoding='utf-8').read()
 
+        stale = stale_pages() & set(pages)
+        for p in stale:
+            del pages[p]
+        if stale:
+            print(f'skipped {len(stale)} pages that are gone on the live site: {", ".join(sorted(stale))}')
         parents = {'/'.join(p.split('/')[:i]) for p in pages for i in range(1, p.count('/') + 1)}
         placeholders = sorted(parents - set(pages))
         out = os.path.join(HERE, f'{args.name}-{args.version}.zip')

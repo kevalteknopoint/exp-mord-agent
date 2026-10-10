@@ -87,8 +87,10 @@ def download(row):
         return source, dam, None, str(e)
 
 
-def write_part(rows, name, version, part, total_parts):
-    suffix = f'-part{part:03d}' if total_parts > 1 else ''
+def write_part(rows, name, version, part, total_parts=None):
+    """total_parts None: streamed build, the number of parts is not known yet (always -partNNN)."""
+    suffix = f'-part{part:03d}' if total_parts != 1 else ''
+    of_total = f' of {total_parts}' if total_parts else ''
     pkg_name = f'{name}{suffix}'
     out = os.path.join(HERE, f'{pkg_name}-{version}.zip')
     roots = [DAM_ROOT]  # mode="merge": only adds/updates the packaged assets
@@ -108,7 +110,7 @@ def write_part(rows, name, version, part, total_parts):
             z.writestr(f'{base}/_jcr_content/renditions/original.dir/.content.xml', original_xml(asset_mime))
         z.writestr('META-INF/vault/filter.xml', filter_xml(roots))
         z.writestr('META-INF/vault/properties.xml', properties_xml(
-            pkg_name, version, f'DEPT site images as DAM assets ({len(rows)} assets, part {part} of {total_parts})'))
+            pkg_name, version, f'DEPT site images as DAM assets ({len(rows)} assets, part {part}{of_total})'))
     return out
 
 
@@ -130,27 +132,33 @@ def main():
         rows = [(r['source'], r['dam_path']) for r in csv.DictReader(fh) if r['dam_path'].startswith(args.prefix)]
     print(f'{len(rows)} images to download')
 
-    ok, failed = [], []
-    with ThreadPoolExecutor(args.workers) as ex:
-        for source, dam, data, info in ex.map(download, rows):
-            (ok if data else failed).append((source, dam, data, info))
-    for source, _, _, err in failed:
-        print(f'  failed: {source} ({err})', file=sys.stderr)
-
+    # streamed: images are downloaded in batches and each part is written as soon as it is full,
+    # so at most one part is held in memory (the full site is several GB)
     limit = args.max_mb * 1024 * 1024
-    parts, current, size = [], [], 0
-    for item in ok:
-        if current and size + len(item[2]) > limit:
-            parts.append(current)
-            current, size = [], 0
-        current.append(item)
-        size += len(item[2])
+    current, size, part, packaged, failed = [], 0, 0, 0, 0
+
+    def flush():
+        nonlocal current, size, part
+        part += 1
+        out = write_part(current, args.name, args.version, part)
+        print(f'  {os.path.basename(out)}: {len(current)} assets, {os.path.getsize(out) / 1024 / 1024:.1f} MB', flush=True)
+        current, size = [], 0
+
+    with ThreadPoolExecutor(args.workers) as ex:
+        for i in range(0, len(rows), 64):
+            for source, dam, data, info in ex.map(download, rows[i:i + 64]):
+                if not data:
+                    failed += 1
+                    print(f'  failed: {source} ({info})', file=sys.stderr)
+                    continue
+                if current and size + len(data) > limit:
+                    flush()
+                current.append((source, dam, data, info))
+                size += len(data)
+                packaged += 1
     if current:
-        parts.append(current)
-    for i, part in enumerate(parts, 1):
-        out = write_part(part, args.name, args.version, i, len(parts))
-        print(f'  {os.path.basename(out)}: {len(part)} assets, {os.path.getsize(out) / 1024 / 1024:.1f} MB')
-    print(f'done: {len(ok)} packaged, {len(failed)} failed')
+        flush()
+    print(f'done: {packaged} packaged in {part} parts, {failed} failed')
 
 
 if __name__ == '__main__':

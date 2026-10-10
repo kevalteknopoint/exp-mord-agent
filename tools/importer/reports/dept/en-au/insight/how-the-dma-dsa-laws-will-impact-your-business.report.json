@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-the-dma-dsa-laws-will-impact-your-business/",
+  "path": "dept/en-au/insight/how-the-dma-dsa-laws-will-impact-your-business",
+  "timestamp": "2026-10-09T13:07:29.974Z",
+  "title": "How the DMA & DSA laws will impact your business - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/arial-view-of-man-on-phone.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/arial-view-of-man-on-phone.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/arial-view-of-two-people-on-phones.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/arial-view-of-two-people-on-phones.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/guy-on-phone-in-portugal.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/guy-on-phone-in-portugal.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/arial-view-of-man-on-phone.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/arial-view-of-man-on-phone.jpg"
+    ]
+  ]
+}

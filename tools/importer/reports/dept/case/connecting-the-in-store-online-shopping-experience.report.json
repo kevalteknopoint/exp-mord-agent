@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/connecting-the-in-store-online-shopping-experience/",
+  "path": "dept/case/connecting-the-in-store-online-shopping-experience",
+  "timestamp": "2026-10-09T10:27:56.987Z",
+  "title": "Connecting the in-store & online shopping experience - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "panel-two-media",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/diana-polekhina-iUfusOthmgQ-unsplash-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/diana-polekhina-iUfusOthmgQ-unsplash-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/World-finance.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/World-finance.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/MAKINA_Product_Art_Direction-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/MAKINA_Product_Art_Direction-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg"
+    ]
+  ]
+}

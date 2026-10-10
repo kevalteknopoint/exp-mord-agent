@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/times-change-values-remains/",
+  "path": "dept/case/times-change-values-remains",
+  "timestamp": "2026-10-09T11:06:44.340Z",
+  "title": "Times change, values remains - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "statement",
+    "video",
+    "statement",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/G-nuAr_g-2-e1627388428112.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/G-nuAr_g-2-e1627388428112.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/eye-bobs-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/eye-bobs-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-02-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-02-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ]
+  ]
+}

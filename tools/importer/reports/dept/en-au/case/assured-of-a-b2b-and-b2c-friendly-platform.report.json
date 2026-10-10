@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/assured-of-a-b2b-and-b2c-friendly-platform/",
+  "path": "dept/en-au/case/assured-of-a-b2b-and-b2c-friendly-platform",
+  "timestamp": "2026-10-09T12:28:07.180Z",
+  "title": "A platform that services both B2B and B2C customers - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "call-to-action",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/spin-magazine-open-graph.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/spin-magazine-open-graph.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Allianz-half-width-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Allianz-half-width-2-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/courtside-commerce/",
+  "path": "dept/en-uki/event/courtside-commerce",
+  "timestamp": "2026-10-09T19:44:36.241Z",
+  "title": "Courtside Commerce - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-intro",
+    "event-info",
+    "insight-cta",
+    "assets-and-copy",
+    "assets-and-copy",
+    "event-people",
+    "event-program-v2",
+    "custom-listing"
+  ],
+  "fallback": [
+    "event-program-v2"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DFC-Shopify-x-Tennis-Landing-Page-Hero-Banner-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DFC-Shopify-x-Tennis-Landing-Page-Hero-Banner-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Jack-Williams-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Jack-Williams-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Ben-Barton.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Ben-Barton.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/image-13.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/image-13.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/LI-headshot.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/LI-headshot.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Everyday-Retail-Inisght-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Everyday-Retail-Inisght-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Universal-Commerce-Protocol-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Universal-Commerce-Protocol-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Premiumization_-The-new-currency-for-CPG-growth-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Premiumization_-The-new-currency-for-CPG-growth-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DFC-Shopify-x-Tennis-Landing-Page-Hero-Banner-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DFC-Shopify-x-Tennis-Landing-Page-Hero-Banner-1920x1080-1.png"
+    ]
+  ]
+}

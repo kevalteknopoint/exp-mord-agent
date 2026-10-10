@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/tamtam-has-become-dept/",
+  "path": "dept/tamtam-has-become-dept",
+  "timestamp": "2026-10-09T22:03:11.442Z",
+  "title": "TamTam has become DEPT® - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "post-header",
+    "panel-with-rich-text",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/3RAwevqw-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/3RAwevqw-1.jpeg"
+    ]
+  ]
+}

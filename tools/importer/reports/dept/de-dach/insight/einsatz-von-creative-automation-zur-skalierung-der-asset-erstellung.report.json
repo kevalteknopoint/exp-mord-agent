@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/einsatz-von-creative-automation-zur-skalierung-der-asset-erstellung/",
+  "path": "dept/de-dach/insight/einsatz-von-creative-automation-zur-skalierung-der-asset-erstellung",
+  "timestamp": "2026-10-09T12:01:53.167Z",
+  "title": "Creative Automation zur Skalierung der Asset Erstellung - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Scaling-asset-creation-with-creative-automation-1200x630-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Scaling-asset-creation-with-creative-automation-1200x630-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/luebue_NEU-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/luebue_NEU-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Scaling-asset-creation-with-creative-automation-1200x630-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Scaling-asset-creation-with-creative-automation-1200x630-1.jpg"
+    ]
+  ]
+}

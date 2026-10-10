@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/van-bolderkar-tot-zomerhit-maximaal-genieten-met-deze-zomercampagne/",
+  "path": "dept/en-nl/insight/van-bolderkar-tot-zomerhit-maximaal-genieten-met-deze-zomercampagne",
+  "timestamp": "2026-10-09T17:59:38.936Z",
+  "title": "Van bolderkar tot zomerhit. Maximaal genieten met deze zomercampagne. - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/bol-Zomergenieters-2024-STILL-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/bol-Zomergenieters-2024-STILL-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ramin-Bahari-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ramin-Bahari-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ramin-Bahari.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ramin-Bahari.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/bol-Zomergenieters-2024-STILL-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/bol-Zomergenieters-2024-STILL-4.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/two-weeks-to-improve-development-speed-and-efficiency/",
+  "path": "dept/en-au/case/two-weeks-to-improve-development-speed-and-efficiency",
+  "timestamp": "2026-10-09T12:38:08.039Z",
+  "title": "Featured work: Major League Pickleball's architecture - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/pickleball-balls-on-court.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/pickleball-balls-on-court.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/pickleball-court.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/pickleball-court.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/pickleball-racket.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/pickleball-racket.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/jake-rainis.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/jake-rainis.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-basketball.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/energy-consumption-data-nrel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/energy-consumption-data-nrel.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/VDK-Read-More-VDK.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/VDK-Read-More-VDK.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/pickleball-racket.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/pickleball-racket.jpg"
+    ]
+  ]
+}

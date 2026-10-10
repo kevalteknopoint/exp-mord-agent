@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/kampagnen-steuerung-und-planung-mit-content-marketing-measurement-tool-fur-betty-bossi/",
+  "path": "dept/de-dach/case/kampagnen-steuerung-und-planung-mit-content-marketing-measurement-tool-fur-betty-bossi",
+  "timestamp": "2026-10-09T11:06:02.963Z",
+  "title": "Kampagnen-Steuerung mit Content-Marketing-Tools für Betty Bossi - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/headerbettybossi.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/headerbettybossi.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Isabel-Munger-Dept-e1627491925908.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Isabel-Munger-Dept-e1627491925908.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Meta-case_itsyourworld-custom_1920x1080.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Meta-case_itsyourworld-custom_1920x1080.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Screenshot-2022-03-31-at-19.04.03.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Screenshot-2022-03-31-at-19.04.03.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/headerbettybossi.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/headerbettybossi.png"
+    ]
+  ]
+}

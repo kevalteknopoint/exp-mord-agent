@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/design-it-yourself-mit-freitag-f-cut2/",
+  "path": "dept/de-dach/case/design-it-yourself-mit-freitag-f-cut2",
+  "timestamp": "2026-10-09T11:34:22.250Z",
+  "title": "Design-it-yourself mit FREITAG F-Cut - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "call-to-action",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/DE-f-cut-landing.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/DE-f-cut-landing.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DE-f-cut-mobile.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DE-f-cut-mobile.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DE-f-cut-preview.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DE-f-cut-preview.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/f-worker.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/f-worker.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Retail-Commerce-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Retail-Commerce-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/revolutionizing-pregnancy-monitoring/",
+  "path": "dept/case/revolutionizing-pregnancy-monitoring",
+  "timestamp": "2026-10-09T10:49:23.941Z",
+  "title": "Revolutionizing pregnancy monitoring - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Kali-Healthcare-dept-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Kali-Healthcare-dept-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Kali-Healthcare-dept-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Kali-Healthcare-dept-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Kali-Healthcare-dept-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Kali-Healthcare-dept-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1262451395-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1262451395-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Kali-Healthcare-38-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Kali-Healthcare-38-1.jpg"
+    ]
+  ]
+}

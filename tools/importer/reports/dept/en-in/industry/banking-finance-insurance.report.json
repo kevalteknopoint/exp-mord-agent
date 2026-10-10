@@ -1,0 +1,125 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/industry/banking-finance-insurance/",
+  "path": "dept/en-in/industry/banking-finance-insurance",
+  "timestamp": "2026-10-09T15:57:56.340Z",
+  "title": "Digital agency specialising in BFSI - Banking, Finance, Insurance",
+  "template": "dept-industry",
+  "locale": "en-in",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "event-content-v2",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "event-content-v2",
+    "work-listing",
+    "highlighted-statement",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/migrosbank-keyvisual-web-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/migrosbank-keyvisual-web-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/IG.com-RaceCase.001.001-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/IG.com-RaceCase.001.001-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/BFSI-AI-Transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/BFSI-AI-Transformation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Tata-Capital.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Tata-Capital.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/St-Jamess-Place.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/St-Jamess-Place.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Rabobank.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Rabobank.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Moodys.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Moodys.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Migros-Bank.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Migros-Bank.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Liberty-Mutual.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Liberty-Mutual.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/HSBC-UK.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/HSBC-UK.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Fidelity.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Fidelity.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Allianz.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Allianz.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ABN-Amro.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ABN-Amro.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Tata-Capital_1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Tata-Capital_1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/migrosbank-keyvisual-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/migrosbank-keyvisual-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/key-bank.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/key-bank.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-16-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-16-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Partners_Adobe.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Partners_Adobe.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/bfsi-data-ai-innovation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/bfsi-data-ai-innovation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/bfsi-cdps.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/bfsi-cdps.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/frictionless-cx-in-banking.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/frictionless-cx-in-banking.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/BFSI-featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/BFSI-featured-image.png"
+    ]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/grenzen-verleggen-met-een-next-level-interactief-virtueel-event/",
+  "path": "dept/en-nl/case/grenzen-verleggen-met-een-next-level-interactief-virtueel-event",
+  "timestamp": "2026-10-09T18:19:31.635Z",
+  "title": "Grenzen verleggen met een next-level interactief virtueel event - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "panel-with-cards",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Weekender-02-header-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Weekender-02-header-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Weekender-04-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Weekender-04-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Weekender-06-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Weekender-06-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Weekender-08-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Weekender-08-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Weekender-10-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Weekender-10-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Johan-Kruseman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Johan-Kruseman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Buut-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Buut-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/d66_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/d66_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Weekender-02-header-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Weekender-02-header-scaled.jpg"
+    ]
+  ]
+}

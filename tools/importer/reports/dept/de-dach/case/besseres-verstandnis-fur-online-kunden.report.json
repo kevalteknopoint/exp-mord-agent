@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/besseres-verstandnis-fur-online-kunden/",
+  "path": "dept/de-dach/case/besseres-verstandnis-fur-online-kunden",
+  "timestamp": "2026-10-09T11:25:57.740Z",
+  "title": "Besseres Verständnis für Online-Kund:innen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/DJI_0076-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/DJI_0076-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dept-x-quadient-case-1440x810-c-quadient.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dept-x-quadient-case-1440x810-c-quadient.png"
+    ]
+  ]
+}

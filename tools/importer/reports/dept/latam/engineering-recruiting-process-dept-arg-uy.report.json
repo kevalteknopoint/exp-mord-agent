@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/engineering-recruiting-process-dept-arg-uy/",
+  "path": "dept/latam/engineering-recruiting-process-dept-arg-uy",
+  "timestamp": "2026-10-09T23:45:56.950Z",
+  "title": "Engineering Recruiting process DEPT® Arg + Uy - DEPT®",
+  "template": "dept-page",
+  "locale": "latam",
+  "components": [
+    "media-with-text",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT-Fest-2022-Sat-42-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT-Fest-2022-Sat-42-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Lets-Get-started-fullscreen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Lets-Get-started-fullscreen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT-Fest-2022-Sat-42-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT-Fest-2022-Sat-42-1-1.jpg"
+    ]
+  ]
+}

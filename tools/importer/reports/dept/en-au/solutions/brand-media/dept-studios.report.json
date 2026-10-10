@@ -1,0 +1,85 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/solutions/brand-media/dept-studios/",
+  "path": "dept/en-au/solutions/brand-media/dept-studios",
+  "timestamp": "2026-10-09T14:31:39.539Z",
+  "title": "DEPT® Studios - DEPT®",
+  "template": "dept-solutions",
+  "locale": "en-au",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "title-block",
+    "assets-and-copy",
+    "highlighted-statement",
+    "highlighted-logos",
+    "assets-and-copy",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Ebay.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Ebay.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Meta-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Meta-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Mammut-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Mammut-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Uber-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Uber-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Mejuri.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Mejuri.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Netflix.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Netflix.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Turo-Logo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Turo-Logo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/ebay-creative-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/ebay-creative-automation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/webby-winners-dept-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/webby-winners-dept-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DEPT%C2%AESTUDIOS-PR-assset-1920x1080-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DEPT-STUDIOS-PR-assset-1920x1080-3.png"
+    ]
+  ]
+}

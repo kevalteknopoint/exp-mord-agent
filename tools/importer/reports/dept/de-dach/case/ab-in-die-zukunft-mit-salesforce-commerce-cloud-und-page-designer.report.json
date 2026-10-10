@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ab-in-die-zukunft-mit-salesforce-commerce-cloud-und-page-designer/",
+  "path": "dept/de-dach/case/ab-in-die-zukunft-mit-salesforce-commerce-cloud-und-page-designer",
+  "timestamp": "2026-10-09T11:23:10.452Z",
+  "title": "Ab in die Zukunft mit Salesforce Commerce Cloud und Page Designer - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/download-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/download-8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Bugaboo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Bugaboo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/download-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/download-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Grid-scaled-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Grid-scaled-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Bugaboo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Bugaboo.jpeg"
+    ]
+  ]
+}

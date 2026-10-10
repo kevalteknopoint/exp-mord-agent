@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/how-to-build-an-e-commerce-brand-in-a-noisy-world/",
+  "path": "dept/en-dk/insight/how-to-build-an-e-commerce-brand-in-a-noisy-world",
+  "timestamp": "2026-10-09T15:31:26.374Z",
+  "title": "How to build an e-commerce brand in a noisy world  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/build-ecommerce-brand-noisy-world.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/build-ecommerce-brand-noisy-world.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/ralph-rijks-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/ralph-rijks-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Mastering-Amazon-Ads-2.0_-Harness-data-AI-and-machine-learning-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Mastering-Amazon-Ads-2.0_-Harness-data-AI-and-machine-learning-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/data-analytics-missing-digital-transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/data-analytics-missing-digital-transformation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Insights-DEPT%C2%AE-commerce-Logo-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Insights-DEPT--commerce-Logo-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/build-ecommerce-brand-noisy-world.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/build-ecommerce-brand-noisy-world.jpg"
+    ]
+  ]
+}

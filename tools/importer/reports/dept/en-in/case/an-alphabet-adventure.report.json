@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/an-alphabet-adventure/",
+  "path": "dept/en-in/case/an-alphabet-adventure",
+  "timestamp": "2026-10-09T14:49:36.775Z",
+  "title": "An Alphabet Adventure - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/anders-jessen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/anders-jessen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-cover-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-cover-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/wongle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/wongle.jpg"
+    ]
+  ]
+}

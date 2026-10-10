@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/growth-marketing-report-special-feature-b2b/",
+  "path": "dept/en-au/insight/growth-marketing-report-special-feature-b2b",
+  "timestamp": "2026-10-09T13:57:43.474Z",
+  "title": "Growth marketing report special feature: B2B - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "wrapper",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20210902BlogFI_SEMMethod.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20210902BlogFI_SEMMethod.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/20230112_Blog_GrowthMarketingReportSpecialFeature2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/20230112_Blog_GrowthMarketingReportSpecialFeature2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Blog_GrowthMarketing_b2b_.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Blog_GrowthMarketing_b2b_.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20210902BlogFI_SEMMethod.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20210902BlogFI_SEMMethod.jpeg"
+    ]
+  ]
+}

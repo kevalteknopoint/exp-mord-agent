@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/365-days-bol-com/",
+  "path": "dept/en-au/case/365-days-bol-com",
+  "timestamp": "2026-10-09T11:50:32.774Z",
+  "title": "365 days bol.com - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "full-width-image",
+    "intro-text",
+    "panel-with-rich-text",
+    "jumbotron",
+    "call-to-action",
+    "panel-with-rich-text",
+    "jumbotron",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "jumbotron",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/365.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/365.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bol.com-Case-Moederdag-Dept-2-1200x675-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bol.com-Case-Moederdag-Dept-2-1200x675-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bol.com_-1200x675-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bol.com_-1200x675-c-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jord-Wessels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jord-Wessels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DBSM-FOTO-1440x810-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DBSM-FOTO-1440x810-c.png"
+    ]
+  ]
+}

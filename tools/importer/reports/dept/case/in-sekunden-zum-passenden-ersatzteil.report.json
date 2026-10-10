@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/in-sekunden-zum-passenden-ersatzteil/",
+  "path": "dept/case/in-sekunden-zum-passenden-ersatzteil",
+  "timestamp": "2026-10-09T10:23:27.060Z",
+  "title": "In Sekunden zum passenden Ersatzteil - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "statement",
+    "full-width-image",
+    "panel-with-cards",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/G-nuAr_g-2-e1627388428112.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/G-nuAr_g-2-e1627388428112.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/MAKINA_Product_Art_Direction-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/MAKINA_Product_Art_Direction-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Template-Full-screen-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Template-Full-screen-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/SECRID-DEPT%C2%AE-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/SECRID-DEPT--1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ]
+  ]
+}

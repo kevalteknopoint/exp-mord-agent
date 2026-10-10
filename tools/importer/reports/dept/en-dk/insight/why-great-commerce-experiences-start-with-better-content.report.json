@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/why-great-commerce-experiences-start-with-better-content/",
+  "path": "dept/en-dk/insight/why-great-commerce-experiences-start-with-better-content",
+  "timestamp": "2026-10-09T15:24:04.061Z",
+  "title": "Why great commerce experiences start with better content - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/commerce-content-strategy.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/commerce-content-strategy.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/E026KL2NWPK-UJCGKPL3A-97dc09ddf06b-512-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/E026KL2NWPK-UJCGKPL3A-97dc09ddf06b-512-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/connected-content-visualization.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/connected-content-visualization.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/cms-framework-pillars.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/cms-framework-pillars.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/personalization-maturity-model-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/personalization-maturity-model-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/connected-stack-visual.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/connected-stack-visual.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Everyday-Retail-Inisght-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Everyday-Retail-Inisght-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/commerce-content-strategy.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/commerce-content-strategy.webp"
+    ]
+  ]
+}

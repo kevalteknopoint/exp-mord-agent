@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-eu-brands-can-stay-preferred-us-even-when-tariffs-bite/",
+  "path": "dept/insight/how-eu-brands-can-stay-preferred-us-even-when-tariffs-bite",
+  "timestamp": "2026-10-09T20:53:19.255Z",
+  "title": "How EU brands can stay preferred in the U.S. even when tariffs bite - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "statement-v2",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/LI-Newsletter-Tarrifs-Week-18-1920x1080-11.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/LI-Newsletter-Tarrifs-Week-18-1920x1080-11.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Andrew-Dimitriou-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Andrew-Dimitriou-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Mammut-Website-asset-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Mammut-Website-asset-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-LP.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-LP.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/strategic-navigators-tariff-disruption.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/strategic-navigators-tariff-disruption.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/LI-Newsletter-Tarrifs-Week-18-1920x1080-11.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/LI-Newsletter-Tarrifs-Week-18-1920x1080-11.jpg"
+    ]
+  ]
+}

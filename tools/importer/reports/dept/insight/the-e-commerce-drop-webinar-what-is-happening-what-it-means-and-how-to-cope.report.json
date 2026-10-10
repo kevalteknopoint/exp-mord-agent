@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-e-commerce-drop-webinar-what-is-happening-what-it-means-and-how-to-cope/",
+  "path": "dept/insight/the-e-commerce-drop-webinar-what-is-happening-what-it-means-and-how-to-cope",
+  "timestamp": "2026-10-09T21:56:39.359Z",
+  "title": "The E-Commerce Drop Webinar: What is happening, what it means and how to cope - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/E-commerce-drop-webinar-follow-up-roundtable-FACTOR-ADEPT.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/E-commerce-drop-webinar-follow-up-roundtable-FACTOR-ADEPT.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/E-commerce-drop-webinar-follow-up-roundtable-FACTOR-ADEPT-1024x683.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/E-commerce-drop-webinar-follow-up-roundtable-FACTOR-ADEPT-1024x683.png"
+    ]
+  ]
+}

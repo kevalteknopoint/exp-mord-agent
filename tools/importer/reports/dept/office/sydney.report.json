@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/sydney/",
+  "path": "dept/office/sydney",
+  "timestamp": "2026-10-09T22:40:18.834Z",
+  "title": "Sydney - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/DEPT-Sydney-Office-August-2023-13.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/DEPT-Sydney-Office-August-2023-13.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/DEPT-Sydney-Office-August-2023-13.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/DEPT-Sydney-Office-August-2023-13.jpg"
+    ]
+  ]
+}

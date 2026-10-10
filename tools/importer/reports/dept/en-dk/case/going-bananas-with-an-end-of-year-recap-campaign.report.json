@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/going-bananas-with-an-end-of-year-recap-campaign/",
+  "path": "dept/en-dk/case/going-bananas-with-an-end-of-year-recap-campaign",
+  "timestamp": "2026-10-09T14:24:46.940Z",
+  "title": "Going bananas with an end-of-year recap campaign - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Reddit-Recap-Feature-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Reddit-Recap-Feature-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Google-store-headphones.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Google-store-headphones.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ganni7-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ganni7-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1262451395-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1262451395-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Reddit-Feature-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Reddit-Feature-01.jpg"
+    ]
+  ]
+}

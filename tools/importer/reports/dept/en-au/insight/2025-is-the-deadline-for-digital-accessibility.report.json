@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/2025-is-the-deadline-for-digital-accessibility/",
+  "path": "dept/en-au/insight/2025-is-the-deadline-for-digital-accessibility",
+  "timestamp": "2026-10-09T12:05:46.965Z",
+  "title": "2025 is the deadline for digital accessibility - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "case-study-showcase",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/accessibility-concept-e1677592301956.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/accessibility-concept-e1677592301956.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Asher-wren-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Asher-wren-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/digital-trends-2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/digital-trends-2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sustainability-in-tech.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sustainability-in-tech.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/accessibility-concept-e1677592301956.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/accessibility-concept-e1677592301956.jpg"
+    ]
+  ]
+}

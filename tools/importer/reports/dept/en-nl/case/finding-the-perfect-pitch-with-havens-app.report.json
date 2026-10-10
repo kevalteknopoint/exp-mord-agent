@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/finding-the-perfect-pitch-with-havens-app/",
+  "path": "dept/en-nl/case/finding-the-perfect-pitch-with-havens-app",
+  "timestamp": "2026-10-09T18:11:49.560Z",
+  "title": "Finding the perfect pitch with Haven’s app - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-Full-bleed.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-Full-bleed.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/my-haven-desktop-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/my-haven-desktop-design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/my-haven-app.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/my-haven-app.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/haven-seaview-app-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/haven-seaview-app-design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Mobile-x-7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Mobile-x-7.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-Full-bleed-e1667315102794.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-Full-bleed-e1667315102794.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/een-modecampagne-met-een-vleugje-nuchterheid/",
+  "path": "dept/en-nl/case/een-modecampagne-met-een-vleugje-nuchterheid",
+  "timestamp": "2026-10-09T18:08:03.039Z",
+  "title": "Een modecampagne met een vleugje nuchterheid - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Bol-Mode-Case-OOH-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Bol-Mode-Case-OOH-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ramin-Bahari.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ramin-Bahari.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Bol-Mode-Case-OOH-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Bol-Mode-Case-OOH-1.png"
+    ]
+  ]
+}

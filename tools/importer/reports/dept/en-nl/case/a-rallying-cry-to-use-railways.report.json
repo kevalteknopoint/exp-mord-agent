@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-rallying-cry-to-use-railways/",
+  "path": "dept/en-nl/case/a-rallying-cry-to-use-railways",
+  "timestamp": "2026-10-09T17:33:33.735Z",
+  "title": "A rallying cry to use railways - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "intro-text",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "quote",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline-hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline-Francis-and-Craig.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline-Francis-and-Craig.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/atlassian-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/atlassian-logo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline_500x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline_500x300.jpg"
+    ]
+  ]
+}

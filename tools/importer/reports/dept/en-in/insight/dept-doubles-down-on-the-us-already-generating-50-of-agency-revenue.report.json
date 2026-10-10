@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-in/insight/dept-doubles-down-on-the-us-already-generating-50-of-agency-revenue/",
   "path": "dept/en-in/insight/dept-doubles-down-on-the-us-already-generating-50-of-agency-revenue",
-  "timestamp": "2026-10-08T16:16:25.017Z",
+  "timestamp": "2026-10-09T09:53:18.535Z",
   "title": "DEPT® doubles down on the US, already generating 50% of agency revenue - DEPT®",
   "template": "dept-insight",
   "locale": "en-in",
@@ -15,10 +15,7 @@
     "get-in-touch",
     "highlighted-item-listing"
   ],
-  "fallback": [
-    "statement",
-    "full-width-image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_1200x1000-1.jpeg",

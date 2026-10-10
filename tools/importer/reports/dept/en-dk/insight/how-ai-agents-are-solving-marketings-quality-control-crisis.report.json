@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/how-ai-agents-are-solving-marketings-quality-control-crisis/",
+  "path": "dept/en-dk/insight/how-ai-agents-are-solving-marketings-quality-control-crisis",
+  "timestamp": "2026-10-09T15:24:43.640Z",
+  "title": "How AI agents are solving marketing's quality control crisis - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/hands-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/hands-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/7-CRM-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/7-CRM-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ]
+  ]
+}

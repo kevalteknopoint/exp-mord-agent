@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/impact-report-2025/",
+  "path": "dept/de-dach/downloads/impact-report-2025",
+  "timestamp": "2026-10-09T22:38:22.040Z",
+  "title": "Impact Report 2025 - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing-simple"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Impact-report-featured-image-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Impact-report-featured-image-1920x1080-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Shape_04_A.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Shape_04_A.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Shape_06_B.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Shape_06_B.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Shape_07_C.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Shape_07_C.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Shape_08_A.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Shape_08_A.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/impact-report-2024-flower.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/impact-report-2024-flower.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Impact-Report-2023-Cover.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Impact-Report-2023-Cover.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Impact-Report-2022_Featured-Image_500-x-301.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Impact-Report-2022_Featured-Image_500-x-301.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/DEPT-Agency-Impact-Report-2021-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/DEPT-Agency-Impact-Report-2021-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Impact-report-featured-image-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Impact-report-featured-image-1920x1080-2.png"
+    ]
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/partner/adobe/dept-x-adobe-mobile-app-accelerator/",
+  "path": "dept/en-in/partner/adobe/dept-x-adobe-mobile-app-accelerator",
+  "timestamp": "2026-10-09T16:12:00.574Z",
+  "title": "DEPT® x Adobe mobile app accelerator - DEPT®",
+  "template": "dept-partner",
+  "locale": "en-in",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "event-content-v2",
+    "highlighted-logos",
+    "event-content-v2",
+    "highlighted-statement",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Moodys.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Moodys.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Smart.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Smart.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/HSBC-UK.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/HSBC-UK.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Honda-logo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Honda-logo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Tata-Capital.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Tata-Capital.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Eriks.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Eriks.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/ABB-logo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/ABB-logo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Samsung-logo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Samsung-logo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/AstraZeneca-logo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/AstraZeneca-logo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Bajaj-Allianz-logo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Bajaj-Allianz-logo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Partners_Adobe.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Partners_Adobe.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/aem-implementations.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/aem-implementations.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Adobe-thumbnail-500x300-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Adobe-thumbnail-500x300-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Adobe-Summit-2024-Longread-lp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Adobe-Summit-2024-Longread-lp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT-ADOBE-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-ADOBE-2.png"
+    ]
+  ]
+}

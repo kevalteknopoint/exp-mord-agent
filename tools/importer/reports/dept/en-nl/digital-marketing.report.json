@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/digital-marketing/",
+  "path": "dept/en-nl/digital-marketing",
+  "timestamp": "2026-10-09T17:36:28.439Z",
+  "title": "Digital Marketing Campus - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "jumbotron",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Dept_Office-ROT-49.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Dept_Office-ROT-49.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/C3_05650.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/C3_05650.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Michaela-Murphy-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Michaela-Murphy-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_20Apr-132_preview-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_20Apr-132_preview-1.jpeg"
+    ]
+  ]
+}

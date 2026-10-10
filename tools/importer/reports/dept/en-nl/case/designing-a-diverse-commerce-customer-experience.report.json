@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/designing-a-diverse-commerce-customer-experience/",
+  "path": "dept/en-nl/case/designing-a-diverse-commerce-customer-experience",
+  "timestamp": "2026-10-09T18:06:01.439Z",
+  "title": "Designing a diverse commerce customer experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-495800486-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-495800486-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/ann-summers-mobile-mockup-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/ann-summers-mobile-mockup-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-653942568-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-653942568-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-890295048-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-890295048-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/ann-summers-desktop-mockup-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/ann-summers-desktop-mockup-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-94-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-94-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-03-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/british-gymnastics-hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/british-gymnastics-hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/sustainable-farming-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/sustainable-farming-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-653942568-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-653942568-scaled.jpg"
+    ]
+  ]
+}

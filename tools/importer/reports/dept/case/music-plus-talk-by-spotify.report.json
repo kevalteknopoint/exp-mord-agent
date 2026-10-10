@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/music-plus-talk-by-spotify/",
+  "path": "dept/case/music-plus-talk-by-spotify",
+  "timestamp": "2026-10-09T10:34:43.767Z",
+  "title": "Music + Talk by Spotify – revitalising the world of podcasting - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Liza-Enebeis.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Liza-Enebeis.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Gumtree.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Gumtree.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1221887249-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1221887249-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/spotify-music-talk-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/spotify-music-talk-scaled.jpeg"
+    ]
+  ]
+}

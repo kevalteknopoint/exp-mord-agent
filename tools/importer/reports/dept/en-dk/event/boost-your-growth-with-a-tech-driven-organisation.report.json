@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/boost-your-growth-with-a-tech-driven-organisation/",
+  "path": "dept/en-dk/event/boost-your-growth-with-a-tech-driven-organisation",
+  "timestamp": "2026-10-09T13:47:31.536Z",
+  "title": "Boost your growth with a tech-driven organisation - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-details",
+    "image",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Bart-Manuel-BW2-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Bart-Manuel-BW2-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Sandor-Voordes-bw-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Sandor-Voordes-bw-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Marcin-Floryan-Spotify-1-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Marcin-Floryan-Spotify-1-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Daniel-Gebler-Picnic-2-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Daniel-Gebler-Picnic-2-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Peter-de-Koeyer--150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Peter-de-Koeyer--150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Harry-Heijes-KPN-1-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Harry-Heijes-KPN-1-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Frank-Dijkster-Unive%CC%81-1-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Frank-Dijkster-Unive--1-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Erik-Hietkamp-DAS-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Erik-Hietkamp-DAS-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Timetable-1-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Timetable-1-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

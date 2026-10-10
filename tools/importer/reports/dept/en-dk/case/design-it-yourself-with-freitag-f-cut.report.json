@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/design-it-yourself-with-freitag-f-cut/",
+  "path": "dept/en-dk/case/design-it-yourself-with-freitag-f-cut",
+  "timestamp": "2026-10-09T14:15:27.242Z",
+  "title": "Design-it-yourself with FREITAG F-Cut - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "call-to-action",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/EN-f-cut-landing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/EN-f-cut-landing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/EN-f-cut-mobile.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/EN-f-cut-mobile.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/EN-f-cut-preview.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/EN-f-cut-preview.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/f-worker.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/f-worker.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/regraded-AUDI-Amsterdam-%C2%A9rachelecclestone-093827-file1938-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/regraded-AUDI-Amsterdam--rachelecclestone-093827-file1938-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/EN-f-cut-landing.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/EN-f-cut-landing.png"
+    ]
+  ]
+}

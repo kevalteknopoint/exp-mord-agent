@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-trends-2022-apac/",
+  "path": "dept/event/dept-trends-2022-apac",
+  "timestamp": "2026-10-09T20:09:46.555Z",
+  "title": "DEPT® Trends 2022 (APAC) - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/landingpage-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/landingpage-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jake-Welsh-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jake-Welsh-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Josephine-Gerves-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Josephine-Gerves-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Brandon-Aaskov-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Brandon-Aaskov-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Emma-Santangelo-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Emma-Santangelo-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Lisanne-Maatman-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Lisanne-Maatman-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/landingpage-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/landingpage-image.png"
+    ]
+  ]
+}

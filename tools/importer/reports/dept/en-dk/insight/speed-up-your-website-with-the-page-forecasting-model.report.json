@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/speed-up-your-website-with-the-page-forecasting-model/",
+  "path": "dept/en-dk/insight/speed-up-your-website-with-the-page-forecasting-model",
+  "timestamp": "2026-10-09T15:06:16.306Z",
+  "title": "Speed up your website with the page forecasting model - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Office_Berlin_17-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Office_Berlin_17-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Office_Berlin_17-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Office_Berlin_17-1200x750-c.jpg"
+    ]
+  ]
+}

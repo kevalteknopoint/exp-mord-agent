@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/een-moeder-baby-journey-uitstippelen-via-marketplaces/",
+  "path": "dept/en-nl/case/een-moeder-baby-journey-uitstippelen-via-marketplaces",
+  "timestamp": "2026-10-09T18:08:16.048Z",
+  "title": "Een moeder-baby-journey uitstippelen via marketplaces - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Harmony_beauty-shot_bedside-table-1-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Harmony_beauty-shot_bedside-table-1-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Mum-and-baby_foodie.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Mum-and-baby_foodie.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Swing-Maxi-product-in-use-yoga-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Swing-Maxi-product-in-use-yoga-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Solo_with-model_after-use-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Solo_with-model_after-use-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/muuto-living-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/muuto-living-area-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg"
+    ]
+  ]
+}

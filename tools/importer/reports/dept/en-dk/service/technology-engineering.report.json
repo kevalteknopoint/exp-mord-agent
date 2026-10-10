@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/technology-engineering/",
+  "path": "dept/en-dk/service/technology-engineering",
+  "timestamp": "2026-10-09T23:21:36.043Z",
+  "title": "Global software consulting | Software engineering agency",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "service-post-header",
+    "wrapper",
+    "panel-services",
+    "wrapper",
+    "wrapper",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/2017_30_05_Dept_Amsterdam_Marketing_Sfeer_JRF0041-1-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/2017_30_05_Dept_Amsterdam_Marketing_Sfeer_JRF0041-1-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/software-engineering-services-code-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/software-engineering-services-code-on-computer.jpg"
+    ]
+  ]
+}

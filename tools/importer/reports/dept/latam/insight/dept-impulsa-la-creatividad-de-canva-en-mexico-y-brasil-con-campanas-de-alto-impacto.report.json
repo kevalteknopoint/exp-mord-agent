@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-impulsa-la-creatividad-de-canva-en-mexico-y-brasil-con-campanas-de-alto-impacto/",
+  "path": "dept/latam/insight/dept-impulsa-la-creatividad-de-canva-en-mexico-y-brasil-con-campanas-de-alto-impacto",
+  "timestamp": "2026-10-09T23:30:57.540Z",
+  "title": "DEPT® impulsa la creatividad de Canva en México y Brasil",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/canva-insight-image-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/canva-insight-image-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/canva-static-brazil.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/canva-static-brazil.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/canva-static-mexico.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/canva-static-mexico.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/karinat_insight_image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/karinat_insight_image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/800kb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/800kb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/COCACOLA_Featured_4_5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/COCACOLA_Featured_4_5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/canva-insight-image-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/canva-insight-image-1920x1080-1.jpg"
+    ]
+  ]
+}

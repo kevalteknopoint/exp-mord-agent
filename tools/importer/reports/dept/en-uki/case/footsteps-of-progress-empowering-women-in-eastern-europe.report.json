@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/footsteps-of-progress-empowering-women-in-eastern-europe/",
+  "path": "dept/en-uki/case/footsteps-of-progress-empowering-women-in-eastern-europe",
+  "timestamp": "2026-10-09T20:09:46.340Z",
+  "title": "Footsteps of Progress: Empowering women in Eastern Europe - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "title-and-content",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-1-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-1-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Sonicare-Case-Visual-02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Sonicare-Case-Visual-02-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ]
+  ]
+}

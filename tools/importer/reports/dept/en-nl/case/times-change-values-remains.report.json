@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/times-change-values-remains/",
+  "path": "dept/en-nl/case/times-change-values-remains",
+  "timestamp": "2026-10-09T17:29:06.847Z",
+  "title": "Times change, values remains - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "statement",
+    "full-width-image",
+    "statement",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe7-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe7-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ]
+  ]
+}

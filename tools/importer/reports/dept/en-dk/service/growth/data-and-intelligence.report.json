@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/growth/data-and-intelligence/",
+  "path": "dept/en-dk/service/growth/data-and-intelligence",
+  "timestamp": "2026-10-09T14:20:10.695Z",
+  "title": "Data and intelligence - DEPT® data science, analytics, and CDP",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/data-intelligence-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/data-intelligence-concept.jpg"
+    ]
+  ]
+}

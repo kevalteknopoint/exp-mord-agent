@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/bringing-users-closer-to-space-with-a-new-immersive-website-for-virgin-galactic/",
+  "path": "dept/case/bringing-users-closer-to-space-with-a-new-immersive-website-for-virgin-galactic",
+  "timestamp": "2026-10-09T10:12:52.147Z",
+  "title": "Bringing users closer to space with a new immersive website for Virgin Galactic - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/virgin-galactic-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/virgin-galactic-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/virgin-galactica-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/virgin-galactica-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/virgin-galactic-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/virgin-galactic-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/01-Capti-Hero-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/01-Capti-Hero-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/virgin-galactic-insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/virgin-galactic-insight.jpg"
+    ]
+  ]
+}

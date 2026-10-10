@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/manchester/",
+  "path": "dept/office/manchester",
+  "timestamp": "2026-10-09T22:38:34.967Z",
+  "title": "Full service digital agency Manchester - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail",
+    "title-and-content",
+    "cta-text",
+    "four-card-information-block",
+    "title-and-content",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Manchester-office.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Manchester-office.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Creative-applications-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Creative-applications-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/M-Full-screen-UI-8.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/M-Full-screen-UI-8.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/software-engineering-services-code-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/software-engineering-services-code-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Featured-Image-2021-Growth-Marketing-Report.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Featured-Image-2021-Growth-Marketing-Report.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/dept-cares-manchester.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/dept-cares-manchester.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/denver-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/denver-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Manchester-office.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Manchester-office.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-neues-partnerprogramm-fuer-branding-und-performance/",
+  "path": "dept/de-dach/case/ein-neues-partnerprogramm-fuer-branding-und-performance",
+  "timestamp": "2026-10-09T10:53:23.436Z",
+  "title": "Ein neues Partnerprogramm für Branding und Performance - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-lifestyl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-lifestyl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-peptide-booster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-peptide-booster.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-Influencer-campaign-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-Influencer-campaign-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-170510613-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-170510613-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/swiss-re.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/swiss-re.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Kardex-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Kardex-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-lifestyl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-lifestyl.jpg"
+    ]
+  ]
+}

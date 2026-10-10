@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/immortalising-experiences-with-ar-at-mcm-comic-con/",
+  "path": "dept/case/immortalising-experiences-with-ar-at-mcm-comic-con",
+  "timestamp": "2026-10-09T10:22:36.941Z",
+  "title": "Immortalising experiences with AR at MCM Comic Con - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-item-listing",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-3-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-3-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-1-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-1-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-2-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-2-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-5-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-5-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Le-Mans_Asset3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Le-Mans_Asset3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

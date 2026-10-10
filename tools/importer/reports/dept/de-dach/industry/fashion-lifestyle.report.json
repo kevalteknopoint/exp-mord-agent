@@ -1,0 +1,119 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/industry/fashion-lifestyle/",
+  "path": "dept/de-dach/industry/fashion-lifestyle",
+  "timestamp": "2026-10-09T11:10:04.076Z",
+  "title": "Fashion - DEPT®",
+  "template": "dept-industry",
+  "locale": "de-dach",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_500x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_500x300.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Patagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Patagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/hm-virtual-showroom-3-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/hm-virtual-showroom-3-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/omoda-store2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/omoda-store2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Ralph-Lauren.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Ralph-Lauren.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Asos.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Asos.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Ganni.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Ganni.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Patagonia.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Patagonia.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Nordstrom.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Nordstrom.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gant.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gant.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/HM.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/HM.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Savage-x-Fenty.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Savage-x-Fenty.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/eBay.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/eBay.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Jaeger-LeCoultre.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Jaeger-LeCoultre.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Rotate-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Rotate-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT%C2%AExShopify_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-xShopify_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Footwear-brand-1-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Footwear-brand-1-500x300-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ganni-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ganni-1.jpeg"
+    ]
+  ]
+}

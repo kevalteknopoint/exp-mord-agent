@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/connecting-strategy-with-style/",
+  "path": "dept/en-dk/case/connecting-strategy-with-style",
+  "timestamp": "2026-10-09T14:08:25.840Z",
+  "title": "Connecting strategy with style - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Sanne1x1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Sanne1x1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy2.png"
+    ]
+  ]
+}

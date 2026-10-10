@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/setting-the-record-straight-growth-marketing-vs-growth-hacking/",
+  "path": "dept/en-in/insight/setting-the-record-straight-growth-marketing-vs-growth-hacking",
+  "timestamp": "2026-10-09T16:32:27.037Z",
+  "title": "setting-the-record-straight-growth-marketing-vs-growth-hacking - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "wrapper",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221121_BlFI_GrowthMarketingvsGrowthHacking.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221121_BlFI_GrowthMarketingvsGrowthHacking.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221121_BlFI_GrowthMarketingvsGrowthHacking.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221121_BlFI_GrowthMarketingvsGrowthHacking.webp"
+    ]
+  ]
+}

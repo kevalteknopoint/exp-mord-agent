@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/vacancy/8189724-account-director",
+  "path": "dept/vacancy/8189724-account-director",
+  "timestamp": "2026-10-09T23:34:23.761Z",
+  "title": "Account Director - DEPT®",
+  "template": "dept-vacancy",
+  "locale": "global",
+  "components": [
+    "job-details",
+    "image-cards"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-tl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-tl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-tr.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-tr.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-bl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-bl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-br.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-br.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/800x600-19.jpg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/800x600-19.jpg"
+    ]
+  ]
+}

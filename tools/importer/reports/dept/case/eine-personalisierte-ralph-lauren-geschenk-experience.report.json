@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/eine-personalisierte-ralph-lauren-geschenk-experience/",
+  "path": "dept/case/eine-personalisierte-ralph-lauren-geschenk-experience",
+  "timestamp": "2026-10-09T10:51:44.639Z",
+  "title": "Eine personalisierte Ralph Lauren Geschenk-Experience - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "call-to-action",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Ralph-Lauren-Gift-Chatbot-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Ralph-Lauren-Gift-Chatbot-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Ralph-Lauren-Gift-Chatbot-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Ralph-Lauren-Gift-Chatbot-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/the-german-roamers-conquer-iceland-with-the-samsung-gear-s3-frontier/",
+  "path": "dept/en-in/case/the-german-roamers-conquer-iceland-with-the-samsung-gear-s3-frontier",
+  "timestamp": "2026-10-09T16:23:07.934Z",
+  "title": "Conquering Iceland with The German Roamers - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung4-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung4-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung3-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung3-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samaung1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samaung1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung2-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung2-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1_Tag1_@lennartpagel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1_Tag1_-lennartpagel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung6.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung6.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samaung1-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samaung1-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung2-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung2-1.jpeg"
+    ]
+  ]
+}

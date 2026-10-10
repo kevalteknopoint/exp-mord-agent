@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/you-cant-improve-what-you-cant-measure/",
+  "path": "dept/en-au/insight/you-cant-improve-what-you-cant-measure",
+  "timestamp": "2026-10-09T13:26:18.339Z",
+  "title": "You can't improve what you can't measure - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/6-you-cant-improve-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/6-you-cant-improve-FT.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Savitha-Namuduri-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Savitha-Namuduri-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Savitha-Namuduri-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Savitha-Namuduri-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/6-you-cant-improve-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/6-you-cant-improve-FT.jpeg"
+    ]
+  ]
+}

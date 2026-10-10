@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/panasonic-erweitert-seine-onlineprasenz/",
+  "path": "dept/de-dach/case/panasonic-erweitert-seine-onlineprasenz",
+  "timestamp": "2026-10-09T11:15:53.075Z",
+  "title": "Panasonic erweitert seine Onlinepräsenz - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/panasonic_HeaderNEU-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/panasonic_HeaderNEU-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Inuikii_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Inuikii_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1188236181-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1188236181-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/panasonic_HeaderNEU-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/panasonic_HeaderNEU-1.jpg"
+    ]
+  ]
+}

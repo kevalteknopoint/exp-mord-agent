@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/the-keys-to-keybanks-digital-marketing-success/",
+  "path": "dept/en-in/case/the-keys-to-keybanks-digital-marketing-success",
+  "timestamp": "2026-10-09T16:23:20.066Z",
+  "title": "The keys to Keybank's digital marketing success - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/mortgage_index_1000x480.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/mortgage_index_1000x480.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/compare_credit_cards_1020_1500x556.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/compare_credit_cards_1020_1500x556.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Barilla-Pesto-Week-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Barilla-Pesto-Week-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/key-bank.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/key-bank.jpg"
+    ]
+  ]
+}

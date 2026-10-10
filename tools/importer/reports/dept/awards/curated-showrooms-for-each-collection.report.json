@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/curated-showrooms-for-each-collection/",
+  "path": "dept/awards/curated-showrooms-for-each-collection",
+  "timestamp": "2026-10-09T10:12:38.239Z",
+  "title": "GANNI - Curated showrooms for each collection - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "cta-text",
+    "video",
+    "image",
+    "video",
+    "title-and-content",
+    "video",
+    "video",
+    "cta-text",
+    "video",
+    "title-and-content",
+    "image",
+    "video",
+    "cta-text",
+    "video",
+    "image",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/GANNI-2.0-case-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/GANNI-2.0-case-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/GANNI-2.0-case-model.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/GANNI-2.0-case-model.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/GANNI-2.0-case-banner-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/GANNI-2.0-case-banner-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/GANNI-2.0-case-mobile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/GANNI-2.0-case-mobile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/GANNI-2.0-case-footer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/GANNI-2.0-case-footer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/creating-a-framework-for-social-content-that-wins-over-gen-z/",
+  "path": "dept/case/creating-a-framework-for-social-content-that-wins-over-gen-z",
+  "timestamp": "2026-10-09T10:33:41.969Z",
+  "title": "Google Workspace: social content that wins over Gen Z - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google-Workspace01-e1678980997383.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google-Workspace01-e1678980997383.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/claire-shalbrack.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/claire-shalbrack.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google-Workspace01-e1678980997383.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google-Workspace01-e1678980997383.jpg"
+    ]
+  ]
+}

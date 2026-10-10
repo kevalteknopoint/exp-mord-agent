@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/four-ways-to-accelerate-digital-transformation-in-2023/",
+  "path": "dept/insight/four-ways-to-accelerate-digital-transformation-in-2023",
+  "timestamp": "2026-10-09T20:35:48.783Z",
+  "title": "Four ways to accelerate digital transformation in 2023 - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/LTW-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/LTW-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lasse-Rasmussen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lasse-Rasmussen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/LTW-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/LTW-4.jpg"
+    ]
+  ]
+}

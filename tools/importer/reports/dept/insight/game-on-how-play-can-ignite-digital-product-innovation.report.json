@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/game-on-how-play-can-ignite-digital-product-innovation/",
+  "path": "dept/insight/game-on-how-play-can-ignite-digital-product-innovation",
+  "timestamp": "2026-10-09T20:40:27.541Z",
+  "title": "Game on: How play can ignite digital product innovation - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Games-and-Product-Development-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Games-and-Product-Development-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Carlos-Dominguez-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Carlos-Dominguez-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Games-and-Product-Development-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Games-and-Product-Development-Featured-Image.jpg"
+    ]
+  ]
+}

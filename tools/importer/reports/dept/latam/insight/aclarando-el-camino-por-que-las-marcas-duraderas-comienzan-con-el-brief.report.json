@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/aclarando-el-camino-por-que-las-marcas-duraderas-comienzan-con-el-brief/",
+  "path": "dept/latam/insight/aclarando-el-camino-por-que-las-marcas-duraderas-comienzan-con-el-brief",
+  "timestamp": "2026-10-09T23:38:50.641Z",
+  "title": "Por qué las marcas duraderas comienzan con el brief - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durable-brands.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durable-brands.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Durable-brands-playbook.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Durable-brands-playbook.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Creating-alignment-digital-projects-featured-image.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Creating-alignment-digital-projects-featured-image.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-innovation.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-innovation.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durable-brands.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durable-brands.webp"
+    ]
+  ]
+}

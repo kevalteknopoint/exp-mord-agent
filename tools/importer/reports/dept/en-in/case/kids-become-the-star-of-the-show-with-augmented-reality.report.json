@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/kids-become-the-star-of-the-show-with-augmented-reality/",
+  "path": "dept/en-in/case/kids-become-the-star-of-the-show-with-augmented-reality",
+  "timestamp": "2026-10-09T16:02:50.686Z",
+  "title": "Kids become the star of the show with augmented reality - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/wiggles-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/wiggles-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/wiggles-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/wiggles-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-861247950-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-861247950-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/download-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/download-8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/The-Wiggles-Project-Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/The-Wiggles-Project-Header.jpg"
+    ]
+  ]
+}

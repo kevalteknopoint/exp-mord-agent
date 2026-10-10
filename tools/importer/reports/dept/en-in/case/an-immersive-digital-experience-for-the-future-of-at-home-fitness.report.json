@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/an-immersive-digital-experience-for-the-future-of-at-home-fitness/",
+  "path": "dept/en-in/case/an-immersive-digital-experience-for-the-future-of-at-home-fitness",
+  "timestamp": "2026-10-09T14:51:14.896Z",
+  "title": "An immersive digital experience for Capti - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/01-Capti-Hero-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/01-Capti-Hero-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/02-Capti-Immersion-and-synthesis-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/02-Capti-Immersion-and-synthesis-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_6_Overview-mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_6_Overview-mobile-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/01-Capti-Hero-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/01-Capti-Hero-scaled.jpg"
+    ]
+  ]
+}

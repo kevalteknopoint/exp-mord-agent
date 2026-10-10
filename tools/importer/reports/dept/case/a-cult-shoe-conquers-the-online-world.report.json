@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/case/a-cult-shoe-conquers-the-online-world/",
   "path": "dept/case/a-cult-shoe-conquers-the-online-world",
-  "timestamp": "2026-10-08T16:15:24.184Z",
+  "timestamp": "2026-10-09T09:49:02.177Z",
   "title": "A cult shoe conquers the online world - DEPT®",
   "template": "dept-case",
   "locale": "global",
@@ -23,15 +23,7 @@
     "highlighted-cases",
     "next-case"
   ],
-  "fallback": [
-    "full-width-image",
-    "statement",
-    "panel-two-media",
-    "call-to-action",
-    "panel-two-media",
-    "full-width-image",
-    "full-width-image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/06/birkenstock-eu-cw15-stage-01-franca-d.jpeg",
@@ -66,16 +58,16 @@
       "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Insights.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Insights.png"
+      "https://www.dept.global/wp-content/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-3.png"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design.webp",
-      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design.webp"
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_6_Overview-mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_6_Overview-mobile-1.png"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2023/09/BeyondBlueProject@2X-1.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/09/BeyondBlueProject-2X-1.jpg"
+      "https://www.dept.global/wp-content/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2021/03/birkenstock_featured.jpg",

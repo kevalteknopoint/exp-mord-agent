@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/rethinking-authenticity-in-the-age-of-ai-influence/",
+  "path": "dept/insight/rethinking-authenticity-in-the-age-of-ai-influence",
+  "timestamp": "2026-10-09T21:37:38.943Z",
+  "title": "Rethinking authenticity in the age of AI influence - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/granny-spills-ai-influencer.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/granny-spills-ai-influencer.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Shudu_AI-influencers1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Shudu_AI-influencers1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Noonoouri_AI-influencers.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Noonoouri_AI-influencers.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/granny-spills-ai-influencer.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/granny-spills-ai-influencer.webp"
+    ]
+  ]
+}

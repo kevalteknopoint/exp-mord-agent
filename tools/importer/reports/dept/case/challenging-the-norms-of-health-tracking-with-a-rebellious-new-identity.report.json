@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/challenging-the-norms-of-health-tracking-with-a-rebellious-new-identity/",
+  "path": "dept/case/challenging-the-norms-of-health-tracking-with-a-rebellious-new-identity",
+  "timestamp": "2026-10-09T10:22:59.043Z",
+  "title": "Challenging the norms of health tracking with a rebellious new identity - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "full-width-image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/MAKINA_Socials_1_1_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/MAKINA_Socials_1_1_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/MakinaApp.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/MakinaApp.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/MAKINA_Socials_9_16_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/MAKINA_Socials_9_16_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Makina-Case-Study-%E2%80%94-Applications-Flat-Plan.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Makina-Case-Study---Applications-Flat-Plan.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Group-1321323602.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Group-1321323602.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Makina-Case-Study-%E2%80%94-Applications-07.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Makina-Case-Study---Applications-07.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Beam-Header-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Beam-Header-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/MAKINA_Product_Art_Direction-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/MAKINA_Product_Art_Direction-2.webp"
+    ]
+  ]
+}

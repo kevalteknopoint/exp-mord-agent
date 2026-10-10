@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/jbl-amazon/",
+  "path": "dept/latam/case/jbl-amazon",
+  "timestamp": "2026-10-09T21:39:02.841Z",
+  "title": "De la sobresaturación a la optimización con Amazon Marketing Cloud",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/JBL-amazon-ads.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/JBL-amazon-ads.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/amazon-ads-for-ad-fatigue.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/amazon-ads-for-ad-fatigue.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ]
+  ]
+}

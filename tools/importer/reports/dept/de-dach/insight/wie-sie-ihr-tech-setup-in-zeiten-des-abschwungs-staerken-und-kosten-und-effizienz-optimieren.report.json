@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/wie-sie-ihr-tech-setup-in-zeiten-des-abschwungs-staerken-und-kosten-und-effizienz-optimieren/",
+  "path": "dept/de-dach/insight/wie-sie-ihr-tech-setup-in-zeiten-des-abschwungs-staerken-und-kosten-und-effizienz-optimieren",
+  "timestamp": "2026-10-09T11:56:45.468Z",
+  "title": "Wie Sie Ihr Tech-Setup in Zeiten des Abschwungs stärken - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/aerial-view-snowy-landscape.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/aerial-view-snowy-landscape.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/green-arrows-stay-ahead-tech-consolidation.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/green-arrows-stay-ahead-tech-consolidation.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/aerial-view-snowy-landscape.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/aerial-view-snowy-landscape.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/largest-digital-design-festival-takes-over-screens-in-the-netherlands-for-24-hours/",
+  "path": "dept/en-in/insight/largest-digital-design-festival-takes-over-screens-in-the-netherlands-for-24-hours",
+  "timestamp": "2026-10-09T17:09:59.652Z",
+  "title": "Largest digital design festival - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/DemoArea.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/DemoArea.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/IMG_6969-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/IMG_6969-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/5aDEMO-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/5aDEMO-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/IMG_6969-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/IMG_6969-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/DemoArea.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/DemoArea.jpeg"
+    ]
+  ]
+}

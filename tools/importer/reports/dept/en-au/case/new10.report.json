@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/new10/",
+  "path": "dept/en-au/case/new10",
+  "timestamp": "2026-10-09T12:16:56.571Z",
+  "title": "The making of a Corporate Startup - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "call-to-action",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-90-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-90-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-933417662-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-933417662-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung2-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung2-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Inter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Inter.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1002823828-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1002823828-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg"
+    ]
+  ]
+}

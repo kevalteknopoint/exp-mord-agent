@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/recap-dept-x-omr-festival-2023/",
+  "path": "dept/insight/recap-dept-x-omr-festival-2023",
+  "timestamp": "2026-10-09T21:35:25.641Z",
+  "title": "Recap: DEPT® x OMR Festival 2023 - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/OMR_Recap.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/OMR_Recap.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DSC0728.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DSC0728.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DSC1665-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DSC1665-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DSC1034.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DSC1034.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/IMG_9692-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/IMG_9692-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DSC2760.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DSC2760.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DSC3072-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DSC3072-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/OMR_Recap.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/OMR_Recap.jpg"
+    ]
+  ]
+}

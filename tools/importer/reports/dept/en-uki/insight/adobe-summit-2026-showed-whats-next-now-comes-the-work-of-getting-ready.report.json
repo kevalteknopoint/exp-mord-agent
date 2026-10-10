@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/adobe-summit-2026-showed-whats-next-now-comes-the-work-of-getting-ready/",
+  "path": "dept/en-uki/insight/adobe-summit-2026-showed-whats-next-now-comes-the-work-of-getting-ready",
+  "timestamp": "2026-10-09T18:47:02.041Z",
+  "title": "Adobe Summit 2026 showed what’s next - now comes the work of getting ready - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/adobe-summit-value-vs-ai.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/adobe-summit-value-vs-ai.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/adobe-summit-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/adobe-summit-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/darva-maturity-scorecard.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/darva-maturity-scorecard.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/darva-scorecard.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/darva-scorecard.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DEPT%C2%AESTUDIOS-PR-assset-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DEPT-STUDIOS-PR-assset-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/adobe-summit-preso2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/adobe-summit-preso2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Google-Cloud-Next-2026-Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Google-Cloud-Next-2026-Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/adobe-summit-value-vs-ai.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/adobe-summit-value-vs-ai.webp"
+    ]
+  ]
+}

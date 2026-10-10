@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/supermarkt-mit-nur-wenigen-klicks-finden/",
+  "path": "dept/de-dach/case/supermarkt-mit-nur-wenigen-klicks-finden",
+  "timestamp": "2026-10-09T11:21:48.872Z",
+  "title": "Supermarkt mit nur wenigen Klicks finden - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/brooke-cagle-32431-unsplash-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/brooke-cagle-32431-unsplash-1440x810-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Linkbuilding-1-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Linkbuilding-1-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tino-Rahn.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tino-Rahn.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/migrosbank-keyvisual-web-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/migrosbank-keyvisual-web-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Featured-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Featured-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/brooke-cagle-32431-unsplash-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/brooke-cagle-32431-unsplash-1440x810-c.jpeg"
+    ]
+  ]
+}

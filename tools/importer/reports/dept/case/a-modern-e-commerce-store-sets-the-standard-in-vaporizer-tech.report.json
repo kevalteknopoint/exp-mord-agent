@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-modern-e-commerce-store-sets-the-standard-in-vaporizer-tech/",
+  "path": "dept/case/a-modern-e-commerce-store-sets-the-standard-in-vaporizer-tech",
+  "timestamp": "2026-10-09T10:40:22.568Z",
+  "title": "Featured work: e-commerce design and development for Puffco - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/puffco-build-your-own-commerce-solution-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/puffco-build-your-own-commerce-solution-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Puffco_Web7-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Puffco_Web7-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/puffco-ecommerce-uxui-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/puffco-ecommerce-uxui-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Puffco_Web1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Puffco_Web1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/puffco-ecommerce-uxui-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/puffco-ecommerce-uxui-min.jpg"
+    ]
+  ]
+}

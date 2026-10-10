@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/accelerating-the-fashion-industry-top-3-digital-trends-for-2021/",
+  "path": "dept/downloads/accelerating-the-fashion-industry-top-3-digital-trends-for-2021",
+  "timestamp": "2026-10-09T11:33:28.510Z",
+  "title": "Accelerating the fashion industry: top 3 digital trends for 2021 - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/two-bags-hanging-in-cacti.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/two-bags-hanging-in-cacti.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/two-bags-hanging-in-cacti.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/two-bags-hanging-in-cacti.png"
+    ]
+  ]
+}

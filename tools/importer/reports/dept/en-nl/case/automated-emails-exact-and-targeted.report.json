@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/automated-emails-exact-and-targeted/",
+  "path": "dept/en-nl/case/automated-emails-exact-and-targeted",
+  "timestamp": "2026-10-09T17:43:59.542Z",
+  "title": "Targeted email automation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/cruise_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/cruise_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/cruise_2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/cruise_2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-487627112-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-487627112-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/01-Post-NS.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/01-Post-NS.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Figleaves-Rectangle-489.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Figleaves-Rectangle-489.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/retirement-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/retirement-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/cruise_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/cruise_1-scaled.jpg"
+    ]
+  ]
+}

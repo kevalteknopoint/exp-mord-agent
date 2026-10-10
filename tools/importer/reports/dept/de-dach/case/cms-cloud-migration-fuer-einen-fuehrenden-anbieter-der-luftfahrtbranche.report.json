@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/cms-cloud-migration-fuer-einen-fuehrenden-anbieter-der-luftfahrtbranche/",
+  "path": "dept/de-dach/case/cms-cloud-migration-fuer-einen-fuehrenden-anbieter-der-luftfahrtbranche",
+  "timestamp": "2026-10-09T11:28:23.140Z",
+  "title": "CMS-Cloud-Migration für einen führenden Anbieter der Luftfahrtbranche - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/airline-against-sky.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/airline-against-sky.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/cloud-architecture-diagram-cms-project-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/cloud-architecture-diagram-cms-project-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-wing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-wing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+    ]
+  ]
+}

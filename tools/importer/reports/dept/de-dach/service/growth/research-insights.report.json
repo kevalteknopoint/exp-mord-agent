@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/growth/research-insights/",
+  "path": "dept/de-dach/service/growth/research-insights",
+  "timestamp": "2026-10-09T11:26:54.740Z",
+  "title": "Research & Insights - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/reseach-insihgt.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/reseach-insihgt.jpg"
+    ]
+  ]
+}

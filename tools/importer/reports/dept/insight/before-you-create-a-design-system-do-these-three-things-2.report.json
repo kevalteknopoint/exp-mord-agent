@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/before-you-create-a-design-system-do-these-three-things-2/",
+  "path": "dept/insight/before-you-create-a-design-system-do-these-three-things-2",
+  "timestamp": "2026-10-09T21:57:19.807Z",
+  "title": "Before you create a design system, do these three things - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "form-page",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Logan-bishop-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Logan-bishop-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/sitemap-example.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/sitemap-example.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/page-goals.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/page-goals.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/zonal-definitions.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/zonal-definitions.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/product-page-with-zones-goals.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/product-page-with-zones-goals.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Logan-bishop.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Logan-bishop.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/product-page-with-zones-goals-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/product-page-with-zones-goals-1024x576.png"
+    ]
+  ]
+}

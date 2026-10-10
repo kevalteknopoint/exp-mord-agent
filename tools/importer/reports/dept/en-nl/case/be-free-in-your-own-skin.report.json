@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/be-free-in-your-own-skin/",
+  "path": "dept/en-nl/case/be-free-in-your-own-skin",
+  "timestamp": "2026-10-09T17:45:23.041Z",
+  "title": "Be free in your own skin - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ]
+  ]
+}

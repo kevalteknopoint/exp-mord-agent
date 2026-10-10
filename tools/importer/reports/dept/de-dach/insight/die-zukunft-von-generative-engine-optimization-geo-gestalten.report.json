@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/die-zukunft-von-generative-engine-optimization-geo-gestalten/",
+  "path": "dept/de-dach/insight/die-zukunft-von-generative-engine-optimization-geo-gestalten",
+  "timestamp": "2026-10-09T11:58:33.121Z",
+  "title": "Die Zukunft von Generative Engine Optimization (GEO) gestalten - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/the-future-geo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/the-future-geo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/unnamed-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/unnamed-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Lieferando-x-DEPT.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Lieferando-x-DEPT.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/NatalieMartens-_Web_Pic_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/NatalieMartens-_Web_Pic_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/the-future-geo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/the-future-geo.jpeg"
+    ]
+  ]
+}

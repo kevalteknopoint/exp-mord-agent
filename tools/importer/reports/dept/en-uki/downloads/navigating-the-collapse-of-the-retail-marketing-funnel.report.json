@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/navigating-the-collapse-of-the-retail-marketing-funnel/",
+  "path": "dept/en-uki/downloads/navigating-the-collapse-of-the-retail-marketing-funnel",
+  "timestamp": "2026-10-09T19:36:46.138Z",
+  "title": "Navigating the collapse of the retail marketing funnel  - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-intro",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Collapse-of-the-retail-funnel-download-Header-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Collapse-of-the-retail-funnel-download-Header-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/navigating-collapse-retail-marketing-funnel-1024x535.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/navigating-collapse-retail-marketing-funnel-1024x535.jpg"
+    ]
+  ]
+}

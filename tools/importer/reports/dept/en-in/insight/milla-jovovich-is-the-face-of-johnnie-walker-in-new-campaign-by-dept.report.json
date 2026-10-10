@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/milla-jovovich-is-the-face-of-johnnie-walker-in-new-campaign-by-dept/",
+  "path": "dept/en-in/insight/milla-jovovich-is-the-face-of-johnnie-walker-in-new-campaign-by-dept",
+  "timestamp": "2026-10-09T17:17:26.234Z",
+  "title": "Milla Jovovich is the face of Johnnie Walker in new campaign by DEPT® - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/JW_Less-Talking-Keep-Walking_KV_Landscape_Single_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/JW_Less-Talking-Keep-Walking_KV_Landscape_Single_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/JW_Less-Talking-Keep-Walking_KV_Landscape_Single_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/JW_Less-Talking-Keep-Walking_KV_Landscape_Single_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/JW_Less-Talking-Keep-Walking_KV_Landscape_Split_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/JW_Less-Talking-Keep-Walking_KV_Landscape_Split_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/JW_Less-Talking-Keep-Walking_KV_Landscape_Single_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/JW_Less-Talking-Keep-Walking_KV_Landscape_Single_2.jpg"
+    ]
+  ]
+}

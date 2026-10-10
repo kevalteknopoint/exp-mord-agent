@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/lessons-learned-building-b2b-commerce-stores/",
+  "path": "dept/en-in/insight/lessons-learned-building-b2b-commerce-stores",
+  "timestamp": "2026-10-09T17:10:46.568Z",
+  "title": "Lessons learned building B2B commerce stores - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/James_Lowe_VP-Commerce-APAC-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/James_Lowe_VP-Commerce-APAC-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/e-commerce-platform-migration-tips-lessons-learned.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/e-commerce-platform-migration-tips-lessons-learned.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/frictionless-cx-in-banking.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/frictionless-cx-in-banking.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg"
+    ]
+  ]
+}

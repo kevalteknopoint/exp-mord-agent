@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/weber/",
+  "path": "dept/en-au/case/weber",
+  "timestamp": "2026-10-09T12:40:46.640Z",
+  "title": "Creating a cross-channel grilling experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/cropped-bbq-scaled-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/cropped-bbq-scaled-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Weber-grill-new-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Weber-grill-new-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1251622310-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1251622310-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-639001344-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-639001344-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tim-de-Kamper.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tim-de-Kamper.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/van.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/van.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Mammut1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Mammut1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-639001344-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-639001344-1-scaled.jpg"
+    ]
+  ]
+}

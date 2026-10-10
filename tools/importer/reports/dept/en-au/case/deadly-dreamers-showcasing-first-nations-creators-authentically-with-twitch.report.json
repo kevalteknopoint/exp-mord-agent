@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/deadly-dreamers-showcasing-first-nations-creators-authentically-with-twitch/",
+  "path": "dept/en-au/case/deadly-dreamers-showcasing-first-nations-creators-authentically-with-twitch",
+  "timestamp": "2026-10-09T12:50:42.940Z",
+  "title": "Deadly Dreamers: Showcasing First Nations creators authentically with Twitch - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Screenshot-2023-12-08-at-2.29.01%E2%80%AFpm.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Screenshot-2023-12-08-at-2.29.01-pm.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Twitch-Naidoc.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Twitch-Naidoc.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lousiana_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lousiana_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Screenshot-2023-12-08-at-2.29.01%E2%80%AFpm.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Screenshot-2023-12-08-at-2.29.01-pm.jpg"
+    ]
+  ]
+}

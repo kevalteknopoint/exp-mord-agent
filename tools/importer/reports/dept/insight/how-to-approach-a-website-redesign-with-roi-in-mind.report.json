@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-approach-a-website-redesign-with-roi-in-mind/",
+  "path": "dept/insight/how-to-approach-a-website-redesign-with-roi-in-mind",
+  "timestamp": "2026-10-09T22:08:21.363Z",
+  "title": "Website redesign ROI: How to approach a web redesign with ROI in mind - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "two-cards-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Website-redesign-ROI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Website-redesign-ROI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/alex-glaser-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/alex-glaser-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/bicycle-playing-cards-website2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/bicycle-playing-cards-website2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Patagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Patagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Zurich-office.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Zurich-office.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Website-redesign-ROI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Website-redesign-ROI.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/developing-the-online-brand-for-nivea/",
+  "path": "dept/en-nl/case/developing-the-online-brand-for-nivea",
+  "timestamp": "2026-10-09T18:06:40.335Z",
+  "title": "Digital proximity to the offline target group - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/highlights-neu-von-nivea.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/highlights-neu-von-nivea.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nivea_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nivea_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/NIVEA_Creme_Perfume.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/NIVEA_Creme_Perfume.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/E1nS90CXEAIQ6jt-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/E1nS90CXEAIQ6jt-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Hypotheker-man-vrouw-inhuiskamer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Hypotheker-man-vrouw-inhuiskamer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/HYVA-Case-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/HYVA-Case-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nivea_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nivea_1.jpg"
+    ]
+  ]
+}

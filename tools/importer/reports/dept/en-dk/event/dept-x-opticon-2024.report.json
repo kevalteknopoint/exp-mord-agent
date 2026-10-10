@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/dept-x-opticon-2024/",
+  "path": "dept/en-dk/event/dept-x-opticon-2024",
+  "timestamp": "2026-10-09T13:51:49.164Z",
+  "title": "Join DEPT® at Opticon - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "assets-and-copy",
+    "event-people"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Opticon-2026-Landing-page-Hero-banner-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Opticon-2026-Landing-page-Hero-banner-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Claire-Shalbrack_preferred.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Claire-Shalbrack_preferred.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Bairavi-BB-Bala-profile-picture.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Bairavi-BB-Bala-profile-picture.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Cole_Youngworth_Headshot.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Cole_Youngworth_Headshot.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Opticon-2026-Landing-page-Hero-banner-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Opticon-2026-Landing-page-Hero-banner-1920x1080-1.png"
+    ]
+  ]
+}

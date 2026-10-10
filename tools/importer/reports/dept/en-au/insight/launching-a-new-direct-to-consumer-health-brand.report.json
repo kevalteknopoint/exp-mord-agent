@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/launching-a-new-direct-to-consumer-health-brand/",
+  "path": "dept/en-au/insight/launching-a-new-direct-to-consumer-health-brand",
+  "timestamp": "2026-10-09T13:28:16.165Z",
+  "title": "Launching a new direct-to-consumer health brand - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "full-width-image",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/mwell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/mwell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Joe-Watson-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Joe-Watson-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Image-Full-bleed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Image-Split-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Image-Split-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Desktop-Angle-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Desktop-Angle-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Mobile-x-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Mobile-x-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/mwell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/mwell.jpg"
+    ]
+  ]
+}

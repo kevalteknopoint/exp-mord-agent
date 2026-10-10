@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/dept-2024-trends-forecast/",
+  "path": "dept/en-nl/downloads/dept-2024-trends-forecast",
+  "timestamp": "2026-10-09T23:42:32.175Z",
+  "title": "DEPT® 2024 Trends Forecast - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "trends-floating-download",
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/dept-2024-Trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/dept-2024-Trends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/dept-2024-Trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/dept-2024-Trends.jpg"
+    ]
+  ]
+}

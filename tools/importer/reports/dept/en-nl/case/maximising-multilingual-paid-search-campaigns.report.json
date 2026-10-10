@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/maximising-multilingual-paid-search-campaigns/",
+  "path": "dept/en-nl/case/maximising-multilingual-paid-search-campaigns",
+  "timestamp": "2026-10-09T17:08:47.536Z",
+  "title": "Maximising multilingual paid search campaigns - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/SD_03_T28_1886M_Y0_X_EC_0.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/SD_03_T28_1886M_Y0_X_EC_0.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/SD_01_T59_5909_Y4_X_EC_0.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/SD_01_T59_5909_Y4_X_EC_0.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/9613_2tile1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/9613_2tile1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/9613_2tile2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/9613_2tile2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Christina-Hansen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Christina-Hansen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Curio-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Curio-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1223832759-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1223832759-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ]
+  ]
+}

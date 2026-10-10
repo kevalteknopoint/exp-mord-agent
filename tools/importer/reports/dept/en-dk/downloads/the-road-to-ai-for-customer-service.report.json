@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/downloads/the-road-to-ai-for-customer-service/",
+  "path": "dept/en-dk/downloads/the-road-to-ai-for-customer-service",
+  "timestamp": "2026-10-09T13:46:01.485Z",
+  "title": "The road to AI for customer service - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-dk",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blurred-face-pearls.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blurred-face-pearls.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blurred-face-pearls.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blurred-face-pearls.png"
+    ]
+  ]
+}

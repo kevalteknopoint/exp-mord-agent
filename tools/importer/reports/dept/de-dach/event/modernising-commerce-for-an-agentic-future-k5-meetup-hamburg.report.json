@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/modernising-commerce-for-an-agentic-future-k5-meetup-hamburg/",
+  "path": "dept/de-dach/event/modernising-commerce-for-an-agentic-future-k5-meetup-hamburg",
+  "timestamp": "2026-10-09T11:06:25.739Z",
+  "title": "Modernising Commerce for an Agentic Future – K5 Meetup Hamburg - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-register",
+    "assets-and-copy",
+    "insight-cta",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DFC-DE-Website-Hero-Banner-1920x1080-Orange.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DFC-DE-Website-Hero-Banner-1920x1080-Orange.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Oliver-Cloppenburg-DEPT%C2%AE-e1740584165736.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Oliver-Cloppenburg-DEPT--e1740584165736.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Philip-Schroth_Dept_1080x1920-1-e1740583870348.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Philip-Schroth_Dept_1080x1920-1-e1740583870348.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DFC-DE-Website-Hero-Banner-1920x1080-Orange.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DFC-DE-Website-Hero-Banner-1920x1080-Orange.webp"
+    ]
+  ]
+}

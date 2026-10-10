@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/how-to-tackle-the-cookieless-world-with-server-side-tagging/",
+  "path": "dept/en-dk/event/how-to-tackle-the-cookieless-world-with-server-side-tagging",
+  "timestamp": "2026-10-09T13:53:16.464Z",
+  "title": "How to tackle the cookieless world with server-side tagging - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/peter_tving.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/peter_tving.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Kristoffer-Hald.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Kristoffer-Hald.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/bringing-kids-imagination-to-life-with-the-help-of-ai/",
+  "path": "dept/case/bringing-kids-imagination-to-life-with-the-help-of-ai",
+  "timestamp": "2026-10-09T10:11:15.491Z",
+  "title": "Featured work: The Magical Storybook, an AI prototype - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "quote",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Le-Mans_Asset3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Le-Mans_Asset3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/15-Hape-i.o.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/15-Hape-i.o.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_1-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/hm-partners-with-dept-and-journee-to-launch-its-first-virtual-showroom/",
+  "path": "dept/en-uki/insight/hm-partners-with-dept-and-journee-to-launch-its-first-virtual-showroom",
+  "timestamp": "2026-10-09T20:59:30.040Z",
+  "title": "H&M partners with DEPT® and Journee to launch its first virtual showroom - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/hm-virtual-showroom-3-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/hm-virtual-showroom-3-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/HM_Virtual_Showroom_Campaign_Area-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/HM_Virtual_Showroom_Campaign_Area-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/HM_Virtual_Showroom_Campaign_Garment-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/HM_Virtual_Showroom_Campaign_Garment-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-2-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-2-1024x576.png"
+    ]
+  ]
+}

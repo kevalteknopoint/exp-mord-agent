@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/next-level-fashion-commerce/",
+  "path": "dept/de-dach/event/next-level-fashion-commerce",
+  "timestamp": "2026-10-09T11:06:35.705Z",
+  "title": "Next Level Fashion Commerce - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/2400x2400_Event-LP-Header_A.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/2400x2400_Event-LP-Header_A.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Tarek-Muller_MitgrunderCo-CEO_ABOUT-YOU.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Tarek-Muller_MitgrunderCo-CEO_ABOUT-YOU.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/05-verena-sandbote-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/05-verena-sandbote-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/MOP_Portrait_20_Sandro_Schramm_3338_sRGB_72dpi-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/MOP_Portrait_20_Sandro_Schramm_3338_sRGB_72dpi-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/2400x2400_Event-LP-Header_A.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/2400x2400_Event-LP-Header_A.png"
+    ]
+  ]
+}

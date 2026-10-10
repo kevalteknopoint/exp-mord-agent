@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/increasing-customer-acquisition-through-digital/",
+  "path": "dept/en-in/case/increasing-customer-acquisition-through-digital",
+  "timestamp": "2026-10-09T16:01:04.246Z",
+  "title": "Increasing customer acquisition through digital - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20210504_Stills_3691_1_720x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20210504_Stills_3691_1_720x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20210310_DSC1007_1_1296x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20210310_DSC1007_1_1296x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/World-finance.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/World-finance.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Frame-1446.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Frame-1446.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1254128245-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1254128245-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/eye-bobs.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/eye-bobs.jpg"
+    ]
+  ]
+}

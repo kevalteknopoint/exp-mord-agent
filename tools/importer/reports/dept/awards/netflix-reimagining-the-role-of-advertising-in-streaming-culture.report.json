@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/netflix-reimagining-the-role-of-advertising-in-streaming-culture/",
+  "path": "dept/awards/netflix-reimagining-the-role-of-advertising-in-streaming-culture",
+  "timestamp": "2026-10-09T10:30:07.736Z",
+  "title": "NETFLIX - Reimagining the Role of Advertising in Streaming Culture - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "awards-intro",
+    "video",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Netflix-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Netflix-featured.png"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/marketing-to-generation-z-audiences/",
+  "path": "dept/insight/marketing-to-generation-z-audiences",
+  "timestamp": "2026-10-09T22:40:43.066Z",
+  "title": "Marketing to Generation Z Audiences- DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "wrapper",
+    "wrapper",
+    "title-and-content",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220113BlogFI_AgencyInHouse.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220113BlogFI_AgencyInHouse.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Stephanie-Bissonnette-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Stephanie-Bissonnette-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Stephanie-Bissonnette.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Stephanie-Bissonnette.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220113BlogFI_AgencyInHouse.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220113BlogFI_AgencyInHouse.jpeg"
+    ]
+  ]
+}

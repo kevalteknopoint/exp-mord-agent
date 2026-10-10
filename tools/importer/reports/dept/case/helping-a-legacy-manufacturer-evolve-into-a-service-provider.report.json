@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/helping-a-legacy-manufacturer-evolve-into-a-service-provider/",
+  "path": "dept/case/helping-a-legacy-manufacturer-evolve-into-a-service-provider",
+  "timestamp": "2026-10-09T10:16:43.271Z",
+  "title": "Helping a legacy manufacturer evolve into a service provider - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "call-to-action",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Sibir-Header-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Sibir-Header-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Sibir-Case-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Sibir-Case-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Sibir-Header-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Sibir-Header-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/oneblade-one-of-a-kind/",
+  "path": "dept/de-dach/case/oneblade-one-of-a-kind",
+  "timestamp": "2026-10-09T11:14:30.542Z",
+  "title": "OneBlade, One of a Kind - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "video",
+    "case-intro",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-Case.001-1-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-Case.001-1-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Hiltl-%E2%80%93-Home-Overview-1.1-Desktop-1600.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Hiltl---Home-Overview-1.1-Desktop-1600.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png"
+    ]
+  ]
+}

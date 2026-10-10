@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/the-case-sfcc-developer/",
+  "path": "dept/the-case-sfcc-developer",
+  "timestamp": "2026-10-09T22:04:00.073Z",
+  "title": "The case SFCC developer - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "image",
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/DeptFest-2021-AMS-69-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/DeptFest-2021-AMS-69-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

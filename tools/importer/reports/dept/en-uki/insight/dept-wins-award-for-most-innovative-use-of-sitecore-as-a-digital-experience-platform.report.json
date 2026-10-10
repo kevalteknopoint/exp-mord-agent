@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-wins-award-for-most-innovative-use-of-sitecore-as-a-digital-experience-platform/",
+  "path": "dept/en-uki/insight/dept-wins-award-for-most-innovative-use-of-sitecore-as-a-digital-experience-platform",
+  "timestamp": "2026-10-09T20:40:58.634Z",
+  "title": "DEPT® wins award for most innovative use of Sitecore as a digital experience platform - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Featured-images-501x501-Formula-E-01.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Featured-images-501x501-Formula-E-01.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Featured-images-501x501-Formula-E-01-1024x1024.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Featured-images-501x501-Formula-E-01-1024x1024.png"
+    ]
+  ]
+}

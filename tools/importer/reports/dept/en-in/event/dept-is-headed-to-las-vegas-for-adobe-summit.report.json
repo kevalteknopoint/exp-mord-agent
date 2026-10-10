@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/dept-is-headed-to-las-vegas-for-adobe-summit/",
+  "path": "dept/en-in/event/dept-is-headed-to-las-vegas-for-adobe-summit",
+  "timestamp": "2026-10-09T15:47:40.992Z",
+  "title": "DEPT® is headed to Las Vegas for Adobe Summit - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "statement",
+    "image",
+    "rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT-adobe-cropped.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT-adobe-cropped.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-Adobe-Summit-Announcement-Event-Header-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--Adobe-Summit-Announcement-Event-Header-2.jpg"
+    ]
+  ]
+}

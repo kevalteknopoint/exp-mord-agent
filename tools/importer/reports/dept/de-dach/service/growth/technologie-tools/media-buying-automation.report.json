@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/growth/technologie-tools/media-buying-automation/",
+  "path": "dept/de-dach/service/growth/technologie-tools/media-buying-automation",
+  "timestamp": "2026-10-09T11:27:23.375Z",
+  "title": "Media Buying Automation - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Technology-Tools_-Automation-of-Media-Buying-320x200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Technology-Tools_-Automation-of-Media-Buying-320x200-1.png"
+    ]
+  ]
+}

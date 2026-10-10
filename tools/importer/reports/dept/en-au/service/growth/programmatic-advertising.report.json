@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/programmatic-advertising/",
+  "path": "dept/en-au/service/growth/programmatic-advertising",
+  "timestamp": "2026-10-09T14:26:25.012Z",
+  "title": "Programmatic advertising - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Programmatic-advertising.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Programmatic-advertising.png"
+    ]
+  ]
+}

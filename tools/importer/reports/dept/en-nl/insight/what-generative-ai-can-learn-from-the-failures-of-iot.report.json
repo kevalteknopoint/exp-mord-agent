@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/what-generative-ai-can-learn-from-the-failures-of-iot/",
+  "path": "dept/en-nl/insight/what-generative-ai-can-learn-from-the-failures-of-iot",
+  "timestamp": "2026-10-09T18:04:20.239Z",
+  "title": "What generative AI can learn from the failures of IoT - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/generative-AI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/generative-AI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Isabel-Perry-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Isabel-Perry-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/generative-AI.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/generative-AI.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/bob-briski.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/bob-briski.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/generative-AI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/generative-AI.jpg"
+    ]
+  ]
+}

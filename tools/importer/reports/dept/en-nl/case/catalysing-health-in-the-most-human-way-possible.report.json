@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/catalysing-health-in-the-most-human-way-possible/",
+  "path": "dept/en-nl/case/catalysing-health-in-the-most-human-way-possible",
+  "timestamp": "2026-10-09T17:52:40.947Z",
+  "title": "Catalysing health in the most human way possible - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Brophy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Brophy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Header.png"
+    ]
+  ]
+}

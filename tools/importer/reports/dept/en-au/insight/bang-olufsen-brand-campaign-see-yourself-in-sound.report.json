@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/bang-olufsen-brand-campaign-see-yourself-in-sound/",
+  "path": "dept/en-au/insight/bang-olufsen-brand-campaign-see-yourself-in-sound",
+  "timestamp": "2026-10-09T12:24:29.374Z",
+  "title": "DEPT® - Bang & Olufsen launches brand campaign: See Yourself In Sound DEPT® -",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Bang-Olufsen-See-Yourself-in-Sound.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Bang-Olufsen-See-Yourself-in-Sound.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/anders-jessen-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/anders-jessen-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/anders-jessen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/anders-jessen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Bang-Olufsen-See-Yourself-in-Sound.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Bang-Olufsen-See-Yourself-in-Sound.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-nosotrxs-caoimhe-harold/",
+  "path": "dept/latam/insight/dept-nosotrxs-caoimhe-harold",
+  "timestamp": "2026-10-09T23:29:58.906Z",
+  "title": "DEPT/NOSOTRXS - Caoimhe Harold - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "media-with-text",
+    "title-and-content",
+    "title-and-content",
+    "video"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/CaoimheHarold47-2-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/CaoimheHarold47-2-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/1000018242.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/1000018242.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/CaoimheHarold47-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/CaoimheHarold47-2-1.jpg"
+    ]
+  ]
+}

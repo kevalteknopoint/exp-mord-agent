@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/growth/programmatic/",
+  "path": "dept/en-dk/service/growth/programmatic",
+  "timestamp": "2026-10-09T14:25:07.540Z",
+  "title": "Programmatic, digital out of home & connected TV - DEPT® digital media services",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/programmatic-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/programmatic-concept.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/revitaliing-rotate-a-bold-e-commerce-re-platforming-journey/",
+  "path": "dept/en-dk/case/revitaliing-rotate-a-bold-e-commerce-re-platforming-journey",
+  "timestamp": "2026-10-09T14:40:58.473Z",
+  "title": "Revitalising ROTATE: A bold e-commerce re-platforming journey - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/spot2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/spot2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/spot6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/spot6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Rotate-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Rotate-featured.jpg"
+    ]
+  ]
+}

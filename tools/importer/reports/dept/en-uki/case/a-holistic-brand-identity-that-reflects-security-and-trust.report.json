@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/a-holistic-brand-identity-that-reflects-security-and-trust/",
+  "path": "dept/en-uki/case/a-holistic-brand-identity-that-reflects-security-and-trust",
+  "timestamp": "2026-10-09T19:33:43.639Z",
+  "title": "A holistic brand identity that reflects security and trust  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-branding.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-branding.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/zscaler-brand-Guidelines.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/zscaler-brand-Guidelines.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-signage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-signage.jpg"
+    ]
+  ]
+}

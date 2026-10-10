@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/ebay-inspiring-audiences-through-real-stories-advertising-media-and-pr-general-integrated-campaign/",
+  "path": "dept/awards/ebay-inspiring-audiences-through-real-stories-advertising-media-and-pr-general-integrated-campaign",
+  "timestamp": "2026-10-09T10:17:19.440Z",
+  "title": "eBay – Inspiring audiences through real stories  - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "video",
+    "panel-with-list",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/SHOT_01_HUBCAP_0041_v2RGB-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/SHOT_01_HUBCAP_0041_v2RGB-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/SHOT_02_PETROL_CAP_0227_v2RGB-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/SHOT_02_PETROL_CAP_0227_v2RGB-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Did-somebody-say-Just-Eat-Katy-Pary.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Did-somebody-say-Just-Eat-Katy-Pary.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ]
+  ]
+}

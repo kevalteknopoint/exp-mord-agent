@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/creating-digital-collectibles-for-an-esports-pioneer/",
+  "path": "dept/en-au/case/creating-digital-collectibles-for-an-esports-pioneer",
+  "timestamp": "2026-10-09T12:47:21.974Z",
+  "title": "Creating digital collectibles for an esports pioneer - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Le-Mans_Asset3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Le-Mans_Asset3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Screenshot-2022-05-10-at-11.59.36-AM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Screenshot-2022-05-10-at-11.59.36-AM.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/twitch-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/twitch-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Hurdl-concert-confetti.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Hurdl-concert-confetti.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Screenshot-2022-05-10-at-11.59.36-AM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Screenshot-2022-05-10-at-11.59.36-AM.png"
+    ]
+  ]
+}

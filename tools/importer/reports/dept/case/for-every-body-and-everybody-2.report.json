@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/for-every-body-and-everybody-2/",
+  "path": "dept/case/for-every-body-and-everybody-2",
+  "timestamp": "2026-10-09T10:06:29.640Z",
+  "title": "For every body and everybody - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Philips-multigroomer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Philips-multigroomer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/phillips-campaign-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/phillips-campaign-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Joa%CC%83o-Ina%CC%81cio.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Joa-o-Ina-cio.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/cruise_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/cruise_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Philips-multigroomer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Philips-multigroomer.jpeg"
+    ]
+  ]
+}

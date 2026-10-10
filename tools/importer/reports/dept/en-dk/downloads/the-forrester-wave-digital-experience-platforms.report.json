@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/downloads/the-forrester-wave-digital-experience-platforms/",
+  "path": "dept/en-dk/downloads/the-forrester-wave-digital-experience-platforms",
+  "timestamp": "2026-10-09T13:45:21.064Z",
+  "title": "The Forrester Wave™: Digital Experience Platforms - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-dk",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Forrester-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Forrester-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Forrester-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Forrester-1.png"
+    ]
+  ]
+}

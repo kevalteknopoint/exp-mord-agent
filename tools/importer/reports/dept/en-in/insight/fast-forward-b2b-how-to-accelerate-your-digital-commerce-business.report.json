@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/fast-forward-b2b-how-to-accelerate-your-digital-commerce-business/",
+  "path": "dept/en-in/insight/fast-forward-b2b-how-to-accelerate-your-digital-commerce-business",
+  "timestamp": "2026-10-09T15:56:08.342Z",
+  "title": "Fast forward B2B: How to accelerate your digital commerce business - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/fastforwar_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/fastforwar_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/fastforwar_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/fastforwar_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/fastforwar_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/fastforwar_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/fastforwar_4.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/fastforwar_4.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/fastforwar_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/fastforwar_1.jpg"
+    ]
+  ]
+}

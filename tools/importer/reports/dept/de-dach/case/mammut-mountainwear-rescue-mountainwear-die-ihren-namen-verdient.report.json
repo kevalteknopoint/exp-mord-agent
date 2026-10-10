@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/mammut-mountainwear-rescue-mountainwear-die-ihren-namen-verdient/",
+  "path": "dept/de-dach/case/mammut-mountainwear-rescue-mountainwear-die-ihren-namen-verdient",
+  "timestamp": "2026-10-09T11:09:07.359Z",
+  "title": "Mountainwear, die ihren Namen verdient - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-KV.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-KV.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/4-patch.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/4-patch.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/5-Collateral.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/5-Collateral.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6-OOH.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6-OOH.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20201203_161611.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20201203_161611.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Mountain-Rescue-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Mountain-Rescue-1920x1080-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/inspiring-audiences-through-real-stories/",
+  "path": "dept/en-dk/case/inspiring-audiences-through-real-stories",
+  "timestamp": "2026-10-09T14:30:24.977Z",
+  "title": "Inspiring audiences through real stories - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/SHOT_01_HUBCAP_0041_v2RGB-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/SHOT_01_HUBCAP_0041_v2RGB-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/SHOT_02_PETROL_CAP_0227_v2RGB-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/SHOT_02_PETROL_CAP_0227_v2RGB-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Did-somebody-say-Just-Eat-Katy-Pary.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Did-somebody-say-Just-Eat-Katy-Pary.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ]
+  ]
+}

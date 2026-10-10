@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/a-branded-commerce-experience/",
+  "path": "dept/en-uki/case/a-branded-commerce-experience",
+  "timestamp": "2026-10-09T19:31:42.340Z",
+  "title": "A branded commerce experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Hero-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Hero-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Patagonia-Smallerblock.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Patagonia-Smallerblock.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Visual-Light-159-2-scaled-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Visual-Light-159-2-scaled-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Patagonia-Case-Study-Thumbnail-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Patagonia-Case-Study-Thumbnail-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Outdoor-clothing-brands-Patagonia-Fitz-Roy-Down-Hoody.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Outdoor-clothing-brands-Patagonia-Fitz-Roy-Down-Hoody.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Visual-Light-158-1-scaled-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Visual-Light-158-1-scaled-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/PatagoniaManClimbing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/PatagoniaManClimbing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Footprint_Overview3-scaled-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Footprint_Overview3-scaled-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Eurocamp-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Eurocamp-Image-Full-bleed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ]
+  ]
+}

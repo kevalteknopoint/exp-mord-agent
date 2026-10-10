@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/insight/unboxing-amazon-ideas-technology-innovation/",
   "path": "dept/en-au/insight/unboxing-amazon-ideas-technology-innovation",
-  "timestamp": "2026-10-08T16:14:30.986Z",
+  "timestamp": "2026-10-09T09:45:17.540Z",
   "title": "Unboxing Amazon ideas, technology & innovation - DEPT®",
   "template": "dept-insight",
   "locale": "en-au",
@@ -17,10 +17,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "intro-text",
-    "image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/11/IMG_20221027_160155.jpeg",

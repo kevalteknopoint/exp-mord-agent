@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/spotifys-music-talk-giver-nyt-liv-til-podcasting/",
+  "path": "dept/en-dk/case/spotifys-music-talk-giver-nyt-liv-til-podcasting",
+  "timestamp": "2026-10-09T14:45:52.941Z",
+  "title": "Spotifys Music + Talk giver nyt liv til podcasting - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Liza-Enebeis.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Liza-Enebeis.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Rotate-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Rotate-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-33-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-33-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/GoogleKidsSpace-Case-07.1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/GoogleKidsSpace-Case-07.1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/spotify-music-talk-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/spotify-music-talk-scaled.jpeg"
+    ]
+  ]
+}

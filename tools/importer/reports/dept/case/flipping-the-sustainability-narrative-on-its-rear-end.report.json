@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/flipping-the-sustainability-narrative-on-its-rear-end/",
+  "path": "dept/case/flipping-the-sustainability-narrative-on-its-rear-end",
+  "timestamp": "2026-10-09T10:06:01.142Z",
+  "title": "Featured work: Trainline's cheeky, culture-first campaign - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/4A.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/4A.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/ICBT_Social-asset_06.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/ICBT_Social-asset_06.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/ICBT-Key-Visual-7.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/ICBT-Key-Visual-7.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-11.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-11.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Trainline_Featured_16_9.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Trainline_Featured_16_9.jpeg"
+    ]
+  ]
+}

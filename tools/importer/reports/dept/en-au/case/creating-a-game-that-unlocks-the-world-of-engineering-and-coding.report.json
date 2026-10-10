@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/creating-a-game-that-unlocks-the-world-of-engineering-and-coding/",
+  "path": "dept/en-au/case/creating-a-game-that-unlocks-the-world-of-engineering-and-coding",
+  "timestamp": "2026-10-09T12:46:25.062Z",
+  "title": "Creating a game that unlocks the world of engineering and coding - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/OvO-Frame-156.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/OvO-Frame-156.jpg"
+    ]
+  ]
+}

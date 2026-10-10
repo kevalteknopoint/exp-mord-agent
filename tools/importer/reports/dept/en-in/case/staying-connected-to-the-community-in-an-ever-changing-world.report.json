@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/staying-connected-to-the-community-in-an-ever-changing-world/",
+  "path": "dept/en-in/case/staying-connected-to-the-community-in-an-ever-changing-world",
+  "timestamp": "2026-10-09T16:19:49.335Z",
+  "title": "Staying connected to the community in an ever-changing world - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/VDK-Single-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/VDK-Single-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/city-with-traffic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/city-with-traffic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Final-hero-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Final-hero-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/my-cp-guide-6-1-1-e1700022786913.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/my-cp-guide-6-1-1-e1700022786913.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/lifx-Project-Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/lifx-Project-Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/VDK-Read-More-VDK.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/VDK-Read-More-VDK.png"
+    ]
+  ]
+}

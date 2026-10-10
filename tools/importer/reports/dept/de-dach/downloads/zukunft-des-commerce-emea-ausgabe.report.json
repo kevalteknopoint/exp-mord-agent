@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/zukunft-des-commerce-emea-ausgabe/",
+  "path": "dept/de-dach/downloads/zukunft-des-commerce-emea-ausgabe",
+  "timestamp": "2026-10-09T10:55:01.384Z",
+  "title": "Future of Commerce Report 2025: Konsumententrends in EMEA",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Frame-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Frame-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Frame-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Frame-1.jpg"
+    ]
+  ]
+}

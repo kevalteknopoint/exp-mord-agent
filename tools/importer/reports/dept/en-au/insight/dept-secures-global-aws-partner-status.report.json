@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-secures-global-aws-partner-status/",
+  "path": "dept/en-au/insight/dept-secures-global-aws-partner-status",
+  "timestamp": "2026-10-09T13:31:14.439Z",
+  "title": "DEPT® secures global AWS partner status - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/city-with-traffic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/city-with-traffic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jesse_Streb-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jesse_Streb-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wesley-Niels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wesley-Niels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/city-with-traffic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/city-with-traffic.png"
+    ]
+  ]
+}

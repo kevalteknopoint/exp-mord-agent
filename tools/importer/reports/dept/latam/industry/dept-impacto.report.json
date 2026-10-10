@@ -1,0 +1,124 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/industry/dept-impacto/",
+  "path": "dept/latam/industry/dept-impacto",
+  "timestamp": "2026-10-09T23:42:07.542Z",
+  "title": "Agencia especializada en propósito, sostenibilidad e impacto - DEPT®",
+  "template": "dept-industry",
+  "locale": "latam",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "event-content-v2",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "assets-and-copy",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/tony-blair-woman-sewing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/tony-blair-woman-sewing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Footprint_Overview3-scaled-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Footprint_Overview3-scaled-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/growing-as-we-grieve.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/growing-as-we-grieve.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-103-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-103-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Impact-industry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Impact-industry.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/World-Health-Organisation.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/World-Health-Organisation.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Trainline.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Trainline.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Sumting.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Sumting.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Pathcheck-Foundation.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Pathcheck-Foundation.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Patagonia.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Patagonia.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/American-Society-for-Deaf-Children.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/American-Society-for-Deaf-Children.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Easy-Genomics.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Easy-Genomics.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dossy.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dossy.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/eBay.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/eBay.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Justdiggit.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Justdiggit.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Evrnu_Worlds-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Evrnu_Worlds-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Philips-multigroomer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Philips-multigroomer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Impact-Report-2023-Cover.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Impact-Report-2023-Cover.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/anthem-awards-hand-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/anthem-awards-hand-logo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Impact-industry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Impact-industry.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/setting-a-new-online-standard/",
+  "path": "dept/en-in/case/setting-a-new-online-standard",
+  "timestamp": "2026-10-09T16:17:44.905Z",
+  "title": "Setting a new online standard - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Stokke-Retail-in-asia.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Stokke-Retail-in-asia.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/stokke-08.acca825.7aadd062c1423c3f791240b98673b73c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/stokke-08.acca825.7aadd062c1423c3f791240b98673b73c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-124-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-124-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/STOKKE_195A5640_fotoKristinStoylen_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/STOKKE_195A5640_fotoKristinStoylen_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/stokke-mycarrier-front-and-back-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/stokke-mycarrier-front-and-back-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-119-2-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-119-2-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/medela_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/medela_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg"
+    ]
+  ]
+}

@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-uki/insight/7-challenges-to-delivering-a-global-web-content-management-capability/",
   "path": "dept/en-uki/insight/7-challenges-to-delivering-a-global-web-content-management-capability",
-  "timestamp": "2026-10-08T15:00:57.283Z",
+  "timestamp": "2026-10-09T09:48:26.502Z",
   "title": "7 challenges to delivering a global web content management capability - DEPT®",
   "template": "dept-insight",
   "locale": "en-uki",
@@ -14,9 +14,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "full-width-image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/03/2017_20_02_Dept_Rotterdam_Marketing_sfeerbeelden_JRF__85-1200x750-c.jpg",

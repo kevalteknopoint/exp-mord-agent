@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/why-banks-should-think-like-a-commerce-brand/",
+  "path": "dept/en-in/insight/why-banks-should-think-like-a-commerce-brand",
+  "timestamp": "2026-10-09T16:01:21.339Z",
+  "title": "Why banks should think like a commerce brand - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Yash-Mody-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Yash-Mody-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Banking-and-commerce-strategy_Asset1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Banking-and-commerce-strategy_Asset1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg"
+    ]
+  ]
+}

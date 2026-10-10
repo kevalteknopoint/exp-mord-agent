@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-dk/service/growth/affiliate-marketing/",
   "path": "dept/en-dk/service/growth/affiliate-marketing",
-  "timestamp": "2026-10-08T16:17:55.420Z",
+  "timestamp": "2026-10-09T09:50:45.155Z",
   "title": "Affiliate marketing - DEPT®",
   "template": "dept-service",
   "locale": "en-dk",
@@ -10,9 +10,7 @@
     "panel-with-rich-text",
     "footer-top"
   ],
-  "fallback": [
-    "footer-top"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",

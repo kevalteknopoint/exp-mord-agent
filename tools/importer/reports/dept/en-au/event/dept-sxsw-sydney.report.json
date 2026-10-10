@@ -1,0 +1,105 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dept-sxsw-sydney/",
+  "path": "dept/en-au/event/dept-sxsw-sydney",
+  "timestamp": "2026-10-09T12:52:53.978Z",
+  "title": "Join DEPT® at SXSW Sydney 2025 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "wrapper",
+    "event-people",
+    "event-people",
+    "work-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/SXSW-Sydney-2025-Featured-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/SXSW-Sydney-2025-Featured-1920x1080-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/SXSW-Sydney-2025-Copy2-1350x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/SXSW-Sydney-2025-Copy2-1350x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Angie-Farrugia-Director-of-Communications-Engagement-B-Lab-Australia-Aotearoa-New-Zealand.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Angie-Farrugia-Director-of-Communications-Engagement-B-Lab-Australia-Aotearoa-New-Zealand.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Dan-Ludlow-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Dan-Ludlow-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Andy-Blood-Founder-at-Move-Fast-and-Hack-Things-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Andy-Blood-Founder-at-Move-Fast-and-Hack-Things-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Emerson-Keenan-CEO-CTO-at-Kali-Healthcare.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Emerson-Keenan-CEO-CTO-at-Kali-Healthcare.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Erik-Newcomb-Director-Customer-Success-APAC-at-Shopify.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Erik-Newcomb-Director-Customer-Success-APAC-at-Shopify.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Liya-Safina-AR_VR-Design-Lead-at-Google.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Liya-Safina-AR_VR-Design-Lead-at-Google.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Sheerien-Salindera-ANZ-Head-of-Content-and-Commerce-Digital-Experience-at-Adobe.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Sheerien-Salindera-ANZ-Head-of-Content-and-Commerce-Digital-Experience-at-Adobe.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Tai-Hollingsbee-Head-of-Sustainability-Asia-Pacific-at-GHD.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Tai-Hollingsbee-Head-of-Sustainability-Asia-Pacific-at-GHD.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Phoebe-Jones-Head-of-Sustainability-at-Australia-Red-Cross-Lifeblood.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Phoebe-Jones-Head-of-Sustainability-at-Australia-Red-Cross-Lifeblood.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Ben-Ayache.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Ben-Ayache.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Cam-Leckie-Senior-Technical-Projects-Manager-at-DEPT%C2%AE.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Cam-Leckie-Senior-Technical-Projects-Manager-at-DEPT-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Christine-Watts-Client-Director-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Christine-Watts-Client-Director-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/James_Lowe_VP-Commerce-APAC.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/James_Lowe_VP-Commerce-APAC.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Julian-Gilchrist-VP-Experience-Engineering-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Julian-Gilchrist-VP-Experience-Engineering-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Lee-Warlow-Senior-Delivery-Lead-at-DEPT%C2%AE.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Lee-Warlow-Senior-Delivery-Lead-at-DEPT-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Liz_Bebbington.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Liz_Bebbington.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Natalie_Betteridge_Account-Coordinator-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Natalie_Betteridge_Account-Coordinator-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/SXSW-Sydney-2025-Featured-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/SXSW-Sydney-2025-Featured-1920x1080-2.png"
+    ]
+  ]
+}

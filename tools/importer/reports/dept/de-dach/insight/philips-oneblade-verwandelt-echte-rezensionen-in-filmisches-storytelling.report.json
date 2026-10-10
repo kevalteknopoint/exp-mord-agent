@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/philips-oneblade-verwandelt-echte-rezensionen-in-filmisches-storytelling/",
+  "path": "dept/de-dach/insight/philips-oneblade-verwandelt-echte-rezensionen-in-filmisches-storytelling",
+  "timestamp": "2026-10-09T11:37:22.859Z",
+  "title": "Philips verwandelt Rezensionen in filmisches Storytelling - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/nbEKXO-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/nbEKXO-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/so__nke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/so__nke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Philips-Lumea-featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Philips-Lumea-featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/nbEKXO-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/nbEKXO-min.png"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/mammut-and-dept-disrupt-london-to-launch-not-a-streetwear-brand-campaign/",
+  "path": "dept/en-uki/insight/mammut-and-dept-disrupt-london-to-launch-not-a-streetwear-brand-campaign",
+  "timestamp": "2026-10-09T20:05:40.835Z",
+  "title": "Mammut and DEPT® disrupt London to launch ‘Not a Streetwear Brand’ campaign - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Mammut-Website-asset-500x300-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Mammut-Website-asset-500x300-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Z8M3667-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Z8M3667-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/BYTE_HEAD_SHOTS1238_1-e1707149328146.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/BYTE_HEAD_SHOTS1238_1-e1707149328146.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Mammut-Website-asset-500x300-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Mammut-Website-asset-500x300-2.png"
+    ]
+  ]
+}

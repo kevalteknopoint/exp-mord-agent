@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/tracking-the-impact-of-covid-19-and-charting-signs-of-recovery/",
+  "path": "dept/en-in/insight/tracking-the-impact-of-covid-19-and-charting-signs-of-recovery",
+  "timestamp": "2026-10-09T16:57:12.140Z",
+  "title": "Tracking the impact of COVID-19 and charting signs of recovery - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/photo-1584582868981-38dbd5d1a86e-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/photo-1584582868981-38dbd5d1a86e-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Erwin-Bossers-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Erwin-Bossers-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Impact-grafiek-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Impact-grafiek-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/grafiek10-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/grafiek10-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Erwin-Bossers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Erwin-Bossers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/photo-1584582868981-38dbd5d1a86e-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/photo-1584582868981-38dbd5d1a86e-1200x750-c.jpeg"
+    ]
+  ]
+}

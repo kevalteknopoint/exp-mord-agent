@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/in-full-bloom-eine-erfolgreiche-fruehlingskampagne/",
+  "path": "dept/de-dach/case/in-full-bloom-eine-erfolgreiche-fruehlingskampagne",
+  "timestamp": "2026-10-09T11:05:02.953Z",
+  "title": "In Full Bloom: Eine erfolgreiche Frühlingskampagne - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/2023_SUMMER_LANDQUART_STORES_I7A3774_HR_2-Kopie.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/2023_SUMMER_LANDQUART_STORES_I7A3774_HR_2-Kopie.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/23_1340_0517-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/23_1340_0517-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/2023_SUMMER_LANDQUART_STORES_I7A3774_HR_2-Kopie.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/2023_SUMMER_LANDQUART_STORES_I7A3774_HR_2-Kopie.jpg"
+    ]
+  ]
+}

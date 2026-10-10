@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/willkommen-in-einer-digitalen-luxuswelt/",
+  "path": "dept/de-dach/case/willkommen-in-einer-digitalen-luxuswelt",
+  "timestamp": "2026-10-09T11:27:36.039Z",
+  "title": "Willkommen in einer digitalen Luxuswelt - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "statement",
+    "full-width-image",
+    "statement",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe7-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe7-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/G-nuAr_g-2-e1627388428112.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/G-nuAr_g-2-e1627388428112.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/klub.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/klub.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/50-years-swiss-music-charts.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/50-years-swiss-music-charts.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ]
+  ]
+}

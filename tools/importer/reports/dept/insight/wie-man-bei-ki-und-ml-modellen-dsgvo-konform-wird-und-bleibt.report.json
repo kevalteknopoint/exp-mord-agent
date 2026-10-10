@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/wie-man-bei-ki-und-ml-modellen-dsgvo-konform-wird-und-bleibt/",
+  "path": "dept/insight/wie-man-bei-ki-und-ml-modellen-dsgvo-konform-wird-und-bleibt",
+  "timestamp": "2026-10-09T21:20:02.938Z",
+  "title": "DSGVO-konform sein bei KI- & ML-Modellen - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tobias-Kra%CC%88ft-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tobias-Kra-ft-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/How-to-become-and-stay-GDPR-compliant-in-AI-ML-models.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/How-to-become-and-stay-GDPR-compliant-in-AI-ML-models.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/gdpr-compliance-ai-ml-models-1024x576.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/gdpr-compliance-ai-ml-models-1024x576.jpg"
+    ]
+  ]
+}

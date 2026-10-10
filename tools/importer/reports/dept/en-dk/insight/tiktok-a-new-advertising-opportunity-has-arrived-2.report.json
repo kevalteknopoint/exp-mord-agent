@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/tiktok-a-new-advertising-opportunity-has-arrived-2/",
+  "path": "dept/en-dk/insight/tiktok-a-new-advertising-opportunity-has-arrived-2",
+  "timestamp": "2026-10-09T23:19:05.939Z",
+  "title": "TikTok - a new advertising opportunity has arrived - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-insight",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept-35-1200x750-c-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept-35-1200x750-c-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Kasper-Koletzki-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Kasper-Koletzki-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/test-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/test-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/TikTok_Dept_2-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/TikTok_Dept_2-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/3-1200x675-c-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/3-1200x675-c-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/4-1-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/4-1-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/TikTok_Dept_5-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/TikTok_Dept_5-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/how-creator-economy-is-reshaping-marketing-500X300.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/how-creator-economy-is-reshaping-marketing-500X300.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept-35-1200x750-c-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept-35-1200x750-c-3.jpg"
+    ]
+  ]
+}

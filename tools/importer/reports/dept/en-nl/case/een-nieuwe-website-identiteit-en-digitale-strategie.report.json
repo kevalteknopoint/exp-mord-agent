@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/een-nieuwe-website-identiteit-en-digitale-strategie/",
+  "path": "dept/en-nl/case/een-nieuwe-website-identiteit-en-digitale-strategie",
+  "timestamp": "2026-10-09T18:08:31.740Z",
+  "title": "Een nieuwe website, identiteit en digitale strategie - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Worldstream-header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Worldstream-header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Worldstream-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Worldstream-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Worldstream-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Worldstream-8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Johan-Kruseman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Johan-Kruseman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Jungheinrich-02-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Jungheinrich-02-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Worldstream-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Worldstream-featured.png"
+    ]
+  ]
+}

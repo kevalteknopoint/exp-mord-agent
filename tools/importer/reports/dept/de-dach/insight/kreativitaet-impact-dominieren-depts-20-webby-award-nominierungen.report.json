@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/kreativitaet-impact-dominieren-depts-20-webby-award-nominierungen/",
+  "path": "dept/de-dach/insight/kreativitaet-impact-dominieren-depts-20-webby-award-nominierungen",
+  "timestamp": "2026-10-09T12:13:12.906Z",
+  "title": "Kreativität, Innovation & Impact dominieren die 20 Webby Award-Nominierungen von DEPT®  - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-shortlist.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-shortlist.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-shortlist.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-shortlist.webp"
+    ]
+  ]
+}

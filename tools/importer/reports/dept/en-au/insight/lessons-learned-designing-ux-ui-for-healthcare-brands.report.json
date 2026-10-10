@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/lessons-learned-designing-ux-ui-for-healthcare-brands/",
+  "path": "dept/en-au/insight/lessons-learned-designing-ux-ui-for-healthcare-brands",
+  "timestamp": "2026-10-09T13:29:50.341Z",
+  "title": "Lessons learned designing UX/UI for healthcare brands - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "insight-cta",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/UI-for-healthcare-brands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/UI-for-healthcare-brands.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Noko_Washiyama_Senior-Product-Designer-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Noko_Washiyama_Senior-Product-Designer-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-app-design2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-app-design2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-platform-ui-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-platform-ui-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Copy-of-Copy-of-my-cp-guide-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Copy-of-Copy-of-my-cp-guide-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/UI-for-healthcare-brands-1024x538.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/UI-for-healthcare-brands-1024x538.jpg"
+    ]
+  ]
+}

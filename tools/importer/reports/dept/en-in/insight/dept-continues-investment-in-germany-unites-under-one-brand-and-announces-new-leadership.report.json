@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-in/insight/dept-continues-investment-in-germany-unites-under-one-brand-and-announces-new-leadership/",
   "path": "dept/en-in/insight/dept-continues-investment-in-germany-unites-under-one-brand-and-announces-new-leadership",
-  "timestamp": "2026-10-08T16:15:38.226Z",
+  "timestamp": "2026-10-09T09:52:54.440Z",
   "title": "DEPT® continues investment in Germany, unites under one brand, and announces new leadership - DEPT®",
   "template": "dept-insight",
   "locale": "en-in",
@@ -17,10 +17,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "statement",
-    "image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/05/Germany-management-team.jpg",

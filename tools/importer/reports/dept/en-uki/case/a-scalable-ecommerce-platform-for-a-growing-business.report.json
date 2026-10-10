@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/a-scalable-ecommerce-platform-for-a-growing-business/",
+  "path": "dept/en-uki/case/a-scalable-ecommerce-platform-for-a-growing-business",
+  "timestamp": "2026-10-09T19:40:15.236Z",
+  "title": "A scalable e-commerce platform for a growing business - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ann-summers-diversity-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ann-summers-diversity-1440x810-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/KLM-1-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/KLM-1-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HVR-Case-Study_Hero-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HVR-Case-Study_Hero-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ann-summers-diversity-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ann-summers-diversity-1440x810-c.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-website-relaunch-fuer-one-team/",
+  "path": "dept/de-dach/case/ein-website-relaunch-fuer-one-team",
+  "timestamp": "2026-10-09T10:53:45.141Z",
+  "title": "Ein Website Relaunch für ‘one team’ - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/team-se_case_image2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/team-se_case_image2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/team-se_case_image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/team-se_case_image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/G-nuAr_g-2-e1627388428112.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/G-nuAr_g-2-e1627388428112.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/micasa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/micasa-Case-Study-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/team-se_case_image2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/team-se_case_image2.jpg"
+    ]
+  ]
+}

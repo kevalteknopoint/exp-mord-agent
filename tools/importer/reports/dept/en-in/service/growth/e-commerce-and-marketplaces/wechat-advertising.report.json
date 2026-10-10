@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/e-commerce-and-marketplaces/wechat-advertising/",
+  "path": "dept/en-in/service/growth/e-commerce-and-marketplaces/wechat-advertising",
+  "timestamp": "2026-10-09T16:30:44.780Z",
+  "title": "WeChat Advertising - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wechat.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wechat.png"
+    ]
+  ]
+}

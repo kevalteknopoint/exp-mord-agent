@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/wero-thrift-club-in-berlin-this-is-what-the-future-of-digital-payments-looks-like/",
+  "path": "dept/insight/wero-thrift-club-in-berlin-this-is-what-the-future-of-digital-payments-looks-like",
+  "timestamp": "2026-10-09T21:06:10.357Z",
+  "title": "Wero Thrift Club in Berlin: This is what the future of digital payments looks like - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/WERO-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/WERO-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Wero_DSC7693-Large.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Wero_DSC7693-Large.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/WERO-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/WERO-1920x1080-1.webp"
+    ]
+  ]
+}

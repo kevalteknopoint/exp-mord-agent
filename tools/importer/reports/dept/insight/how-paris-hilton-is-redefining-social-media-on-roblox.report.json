@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-paris-hilton-is-redefining-social-media-on-roblox/",
+  "path": "dept/insight/how-paris-hilton-is-redefining-social-media-on-roblox",
+  "timestamp": "2026-10-09T20:57:44.268Z",
+  "title": "How Paris Hilton is redefining social media on Roblox - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "full-width-image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Paris-Hilton-featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Paris-Hilton-featured-image-500x344-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Paris-Hilton-diagram-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Paris-Hilton-diagram-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Paris-Hilton-featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Paris-Hilton-featured-image-500x344-1.jpg"
+    ]
+  ]
+}

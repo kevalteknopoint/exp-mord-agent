@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/why-you-need-a-product-strategy-even-for-your-simple-website/",
+  "path": "dept/en-in/insight/why-you-need-a-product-strategy-even-for-your-simple-website",
+  "timestamp": "2026-10-09T16:05:48.692Z",
+  "title": "Why you need a product strategy, even for your \"simple\" website - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Why-your-website-need-product-strategy.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Why-your-website-need-product-strategy.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/new-ways-of-working-ai-powered.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/new-ways-of-working-ai-powered.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/ADOBE-PARTNER-25-Web-Featured-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/ADOBE-PARTNER-25-Web-Featured-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Discovery-click.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Discovery-click.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Why-your-website-need-product-strategy.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Why-your-website-need-product-strategy.webp"
+    ]
+  ]
+}

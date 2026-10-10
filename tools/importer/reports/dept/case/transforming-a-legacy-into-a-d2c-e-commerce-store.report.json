@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/transforming-a-legacy-into-a-d2c-e-commerce-store/",
+  "path": "dept/case/transforming-a-legacy-into-a-d2c-e-commerce-store",
+  "timestamp": "2026-10-09T11:07:49.849Z",
+  "title": "Featured work: e-commerce design for Pelican - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Pelican-commerce-desgn-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Pelican-commerce-desgn-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Pelican-design-desktop-vs-mobile-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Pelican-design-desktop-vs-mobile-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Pelican-design-system-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Pelican-design-system-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Pelican-commerce-design-features-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Pelican-commerce-design-features-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/pelican-commerce-design-modules-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/pelican-commerce-design-modules-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HVR-Case-Study_Hero-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HVR-Case-Study_Hero-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Pelican-design-desktop-vs-mobile-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Pelican-design-desktop-vs-mobile-min.jpg"
+    ]
+  ]
+}

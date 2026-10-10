@@ -1,0 +1,115 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/marketplaces/",
+  "path": "dept/en-in/service/growth/marketplaces",
+  "timestamp": "2026-10-09T16:31:39.741Z",
+  "title": "Marketplaces - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "four-card-information-block",
+    "title-and-content",
+    "client-panel",
+    "highlighted-item-listing",
+    "rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/content-generation-building-AI-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/content-generation-building-AI-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Subservices-%E2%80%93-Strategy-and-Analytics-1200x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Subservices---Strategy-and-Analytics-1200x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Subservices-%E2%80%93-Brand-Experience-1200x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Subservices---Brand-Experience-1200x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Subservices-%E2%80%93-Marketplace-management-1200x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Subservices---Marketplace-management-1200x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Subservices-%E2%80%93-Retail-Media-1200x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Subservices---Retail-Media-1200x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Levis.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Levis.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Johnson-Johnson.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Johnson-Johnson.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Diageo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Diageo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-Miele-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-Miele-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Rituals.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Rituals.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Swarovski.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Swarovski.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Philips.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Philips.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Bosch-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Bosch-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/JBL.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/JBL.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Electrolux_logo_white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Electrolux_logo_white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Mars.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Mars.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/PepsiCo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/PepsiCo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Hilti.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Hilti.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-Frigidaire-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-Frigidaire-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/AEG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/AEG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Bugaboo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Bugaboo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dept_Office_FACTOR-A-03-e1557228255185.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dept_Office_FACTOR-A-03-e1557228255185.jpg"
+    ]
+  ]
+}

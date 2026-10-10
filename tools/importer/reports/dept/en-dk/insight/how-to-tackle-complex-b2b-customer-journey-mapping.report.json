@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/how-to-tackle-complex-b2b-customer-journey-mapping/",
+  "path": "dept/en-dk/insight/how-to-tackle-complex-b2b-customer-journey-mapping",
+  "timestamp": "2026-10-09T15:35:27.442Z",
+  "title": "How to tackle complex B2B customer journey mapping - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/workshop-glass.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/workshop-glass.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/examplepersona-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/examplepersona-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/workshop-glass.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/workshop-glass.jpg"
+    ]
+  ]
+}

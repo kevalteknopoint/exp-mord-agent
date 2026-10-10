@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/engie-een-splinternieuw-sitecore-platform/",
+  "path": "dept/en-nl/case/engie-een-splinternieuw-sitecore-platform",
+  "timestamp": "2026-10-09T18:10:29.590Z",
+  "title": "Een splinternieuw sitecore platform - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "panel-with-cards",
+    "video",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Engie-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Engie-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Engie-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Engie-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Engie-6-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Engie-6-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Engie-16-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Engie-16-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Sandor-Voordes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Sandor-Voordes.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/AithyraFeatureFrame.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/AithyraFeatureFrame.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ghd-case-image-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Engie-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Engie-2-scaled.jpg"
+    ]
+  ]
+}

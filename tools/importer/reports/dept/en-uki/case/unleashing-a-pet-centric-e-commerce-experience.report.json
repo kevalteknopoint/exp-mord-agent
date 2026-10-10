@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/unleashing-a-pet-centric-e-commerce-experience/",
+  "path": "dept/en-uki/case/unleashing-a-pet-centric-e-commerce-experience",
+  "timestamp": "2026-10-09T19:20:20.863Z",
+  "title": "Unleashing a pet-centric e-commerce experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-cover-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-cover-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-case-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-case-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-case-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-case-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-case-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-case-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1057277428-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1057277428-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-cover-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-cover-1.jpeg"
+    ]
+  ]
+}

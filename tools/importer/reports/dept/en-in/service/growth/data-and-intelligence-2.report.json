@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/data-and-intelligence-2/",
+  "path": "dept/en-in/service/growth/data-and-intelligence-2",
+  "timestamp": "2026-10-09T16:28:19.775Z",
+  "title": "Data & intelligence - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dept-Manchester-Office-7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dept-Manchester-Office-7.jpg"
+    ]
+  ]
+}

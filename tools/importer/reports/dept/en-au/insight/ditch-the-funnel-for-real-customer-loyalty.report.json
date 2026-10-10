@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/ditch-the-funnel-for-real-customer-loyalty/",
+  "path": "dept/en-au/insight/ditch-the-funnel-for-real-customer-loyalty",
+  "timestamp": "2026-10-09T13:40:22.480Z",
+  "title": "Ditch the funnel for real customer loyalty - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Loyalty_Paradox_Featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Loyalty_Paradox_Featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/JM-Marino-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/JM-Marino-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/webby-winners-dept-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/webby-winners-dept-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Loyalty_Paradox_Featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Loyalty_Paradox_Featured.jpg"
+    ]
+  ]
+}

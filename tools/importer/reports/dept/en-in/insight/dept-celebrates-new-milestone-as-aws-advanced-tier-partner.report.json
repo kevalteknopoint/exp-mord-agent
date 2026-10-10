@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/dept-celebrates-new-milestone-as-aws-advanced-tier-partner/",
+  "path": "dept/en-in/insight/dept-celebrates-new-milestone-as-aws-advanced-tier-partner",
+  "timestamp": "2026-10-09T15:27:06.635Z",
+  "title": "DEPT® celebrates new milestone as AWS Advanced Tier Partner - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "quote",
+    "cta-text",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/DEPT%C2%AE-x-AWS-Partner-Featured-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/DEPT--x-AWS-Partner-Featured-500x344-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Chris_De-Vere_Account-Director-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Chris_De-Vere_Account-Director-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/DEPT%C2%AE-x-AWS-Partner-Featured-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/DEPT--x-AWS-Partner-Featured-500x344-1.jpg"
+    ]
+  ]
+}

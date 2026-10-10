@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/why-agile-might-be-the-biggest-blocker-to-your-engineering-velocity/",
+  "path": "dept/en-au/insight/why-agile-might-be-the-biggest-blocker-to-your-engineering-velocity",
+  "timestamp": "2026-10-09T13:20:22.675Z",
+  "title": "Why Agile might be the biggest blocker to your engineering velocity - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/case-for-ai-slop.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/case-for-ai-slop.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/case-for-ai-slop.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/case-for-ai-slop.webp"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/preserving-the-niyayparli-language-and-culture-for-future-generations/",
+  "path": "dept/awards/preserving-the-niyayparli-language-and-culture-for-future-generations",
+  "timestamp": "2026-10-09T10:32:00.841Z",
+  "title": "Preserving the Niyayparli language and culture for future generations - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "awards-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Nyiyaparly-Widi-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Nyiyaparly-Widi-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Nyiyaparli-3-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Nyiyaparli-3-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Nyiyaparli-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Nyiyaparli-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/6C.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/6C.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/6A-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/6A-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/6B.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/6B.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Nyiyaparly-Widi-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Nyiyaparly-Widi-1.png"
+    ]
+  ]
+}

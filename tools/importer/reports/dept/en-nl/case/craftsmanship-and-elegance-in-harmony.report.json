@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/craftsmanship-and-elegance-in-harmony/",
+  "path": "dept/en-nl/case/craftsmanship-and-elegance-in-harmony",
+  "timestamp": "2026-10-09T17:59:45.040Z",
+  "title": "Craftsmanship and elegance in harmony - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/SECRID-DEPT%C2%AE-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/SECRID-DEPT--1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/SECRIB-Black-DEPT%C2%AE-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/SECRIB-Black-DEPT--1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/SECRID-group-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/SECRID-group-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tiago-Nascimento2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tiago-Nascimento2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/SECRID-DEPT%C2%AE-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/SECRID-DEPT--1.jpeg"
+    ]
+  ]
+}

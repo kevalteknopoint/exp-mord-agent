@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-nosotrxs-manuel-matheu/",
+  "path": "dept/latam/insight/dept-nosotrxs-manuel-matheu",
+  "timestamp": "2026-10-09T23:28:40.035Z",
+  "title": "DEPT®/NOSOTRXS – Manuel Matheu - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "media-with-text",
+    "title-and-content",
+    "title-and-content",
+    "video"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/ManuelMatheu-34-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/ManuelMatheu-34-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/f8a87ebcf07ff485d8ab3e3ea80bde1c67abb408.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/f8a87ebcf07ff485d8ab3e3ea80bde1c67abb408.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/ManuelMatheu-34-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/ManuelMatheu-34-2-1.jpg"
+    ]
+  ]
+}

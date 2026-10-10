@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/the-ultimate-guide-to-headless-and-composable-commerce/",
+  "path": "dept/en-uki/downloads/the-ultimate-guide-to-headless-and-composable-commerce",
+  "timestamp": "2026-10-09T19:39:55.339Z",
+  "title": "The Ultimate Guide to Headless and Composable Commerce - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/pink-material-olive-leather.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/pink-material-olive-leather.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/pink-material-olive-leather.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/pink-material-olive-leather.png"
+    ]
+  ]
+}

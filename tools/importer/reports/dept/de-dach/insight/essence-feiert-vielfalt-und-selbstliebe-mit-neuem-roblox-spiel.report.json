@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/essence-feiert-vielfalt-und-selbstliebe-mit-neuem-roblox-spiel/",
+  "path": "dept/de-dach/insight/essence-feiert-vielfalt-und-selbstliebe-mit-neuem-roblox-spiel",
+  "timestamp": "2026-10-09T12:02:37.139Z",
+  "title": "essence feiert Vielfalt und Selbstliebe mit neuem Roblox-Spiel - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Robolox_Blog-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Robolox_Blog-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/David-Pajung-Dept-e1652255398314-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/David-Pajung-Dept-e1652255398314-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Bildschirm_foto-2023-06-08-um-15.43.40-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Bildschirm_foto-2023-06-08-um-15.43.40-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Bildschirm_foto-2023-06-08-um-15.39.09-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Bildschirm_foto-2023-06-08-um-15.39.09-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Bildschirm_foto-2023-06-08-um-15.45.19-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Bildschirm_foto-2023-06-08-um-15.45.19-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/David-Pajung-Dept-e1652255398314.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/David-Pajung-Dept-e1652255398314.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Robolox_Blog-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Robolox_Blog-1.png"
+    ]
+  ]
+}

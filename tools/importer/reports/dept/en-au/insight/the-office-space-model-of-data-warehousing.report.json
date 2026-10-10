@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/the-office-space-model-of-data-warehousing/",
+  "path": "dept/en-au/insight/the-office-space-model-of-data-warehousing",
+  "timestamp": "2026-10-09T13:04:18.946Z",
+  "title": "The “Office Space” model of data warehousing - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-in-spreadsheet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-in-spreadsheet.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/david-grover-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/david-grover-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/09/layers-common-successful-data-warehouse-clear.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/09/layers-common-successful-data-warehouse-clear.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/09/home-renovation-model.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/09/home-renovation-model.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/09/made-to-order-model.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/09/made-to-order-model.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/09/office-space-model.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/09/office-space-model.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-in-spreadsheet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-in-spreadsheet.jpg"
+    ]
+  ]
+}

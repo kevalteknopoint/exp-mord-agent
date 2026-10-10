@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/brede-digitale-innovaties-voor-wij-techniek/",
+  "path": "dept/en-nl/case/brede-digitale-innovaties-voor-wij-techniek",
+  "timestamp": "2026-10-09T17:47:37.566Z",
+  "title": "Brede digitale innovaties voor Wij Techniek - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "panel-with-cards",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Wij-techniek-2@1.5x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Wij-techniek-2-1.5x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Wij-techniek-4@1.5x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Wij-techniek-4-1.5x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Wij-techniek-6@1.5x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Wij-techniek-6-1.5x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Wij-techniek-8@1.5x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Wij-techniek-8-1.5x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Wij-techniek-10@1.5x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Wij-techniek-10-1.5x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/E026KL2NWPK-UJCGKPL3A-97dc09ddf06b-512.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/E026KL2NWPK-UJCGKPL3A-97dc09ddf06b-512.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/HDFC-LTD-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/HDFC-LTD-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/traveling-adventure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/traveling-adventure.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Wijtechniek-case-cover-1440x810-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Wijtechniek-case-cover-1440x810-c.png"
+    ]
+  ]
+}

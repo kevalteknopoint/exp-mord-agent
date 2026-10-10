@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/contenido-personalizado-de-la-plataforma-usando-aem/",
+  "path": "dept/latam/case/contenido-personalizado-de-la-plataforma-usando-aem",
+  "timestamp": "2026-10-09T21:30:53.078Z",
+  "title": "Contenido personalizado de la plataforma usando AEM - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216207312-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216207312-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1223832759-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1223832759-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1200542020-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1200542020-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_6_Overview-mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_6_Overview-mobile-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1223832759-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1223832759-1-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/een-unieke-3d-belevingswereld-voor-bol-com/",
+  "path": "dept/en-nl/case/een-unieke-3d-belevingswereld-voor-bol-com",
+  "timestamp": "2026-10-09T18:08:49.046Z",
+  "title": "Een unieke 3D-belevingswereld voor bol.com - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-22.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-22.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Template-Desktop.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Template-Desktop.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-22-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-22-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Template-Mobiles-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Template-Mobiles-1-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-11.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-11.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-22-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-22-1.jpg"
+    ]
+  ]
+}

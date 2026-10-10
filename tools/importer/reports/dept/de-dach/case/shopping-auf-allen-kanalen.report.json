@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/shopping-auf-allen-kanalen/",
+  "path": "dept/de-dach/case/shopping-auf-allen-kanalen",
+  "timestamp": "2026-10-09T11:20:28.740Z",
+  "title": "Shopping auf allen Kanälen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/bipa-480x480-1-300x300-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/bipa-480x480-1-300x300-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Feller_Header-Image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Feller_Header-Image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Suisse-Mania-v8.jpg-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Suisse-Mania-v8.jpg-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/bipa-480x480-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/bipa-480x480-1.jpg"
+    ]
+  ]
+}

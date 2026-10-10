@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-survive-thrive-in-web3/",
+  "path": "dept/insight/how-to-survive-thrive-in-web3",
+  "timestamp": "2026-10-09T22:18:09.043Z",
+  "title": "How to survive & thrive in Web3 - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/web3-panel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/web3-panel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/women-wearing-vr-goggles.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/women-wearing-vr-goggles.jpg"
+    ]
+  ]
+}

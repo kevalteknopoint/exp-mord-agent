@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-strong-performer-forrester-wave-commerce-services-q1-2026/",
+  "path": "dept/en-au/insight/dept-strong-performer-forrester-wave-commerce-services-q1-2026",
+  "timestamp": "2026-10-09T13:32:00.510Z",
+  "title": "DEPT® named a Strong Performer in The Forrester Wave™: Commerce Services, Q1 2026 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "insight-cta",
+    "case-quote",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/carryn-quibell-ceo-americas-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/carryn-quibell-ceo-americas-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Forrester-Quadrant-Commerce-Services-2026-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Forrester-Quadrant-Commerce-Services-2026-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/webby-winners-dept-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/webby-winners-dept-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png"
+    ]
+  ]
+}

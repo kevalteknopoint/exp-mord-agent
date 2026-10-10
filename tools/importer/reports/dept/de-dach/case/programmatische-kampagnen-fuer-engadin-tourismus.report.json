@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/programmatische-kampagnen-fuer-engadin-tourismus/",
+  "path": "dept/de-dach/case/programmatische-kampagnen-fuer-engadin-tourismus",
+  "timestamp": "2026-10-09T11:17:09.136Z",
+  "title": "Programmatische Kampagnen für Engadin Tourismus - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/joel-ambass-UCnm3Z_yXDc-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/joel-ambass-UCnm3Z_yXDc-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/bol-commerce-store-lowlands-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/bol-commerce-store-lowlands-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Allianz-half-width-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Allianz-half-width-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/joel-ambass-UCnm3Z_yXDc-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/joel-ambass-UCnm3Z_yXDc-unsplash.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/just-eat-takeaway-spotlights-the-uks-best-local-food-heroes-with-new-docuseries-home-of-the-hotspots/",
+  "path": "dept/insight/just-eat-takeaway-spotlights-the-uks-best-local-food-heroes-with-new-docuseries-home-of-the-hotspots",
+  "timestamp": "2026-10-09T22:34:47.235Z",
+  "title": "Just Eat Takeaway spotlights the UK’s best local food heroes with new docuseries “Home of the Hotspots” - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Yas-Bean.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Yas-Bean.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Yas-Bean.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Yas-Bean.jpg"
+    ]
+  ]
+}

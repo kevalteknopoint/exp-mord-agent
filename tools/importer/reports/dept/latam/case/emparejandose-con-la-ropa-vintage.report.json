@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/emparejandose-con-la-ropa-vintage/",
+  "path": "dept/latam/case/emparejandose-con-la-ropa-vintage",
+  "timestamp": "2026-10-09T21:36:22.141Z",
+  "title": "Emparejándose con la ropa vintage - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_500x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_500x300.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/8-Image-Full-bleed@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/8-Image-Full-bleed-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ]
+  ]
+}

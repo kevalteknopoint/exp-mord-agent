@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/transitioning-from-google-universal-analytics-ua-to-ga4/",
+  "path": "dept/case/transitioning-from-google-universal-analytics-ua-to-ga4",
+  "timestamp": "2026-10-09T11:09:00.241Z",
+  "title": "Transitioning from Google Universal Analytics (UA) to GA4 - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/JYSK-image-numbers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/JYSK-image-numbers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Picture-JYSK-GA4-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Picture-JYSK-GA4-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Oliver-Pedersen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Oliver-Pedersen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Philips-multigroomer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Philips-multigroomer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/eye-bobs.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/eye-bobs.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/jysk-lounge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/jysk-lounge.jpg"
+    ]
+  ]
+}

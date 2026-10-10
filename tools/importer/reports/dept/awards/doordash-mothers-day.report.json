@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/doordash-mothers-day/",
+  "path": "dept/awards/doordash-mothers-day",
+  "timestamp": "2026-10-09T10:16:28.043Z",
+  "title": "WINNING MOTHER'S DAY WITH DOORDASH - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Doordash-mothers-day-bloom-ad.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Doordash-mothers-day-bloom-ad.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/doordash-mothers-day-pr-coverage-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/doordash-mothers-day-pr-coverage-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Doordash-mothers-day-heart-ad.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Doordash-mothers-day-heart-ad.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/doordashlogo-big.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/doordashlogo-big.png"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/beyond-the-inbox-reimagining-crm-for-the-ai-era/",
+  "path": "dept/en-dk/insight/beyond-the-inbox-reimagining-crm-for-the-ai-era",
+  "timestamp": "2026-10-09T14:06:25.640Z",
+  "title": "Beyond the inbox: Reimagining CRM for the AI era - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/7-CRM-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/7-CRM-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Judah-Headshot-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Judah-Headshot-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/rituals-products-on-bed-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/rituals-products-on-bed-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/the-future-geo-port.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/the-future-geo-port.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/IMG_8480.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/IMG_8480.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/7-CRM-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/7-CRM-Insights-1164x655-1.png"
+    ]
+  ]
+}

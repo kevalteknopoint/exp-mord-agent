@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/solutions/brand-media/chatgpt-ads-test-launch-paid-ai-discovery-dept/",
+  "path": "dept/en-nl/solutions/brand-media/chatgpt-ads-test-launch-paid-ai-discovery-dept",
+  "timestamp": "2026-10-09T18:27:34.740Z",
+  "title": "ChatGPT Ads - Test & launch paid AI discovery - DEPT® - DEPT®",
+  "template": "dept-solutions",
+  "locale": "en-nl",
+  "components": [
+    "title-block",
+    "highlighted-statement",
+    "image-and-fact",
+    "assets-and-copy",
+    "event-content-v2",
+    "highlighted-statement",
+    "assets-and-copy",
+    "custom-listing",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/ChatGPT-Ads-PR-insight-Extra-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/ChatGPT-Ads-PR-insight-Extra-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/ChatGPT-Ads-PR-insight-Extra-2-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/ChatGPT-Ads-PR-insight-Extra-2-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/ChatGPT-Ads-PR-insight-Extra-3-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/ChatGPT-Ads-PR-insight-Extra-3-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Optimization-in-the-age-of-AI-Understanding-GEO-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Optimization-in-the-age-of-AI-Understanding-GEO-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/ChatGPT-Ads-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/ChatGPT-Ads-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Five-ways-that-AI-is-changing-the-CJ_1920x1080.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Five-ways-that-AI-is-changing-the-CJ_1920x1080.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/ChatGPT-Ads-PR-insight-2026-600x315-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/ChatGPT-Ads-PR-insight-2026-600x315-1.png"
+    ]
+  ]
+}

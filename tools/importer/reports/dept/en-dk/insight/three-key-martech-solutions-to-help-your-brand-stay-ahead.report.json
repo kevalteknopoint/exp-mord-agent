@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/three-key-martech-solutions-to-help-your-brand-stay-ahead/",
+  "path": "dept/en-dk/insight/three-key-martech-solutions-to-help-your-brand-stay-ahead",
+  "timestamp": "2026-10-09T15:17:20.142Z",
+  "title": "Three key MarTech solutions to help your brand stay ahead - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/orange-arrows-stay-ahead-martech.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/orange-arrows-stay-ahead-martech.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/grey-render-reflection.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/grey-render-reflection.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/glass-ball-on-table.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/glass-ball-on-table.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay_Ahead_Loyalty-Featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay_Ahead_Loyalty-Featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg"
+    ]
+  ]
+}

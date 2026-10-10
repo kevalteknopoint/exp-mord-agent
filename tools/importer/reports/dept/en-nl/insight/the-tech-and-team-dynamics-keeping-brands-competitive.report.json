@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/the-tech-and-team-dynamics-keeping-brands-competitive/",
+  "path": "dept/en-nl/insight/the-tech-and-team-dynamics-keeping-brands-competitive",
+  "timestamp": "2026-10-09T17:53:54.463Z",
+  "title": "The tech and team dynamics keeping brands competitive - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "call-to-action",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_Office_Berlin_20.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_Office_Berlin_20.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Thomas-Clayson-1024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Thomas-Clayson-1024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Dept_Office_Berlin_20.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Dept_Office_Berlin_20.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_Office_Berlin_20.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_Office_Berlin_20.jpg"
+    ]
+  ]
+}

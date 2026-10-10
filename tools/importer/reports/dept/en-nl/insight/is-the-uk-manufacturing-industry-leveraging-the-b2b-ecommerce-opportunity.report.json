@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/is-the-uk-manufacturing-industry-leveraging-the-b2b-ecommerce-opportunity/",
+  "path": "dept/en-nl/insight/is-the-uk-manufacturing-industry-leveraging-the-b2b-ecommerce-opportunity",
+  "timestamp": "2026-10-09T18:27:56.034Z",
+  "title": "Are UK manufacturers leveraging the B2B e-commerce opportunity? - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Rectangle-576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Rectangle-576.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Phil-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Phil-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Rectangle-576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Rectangle-576.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/HYVA-Case-1-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/HYVA-Case-1-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/3-Desktop-Angle@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/3-Desktop-Angle-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Phil-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Phil-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Rectangle-576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Rectangle-576.png"
+    ]
+  ]
+}

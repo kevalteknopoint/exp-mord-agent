@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-marketers-can-harness-the-power-of-tiktok/",
+  "path": "dept/en-au/insight/how-marketers-can-harness-the-power-of-tiktok",
+  "timestamp": "2026-10-09T23:02:27.662Z",
+  "title": "How marketers can harness the power of Tiktok - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Tiktokisierung_Woman-in-front-of-smartphone.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Tiktokisierung_Woman-in-front-of-smartphone.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Tiktokisierung_Woman-in-front-of-smartphone.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Tiktokisierung_Woman-in-front-of-smartphone.jpeg"
+    ]
+  ]
+}

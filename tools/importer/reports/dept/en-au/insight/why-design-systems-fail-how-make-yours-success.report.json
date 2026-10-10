@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/why-design-systems-fail-how-make-yours-success/",
+  "path": "dept/en-au/insight/why-design-systems-fail-how-make-yours-success",
+  "timestamp": "2026-10-09T13:21:36.440Z",
+  "title": "Why design systems fail, and how to make yours a success - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "highlighted-item-listing",
+    "form-page"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/desgin-system.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/desgin-system.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/jon-sukarangsan-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/jon-sukarangsan-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/desgin-system.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/desgin-system.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/design-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/design-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/desgin-system.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/desgin-system.jpg"
+    ]
+  ]
+}

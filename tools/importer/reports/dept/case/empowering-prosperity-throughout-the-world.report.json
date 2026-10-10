@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/empowering-prosperity-throughout-the-world/",
+  "path": "dept/case/empowering-prosperity-throughout-the-world",
+  "timestamp": "2026-10-09T10:00:36.773Z",
+  "title": "Empowering prosperity throughout the world - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/mars-sector-6-IgUR1iX0mqM-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/mars-sector-6-IgUR1iX0mqM-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/schipol-airport.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/schipol-airport.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1221887249-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1221887249-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg"
+    ]
+  ]
+}

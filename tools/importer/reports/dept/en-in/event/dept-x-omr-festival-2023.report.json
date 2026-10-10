@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/dept-x-omr-festival-2023/",
+  "path": "dept/en-in/event/dept-x-omr-festival-2023",
+  "timestamp": "2026-10-09T15:52:12.485Z",
+  "title": "DEPT® x OMR Festival 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/OMR_Event-LP-header-1440x588-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/OMR_Event-LP-header-1440x588-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/OMR_Event-LP-header-1440x588-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/OMR_Event-LP-header-1440x588-2.jpg"
+    ]
+  ]
+}

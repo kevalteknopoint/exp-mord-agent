@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/el-ciclo-cringe-de-la-viralidad-y-como-evitarlo/",
+  "path": "dept/latam/insight/el-ciclo-cringe-de-la-viralidad-y-como-evitarlo",
+  "timestamp": "2026-10-09T23:26:16.342Z",
+  "title": "El ciclo cringe de la viralidad (y cómo evitarlo) - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "assets-and-copy",
+    "video",
+    "statement-v2",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "media-with-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Social-media-trends-and-culture-Web-16_9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Social-media-trends-and-culture-Web-16_9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/doordash-tweets.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/doordash-tweets.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/RyanAirPost.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/RyanAirPost.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/AirzonaPost.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/AirzonaPost.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Social-media-trends-and-culture-Web-16_9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Social-media-trends-and-culture-Web-16_9.jpg"
+    ]
+  ]
+}

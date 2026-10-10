@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-remove-bias-from-your-ai-generated-content/",
+  "path": "dept/insight/how-to-remove-bias-from-your-ai-generated-content",
+  "timestamp": "2026-10-09T22:17:34.870Z",
+  "title": "How to prevent bias in your AI-generated content - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Bias-in-ai-copywriting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Bias-in-ai-copywriting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/michelle-den-elzen-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/michelle-den-elzen-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/chatgpt-bias-doctor-example-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/chatgpt-bias-doctor-example-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/chatgpt-bias-queen-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/chatgpt-bias-queen-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/midjourney-examples-lawyers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/midjourney-examples-lawyers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/missjourney-example0lawyer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/missjourney-example0lawyer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AEAI-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT-AI-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AI-impact-creative-growth-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AI-impact-creative-growth-engineering.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/accessibility-concept-e1677592301956.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/accessibility-concept-e1677592301956.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Bias-in-ai-copywriting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Bias-in-ai-copywriting.jpg"
+    ]
+  ]
+}

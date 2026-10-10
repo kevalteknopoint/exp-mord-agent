@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/driving-sustainability-with-data-visualization-2/",
+  "path": "dept/case/driving-sustainability-with-data-visualization-2",
+  "timestamp": "2026-10-09T10:46:33.495Z",
+  "title": "NREL: Driving sustainability with data visualization - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/windmills.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/windmills.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/energy-consumption-data-nrel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/energy-consumption-data-nrel.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/nrel-intelligent-campus-screens.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/nrel-intelligent-campus-screens.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Insights.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Insights.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/virgin-galactic-insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/virgin-galactic-insight.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/hvac-controls-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/hvac-controls-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/energy-consumption-data-nrel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/energy-consumption-data-nrel.png"
+    ]
+  ]
+}

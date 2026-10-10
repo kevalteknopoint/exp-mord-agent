@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/online-gaming-in-the-real-world-with-nerf-toys-2/",
+  "path": "dept/en-nl/case/online-gaming-in-the-real-world-with-nerf-toys-2",
+  "timestamp": "2026-10-09T17:11:23.639Z",
+  "title": "Online gaming in the real world with Nerf - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/nerf-header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/nerf-header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/nerf-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/nerf-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/magasin-case-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/magasin-case-visual-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/nerf-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/nerf-image.png"
+    ]
+  ]
+}

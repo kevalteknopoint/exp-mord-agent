@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/three-key-takeaways-for-the-future-of-growth-marketing/",
+  "path": "dept/insight/three-key-takeaways-for-the-future-of-growth-marketing",
+  "timestamp": "2026-10-09T22:09:44.840Z",
+  "title": "Three key takeaways for the future of growth marketing - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Featured-Image-Top-5-Strategies-for-SEO-Growth-in-2022-1200x628-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Featured-Image-Top-5-Strategies-for-SEO-Growth-in-2022-1200x628-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Featured-Image-Top-5-Strategies-for-SEO-Growth-in-2022-1200x628-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Featured-Image-Top-5-Strategies-for-SEO-Growth-in-2022-1200x628-1.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/adopting-an-omnichannel-strategy-for-jysk/",
+  "path": "dept/en-dk/case/adopting-an-omnichannel-strategy-for-jysk",
+  "timestamp": "2026-10-09T13:51:26.539Z",
+  "title": "Adopting an omnichannel strategy for JYSK - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/JYSK_header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/JYSK_header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/JYSK_table.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/JYSK_table.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/JYSK_living_room.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/JYSK_living_room.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Which-B2C-Commerce-Platform-is-right-for-your-Business1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Which-B2C-Commerce-Platform-is-right-for-your-Business1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/artboard-5a.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/artboard-5a.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/artboard-5a.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/artboard-5a.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/JYSK_header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/JYSK_header.jpg"
+    ]
+  ]
+}

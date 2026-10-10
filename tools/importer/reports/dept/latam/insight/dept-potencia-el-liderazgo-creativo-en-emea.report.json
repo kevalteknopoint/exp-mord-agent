@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-potencia-el-liderazgo-creativo-en-emea/",
+  "path": "dept/latam/insight/dept-potencia-el-liderazgo-creativo-en-emea",
+  "timestamp": "2026-10-09T23:28:01.868Z",
+  "title": "DEPT® potencia el liderazgo creativo en EMEA - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "case-quote",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Rod-Henriques_Web_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Rod-Henriques_Web_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/LovieAward_Insight_1000x1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/LovieAward_Insight_1000x1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Mammut-Website-asset-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Mammut-Website-asset-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Trends-2025_Linkedin_event-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Trends-2025_Linkedin_event-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Rod-Henriques_Web_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Rod-Henriques_Web_1920x1080.png"
+    ]
+  ]
+}

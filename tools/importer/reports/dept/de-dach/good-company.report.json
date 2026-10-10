@@ -1,0 +1,79 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/good-company/",
+  "path": "dept/de-dach/good-company",
+  "timestamp": "2026-10-09T18:10:15.247Z",
+  "title": "The Good Company - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "landing-page-title",
+    "statement",
+    "panel-with-image-and-rich-text",
+    "two-cards-and-content",
+    "title-and-content",
+    "image",
+    "fifty-fifty-image-block",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Good-Company-Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Good-Company-Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Good-Company-B-Corp.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Good-Company-B-Corp.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Impact-report-23-thumbnail.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Impact-report-23-thumbnail.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Impact-Report-2022_Alternate-Featured-Image_1000-x-1201.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Impact-Report-2022_Alternate-Featured-Image_1000-x-1201.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/DEPT-Agency-Impact-Report-2021-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/DEPT-Agency-Impact-Report-2021-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Impact-report-featured.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Impact-report-featured.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Good-Company-Values.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Good-Company-Values.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Good-Company-left.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Good-Company-left.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Good-Company-right.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Good-Company-right.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Insight-Image-BCORP-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Insight-Image-BCORP-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Global-DEI-Leader-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Global-DEI-Leader-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Anthem-Awards-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Anthem-Awards-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-87.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-87.png"
+    ]
+  ]
+}

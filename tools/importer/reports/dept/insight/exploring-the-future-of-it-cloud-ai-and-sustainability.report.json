@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/exploring-the-future-of-it-cloud-ai-and-sustainability/",
+  "path": "dept/insight/exploring-the-future-of-it-cloud-ai-and-sustainability",
+  "timestamp": "2026-10-09T20:30:39.560Z",
+  "title": "Exploring the future of IT: Cloud, AI, and sustainability - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Smarter-IT-recap-Featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Smarter-IT-recap-Featured-image-500x344-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wesley-Niels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wesley-Niels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Smarter-IT-recap-Featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Smarter-IT-recap-Featured-image-500x344-1.jpg"
+    ]
+  ]
+}

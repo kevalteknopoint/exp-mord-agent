@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insights/",
+  "path": "dept/en-nl/insights",
+  "timestamp": "2026-10-09T23:54:56.910Z",
+  "title": "Insights, Downloads & Events by DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "content-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Trends2026_HeroImage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Trends2026_HeroImage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Lovie-AOTY-2025-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Lovie-AOTY-2025-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Bol-kerst-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Bol-kerst-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-LP-phrase-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-LP-phrase-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/DFC-Media-All-Markets-Orange-Image-Only-Website-Hero-Banner-1920x1080-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/DFC-Media-All-Markets-Orange-Image-Only-Website-Hero-Banner-1920x1080-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/DFC-Creator-Website-Hero-Banner-Orange-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/DFC-Creator-Website-Hero-Banner-Orange-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Stokke-Insight-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Stokke-Insight-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Cannes-Lions-2026-Adformatie-2-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Cannes-Lions-2026-Adformatie-2-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/adobe-summit-preso2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/adobe-summit-preso2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/moon-creative-automatiom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/moon-creative-automatiom.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/dept-trends-2024/",
+  "path": "dept/en-dk/event/dept-trends-2024",
+  "timestamp": "2026-10-09T23:10:27.241Z",
+  "title": "DEPT® 2024 Trends Forecast: Connectedness, Creativity & Culture - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Event-header-4-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Event-header-4-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Event-header-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Event-header-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Tobias_17-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Tobias_17-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Isabel-Perry.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Isabel-Perry.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Alexis-Stepanek.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Alexis-Stepanek.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/bob-briski.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/bob-briski.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.20.39.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.20.39.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Sandra-Masiliso.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Sandra-Masiliso.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Chris-Brook.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Chris-Brook.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/joey-egger.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/joey-egger.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/charlotte-scorer-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/charlotte-scorer-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/nikki-melless.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/nikki-melless.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Main-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Main-2.jpg"
+    ]
+  ]
+}

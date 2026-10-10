@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/storytelling-at-the-heart-of-the-user-journey/",
+  "path": "dept/en-dk/case/storytelling-at-the-heart-of-the-user-journey",
+  "timestamp": "2026-10-09T14:46:11.940Z",
+  "title": "Storytelling at the heart of the user journey - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Visual-Light-172.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Visual-Light-172.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Fullscreen-UI-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Fullscreen-UI-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/50-50-15.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/50-50-15.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Fullscreen-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Fullscreen-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rasmus-Keller.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rasmus-Keller.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/D-Hero-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/D-Hero-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Coravin-Insight-image-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Coravin-Insight-image-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/SpriteMarvel_Dogstudio2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/SpriteMarvel_Dogstudio2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hero-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hero-1024x576.png"
+    ]
+  ]
+}

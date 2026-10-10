@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/commerce-improvements-to-maximise-international-potential/",
+  "path": "dept/en-au/case/commerce-improvements-to-maximise-international-potential",
+  "timestamp": "2026-10-09T12:42:16.441Z",
+  "title": "Commerce to maximise international growth - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1262451395-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1262451395-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-855115074-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-855115074-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Fragrance2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Fragrance2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/HDFC-LTD-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/HDFC-LTD-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/cruise_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/cruise_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Gumtree.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Gumtree.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1262451395-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1262451395-scaled.jpg"
+    ]
+  ]
+}

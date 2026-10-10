@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/getting-closer-to-south-africans-stomachs-with-a-relatable-character/",
+  "path": "dept/en-in/case/getting-closer-to-south-africans-stomachs-with-a-relatable-character",
+  "timestamp": "2026-10-09T15:54:46.354Z",
+  "title": "Getting closer to South Africans stomachs with a relatable character - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/UBER-EATS-Gogo-Knows-best_30_ONLINE_v1.01_00_24_02.Still002.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/UBER-EATS-Gogo-Knows-best_30_ONLINE_v1.01_00_24_02.Still002.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/UBEREATS-ZACASE.002-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/UBEREATS-ZACASE.002-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Joa%CC%83o-Ina%CC%81cio.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Joa-o-Ina-cio.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1269732224-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1269732224-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/UBER-EATS-Gogo-Knows-best_30_ONLINE_v1.01_00_24_02.Still002-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/UBER-EATS-Gogo-Knows-best_30_ONLINE_v1.01_00_24_02.Still002-1024x576.png"
+    ]
+  ]
+}

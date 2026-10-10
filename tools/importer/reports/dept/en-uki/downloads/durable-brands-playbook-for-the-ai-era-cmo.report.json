@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/durable-brands-playbook-for-the-ai-era-cmo/",
+  "path": "dept/en-uki/downloads/durable-brands-playbook-for-the-ai-era-cmo",
+  "timestamp": "2026-10-09T19:31:09.138Z",
+  "title": "Durable brands playbook: for the AI-era CMO - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-intro",
+    "assets-and-copy",
+    "case-quote",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Building-durable-brands-playbook.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Building-durable-brands-playbook.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/thumbs-up-on-wall-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/thumbs-up-on-wall-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Building-durable-brands-playbook.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Building-durable-brands-playbook.png"
+    ]
+  ]
+}

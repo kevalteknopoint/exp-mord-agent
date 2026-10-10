@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/ki-texte-als-seo-hack/",
+  "path": "dept/de-dach/insight/ki-texte-als-seo-hack",
+  "timestamp": "2026-10-09T12:12:19.980Z",
+  "title": "KI-Texte als SEO-Hack? - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/AIs-impact-across-creative-growth-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/AIs-impact-across-creative-growth-engineering.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Iso-Feldmann-Dept-e1627480484204-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Iso-Feldmann-Dept-e1627480484204-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/AIs-impact-across-creative-growth-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/AIs-impact-across-creative-growth-engineering.jpg"
+    ]
+  ]
+}

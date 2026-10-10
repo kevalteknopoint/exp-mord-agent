@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/seo-erfolg-im-tourismus-mit-customer-journey-approach/",
+  "path": "dept/de-dach/case/seo-erfolg-im-tourismus-mit-customer-journey-approach",
+  "timestamp": "2026-10-09T11:20:07.355Z",
+  "title": "SEO-Erfolg im Tourismus mit Customer Journey Approach - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Screenshot-2020-08-25-at-13.45.22.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Screenshot-2020-08-25-at-13.45.22.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Screenshot-2020-08-14-at-16.00.59.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Screenshot-2020-08-14-at-16.00.59.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Iso-Feldmann-Dept-e1627480484204.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Iso-Feldmann-Dept-e1627480484204.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Insights.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Insights.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Simple_Feast_DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Simple_Feast_DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Screenshot-2020-08-25-at-13.45.22.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Screenshot-2020-08-25-at-13.45.22.png"
+    ]
+  ]
+}

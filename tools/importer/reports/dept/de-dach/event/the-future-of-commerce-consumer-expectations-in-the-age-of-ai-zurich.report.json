@@ -1,0 +1,82 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/the-future-of-commerce-consumer-expectations-in-the-age-of-ai-zurich/",
+  "path": "dept/de-dach/event/the-future-of-commerce-consumer-expectations-in-the-age-of-ai-zurich",
+  "timestamp": "2026-10-10T00:23:25.639Z",
+  "title": "The future of commerce – Consumer expectations in the age of AI - DEPT® x Shopify - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "event-content-v2",
+    "assets-and-copy",
+    "wrapper",
+    "event-people",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/COMMERCE-Zurich-EventCover-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/COMMERCE-Zurich-EventCover-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Susanne-Wehr.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Susanne-Wehr.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/20201022KarenGutermann001-1-e1756296232142.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/20201022KarenGutermann001-1-e1756296232142.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Yann-Wanner-Dept-1-e1756290255643.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Yann-Wanner-Dept-1-e1756290255643.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Elodie-Kemble-e1756290907397.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Elodie-Kemble-e1756290907397.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/05-verena-sandbote-e1627480031616.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/05-verena-sandbote-e1627480031616.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Adrian-Steiner-Shopify.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Adrian-Steiner-Shopify.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Wieger-van-Laer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Wieger-van-Laer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Sebastian-Pimiento-Hernandez-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Sebastian-Pimiento-Hernandez-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Experience-path.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Experience-path.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Discovery-click.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Discovery-click.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/COMMERCE-Zurich-EventCover-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/COMMERCE-Zurich-EventCover-1920x1080-1.png"
+    ]
+  ]
+}

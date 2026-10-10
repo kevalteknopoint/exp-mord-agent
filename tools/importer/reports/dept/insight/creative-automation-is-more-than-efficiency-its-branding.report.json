@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/creative-automation-is-more-than-efficiency-its-branding/",
+  "path": "dept/insight/creative-automation-is-more-than-efficiency-its-branding",
+  "timestamp": "2026-10-09T20:50:49.804Z",
+  "title": "Creative automation is more than efficiency - it’s branding  - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Creative-automation-is-more-than-efficiency.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Creative-automation-is-more-than-efficiency.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Annika-Timmer-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Annika-Timmer-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/just-eat-takeaway-personalized.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/just-eat-takeaway-personalized.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/moon-creative-automatiom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/moon-creative-automatiom.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Scaling-asset-creation-with-creative-automation-1200x1000-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Scaling-asset-creation-with-creative-automation-1200x1000-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Creative-automation-is-more-than-efficiency.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Creative-automation-is-more-than-efficiency.jpg"
+    ]
+  ]
+}

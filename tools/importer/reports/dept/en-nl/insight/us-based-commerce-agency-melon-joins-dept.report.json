@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/us-based-commerce-agency-melon-joins-dept/",
+  "path": "dept/en-nl/insight/us-based-commerce-agency-melon-joins-dept",
+  "timestamp": "2026-10-09T17:58:48.234Z",
+  "title": "US-based Commerce Agency Melon Joins DEPT® - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/MELONDEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/MELONDEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/lovies-2022-featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/lovies-2022-featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-1000X1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--1000X1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Events-Header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Events-Header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/MELONDEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/MELONDEPT-.png"
+    ]
+  ]
+}

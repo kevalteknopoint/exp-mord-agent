@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/dept-performance-marketing-world-unlocked/",
+  "path": "dept/en-uki/event/dept-performance-marketing-world-unlocked",
+  "timestamp": "2026-10-09T19:47:05.345Z",
+  "title": "PMW Unlocked 2025 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "event-people",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/PMW-2025-Website-1440x588-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/PMW-2025-Website-1440x588-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Ali-Mcclintock-Dept-3-2-e1739455702103.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Ali-Mcclintock-Dept-3-2-e1739455702103.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Phoebe-Ord-e1740385371758.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Phoebe-Ord-e1740385371758.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Gus-Maclay.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Gus-Maclay.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Charlotte-Scorer.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Charlotte-Scorer.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/5-AI-predictions-2025.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/5-AI-predictions-2025.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/TikTok-ban-insight-image-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/TikTok-ban-insight-image-1200x670-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/800kb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/800kb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/PMW-2025-Website-1440x588-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/PMW-2025-Website-1440x588-1-1.png"
+    ]
+  ]
+}

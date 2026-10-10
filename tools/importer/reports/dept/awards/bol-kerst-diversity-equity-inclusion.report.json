@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/bol-kerst-diversity-equity-inclusion/",
+  "path": "dept/awards/bol-kerst-diversity-equity-inclusion",
+  "timestamp": "2026-10-09T10:06:02.885Z",
+  "title": "Bol Kerst - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "video",
+    "title-and-content",
+    "image",
+    "image",
+    "image",
+    "image",
+    "title-and-content",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/overzichttweets.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/overzichttweets.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/bol-kerst-girl-with-autism.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/bol-kerst-girl-with-autism.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/quotes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/quotes.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/bolkerst_results-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/bolkerst_results-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/grandparents-looking-out-of-window-christmas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/grandparents-looking-out-of-window-christmas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/bol-kerst-girl-with-autism.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/bol-kerst-girl-with-autism.jpeg"
+    ]
+  ]
+}

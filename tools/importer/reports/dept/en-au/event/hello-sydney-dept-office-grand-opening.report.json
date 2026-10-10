@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/hello-sydney-dept-office-grand-opening/",
+  "path": "dept/en-au/event/hello-sydney-dept-office-grand-opening",
+  "timestamp": "2026-10-09T11:55:10.646Z",
+  "title": "Hello, Sydney - DEPT® Office Grand Opening - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DEPT%C2%AE-Sydney-Office-Opening-Event-Header-e1687197737896.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DEPT--Sydney-Office-Opening-Event-Header-e1687197737896.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DEPT%C2%AE-Sydney-Office-Opening-Event-Header-e1687197737896.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DEPT--Sydney-Office-Opening-Event-Header-e1687197737896.jpg"
+    ]
+  ]
+}

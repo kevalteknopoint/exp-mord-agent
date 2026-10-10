@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/vote-to-see-dept-at-sxsw-2025/",
+  "path": "dept/en-in/insight/vote-to-see-dept-at-sxsw-2025",
+  "timestamp": "2026-10-09T17:02:06.785Z",
+  "title": "Vote to see DEPT® at SXSW 2025 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/SXSW25-Vote-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/SXSW25-Vote-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/SXSW25-Vote-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/SXSW25-Vote-featured.jpg"
+    ]
+  ]
+}

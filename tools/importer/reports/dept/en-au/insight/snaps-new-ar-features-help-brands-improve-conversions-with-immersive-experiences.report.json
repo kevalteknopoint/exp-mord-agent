@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/snaps-new-ar-features-help-brands-improve-conversions-with-immersive-experiences/",
+  "path": "dept/en-au/insight/snaps-new-ar-features-help-brands-improve-conversions-with-immersive-experiences",
+  "timestamp": "2026-10-09T12:48:15.339Z",
+  "title": "Snap’s new AR features help brands improve conversions with immersive experiences - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "quote",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/snap-london-lego.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/snap-london-lego.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Lauren_Chester-e1680082116275-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Lauren_Chester-e1680082116275-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/snap-sneaker-ar-2.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/snap-sneaker-ar-2.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/snap-london-lego.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/snap-london-lego.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/augmented-reality.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/augmented-reality.jpg"
+    ]
+  ]
+}

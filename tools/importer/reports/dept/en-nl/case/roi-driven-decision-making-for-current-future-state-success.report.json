@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/roi-driven-decision-making-for-current-future-state-success/",
+  "path": "dept/en-nl/case/roi-driven-decision-making-for-current-future-state-success",
+  "timestamp": "2026-10-09T17:23:22.239Z",
+  "title": "ROI-driven decision-making for current & future state success - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Joann-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Joann-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Joann1-1024x576-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Joann1-1024x576-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/joann-usability-clothes-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/joann-usability-clothes-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/joann-performance-blazer-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/joann-performance-blazer-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/joann-bugs-chair-jumper.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/joann-bugs-chair-jumper.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/joann-bugs-green-chiffon-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/joann-bugs-green-chiffon-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Joann-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Joann-1.png"
+    ]
+  ]
+}

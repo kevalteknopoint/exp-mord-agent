@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/creative-automation-is-more-than-efficiency/",
+  "path": "dept/en-nl/insight/creative-automation-is-more-than-efficiency",
+  "timestamp": "2026-10-09T17:27:15.661Z",
+  "title": "Creative automation is more than efficiency - it’s branding  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Creative-automation-is-more-than-efficiency.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Creative-automation-is-more-than-efficiency.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/just-eat-takeaway-personalized.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/just-eat-takeaway-personalized.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/moon-creative-automatiom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/moon-creative-automatiom.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Scaling-asset-creation-with-creative-automation-1200x1000-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Scaling-asset-creation-with-creative-automation-1200x1000-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Creative-automation-is-more-than-efficiency.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Creative-automation-is-more-than-efficiency.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/helion-wins-new-customers-with-discovery-ads/",
+  "path": "dept/en-uki/case/helion-wins-new-customers-with-discovery-ads",
+  "timestamp": "2026-10-09T20:14:49.286Z",
+  "title": "Helion wins new customers with Discovery Ads - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Helion-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Helion-Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Image-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Image-Full-bleed-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Template-Full-screen-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Template-Full-screen-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/migrosbank-keyvisual-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/migrosbank-keyvisual-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Helion-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Helion-Header.jpeg"
+    ]
+  ]
+}

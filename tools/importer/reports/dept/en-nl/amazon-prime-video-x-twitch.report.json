@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/amazon-prime-video-x-twitch/",
+  "path": "dept/en-nl/amazon-prime-video-x-twitch",
+  "timestamp": "2026-10-09T23:40:46.359Z",
+  "title": "Amazon Prime Video x Twitch - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "post-header",
+    "jumbotron",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "article-related-posts"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/intro.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/intro.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/image51.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/image51.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/streamers-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/streamers-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/poster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/poster.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/poster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/poster.jpg"
+    ]
+  ]
+}

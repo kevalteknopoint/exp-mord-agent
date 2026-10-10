@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-manage-embrace-risk-in-product-development/",
+  "path": "dept/insight/how-to-manage-embrace-risk-in-product-development",
+  "timestamp": "2026-10-09T22:14:48.053Z",
+  "title": "How to manage & embrace risk in product development - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "form-page"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/product-risk-scaled.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/product-risk-scaled.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/jo-szczepanska-5aiRb5f464A-unsplash-1-1024x510.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/jo-szczepanska-5aiRb5f464A-unsplash-1-1024x510.jpg"
+    ]
+  ]
+}

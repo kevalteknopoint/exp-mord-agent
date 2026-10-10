@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/turning-up-the-heat-on-amazon-ads/",
+  "path": "dept/en-uki/case/turning-up-the-heat-on-amazon-ads",
+  "timestamp": "2026-10-09T19:19:01.040Z",
+  "title": "Frigidaire Amazon strategy - Turning up the heat on Amazon Ads - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Bedroom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Bedroom.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Living-Room.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Living-Room.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Bedroom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Bedroom.jpeg"
+    ]
+  ]
+}

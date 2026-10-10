@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/nikon-putting-the-digital-customer-experience-in-focus/",
+  "path": "dept/awards/nikon-putting-the-digital-customer-experience-in-focus",
+  "timestamp": "2026-10-09T10:30:21.886Z",
+  "title": "NIKON - Putting the digital customer experience in focus - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "video",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Nikon-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Nikon-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/3-Nikon-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/3-Nikon-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/4-Nikon-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/4-Nikon-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/5-Nikon-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/5-Nikon-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/7-Nikon-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/7-Nikon-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/8-Nikon-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/8-Nikon-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/8-Nikon-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/8-Nikon-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6-Nikon-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6-Nikon-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6-Nikon-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6-Nikon-.png"
+    ]
+  ]
+}

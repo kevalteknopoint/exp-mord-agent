@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/strategizing-building-the-front-end-of-a-new-app/",
+  "path": "dept/case/strategizing-building-the-front-end-of-a-new-app",
+  "timestamp": "2026-10-09T11:00:15.804Z",
+  "title": "Featured work: Front-end development for Helm Health - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/helm-health-desktop-app.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/helm-health-desktop-app.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/helm-health-mobile-app-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/helm-health-mobile-app-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/helm-health-front-end-architecure.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/helm-health-front-end-architecure.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Kali-Healthcare-38-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Kali-Healthcare-38-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Audley-city-view.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Audley-city-view.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image-Full-bleed-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image-Full-bleed-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/healthcare.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/healthcare.jpg"
+    ]
+  ]
+}

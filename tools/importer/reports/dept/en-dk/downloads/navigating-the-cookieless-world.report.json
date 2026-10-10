@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/downloads/navigating-the-cookieless-world/",
+  "path": "dept/en-dk/downloads/navigating-the-cookieless-world",
+  "timestamp": "2026-10-09T13:43:51.162Z",
+  "title": "Navigating the cookieless world - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-dk",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/unique-showrooms-for-each-collection/",
+  "path": "dept/en-uki/case/unique-showrooms-for-each-collection",
+  "timestamp": "2026-10-09T19:20:10.341Z",
+  "title": "Unique showrooms for each collection - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/muuto-living-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/muuto-living-area-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ]
+  ]
+}

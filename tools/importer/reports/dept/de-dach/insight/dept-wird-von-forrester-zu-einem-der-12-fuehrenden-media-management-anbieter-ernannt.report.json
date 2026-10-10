@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/dept-wird-von-forrester-zu-einem-der-12-fuehrenden-media-management-anbieter-ernannt/",
+  "path": "dept/de-dach/insight/dept-wird-von-forrester-zu-einem-der-12-fuehrenden-media-management-anbieter-ernannt",
+  "timestamp": "2026-10-09T11:53:09.262Z",
+  "title": "DEPT® wird von Forrester zu einem der 12 führenden Media Management Anbieter ernannt - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "cta-text",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "statement"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/forrester-wave-media-services-2024-dept.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/forrester-wave-media-services-2024-dept.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png"
+    ]
+  ]
+}

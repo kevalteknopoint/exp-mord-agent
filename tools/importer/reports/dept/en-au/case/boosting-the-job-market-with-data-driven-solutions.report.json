@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/boosting-the-job-market-with-data-driven-solutions/",
+  "path": "dept/en-au/case/boosting-the-job-market-with-data-driven-solutions",
+  "timestamp": "2026-10-09T12:31:01.759Z",
+  "title": "Boosting the job market with data-driven solutions - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-1a.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-1a.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-1181590443-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-1181590443-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-1294958620.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-1294958620.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nivea_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nivea_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/un-update-sobre-nuestra-mision-goodcompany/",
+  "path": "dept/latam/insight/un-update-sobre-nuestra-mision-goodcompany",
+  "timestamp": "2026-10-09T22:23:16.841Z",
+  "title": "Un nuevo reporte de impacto en nuestra misión por ser una #goodcompany - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/DEPT-Agency-Impact-Report-2021-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/DEPT-Agency-Impact-Report-2021-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/DEPT-Agency-Impact-Report-2021-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/DEPT-Agency-Impact-Report-2021-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/DEPT-Agency-Impact-Report-2021-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/DEPT-Agency-Impact-Report-2021-scaled.jpg"
+    ]
+  ]
+}

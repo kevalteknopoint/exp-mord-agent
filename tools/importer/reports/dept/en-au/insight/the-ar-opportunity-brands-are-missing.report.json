@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/the-ar-opportunity-brands-are-missing/",
+  "path": "dept/en-au/insight/the-ar-opportunity-brands-are-missing",
+  "timestamp": "2026-10-09T12:55:15.440Z",
+  "title": "The AR opportunity brands are missing  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR-opportunity-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR-opportunity-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/claire-shalbrack-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/claire-shalbrack-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR-Service-Page-Mockup-NEW.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR-Service-Page-Mockup-NEW.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_Office-DUB-24.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_Office-DUB-24.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/woman-cool-glasses-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/woman-cool-glasses-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/snap-london-lego.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/snap-london-lego.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/tokengated-ar-wearables-jacket.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/tokengated-ar-wearables-jacket.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/2Website-Insight-Image-The-Last-Of-Us-HBO-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/2Website-Insight-Image-The-Last-Of-Us-HBO-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AI-impact-creative-growth-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AI-impact-creative-growth-engineering.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR-opportunity-concept-Open-graph.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR-opportunity-concept-Open-graph.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/media/",
+  "path": "dept/en-in/service/media",
+  "timestamp": "2026-10-09T16:38:08.743Z",
+  "title": "Media - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DEPT_19Dec-003-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DEPT_19Dec-003-1.jpg"
+    ]
+  ]
+}

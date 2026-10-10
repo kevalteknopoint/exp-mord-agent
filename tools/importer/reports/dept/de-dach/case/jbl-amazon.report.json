@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/jbl-amazon/",
+  "path": "dept/de-dach/case/jbl-amazon",
+  "timestamp": "2026-10-09T11:05:53.235Z",
+  "title": "Von Übersättigung zur Optimierung mit Amazon Marketing Cloud - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/JBL-amazon-ads.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/JBL-amazon-ads.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/amazon-ads-for-ad-fatigue.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/amazon-ads-for-ad-fatigue.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ]
+  ]
+}

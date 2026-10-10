@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/case/a-google-search-marketing-strategy-for-twenty-countries/",
   "path": "dept/case/a-google-search-marketing-strategy-for-twenty-countries",
-  "timestamp": "2026-10-08T16:17:03.020Z",
+  "timestamp": "2026-10-09T09:49:55.796Z",
   "title": "A Google search marketing strategy for twenty countries - DEPT®",
   "template": "dept-case",
   "locale": "global",
@@ -17,9 +17,7 @@
     "assets-and-copy",
     "next-case"
   ],
-  "fallback": [
-    "case-intro-title"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
@@ -30,8 +28,8 @@
       "/content/dam/exp-mord-agent/dept/uploads/2021/06/93522.jpeg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",

@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/creative/dept-creative-automation/",
+  "path": "dept/en-au/service/creative/dept-creative-automation",
+  "timestamp": "2026-10-09T23:04:32.640Z",
+  "title": "Creative Automation | DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "main-page-header",
+    "jumbotron",
+    "panel-with-rich-text",
+    "video",
+    "panel-with-cards",
+    "client-panel",
+    "panel-with-cards",
+    "panel-with-rich-text",
+    "call-to-action",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Landingpage_V1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Landingpage_V1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Ancestry.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Ancestry.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Just-Eat.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Just-Eat.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Spotify.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Spotify.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Joanna-Trippett-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Joanna-Trippett-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Landingpage_V1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Landingpage_V1.png"
+    ]
+  ]
+}

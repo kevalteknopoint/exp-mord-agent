@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/mit-ebay-die-welt-erreichen/",
+  "path": "dept/de-dach/case/mit-ebay-die-welt-erreichen",
+  "timestamp": "2026-10-09T11:11:38.587Z",
+  "title": "Mit eBay die Welt erreichen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/ebay-creative-automation-1024x576.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/ebay-creative-automation-1024x576.jpg"
+    ]
+  ]
+}

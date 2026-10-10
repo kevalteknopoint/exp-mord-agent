@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/seamless-travel-planning-with-an-ai-powered-chatbot/",
+  "path": "dept/awards/seamless-travel-planning-with-an-ai-powered-chatbot",
+  "timestamp": "2026-10-09T10:36:00.439Z",
+  "title": "Switzerland Tourism - Seamless travel planning with an AI-powered chatbot - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Schweiz-case-image-_800kb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Schweiz-case-image-_800kb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Schweiz-case-image-_800kb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Schweiz-case-image-_800kb.jpg"
+    ]
+  ]
+}

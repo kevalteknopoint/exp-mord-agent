@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/amazon-unboxed-on-tour-duesseldorf/",
+  "path": "dept/de-dach/event/amazon-unboxed-on-tour-duesseldorf",
+  "timestamp": "2026-10-09T18:38:36.440Z",
+  "title": "Amazon unBoxed on Tour Düsseldorf - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "event-register",
+    "image-with-content-cards",
+    "cta-banner",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Amazon-Unboxed-Event-header-1440x588-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Amazon-Unboxed-Event-header-1440x588-1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Amazon-Unboxed-Event-header-1440x588-1-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Amazon-Unboxed-Event-header-1440x588-1-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Marieke-de-Jong.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Marieke-de-Jong.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Martin-Studemund-348891-detailpp.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Martin-Studemund-348891-detailpp.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Elina_Popova_3000_1024-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Elina_Popova_3000_1024-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Cornelius-Klblin-297437-detailpp.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Cornelius-Klblin-297437-detailpp.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Amazon-Unboxed-Event-header-1440x588-1-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Amazon-Unboxed-Event-header-1440x588-1-3.png"
+    ]
+  ]
+}

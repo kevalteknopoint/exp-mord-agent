@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/the-digital-transformation-of-a-b2b-giant/",
+  "path": "dept/en-nl/case/the-digital-transformation-of-a-b2b-giant",
+  "timestamp": "2026-10-09T17:28:01.840Z",
+  "title": "A formula to drive change - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "panel-with-cards",
+    "full-width-image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Element-featured-image-480x480-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Element-featured-image-480x480-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1002823828-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1002823828-1-scaled.jpg"
+    ]
+  ]
+}

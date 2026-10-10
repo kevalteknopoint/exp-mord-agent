@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/trust-agents-ist-jetzt-dept/",
+  "path": "dept/de-dach/trust-agents-ist-jetzt-dept",
+  "timestamp": "2026-10-09T22:54:24.142Z",
+  "title": "Trust Agents ist jetzt Dept - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "post-header",
+    "panel-with-rich-text",
+    "jumbotron",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept-2019-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept-2019-9.jpg"
+    ]
+  ]
+}

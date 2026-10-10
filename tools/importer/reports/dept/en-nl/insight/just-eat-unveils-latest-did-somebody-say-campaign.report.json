@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/just-eat-unveils-latest-did-somebody-say-campaign/",
+  "path": "dept/en-nl/insight/just-eat-unveils-latest-did-somebody-say-campaign",
+  "timestamp": "2026-10-09T18:30:28.340Z",
+  "title": "Just Eat unveils latest ‘Did somebody say…’ campaign - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ]
+  ]
+}

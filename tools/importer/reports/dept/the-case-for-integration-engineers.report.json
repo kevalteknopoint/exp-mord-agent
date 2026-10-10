@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/the-case-for-integration-engineers/",
+  "path": "dept/the-case-for-integration-engineers",
+  "timestamp": "2026-10-09T22:03:49.453Z",
+  "title": "The case for Integration Engineers - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/DeptFest-2021-AMS-69-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/DeptFest-2021-AMS-69-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/dept.jpg"
+    ]
+  ]
+}

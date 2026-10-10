@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/insight-and-grip-on-your-energy-use/",
+  "path": "dept/en-au/case/insight-and-grip-on-your-energy-use",
+  "timestamp": "2026-10-09T12:10:00.467Z",
+  "title": "Insight and grip on your energy use - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "image",
+    "intro-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "jumbotron",
+    "call-to-action",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-two-media",
+    "image",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Oxxio-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Oxxio-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Oxxio-case-half-width-3-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Oxxio-case-half-width-3-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Oxxio-case-half-width-2-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Oxxio-case-half-width-2-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Oxxio-2.-Chat_preview-1200x675-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Oxxio-2.-Chat_preview-1200x675-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Sander-Hendriks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Sander-Hendriks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/using-docusign.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/using-docusign.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Oxxio-1-e1530628250257.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Oxxio-1-e1530628250257.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/onlineshop-bestaetigt-die-liebe-zum-sport/",
+  "path": "dept/de-dach/case/onlineshop-bestaetigt-die-liebe-zum-sport",
+  "timestamp": "2026-10-09T11:14:42.040Z",
+  "title": "Onlineshop bestätigt die Liebe zum Sport - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/peakperformance_Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/peakperformance_Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/201811_MartinK_Portrait-2-e1627480286874.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/201811_MartinK_Portrait-2-e1627480286874.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/AEG-Oeko-Kombi-Waschtrockner-2-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/AEG-Oeko-Kombi-Waschtrockner-2-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/peakperformance_Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/peakperformance_Header.jpg"
+    ]
+  ]
+}

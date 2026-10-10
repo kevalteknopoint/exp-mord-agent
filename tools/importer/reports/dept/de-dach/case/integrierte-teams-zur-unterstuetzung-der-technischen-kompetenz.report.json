@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/integrierte-teams-zur-unterstuetzung-der-technischen-kompetenz/",
+  "path": "dept/de-dach/case/integrierte-teams-zur-unterstuetzung-der-technischen-kompetenz",
+  "timestamp": "2026-10-09T11:05:45.639Z",
+  "title": "Integrierte Teams zur Unterstützung der technischen Kompetenz - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-basketball.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-jacket.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-jacket.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/jacket-under-armour.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/jacket-under-armour.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-sandbox.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-sandbox.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/panasonic_HeaderNEU-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/panasonic_HeaderNEU-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-basketball.jpg"
+    ]
+  ]
+}

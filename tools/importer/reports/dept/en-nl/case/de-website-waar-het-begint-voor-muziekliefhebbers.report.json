@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/de-website-waar-het-begint-voor-muziekliefhebbers/",
+  "path": "dept/en-nl/case/de-website-waar-het-begint-voor-muziekliefhebbers",
+  "timestamp": "2026-10-09T18:03:19.440Z",
+  "title": "De website waar het begint voor muziekliefhebbers - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Mojo-overview-campaign-e1718006454334.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Mojo-overview-campaign-e1718006454334.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Aniek-de-Haan-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Aniek-de-Haan-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Piech-Thumbnail.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Piech-Thumbnail.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Mojo-overview-campaign-e1718006454334.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Mojo-overview-campaign-e1718006454334.png"
+    ]
+  ]
+}

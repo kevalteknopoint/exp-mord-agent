@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/service/growth/conversion/",
+  "path": "dept/en-uki/service/growth/conversion",
+  "timestamp": "2026-10-09T19:50:15.540Z",
+  "title": "Conversion - DEPT®",
+  "template": "dept-service",
+  "locale": "en-uki",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-abstract.jpg"
+    ]
+  ]
+}

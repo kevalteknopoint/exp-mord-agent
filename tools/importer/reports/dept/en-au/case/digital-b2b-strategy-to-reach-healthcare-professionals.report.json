@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/digital-b2b-strategy-to-reach-healthcare-professionals/",
+  "path": "dept/en-au/case/digital-b2b-strategy-to-reach-healthcare-professionals",
+  "timestamp": "2026-10-09T12:55:03.040Z",
+  "title": "Featured work: B2B digital marketing strategy for Medela - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/download-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/download-8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work2.jpg"
+    ]
+  ]
+}

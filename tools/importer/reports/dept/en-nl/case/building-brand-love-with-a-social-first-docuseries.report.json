@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/building-brand-love-with-a-social-first-docuseries/",
+  "path": "dept/en-nl/case/building-brand-love-with-a-social-first-docuseries",
+  "timestamp": "2026-10-09T17:51:18.741Z",
+  "title": "Building brand love with a social-first docuseries - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Yas-Bean.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Yas-Bean.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Home-of-the-hot-spots.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Home-of-the-hot-spots.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Sequence-Burger.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Sequence-Burger.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Philips-Hue.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Philips-Hue.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ]
+  ]
+}

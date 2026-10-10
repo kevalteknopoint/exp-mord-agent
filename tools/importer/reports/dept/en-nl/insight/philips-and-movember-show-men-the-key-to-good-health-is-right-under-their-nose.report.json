@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/philips-and-movember-show-men-the-key-to-good-health-is-right-under-their-nose/",
+  "path": "dept/en-nl/insight/philips-and-movember-show-men-the-key-to-good-health-is-right-under-their-nose",
+  "timestamp": "2026-10-09T18:46:04.941Z",
+  "title": "Philips and Movember show men the key to good health is right under their nose - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Dept_Philips_movember_Waiting_room.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Dept_Philips_movember_Waiting_room.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Dept_Philips_movember_Waiting_room.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Dept_Philips_movember_Waiting_room.jpeg"
+    ]
+  ]
+}

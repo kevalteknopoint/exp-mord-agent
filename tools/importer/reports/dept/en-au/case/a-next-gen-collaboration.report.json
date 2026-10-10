@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/a-next-gen-collaboration/",
+  "path": "dept/en-au/case/a-next-gen-collaboration",
+  "timestamp": "2026-10-09T12:17:59.641Z",
+  "title": "A next-gen collaboration - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries3-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries3-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mille-Munk-Sorensen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mille-Munk-Sorensen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/energy-utilities-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/energy-utilities-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ]
+  ]
+}

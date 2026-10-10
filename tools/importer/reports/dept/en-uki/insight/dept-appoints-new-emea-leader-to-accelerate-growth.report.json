@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-appoints-new-emea-leader-to-accelerate-growth/",
+  "path": "dept/en-uki/insight/dept-appoints-new-emea-leader-to-accelerate-growth",
+  "timestamp": "2026-10-09T19:13:55.340Z",
+  "title": "DEPT® appoints new EMEA leader to accelerate growth - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Landing_page.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Landing_page.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/The-One-Show-2023-featured-PT.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/The-One-Show-2023-featured-PT.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Landing_page.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Landing_page.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-obtiene-24-nominaciones-en-los-lovie-awards-2025/",
+  "path": "dept/latam/insight/dept-obtiene-24-nominaciones-en-los-lovie-awards-2025",
+  "timestamp": "2026-10-09T23:28:09.241Z",
+  "title": "IA, Creatividad, Impacto: DEPT® obtiene 24 nominaciones en los Lovie Awards 2025 - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Lovie-Awards-2025-DEPT.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Lovie-Awards-2025-DEPT.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Lovie-Awards-2025-DEPT.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Lovie-Awards-2025-DEPT.webp"
+    ]
+  ]
+}

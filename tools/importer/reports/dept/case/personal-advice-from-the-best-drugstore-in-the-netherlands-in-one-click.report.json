@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/personal-advice-from-the-best-drugstore-in-the-netherlands-in-one-click/",
+  "path": "dept/case/personal-advice-from-the-best-drugstore-in-the-netherlands-in-one-click",
+  "timestamp": "2026-10-09T10:40:24.040Z",
+  "title": "Personalised health and beauty advice in one click - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Header_Etos-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Header_Etos-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-98-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-98-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-96-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-96-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-69-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-69-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-100-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-100-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Danijel-Bonacic-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Danijel-Bonacic-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Insights.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Insights.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Header_Etos-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Header_Etos-scaled.jpeg"
+    ]
+  ]
+}

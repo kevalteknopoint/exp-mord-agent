@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/wie-uns-virtual-reality-reale-erfahrungen-noch-intensiver-erleben-lasst/",
+  "path": "dept/de-dach/insight/wie-uns-virtual-reality-reale-erfahrungen-noch-intensiver-erleben-lasst",
+  "timestamp": "2026-10-09T11:57:13.034Z",
+  "title": "Wie uns Virtual Reality reale Erfahrungen noch intensiver erleben lässt - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2021-12-02-um-12.50.11-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2021-12-02-um-12.50.11-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2021-12-02-um-12.50.11-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2021-12-02-um-12.50.11-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/pexels-cottonbro-8059109-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/pexels-cottonbro-8059109-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2021-12-02-um-12.50.11-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2021-12-02-um-12.50.11-2-1.png"
+    ]
+  ]
+}

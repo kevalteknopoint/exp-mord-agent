@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/ada-dash-x-commercetools/",
+  "path": "dept/en-dk/service/ada-dash-x-commercetools",
+  "timestamp": "2026-10-09T23:19:33.845Z",
+  "title": "ADA/DASH x commercetools - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "main-page-header",
+    "video",
+    "title-and-content",
+    "four-card-information-block",
+    "title-and-content",
+    "client-panel",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-item-listing",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Ecommerce-design-system.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Ecommerce-design-system.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Contentful.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Contentful.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Commercetools.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Commercetools.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/sanity.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/sanity.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/cloudinary.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/cloudinary.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/e-commerce-brands-get-started-tiktok1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/e-commerce-brands-get-started-tiktok1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Why-composable-ux-matters-your-cms-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Why-composable-ux-matters-your-cms-strategy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/group-of-friends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/group-of-friends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/DASH-x-commerce-tools-Image-13.58.15.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/DASH-x-commerce-tools-Image-13.58.15.png"
+    ]
+  ]
+}

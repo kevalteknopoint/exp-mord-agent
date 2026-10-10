@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/from-click-to-clean-building-a-digital-flagship-experience/",
+  "path": "dept/en-dk/case/from-click-to-clean-building-a-digital-flagship-experience",
+  "timestamp": "2026-10-09T14:21:15.141Z",
+  "title": "From click to clean: building a digital flagship experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "stats-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/bissell-billboard-1-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/bissell-billboard-1-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ]
+  ]
+}

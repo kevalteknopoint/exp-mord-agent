@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/drei-wichtige-martech-losungen-um-an-der-spitze-zu-bleiben/",
+  "path": "dept/de-dach/insight/drei-wichtige-martech-losungen-um-an-der-spitze-zu-bleiben",
+  "timestamp": "2026-10-09T12:00:31.747Z",
+  "title": "Drei wichtige MarTech-Lösungen - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/orange-arrows-stay-ahead-martech.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/orange-arrows-stay-ahead-martech.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg"
+    ]
+  ]
+}

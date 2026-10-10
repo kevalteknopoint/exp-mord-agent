@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/beyond-the-short-term-win-mastering-brandformance/",
+  "path": "dept/event/beyond-the-short-term-win-mastering-brandformance",
+  "timestamp": "2026-10-09T20:01:20.252Z",
+  "title": "Beyond the short term win: mastering brandformance - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/google-brandformance-event-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/google-brandformance-event-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/google-brandformance-event-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/google-brandformance-event-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/DoWoo-Lee-profile-picture-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/DoWoo-Lee-profile-picture-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Aprajita-Jain-profile-picture.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Aprajita-Jain-profile-picture.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nelleke-van-Grinsven.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nelleke-van-Grinsven.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Paris-Hilton-featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Paris-Hilton-featured-image-500x344-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Retail-brands-driving-digital-innovation-IRL-experiences.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Retail-brands-driving-digital-innovation-IRL-experiences.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Why-weird-works-Feature-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Why-weird-works-Feature-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/google-brandformance-event-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/google-brandformance-event-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/der-wahre-wert-von-display-anzeigen/",
+  "path": "dept/de-dach/case/der-wahre-wert-von-display-anzeigen",
+  "timestamp": "2026-10-09T11:33:27.577Z",
+  "title": "Der wahre Wert von Display Anzeigen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/pasted-image-0-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/pasted-image-0-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/sihlcity-keyvisual-thumb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/sihlcity-keyvisual-thumb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/pasted-image-0-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/pasted-image-0-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/containing-a-global-pandemic-and-transforming-public-health-digitally/",
+  "path": "dept/en-au/case/containing-a-global-pandemic-and-transforming-public-health-digitally",
+  "timestamp": "2026-10-09T12:43:51.003Z",
+  "title": "Containing a global pandemic through digital - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "statement",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1214593011-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1214593011-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-148-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-148-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-147-4-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-147-4-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-149-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-149-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Ashley_Streb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Ashley_Streb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-16-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-16-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/samsung_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/samsung_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ]
+  ]
+}

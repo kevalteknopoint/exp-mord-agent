@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/raising-the-bar-multiple-flavours-under-one-branding/",
+  "path": "dept/en-au/case/raising-the-bar-multiple-flavours-under-one-branding",
+  "timestamp": "2026-10-09T12:20:38.042Z",
+  "title": "CORNY BIG: Amazon branding and content strategy",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "panel-with-image-and-rich-text",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/schwartau-main-banner-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/schwartau-main-banner-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/pdp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/pdp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/schwartau-end-banner-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/schwartau-end-banner-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Natacha-Steyn-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Natacha-Steyn-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Sci-Girls-Project-Header-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Sci-Girls-Project-Header-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Beautiful-Homes-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Beautiful-Homes-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/download-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/download-8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Corny-Big-Case-Featured-Image-500x344-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Corny-Big-Case-Featured-Image-500x344-1.jpeg"
+    ]
+  ]
+}

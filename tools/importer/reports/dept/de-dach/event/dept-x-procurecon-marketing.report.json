@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-x-procurecon-marketing/",
+  "path": "dept/de-dach/event/dept-x-procurecon-marketing",
+  "timestamp": "2026-10-09T11:03:40.941Z",
+  "title": "ProcureCon Marketing - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "assets-and-copy",
+    "assets-and-copy",
+    "event-people"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/ProcureCon-2025-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/ProcureCon-2025-Website-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/adam-jewson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/adam-jewson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Ali-Mcclintock-Dept-3-2-e1739455702103.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Ali-Mcclintock-Dept-3-2-e1739455702103.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Alex-van-Wijhe-Dept-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Alex-van-Wijhe-Dept-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/ProcureCon-2025-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/ProcureCon-2025-Website-1920x1080-1.png"
+    ]
+  ]
+}

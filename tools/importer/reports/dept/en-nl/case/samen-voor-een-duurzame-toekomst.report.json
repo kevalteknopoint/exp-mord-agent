@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/samen-voor-een-duurzame-toekomst/",
+  "path": "dept/en-nl/case/samen-voor-een-duurzame-toekomst",
+  "timestamp": "2026-10-09T17:23:43.963Z",
+  "title": "Samen voor een duurzame toekomst - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Feline-de-Swart.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Feline-de-Swart.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/SECRID-DEPT%C2%AE-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/SECRID-DEPT--1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoe-mirror-13.21.18.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoe-mirror-13.21.18.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/1.jpg"
+    ]
+  ]
+}

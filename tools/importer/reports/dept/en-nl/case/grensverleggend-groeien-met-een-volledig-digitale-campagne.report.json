@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/grensverleggend-groeien-met-een-volledig-digitale-campagne/",
+  "path": "dept/en-nl/case/grensverleggend-groeien-met-een-volledig-digitale-campagne",
+  "timestamp": "2026-10-09T18:19:15.089Z",
+  "title": "Grensverleggend groeien met een volledig digitale campagne - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Avans_1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Avans_1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Avans_3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Avans_3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Avans_2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Avans_2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Maudy-Ballijns.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Maudy-Ballijns.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Arm_Hero_Static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Arm_Hero_Static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Figleaves-Rectangle-489.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Figleaves-Rectangle-489.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Avans_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Avans_1-1.png"
+    ]
+  ]
+}

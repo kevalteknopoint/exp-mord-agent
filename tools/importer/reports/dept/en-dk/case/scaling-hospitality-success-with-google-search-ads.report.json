@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/scaling-hospitality-success-with-google-search-ads/",
+  "path": "dept/en-dk/case/scaling-hospitality-success-with-google-search-ads",
+  "timestamp": "2026-10-09T14:44:17.583Z",
+  "title": "Scaling hospitality success with Google Search Ads - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-google-360.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-google-360.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/b-b-hotels-gmp.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/b-b-hotels-gmp.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-ad-strat.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-ad-strat.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-search-strat2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-search-strat2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Mammut1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Mammut1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-search-strat2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-search-strat2.jpg"
+    ]
+  ]
+}

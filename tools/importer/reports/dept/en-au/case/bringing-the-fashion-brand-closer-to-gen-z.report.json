@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/bringing-the-fashion-brand-closer-to-gen-z/",
+  "path": "dept/en-au/case/bringing-the-fashion-brand-closer-to-gen-z",
+  "timestamp": "2026-10-09T12:34:56.035Z",
+  "title": "Bringing the fashion brand closer to Gen Z - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-861247950-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-861247950-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ]
+  ]
+}

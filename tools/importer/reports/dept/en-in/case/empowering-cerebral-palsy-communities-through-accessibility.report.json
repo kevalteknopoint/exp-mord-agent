@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/empowering-cerebral-palsy-communities-through-accessibility/",
+  "path": "dept/en-in/case/empowering-cerebral-palsy-communities-through-accessibility",
+  "timestamp": "2026-10-09T15:47:54.236Z",
+  "title": "Empowering Cerebral Palsy communities through accessibility - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "title-and-content",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/my-cp-guide-6-1-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/my-cp-guide-6-1-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Read-More-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Read-More-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/my-cp-guide-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/my-cp-guide-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Copy-of-Copy-of-my-cp-guide-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Copy-of-Copy-of-my-cp-guide-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Jason_ODonnell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Jason_ODonnell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Gumtree.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Gumtree.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/hans.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/hans.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/my-cp-guide-6-1-1-e1700022786913.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/my-cp-guide-6-1-1-e1700022786913.jpg"
+    ]
+  ]
+}

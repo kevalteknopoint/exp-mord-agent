@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/reclaiming-the-streets-with-a-new-cultural-icon/",
+  "path": "dept/awards/reclaiming-the-streets-with-a-new-cultural-icon",
+  "timestamp": "2026-10-09T10:32:39.550Z",
+  "title": "Reclaiming the streets with a new cultural icon - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "awards-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Raleigh-PR-16x9-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Raleigh-PR-16x9-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Raleigh-insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Raleigh-insight.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Raleigh-ONE-Carousel-4x5-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Raleigh-ONE-Carousel-4x5-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Raleigh-ONE-Carousel-4x5-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Raleigh-ONE-Carousel-4x5-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Raleigh-ONE-Carousel-4x5-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Raleigh-ONE-Carousel-4x5-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Raleigh-ONE-Carousel-4x5-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Raleigh-ONE-Carousel-4x5-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Raleigh-PR-16x9-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Raleigh-PR-16x9-1.jpg"
+    ]
+  ]
+}

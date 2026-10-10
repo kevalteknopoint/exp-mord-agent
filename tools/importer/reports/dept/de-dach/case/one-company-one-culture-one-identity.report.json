@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/one-company-one-culture-one-identity/",
+  "path": "dept/de-dach/case/one-company-one-culture-one-identity",
+  "timestamp": "2026-10-09T11:14:19.163Z",
+  "title": "One company, one culture, one identity - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Wildkamp_NL_WRE_OP_LR35_015position3-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Wildkamp_NL_WRE_OP_LR35_015position3-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/kardex-ui.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/kardex-ui.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image03-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/2023_SUMMER_LANDQUART_STORES_I7A3774_HR_2-Kopie.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/2023_SUMMER_LANDQUART_STORES_I7A3774_HR_2-Kopie.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Suisa_Intro_01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Suisa_Intro_01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Hochbahn_Mood_Image4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Hochbahn_Mood_Image4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Kardex-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Kardex-Featured-Image.jpg"
+    ]
+  ]
+}

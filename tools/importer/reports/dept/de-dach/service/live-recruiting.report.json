@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/live-recruiting/",
+  "path": "dept/de-dach/service/live-recruiting",
+  "timestamp": "2026-10-09T11:27:49.717Z",
+  "title": "Live Recruiting - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "video",
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Dept_Stefan_Ripke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Dept_Stefan_Ripke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

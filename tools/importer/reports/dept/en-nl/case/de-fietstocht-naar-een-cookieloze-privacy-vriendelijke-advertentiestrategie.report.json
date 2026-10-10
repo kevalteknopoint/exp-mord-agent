@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/de-fietstocht-naar-een-cookieloze-privacy-vriendelijke-advertentiestrategie/",
+  "path": "dept/en-nl/case/de-fietstocht-naar-een-cookieloze-privacy-vriendelijke-advertentiestrategie",
+  "timestamp": "2026-10-09T18:03:00.635Z",
+  "title": "De (fiets)tocht naar een cookieloze, privacy-vriendelijke advertentiestrategie - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/gazelle-bikes-dept4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/gazelle-bikes-dept4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/gazelle-bikes-dept-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/gazelle-bikes-dept-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/gazelle-bikes-dept2-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/gazelle-bikes-dept2-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/gazelle-bikes-dept5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/gazelle-bikes-dept5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/gazelle-bikes-dept3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/gazelle-bikes-dept3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Yvonne-Dijkstra.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Yvonne-Dijkstra.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Avans_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Avans_1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-desktop-uxui.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-desktop-uxui.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/GAZELLE_CHAMONIX_HMS_SFEER_MODEL_081.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/GAZELLE_CHAMONIX_HMS_SFEER_MODEL_081.jpg"
+    ]
+  ]
+}

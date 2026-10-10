@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/on-the-quest-to-cure-cancer/",
+  "path": "dept/case/on-the-quest-to-cure-cancer",
+  "timestamp": "2026-10-09T10:36:56.375Z",
+  "title": "Featured work: Foundation Medicine custom app - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1044548366-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1044548366-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-512702234-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-512702234-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-119-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-119-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1167824519-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1167824519-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-120-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-120-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1168042197-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1168042197-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-645011548-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-645011548-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-development.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-development.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/APS_mood.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/APS_mood.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ]
+  ]
+}

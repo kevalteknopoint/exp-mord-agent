@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/containing-a-global-pandemic-and-transforming-public-health-digitally/",
+  "path": "dept/en-uki/case/containing-a-global-pandemic-and-transforming-public-health-digitally",
+  "timestamp": "2026-10-09T19:58:35.767Z",
+  "title": "Leveraging digital to contain a global pandemic - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "statement",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1214593011-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1214593011-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-148-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-148-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-147-4-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-147-4-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-149-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-149-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Barilla-Pesto-Week-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Barilla-Pesto-Week-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ]
+  ]
+}

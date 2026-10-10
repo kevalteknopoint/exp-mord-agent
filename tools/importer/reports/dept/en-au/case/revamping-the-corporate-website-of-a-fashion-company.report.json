@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/revamping-the-corporate-website-of-a-fashion-company/",
+  "path": "dept/en-au/case/revamping-the-corporate-website-of-a-fashion-company",
+  "timestamp": "2026-10-09T12:25:44.240Z",
+  "title": "Revamping the corporate website of a fashion company - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bo-Bille.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bo-Bille.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Gubi-Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Gubi-Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/UBER-EATS-Gogo-Knows-best_30_ONLINE_v1.01_00_24_02.Still002.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/UBER-EATS-Gogo-Knows-best_30_ONLINE_v1.01_00_24_02.Still002.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_1.jpg"
+    ]
+  ]
+}

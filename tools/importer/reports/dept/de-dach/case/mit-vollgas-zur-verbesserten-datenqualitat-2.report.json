@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/mit-vollgas-zur-verbesserten-datenqualitat-2/",
+  "path": "dept/de-dach/case/mit-vollgas-zur-verbesserten-datenqualitat-2",
+  "timestamp": "2026-10-09T11:12:45.141Z",
+  "title": "Mit Vollgas zur verbesserten Datenqualität - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "panel-two-media",
+    "panel-with-cards",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/parking-lot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/parking-lot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/share-now-jNC6eyECRCU-unsplash-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/share-now-jNC6eyECRCU-unsplash-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/share-now-YU3K1BpNIrc-unsplash-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/share-now-YU3K1BpNIrc-unsplash-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/possessed-photography-Xlx80tr5bEE-unsplash-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/possessed-photography-Xlx80tr5bEE-unsplash-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Helzberg-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Helzberg-12.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Audience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Audience.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/parking-lot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/parking-lot.jpg"
+    ]
+  ]
+}

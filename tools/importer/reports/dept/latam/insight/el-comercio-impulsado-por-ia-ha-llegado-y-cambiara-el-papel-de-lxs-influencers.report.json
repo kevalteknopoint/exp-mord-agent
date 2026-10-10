@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/el-comercio-impulsado-por-ia-ha-llegado-y-cambiara-el-papel-de-lxs-influencers/",
+  "path": "dept/latam/insight/el-comercio-impulsado-por-ia-ha-llegado-y-cambiara-el-papel-de-lxs-influencers",
+  "timestamp": "2026-10-09T23:25:58.469Z",
+  "title": "El comercio impulsado por IA ha llegado, y cambiará el papel de lxs influencers - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/thumbs-up-on-wall-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/thumbs-up-on-wall-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/OpenAI-website-image-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/OpenAI-website-image-1920x1080-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Kenna-portait-selfie.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Kenna-portait-selfie.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/OpenAI-website-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/OpenAI-website-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/hands-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/hands-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-innovation.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-innovation.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/thumbs-up-on-wall-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/thumbs-up-on-wall-min.jpg"
+    ]
+  ]
+}

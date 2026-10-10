@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/from-an-external-e-commerce-model-to-an-in-house-platform/",
+  "path": "dept/latam/case/from-an-external-e-commerce-model-to-an-in-house-platform",
+  "timestamp": "2026-10-09T21:37:03.268Z",
+  "title": "From an external e-commerce model to an in-house platform - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otravo_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otravo_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Kali-Healthcare-dept-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Kali-Healthcare-dept-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/JM-alternative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/JM-alternative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tom-Tailor-first-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tom-Tailor-first-1.png"
+    ]
+  ]
+}

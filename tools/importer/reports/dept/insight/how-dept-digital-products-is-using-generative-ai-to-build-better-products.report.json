@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-dept-digital-products-is-using-generative-ai-to-build-better-products/",
+  "path": "dept/insight/how-dept-digital-products-is-using-generative-ai-to-build-better-products",
+  "timestamp": "2026-10-09T20:52:43.563Z",
+  "title": "How DEPT®/Digital Products is using generative AI to build better products - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/digital-products-generative-AI-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/digital-products-generative-AI-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/alex-glaser-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/alex-glaser-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/optical-recognition-grandmas-recipe-long.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/optical-recognition-grandmas-recipe-long.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-metal-closeup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-metal-closeup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/validating-product-ideas-1000-x-1200-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/validating-product-ideas-1000-x-1200-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Soft-skills-product-development-insights.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Soft-skills-product-development-insights.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/digital-products-generative-AI-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/digital-products-generative-AI-min.jpg"
+    ]
+  ]
+}

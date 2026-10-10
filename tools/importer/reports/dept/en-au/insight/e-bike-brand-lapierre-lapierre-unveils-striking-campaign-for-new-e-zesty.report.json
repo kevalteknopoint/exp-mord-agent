@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/e-bike-brand-lapierre-lapierre-unveils-striking-campaign-for-new-e-zesty/",
+  "path": "dept/en-au/insight/e-bike-brand-lapierre-lapierre-unveils-striking-campaign-for-new-e-zesty",
+  "timestamp": "2026-10-09T13:41:52.239Z",
+  "title": "E-bike brand Lapierre Unveils striking campaign for new E-Zesty - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Lapierre_Key_Visual.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Lapierre_Key_Visual.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Manuel-Di-Tolve-1-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Manuel-Di-Tolve-1-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Lapierre_Key_Visual.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Lapierre_Key_Visual.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-internal-influencers-help-humanise-your-brand/",
+  "path": "dept/en-au/insight/how-internal-influencers-help-humanise-your-brand",
+  "timestamp": "2026-10-09T13:01:27.240Z",
+  "title": "How internal influencers help humanise your brand - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2017_19_06_Dept_Rotterdam_marketing_Sfeer_en_Social_post_JRF1495-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2017_19_06_Dept_Rotterdam_marketing_Sfeer_en_Social_post_JRF1495-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2017_19_06_Dept_Rotterdam_marketing_Sfeer_en_Social_post_JRF1495-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2017_19_06_Dept_Rotterdam_marketing_Sfeer_en_Social_post_JRF1495-1200x750-c.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/what-retailers-can-learn-from-target-and-walmarts-private-label-play/",
+  "path": "dept/en-in/insight/what-retailers-can-learn-from-target-and-walmarts-private-label-play",
+  "timestamp": "2026-10-09T17:05:21.442Z",
+  "title": "What retailers can learn from Target and Walmart's private label play - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Bettergoods-Feature-image-500-x-301.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Bettergoods-Feature-image-500-x-301.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/NoahJackson-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/NoahJackson-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Data-visual-1200x620-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Data-visual-1200x620-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/NoahJackson.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/NoahJackson.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Bettergoods-Feature-image-500-x-301.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Bettergoods-Feature-image-500-x-301.png"
+    ]
+  ]
+}

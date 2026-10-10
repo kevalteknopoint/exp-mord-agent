@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/the-german-roamers-conquer-iceland-with-the-samsung-gear-s3-frontier/",
+  "path": "dept/en-dk/case/the-german-roamers-conquer-iceland-with-the-samsung-gear-s3-frontier",
+  "timestamp": "2026-10-09T13:28:58.035Z",
+  "title": "Conquering Iceland with The German Roamers - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung4-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung4-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung3-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung3-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samaung1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samaung1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung2-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung2-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1_Tag1_@lennartpagel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1_Tag1_-lennartpagel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung6.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung6.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samaung1-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samaung1-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/wilson-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/wilson-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung2-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung2-1.jpeg"
+    ]
+  ]
+}

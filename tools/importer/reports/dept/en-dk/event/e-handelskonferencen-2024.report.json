@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/e-handelskonferencen-2024/",
+  "path": "dept/en-dk/event/e-handelskonferencen-2024",
+  "timestamp": "2026-10-09T23:10:40.787Z",
+  "title": "E-handelskonferencen 2024 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-header",
+    "event-registration-form",
+    "event-register",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-registration-form",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/e-handelskonferencen-2024-Event-header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/e-handelskonferencen-2024-Event-header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/e-handelskonferencen-2024-Event-header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/e-handelskonferencen-2024-Event-header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Rasmus-Keller.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Rasmus-Keller.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Jonathan-Whiteside.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Jonathan-Whiteside.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Mark-van-den-Beij-Dept-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Mark-van-den-Beij-Dept-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Joep-Roosen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Joep-Roosen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Peter-Schou-Svensson-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Peter-Schou-Svensson-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Victor-Marcus-Lunde.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Victor-Marcus-Lunde.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/e-handelskonferencen-2024-Event-header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/e-handelskonferencen-2024-Event-header-1.png"
+    ]
+  ]
+}

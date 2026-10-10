@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/growth/seo/",
+  "path": "dept/de-dach/service/growth/seo",
+  "timestamp": "2026-10-09T11:27:13.665Z",
+  "title": "SEO - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dept_Berlin_Office-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dept_Berlin_Office-1.jpg"
+    ]
+  ]
+}

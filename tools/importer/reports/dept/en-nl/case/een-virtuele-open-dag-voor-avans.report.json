@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/een-virtuele-open-dag-voor-avans/",
+  "path": "dept/en-nl/case/een-virtuele-open-dag-voor-avans",
+  "timestamp": "2026-10-09T18:09:05.840Z",
+  "title": "Een virtuele open dag voor Avans Hogeschool - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "panel-with-cards",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Avans-open-dag-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Avans-open-dag-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Avans-open-dag-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Avans-open-dag-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Avans-open-dag-7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Avans-open-dag-7.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Gazelle-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Gazelle-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/helm-health-mobile-app-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/helm-health-mobile-app-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/GT-2560x1707-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/GT-2560x1707-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Avans-open-dag-grid-1-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Avans-open-dag-grid-1-1200x675-c.png"
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-lanza-su-metaverse-practice/",
+  "path": "dept/latam/insight/dept-lanza-su-metaverse-practice",
+  "timestamp": "2026-10-09T23:30:36.140Z",
+  "title": "DEPT® lanza su Metaverse Practice - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/MetaversexPractice.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/MetaversexPractice.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Dept_x_Metaverse_Practice_-1600x900-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Dept_x_Metaverse_Practice_-1600x900-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Impressionen_3DEventplattform_MetaFestival20211-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Impressionen_3DEventplattform_MetaFestival20211-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/MetaversexPractice-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/MetaversexPractice-1024x576.png"
+    ]
+  ]
+}

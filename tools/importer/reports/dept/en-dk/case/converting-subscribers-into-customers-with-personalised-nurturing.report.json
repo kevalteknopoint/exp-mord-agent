@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/converting-subscribers-into-customers-with-personalised-nurturing/",
+  "path": "dept/en-dk/case/converting-subscribers-into-customers-with-personalised-nurturing",
+  "timestamp": "2026-10-09T14:08:52.740Z",
+  "title": "Converting subscribers into customers with personalised nurturing  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-ev-brand-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-ev-brand-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-marketing-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-marketing-automation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-marketing-automation-welcome-journey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-marketing-automation-welcome-journey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-marketing-automation-campaign.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-marketing-automation-campaign.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/spin-magazine-open-graph.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/spin-magazine-open-graph.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/therabody-lifestyle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/therabody-lifestyle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ]
+  ]
+}

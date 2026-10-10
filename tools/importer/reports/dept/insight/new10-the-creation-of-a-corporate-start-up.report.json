@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/new10-the-creation-of-a-corporate-start-up/",
+  "path": "dept/insight/new10-the-creation-of-a-corporate-start-up",
+  "timestamp": "2026-10-09T22:47:27.643Z",
+  "title": "New10: the creation of a corporate start-up - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/max-bender-262783-unsplash-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/max-bender-262783-unsplash-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Bart-Manuel-Dept-1-1-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Bart-Manuel-Dept-1-1-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DEPT-SPIN-1280x728-2-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DEPT-SPIN-1280x728-2-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/1111-585x585-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/1111-585x585-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wwewe-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wwewe-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Bart-Manuel-Dept-1-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Bart-Manuel-Dept-1-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/max-bender-262783-unsplash-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/max-bender-262783-unsplash-1200x750-c.jpg"
+    ]
+  ]
+}

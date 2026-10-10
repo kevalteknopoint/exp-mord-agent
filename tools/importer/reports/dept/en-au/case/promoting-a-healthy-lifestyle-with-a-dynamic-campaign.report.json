@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/promoting-a-healthy-lifestyle-with-a-dynamic-campaign/",
+  "path": "dept/en-au/case/promoting-a-healthy-lifestyle-with-a-dynamic-campaign",
+  "timestamp": "2026-10-09T12:19:32.466Z",
+  "title": "Promoting a healthy lifestyle with a dynamic campaign - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Ferdie-Kamphuis-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Ferdie-Kamphuis-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-2-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-2-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Ferdie-Kamphuis.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Ferdie-Kamphuis.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Template-Full-screen-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Template-Full-screen-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Philips-Hue.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Philips-Hue.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ]
+  ]
+}

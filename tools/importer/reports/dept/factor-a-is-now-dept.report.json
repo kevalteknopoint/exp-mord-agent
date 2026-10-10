@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/factor-a-is-now-dept/",
+  "path": "dept/factor-a-is-now-dept",
+  "timestamp": "2026-10-09T21:28:48.139Z",
+  "title": "FACTOR-A/DEPT® is now DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "statement",
+    "video",
+    "title-and-content",
+    "four-card-information-block",
+    "highlighted-item-listing",
+    "title-and-content",
+    "numbered-carousel",
+    "highlighted-item-listing",
+    "rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/content-generation-building-AI-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/content-generation-building-AI-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Subservices-%E2%80%93-Retail-Media-1200x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Subservices---Retail-Media-1200x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/prepare-to-pioneer-carousel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/prepare-to-pioneer-carousel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

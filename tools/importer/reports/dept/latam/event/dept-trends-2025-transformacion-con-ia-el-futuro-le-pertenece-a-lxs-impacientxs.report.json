@@ -1,0 +1,85 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/event/dept-trends-2025-transformacion-con-ia-el-futuro-le-pertenece-a-lxs-impacientxs/",
+  "path": "dept/latam/event/dept-trends-2025-transformacion-con-ia-el-futuro-le-pertenece-a-lxs-impacientxs",
+  "timestamp": "2026-10-09T23:44:43.355Z",
+  "title": "DEPT® Trends 2025: Transformación con IA - el futuro le pertenece a lxs impacientxs - DEPT®",
+  "template": "dept-event",
+  "locale": "latam",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-program",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Event-Header-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Event-Header-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Pardot-form-Trends.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Pardot-form-Trends.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Jeff-Bowerman-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Jeff-Bowerman-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Bob-Briski_preferred.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Bob-Briski_preferred.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/image-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/image-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Job-Deibel-Dept-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Job-Deibel-Dept-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Bridget-Fahrland.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Bridget-Fahrland.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Sam-Huston-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Sam-Huston-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/JudahHeadshot2023-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/JudahHeadshot2023-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Negina-Kargar-2-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Negina-Kargar-2-1-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Marten-Kuipers-1-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Marten-Kuipers-1-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Ali-Mcclintock-Dept-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Ali-Mcclintock-Dept-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Yash-Mody-Dept-2-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Yash-Mody-Dept-2-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Claire-Shalbrack_preferred.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Claire-Shalbrack_preferred.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Trends-2025_Linkedin_event-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Trends-2025_Linkedin_event-2.png"
+    ]
+  ]
+}

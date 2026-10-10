@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/7-challenges-to-delivering-a-global-web-content-management-capability/",
+  "path": "dept/en-dk/insight/7-challenges-to-delivering-a-global-web-content-management-capability",
+  "timestamp": "2026-10-09T14:01:04.140Z",
+  "title": "7 challenges to delivering a global web content management capability - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2017_20_02_Dept_Rotterdam_Marketing_sfeerbeelden_JRF__85.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2017_20_02_Dept_Rotterdam_Marketing_sfeerbeelden_JRF__85.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/7-CHALLENGES-TO-DELIVERING-A-GLOBAL-WEB-CONTENT-MANAGEMENT-CAPABILITY-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/7-CHALLENGES-TO-DELIVERING-A-GLOBAL-WEB-CONTENT-MANAGEMENT-CAPABILITY-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2017_20_02_Dept_Rotterdam_Marketing_sfeerbeelden_JRF__85.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2017_20_02_Dept_Rotterdam_Marketing_sfeerbeelden_JRF__85.jpg"
+    ]
+  ]
+}

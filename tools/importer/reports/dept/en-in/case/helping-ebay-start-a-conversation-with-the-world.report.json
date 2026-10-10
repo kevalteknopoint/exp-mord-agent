@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/helping-ebay-start-a-conversation-with-the-world/",
+  "path": "dept/en-in/case/helping-ebay-start-a-conversation-with-the-world",
+  "timestamp": "2026-10-09T15:56:56.473Z",
+  "title": "Helping eBay start a conversation with the world - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/ebay-creative-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/ebay-creative-automation.jpg"
+    ]
+  ]
+}

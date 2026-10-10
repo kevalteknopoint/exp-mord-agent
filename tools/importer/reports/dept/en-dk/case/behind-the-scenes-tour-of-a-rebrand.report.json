@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/behind-the-scenes-tour-of-a-rebrand/",
+  "path": "dept/en-dk/case/behind-the-scenes-tour-of-a-rebrand",
+  "timestamp": "2026-10-09T13:57:31.840Z",
+  "title": "Behind-the-scenes tour of a rebrand - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "quote",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/using-docusign.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/using-docusign.webp"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/verbesserter-digitaler-zugang-zu-gesundheitsdiensten-in-irland-mit-hse/",
+  "path": "dept/de-dach/case/verbesserter-digitaler-zugang-zu-gesundheitsdiensten-in-irland-mit-hse",
+  "timestamp": "2026-10-09T11:24:56.846Z",
+  "title": "Verbesserter Zugang zu Gesundheitsdiensten in Irland - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-homepage-on-desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-homepage-on-desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/woman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/woman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/petri-dish.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/petri-dish.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/authority-is-the-new-seo-currency/",
+  "path": "dept/insight/authority-is-the-new-seo-currency",
+  "timestamp": "2026-10-09T21:56:14.064Z",
+  "title": "Authority is the new discoverability currency - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/The-Future-of-Authority-in-an-AI-First-Search-World-Idea-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/The-Future-of-Authority-in-an-AI-First-Search-World-Idea-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/MattCasadona-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/MattCasadona-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Discovery-click.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Discovery-click.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Premiumization_-The-new-currency-for-CPG-growth-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Premiumization_-The-new-currency-for-CPG-growth-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/The-Future-of-Authority-in-an-AI-First-Search-World-Idea-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/The-Future-of-Authority-in-an-AI-First-Search-World-Idea-1920x1080-1.jpg"
+    ]
+  ]
+}

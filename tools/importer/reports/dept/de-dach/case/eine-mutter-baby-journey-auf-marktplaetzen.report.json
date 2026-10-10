@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-mutter-baby-journey-auf-marktplaetzen/",
+  "path": "dept/de-dach/case/eine-mutter-baby-journey-auf-marktplaetzen",
+  "timestamp": "2026-10-09T10:56:18.651Z",
+  "title": "Eine Mutter-Baby Journey auf Marktplätzen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Harmony_beauty-shot_bedside-table-1-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Harmony_beauty-shot_bedside-table-1-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Mum-and-baby_foodie.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Mum-and-baby_foodie.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Swing-Maxi-product-in-use-yoga-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Swing-Maxi-product-in-use-yoga-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Solo_with-model_after-use-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Solo_with-model_after-use-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg"
+    ]
+  ]
+}

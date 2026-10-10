@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-the-b2b-buyer-journey-has-changed/",
+  "path": "dept/en-au/insight/how-the-b2b-buyer-journey-has-changed",
+  "timestamp": "2026-10-09T13:07:06.743Z",
+  "title": "How the B2B buyer journey has changed, and what you must do now - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/alex-glaser-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/alex-glaser-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Shopify-Insight-Featured-2-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Shopify-Insight-Featured-2-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg"
+    ]
+  ]
+}

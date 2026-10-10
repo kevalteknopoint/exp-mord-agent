@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/commerce-in-the-era-of-agents/",
+  "path": "dept/en-uki/downloads/commerce-in-the-era-of-agents",
+  "timestamp": "2026-10-09T19:28:39.050Z",
+  "title": "Commerce in the era of agents - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-intro",
+    "assets-and-copy",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Commerce-in-the-era-of-agents-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Commerce-in-the-era-of-agents-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Commerce-in-the-era-of-agents-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Commerce-in-the-era-of-agents-1920x1080-1.png"
+    ]
+  ]
+}

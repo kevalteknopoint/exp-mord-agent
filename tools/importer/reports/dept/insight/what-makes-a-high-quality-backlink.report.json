@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/what-makes-a-high-quality-backlink/",
+  "path": "dept/insight/what-makes-a-high-quality-backlink",
+  "timestamp": "2026-10-09T21:08:03.760Z",
+  "title": "What makes a high-quality backlink? - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "wrapper",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20230130_BlFI_WhatMakesaHighQualityBacklink.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20230130_BlFI_WhatMakesaHighQualityBacklink.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Placeholder-for-authors-without-headshot-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Placeholder-for-authors-without-headshot-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Placeholder-for-authors-without-headshot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Placeholder-for-authors-without-headshot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20230130_BlFI_WhatMakesaHighQualityBacklink.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20230130_BlFI_WhatMakesaHighQualityBacklink.jpeg"
+    ]
+  ]
+}

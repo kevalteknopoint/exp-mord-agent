@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/grilld-app-recognised-in-australias-good-design-awards/",
+  "path": "dept/en-in/insight/grilld-app-recognised-in-australias-good-design-awards",
+  "timestamp": "2026-10-09T23:31:49.388Z",
+  "title": "Grill’d app recognised in Australia’s Good Design Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png"
+    ]
+  ]
+}

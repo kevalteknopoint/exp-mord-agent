@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/service/growth/content/",
+  "path": "dept/en-nl/service/growth/content",
+  "timestamp": "2026-10-09T18:20:15.197Z",
+  "title": "Content marketing - DEPT®",
+  "template": "dept-service",
+  "locale": "en-nl",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DEPT-24Nov-054.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DEPT-24Nov-054.jpg"
+    ]
+  ]
+}

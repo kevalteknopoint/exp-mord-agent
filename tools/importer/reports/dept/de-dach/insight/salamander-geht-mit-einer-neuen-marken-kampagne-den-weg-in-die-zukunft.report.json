@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/salamander-geht-mit-einer-neuen-marken-kampagne-den-weg-in-die-zukunft/",
+  "path": "dept/de-dach/insight/salamander-geht-mit-einer-neuen-marken-kampagne-den-weg-in-die-zukunft",
+  "timestamp": "2026-10-09T11:43:09.946Z",
+  "title": "Salamander geht mit einer neuen Marken-Kampagne den Weg in die Zukunft - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "case-credits",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/PR-Salamander-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/PR-Salamander-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/PR-Salamander-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/PR-Salamander-1920x1080-1.jpg"
+    ]
+  ]
+}

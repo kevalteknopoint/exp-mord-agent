@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/bewijzen-dat-online-campagnes-bijdragen-aan-offline-transacties-en-winkelbezoek/",
+  "path": "dept/en-nl/case/bewijzen-dat-online-campagnes-bijdragen-aan-offline-transacties-en-winkelbezoek",
+  "timestamp": "2026-10-09T17:45:43.240Z",
+  "title": "Bewijzen dat online campagnes bijdragen aan offline transacties en winkelbezoek - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "title-and-content",
+    "jumbotron",
+    "wrapper",
+    "image",
+    "wrapper",
+    "quote",
+    "wrapper",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Hans-Anders-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Hans-Anders-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Hans-Anders-3-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Hans-Anders-3-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Hans-Anders-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Hans-Anders-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Hans-Anders-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Hans-Anders-4.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/creating-interactive-ads-using-ai-technology/",
+  "path": "dept/case/creating-interactive-ads-using-ai-technology",
+  "timestamp": "2026-10-09T10:35:08.139Z",
+  "title": "Creating interactive ads using AI technology - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoemirror_header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoemirror_header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoemirror_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoemirror_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoemirror_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoemirror_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoemirror_5-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoemirror_5-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/anders-jessen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/anders-jessen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Layla-Sleep-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Layla-Sleep-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoe-mirror-13.21.18.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoe-mirror-13.21.18.png"
+    ]
+  ]
+}

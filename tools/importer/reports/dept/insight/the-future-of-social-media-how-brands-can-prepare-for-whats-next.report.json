@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-future-of-social-media-how-brands-can-prepare-for-whats-next/",
+  "path": "dept/insight/the-future-of-social-media-how-brands-can-prepare-for-whats-next",
+  "timestamp": "2026-10-09T21:59:53.239Z",
+  "title": "The future of social media: How brands can prepare for what’s next - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/pioneering-social-media-panel-adweek.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/pioneering-social-media-panel-adweek.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/claire-shalbrack-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/claire-shalbrack-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/claire-shalbrack.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/claire-shalbrack.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/pioneering-social-media-panel-adweek.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/pioneering-social-media-panel-adweek.jpg"
+    ]
+  ]
+}

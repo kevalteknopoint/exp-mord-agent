@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/downloads/the-last-keyword-research-you-will-need/",
+  "path": "dept/en-dk/downloads/the-last-keyword-research-you-will-need",
+  "timestamp": "2026-10-09T13:45:42.663Z",
+  "title": "The Last Keyword Research You Will Need - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-dk",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

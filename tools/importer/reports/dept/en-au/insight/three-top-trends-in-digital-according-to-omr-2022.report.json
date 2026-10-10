@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/three-top-trends-in-digital-according-to-omr-2022/",
+  "path": "dept/en-au/insight/three-top-trends-in-digital-according-to-omr-2022",
+  "timestamp": "2026-10-09T13:09:47.440Z",
+  "title": "Three Top Trends in Digital According to OMR 2022 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "image",
+    "intro-text",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/OMR-22_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/OMR-22_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Fabienne-Schneuwly-Dept-e1627477734889-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Fabienne-Schneuwly-Dept-e1627477734889-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/OMR-22_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/OMR-22_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/OMR-22_2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/OMR-22_2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/OMR-22_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/OMR-22_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Fabienne-Schneuwly-Dept-e1627477734889.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Fabienne-Schneuwly-Dept-e1627477734889.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/OMR-22_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/OMR-22_1.jpg"
+    ]
+  ]
+}

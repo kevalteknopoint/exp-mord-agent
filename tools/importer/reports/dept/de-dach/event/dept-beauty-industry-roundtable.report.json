@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-beauty-industry-roundtable/",
+  "path": "dept/de-dach/event/dept-beauty-industry-roundtable",
+  "timestamp": "2026-10-09T10:58:00.643Z",
+  "title": "DEPT® Beauty Industry Roundtable - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Frame-1560-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Frame-1560-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Claire-Verpals-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Claire-Verpals-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Stina_Kozok-3990-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Stina_Kozok-3990-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Jan-Gutkuhn-Dept-01-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Jan-Gutkuhn-Dept-01-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Sarah-Berger-Dept-e1627486991567.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Sarah-Berger-Dept-e1627486991567.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Negina-Kargar-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Negina-Kargar-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/alex-ortner-1-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/alex-ortner-1-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Frame-1560-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Frame-1560-1.png"
+    ]
+  ]
+}

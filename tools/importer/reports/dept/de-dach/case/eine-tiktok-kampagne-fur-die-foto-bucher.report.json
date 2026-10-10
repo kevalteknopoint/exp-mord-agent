@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-tiktok-kampagne-fur-die-foto-bucher/",
+  "path": "dept/de-dach/case/eine-tiktok-kampagne-fur-die-foto-bucher",
+  "timestamp": "2026-10-09T10:57:13.270Z",
+  "title": "Eine TikTok-Kampagne für die (Foto-)Bücher - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "full-width-image",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/PolaroidGo-Social-Post_05-1080x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/PolaroidGo-Social-Post_05-1080x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/PolaroidGo-Social-Post_04-1080x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/PolaroidGo-Social-Post_04-1080x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/woman-cA.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/woman-cA.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/image.png"
+    ]
+  ]
+}

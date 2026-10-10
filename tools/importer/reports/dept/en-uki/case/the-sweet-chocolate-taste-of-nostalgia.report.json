@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/the-sweet-chocolate-taste-of-nostalgia/",
+  "path": "dept/en-uki/case/the-sweet-chocolate-taste-of-nostalgia",
+  "timestamp": "2026-10-09T19:15:48.042Z",
+  "title": "The sweet chocolate taste of nostalgia - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "quote",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Chocomel-x-DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Chocomel-x-DEPT-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Trainline_Featured_16_9.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Trainline_Featured_16_9.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Chocomel-x-DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Chocomel-x-DEPT-.jpg"
+    ]
+  ]
+}

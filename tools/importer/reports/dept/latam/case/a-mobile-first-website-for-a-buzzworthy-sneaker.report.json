@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/a-mobile-first-website-for-a-buzzworthy-sneaker/",
+  "path": "dept/latam/case/a-mobile-first-website-for-a-buzzworthy-sneaker",
+  "timestamp": "2026-10-09T21:25:29.499Z",
+  "title": "A mobile-first website for a buzzworthy sneaker - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Comp-002-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Comp-002-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/White-Zeeman.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/White-Zeeman.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Black-Zeeman.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Black-Zeeman.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-103-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-103-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/boy-in-stands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/boy-in-stands.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-636008560-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-636008560-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Featured-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Featured-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/sem-account-audits-cant-miss-checklist/",
+  "path": "dept/insight/sem-account-audits-cant-miss-checklist",
+  "timestamp": "2026-10-09T21:41:02.743Z",
+  "title": "SEM Account Audits: A Can’t-Miss Checklist",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/how-conduct-accessibility-audit.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/how-conduct-accessibility-audit.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/how-conduct-accessibility-audit.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/how-conduct-accessibility-audit.jpeg"
+    ]
+  ]
+}

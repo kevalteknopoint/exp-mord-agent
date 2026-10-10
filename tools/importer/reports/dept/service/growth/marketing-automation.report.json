@@ -1,0 +1,88 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/service/growth/marketing-automation/",
+  "path": "dept/service/growth/marketing-automation",
+  "timestamp": "2026-10-09T21:49:26.854Z",
+  "title": "CX services - Consulting, tech, and marketing agency - DEPT®",
+  "template": "dept-service",
+  "locale": "global",
+  "components": [
+    "title-block",
+    "image-and-fact",
+    "highlighted-statement",
+    "highlighted-logos",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Exceptional-experiences-at-every-touchpoint.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Exceptional-experiences-at-every-touchpoint.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Personalisation%E2%80%94even-at-scale.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Personalisation-even-at-scale.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Seamless-tech-stack.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Seamless-tech-stack.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Never-one-size-fits-all.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Never-one-size-fits-all.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/AI-driven-customer-insights.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/AI-driven-customer-insights.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Under-Armour-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Under-Armour-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Therabody-4.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Therabody-4.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Helzberg-Diamonds-3.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Helzberg-Diamonds-3.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Moodys-3.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Moodys-3.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Pelican-3.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Pelican-3.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Bicycle-Cards-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Bicycle-Cards-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Docusign-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Docusign-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/MailChimp-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/MailChimp-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/CX-in-bfsi.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/CX-in-bfsi.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Retail-brands-driving-digital-innovation-IRL-experiences.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Retail-brands-driving-digital-innovation-IRL-experiences.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Enhance-Customer-Experience-_-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Enhance-Customer-Experience-_-500x300-1.png"
+    ]
+  ]
+}

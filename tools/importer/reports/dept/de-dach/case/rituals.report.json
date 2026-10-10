@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/rituals/",
+  "path": "dept/de-dach/case/rituals",
+  "timestamp": "2026-10-09T11:18:21.587Z",
+  "title": "Die größte SEO-Herausforderung gemeistert - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Rituals_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Rituals_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Simple_Feast_DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Simple_Feast_DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ]
+  ]
+}

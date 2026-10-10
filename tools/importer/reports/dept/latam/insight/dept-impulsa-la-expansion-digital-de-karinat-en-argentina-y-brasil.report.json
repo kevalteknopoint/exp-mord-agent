@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-impulsa-la-expansion-digital-de-karinat-en-argentina-y-brasil/",
+  "path": "dept/latam/insight/dept-impulsa-la-expansion-digital-de-karinat-en-argentina-y-brasil",
+  "timestamp": "2026-10-09T23:30:51.300Z",
+  "title": "DEPT® impulsa la expansión digital de Karinat en Argentina y Brasil - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/karinat_insight_image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/karinat_insight_image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/karinat_insight_san_valentin_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/karinat_insight_san_valentin_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/karinat_insight_san_valentin_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/karinat_insight_san_valentin_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/karinat_insight_san_valentin_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/karinat_insight_san_valentin_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/karinat_insight_brasil.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/karinat_insight_brasil.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/karinat_insight_image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/karinat_insight_image.png"
+    ]
+  ]
+}

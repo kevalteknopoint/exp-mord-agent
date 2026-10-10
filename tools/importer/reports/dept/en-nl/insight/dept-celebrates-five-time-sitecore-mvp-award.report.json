@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-celebrates-five-time-sitecore-mvp-award/",
+  "path": "dept/en-nl/insight/dept-celebrates-five-time-sitecore-mvp-award",
+  "timestamp": "2026-10-09T18:33:43.140Z",
+  "title": "DEPT® celebrates five-time Sitecore MVP award - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/paul-thomas-hero-e1627476371152.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/paul-thomas-hero-e1627476371152.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/LME-big-crowd.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/LME-big-crowd.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/paul-thomas-hero-e1627476371152.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/paul-thomas-hero-e1627476371152.jpg"
+    ]
+  ]
+}

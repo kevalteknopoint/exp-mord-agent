@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/ein-moderner-data-stack-fuer-douglas/",
+  "path": "dept/case/ein-moderner-data-stack-fuer-douglas",
+  "timestamp": "2026-10-09T10:50:10.051Z",
+  "title": "Ein moderner Data Stack für Douglas - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/03_Brand_Equity_Phase_I_Face_Judge_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/03_Brand_Equity_Phase_I_Face_Judge_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Douglas-Data-Stack_Simplified.001-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Douglas-Data-Stack_Simplified.001-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Griffin-funding-mortgage-bankers-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Griffin-funding-mortgage-bankers-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Reddit-Feature-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Reddit-Feature-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/03_Brand_Equity_Phase_I_Face_Judge_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/03_Brand_Equity_Phase_I_Face_Judge_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ]
+  ]
+}

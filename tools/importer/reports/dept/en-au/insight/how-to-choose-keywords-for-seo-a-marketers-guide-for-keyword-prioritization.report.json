@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-choose-keywords-for-seo-a-marketers-guide-for-keyword-prioritization/",
+  "path": "dept/en-au/insight/how-to-choose-keywords-for-seo-a-marketers-guide-for-keyword-prioritization",
+  "timestamp": "2026-10-09T13:10:01.143Z",
+  "title": "How to choose keywords for SEO: A marketers’ guide for keyword prioritization - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Personalisation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Personalisation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Wes-Flippo-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Wes-Flippo-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Wes-Flippo-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Wes-Flippo-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Personalisation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Personalisation.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/expand-online-has-become-dept/",
+  "path": "dept/expand-online-has-become-dept",
+  "timestamp": "2026-10-09T21:28:36.055Z",
+  "title": "Expand online has become dept - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "post-header",
+    "panel-with-rich-text",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_Office-ROT-10-1200x750-c-320x200-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_Office-ROT-10-1200x750-c-320x200-1.jpeg"
+    ]
+  ]
+}

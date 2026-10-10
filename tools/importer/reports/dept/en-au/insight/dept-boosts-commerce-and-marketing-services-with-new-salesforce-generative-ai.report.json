@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-boosts-commerce-and-marketing-services-with-new-salesforce-generative-ai/",
+  "path": "dept/en-au/insight/dept-boosts-commerce-and-marketing-services-with-new-salesforce-generative-ai",
+  "timestamp": "2026-10-09T13:12:56.639Z",
+  "title": "DEPT® boosts end-to-end commerce and marketing services with new Salesforce generative AI offering - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/MELON-Rebrand-header-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/MELON-Rebrand-header-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Full_Stack_Enabled_Commerce_Cloud-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Full_Stack_Enabled_Commerce_Cloud-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Salesforce-Connections-Event-Banner-1440x558-white-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Salesforce-Connections-Event-Banner-1440x558-white-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/MELON-Rebrand-header-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/MELON-Rebrand-header-500x300-1.png"
+    ]
+  ]
+}

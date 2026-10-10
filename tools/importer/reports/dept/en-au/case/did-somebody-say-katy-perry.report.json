@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/did-somebody-say-katy-perry/",
+  "path": "dept/en-au/case/did-somebody-say-katy-perry",
+  "timestamp": "2026-10-09T12:54:51.944Z",
+  "title": "Did somebody say… Katy Perry? - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "jumbotron",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/partner/google-marketing-platform/",
+  "path": "dept/en-au/partner/google-marketing-platform",
+  "timestamp": "2026-10-09T14:07:28.043Z",
+  "title": "Google Marketing Platform - DEPT®",
+  "template": "dept-partner",
+  "locale": "en-au",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "stats-and-copy",
+    "event-content-v2",
+    "work-listing",
+    "points-table",
+    "work-listing",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Google-DEPT-partner.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Google-DEPT-partner.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/wine.com-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/wine.com-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-11.07.19.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-09-at-11.07.19.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-google-360.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-google-360.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/webby-winners-dept-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/webby-winners-dept-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Google-DEPT-partner.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Google-DEPT-partner.png"
+    ]
+  ]
+}

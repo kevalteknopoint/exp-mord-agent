@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/de-toekomst-van-financiele-planning-transformeren/",
+  "path": "dept/case/de-toekomst-van-financiele-planning-transformeren",
+  "timestamp": "2026-10-09T10:40:10.240Z",
+  "title": "De toekomst van financiële planning transformeren - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-160-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-160-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-161-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-161-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-161-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-161-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Dave_Witting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Dave_Witting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Signs_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Signs_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop-Komprimiert.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop-Komprimiert.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg"
+    ]
+  ]
+}

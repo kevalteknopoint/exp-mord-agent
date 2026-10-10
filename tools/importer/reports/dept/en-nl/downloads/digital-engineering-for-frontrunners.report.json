@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/digital-engineering-for-frontrunners/",
+  "path": "dept/en-nl/downloads/digital-engineering-for-frontrunners",
+  "timestamp": "2026-10-09T17:47:18.464Z",
+  "title": "Digital engineering for frontrunners - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-detail-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Digital-Engineering-Playbook-Insights-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Digital-Engineering-Playbook-Insights-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Digital-Engineering-Playbook-Insights-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Digital-Engineering-Playbook-Insights-1000x1200-1.jpg"
+    ]
+  ]
+}

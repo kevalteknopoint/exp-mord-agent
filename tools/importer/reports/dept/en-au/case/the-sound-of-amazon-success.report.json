@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/the-sound-of-amazon-success/",
+  "path": "dept/en-au/case/the-sound-of-amazon-success",
+  "timestamp": "2026-10-09T12:34:31.041Z",
+  "title": "The sound of Amazon success - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/yamaha-soundbar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/yamaha-soundbar.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg"
+    ]
+  ]
+}

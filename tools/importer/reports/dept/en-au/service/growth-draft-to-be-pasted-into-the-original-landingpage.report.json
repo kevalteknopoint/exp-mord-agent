@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth-draft-to-be-pasted-into-the-original-landingpage/",
+  "path": "dept/en-au/service/growth-draft-to-be-pasted-into-the-original-landingpage",
+  "timestamp": "2026-10-09T23:05:08.450Z",
+  "title": "Growth (draft: to be pasted into the original landingpage) Marketing - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "image-with-text-and-overlay",
+    "rich-text",
+    "rich-text",
+    "cta-text",
+    "cta-text",
+    "square-media-with-text",
+    "square-media-with-text",
+    "cta-text",
+    "routing-extras",
+    "routing-extras",
+    "routing-extras",
+    "routing-extras",
+    "routing-extras",
+    "routing-extras",
+    "routing-extras",
+    "three-row-block",
+    "two-cards-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-agency.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-agency.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/end-to-end-digital-solutions.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/end-to-end-digital-solutions.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/strategic-advisory-growth.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/strategic-advisory-growth.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/3QDEPT-Growth-Advantages.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/3QDEPT-Growth-Advantages.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Rituals-header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Rituals-header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Growth-Marketing-Douglas-case.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Growth-Marketing-Douglas-case.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Growth-Labs-Phone.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Growth-Labs-Phone.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

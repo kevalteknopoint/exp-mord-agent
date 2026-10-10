@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-ernennt-neuen-emea-ceo-zur-beschleunigung-des-wachstums-in-der-region/",
+  "path": "dept/insight/dept-ernennt-neuen-emea-ceo-zur-beschleunigung-des-wachstums-in-der-region",
+  "timestamp": "2026-10-09T21:07:51.348Z",
+  "title": "DEPT® ernennt neuen EMEA CEO - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Landing_page.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Landing_page.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/The-One-Show-2023-featured-PT.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/The-One-Show-2023-featured-PT.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Landing_page.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Landing_page.jpg"
+    ]
+  ]
+}

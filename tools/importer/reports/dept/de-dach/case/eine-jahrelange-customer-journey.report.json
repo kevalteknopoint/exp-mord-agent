@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-jahrelange-customer-journey/",
+  "path": "dept/de-dach/case/eine-jahrelange-customer-journey",
+  "timestamp": "2026-10-09T10:56:00.098Z",
+  "title": "Eine jahrelange Customer Journey - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/erasmus_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/erasmus_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Erasmus-1-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Erasmus-1-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Erasmus1-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Erasmus1-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Erasmus2-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Erasmus2-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jeanette-Kerssens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jeanette-Kerssens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Simple_Feast_DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Simple_Feast_DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/dyana-wing-so-KIyJNX7G36s-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/dyana-wing-so-KIyJNX7G36s-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-Pixel-Thumnail-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-Pixel-Thumnail-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/erasmus_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/erasmus_1.jpg"
+    ]
+  ]
+}

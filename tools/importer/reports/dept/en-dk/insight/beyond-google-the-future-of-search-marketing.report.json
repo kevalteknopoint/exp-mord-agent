@@ -1,0 +1,98 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/beyond-google-the-future-of-search-marketing/",
+  "path": "dept/en-dk/insight/beyond-google-the-future-of-search-marketing",
+  "timestamp": "2026-10-09T23:11:48.943Z",
+  "title": "Beyond Google: The future of search marketing - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "stats-panel",
+    "square-media-with-text",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "square-media-with-text",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "statement",
+    "four-card-information-block",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Innovation-search-ai-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Innovation-search-ai-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/unbundling-google-search.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/unbundling-google-search.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Search-innovation-1000x1000-Bar-chart-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Search-innovation-1000x1000-Bar-chart-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Search-innovation-1000x1000-Bar-chart-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Search-innovation-1000x1000-Bar-chart-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/finding-products-social-media-final-chart.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/finding-products-social-media-final-chart.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/future-search-marketing-90s-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/future-search-marketing-90s-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/future-search-marketing-2000s-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/future-search-marketing-2000s-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/future-search-marketing-2010s-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/future-search-marketing-2010s-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/future-search-marketing-2020-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/future-search-marketing-2020-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/ai-concept-paid-search.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/ai-concept-paid-search.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/performance-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/performance-marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/e-commerce-brands-get-started-tiktok1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/e-commerce-brands-get-started-tiktok1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Innovation-search-ai-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Innovation-search-ai-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Innovation-search-ai2-1024x597.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Innovation-search-ai2-1024x597.jpg"
+    ]
+  ]
+}

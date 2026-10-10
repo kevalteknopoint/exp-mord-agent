@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dept-x-disguise-talks-live-the-cmos-guide-to-the-metaverse/",
+  "path": "dept/en-au/event/dept-x-disguise-talks-live-the-cmos-guide-to-the-metaverse",
+  "timestamp": "2026-10-09T12:56:59.644Z",
+  "title": "DEPT® x disguise Talks Live: The CMOs guide to the Metaverse - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/disguise-feature-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/disguise-feature-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Untitled-design-6-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Untitled-design-6-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Tom_2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Tom_2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Paul_5-100x100-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Paul_5-100x100-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Louis-Castro-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Louis-Castro-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Quentin_LP_format-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Quentin_LP_format-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/disguise-feature-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/disguise-feature-image.png"
+    ]
+  ]
+}

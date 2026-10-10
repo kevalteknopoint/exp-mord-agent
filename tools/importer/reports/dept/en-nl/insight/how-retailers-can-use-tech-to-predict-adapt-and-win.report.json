@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/how-retailers-can-use-tech-to-predict-adapt-and-win/",
+  "path": "dept/en-nl/insight/how-retailers-can-use-tech-to-predict-adapt-and-win",
+  "timestamp": "2026-10-09T23:51:34.163Z",
+  "title": "How retailers can use tech to predict, adapt, & win [With Shopify] - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "contact-form-big",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Shopify-Insight-Featured-2-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Shopify-Insight-Featured-2-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/jon-matt-duo-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/jon-matt-duo-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/90-million-potential-revenue-hm.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/90-million-potential-revenue-hm.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/pit-viper-shopify-site.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/pit-viper-shopify-site.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Shopify-Insight-Featured-2-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Shopify-Insight-Featured-2-1920x1080-1.jpg"
+    ]
+  ]
+}

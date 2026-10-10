@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/pragmatic-guide-to-ai-for-marketers/",
+  "path": "dept/en-uki/downloads/pragmatic-guide-to-ai-for-marketers",
+  "timestamp": "2026-10-09T19:37:57.476Z",
+  "title": "Pragmatic guide to AI for marketers - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/pragmatic-giude-ai.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/pragmatic-giude-ai.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Pragmatic-guide-to-AI-marketing-open-1024x572.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Pragmatic-guide-to-AI-marketing-open-1024x572.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/transforming-the-homeownership-process/",
+  "path": "dept/en-in/case/transforming-the-homeownership-process",
+  "timestamp": "2026-10-09T16:27:15.651Z",
+  "title": "Transforming the homeownership process - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "panel-two-media",
+    "quote",
+    "panel-with-rich-text",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Copy-of-reali-homepage-image-desktop.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Copy-of-reali-homepage-image-desktop.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Copy-of-reali-new-house-celebration.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Copy-of-reali-new-house-celebration.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Copy-of-reali-cash-offer-buyers.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Copy-of-reali-cash-offer-buyers.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Copy-of-reali-cash-offer-buyers.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Copy-of-reali-cash-offer-buyers.webp"
+    ]
+  ]
+}

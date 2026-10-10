@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-unites-its-teams-in-australia-under-one-brand-and-kicks-off-partnership-with-sxsw-sydney/",
+  "path": "dept/insight/dept-unites-its-teams-in-australia-under-one-brand-and-kicks-off-partnership-with-sxsw-sydney",
+  "timestamp": "2026-10-09T20:15:55.746Z",
+  "title": "DEPT® unites its teams in Australia under one brand and kicks off partnership with SXSW Sydney - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500x300-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Insight-TeknoPoint.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Insight-TeknoPoint.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/DEPT%C2%AE_HEALTH-x-AUSCEP-Insight-image-1000X1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/DEPT-_HEALTH-x-AUSCEP-Insight-image-1000X1200.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/DEPT%C2%AE-SXSW-SYD-23-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/DEPT--SXSW-SYD-23-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500x300-1.jpg"
+    ]
+  ]
+}

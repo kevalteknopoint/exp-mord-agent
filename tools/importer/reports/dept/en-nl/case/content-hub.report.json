@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/content-hub/",
+  "path": "dept/en-nl/case/content-hub",
+  "timestamp": "2026-10-09T17:57:52.876Z",
+  "title": "A hub to showcase rich, informative content - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Element-Materials-Technology-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Element-Materials-Technology-Full-bleed-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Desktop-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Desktop-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Element-Materials-Technology-Image-Mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Element-Materials-Technology-Image-Mobile-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Element-Materials-Technology-Desktop-Angle-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Element-Materials-Technology-Desktop-Angle-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Element-Materials-Technology-Full-bleed-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Element-Materials-Technology-Full-bleed-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-03-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Element-featured-image-480x480-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Element-featured-image-480x480-1.png"
+    ]
+  ]
+}

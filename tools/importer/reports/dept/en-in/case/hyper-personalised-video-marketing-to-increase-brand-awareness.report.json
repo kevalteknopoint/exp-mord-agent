@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/hyper-personalised-video-marketing-to-increase-brand-awareness/",
+  "path": "dept/en-in/case/hyper-personalised-video-marketing-to-increase-brand-awareness",
+  "timestamp": "2026-10-09T15:58:57.871Z",
+  "title": "Video marketing to increase brand awareness - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/enyaq-opener-732d19.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/enyaq-opener-732d19.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/skoda-kodiaq-dynamisch-1520.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/skoda-kodiaq-dynamisch-1520.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Inter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Inter.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/surfers-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/surfers-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Birla-Opus_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Birla-Opus_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1269732224-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1269732224-1-scaled.jpg"
+    ]
+  ]
+}

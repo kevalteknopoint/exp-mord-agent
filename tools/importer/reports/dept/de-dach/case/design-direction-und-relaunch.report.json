@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/design-direction-und-relaunch/",
+  "path": "dept/de-dach/case/design-direction-und-relaunch",
+  "timestamp": "2026-10-09T11:33:53.439Z",
+  "title": "Design Direction und Relaunch - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/header-1440x810-c-marc-o-polo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/header-1440x810-c-marc-o-polo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1908-x-798-Marco-Polo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1908-x-798-Marco-Polo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/05-verena-sandbote-e1627480031616.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/05-verena-sandbote-e1627480031616.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/001-Heinz.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/001-Heinz.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/lapierre-light-the-way-creative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/lapierre-light-the-way-creative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/header-1440x810-c-marc-o-polo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/header-1440x810-c-marc-o-polo.png"
+    ]
+  ]
+}

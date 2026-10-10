@@ -1,0 +1,8 @@
+{
+  "status": "failed",
+  "url": "https://www.dept.global/case/refrescando-una-marca-centenaria-para-el-mundo-de-hoy/",
+  "path": "case/refrescando-una-marca-centenaria-para-el-mundo-de-hoy",
+  "timestamp": "2026-10-09T10:45:38.334Z",
+  "error": "page.evaluate: Error: Failed to import page: source page is a 404 (not found) page\n    at eval (eval at evaluate (:290:30), <anonymous>:29:15)\n    at async <anonymous>:316:30",
+  "errorStack": "page.evaluate: Error: Failed to import page: source page is a 404 (not found) page\n    at eval (eval at evaluate (:290:30), <anonymous>:29:15)\n    at async <anonymous>:316:30\n    at processUrl (/home/node/.excat-marketplaces/excat-marketplace/excat/skills/excat-content-import/scripts/run-bulk-import.js:693:31)\n    at async main (/home/node/.excat-marketplaces/excat-marketplace/excat/skills/excat-content-import/scripts/run-bulk-import.js:956:22)"
+}

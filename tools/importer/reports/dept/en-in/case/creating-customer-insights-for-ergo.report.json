@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/creating-customer-insights-for-ergo/",
+  "path": "dept/en-in/case/creating-customer-insights-for-ergo",
+  "timestamp": "2026-10-09T15:39:16.539Z",
+  "title": "Creating customer insights - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1218822023-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1218822023-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1016885904-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1016885904-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/show-carnival-ecomm-store.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/show-carnival-ecomm-store.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1218822023-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1218822023-scaled.jpg"
+    ]
+  ]
+}

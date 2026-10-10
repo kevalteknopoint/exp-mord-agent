@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/unterwaschehandler-laesst-frauenherzen-hoherschlagen/",
+  "path": "dept/de-dach/case/unterwaschehandler-laesst-frauenherzen-hoherschlagen",
+  "timestamp": "2026-10-09T11:24:25.435Z",
+  "title": "Unterwäschehändler lässt Frauenherzen höherschlagen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Figleaves-Rectangle-489.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Figleaves-Rectangle-489.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Figleaves_dev1-1-1200x675-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Figleaves_dev1-1-1200x675-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Fingerspelling-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Fingerspelling-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Featured-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Featured-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Figleaves_Header-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Figleaves_Header-1440x810-c.jpg"
+    ]
+  ]
+}

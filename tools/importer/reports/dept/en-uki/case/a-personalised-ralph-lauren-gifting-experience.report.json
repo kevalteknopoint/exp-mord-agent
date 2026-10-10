@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/a-personalised-ralph-lauren-gifting-experience/",
+  "path": "dept/en-uki/case/a-personalised-ralph-lauren-gifting-experience",
+  "timestamp": "2026-10-09T19:38:26.911Z",
+  "title": "A personalised Ralph Lauren gifting experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "call-to-action",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Ralph-Lauren-Gift-Chatbot-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Ralph-Lauren-Gift-Chatbot-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Ralph-Lauren-Gift-Chatbot-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Ralph-Lauren-Gift-Chatbot-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Helzberg-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Helzberg-12.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image-Full-bleed-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image-Full-bleed-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-dangers-of-non-secure-http/",
+  "path": "dept/insight/the-dangers-of-non-secure-http",
+  "timestamp": "2026-10-09T21:55:35.940Z",
+  "title": "The dangers of non-secure HTTP - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/THE-DANGERS-OF-NON-SECURE-HTTP-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/THE-DANGERS-OF-NON-SECURE-HTTP-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Ronan-Lowry-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Ronan-Lowry-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/THE-DANGERS-OF-NON-SECURE-HTTP2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/THE-DANGERS-OF-NON-SECURE-HTTP2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Ronan-Lowry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Ronan-Lowry.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/THE-DANGERS-OF-NON-SECURE-HTTP-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/THE-DANGERS-OF-NON-SECURE-HTTP-1.jpg"
+    ]
+  ]
+}

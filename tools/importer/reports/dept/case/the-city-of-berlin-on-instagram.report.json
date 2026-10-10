@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/the-city-of-berlin-on-instagram/",
+  "path": "dept/case/the-city-of-berlin-on-instagram",
+  "timestamp": "2026-10-09T11:03:47.340Z",
+  "title": "The city of Berlin on Instagram - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176153061-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176153061-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-114-1-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-114-1-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1252393674-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1252393674-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-114-2-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-114-2-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Diana-Welte-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Diana-Welte-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1.-Edelweiss_Mockup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1.-Edelweiss_Mockup.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/using-docusign.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/using-docusign.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-636008560-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-636008560-min-1-scaled.jpg"
+    ]
+  ]
+}

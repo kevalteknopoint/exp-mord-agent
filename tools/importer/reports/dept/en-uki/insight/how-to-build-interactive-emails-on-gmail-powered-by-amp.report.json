@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/how-to-build-interactive-emails-on-gmail-powered-by-amp/",
+  "path": "dept/en-uki/insight/how-to-build-interactive-emails-on-gmail-powered-by-amp",
+  "timestamp": "2026-10-09T21:10:51.455Z",
+  "title": "How to build interactive emails on Gmail powered by AMP - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/man-at-keyboard-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/man-at-keyboard-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Daan-Kramer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Daan-Kramer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/man-at-keyboard-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/man-at-keyboard-1200x750-c.jpeg"
+    ]
+  ]
+}

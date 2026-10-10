@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/seo-success-through-customer-orientation/",
+  "path": "dept/en-au/case/seo-success-through-customer-orientation",
+  "timestamp": "2026-10-09T12:28:40.351Z",
+  "title": "SEO-success through customer orientation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-925193190-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-925193190-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1133918935-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1133918935-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-637214478-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-637214478-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1056639002-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1056639002-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1130692246-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1130692246-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1223139297-1-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1223139297-1-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Iso-Feldmann-Dept-e1627480484204.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Iso-Feldmann-Dept-e1627480484204.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1223832759-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1223832759-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CyberchaseProject@2X-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CyberchaseProject-2X-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1223139297-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1223139297-1-scaled.jpg"
+    ]
+  ]
+}

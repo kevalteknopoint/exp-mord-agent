@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dept-talks-ai-every-day/",
+  "path": "dept/en-au/event/dept-talks-ai-every-day",
+  "timestamp": "2026-10-09T12:53:22.783Z",
+  "title": "DEPT® Talks: AI Every Day - Event",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEPT%C2%AE-TALKS-AI-every-day-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEPT--TALKS-AI-every-day-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Anthem-Awards-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Anthem-Awards-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEPT%C2%AE-TALKS-AI-every-day-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEPT--TALKS-AI-every-day-1920x1080-1.png"
+    ]
+  ]
+}

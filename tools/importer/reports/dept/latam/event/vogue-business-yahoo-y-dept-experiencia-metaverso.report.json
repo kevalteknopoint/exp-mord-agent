@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/event/vogue-business-yahoo-y-dept-experiencia-metaverso/",
+  "path": "dept/latam/event/vogue-business-yahoo-y-dept-experiencia-metaverso",
+  "timestamp": "2026-10-09T23:43:44.162Z",
+  "title": "Vogue Business, Yahoo y Dept: Experiencia Metaverso - DEPT®",
+  "template": "dept-event",
+  "locale": "latam",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Landing-Page-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Landing-Page-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/trexler-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/trexler-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Joanna-Lambert-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Joanna-Lambert-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/MaghanMcDowellheadshotnew-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/MaghanMcDowellheadshotnew-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/mendelsohn-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/mendelsohn-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Nigel--150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Nigel--150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/129688375_1524239617765384_8923188688535691335_n-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/129688375_1524239617765384_8923188688535691335_n-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Landing-Page-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Landing-Page-1.png"
+    ]
+  ]
+}

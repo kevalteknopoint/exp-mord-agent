@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/case/a-customer-driven-strategy-for-gas-networks-ireland/",
   "path": "dept/case/a-customer-driven-strategy-for-gas-networks-ireland",
-  "timestamp": "2026-10-08T16:15:46.218Z",
+  "timestamp": "2026-10-09T09:49:14.866Z",
   "title": "A customer driven strategy - DEPT®",
   "template": "dept-case",
   "locale": "global",
@@ -17,9 +17,7 @@
     "assets-and-copy",
     "next-case"
   ],
-  "fallback": [
-    "case-intro-title"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/04/gas-vanon-raod.jpg",
@@ -40,6 +38,10 @@
     [
       "https://www.dept.global/wp-content/uploads/2021/04/ireland-gas.jpg",
       "/content/dam/exp-mord-agent/dept/uploads/2021/04/ireland-gas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Audley-city-view.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Audley-city-view.png"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2021/04/gas-vanon-raod.jpg",

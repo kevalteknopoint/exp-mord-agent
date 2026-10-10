@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/democratizing-fitness-for-all/",
+  "path": "dept/case/democratizing-fitness-for-all",
+  "timestamp": "2026-10-09T10:41:30.044Z",
+  "title": "Democratizing fitness for all - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "custom-listing",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/TGG_hero_YT_16x9_ShedCycle-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/TGG_hero_YT_16x9_ShedCycle-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/msi-invitational-lol-design-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/msi-invitational-lol-design-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Fingerspelling-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Fingerspelling-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png"
+    ]
+  ]
+}

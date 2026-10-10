@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/new10/",
+  "path": "dept/en-uki/case/new10",
+  "timestamp": "2026-10-09T20:24:22.862Z",
+  "title": "The making of a Corporate Startup - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "call-to-action",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-90-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-90-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-933417662-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-933417662-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Matt-Lacey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Matt-Lacey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/HDFC-LTD-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/HDFC-LTD-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/regraded-AUDI-Amsterdam-%C2%A9rachelecclestone-093827-file1938-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/regraded-AUDI-Amsterdam--rachelecclestone-093827-file1938-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/disney-data-analyics-consulting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/disney-data-analyics-consulting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg"
+    ]
+  ]
+}

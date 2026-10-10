@@ -1,0 +1,82 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-the-creator-economy-is-reshaping-marketing/",
+  "path": "dept/insight/how-the-creator-economy-is-reshaping-marketing",
+  "timestamp": "2026-10-09T22:07:13.745Z",
+  "title": "How the creator economy is reshaping marketing - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "stats-panel",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/how-creator-economy-is-reshaping-marketing-500X300.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/how-creator-economy-is-reshaping-marketing-500X300.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/nikki-melless-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/nikki-melless-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/test-graph.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/test-graph.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Salome.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Salome.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/virtual-assistant.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/virtual-assistant.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/POC_-_500x300_featured_image.jpeg.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/POC_-_500x300_featured_image.jpeg.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/pioneering-social-media-panel-adweek.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/pioneering-social-media-panel-adweek.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/nikki-melless.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/nikki-melless.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/how-creator-economy-is-reshaping-marketing-500X300.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/how-creator-economy-is-reshaping-marketing-500X300.png"
+    ]
+  ]
+}

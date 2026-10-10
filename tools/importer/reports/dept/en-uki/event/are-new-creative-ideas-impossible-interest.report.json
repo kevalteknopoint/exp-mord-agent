@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/are-new-creative-ideas-impossible-interest/",
+  "path": "dept/en-uki/event/are-new-creative-ideas-impossible-interest",
+  "timestamp": "2026-10-09T19:42:20.259Z",
+  "title": "Are new creative ideas impossible? - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/DEPT%C2%AETalks-event-header-1905x975-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/DEPT-Talks-event-header-1905x975-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Liza-Enebeis-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Liza-Enebeis-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Untitled-design-4-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Untitled-design-4-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ruban-Yogaratnam-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ruban-Yogaratnam-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/DEPT%C2%AETalks-event-header-1905x975-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/DEPT-Talks-event-header-1905x975-2.png"
+    ]
+  ]
+}

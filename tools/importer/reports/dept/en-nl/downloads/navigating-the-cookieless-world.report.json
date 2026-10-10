@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/navigating-the-cookieless-world/",
+  "path": "dept/en-nl/downloads/navigating-the-cookieless-world",
+  "timestamp": "2026-10-09T17:51:29.886Z",
+  "title": "Navigating the cookieless world - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png"
+    ]
+  ]
+}

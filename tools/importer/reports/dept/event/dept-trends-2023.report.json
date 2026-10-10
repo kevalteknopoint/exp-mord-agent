@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-trends-2023/",
+  "path": "dept/event/dept-trends-2023",
+  "timestamp": "2026-10-09T20:10:00.339Z",
+  "title": "DEPT® Trends 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Events-Header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Events-Header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/1637789987701-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/1637789987701-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Levy-Misiedjan-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Levy-Misiedjan-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Untitled-design-6-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Untitled-design-6-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.19.36-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.19.36-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/1663613203550-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/1663613203550-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.20.39-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.20.39-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/1579113622470-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/1579113622470-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Captura-de-Pantalla-2022-12-12-a-las-17.00.10-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Captura-de-Pantalla-2022-12-12-a-las-17.00.10-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Events-Header-1440x588-1-1024x418.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Events-Header-1440x588-1-1024x418.png"
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/dept-growth-marketing-week-2023/",
+  "path": "dept/en-nl/event/dept-growth-marketing-week-2023",
+  "timestamp": "2026-10-09T23:44:10.212Z",
+  "title": "DEPT® Growth Marketing Week 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register",
+    "event-program",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/DEPT%C2%AE-Growth-Week-Events-Page-Background-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/DEPT--Growth-Week-Events-Page-Background-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Desktop-BG.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Desktop-BG.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1697407689820.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1697407689820.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Toby-Foy.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Toby-Foy.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Gareth-George-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Gareth-George-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Dept-London-1680-47-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Dept-London-1680-47-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Dept-London-1680-104.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Dept-London-1680-104.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/adam-jewson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/adam-jewson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Desktop-BG.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Desktop-BG.jpg"
+    ]
+  ]
+}

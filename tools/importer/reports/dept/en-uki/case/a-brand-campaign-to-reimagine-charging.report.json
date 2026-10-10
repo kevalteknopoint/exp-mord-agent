@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/a-brand-campaign-to-reimagine-charging/",
+  "path": "dept/en-uki/case/a-brand-campaign-to-reimagine-charging",
+  "timestamp": "2026-10-09T19:30:49.554Z",
+  "title": "A brand campaign to reimagine charging - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Audicase-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Audicase-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/muuto-living-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/muuto-living-area-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/regraded-AUDI-Amsterdam-%C2%A9rachelecclestone-093827-file1938-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/regraded-AUDI-Amsterdam--rachelecclestone-093827-file1938-scaled.jpg"
+    ]
+  ]
+}

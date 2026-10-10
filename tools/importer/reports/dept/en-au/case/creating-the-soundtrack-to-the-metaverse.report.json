@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/creating-the-soundtrack-to-the-metaverse/",
+  "path": "dept/en-au/case/creating-the-soundtrack-to-the-metaverse",
+  "timestamp": "2026-10-09T12:48:58.271Z",
+  "title": "Creating the soundtrack to the metaverse - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Dequency-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Dequency-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/adrian-hernandez-UZFlMWqdqHg-unsplash-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/adrian-hernandez-UZFlMWqdqHg-unsplash-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/WP20002_BLAK_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/WP20002_BLAK_11.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/wine.com-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/wine.com-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg"
+    ]
+  ]
+}

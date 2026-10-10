@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-stunning-new-digital-presence-for-an-award-winning-danish-theatre-2/",
+  "path": "dept/case/a-stunning-new-digital-presence-for-an-award-winning-danish-theatre-2",
+  "timestamp": "2026-10-09T10:47:01.469Z",
+  "title": "A stunning digital presence for an award winning theatre - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "intro-text",
+    "image",
+    "call-to-action",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_Many-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_Many-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_Purple-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_Purple-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_Caption-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_Caption-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_Screens-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_Screens-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/betty_nansen_case_grids.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/betty_nansen_case_grids.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Mette_Edslev.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Mette_Edslev.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Screenshot-2023-03-09-at-11.06.32-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Screenshot-2023-03-09-at-11.06.32-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
+    ]
+  ]
+}

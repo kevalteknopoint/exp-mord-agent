@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/work/",
+  "path": "dept/en-au/work",
+  "timestamp": "2026-10-09T14:36:09.147Z",
+  "title": "Featured work at DEPT®, a full service digital agency | DEPT® - DEPT®",
+  "template": "dept-page",
+  "locale": "en-au",
+  "components": [
+    "work-listing-v2"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/van.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/van.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/HSBC-UK-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/HSBC-UK-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Nyiyaparli-Widi-Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Nyiyaparli-Widi-Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-on-dirtbiker.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-on-dirtbiker.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

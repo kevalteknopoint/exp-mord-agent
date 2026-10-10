@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/from-dark-to-light-a-new-e-commerce-platform/",
+  "path": "dept/case/from-dark-to-light-a-new-e-commerce-platform",
+  "timestamp": "2026-10-09T10:09:09.583Z",
+  "title": "From dark to light: a new e-commerce platform - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Flos-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Flos-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-7.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-7.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Danijel-Bonacic-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Danijel-Bonacic-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/lapierre-light-the-way-creative-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/lapierre-light-the-way-creative-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/bijenkorf-1440x810-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/bijenkorf-1440x810-c-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

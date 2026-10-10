@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/the-one-stop-shopping-platform-for-restaurateurs/",
+  "path": "dept/case/the-one-stop-shopping-platform-for-restaurateurs",
+  "timestamp": "2026-10-09T11:05:06.666Z",
+  "title": "User-centric platform for restaurateurs to streamline ordering and purchasing management",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/gastivo_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/gastivo_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Dextro_Mockup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Dextro_Mockup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Chelsea-Dooling-Dept-e1627485675109.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Chelsea-Dooling-Dept-e1627485675109.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/63e4688dc146eb0a35890b55_Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/63e4688dc146eb0a35890b55_Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/gastivo_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/gastivo_2.png"
+    ]
+  ]
+}

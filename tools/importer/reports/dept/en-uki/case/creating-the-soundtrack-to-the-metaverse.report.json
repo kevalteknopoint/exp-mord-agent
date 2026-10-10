@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/creating-the-soundtrack-to-the-metaverse/",
+  "path": "dept/en-uki/case/creating-the-soundtrack-to-the-metaverse",
+  "timestamp": "2026-10-09T20:00:08.239Z",
+  "title": "Creating the soundtrack to the metaverse - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Dequency-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Dequency-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/adrian-hernandez-UZFlMWqdqHg-unsplash-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/adrian-hernandez-UZFlMWqdqHg-unsplash-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jesse_Streb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jesse_Streb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg"
+    ]
+  ]
+}

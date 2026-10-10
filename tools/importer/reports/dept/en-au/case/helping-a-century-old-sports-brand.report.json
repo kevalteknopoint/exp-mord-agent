@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/helping-a-century-old-sports-brand/",
+  "path": "dept/en-au/case/helping-a-century-old-sports-brand",
+  "timestamp": "2026-10-09T13:07:48.139Z",
+  "title": "Refreshing a century-old brand for today's world - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/wilson-brand-identity.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/wilson-brand-identity.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/asher-wren-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/asher-wren-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-16-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-16-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1057277428-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1057277428-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/wilson-sportwear-man.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/wilson-sportwear-man.jpg"
+    ]
+  ]
+}

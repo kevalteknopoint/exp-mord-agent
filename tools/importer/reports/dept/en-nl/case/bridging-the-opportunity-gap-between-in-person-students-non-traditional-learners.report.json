@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/bridging-the-opportunity-gap-between-in-person-students-non-traditional-learners/",
+  "path": "dept/en-nl/case/bridging-the-opportunity-gap-between-in-person-students-non-traditional-learners",
+  "timestamp": "2026-10-09T23:41:50.058Z",
+  "title": "Bridging an opportunity gap between students - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "paragraph",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/asu-education-for-humanity-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/asu-education-for-humanity-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/asu-me3-app.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/asu-me3-app.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/boabab-MultiScreen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/boabab-MultiScreen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoe-mirror-13.21.18.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoe-mirror-13.21.18.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/energy-utilities-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/energy-utilities-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ghd-case-image-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ]
+  ]
+}

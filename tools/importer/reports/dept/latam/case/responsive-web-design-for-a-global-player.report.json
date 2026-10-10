@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/responsive-web-design-for-a-global-player/",
+  "path": "dept/latam/case/responsive-web-design-for-a-global-player",
+  "timestamp": "2026-10-09T21:42:04.274Z",
+  "title": "Responsive web design for a global player - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-522866588-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-522866588-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1151076499-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1151076499-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-109-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-109-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-110-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-110-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/case-tiktok-DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/case-tiktok-DEPT-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg"
+    ]
+  ]
+}

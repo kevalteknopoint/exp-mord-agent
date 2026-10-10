@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/three-trends-redefining-bfsi-in-2026-data-ux-ai/",
+  "path": "dept/insight/three-trends-redefining-bfsi-in-2026-data-ux-ai",
+  "timestamp": "2026-10-09T22:10:30.835Z",
+  "title": "Three trends redefining BFSI in 2026: Data, UX, & AI  - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/bfsi-trends-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/bfsi-trends-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Judah-Headshot-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Judah-Headshot-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Trends2026_HeroImage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Trends2026_HeroImage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/bfsi-trends-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/bfsi-trends-2026.webp"
+    ]
+  ]
+}

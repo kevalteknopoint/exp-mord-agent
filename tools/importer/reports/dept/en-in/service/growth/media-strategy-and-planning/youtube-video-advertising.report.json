@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/media-strategy-and-planning/youtube-video-advertising/",
+  "path": "dept/en-in/service/growth/media-strategy-and-planning/youtube-video-advertising",
+  "timestamp": "2026-10-09T16:33:26.394Z",
+  "title": "YouTube/video advertising - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Video-Advertising.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Video-Advertising.png"
+    ]
+  ]
+}

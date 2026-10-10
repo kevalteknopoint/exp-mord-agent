@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/a-systems-thinking-approach-to-digital-transformation/",
+  "path": "dept/en-uki/downloads/a-systems-thinking-approach-to-digital-transformation",
+  "timestamp": "2026-10-09T19:23:56.639Z",
+  "title": "A systems thinking approach to digital transformation - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rectangle-385.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rectangle-385.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rectangle-385.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rectangle-385.png"
+    ]
+  ]
+}

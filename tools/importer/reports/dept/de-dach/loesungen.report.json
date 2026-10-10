@@ -1,0 +1,81 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/loesungen/",
+  "path": "dept/de-dach/loesungen",
+  "timestamp": "2026-10-09T11:58:47.784Z",
+  "title": "Lösungen - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "talking-points",
+    "highlighted-logos",
+    "work-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Boost-Brand-Media.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Boost-Brand-Media.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Enhance-Customer-Experience.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Enhance-Customer-Experience.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Drive-Commerce-Growth.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Drive-Commerce-Growth.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Scale-Technology-and-Data.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Scale-Technology-and-Data.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Ai-transformation-subsolution.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Ai-transformation-subsolution.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Jungheinrich.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Jungheinrich.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Jagermeister.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Jagermeister.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Beiersdorf.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Beiersdorf.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/ALDI-Logo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/ALDI-Logo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Douglas.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Douglas.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Cosnova.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Cosnova.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Levis.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Levis.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Smart.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Smart.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Ebay-3.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Ebay-3.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/BSH.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/BSH.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/dept-new-1024x683-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/dept-new-1024x683-1.jpg"
+    ]
+  ]
+}

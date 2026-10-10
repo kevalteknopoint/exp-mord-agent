@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/changing-the-world-one-burger-at-a-time/",
+  "path": "dept/en-nl/case/changing-the-world-one-burger-at-a-time",
+  "timestamp": "2026-10-09T17:54:05.573Z",
+  "title": "Changing the world one burger at a time - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1920-x-1088.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1920-x-1088.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1920-x-1081.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1920-x-1081.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1920-x-1089.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1920-x-1089.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1920-x-1083.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1920-x-1083.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/dayrize_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/dayrize_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1000-x-1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1000-x-1200.jpg"
+    ]
+  ]
+}

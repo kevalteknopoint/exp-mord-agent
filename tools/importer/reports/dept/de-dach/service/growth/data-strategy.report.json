@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/growth/data-strategy/",
+  "path": "dept/de-dach/service/growth/data-strategy",
+  "timestamp": "2026-10-09T11:25:01.135Z",
+  "title": "Data Strategy - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/data-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/data-strategy.jpg"
+    ]
+  ]
+}

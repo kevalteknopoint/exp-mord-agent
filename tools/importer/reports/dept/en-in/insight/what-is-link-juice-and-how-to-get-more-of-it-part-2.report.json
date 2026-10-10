@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/what-is-link-juice-and-how-to-get-more-of-it-part-2/",
+  "path": "dept/en-in/insight/what-is-link-juice-and-how-to-get-more-of-it-part-2",
+  "timestamp": "2026-10-09T17:04:23.340Z",
+  "title": "What is link juice and how to get more of it: Part 2 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/iStock-1324688245.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/iStock-1324688245.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Placeholder-for-authors-without-headshot-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Placeholder-for-authors-without-headshot-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/scenario-1-1080x592-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/scenario-1-1080x592-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/scenario-2-1080x592-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/scenario-2-1080x592-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Placeholder-for-authors-without-headshot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Placeholder-for-authors-without-headshot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/iStock-1324688245.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/iStock-1324688245.jpg"
+    ]
+  ]
+}

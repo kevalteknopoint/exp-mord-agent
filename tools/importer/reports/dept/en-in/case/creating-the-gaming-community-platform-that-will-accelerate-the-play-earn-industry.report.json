@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/creating-the-gaming-community-platform-that-will-accelerate-the-play-earn-industry/",
+  "path": "dept/en-in/case/creating-the-gaming-community-platform-that-will-accelerate-the-play-earn-industry",
+  "timestamp": "2026-10-09T15:40:31.840Z",
+  "title": "Creating the Gaming Community Platform that will accelerate the play & earn industry - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "quote",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/04-Mobile-Angled.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/04-Mobile-Angled.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/05-Mobile.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/05-Mobile.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/02-Template-Mobiles.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/02-Template-Mobiles.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Jochem-van-Rossem-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Jochem-van-Rossem-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Insights.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Insights.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1000-x-1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1000-x-1200.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ]
+  ]
+}

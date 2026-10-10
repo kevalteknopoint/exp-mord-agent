@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/increasing-customer-acquisition-through-digital/",
+  "path": "dept/en-au/case/increasing-customer-acquisition-through-digital",
+  "timestamp": "2026-10-09T13:11:23.357Z",
+  "title": "Increasing customer acquisition through digital - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20210504_Stills_3691_1_720x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20210504_Stills_3691_1_720x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20210310_DSC1007_1_1296x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20210310_DSC1007_1_1296x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/hero-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/hero-1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Read-More-Breadcrumb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Read-More-Breadcrumb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/eye-bobs.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/eye-bobs.jpg"
+    ]
+  ]
+}

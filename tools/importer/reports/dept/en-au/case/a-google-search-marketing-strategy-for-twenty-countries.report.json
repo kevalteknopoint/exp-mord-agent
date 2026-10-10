@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/a-google-search-marketing-strategy-for-twenty-countries/",
+  "path": "dept/en-au/case/a-google-search-marketing-strategy-for-twenty-countries",
+  "timestamp": "2026-10-09T11:51:27.740Z",
+  "title": "A Google search marketing strategy for twenty countries - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/93522.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/93522.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/sesamestreetyourself-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/sesamestreetyourself-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ]
+  ]
+}

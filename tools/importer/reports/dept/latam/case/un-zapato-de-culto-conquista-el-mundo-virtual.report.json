@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/un-zapato-de-culto-conquista-el-mundo-virtual/",
+  "path": "dept/latam/case/un-zapato-de-culto-conquista-el-mundo-virtual",
+  "timestamp": "2026-10-09T22:59:47.440Z",
+  "title": "Un zapato de culto conquista el mundo virtual - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/birkenstock-eu-cw15-stage-01-franca-d.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/birkenstock-eu-cw15-stage-01-franca-d.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/birkenstock-1024x1024-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/birkenstock-1024x1024-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1019635_f_look_f.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1019635_f_look_f.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1015488_f_look_f.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1015488_f_look_f.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1022719_f_closeup_f.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1022719_f_closeup_f.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-94-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-94-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/boy-in-stands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/boy-in-stands.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_6_Overview-mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_6_Overview-mobile-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/birkenstock_featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/birkenstock_featured.jpg"
+    ]
+  ]
+}

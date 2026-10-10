@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/what-happens-when-you-lack-senior-engineering-leadership/",
+  "path": "dept/insight/what-happens-when-you-lack-senior-engineering-leadership",
+  "timestamp": "2026-10-09T21:07:14.262Z",
+  "title": "What happens when you lack senior engineering leaders - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/senior-software-engineering-leadership.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/senior-software-engineering-leadership.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/senior-software-engineering-leadership.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/senior-software-engineering-leadership.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/engineering-leadership.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/engineering-leadership.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/senior-software-engineering-leadership.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/senior-software-engineering-leadership.jpeg"
+    ]
+  ]
+}

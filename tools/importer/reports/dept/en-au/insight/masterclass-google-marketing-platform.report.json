@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/masterclass-google-marketing-platform/",
+  "path": "dept/en-au/insight/masterclass-google-marketing-platform",
+  "timestamp": "2026-10-09T13:32:38.857Z",
+  "title": "Masterclass: Google Marketing Platform - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "video",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/GMP-Masterclass-Article-header-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/GMP-Masterclass-Article-header-500x300-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Amir-Hermon-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Amir-Hermon-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Amir-Hermon-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Amir-Hermon-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/GMP-Masterclass-Article-header-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/GMP-Masterclass-Article-header-500x300-1.jpg"
+    ]
+  ]
+}

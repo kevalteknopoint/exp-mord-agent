@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-blick-in-die-zukunft-des-essens/",
+  "path": "dept/de-dach/case/ein-blick-in-die-zukunft-des-essens",
+  "timestamp": "2026-10-09T11:40:47.985Z",
+  "title": "Ein Blick in die Zukunft des Essens - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-518459098-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-518459098-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway3-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway3-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ]
+  ]
+}

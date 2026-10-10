@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-achieves-shopify-plus-partnership-status-for-uk-ireland-and-the-dach-region/",
+  "path": "dept/en-uki/insight/dept-achieves-shopify-plus-partnership-status-for-uk-ireland-and-the-dach-region",
+  "timestamp": "2026-10-09T19:10:20.863Z",
+  "title": "DEPT® achieves Shopify Plus partnership status",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/DEPT%C2%AE_x_Shopify_Plus.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/DEPT-_x_Shopify_Plus.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mark-Wright-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mark-Wright-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mark-Wright.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mark-Wright.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/DEPT%C2%AE_x_Shopify_Plus.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/DEPT-_x_Shopify_Plus.jpg"
+    ]
+  ]
+}

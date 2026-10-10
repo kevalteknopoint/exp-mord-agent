@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/validating-digital-product-ideas/",
+  "path": "dept/insight/validating-digital-product-ideas",
+  "timestamp": "2026-10-09T21:01:21.940Z",
+  "title": "Validating digital product ideas: From concept to creation - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "media-with-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/validating_product_ideas_feature-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/validating_product_ideas_feature-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nathan-Hulsey-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nathan-Hulsey-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/product-vision-meeting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/product-vision-meeting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Product-development-magic-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Product-development-magic-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-metal-closeup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-metal-closeup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/How-to-prioritise-product-ideas-feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/How-to-prioritise-product-ideas-feature.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/validating_product_ideas_feature-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/validating_product_ideas_feature-min.jpg"
+    ]
+  ]
+}

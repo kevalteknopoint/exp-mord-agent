@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/future-of-commerce-emea-edition/",
+  "path": "dept/en-nl/downloads/future-of-commerce-emea-edition",
+  "timestamp": "2026-10-09T17:49:36.168Z",
+  "title": "Future of Commerce Report 2025: Consumer Trends in EMEA",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-intro",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Frame-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Frame-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Frame-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Frame-1.jpg"
+    ]
+  ]
+}

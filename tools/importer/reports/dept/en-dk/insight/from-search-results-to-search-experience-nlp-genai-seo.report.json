@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/from-search-results-to-search-experience-nlp-genai-seo/",
+  "path": "dept/en-dk/insight/from-search-results-to-search-experience-nlp-genai-seo",
+  "timestamp": "2026-10-09T15:20:02.939Z",
+  "title": "From search results to search experience: NLP, GenAI & SEO - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/From-search-results-to-search-experience_-NLP-GenAI-and-SEO-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/From-search-results-to-search-experience_-NLP-GenAI-and-SEO-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Arthur-Lescarret-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Arthur-Lescarret-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/From-search-results-to-search-experience_-NLP-GenAI-and-SEO-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/From-search-results-to-search-experience_-NLP-GenAI-and-SEO-min.png"
+    ]
+  ]
+}

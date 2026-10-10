@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/building-a-modern-shopping-experience-for-ca/",
+  "path": "dept/en-nl/case/building-a-modern-shopping-experience-for-ca",
+  "timestamp": "2026-10-09T17:49:42.441Z",
+  "title": "Building a modern shopping experience for C&A - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/woman-cA.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/woman-cA.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-02-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-02-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/group-in-ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/group-in-ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-06-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-06-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-07.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-07.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-08-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-08-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-09.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-09.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/group-in-ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/group-in-ca-denim.jpg"
+    ]
+  ]
+}

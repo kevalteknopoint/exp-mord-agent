@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/de-ultieme-handleiding-voor-het-selecteren-van-een-cms/",
+  "path": "dept/en-nl/downloads/de-ultieme-handleiding-voor-het-selecteren-van-een-cms",
+  "timestamp": "2026-10-09T17:45:21.534Z",
+  "title": "De ultieme handleiding voor het selecteren van een CMS - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-detail-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/CMS-selection-Landingpage-BG-950x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/CMS-selection-Landingpage-BG-950x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/CMS-selection-Landingpage-BG-950x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/CMS-selection-Landingpage-BG-950x1080-1.jpg"
+    ]
+  ]
+}

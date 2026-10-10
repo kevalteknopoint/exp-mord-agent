@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/revolutionising-managing-multiple-global-sites/",
+  "path": "dept/latam/case/revolutionising-managing-multiple-global-sites",
+  "timestamp": "2026-10-09T21:42:20.940Z",
+  "title": "Revolutionising managing multiple global sites - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1212170511-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1212170511-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Frame-1537-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Frame-1537-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/cx-design/design-sprint/",
+  "path": "dept/en-dk/service/cx-design/design-sprint",
+  "timestamp": "2026-10-09T14:17:25.639Z",
+  "title": "Design Sprints - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/designsprints.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/designsprints.png"
+    ]
+  ]
+}

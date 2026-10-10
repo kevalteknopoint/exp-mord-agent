@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/ki-roundtable-abseits-des-hypes-wie-ki-prozesse-veraendert-und-produktivitaet-steigert/",
+  "path": "dept/de-dach/event/ki-roundtable-abseits-des-hypes-wie-ki-prozesse-veraendert-und-produktivitaet-steigert",
+  "timestamp": "2026-10-09T11:05:13.076Z",
+  "title": "KI Roundtable – Abseits des Hypes: Wie KI Prozesse verändert und Produktivität steigern kann - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/DACH-AI-Roundtable-Hero-banner-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/DACH-AI-Roundtable-Hero-banner-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Torsten_Logsch-e1760450721555.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Torsten_Logsch-e1760450721555.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Tobias-Kraeft-DEPT-36-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Tobias-Kraeft-DEPT-36-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/David-Pajung-Dept-01-1-14950.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/David-Pajung-Dept-01-1-14950.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Oliver-Cloppenburg-DEPT%C2%AE-e1740584165736.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Oliver-Cloppenburg-DEPT--e1740584165736.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Now-Next-Future-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Now-Next-Future-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Discovery-click.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Discovery-click.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Experience-path.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Experience-path.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/DACH-AI-Roundtable-Hero-banner-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/DACH-AI-Roundtable-Hero-banner-1920x1080-1.webp"
+    ]
+  ]
+}

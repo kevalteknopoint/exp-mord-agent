@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/cheetos-turning-snack-dust-into-street-cred-for-cheetos-uk/",
+  "path": "dept/awards/cheetos-turning-snack-dust-into-street-cred-for-cheetos-uk",
+  "timestamp": "2026-10-09T10:09:28.343Z",
+  "title": "CHEETOS - Turning snack dust into street cred for Cheetos UK  - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "video",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Cheetos_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/5-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/5-Cheetos_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6A-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6A-Cheetos_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6B-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6B-Cheetos_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6C-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6C-Cheetos_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Cheetos_Still.webp"
+    ]
+  ]
+}

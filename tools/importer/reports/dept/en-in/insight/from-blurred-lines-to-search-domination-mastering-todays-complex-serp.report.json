@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/from-blurred-lines-to-search-domination-mastering-todays-complex-serp/",
+  "path": "dept/en-in/insight/from-blurred-lines-to-search-domination-mastering-todays-complex-serp",
+  "timestamp": "2026-10-09T16:29:46.670Z",
+  "title": "From blurred lines to search domination: Mastering today’s complex SERP - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Keyword-Research-Dept-1200x750-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Keyword-Research-Dept-1200x750-c-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Keyword-Research-Dept-1200x750-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Keyword-Research-Dept-1200x750-c-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/POC_-_500x300_featured_image.jpeg.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/POC_-_500x300_featured_image.jpeg.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Innovation-search-ai-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Innovation-search-ai-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/optimize-cro-programs-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/optimize-cro-programs-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Keyword-Research-Dept-1200x750-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Keyword-Research-Dept-1200x750-c-1.jpg"
+    ]
+  ]
+}

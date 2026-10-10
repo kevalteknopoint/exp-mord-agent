@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/event/amigxs-en-la-oficina-en-buenos-aires/",
+  "path": "dept/latam/event/amigxs-en-la-oficina-en-buenos-aires",
+  "timestamp": "2026-10-09T23:45:42.292Z",
+  "title": "Amigxs en la oficina en Buenos Aires - DEPT®",
+  "template": "dept-event",
+  "locale": "latam",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Header-3-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Header-3-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Form-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Form-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/10-de-noviembre-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/10-de-noviembre-1-1.jpg"
+    ]
+  ]
+}

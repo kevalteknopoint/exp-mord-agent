@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/all-events/",
+  "path": "dept/en-dk/all-events",
+  "timestamp": "2026-10-09T23:07:19.803Z",
+  "title": "Insights, Downloads & Events by DEPT®",
+  "template": "dept-page",
+  "locale": "en-dk",
+  "components": [
+    "content-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Trends2026_HeroImage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Trends2026_HeroImage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Leadership-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Leadership-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Lovie-AOTY-2025-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Lovie-AOTY-2025-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Wineclub-DK-Mobile-Hero-Banner-375x375-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Wineclub-DK-Mobile-Hero-Banner-375x375-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/webby-winners-dept-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/webby-winners-dept-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/webbys-2026-dept.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/webbys-2026-dept.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/commerce-content-strategy.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/commerce-content-strategy.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Pilot-to-orchestration-feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Pilot-to-orchestration-feature.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Universal-Commerce-Protocol-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Universal-Commerce-Protocol-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Wero-IWW-Key-Visual-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Wero-IWW-Key-Visual-1600x900-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/StudioDumbar-EDAWARDS-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/StudioDumbar-EDAWARDS-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/crm-systems-ai-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/crm-systems-ai-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/moon-creative-automatiom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/moon-creative-automatiom.jpeg"
+    ]
+  ]
+}

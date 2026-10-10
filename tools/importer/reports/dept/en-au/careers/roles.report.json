@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/careers/roles/",
+  "path": "dept/en-au/careers/roles",
+  "timestamp": "2026-10-09T11:50:21.635Z",
+  "title": "Roles - DEPT®",
+  "template": "dept-careers",
+  "locale": "en-au",
+  "components": [
+    "card-hero",
+    "wrapper"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/careers-header.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/careers-header.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-31.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-31.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-9.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

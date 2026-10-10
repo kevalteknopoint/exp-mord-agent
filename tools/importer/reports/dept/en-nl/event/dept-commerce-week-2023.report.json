@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/dept-commerce-week-2023/",
+  "path": "dept/en-nl/event/dept-commerce-week-2023",
+  "timestamp": "2026-10-09T23:43:33.635Z",
+  "title": "DEPT® Commerce Week 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-program",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Desktop-Background-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Desktop-Background-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Desktop-Background-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Desktop-Background-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Jordan-Bourse.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Jordan-Bourse.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/NBK-Retail-39-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/NBK-Retail-39-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/unnamed.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/unnamed.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Oliver-Lange-HM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Oliver-Lange-HM.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Isabel-Perry.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Isabel-Perry.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/katy-sf.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/katy-sf.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Desktop-Background-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Desktop-Background-2-1.jpg"
+    ]
+  ]
+}

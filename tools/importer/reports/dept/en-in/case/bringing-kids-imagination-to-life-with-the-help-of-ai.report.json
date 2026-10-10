@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/bringing-kids-imagination-to-life-with-the-help-of-ai/",
+  "path": "dept/en-in/case/bringing-kids-imagination-to-life-with-the-help-of-ai",
+  "timestamp": "2026-10-09T14:55:49.739Z",
+  "title": "Bringing kids' imagination to life with the help of AI - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "quote",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/tilestyle-shopify.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/tilestyle-shopify.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/22-ebay_MCM_ComicCon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/22-ebay_MCM_ComicCon.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_1-1.png"
+    ]
+  ]
+}

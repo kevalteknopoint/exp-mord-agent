@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/targeting-bringt-immobilien-und-kauferinnen-zusammen/",
+  "path": "dept/de-dach/case/targeting-bringt-immobilien-und-kauferinnen-zusammen",
+  "timestamp": "2026-10-09T11:22:03.380Z",
+  "title": "Targeting bringt Immobilien und Käufer:innen zusammen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/EverEstate-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/EverEstate-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/EverEstate-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/EverEstate-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/eBay.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/eBay.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/COCACOLA_Hero_16_9-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/COCACOLA_Hero_16_9-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/EverEstate-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/EverEstate-1.jpeg"
+    ]
+  ]
+}

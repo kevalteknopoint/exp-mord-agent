@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/increasing-revenue-and-growing-brand-awareness-with-new-audiences/",
+  "path": "dept/en-au/case/increasing-revenue-and-growing-brand-awareness-with-new-audiences",
+  "timestamp": "2026-10-09T13:11:36.841Z",
+  "title": "Increasing revenue and growing brand awareness with new audiences - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "panel-two-media",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/healthcaretechSolution3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/healthcaretechSolution3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/healthcaretechImageRight2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/healthcaretechImageRight2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/healthtech-case-study-featured-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/healthtech-case-study-featured-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/wongle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/wongle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/retirement-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/retirement-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/healthtech-case-study-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/healthtech-case-study-featured.jpg"
+    ]
+  ]
+}

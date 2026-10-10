@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/growth/customer-data-platform/",
+  "path": "dept/de-dach/service/growth/customer-data-platform",
+  "timestamp": "2026-10-09T11:24:43.561Z",
+  "title": "Customer Data Platform - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/CDP_-Customer-Data-Platform.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/CDP_-Customer-Data-Platform.png"
+    ]
+  ]
+}

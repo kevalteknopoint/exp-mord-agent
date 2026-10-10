@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-lunch-break-creative-automation/",
+  "path": "dept/de-dach/event/dept-lunch-break-creative-automation",
+  "timestamp": "2026-10-09T22:40:03.136Z",
+  "title": "DEPT® Lunch Break: Creative Automation - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "four-card-information-block",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Event-Header-_-Website-_-Static-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Event-Header-_-Website-_-Static-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Lunch-Break-Creative-Automation-thumbnail-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Lunch-Break-Creative-Automation-thumbnail-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Anneloes-van-Vugt.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Anneloes-van-Vugt.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Dept-London-1680-103-min-e1712560358789.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Dept-London-1680-103-min-e1712560358789.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-18-at-14.47.46.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-18-at-14.47.46.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/DEPT-CPG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/DEPT-CPG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/DEPT-BFSI-GTM-Cover.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/DEPT-BFSI-GTM-Cover.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/DEPT-AUTOMOTIVE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/DEPT-AUTOMOTIVE.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT-TRAVEL.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-TRAVEL.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT-COMMERCE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-COMMERCE.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT-FASHION.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-FASHION.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Event-Header-_-Website-_-Static-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Event-Header-_-Website-_-Static-1-1.png"
+    ]
+  ]
+}

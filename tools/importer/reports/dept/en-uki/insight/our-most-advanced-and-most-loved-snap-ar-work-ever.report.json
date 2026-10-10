@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/our-most-advanced-and-most-loved-snap-ar-work-ever/",
+  "path": "dept/en-uki/insight/our-most-advanced-and-most-loved-snap-ar-work-ever",
+  "timestamp": "2026-10-09T20:13:39.940Z",
+  "title": "Our most advanced (and most loved) Snap AR work ever - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "stats-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Our-most-advanced-and-silliest-Snap-AR-work-ever-1200x670px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Our-most-advanced-and-silliest-Snap-AR-work-ever-1200x670px.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Emy-Cragoe-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Emy-Cragoe-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT%C2%AE-Snap-Summit-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT--Snap-Summit-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR-opportunity-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR-opportunity-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Evolution-of-social-media-featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Evolution-of-social-media-featured-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Paris-Hilton-featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Paris-Hilton-featured-image-500x344-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Our-most-advanced-and-silliest-Snap-AR-work-ever-1200x670px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Our-most-advanced-and-silliest-Snap-AR-work-ever-1200x670px.png"
+    ]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/a-green-strategy-to-reach-more-climate-conscious-donors/",
+  "path": "dept/en-in/case/a-green-strategy-to-reach-more-climate-conscious-donors",
+  "timestamp": "2026-10-09T14:40:13.634Z",
+  "title": "A green strategy to reach more climate-conscious donors - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-image-3-dig-in-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-image-3-dig-in-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-image-1-bunds-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-image-1-bunds-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-image-2-landscape-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-image-2-landscape-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-image-4-bunds-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-image-4-bunds-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Max-Reilman-Dept-1-min-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Max-Reilman-Dept-1-min-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/ehealth-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/ehealth-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/my-cp-guide-6-1-1-e1700022786913.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/my-cp-guide-6-1-1-e1700022786913.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image.png"
+    ]
+  ]
+}

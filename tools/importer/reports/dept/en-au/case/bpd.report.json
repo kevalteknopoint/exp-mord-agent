@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/bpd/",
+  "path": "dept/en-au/case/bpd",
+  "timestamp": "2026-10-09T12:31:12.539Z",
+  "title": "Online property purchase - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "image",
+    "intro-text",
+    "panel-with-rich-text",
+    "jumbotron",
+    "call-to-action",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "image",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BPD_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BPD_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BPD_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BPD_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BPD_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BPD_1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/melbourne/",
+  "path": "dept/office/melbourne",
+  "timestamp": "2026-10-09T22:38:58.939Z",
+  "title": "Melbourne - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Office_photo_1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Office_photo_1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Two-Bulls-x-DEPT-Office-image-2-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Two-Bulls-x-DEPT-Office-image-2-scaled.jpeg"
+    ]
+  ]
+}

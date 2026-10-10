@@ -1,0 +1,102 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/growth-marketing-week/",
+  "path": "dept/event/growth-marketing-week",
+  "timestamp": "2026-10-09T21:21:42.969Z",
+  "title": "DEPT® Growth Marketing Week 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "image-with-content-cards",
+    "title-and-content",
+    "event-program",
+    "title-and-content",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/DEPT%C2%AE-Growth-Week-Events-Page-Background.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/DEPT--Growth-Week-Events-Page-Background.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Rectangle-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Rectangle-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Nina-Webb.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Nina-Webb.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Gianna-Valintina.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Gianna-Valintina.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Lawrence-Edmondson-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Lawrence-Edmondson-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Peter-Hestbaek-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Peter-Hestbaek-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Brian-Coles.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Brian-Coles.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Gareth-George-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Gareth-George-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Nikolay-Zelyamov-3-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Nikolay-Zelyamov-3-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Richard.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Richard.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Robert-Rooijakkers-Dept-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Robert-Rooijakkers-Dept-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Tobias_17-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Tobias_17-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Erwin-Bossers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Erwin-Bossers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Dept-London-1680-47-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Dept-London-1680-47-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Dept-London-1680-104.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Dept-London-1680-104.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/adam-jewson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/adam-jewson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1612168383302.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1612168383302.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Lindsay-Kennedy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Lindsay-Kennedy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/New-Email-Header-v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/New-Email-Header-v2.jpg"
+    ]
+  ]
+}

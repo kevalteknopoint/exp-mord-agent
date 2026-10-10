@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/java-developer-assignment/",
+  "path": "dept/java-developer-assignment",
+  "timestamp": "2026-10-09T21:23:31.539Z",
+  "title": "The case JAVA developer assignment - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "post-header",
+    "panel-with-rich-text",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Berlin_Office-8-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Berlin_Office-8-1200x750-c.jpg"
+    ]
+  ]
+}

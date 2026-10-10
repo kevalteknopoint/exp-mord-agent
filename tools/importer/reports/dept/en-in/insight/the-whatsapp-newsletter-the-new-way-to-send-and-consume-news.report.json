@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/the-whatsapp-newsletter-the-new-way-to-send-and-consume-news/",
+  "path": "dept/en-in/insight/the-whatsapp-newsletter-the-new-way-to-send-and-consume-news",
+  "timestamp": "2026-10-09T16:53:42.440Z",
+  "title": "The WhatsApp newsletter: the new way to send and consume news - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/whatsapp_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/whatsapp_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/whatsapp_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/whatsapp_1.png"
+    ]
+  ]
+}

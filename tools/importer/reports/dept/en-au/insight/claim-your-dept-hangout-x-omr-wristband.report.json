@@ -1,0 +1,28 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/claim-your-dept-hangout-x-omr-wristband/",
+  "path": "dept/en-au/insight/claim-your-dept-hangout-x-omr-wristband",
+  "timestamp": "2026-10-09T12:32:14.867Z",
+  "title": "Claim your DEPT® Hangout x OMR wristband - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/DEPT%C2%AE-OMR_wristband.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/DEPT--OMR_wristband.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/DEPT%C2%AE-OMR_wristband.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/DEPT--OMR_wristband.jpeg"
+    ]
+  ]
+}

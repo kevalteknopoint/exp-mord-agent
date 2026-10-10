@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/pragmatic-guide-to-the-metaverse-technology-components/",
+  "path": "dept/en-uki/downloads/pragmatic-guide-to-the-metaverse-technology-components",
+  "timestamp": "2026-10-09T19:38:11.734Z",
+  "title": "Pragmatic guide to the metaverse - technology & components - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-melted-plastic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-melted-plastic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/pragmatic-guide-metaverse-cover-1024x726.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/pragmatic-guide-metaverse-cover-1024x726.png"
+    ]
+  ]
+}

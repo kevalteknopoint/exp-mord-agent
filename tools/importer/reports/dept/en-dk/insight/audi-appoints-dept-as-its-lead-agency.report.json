@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/audi-appoints-dept-as-its-lead-agency/",
+  "path": "dept/en-dk/insight/audi-appoints-dept-as-its-lead-agency",
+  "timestamp": "2026-10-09T14:04:52.366Z",
+  "title": "Audi appoints DEPT® as its lead agency - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_x_Audi_PR-header-1-1200x750-c-5.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_x_Audi_PR-header-1-1200x750-c-5.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_x_Audi_PR-header-1-1200x750-c-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_x_Audi_PR-header-1-1200x750-c-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_x_Audi_PR-header-1-1200x750-c-5.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_x_Audi_PR-header-1-1200x750-c-5.jpeg"
+    ]
+  ]
+}

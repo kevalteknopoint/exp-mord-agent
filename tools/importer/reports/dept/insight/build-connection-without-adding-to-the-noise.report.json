@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/build-connection-without-adding-to-the-noise/",
+  "path": "dept/insight/build-connection-without-adding-to-the-noise",
+  "timestamp": "2026-10-09T22:01:53.934Z",
+  "title": "How brands can build connection without adding to the noise - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/chain-link-up-close-min-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/chain-link-up-close-min-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Andrew-Dimitriou-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Andrew-Dimitriou-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-Insight-Featured-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-Insight-Featured-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/chain-link-up-close-min-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/chain-link-up-close-min-1.jpg"
+    ]
+  ]
+}

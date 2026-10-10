@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/authority-is-the-new-seo-currency/",
+  "path": "dept/en-dk/insight/authority-is-the-new-seo-currency",
+  "timestamp": "2026-10-09T14:05:00.862Z",
+  "title": "Authority is the new SEO currency - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "statement-v2",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [
+    "statement-v2"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/The-Future-of-Authority-in-an-AI-First-Search-World-Idea-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/The-Future-of-Authority-in-an-AI-First-Search-World-Idea-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/MattCasadona-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/MattCasadona-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/The-Future-of-Authority-in-an-AI-First-Search-World-Idea-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/The-Future-of-Authority-in-an-AI-First-Search-World-Idea-1920x1080-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/service/engineering/technology-strategy-architecture/",
+  "path": "dept/service/engineering/technology-strategy-architecture",
+  "timestamp": "2026-10-09T22:50:16.040Z",
+  "title": "Software architecture strategy services | Software engineering agency - DEPT®",
+  "template": "dept-service",
+  "locale": "global",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DSF9786-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DSF9786-1.jpg"
+    ]
+  ]
+}

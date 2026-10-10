@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/coupling-up-with-pre-loved/",
+  "path": "dept/en-dk/case/coupling-up-with-pre-loved",
+  "timestamp": "2026-10-09T14:09:23.843Z",
+  "title": "Coupling up with pre-loved - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ]
+  ]
+}

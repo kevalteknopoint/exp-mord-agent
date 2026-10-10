@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-is-attending-elevate-2024-with-stripe/",
+  "path": "dept/event/dept-is-attending-elevate-2024-with-stripe",
+  "timestamp": "2026-10-09T20:05:41.489Z",
+  "title": "DEPT® is attending Elevate 2024 with Stripe! - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "media-with-text",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Elevate-Summit-24-Landing-page-1440x600-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Elevate-Summit-24-Landing-page-1440x600-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Elevate-Summit-24-Landing-page-logo-1440x600-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Elevate-Summit-24-Landing-page-logo-1440x600-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Elevate-Summit-24-Social-image-1080x1080-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Elevate-Summit-24-Social-image-1080x1080-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Elevate-Summit-24-Landing-page-logo-1440x600-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Elevate-Summit-24-Landing-page-logo-1440x600-2.png"
+    ]
+  ]
+}

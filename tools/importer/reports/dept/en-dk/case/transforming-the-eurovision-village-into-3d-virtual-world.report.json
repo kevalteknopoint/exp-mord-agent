@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/transforming-the-eurovision-village-into-3d-virtual-world/",
+  "path": "dept/en-dk/case/transforming-the-eurovision-village-into-3d-virtual-world",
+  "timestamp": "2026-10-09T13:30:16.540Z",
+  "title": "Transforming the Eurovision village into a 3D virtual world - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "panel-with-cards",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-6-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-6-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-8-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-8-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-10-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-10-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/eurovision_render2_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/eurovision_render2_1-1.png"
+    ]
+  ]
+}

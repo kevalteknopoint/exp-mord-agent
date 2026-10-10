@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/formas-practicas-en-que-las-marcas-utilizan-la-ia-para-impulsar-el-crecimiento-y-las-ganancias/",
+  "path": "dept/latam/insight/formas-practicas-en-que-las-marcas-utilizan-la-ia-para-impulsar-el-crecimiento-y-las-ganancias",
+  "timestamp": "2026-10-09T23:26:28.947Z",
+  "title": "Formas prácticas en que las marcas utilizan la IA para impulsar el crecimiento y las ganancias - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/asher-wren-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/asher-wren-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp"
+    ]
+  ]
+}

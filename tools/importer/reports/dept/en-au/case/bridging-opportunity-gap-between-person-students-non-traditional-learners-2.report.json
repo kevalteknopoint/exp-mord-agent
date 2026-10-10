@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/bridging-opportunity-gap-between-person-students-non-traditional-learners-2/",
+  "path": "dept/en-au/case/bridging-opportunity-gap-between-person-students-non-traditional-learners-2",
+  "timestamp": "2026-10-09T22:56:41.375Z",
+  "title": "Bridging an opportunity gap between students - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "paragraph",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/asu-education-for-humanity-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/asu-education-for-humanity-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/asu-me3-app.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/asu-me3-app.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/boabab-MultiScreen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/boabab-MultiScreen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1220621165-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1220621165-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ]
+  ]
+}

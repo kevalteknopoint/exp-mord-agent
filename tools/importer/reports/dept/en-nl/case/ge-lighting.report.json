@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/ge-lighting/",
+  "path": "dept/en-nl/case/ge-lighting",
+  "timestamp": "2026-10-09T18:16:02.940Z",
+  "title": "Rolling out one coherent website worldwide - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/GE-Lighting-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/GE-Lighting-Full-bleed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/GE-Lighting-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/GE-Lighting-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/GE-Lighting-Split-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/GE-Lighting-Split-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Andy-Blyth.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Andy-Blyth.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/msi-invitational-lol-design-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/msi-invitational-lol-design-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Clair-AI-screenshots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Clair-AI-screenshots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/GELEDLamp_Lifestyle-e1481056128297-ge-lightning.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/GELEDLamp_Lifestyle-e1481056128297-ge-lightning.jpeg"
+    ]
+  ]
+}

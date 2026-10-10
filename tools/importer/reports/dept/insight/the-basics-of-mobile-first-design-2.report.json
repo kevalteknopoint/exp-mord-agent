@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-basics-of-mobile-first-design-2/",
+  "path": "dept/insight/the-basics-of-mobile-first-design-2",
+  "timestamp": "2026-10-09T21:53:27.740Z",
+  "title": "The basics of mobile-first design - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "form-page"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/mobile-apps.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/mobile-apps.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Mobile-x-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Mobile-x-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/mobile-apps.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/mobile-apps.jpg"
+    ]
+  ]
+}

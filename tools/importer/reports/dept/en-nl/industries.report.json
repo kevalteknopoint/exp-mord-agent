@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/industries/",
+  "path": "dept/en-nl/industries",
+  "timestamp": "2026-10-09T16:53:24.358Z",
+  "title": "Industries - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "industry-intro",
+    "industry-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/data-analytics-missing-digital-transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/data-analytics-missing-digital-transformation.jpg"
+    ]
+  ]
+}

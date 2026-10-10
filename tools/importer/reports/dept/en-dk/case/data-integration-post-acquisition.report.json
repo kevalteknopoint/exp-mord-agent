@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/data-integration-post-acquisition/",
+  "path": "dept/en-dk/case/data-integration-post-acquisition",
+  "timestamp": "2026-10-09T14:14:15.142Z",
+  "title": "Featured work: Disney’s data integration post-acquisition - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "stats-panel",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/disney-data-analyics-consulting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/disney-data-analyics-consulting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/disney-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/disney-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-canvas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-canvas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/magasin-case-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/magasin-case-visual-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/disney-data-analyics-consulting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/disney-data-analyics-consulting.jpg"
+    ]
+  ]
+}

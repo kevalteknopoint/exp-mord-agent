@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/meet-dept-during-the-agentforce-world-tour/",
+  "path": "dept/en-nl/event/meet-dept-during-the-agentforce-world-tour",
+  "timestamp": "2026-10-09T16:50:16.936Z",
+  "title": "Meet DEPT® during the Agentforce World Tour - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "event-people",
+    "event-content-v2",
+    "event-people"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Salesforce-Agentforce-Amsterdam-Event-Header-A-1920-x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Salesforce-Agentforce-Amsterdam-Event-Header-A-1920-x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/martijn-The-Sting-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/martijn-The-Sting-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Caspar-Heydendael-Dept-1-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Caspar-Heydendael-Dept-1-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Serge-Zwak-Dept-2-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Serge-Zwak-Dept-2-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Tim-de-Kamper-Dept-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Tim-de-Kamper-Dept-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Caspar-Heydendael-Dept-1-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Caspar-Heydendael-Dept-1-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Joep-Roosen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Joep-Roosen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Naomi-de-Vries-1-edited-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Naomi-de-Vries-1-edited-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Koen-de-Jong.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Koen-de-Jong.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Bram-van-der-Doelen-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Bram-van-der-Doelen-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Serge-Zwak-Dept-2-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Serge-Zwak-Dept-2-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Salesforce-Agentforce-Amsterdam-Event-Header-A-1920-x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Salesforce-Agentforce-Amsterdam-Event-Header-A-1920-x1080.png"
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/inspiring-the-builder-in-everyone/",
+  "path": "dept/case/inspiring-the-builder-in-everyone",
+  "timestamp": "2026-10-09T10:25:06.139Z",
+  "title": "Featured work: Website Redesign for Consensys - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Consensys-Feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Consensys-Feature.jpg"
+    ]
+  ]
+}

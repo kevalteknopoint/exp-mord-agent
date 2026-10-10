@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/brand-merger-auf-eine-gemeinsame-technologiebasis/",
+  "path": "dept/de-dach/case/brand-merger-auf-eine-gemeinsame-technologiebasis",
+  "timestamp": "2026-10-09T11:27:14.539Z",
+  "title": "Brand Merger auf eine gemeinsame Technologiebasis - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/solar-farm-on-building.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/solar-farm-on-building.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Bouygues_Case_01a.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Bouygues_Case_01a.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/G-nuAr_g-2-e1627388428112.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/G-nuAr_g-2-e1627388428112.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/peakperformance_Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/peakperformance_Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/DJI_0076-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/DJI_0076-2.jpg"
+    ]
+  ]
+}

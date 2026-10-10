@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/dept-names-lunenburger-reidenbach-svp-and-head-of-dach/",
+  "path": "dept/en-dk/insight/dept-names-lunenburger-reidenbach-svp-and-head-of-dach",
+  "timestamp": "2026-10-09T15:04:23.379Z",
+  "title": "DEPT® names Lünenbürger-Reidenbach as SVP and Head of DACH  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "case-quote",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Wolfgang-_Web_1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Wolfgang-_Web_1920x1080-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Wolfgang-_Web_Pic_1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Wolfgang-_Web_Pic_1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-x-Shopify-orange-dress.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-x-Shopify-orange-dress.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT-x-Lufthansa-plane.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-x-Lufthansa-plane.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Wolfgang-_Web_1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Wolfgang-_Web_1920x1080-2.png"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/e-e-a-t-grundpfeiler-des-neuen-seo/",
+  "path": "dept/de-dach/insight/e-e-a-t-grundpfeiler-des-neuen-seo",
+  "timestamp": "2026-10-09T12:01:05.034Z",
+  "title": "E-E-A-T: Grundpfeiler des neuen SEO - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/SEO_Insight_EEAT.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/SEO_Insight_EEAT.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Nikola-Stavrovski_v02-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Nikola-Stavrovski_v02-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Discovery01-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Discovery01-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/DEPT%C2%AE-joins-Ad-Net-Zero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/DEPT--joins-Ad-Net-Zero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/architecture-sprint-example-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/architecture-sprint-example-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Nikola-Stavrovski_v02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Nikola-Stavrovski_v02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/SEO_Insight_EEAT.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/SEO_Insight_EEAT.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/experiencia/content-governance/",
+  "path": "dept/latam/service/experiencia/content-governance",
+  "timestamp": "2026-10-09T22:29:22.849Z",
+  "title": "Content governance - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/HeaderContentGov.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/HeaderContentGov.jpg"
+    ]
+  ]
+}

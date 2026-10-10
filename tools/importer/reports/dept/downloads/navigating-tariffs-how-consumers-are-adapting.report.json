@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/navigating-tariffs-how-consumers-are-adapting/",
+  "path": "dept/downloads/navigating-tariffs-how-consumers-are-adapting",
+  "timestamp": "2026-10-09T11:43:01.140Z",
+  "title": "Report: How tariffs reshape consumer sentiment & brand trust | NavigatorIQ x DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Navigating-tariffs-Report-2025-lp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Navigating-tariffs-Report-2025-lp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-LP.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-LP.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Rethinking-the-customer-journey-with-agentic-AI-1-ft-image-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Rethinking-the-customer-journey-with-agentic-AI-1-ft-image-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Strategic-Navigators-Website-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Strategic-Navigators-Website-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Navigating-tariffs-Report-2025-lp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Navigating-tariffs-Report-2025-lp.jpg"
+    ]
+  ]
+}

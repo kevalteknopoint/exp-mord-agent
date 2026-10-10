@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/guiness-world-of-records/",
+  "path": "dept/case/guiness-world-of-records",
+  "timestamp": "2026-10-09T10:15:11.710Z",
+  "title": "Transformation to set new records - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-103-8-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-103-8-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1059153262-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1059153262-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-39-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-39-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Final-hero-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Final-hero-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/ROAD-DAD-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/ROAD-DAD-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Kali-Healthcare-38-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Kali-Healthcare-38-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg"
+    ]
+  ]
+}

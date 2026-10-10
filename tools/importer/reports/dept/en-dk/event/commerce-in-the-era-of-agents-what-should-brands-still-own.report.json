@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/commerce-in-the-era-of-agents-what-should-brands-still-own/",
+  "path": "dept/en-dk/event/commerce-in-the-era-of-agents-what-should-brands-still-own",
+  "timestamp": "2026-10-09T13:48:35.042Z",
+  "title": "Commerce in the Era of Agents – What should brands still own? - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "event-people",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/DFC-CPH-Landingspage-Hero-Banner-Orange-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/DFC-CPH-Landingspage-Hero-Banner-Orange-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Cannes-Lions-2026-Banner-3-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Cannes-Lions-2026-Banner-3-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Mark-van-den-Beij-Dept-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Mark-van-den-Beij-Dept-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Rasmus-Keller-Jansen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Rasmus-Keller-Jansen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Isabel-Perry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Isabel-Perry.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/DFC-CPH-Landingspage-Hero-Banner-Orange-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/DFC-CPH-Landingspage-Hero-Banner-Orange-1920X1080.png"
+    ]
+  ]
+}

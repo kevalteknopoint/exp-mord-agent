@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/building-the-first-digital-version-of-the-worlds-largest-expo/",
+  "path": "dept/en-in/case/building-the-first-digital-version-of-the-worlds-largest-expo",
+  "timestamp": "2026-10-09T14:58:51.240Z",
+  "title": "Building the first digital version of the world’s largest expo - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "video",
+    "image",
+    "title-and-content",
+    "video",
+    "video",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/mobility.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/mobility.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Opportunity2-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Opportunity2-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Amazon-Prime-x-Without-Remorse-6-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Amazon-Prime-x-Without-Remorse-6-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/children-smiling-in-woodland.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/children-smiling-in-woodland.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/gas-vanon-raod.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/gas-vanon-raod.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Virtual-Expo-Dubai-featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Virtual-Expo-Dubai-featured-image.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/se-libre-en-tu-propia-piel/",
+  "path": "dept/latam/case/se-libre-en-tu-propia-piel",
+  "timestamp": "2026-10-09T22:54:46.605Z",
+  "title": "Sé libre en tu propia piel - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ]
+  ]
+}

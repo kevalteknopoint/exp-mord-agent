@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/klarheit-schaffen-warum-erfolgreiche-marken-mit-dem-briefing-beginnen/",
+  "path": "dept/de-dach/insight/klarheit-schaffen-warum-erfolgreiche-marken-mit-dem-briefing-beginnen",
+  "timestamp": "2026-10-09T12:12:44.453Z",
+  "title": "Klarheit schaffen: Warum erfolgreiche Marken mit dem Briefing beginnen - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durable-brands.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durable-brands.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/NatalieMartens-_Web_Pic_1920x1080-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/NatalieMartens-_Web_Pic_1920x1080-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Durable-brands-playbook.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Durable-brands-playbook.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/thumbs-up-on-wall-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/thumbs-up-on-wall-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/the-future-geo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/the-future-geo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durable-brands.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durable-brands.webp"
+    ]
+  ]
+}

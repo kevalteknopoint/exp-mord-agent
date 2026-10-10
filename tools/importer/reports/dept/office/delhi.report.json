@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/delhi/",
+  "path": "dept/office/delhi",
+  "timestamp": "2026-10-09T22:37:27.761Z",
+  "title": "Delhi - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/delgi-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/delgi-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/delgi-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/delgi-min.jpg"
+    ]
+  ]
+}

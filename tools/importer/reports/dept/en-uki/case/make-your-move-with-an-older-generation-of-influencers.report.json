@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/make-your-move-with-an-older-generation-of-influencers/",
+  "path": "dept/en-uki/case/make-your-move-with-an-older-generation-of-influencers",
+  "timestamp": "2026-10-09T20:22:07.554Z",
+  "title": "Make your move with an older generation of influencers  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/bouygues.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/bouygues.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ]
+  ]
+}

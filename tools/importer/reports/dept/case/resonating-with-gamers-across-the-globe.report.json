@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/resonating-with-gamers-across-the-globe/",
+  "path": "dept/case/resonating-with-gamers-across-the-globe",
+  "timestamp": "2026-10-09T10:47:29.868Z",
+  "title": "Resonating with gamers across the globe - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/steelseries-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/steelseries-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/social.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/social.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/journey-test.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/journey-test.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/comments-tiktok.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/comments-tiktok.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/commets.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/commets.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/muuto-living-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/muuto-living-area-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Philips-header-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Philips-header-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Final-hero-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Final-hero-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/steelseries-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/steelseries-1.png"
+    ]
+  ]
+}

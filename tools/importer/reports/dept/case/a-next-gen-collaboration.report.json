@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-next-gen-collaboration/",
+  "path": "dept/case/a-next-gen-collaboration",
+  "timestamp": "2026-10-09T10:42:56.544Z",
+  "title": "A next-gen collaboration - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries3-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries3-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mille-Munk-Sorensen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mille-Munk-Sorensen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-33-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-33-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/001-Heinz.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/001-Heinz.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-welcomes-new-designer-through-graduate-scheme-with-salford-university/",
+  "path": "dept/en-uki/insight/dept-welcomes-new-designer-through-graduate-scheme-with-salford-university",
+  "timestamp": "2026-10-09T20:40:45.539Z",
+  "title": "DEPT® welcomes new designer through graduate scheme with Salford University - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/DEPT-Interior-13.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/DEPT-Interior-13.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/DEPT-Interior-13.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/DEPT-Interior-13.jpg"
+    ]
+  ]
+}

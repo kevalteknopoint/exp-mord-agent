@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/careers/roles/",
+  "path": "dept/en-in/careers/roles",
+  "timestamp": "2026-10-09T14:38:56.134Z",
+  "title": "Roles - DEPT®",
+  "template": "dept-careers",
+  "locale": "en-in",
+  "components": [
+    "card-hero",
+    "wrapper"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/careers-header.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/careers-header.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-12.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-12.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-26.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-26.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

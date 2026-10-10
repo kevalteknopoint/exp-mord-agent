@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/creative/augmented-reality-ar/",
+  "path": "dept/en-in/service/creative/augmented-reality-ar",
+  "timestamp": "2026-10-09T16:18:20.940Z",
+  "title": "Augmented Reality: Marketing & Development | DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "statement",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR-Service-Page-Mockup-NEW.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR-Service-Page-Mockup-NEW.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR_London_Waterloo_mock.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR_London_Waterloo_mock.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Lauren_Chester-e1680082116275.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Lauren_Chester-e1680082116275.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/12/sesame-street-ar-app-children-phone.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/12/sesame-street-ar-app-children-phone.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/NFT-Featured-image-V2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/NFT-Featured-image-V2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/revving-up-digital-transformation/",
+  "path": "dept/en-uki/case/revving-up-digital-transformation",
+  "timestamp": "2026-10-09T19:10:09.041Z",
+  "title": "Revving up digital transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-12.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-12.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Full-Image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Full-Image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-10.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-10.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Angled-Desktops-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Angled-Desktops-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Full-Image-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Full-Image-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9-1024x576.png"
+    ]
+  ]
+}

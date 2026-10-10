@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/how-healthcare-is-revitalizing-the-metaverse/",
+  "path": "dept/en-in/insight/how-healthcare-is-revitalizing-the-metaverse",
+  "timestamp": "2026-10-09T16:42:11.083Z",
+  "title": "How healthcare is revitalising the metaverse - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "media-with-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Medical-metaverse-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Medical-metaverse-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Trends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Medical-metaverse-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Medical-metaverse-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/unieke-verbinding-maken-in-hechte-nichegemeenschap/",
+  "path": "dept/en-nl/case/unieke-verbinding-maken-in-hechte-nichegemeenschap",
+  "timestamp": "2026-10-09T17:30:52.340Z",
+  "title": "Unieke verbinding maken in hechte nichegemeenschap - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre-Xelius-01-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre-Xelius-01-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre_04.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre_04.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre_06.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre_06.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Fishing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Fishing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/lapierre-light-the-way-creative-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/lapierre-light-the-way-creative-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre_06.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre_06.jpeg"
+    ]
+  ]
+}

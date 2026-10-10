@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-hochwertige-gesundheitsversorgung-foerdern/",
+  "path": "dept/de-dach/case/eine-hochwertige-gesundheitsversorgung-foerdern",
+  "timestamp": "2026-10-09T10:55:46.439Z",
+  "title": "Eine hochwertige Gesundheitsversorgung fördern - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Paul-Hartmann-Health-visual-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Paul-Hartmann-Health-visual-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Paul-Hartmann-Health-visual-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Paul-Hartmann-Health-visual-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Paul-Hartmann-Health-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Paul-Hartmann-Health-visual-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/03-Walder-Design-Moods-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/03-Walder-Design-Moods-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Paul-Hartmann-Featured-images.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Paul-Hartmann-Featured-images.jpeg"
+    ]
+  ]
+}

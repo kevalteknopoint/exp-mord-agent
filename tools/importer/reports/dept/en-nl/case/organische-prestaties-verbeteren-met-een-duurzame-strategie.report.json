@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/organische-prestaties-verbeteren-met-een-duurzame-strategie/",
+  "path": "dept/en-nl/case/organische-prestaties-verbeteren-met-een-duurzame-strategie",
+  "timestamp": "2026-10-09T17:12:33.474Z",
+  "title": "Organische prestaties verbeteren met een duurzame strategie - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-cards",
+    "image",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/kind-windmolen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/kind-windmolen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Rowie-van-Haastregt-1-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Rowie-van-Haastregt-1-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Eigen-Boodschappen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Eigen-Boodschappen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Spullen-lenen-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Spullen-lenen-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/E-bike-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/E-bike-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Zonnepanelen-man-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Zonnepanelen-man-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Rowie-van-Haastregt-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Rowie-van-Haastregt-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/wine.com_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/wine.com_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-33-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-33-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/kind-windmolen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/kind-windmolen.jpeg"
+    ]
+  ]
+}

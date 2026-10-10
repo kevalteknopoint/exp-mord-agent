@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/partner/google-cloud-platform/",
+  "path": "dept/en-nl/partner/google-cloud-platform",
+  "timestamp": "2026-10-09T18:14:28.275Z",
+  "title": "Google Cloud Platform - DEPT®",
+  "template": "dept-partner",
+  "locale": "en-nl",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "points-table",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Google-DEPT-partner.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Google-DEPT-partner.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Google-DEPT-partner.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Google-DEPT-partner.png"
+    ]
+  ]
+}

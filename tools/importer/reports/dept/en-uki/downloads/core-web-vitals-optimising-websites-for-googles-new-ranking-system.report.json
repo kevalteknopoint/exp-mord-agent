@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/core-web-vitals-optimising-websites-for-googles-new-ranking-system/",
+  "path": "dept/en-uki/downloads/core-web-vitals-optimising-websites-for-googles-new-ranking-system",
+  "timestamp": "2026-10-09T19:29:42.285Z",
+  "title": "Core Web Vitals: optimising websites for Google's new ranking system - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Core-web.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Core-web.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Core-web.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Core-web.png"
+    ]
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/a-new-home-for-the-beats-brand/",
+  "path": "dept/latam/case/a-new-home-for-the-beats-brand",
+  "timestamp": "2026-10-09T21:25:46.142Z",
+  "title": "A new home for the Beats brand - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Beats-Retail-Web-Design-Case-Study-Hero-Image-Desktop-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Beats-Retail-Web-Design-Case-Study-Hero-Image-Desktop-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Beats-Retail-Web-Design-Case-Study-Thumbnail.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Beats-Retail-Web-Design-Case-Study-Thumbnail.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Dark-20-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Dark-20-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-138.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-138.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-125-2-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-125-2-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-16-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-16-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/using-docusign-258x300-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/using-docusign-258x300-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg"
+    ]
+  ]
+}

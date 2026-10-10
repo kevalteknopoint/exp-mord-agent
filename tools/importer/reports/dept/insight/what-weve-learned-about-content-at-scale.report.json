@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/what-weve-learned-about-content-at-scale/",
+  "path": "dept/insight/what-weve-learned-about-content-at-scale",
+  "timestamp": "2026-10-09T21:09:48.843Z",
+  "title": "One million ads later: What we’ve learned about automating content at scale - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "statement-v2",
+    "assets-and-copy",
+    "assets-and-copy",
+    "statement-v2",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "statement-v2",
+    "assets-and-copy",
+    "statement-v2",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-marketing-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-marketing-automation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/ai-transformation-trends-technology-report.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/ai-transformation-trends-technology-report.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/7-CRM-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/7-CRM-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/IMG_8480.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/IMG_8480.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/creative-automation-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/creative-automation-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/helping-displaced-individuals-find-their-place-in-tech/",
+  "path": "dept/en-in/insight/helping-displaced-individuals-find-their-place-in-tech",
+  "timestamp": "2026-10-09T16:37:36.040Z",
+  "title": "Helping displaced individuals find their place in tech - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/jehyun-sung-6U5AEmQIajg-unsplash-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/jehyun-sung-6U5AEmQIajg-unsplash-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Eyad.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Eyad.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Frahnaz.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Frahnaz.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Anna.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Anna.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/jehyun-sung-6U5AEmQIajg-unsplash-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/jehyun-sung-6U5AEmQIajg-unsplash-scaled.jpeg"
+    ]
+  ]
+}

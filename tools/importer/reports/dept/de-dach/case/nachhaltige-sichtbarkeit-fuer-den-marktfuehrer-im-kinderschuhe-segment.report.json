@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/nachhaltige-sichtbarkeit-fuer-den-marktfuehrer-im-kinderschuhe-segment/",
+  "path": "dept/de-dach/case/nachhaltige-sichtbarkeit-fuer-den-marktfuehrer-im-kinderschuhe-segment",
+  "timestamp": "2026-10-09T11:13:25.236Z",
+  "title": "Sichtbarkeit für den Marktführer im Kinderschuhe-Segment",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/01-Walder-Kinder-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/01-Walder-Kinder-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/02-Walder-Navigation-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/02-Walder-Navigation-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/03-Walder-Design-Moods-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/03-Walder-Design-Moods-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/04-Sistrix-SEO-Sichtbarkeit.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/04-Sistrix-SEO-Sichtbarkeit.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/unnamed-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/unnamed-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amag-Case-Visual-03.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amag-Case-Visual-03.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/03-Walder-Design-Moods-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/03-Walder-Design-Moods-min.png"
+    ]
+  ]
+}

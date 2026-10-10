@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/whoop/",
+  "path": "dept/case/whoop",
+  "timestamp": "2026-10-09T11:18:09.642Z",
+  "title": "Featured work: A sophisticated digital experience for WHOOP | DEPT",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoops-uxui3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoops-uxui3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-photography1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-photography1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-photography2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-photography2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-photography3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-photography3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/puffco-build-your-own-commerce-solution-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/puffco-build-your-own-commerce-solution-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-on-dirtbiker.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-on-dirtbiker.webp"
+    ]
+  ]
+}

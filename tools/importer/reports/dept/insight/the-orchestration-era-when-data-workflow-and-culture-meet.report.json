@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-orchestration-era-when-data-workflow-and-culture-meet/",
+  "path": "dept/insight/the-orchestration-era-when-data-workflow-and-culture-meet",
+  "timestamp": "2026-10-09T22:03:34.860Z",
+  "title": "The orchestration era: When data, workflow, and culture meet - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Pilot-to-orchestration-feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Pilot-to-orchestration-feature.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/combo-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/combo-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-4-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-4-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Pilot-to-orchestration-feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Pilot-to-orchestration-feature.webp"
+    ]
+  ]
+}

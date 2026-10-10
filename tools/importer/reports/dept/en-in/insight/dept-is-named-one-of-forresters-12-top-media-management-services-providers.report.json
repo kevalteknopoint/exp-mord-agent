@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/dept-is-named-one-of-forresters-12-top-media-management-services-providers/",
+  "path": "dept/en-in/insight/dept-is-named-one-of-forresters-12-top-media-management-services-providers",
+  "timestamp": "2026-10-09T15:32:56.961Z",
+  "title": "DEPT® is named one of Forrester’s 12 top Media Management Services Providers  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "cta-text",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "statement"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/forrester-wave-media-services-2024-dept.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/forrester-wave-media-services-2024-dept.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png"
+    ]
+  ]
+}

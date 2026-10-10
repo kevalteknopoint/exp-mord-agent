@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/ikea-establishing-machmidsommar-tradition/",
+  "path": "dept/en-dk/case/ikea-establishing-machmidsommar-tradition",
+  "timestamp": "2026-10-09T14:28:53.973Z",
+  "title": "Creating a link between a Swedish tradition and IKEA - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-57.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-57.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-92.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-92.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-111-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-111-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-72.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-72.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-81.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-81.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Diana-Welte-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Diana-Welte-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/energy-utilities-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/energy-utilities-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Nyiyaparli-Widi-Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Nyiyaparli-Widi-Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ]
+  ]
+}

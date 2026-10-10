@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/building-your-content-reuse-strategy-with-a-cms-modular-framework/",
+  "path": "dept/insight/building-your-content-reuse-strategy-with-a-cms-modular-framework",
+  "timestamp": "2026-10-09T22:03:38.869Z",
+  "title": "Building your content reuse strategy with a CMS Modular Framework - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BUILDING-YOUR-CONTENT-REUSE-STRATEGY-WITH-A-CMS-MODULAR-FRAMEWORK-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BUILDING-YOUR-CONTENT-REUSE-STRATEGY-WITH-A-CMS-MODULAR-FRAMEWORK-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/EMPLOYER-BRANDING-BECOMES-INCREASINGLY-IMPORTANT-IN-THE-IMPROVING-ECONOMY-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/EMPLOYER-BRANDING-BECOMES-INCREASINGLY-IMPORTANT-IN-THE-IMPROVING-ECONOMY-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BUILDING-YOUR-CONTENT-REUSE-STRATEGY-WITH-A-CMS-MODULAR-FRAMEWORK-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BUILDING-YOUR-CONTENT-REUSE-STRATEGY-WITH-A-CMS-MODULAR-FRAMEWORK-1.jpg"
+    ]
+  ]
+}

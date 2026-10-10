@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/amazon-unboxed-on-tour/",
+  "path": "dept/en-uki/event/amazon-unboxed-on-tour",
+  "timestamp": "2026-10-09T19:42:06.595Z",
+  "title": "Amazon unBoxed on Tour - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-header",
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "event-register"
+  ],
+  "fallback": [
+    "event-header",
+    "event-header"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Feature-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Feature-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Feature-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Feature-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Feature-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Feature-image.jpg"
+    ]
+  ]
+}

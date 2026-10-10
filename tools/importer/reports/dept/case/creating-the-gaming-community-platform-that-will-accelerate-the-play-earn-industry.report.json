@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/creating-the-gaming-community-platform-that-will-accelerate-the-play-earn-industry/",
+  "path": "dept/case/creating-the-gaming-community-platform-that-will-accelerate-the-play-earn-industry",
+  "timestamp": "2026-10-09T10:35:50.539Z",
+  "title": "Creating the Gaming Community Platform that will accelerate the play & earn industry - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "quote",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/04-Mobile-Angled.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/04-Mobile-Angled.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/05-Mobile.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/05-Mobile.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/02-Template-Mobiles.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/02-Template-Mobiles.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Jochem-van-Rossem-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Jochem-van-Rossem-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-02-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-02-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ]
+  ]
+}

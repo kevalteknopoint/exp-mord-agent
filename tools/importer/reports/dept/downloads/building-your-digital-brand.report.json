@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/building-your-digital-brand/",
+  "path": "dept/downloads/building-your-digital-brand",
+  "timestamp": "2026-10-09T11:35:47.172Z",
+  "title": "Building your digital brand - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/red-rose-abstract-light.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/red-rose-abstract-light.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/red-rose-abstract-light.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/red-rose-abstract-light.jpg"
+    ]
+  ]
+}

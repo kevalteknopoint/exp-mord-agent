@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/data-consumption-agentic-ai-mcp/",
+  "path": "dept/case/data-consumption-agentic-ai-mcp",
+  "timestamp": "2026-10-09T10:38:28.040Z",
+  "title": "Revolutionizing data consumption with agentic AI & MCP - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand4.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand4.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Mammut1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Mammut1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand3.webp"
+    ]
+  ]
+}

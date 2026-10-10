@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/akad-break-normal-learn-different-kampagne/",
+  "path": "dept/de-dach/case/akad-break-normal-learn-different-kampagne",
+  "timestamp": "2026-10-09T11:24:17.641Z",
+  "title": "“Break Normal”: Wie eine Kampagne das Bildungsmarketing neu definiert - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/2-AKAD-Homepage-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/2-AKAD-Homepage-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/3-Banner-image_Option-04.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/3-Banner-image_Option-04.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/5-Banner-image_Option-01.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/5-Banner-image_Option-01.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/6-Socials.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/6-Socials.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DEPT_sportfive_case_stadion_mood-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DEPT_sportfive_case_stadion_mood-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/3-Banner-image_Option-04.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/3-Banner-image_Option-04.webp"
+    ]
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/ugc-creator-dept/",
+  "path": "dept/en-nl/ugc-creator-dept",
+  "timestamp": "2026-10-09T19:25:15.041Z",
+  "title": "Word UGC Creator bij DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "title-block",
+    "image",
+    "wrapper",
+    "highlighted-logos",
+    "wrapper"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/woman-bed-ugc.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/woman-bed-ugc.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Bol-logo-blk-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Bol-logo-blk-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Grolsch-logo-blk.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Grolsch-logo-blk.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Just-Eat-logo-blk.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Just-Eat-logo-blk.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/ING-logo-blk.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/ING-logo-blk.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Foot-Locker-logo-blk.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Foot-Locker-logo-blk.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Medela-logo-blk.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Medela-logo-blk.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Batavia-Stad-logo-blk.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Batavia-Stad-logo-blk.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Histor-logo-blk.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Histor-logo-blk.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Dept-Schiphol-case-Header-image-1440x810px-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Dept-Schiphol-case-Header-image-1440x810px-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Philips-Hue.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Philips-Hue.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/woman-bed-ugc.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/woman-bed-ugc.jpg"
+    ]
+  ]
+}

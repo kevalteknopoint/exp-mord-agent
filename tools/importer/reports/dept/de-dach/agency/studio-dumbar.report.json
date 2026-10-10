@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/agency/studio-dumbar/",
+  "path": "dept/de-dach/agency/studio-dumbar",
+  "timestamp": "2026-10-09T11:20:21.627Z",
+  "title": "Studio Dumbar - DEPT®",
+  "template": "dept-agency",
+  "locale": "de-dach",
+  "components": [
+    "panel-agency-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Rectangle-420.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Rectangle-420.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Rectangle-420.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Rectangle-420.png"
+    ]
+  ]
+}

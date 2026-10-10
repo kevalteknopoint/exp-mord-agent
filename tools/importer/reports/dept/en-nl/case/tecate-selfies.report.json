@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/tecate-selfies/",
+  "path": "dept/en-nl/case/tecate-selfies",
+  "timestamp": "2026-10-09T17:27:23.741Z",
+  "title": "Featured work: AI-generated selfies for Tecate Pa’l Norte - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-wall-at-festival.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-wall-at-festival.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-pal-norte.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-pal-norte.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-personalization.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-personalization.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-art-inspo.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-art-inspo.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-canvas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-canvas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ]
+  ]
+}

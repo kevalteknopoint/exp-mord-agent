@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/empowering-prosperity-throughout-the-world/",
+  "path": "dept/en-au/case/empowering-prosperity-throughout-the-world",
+  "timestamp": "2026-10-09T12:58:50.769Z",
+  "title": "Empowering prosperity throughout the world - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/mars-sector-6-IgUR1iX0mqM-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/mars-sector-6-IgUR1iX0mqM-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Q70321005_1CN_back.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Q70321005_1CN_back.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/hero-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/hero-1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg"
+    ]
+  ]
+}

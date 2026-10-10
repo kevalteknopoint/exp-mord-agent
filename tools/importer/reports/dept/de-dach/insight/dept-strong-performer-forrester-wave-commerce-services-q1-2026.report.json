@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/dept-strong-performer-forrester-wave-commerce-services-q1-2026/",
+  "path": "dept/de-dach/insight/dept-strong-performer-forrester-wave-commerce-services-q1-2026",
+  "timestamp": "2026-10-09T11:50:23.390Z",
+  "title": "DEPT® als \"Strong Performer\" in The Forrester Wave™: Commerce Services, Q1 2026 - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "insight-cta",
+    "case-quote",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/carryn-quibell-ceo-americas-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/carryn-quibell-ceo-americas-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Forrester-Quadrant-Commerce-Services-2026-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Forrester-Quadrant-Commerce-Services-2026-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png"
+    ]
+  ]
+}

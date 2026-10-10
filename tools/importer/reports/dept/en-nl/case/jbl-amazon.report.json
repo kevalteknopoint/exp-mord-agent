@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/jbl-amazon/",
+  "path": "dept/en-nl/case/jbl-amazon",
+  "timestamp": "2026-10-09T18:26:18.039Z",
+  "title": "Featured work: JBL's ad frequency strategy results in 123% ROAS - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/JBL-amazon-ads.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/JBL-amazon-ads.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/amazon-ads-for-ad-fatigue.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/amazon-ads-for-ad-fatigue.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/refrescando-una-marca-centenaria-para-el-mundo-de-hoy/",
+  "path": "dept/latam/case/refrescando-una-marca-centenaria-para-el-mundo-de-hoy",
+  "timestamp": "2026-10-09T21:41:13.740Z",
+  "title": "Refrescando una marca centenaria para el mundo de hoy - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Wilson_Case-Study_Brand-Identity_01.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Wilson_Case-Study_Brand-Identity_01.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/asher-wren-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/asher-wren-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT%C2%AE-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT--2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/wilson-sportwear-man.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/wilson-sportwear-man.jpg"
+    ]
+  ]
+}

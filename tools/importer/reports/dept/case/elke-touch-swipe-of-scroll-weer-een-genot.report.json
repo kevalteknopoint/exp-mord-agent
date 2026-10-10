@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/elke-touch-swipe-of-scroll-weer-een-genot/",
+  "path": "dept/case/elke-touch-swipe-of-scroll-weer-een-genot",
+  "timestamp": "2026-10-09T10:53:09.467Z",
+  "title": "Elke touch, swipe of scroll weer een genot - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-10.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-10.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Juices.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Juices.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-12.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/013-Innocent.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/013-Innocent.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/TLC_feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/TLC_feature.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-11.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-11.jpg"
+    ]
+  ]
+}

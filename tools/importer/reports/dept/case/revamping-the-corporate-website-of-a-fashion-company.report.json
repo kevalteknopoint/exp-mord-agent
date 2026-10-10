@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/revamping-the-corporate-website-of-a-fashion-company/",
+  "path": "dept/case/revamping-the-corporate-website-of-a-fashion-company",
+  "timestamp": "2026-10-09T10:47:46.240Z",
+  "title": "Revamping the corporate website of a fashion company - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bo-Bille.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bo-Bille.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Gubi-Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Gubi-Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_1.jpg"
+    ]
+  ]
+}

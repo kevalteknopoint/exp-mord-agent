@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/salesforce-health-check-und-discovery/",
+  "path": "dept/de-dach/insight/salesforce-health-check-und-discovery",
+  "timestamp": "2026-10-09T11:43:19.292Z",
+  "title": "Salesforce Health Check und Discovery - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "title-and-content",
+    "cta-text",
+    "call-to-action",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/semina-psichogiopoulou-hl0iLy1hFo0-unsplash-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/semina-psichogiopoulou-hl0iLy1hFo0-unsplash-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Nick-Broekema-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Nick-Broekema-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Nick-Broekema-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Nick-Broekema-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/semina-psichogiopoulou-hl0iLy1hFo0-unsplash-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/semina-psichogiopoulou-hl0iLy1hFo0-unsplash-scaled.jpeg"
+    ]
+  ]
+}

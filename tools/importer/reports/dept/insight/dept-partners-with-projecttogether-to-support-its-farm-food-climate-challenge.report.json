@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-partners-with-projecttogether-to-support-its-farm-food-climate-challenge/",
+  "path": "dept/insight/dept-partners-with-projecttogether-to-support-its-farm-food-climate-challenge",
+  "timestamp": "2026-10-09T21:27:36.939Z",
+  "title": "DEPT® partners with ProjectTogether to support its Farm-Food-Climate Challenge - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/man-walking-through-field.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/man-walking-through-field.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/FFC-Trigger-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/FFC-Trigger-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/FFC-Trigger-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/FFC-Trigger-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/man-walking-through-field.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/man-walking-through-field.jpg"
+    ]
+  ]
+}

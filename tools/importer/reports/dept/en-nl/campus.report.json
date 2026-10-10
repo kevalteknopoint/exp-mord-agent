@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/campus/",
+  "path": "dept/en-nl/campus",
+  "timestamp": "2026-10-09T17:25:03.839Z",
+  "title": "DEPT® Internships - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "jumbotron",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Dept-induction-day-2018.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Dept-induction-day-2018.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/11_Dept_Office_Images_16thOctober2019.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/11_Dept_Office_Images_16thOctober2019.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Michaela-Murphy-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Michaela-Murphy-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_20Apr-193.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_20Apr-193.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-pakt-topplek-in-best-workplace/",
+  "path": "dept/en-nl/insight/dept-pakt-topplek-in-best-workplace",
+  "timestamp": "2026-10-09T18:54:12.045Z",
+  "title": "DEPT® pakt derde plek bij Best Workplace 2023 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DEPT_Best-Workplaces_Great-Place-To-Work-2023-alleen-foto-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DEPT_Best-Workplaces_Great-Place-To-Work-2023-alleen-foto-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DEPT_Best-Workplaces_Great-Place-To-Work-2023-alleen-foto-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DEPT_Best-Workplaces_Great-Place-To-Work-2023-alleen-foto-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DEPT_Best-Workplaces_Great-Place-To-Work-2023-alleen-foto-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DEPT_Best-Workplaces_Great-Place-To-Work-2023-alleen-foto-2.jpg"
+    ]
+  ]
+}

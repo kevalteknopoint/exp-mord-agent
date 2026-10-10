@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/going-beyond-how-dept-is-using-business-as-a-force-for-good/",
+  "path": "dept/en-dk/insight/going-beyond-how-dept-is-using-business-as-a-force-for-good",
+  "timestamp": "2026-10-09T15:22:02.240Z",
+  "title": "How DEPT® is using business as a force for good - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/we-go-beyond-b-corp.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/we-go-beyond-b-corp.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/DEPT%C2%AE-B-corp-Month-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/DEPT--B-corp-Month-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/pooja.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/pooja.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Salesforce-Image-2-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Salesforce-Image-2-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sustainability-in-tech.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sustainability-in-tech.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/we-go-beyond-b-corp.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/we-go-beyond-b-corp.png"
+    ]
+  ]
+}

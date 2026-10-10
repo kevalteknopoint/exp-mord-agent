@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/just-eat-takeaway-project-sundae/",
+  "path": "dept/en-nl/just-eat-takeaway-project-sundae",
+  "timestamp": "2026-10-09T18:12:59.135Z",
+  "title": "Just Eat Takeaway: Project Sundae - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "call-to-action",
+    "video",
+    "call-to-action",
+    "image",
+    "call-to-action",
+    "video",
+    "panel-with-rich-text",
+    "image",
+    "stats-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Sundae-03.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Sundae-03.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Sundae-01.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Sundae-01.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Sundae-02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Sundae-02.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Image-2-of-ProjectSundae_Static_1x1_Template_ColourUpdate.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Image-2-of-ProjectSundae_Static_1x1_Template_ColourUpdate.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

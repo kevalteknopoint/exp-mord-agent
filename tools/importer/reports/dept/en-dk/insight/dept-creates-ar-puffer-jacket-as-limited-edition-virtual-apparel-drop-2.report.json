@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/dept-creates-ar-puffer-jacket-as-limited-edition-virtual-apparel-drop-2/",
+  "path": "dept/en-dk/insight/dept-creates-ar-puffer-jacket-as-limited-edition-virtual-apparel-drop-2",
+  "timestamp": "2026-10-09T14:55:48.364Z",
+  "title": "DEPT® creates AR puffer jacket as limited edition virtual apparel drop - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/NFT-Featured-image-V2-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/NFT-Featured-image-V2-1200x750-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Danijel-Bonacic-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Danijel-Bonacic-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/NFT-Featured-image-V2-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/NFT-Featured-image-V2-1200x750-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Danijel-Bonacic-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Danijel-Bonacic-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/NFT-Featured-image-V2-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/NFT-Featured-image-V2-1200x750-c.png"
+    ]
+  ]
+}

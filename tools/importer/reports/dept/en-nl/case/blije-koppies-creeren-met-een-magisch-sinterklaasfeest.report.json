@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/blije-koppies-creeren-met-een-magisch-sinterklaasfeest/",
+  "path": "dept/en-nl/case/blije-koppies-creeren-met-een-magisch-sinterklaasfeest",
+  "timestamp": "2026-10-09T17:46:18.041Z",
+  "title": "Blije koppies creëren met een magisch sinterklaasfeest - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/bol-sinterklaas-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/bol-sinterklaas-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/bol-sinterklaas-oefen-sint.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/bol-sinterklaas-oefen-sint.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Bol-de-grote-speelgoed-app-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Bol-de-grote-speelgoed-app-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/bol-pakjes-avond.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/bol-pakjes-avond.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/bol-sinterklaas-met-tablet.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/bol-sinterklaas-met-tablet.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ramin-Bahari.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ramin-Bahari.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Tata-Capital_1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Tata-Capital_1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/bol-sinterklaas-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/bol-sinterklaas-3.png"
+    ]
+  ]
+}

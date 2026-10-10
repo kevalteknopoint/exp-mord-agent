@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/dept-apparel-a-project-by-dept-nl/",
+  "path": "dept/awards/dept-apparel-a-project-by-dept-nl",
+  "timestamp": "2026-10-09T10:14:31.564Z",
+  "title": "DEPT APPAREL – A project by DEPT® - NL - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "video",
+    "title-and-content",
+    "image",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "quote",
+    "title-and-content",
+    "image",
+    "video"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/05.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/05.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/02.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/04.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Dept-Apparel-01.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Dept-Apparel-01.png"
+    ]
+  ]
+}

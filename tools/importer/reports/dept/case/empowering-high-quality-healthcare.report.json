@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/empowering-high-quality-healthcare/",
+  "path": "dept/case/empowering-high-quality-healthcare",
+  "timestamp": "2026-10-09T10:00:26.394Z",
+  "title": "Empowering high-quality healthcare - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Paul-Hartmann-Health-visual-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Paul-Hartmann-Health-visual-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Paul-Hartmann-Health-visual-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Paul-Hartmann-Health-visual-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Paul-Hartmann-Health-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Paul-Hartmann-Health-visual-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1254128245-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1254128245-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Paul-Hartmann-Featured-images.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Paul-Hartmann-Featured-images.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/live-like-a-champion/",
+  "path": "dept/en-in/case/live-like-a-champion",
+  "timestamp": "2026-10-09T16:03:31.740Z",
+  "title": "Live like a champion - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/boy-in-stands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/boy-in-stands.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-7-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-7-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/jerome-boateng-visual.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/jerome-boateng-visual.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Screenshot-2019-07-24-at-13.52.11.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Screenshot-2019-07-24-at-13.52.11.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Joa%CC%83o-Ina%CC%81cio.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Joa-o-Ina-cio.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/bijenkorf-1440x810-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/bijenkorf-1440x810-c-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/twitchcon-las-vegas-group.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/twitchcon-las-vegas-group.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/boy-in-stands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/boy-in-stands.jpg"
+    ]
+  ]
+}

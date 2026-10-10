@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/seien-sie-frei-in-ihrer-eigenen-haut-mit-dem-philips-lumea/",
+  "path": "dept/de-dach/case/seien-sie-frei-in-ihrer-eigenen-haut-mit-dem-philips-lumea",
+  "timestamp": "2026-10-09T11:19:58.542Z",
+  "title": "Be free mit dem Philips Lumea - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/3-Banner-image_Option-04.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/3-Banner-image_Option-04.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ]
+  ]
+}

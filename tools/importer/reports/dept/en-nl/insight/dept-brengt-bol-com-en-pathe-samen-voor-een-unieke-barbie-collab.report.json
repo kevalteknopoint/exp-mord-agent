@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-brengt-bol-com-en-pathe-samen-voor-een-unieke-barbie-collab/",
+  "path": "dept/en-nl/insight/dept-brengt-bol-com-en-pathe-samen-voor-een-unieke-barbie-collab",
+  "timestamp": "2026-10-09T18:31:24.540Z",
+  "title": "DEPT® brengt bol.com en Pathé samen voor een unieke Barbie-collab - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/bol.com-en-Pathe-Barbie-persbeeld.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/bol.com-en-Pathe-Barbie-persbeeld.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/bol.com-en-Pathe-Barbie-persbeeld.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/bol.com-en-Pathe-Barbie-persbeeld.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-Pixel-Thumnail-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-Pixel-Thumnail-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/bol.com-en-Pathe-Barbie-persbeeld.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/bol.com-en-Pathe-Barbie-persbeeld.jpg"
+    ]
+  ]
+}

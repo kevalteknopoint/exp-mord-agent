@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-strengthens-its-creative-team-in-the-netherlands/",
+  "path": "dept/en-nl/insight/dept-strengthens-its-creative-team-in-the-netherlands",
+  "timestamp": "2026-10-09T23:49:55.448Z",
+  "title": "DEPT® strengthens its creative team in The Netherlands - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Creative-new-hires-I-Insight-Featured-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Creative-new-hires-I-Insight-Featured-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/CPG-trends-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/CPG-trends-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Digital-health-event-header-1905x975-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Digital-health-event-header-1905x975-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Creative-new-hires-I-Insight-Featured-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Creative-new-hires-I-Insight-Featured-1920x1080-1.jpg"
+    ]
+  ]
+}

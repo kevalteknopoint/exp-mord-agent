@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/accelerating-consumer-goods-top-3-digital-trends-for-2021/",
+  "path": "dept/en-nl/downloads/accelerating-consumer-goods-top-3-digital-trends-for-2021",
+  "timestamp": "2026-10-09T17:38:42.779Z",
+  "title": "Accelerating consumer goods: top 3 digital trends for 2021 - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-intro",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/hands-holding-black-small-boxes.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/hands-holding-black-small-boxes.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/hands-holding-black-small-boxes.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/hands-holding-black-small-boxes.png"
+    ]
+  ]
+}

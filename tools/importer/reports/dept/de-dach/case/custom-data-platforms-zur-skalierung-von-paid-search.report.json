@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/custom-data-platforms-zur-skalierung-von-paid-search/",
+  "path": "dept/de-dach/case/custom-data-platforms-zur-skalierung-von-paid-search",
+  "timestamp": "2026-10-09T11:29:51.340Z",
+  "title": "Custom Data Platforms zur Skalierung von Paid Search - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "stats-panel",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/traveling-adventure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/traveling-adventure.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/woman-traveling.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/woman-traveling.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Sebastian_1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Sebastian_1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/traveling-adventure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/traveling-adventure.jpg"
+    ]
+  ]
+}

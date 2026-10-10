@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-digital-erlebbare-marken-experience/",
+  "path": "dept/de-dach/case/eine-digital-erlebbare-marken-experience",
+  "timestamp": "2026-10-09T10:54:53.343Z",
+  "title": "Eine digital erlebbare Marken-Experience - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Hero-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Hero-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Patagonia-Smallerblock.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Patagonia-Smallerblock.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Visual-Light-159-2-scaled-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Visual-Light-159-2-scaled-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Patagonia-Case-Study-Thumbnail-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Patagonia-Case-Study-Thumbnail-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Outdoor-clothing-brands-Patagonia-Fitz-Roy-Down-Hoody.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Outdoor-clothing-brands-Patagonia-Fitz-Roy-Down-Hoody.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Visual-Light-158-1-scaled-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Visual-Light-158-1-scaled-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/PatagoniaManClimbing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/PatagoniaManClimbing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Footprint_Overview3-scaled-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Footprint_Overview3-scaled-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ANNEMARIE-BOeRLIND-NATUCOLLAGEN-BOOST-Gesichtsfluid-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ANNEMARIE-BOeRLIND-NATUCOLLAGEN-BOOST-Gesichtsfluid-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ]
+  ]
+}

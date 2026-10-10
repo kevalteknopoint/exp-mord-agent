@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/footsteps-of-progress-empowerment-von-frauen-in-osteuropa/",
+  "path": "dept/de-dach/case/footsteps-of-progress-empowerment-von-frauen-in-osteuropa",
+  "timestamp": "2026-10-09T11:00:25.255Z",
+  "title": "Footsteps of Progress: Empowerment von Frauen in Osteuropa - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-1-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-1-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/pallas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/pallas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/building-an-immersive-experience-for-the-leader-in-music-festivals/",
+  "path": "dept/en-dk/case/building-an-immersive-experience-for-the-leader-in-music-festivals",
+  "timestamp": "2026-10-09T14:02:59.641Z",
+  "title": "Building an immersive experience for the leader in music festivals - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "jumbotron",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/pr_tomorrowland.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/pr_tomorrowland.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/spin-magazine-open-graph.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/spin-magazine-open-graph.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/gas-vanon-raod.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/gas-vanon-raod.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/TML1-2-1024x559.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/TML1-2-1024x559.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/durch-content-marketing-zum-dialog/",
+  "path": "dept/de-dach/case/durch-content-marketing-zum-dialog",
+  "timestamp": "2026-10-09T11:39:34.640Z",
+  "title": "Durch Content Marketing zum Dialog - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/betty_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/betty_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/babymarkt-website-overview.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/babymarkt-website-overview.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/EverEstate-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/EverEstate-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-861247950-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-861247950-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/betty_1-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/betty_1-1024x576.png"
+    ]
+  ]
+}

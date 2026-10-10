@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/ki-prognosen-2025-die-zukunft-der-ki/",
+  "path": "dept/de-dach/insight/ki-prognosen-2025-die-zukunft-der-ki",
+  "timestamp": "2026-10-09T12:12:11.842Z",
+  "title": "5 KI-Prognosen für 2025 - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/AI-predictions-2025.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/AI-predictions-2025.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT--150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Social-media-trends-and-culture-Web-16_9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Social-media-trends-and-culture-Web-16_9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Our-most-advanced-and-silliest-Snap-AR-work-ever-1200x670px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Our-most-advanced-and-silliest-Snap-AR-work-ever-1200x670px.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/AI-predictions-2025.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/AI-predictions-2025.jpg"
+    ]
+  ]
+}

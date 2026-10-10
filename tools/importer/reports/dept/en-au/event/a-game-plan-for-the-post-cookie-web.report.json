@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/a-game-plan-for-the-post-cookie-web/",
+  "path": "dept/en-au/event/a-game-plan-for-the-post-cookie-web",
+  "timestamp": "2026-10-09T12:49:54.767Z",
+  "title": "A game plan for the post-cookie web - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Landingpage.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Landingpage.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Cristian-van-Nispen-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Cristian-van-Nispen-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Lisanne-Maatman-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Lisanne-Maatman-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/1560859130223-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/1560859130223-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/1532029548361-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/1532029548361-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Landingpage.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Landingpage.png"
+    ]
+  ]
+}

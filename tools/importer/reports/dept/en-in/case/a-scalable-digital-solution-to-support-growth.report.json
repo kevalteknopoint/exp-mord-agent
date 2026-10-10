@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/a-scalable-digital-solution-to-support-growth/",
+  "path": "dept/en-in/case/a-scalable-digital-solution-to-support-growth",
+  "timestamp": "2026-10-09T14:43:56.993Z",
+  "title": "A scalable, digital solution to support growth - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Template-Full-screen-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Template-Full-screen-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Template-Desktop-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Template-Desktop-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Mobile-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Mobile-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/ITA-Group-Case-Image-Mockup-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/ITA-Group-Case-Image-Mockup-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/hero-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/hero-1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/blurb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/blurb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Template-Full-screen-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Template-Full-screen-1.png"
+    ]
+  ]
+}

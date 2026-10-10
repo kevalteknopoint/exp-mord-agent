@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/dept-is-a-climate-neutral-certified-company-again/",
+  "path": "dept/en-dk/insight/dept-is-a-climate-neutral-certified-company-again",
+  "timestamp": "2026-10-09T14:59:30.441Z",
+  "title": "DEPT® is a Climate Neutral certified company, again! - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Landingpage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Landingpage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Landingpage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Landingpage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Landingpage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Landingpage.jpg"
+    ]
+  ]
+}

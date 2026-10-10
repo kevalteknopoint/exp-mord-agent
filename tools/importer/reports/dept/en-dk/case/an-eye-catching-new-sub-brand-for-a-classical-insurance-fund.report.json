@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/an-eye-catching-new-sub-brand-for-a-classical-insurance-fund/",
+  "path": "dept/en-dk/case/an-eye-catching-new-sub-brand-for-a-classical-insurance-fund",
+  "timestamp": "2026-10-09T13:53:05.864Z",
+  "title": "An eye-catching new sub-brand for a classical insurance fund - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "quote",
+    "video",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/DSA_mutiplemobilescreens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/DSA_mutiplemobilescreens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/DSA_phonescreen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/DSA_phonescreen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Malene-Moller.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Malene-Moller.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/schipol-airport.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/schipol-airport.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/2-Mobile-Screens-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/2-Mobile-Screens-2.jpg"
+    ]
+  ]
+}

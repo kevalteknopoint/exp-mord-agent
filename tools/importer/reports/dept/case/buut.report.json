@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/buut/",
+  "path": "dept/case/buut",
+  "timestamp": "2026-10-09T10:20:07.062Z",
+  "title": "BUUT: Designing the next generation’s bank - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/DEPTXBUUT_Cover.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/DEPTXBUUT_Cover.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Buut-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Buut-1920x1080-1.png"
+    ]
+  ]
+}

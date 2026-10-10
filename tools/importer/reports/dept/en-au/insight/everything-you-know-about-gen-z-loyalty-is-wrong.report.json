@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/everything-you-know-about-gen-z-loyalty-is-wrong/",
+  "path": "dept/en-au/insight/everything-you-know-about-gen-z-loyalty-is-wrong",
+  "timestamp": "2026-10-09T13:44:18.040Z",
+  "title": "Everything you know about Gen Z and loyalty is wrong  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/gen-z-woman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/gen-z-woman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/shannon-breslin-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/shannon-breslin-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/doordash-mothers-day-campaign.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/doordash-mothers-day-campaign.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Kids-and-AI-Feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Kids-and-AI-Feature.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/gen-z-woman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/gen-z-woman.jpg"
+    ]
+  ]
+}

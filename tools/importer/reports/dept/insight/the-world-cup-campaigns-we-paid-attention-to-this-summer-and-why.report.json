@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-world-cup-campaigns-we-paid-attention-to-this-summer-and-why/",
+  "path": "dept/insight/the-world-cup-campaigns-we-paid-attention-to-this-summer-and-why",
+  "timestamp": "2026-10-09T22:08:47.537Z",
+  "title": "The World Cup campaigns we paid attention to this summer (and why) - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/football-stadium-topview.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/football-stadium-topview.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/uber-screenshot.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/uber-screenshot.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/uber-screenshot-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/uber-screenshot-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/football-stadium-topview.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/football-stadium-topview.webp"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/dept-appoints-new-emea-leader-to-accelerate-growth/",
+  "path": "dept/en-dk/insight/dept-appoints-new-emea-leader-to-accelerate-growth",
+  "timestamp": "2026-10-09T14:51:51.736Z",
+  "title": "DEPT® appoints new EMEA leader to accelerate growth - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Landing_page.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Landing_page.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/lovies-2022-featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/lovies-2022-featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-1000X1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--1000X1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Melon-x-DEPT%C2%AE-insights-image-1000x1200-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Melon-x-DEPT--insights-image-1000x1200-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Landing_page.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Landing_page.jpg"
+    ]
+  ]
+}

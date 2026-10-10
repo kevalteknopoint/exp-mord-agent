@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-named-as-one-of-adweeks-fastest-growing-agencies-in-2023/",
+  "path": "dept/insight/dept-named-as-one-of-adweeks-fastest-growing-agencies-in-2023",
+  "timestamp": "2026-10-09T21:21:18.153Z",
+  "title": "DEPT® named as one of Adweek’s Fastest Growing Agencies in 2023 - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/PR-Adweek-Fasters-growing-company-2023-500X300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/PR-Adweek-Fasters-growing-company-2023-500X300.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/PR-Adweek-Fastest-growing-company-2023-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/PR-Adweek-Fastest-growing-company-2023-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/PR-Adweek-Fasters-growing-company-2023-500X300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/PR-Adweek-Fasters-growing-company-2023-500X300.jpg"
+    ]
+  ]
+}

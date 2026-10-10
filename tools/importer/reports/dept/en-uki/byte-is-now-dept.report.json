@@ -1,0 +1,93 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/byte-is-now-dept/",
+  "path": "dept/en-uki/byte-is-now-dept",
+  "timestamp": "2026-10-09T19:29:56.860Z",
+  "title": "BYTE/DEPT® is now DEPT® - DEPT®",
+  "template": "dept-page",
+  "locale": "en-uki",
+  "components": [
+    "statement",
+    "video",
+    "title-and-content",
+    "cta-text",
+    "four-card-information-block",
+    "cta-text",
+    "two-cards-and-content",
+    "two-cards-and-content",
+    "two-cards-and-content",
+    "form-with-header",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Creative-Campaign-strategy-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Creative-Campaign-strategy-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Social-Media-Marketing-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Social-Media-Marketing-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Chatbots-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Chatbots-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Growth-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Growth-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1098_Retouched.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1098_Retouched.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Audience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Audience.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/22-ebay_MCM_ComicCon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/22-ebay_MCM_ComicCon.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/king-charles-portrait-ar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/king-charles-portrait-ar.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ebay-love-island-suitcase.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ebay-love-island-suitcase.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/craig-david-trainline.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/craig-david-trainline.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ebay-built-different-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ebay-built-different-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/P2P-Website-landing-page-with-gradient-1440-x-588.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/P2P-Website-landing-page-with-gradient-1440-x-588.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

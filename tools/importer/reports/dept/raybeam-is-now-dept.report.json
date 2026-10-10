@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/raybeam-is-now-dept/",
+  "path": "dept/raybeam-is-now-dept",
+  "timestamp": "2026-10-09T22:44:30.673Z",
+  "title": "RAYBEAM/DEPT® is now DEPT® - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "statement",
+    "video",
+    "title-and-content",
+    "four-card-information-block",
+    "title-and-content",
+    "numbered-carousel",
+    "highlighted-item-listing",
+    "rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Service_data-science.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Service_data-science.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Service_data-strategy-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Service_data-strategy-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Service_marketing-automation.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Service_marketing-automation.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Service_web-mobile-app-development-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Service_web-mobile-app-development-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/prepare-to-pioneer-carousel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/prepare-to-pioneer-carousel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-analyst-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-analyst-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-in-spreadsheet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-in-spreadsheet.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/before-your-data-project.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/before-your-data-project.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

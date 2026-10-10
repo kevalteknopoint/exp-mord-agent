@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/google-data-studio-3-reports-schneller-und-professioneller-erstellen/",
+  "path": "dept/de-dach/insight/google-data-studio-3-reports-schneller-und-professioneller-erstellen",
+  "timestamp": "2026-10-09T12:05:48.697Z",
+  "title": "Google Data Studio 3 - Reports schneller und professioneller erstellen - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept016-213x320-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept016-213x320-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tobias-Kra%CC%88ft-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tobias-Kra-ft-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/image1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/image1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/image2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/image2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/image3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/image3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/image4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/image4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept016-213x320-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept016-213x320-1.jpg"
+    ]
+  ]
+}

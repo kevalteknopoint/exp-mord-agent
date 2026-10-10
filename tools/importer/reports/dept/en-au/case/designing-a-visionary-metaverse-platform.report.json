@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/designing-a-visionary-metaverse-platform/",
+  "path": "dept/en-au/case/designing-a-visionary-metaverse-platform",
+  "timestamp": "2026-10-09T12:53:49.207Z",
+  "title": "Designing a visionary metaverse platform - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Untitled-design-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Untitled-design-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/translucia-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/translucia-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Jason_ODonnell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Jason_ODonnell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-cover-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-cover-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Frame-1446.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Frame-1446.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/forwardbeauty-ein-relaunch-im-namen-der-schonheit/",
+  "path": "dept/de-dach/case/forwardbeauty-ein-relaunch-im-namen-der-schonheit",
+  "timestamp": "2026-10-09T11:00:31.622Z",
+  "title": "#Forwardbeauty: Ein Relaunch im Namen der Schönheit - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/image-5-2-1024x639-1-1440x810-c-douglas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/image-5-2-1024x639-1-1440x810-c-douglas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/douglas_de_1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/douglas_de_1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Douglas_Mockup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Douglas_Mockup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/douglas_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/douglas_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT%C2%AE-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT--2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/gazelle-bikes-dept-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/gazelle-bikes-dept-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/image-5-2-1024x639-1-1440x810-c-douglas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/image-5-2-1024x639-1-1440x810-c-douglas.png"
+    ]
+  ]
+}

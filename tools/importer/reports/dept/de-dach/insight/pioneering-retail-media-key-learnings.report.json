@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/pioneering-retail-media-key-learnings/",
+  "path": "dept/de-dach/insight/pioneering-retail-media-key-learnings",
+  "timestamp": "2026-10-09T11:37:35.052Z",
+  "title": "Pioneering Retail Media - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/FADE_Masterclass_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/FADE_Masterclass_Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/FADE_Masterclass.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/FADE_Masterclass.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/FADE_Masterclass_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/FADE_Masterclass_Featured-Image.png"
+    ]
+  ]
+}

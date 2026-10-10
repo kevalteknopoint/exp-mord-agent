@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/e-commerce-and-marketplaces/",
+  "path": "dept/en-in/service/growth/e-commerce-and-marketplaces",
+  "timestamp": "2026-10-09T16:29:34.165Z",
+  "title": "e-Commerce and marketplaces - DEPT® e-commerce marketing",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "cta-text",
+    "rich-text",
+    "routing-banner",
+    "highlighted-item-listing",
+    "client-panel",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/amazon-posts.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/amazon-posts.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/19-retail-revolution-part-2-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/19-retail-revolution-part-2-FT.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/orange-blur-on-black-background.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/orange-blur-on-black-background.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Shopify-Plus.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Shopify-Plus.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Commercetools.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Commercetools.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Spryker.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Spryker.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Shopware.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Shopware.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Teikametrics-Logo-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Teikametrics-Logo-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Pacvue-Logo-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Pacvue-Logo-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/SKAI-Logo-white-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/SKAI-Logo-white-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Ecommerce-design-system.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Ecommerce-design-system.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Ecommerce-design-system.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Ecommerce-design-system.png"
+    ]
+  ]
+}

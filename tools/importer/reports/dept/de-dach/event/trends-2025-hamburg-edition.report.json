@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/trends-2025-hamburg-edition/",
+  "path": "dept/de-dach/event/trends-2025-hamburg-edition",
+  "timestamp": "2026-10-09T18:34:13.447Z",
+  "title": "Trends Event 2025: Hamburg Edition - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "event-register",
+    "image-with-content-cards",
+    "event-program",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Event-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Event-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Pardot-form-Trends-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Pardot-form-Trends-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Constance-Stein-cosnova.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Constance-Stein-cosnova.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Morgan-Franke-Bechstein.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Morgan-Franke-Bechstein.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Gesine-Meitler-Dept-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Gesine-Meitler-Dept-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Verena-Sandbote-Dept-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Verena-Sandbote-Dept-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Dept_Tim_Schroeder-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Dept_Tim_Schroeder-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nelleke-van-Grinsven.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nelleke-van-Grinsven.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Job-Deibel-Dept-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Job-Deibel-Dept-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Linkedin_event-Trends-2025.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Linkedin_event-Trends-2025.png"
+    ]
+  ]
+}

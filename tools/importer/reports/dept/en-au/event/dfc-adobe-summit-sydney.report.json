@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dfc-adobe-summit-sydney/",
+  "path": "dept/en-au/event/dfc-adobe-summit-sydney",
+  "timestamp": "2026-10-09T11:54:35.135Z",
+  "title": "DEPT® Future Club; Adobe Summit Sydney - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "event-people",
+    "insight-cta"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Gemini_Generated_Image_31oyb731oyb731oy-3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Gemini_Generated_Image_31oyb731oyb731oy-3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/james-lowe.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/james-lowe.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Julian-Gilchrist-VP-Experience-Engineering-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Julian-Gilchrist-VP-Experience-Engineering-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Gemini_Generated_Image_31oyb731oyb731oy-3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Gemini_Generated_Image_31oyb731oyb731oy-3-1.png"
+    ]
+  ]
+}

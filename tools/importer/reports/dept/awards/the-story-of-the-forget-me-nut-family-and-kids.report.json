@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/the-story-of-the-forget-me-nut-family-and-kids/",
+  "path": "dept/awards/the-story-of-the-forget-me-nut-family-and-kids",
+  "timestamp": "2026-10-09T10:37:14.166Z",
+  "title": "The Story of the Forget-me-nut - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Forget-me-nut-lovie-awards.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Forget-me-nut-lovie-awards.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/The-Story-of-the-Forget-me-nut_pepernoten.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/The-Story-of-the-Forget-me-nut_pepernoten.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/The-Story-of-the-Forget-me-nut_pepernoten.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/The-Story-of-the-Forget-me-nut_pepernoten.jpg"
+    ]
+  ]
+}

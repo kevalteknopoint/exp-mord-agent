@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/amplificamos-la-presencia-de-la-marca-jbl-en-amazon/",
+  "path": "dept/latam/case/amplificamos-la-presencia-de-la-marca-jbl-en-amazon",
+  "timestamp": "2026-10-09T21:26:39.760Z",
+  "title": "Amplificamos la presencia de la marca JBL en Amazon - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JBL_Case_Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JBL_Case_Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JBL_Case_Image_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JBL_Case_Image_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/4-Pillars-of-Brand-Building-on-Amazon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/4-Pillars-of-Brand-Building-on-Amazon.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JBL-case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JBL-case.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JBL_Case_Image2_-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JBL_Case_Image2_-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JBL_Case_UNIFIED-A-CONTENT-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JBL_Case_UNIFIED-A-CONTENT-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JBL_ACONTNET_.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JBL_ACONTNET_.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JBL_BANNER-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JBL_BANNER-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JBL_CASE_Image_3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JBL_CASE_Image_3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/setting-up-a-serverless-architecture-with-ci-cd-integration/",
+  "path": "dept/setting-up-a-serverless-architecture-with-ci-cd-integration",
+  "timestamp": "2026-10-09T21:56:13.140Z",
+  "title": "The case devops engineer assignment - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_22-01_Talks-Trends-2019-081-e1558429221703.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_22-01_Talks-Trends-2019-081-e1558429221703.jpg"
+    ]
+  ]
+}

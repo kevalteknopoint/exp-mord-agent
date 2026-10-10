@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/bols-new-sinterklass-campaign-brings-wish-lists-to-life/",
+  "path": "dept/en-nl/insight/bols-new-sinterklass-campaign-brings-wish-lists-to-life",
+  "timestamp": "2026-10-09T17:16:27.775Z",
+  "title": "Bol’s new Sinterklaas campaign brings wish lists to life - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Bol-Sinterklass-2025-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Bol-Sinterklass-2025-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Bol-Sinterklass-2025-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Bol-Sinterklass-2025-1.png"
+    ]
+  ]
+}

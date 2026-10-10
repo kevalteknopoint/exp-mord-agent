@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/utilizing-untapped-performance-levers-to-drive-growth/",
+  "path": "dept/en-au/case/utilizing-untapped-performance-levers-to-drive-growth",
+  "timestamp": "2026-10-09T12:39:53.980Z",
+  "title": "Utilizing untapped performance levers to drive growth - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/law-hero-back-v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/law-hero-back-v2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google-Workspace01-e1678980997383.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google-Workspace01-e1678980997383.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/8-Image-Full-bleed@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/8-Image-Full-bleed-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/law-hero-back-v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/law-hero-back-v2.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/the-power-of-ai-in-voice-search-leveraging-conversational-content-for-better-results/",
+  "path": "dept/en-dk/insight/the-power-of-ai-in-voice-search-leveraging-conversational-content-for-better-results",
+  "timestamp": "2026-10-09T15:13:31.842Z",
+  "title": "The power of AI in voice search: Leveraging conversational content for better results - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ai-voice-search.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ai-voice-search.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/elina-andrus-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/elina-andrus-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/AI-google-more-important-than-ever.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/AI-google-more-important-than-ever.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/car-driving-winding-road.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/car-driving-winding-road.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Navigating-the-edge-of-co-creation-in-influencer-marketing-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Navigating-the-edge-of-co-creation-in-influencer-marketing-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ai-voice-search.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ai-voice-search.jpeg"
+    ]
+  ]
+}

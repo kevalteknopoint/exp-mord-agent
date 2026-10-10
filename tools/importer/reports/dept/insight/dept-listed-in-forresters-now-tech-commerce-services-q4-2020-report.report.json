@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-listed-in-forresters-now-tech-commerce-services-q4-2020-report/",
+  "path": "dept/insight/dept-listed-in-forresters-now-tech-commerce-services-q4-2020-report",
+  "timestamp": "2026-10-09T21:20:51.351Z",
+  "title": "DEPT® listed in Forrester’s “Now Tech: Commerce Services, Q4 2020” report - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/iStock-518251288-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/iStock-518251288-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/iStock-518251288-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/iStock-518251288-1200x750-c.jpg"
+    ]
+  ]
+}

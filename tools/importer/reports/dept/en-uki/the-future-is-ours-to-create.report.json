@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/the-future-is-ours-to-create/",
+  "path": "dept/en-uki/the-future-is-ours-to-create",
+  "timestamp": "2026-10-09T19:58:13.540Z",
+  "title": "The future is ours to create - DEPT®",
+  "template": "dept-page",
+  "locale": "en-uki",
+  "components": [
+    "post-header",
+    "full-width-image",
+    "panel-with-rich-text",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Impact-report-featured-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Impact-report-featured-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Impact-report-featured.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Impact-report-featured.jpeg"
+    ]
+  ]
+}

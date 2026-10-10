@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/turning-nothing-to-wear-into-something-to-love/",
+  "path": "dept/de-dach/case/turning-nothing-to-wear-into-something-to-love",
+  "timestamp": "2026-10-09T11:23:41.251Z",
+  "title": "Turning nothing to wear into something to love - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/eBay-fridge-magnets.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/eBay-fridge-magnets.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/eBay-man-staring-clothes.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/eBay-man-staring-clothes.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Isostar_Life-is-your-playground.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Isostar_Life-is-your-playground.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/customer-360-preparing-for-tomorrow/",
+  "path": "dept/en-au/event/customer-360-preparing-for-tomorrow",
+  "timestamp": "2026-10-09T12:51:14.939Z",
+  "title": "Customer 360: Preparing for Tomorrow - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Paula_Dahm-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Paula_Dahm-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Carlo-Klaasse-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Carlo-Klaasse-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Henri-Legentil-Borup-scaled-e1663591414874-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Henri-Legentil-Borup-scaled-e1663591414874-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Benjamin-Davies.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Benjamin-Davies.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

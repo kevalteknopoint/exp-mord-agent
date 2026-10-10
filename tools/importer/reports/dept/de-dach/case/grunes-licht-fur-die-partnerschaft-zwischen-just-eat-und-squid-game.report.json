@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/grunes-licht-fur-die-partnerschaft-zwischen-just-eat-und-squid-game/",
+  "path": "dept/de-dach/case/grunes-licht-fur-die-partnerschaft-zwischen-just-eat-und-squid-game",
+  "timestamp": "2026-10-09T11:03:20.354Z",
+  "title": "Grünes Licht für die Partnerschaft zwischen Just Eat und Squid Game - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "full-width-image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Jetflix1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Jetflix1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Jetflix3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Jetflix3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Nyiyaparli-Widi-Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Nyiyaparli-Widi-Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ]
+  ]
+}

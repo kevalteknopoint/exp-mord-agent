@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/make-your-move-with-an-older-generation-of-influencers-social-social-campaigns-diversity-equity-inclusion/",
+  "path": "dept/awards/make-your-move-with-an-older-generation-of-influencers-social-social-campaigns-diversity-equity-inclusion",
+  "timestamp": "2026-10-09T10:27:53.743Z",
+  "title": "Make your move with an older generation of influencers  - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "image",
+    "panel-with-list",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "stats-panel",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Calli-Goldstein.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Calli-Goldstein.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ]
+  ]
+}

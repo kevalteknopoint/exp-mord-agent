@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/inspiring-and-entertaining-fans-all-over-the-globe/",
+  "path": "dept/case/inspiring-and-entertaining-fans-all-over-the-globe",
+  "timestamp": "2026-10-09T10:24:35.241Z",
+  "title": "Inspiring and entertaining fans all over the globe - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "image",
+    "panel-with-cards",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_slanted_static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_slanted_static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_players.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_players.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_jerseys.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_jerseys.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/wine.com_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/wine.com_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Inter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Inter.jpg"
+    ]
+  ]
+}

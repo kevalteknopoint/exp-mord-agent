@@ -1,0 +1,85 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/optimising-the-future/",
+  "path": "dept/en-au/event/optimising-the-future",
+  "timestamp": "2026-10-09T11:55:59.590Z",
+  "title": "Optimising the Future - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details",
+    "image",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Untitled-design-20.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Untitled-design-20.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Alex_Atzberger1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Alex_Atzberger1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Untitled-design-21.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Untitled-design-21.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Untitled-design-37-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Untitled-design-37-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/liz-gabster2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/liz-gabster2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Cristian-van-Nispen-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Cristian-van-Nispen-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Tim-Schroeder-Dept-02-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Tim-Schroeder-Dept-02-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Marc-Bohnes-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Marc-Bohnes-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marc_Preusche_LEROI-200x355-c-e1626533728975-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marc_Preusche_LEROI-200x355-c-e1626533728975-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Untitled-design-23-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Untitled-design-23-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/marcel-amosse.1024x1024-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/marcel-amosse.1024x1024-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Event-Schedule-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Event-Schedule-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Untitled-design-20.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Untitled-design-20.png"
+    ]
+  ]
+}

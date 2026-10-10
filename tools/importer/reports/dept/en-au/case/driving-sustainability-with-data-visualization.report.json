@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/driving-sustainability-with-data-visualization/",
+  "path": "dept/en-au/case/driving-sustainability-with-data-visualization",
+  "timestamp": "2026-10-09T12:56:58.672Z",
+  "title": "Driving sustainability with data visualization - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/windmills.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/windmills.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/energy-consumption-data-nrel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/energy-consumption-data-nrel.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/nrel-intelligent-campus-screens.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/nrel-intelligent-campus-screens.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Meta-Festival_Whole-World.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Meta-Festival_Whole-World.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sneaker-featuredimage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sneaker-featuredimage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/energy-consumption-data-nrel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/energy-consumption-data-nrel.png"
+    ]
+  ]
+}

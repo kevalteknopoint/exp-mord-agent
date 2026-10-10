@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-role-of-integration-platforms-in-a-composable-enterprise/",
+  "path": "dept/insight/the-role-of-integration-platforms-in-a-composable-enterprise",
+  "timestamp": "2026-10-09T22:06:22.439Z",
+  "title": "The role of integration platforms in a composable enterprise - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/the-role-of-integration-platforms-in-a-composable-enterprise-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/the-role-of-integration-platforms-in-a-composable-enterprise-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jasper-Steenweg-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jasper-Steenweg-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/integration-platforms-in-composable-enterprise-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/integration-platforms-in-composable-enterprise-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-x-Mach-Alliance.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--x-Mach-Alliance.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Unlocking-potential-Composable-Architecture-content-modeling.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Unlocking-potential-Composable-Architecture-content-modeling.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Why-composable-ux-matters-your-cms-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Why-composable-ux-matters-your-cms-strategy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jasper-Steenweg.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jasper-Steenweg.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/the-role-of-integration-platforms-in-a-composable-enterprise-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/the-role-of-integration-platforms-in-a-composable-enterprise-1.png"
+    ]
+  ]
+}

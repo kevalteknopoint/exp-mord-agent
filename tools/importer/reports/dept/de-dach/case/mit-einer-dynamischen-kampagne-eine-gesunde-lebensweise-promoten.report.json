@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/mit-einer-dynamischen-kampagne-eine-gesunde-lebensweise-promoten/",
+  "path": "dept/de-dach/case/mit-einer-dynamischen-kampagne-eine-gesunde-lebensweise-promoten",
+  "timestamp": "2026-10-09T11:11:55.441Z",
+  "title": "Mit einer dynamischen Kampagne eine gesunde Lebensweise promoten - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-2-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-2-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ascot-Banner2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ascot-Banner2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-33-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-33-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ]
+  ]
+}

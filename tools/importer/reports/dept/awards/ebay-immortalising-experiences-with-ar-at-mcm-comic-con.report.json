@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/ebay-immortalising-experiences-with-ar-at-mcm-comic-con/",
+  "path": "dept/awards/ebay-immortalising-experiences-with-ar-at-mcm-comic-con",
+  "timestamp": "2026-10-09T10:17:03.461Z",
+  "title": "eBay: Immortalising experiences with AR at MCM Comic Con - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Q-_1udnY-1-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Q-_1udnY-1-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DdipNFmw.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DdipNFmw.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/QQeWZ5o4-min-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/QQeWZ5o4-min-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/j1Z05Eko-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/j1Z05Eko-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

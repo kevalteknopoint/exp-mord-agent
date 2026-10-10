@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/mauritshuis-wants-to-make-the-museum-accessible-to-everyone/",
+  "path": "dept/en-in/insight/mauritshuis-wants-to-make-the-museum-accessible-to-everyone",
+  "timestamp": "2026-10-09T17:15:08.083Z",
+  "title": "Mauritshuis wants to make the museum accessible to everyone - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/20201105_Mauritshuis-Impressie_byJoniIsraeli-134-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/20201105_Mauritshuis-Impressie_byJoniIsraeli-134-1-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/20201105_Mauritshuis-Impressie_byJoniIsraeli-134-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/20201105_Mauritshuis-Impressie_byJoniIsraeli-134-1-2.jpg"
+    ]
+  ]
+}

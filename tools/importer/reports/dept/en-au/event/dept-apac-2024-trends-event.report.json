@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dept-apac-2024-trends-event/",
+  "path": "dept/en-au/event/dept-apac-2024-trends-event",
+  "timestamp": "2026-10-09T12:51:26.839Z",
+  "title": "DEPT® APAC 2024 Trends Forecast: Connectedness, Creativity & Culture - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details",
+    "event-register",
+    "event-registration-form",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/trends-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/trends-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Ant_Castiglia_Strategy-Director-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Ant_Castiglia_Strategy-Director-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Georgie_Wilson_Lead-Merchandiser-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Georgie_Wilson_Lead-Merchandiser-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Jason_ODonnell-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Jason_ODonnell-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Michelle_Krikowa_Social-Media-Manager-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Michelle_Krikowa_Social-Media-Manager-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Bradley_Grinlinton-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Bradley_Grinlinton-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andrew_Chin_Director-Product-Design-Digital-Product-Australia-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andrew_Chin_Director-Product-Design-Digital-Product-Australia-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Trends-Forecast.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Trends-Forecast.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/trends-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/trends-1.jpg"
+    ]
+  ]
+}

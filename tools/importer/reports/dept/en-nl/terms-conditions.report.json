@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/terms-conditions/",
+  "path": "dept/en-nl/terms-conditions",
+  "timestamp": "2026-10-09T19:24:42.065Z",
+  "title": "Terms & Conditions - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-logo-ho-wh.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-logo-ho-wh.png"
+    ]
+  ]
+}

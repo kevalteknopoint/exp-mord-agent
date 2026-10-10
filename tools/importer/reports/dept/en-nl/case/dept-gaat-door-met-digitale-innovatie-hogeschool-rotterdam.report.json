@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/dept-gaat-door-met-digitale-innovatie-hogeschool-rotterdam/",
+  "path": "dept/en-nl/case/dept-gaat-door-met-digitale-innovatie-hogeschool-rotterdam",
+  "timestamp": "2026-10-09T18:05:37.758Z",
+  "title": "DEPT® gaat door met digitale innovatie Hogeschool Rotterdam - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-22-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-22-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-174.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-174.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Template-Desktop-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Template-Desktop-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-186.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-186.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-187.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-187.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Template-Mobiles-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Template-Mobiles-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-177.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-177.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Emmie-t-Hooft.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Emmie-t-Hooft.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/airplane-wing-during-flight-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/airplane-wing-during-flight-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1239648419-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1239648419-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1188236181-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1188236181-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/hoge_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/hoge_1.png"
+    ]
+  ]
+}

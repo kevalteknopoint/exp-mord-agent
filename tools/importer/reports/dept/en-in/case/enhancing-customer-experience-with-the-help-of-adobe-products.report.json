@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/enhancing-customer-experience-with-the-help-of-adobe-products/",
+  "path": "dept/en-in/case/enhancing-customer-experience-with-the-help-of-adobe-products",
+  "timestamp": "2026-10-09T15:49:35.161Z",
+  "title": "Enhancing CX with the help of Adobe products - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Insurance-that-cares-for-customers-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Insurance-that-cares-for-customers-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Insurance-that-cares-for-customers-1920x1080_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Insurance-that-cares-for-customers-1920x1080_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Yash-Mody.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Yash-Mody.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/TataCapital_1000x1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/TataCapital_1000x1200.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/headbanger.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/headbanger.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Insurance-that-cares-for-customers-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Insurance-that-cares-for-customers-1920x1080_1.jpg"
+    ]
+  ]
+}

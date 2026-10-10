@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/website-relaunch-fuer-das-schweizer-elektroinstallations-pionierunternehmen/",
+  "path": "dept/de-dach/case/website-relaunch-fuer-das-schweizer-elektroinstallations-pionierunternehmen",
+  "timestamp": "2026-10-09T11:27:04.390Z",
+  "title": "Website Relaunch für das Elektroinstallations-Pionierunternehmen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Feller_Header-Image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Feller_Header-Image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Feller-Image_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Feller-Image_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Benjamin-Huth_Dept_820x790.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Benjamin-Huth_Dept_820x790.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Feller_Header-Image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Feller_Header-Image-1.jpg"
+    ]
+  ]
+}

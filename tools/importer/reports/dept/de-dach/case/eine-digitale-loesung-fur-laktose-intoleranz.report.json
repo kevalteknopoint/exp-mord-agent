@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-digitale-loesung-fur-laktose-intoleranz/",
+  "path": "dept/de-dach/case/eine-digitale-loesung-fur-laktose-intoleranz",
+  "timestamp": "2026-10-09T10:55:01.664Z",
+  "title": "Eine digitale Lösung für Laktose-Intoleranz - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Arla-header-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Arla-header-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Arla6-Copy-1-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Arla6-Copy-1-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Arla6-3-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Arla6-3-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Arla10-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Arla10-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Arla11-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Arla11-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Story-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Story-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/ebay_featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/ebay_featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-170510613-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-170510613-1-scaled.jpg"
+    ]
+  ]
+}

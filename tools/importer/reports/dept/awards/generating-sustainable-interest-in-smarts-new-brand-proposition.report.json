@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/generating-sustainable-interest-in-smarts-new-brand-proposition/",
+  "path": "dept/awards/generating-sustainable-interest-in-smarts-new-brand-proposition",
+  "timestamp": "2026-10-09T10:20:02.671Z",
+  "title": "Generating sustainable interest in smart’s new brand proposition - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "call-to-action"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/smart-PR-landing-page-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/smart-PR-landing-page-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-2-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-2-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-5-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-5-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-1-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/building-brand-love-with-a-social-first-docuseries/",
+  "path": "dept/awards/building-brand-love-with-a-social-first-docuseries",
+  "timestamp": "2026-10-09T10:07:29.646Z",
+  "title": "Building brand love with a social-first docuseries - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Yas-Bean.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Yas-Bean.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Sequence-03.00_03_28_19.Still116.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Sequence-03.00_03_28_19.Still116.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Sequence-03.00_04_27_07.Still100-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Sequence-03.00_04_27_07.Still100-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/jeff-bowerman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/jeff-bowerman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ]
+  ]
+}

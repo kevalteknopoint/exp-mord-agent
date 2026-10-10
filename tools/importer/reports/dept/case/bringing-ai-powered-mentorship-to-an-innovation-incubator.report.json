@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/bringing-ai-powered-mentorship-to-an-innovation-incubator/",
+  "path": "dept/case/bringing-ai-powered-mentorship-to-an-innovation-incubator",
+  "timestamp": "2026-10-09T10:10:45.042Z",
+  "title": "Bringing AI-powered mentorship to an innovation incubator - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Whitelabel-Case-RB-Basement-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Whitelabel-Case-RB-Basement-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Whitelabel-Case-RB-Basement-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Whitelabel-Case-RB-Basement-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png"
+    ]
+  ]
+}

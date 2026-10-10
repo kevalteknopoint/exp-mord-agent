@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-doubles-down-on-the-us-already-generating-50-of-agency-revenue/",
+  "path": "dept/en-au/insight/dept-doubles-down-on-the-us-already-generating-50-of-agency-revenue",
+  "timestamp": "2026-10-09T13:17:28.566Z",
+  "title": "DEPT® doubles down on the US, already generating 50% of agency revenue - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_1200x1000-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_1200x1000-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Potential-TikTok-ban.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Potential-TikTok-ban.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/WEBBY-April-2023-Insight.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/WEBBY-April-2023-Insight.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Event-header-1440x588-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Event-header-1440x588-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_1200x1000-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_1200x1000-1.jpeg"
+    ]
+  ]
+}

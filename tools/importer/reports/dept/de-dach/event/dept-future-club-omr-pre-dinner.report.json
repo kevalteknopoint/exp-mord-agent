@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-future-club-omr-pre-dinner/",
+  "path": "dept/de-dach/event/dept-future-club-omr-pre-dinner",
+  "timestamp": "2026-10-09T10:58:46.587Z",
+  "title": "DEPT® Future Club x Shopify: OMR Pre-Dinner - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-intro",
+    "event-info",
+    "insight-cta",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DFC-DACH-Website-Hero-Banner-Orange-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DFC-DACH-Website-Hero-Banner-Orange-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DFC-DE-Website-Hero-Banner-1080x1350-Orange.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DFC-DE-Website-Hero-Banner-1080x1350-Orange.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Tim-Schroeder-1026x1368-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Tim-Schroeder-1026x1368-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/NatalieMartens-_Web_Pic_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/NatalieMartens-_Web_Pic_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DFC-DACH-Website-Hero-Banner-Orange-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DFC-DACH-Website-Hero-Banner-Orange-1920x1080-1.webp"
+    ]
+  ]
+}

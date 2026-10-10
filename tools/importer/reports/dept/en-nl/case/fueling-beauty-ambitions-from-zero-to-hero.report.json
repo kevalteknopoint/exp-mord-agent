@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/fueling-beauty-ambitions-from-zero-to-hero/",
+  "path": "dept/en-nl/case/fueling-beauty-ambitions-from-zero-to-hero",
+  "timestamp": "2026-10-09T18:15:48.476Z",
+  "title": "ghd (Good Hair Day): Amazon Advertising strategy",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ghd-case-image-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/woman-blonde-ghd.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/woman-blonde-ghd.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/woman-lounging-ghd.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/woman-lounging-ghd.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ghd-case-image-1.jpeg"
+    ]
+  ]
+}

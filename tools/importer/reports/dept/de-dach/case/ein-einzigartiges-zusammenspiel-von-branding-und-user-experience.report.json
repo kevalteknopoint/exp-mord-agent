@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-einzigartiges-zusammenspiel-von-branding-und-user-experience/",
+  "path": "dept/de-dach/case/ein-einzigartiges-zusammenspiel-von-branding-und-user-experience",
+  "timestamp": "2026-10-09T11:41:18.779Z",
+  "title": "Ein einzigartiges Zusammenspiel von Branding und User Experience - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/muuto-living-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/muuto-living-area-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-197@2x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-197-2x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/50-50-A.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/50-50-A.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-177@2x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-177-2x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/50-50-C.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/50-50-C.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-185@2x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-185-2x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Louis-Widmer-Website-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Louis-Widmer-Website-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/muuto-living-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/muuto-living-area-1.jpg"
+    ]
+  ]
+}

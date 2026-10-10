@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/audience-development-in-search-and-cross-channel-integration/",
+  "path": "dept/downloads/audience-development-in-search-and-cross-channel-integration",
+  "timestamp": "2026-10-09T11:35:00.039Z",
+  "title": "Audience development in search and cross-channel integration - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/seaweed-black-background.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/seaweed-black-background.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/seaweed-black-background.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/seaweed-black-background.jpg"
+    ]
+  ]
+}

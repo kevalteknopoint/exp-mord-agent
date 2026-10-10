@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/veni-a-ver-el-futuro-del-ecommerce-en-dept-commerce-day/",
+  "path": "dept/latam/insight/veni-a-ver-el-futuro-del-ecommerce-en-dept-commerce-day",
+  "timestamp": "2026-10-09T22:23:50.767Z",
+  "title": "Vení a ver el futuro del ecommerce en DEPT® Commerce Day - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Commerce-Day-2022.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Commerce-Day-2022.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Commerce-Day-PR-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Commerce-Day-PR-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Commerce-Day-2022.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Commerce-Day-2022.png"
+    ]
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/jodel-die-studenten-app-fur-effektives-und-lokales-werben/",
+  "path": "dept/de-dach/insight/jodel-die-studenten-app-fur-effektives-und-lokales-werben",
+  "timestamp": "2026-10-09T12:10:08.642Z",
+  "title": "Jodel – die Studenten-App für effektives und lokales Werben - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept-2019-15-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept-2019-15-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Sarah-Berger-Dept-e1627486991567-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Sarah-Berger-Dept-e1627486991567-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Jodel-Dept-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Jodel-Dept-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Jodel-Dept-Graphic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Jodel-Dept-Graphic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Bilder-Jodel-Dept.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Bilder-Jodel-Dept.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Dept-Jodel-mobil2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Dept-Jodel-mobil2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Dept-Jodel-pink.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Dept-Jodel-pink.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Sarah-Berger-Dept-e1627486991567.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Sarah-Berger-Dept-e1627486991567.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept-2019-15-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept-2019-15-1200x750-c.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/loyalty-orchestrated-building-crm-systems-ready-for-the-age-of-personal-ai/",
+  "path": "dept/en-dk/insight/loyalty-orchestrated-building-crm-systems-ready-for-the-age-of-personal-ai",
+  "timestamp": "2026-10-09T14:51:51.140Z",
+  "title": "Loyalty, orchestrated: building CRM systems ready for the age of personal AI - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/crm-systems-ai-loyalty.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/crm-systems-ai-loyalty.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Website-slideshow_16x9_WEB_v3_REMAP-2.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Website-slideshow_16x9_WEB_v3_REMAP-2.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/crm-systems-ai-loyalty.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/crm-systems-ai-loyalty.webp"
+    ]
+  ]
+}

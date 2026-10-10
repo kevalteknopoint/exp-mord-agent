@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/akad-break-normal-learn-different-campaign/",
+  "path": "dept/case/akad-break-normal-learn-different-campaign",
+  "timestamp": "2026-10-09T10:00:50.411Z",
+  "title": "Featured work: Redefining education marketing for AKAD",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/2-AKAD-Homepage-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/2-AKAD-Homepage-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/3-Banner-image_Option-04.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/3-Banner-image_Option-04.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/5-Banner-image_Option-01.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/5-Banner-image_Option-01.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/6-Socials.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/6-Socials.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/3-Banner-image_Option-04.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/3-Banner-image_Option-04.webp"
+    ]
+  ]
+}

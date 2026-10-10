@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/service/retail-media/",
+  "path": "dept/en-nl/service/retail-media",
+  "timestamp": "2026-10-09T18:24:17.836Z",
+  "title": "Retail media - DEPT®",
+  "template": "dept-service",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "routing-banner",
+    "highlighted-item-listing",
+    "rich-text",
+    "highlighted-item-listing",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-agency.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-agency.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/umsatzmaximierung-fuer-generali-mittels-e-commerce-setup/",
+  "path": "dept/de-dach/case/umsatzmaximierung-fuer-generali-mittels-e-commerce-setup",
+  "timestamp": "2026-10-09T11:23:59.181Z",
+  "title": "Umsatzmaximierung für Generali mittels E-Commerce-Setup - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/generali_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/generali_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Philipp-Griesser-Dept.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Philipp-Griesser-Dept.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Helzberg-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Helzberg-12.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Featured-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Featured-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/generali_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/generali_3.jpg"
+    ]
+  ]
+}

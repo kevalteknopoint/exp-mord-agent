@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/is-google-analytics-coming-to-an-end/",
+  "path": "dept/insight/is-google-analytics-coming-to-an-end",
+  "timestamp": "2026-10-09T22:31:26.736Z",
+  "title": "Is Google Analytics coming to an end? - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-1159761637-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-1159761637-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tobias-Kra%CC%88ft-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tobias-Kra-ft-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-1159761637-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-1159761637-scaled.jpg"
+    ]
+  ]
+}

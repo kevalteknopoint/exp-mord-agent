@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/global-e-commerce-transformation/",
+  "path": "dept/en-uki/case/global-e-commerce-transformation",
+  "timestamp": "2026-10-09T20:13:10.945Z",
+  "title": "Global e-commerce transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Gant-global-ecommerce-transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Gant-global-ecommerce-transformation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Gant.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Gant.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-33-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-33-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-45-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-45-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/3.jpg"
+    ]
+  ]
+}

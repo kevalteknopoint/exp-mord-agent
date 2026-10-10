@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/lagunitas-launches-nft-campaign-in-latin-america-to-celebrate-projects-born-at-home/",
+  "path": "dept/latam/insight/lagunitas-launches-nft-campaign-in-latin-america-to-celebrate-projects-born-at-home",
+  "timestamp": "2026-10-09T23:28:26.560Z",
+  "title": "Lagunitas launches NFT campaign in Latin America to celebrate projects born at home - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Screen-Shot-2022-02-08-at-11.25.33-AM-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Screen-Shot-2022-02-08-at-11.25.33-AM-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Screen-Shot-2022-02-08-at-11.25.33-AM-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Screen-Shot-2022-02-08-at-11.25.33-AM-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Screen-Shot-2022-02-08-at-11.25.33-AM-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Screen-Shot-2022-02-08-at-11.25.33-AM-5.png"
+    ]
+  ]
+}

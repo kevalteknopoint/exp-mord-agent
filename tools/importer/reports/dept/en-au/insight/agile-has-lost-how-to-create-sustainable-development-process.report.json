@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/agile-has-lost-how-to-create-sustainable-development-process/",
+  "path": "dept/en-au/insight/agile-has-lost-how-to-create-sustainable-development-process",
+  "timestamp": "2026-10-09T12:16:29.846Z",
+  "title": "Agile has lost its way: How to create a sustainable development process - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "media-with-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/product-development-processes-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/product-development-processes-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/matt-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/matt-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/dumb-ways-die-product-development-square.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/dumb-ways-die-product-development-square.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/common-problems-software-development.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/common-problems-software-development.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Product-development-magic-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Product-development-magic-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-engineering.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/product-development-processes-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/product-development-processes-concept.jpg"
+    ]
+  ]
+}

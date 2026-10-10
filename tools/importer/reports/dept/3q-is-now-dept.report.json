@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/3q-is-now-dept/",
+  "path": "dept/3q-is-now-dept",
+  "timestamp": "2026-10-09T10:00:06.276Z",
+  "title": "3Q/DEPT® is now DEPT® - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "statement-v2",
+    "video",
+    "assets-and-copy",
+    "four-card-information-block",
+    "highlighted-item-listing",
+    "title-and-content",
+    "numbered-carousel"
+  ],
+  "fallback": [
+    "statement-v2"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Service_CRO.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Service_CRO.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Service_Data-and-intelligence.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Service_Data-and-intelligence.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Service_End-to-end-digital-paid-media-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Service_End-to-end-digital-paid-media-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Service_SEO.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Service_SEO.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Framebridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Framebridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Layla-Sleep.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Layla-Sleep.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/prepare-to-pioneer-carousel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/prepare-to-pioneer-carousel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/cropped-DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/cropped-DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

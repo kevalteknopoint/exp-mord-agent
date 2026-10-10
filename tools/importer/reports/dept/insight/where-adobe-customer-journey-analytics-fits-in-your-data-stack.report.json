@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/where-adobe-customer-journey-analytics-fits-in-your-data-stack/",
+  "path": "dept/insight/where-adobe-customer-journey-analytics-fits-in-your-data-stack",
+  "timestamp": "2026-10-09T21:11:44.742Z",
+  "title": "Where Adobe Customer Journey Analytics fits in your data stack - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/gopal-chode-e1791310099941-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/gopal-chode-e1791310099941-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/cja-upscaled-flow-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/cja-upscaled-flow-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/cja-Enterprise-warehouse-vs-AEP-CJA-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/cja-Enterprise-warehouse-vs-AEP-CJA-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/cja-Branded-request-based-workflow-with-review-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/cja-Branded-request-based-workflow-with-review-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Tech-whitelabel-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Tech-whitelabel-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Rethinking-the-customer-journey-with-agentic-AI-1-ft-image-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Rethinking-the-customer-journey-with-agentic-AI-1-ft-image-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ]
+  ]
+}

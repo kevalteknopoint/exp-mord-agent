@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/the-city-of-berlin-on-instagram/",
+  "path": "dept/en-nl/case/the-city-of-berlin-on-instagram",
+  "timestamp": "2026-10-09T17:27:36.887Z",
+  "title": "The city of Berlin on Instagram - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176153061-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176153061-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-114-1-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-114-1-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1252393674-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1252393674-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-114-2-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-114-2-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Diana-Welte-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Diana-Welte-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Eurovision-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Eurovision-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/spin-magazine-open-graph.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/spin-magazine-open-graph.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Header-Goudsmit-1440x810-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Header-Goudsmit-1440x810-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-636008560-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-636008560-min-1-scaled.jpg"
+    ]
+  ]
+}

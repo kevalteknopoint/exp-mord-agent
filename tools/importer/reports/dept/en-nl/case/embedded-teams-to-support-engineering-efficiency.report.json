@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-nl/case/embedded-teams-to-support-engineering-efficiency/",
   "path": "dept/en-nl/case/embedded-teams-to-support-engineering-efficiency",
-  "timestamp": "2026-10-08T15:14:29.242Z",
+  "timestamp": "2026-10-09T09:55:18.336Z",
   "title": "Under Armour: An embedded engineering partnership - DEPT®",
   "template": "dept-case",
   "locale": "en-nl",
@@ -11,13 +11,12 @@
     "assets-and-copy",
     "case-intro",
     "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
     "case-quote",
     "next-case"
   ],
-  "fallback": [
-    "case-intro-title",
-    "case-intro"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
@@ -36,8 +35,8 @@
       "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-sandbox.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2023/11/Philips-Hue.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Philips-Hue.jpg"
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2023/07/under-armour-slackbot.png",

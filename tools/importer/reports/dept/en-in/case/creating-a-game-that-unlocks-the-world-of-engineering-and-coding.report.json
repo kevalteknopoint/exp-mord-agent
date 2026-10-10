@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/creating-a-game-that-unlocks-the-world-of-engineering-and-coding/",
+  "path": "dept/en-in/case/creating-a-game-that-unlocks-the-world-of-engineering-and-coding",
+  "timestamp": "2026-10-09T15:38:37.241Z",
+  "title": "Creating a game that unlocks the world of engineering and coding - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/OvO-Frame-156.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/OvO-Frame-156.jpg"
+    ]
+  ]
+}

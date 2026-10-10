@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/driving-next-gen-ecommerce/",
+  "path": "dept/en-uki/insight/driving-next-gen-ecommerce",
+  "timestamp": "2026-10-09T20:45:17.439Z",
+  "title": "Driving next gen e-commerce - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "call-to-action",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/e-commerce-live-panel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/e-commerce-live-panel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/e-commerce-live-panel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/e-commerce-live-panel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/e-commerce-live-panel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/e-commerce-live-panel.jpg"
+    ]
+  ]
+}

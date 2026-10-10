@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dmexco-2024-dept-x-shopify/",
+  "path": "dept/de-dach/event/dmexco-2024-dept-x-shopify",
+  "timestamp": "2026-10-09T22:41:19.340Z",
+  "title": "DMEXCO 2024: DEPT® x Shopify - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/DMEXCO-24-Event-header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/DMEXCO-24-Event-header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/DMEXCO-24-Event-header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/DMEXCO-24-Event-header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Philip-Schroth_Dept_1080x1920-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Philip-Schroth_Dept_1080x1920-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Copy-of-fabian_kaiser-1069-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Copy-of-fabian_kaiser-1069-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Oliver-Cloppenburg-Dept-03-Kopie.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Oliver-Cloppenburg-Dept-03-Kopie.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/DMEXCO-24-Event-header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/DMEXCO-24-Event-header-1440x588-1.png"
+    ]
+  ]
+}

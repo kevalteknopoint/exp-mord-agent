@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/building-an-immersive-web-based-hub-for-the-meebits/",
+  "path": "dept/en-au/case/building-an-immersive-web-based-hub-for-the-meebits",
+  "timestamp": "2026-10-09T12:37:17.975Z",
+  "title": "Building an immersive web-based hub for the Meebits - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/meebits_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/meebits_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/meebits_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/meebits_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/drone-racing-league-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/drone-racing-league-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/vijay-sales-logo-red-background.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/vijay-sales-logo-red-background.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/meebits_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/meebits_1.jpg"
+    ]
+  ]
+}

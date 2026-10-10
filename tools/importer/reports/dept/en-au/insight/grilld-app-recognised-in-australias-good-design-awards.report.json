@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/grilld-app-recognised-in-australias-good-design-awards/",
+  "path": "dept/en-au/insight/grilld-app-recognised-in-australias-good-design-awards",
+  "timestamp": "2026-10-09T23:01:05.872Z",
+  "title": "Grill’d app recognised in Australia’s Good Design Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png"
+    ]
+  ]
+}

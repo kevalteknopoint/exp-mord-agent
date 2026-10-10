@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/der-3d-experience-web-relaunch/",
+  "path": "dept/de-dach/case/der-3d-experience-web-relaunch",
+  "timestamp": "2026-10-09T11:32:51.783Z",
+  "title": "Der 3D Experience Web-Relaunch - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/sihlcity-keyvisual.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/sihlcity-keyvisual.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Frame-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Frame-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Isabel-Yasar-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Isabel-Yasar-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/exlibris-sortiment.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/exlibris-sortiment.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/sihlcity-keyvisual-thumb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/sihlcity-keyvisual-thumb.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/blackroll-ernennt-dept-zum-globalen-digitalpartner/",
+  "path": "dept/de-dach/insight/blackroll-ernennt-dept-zum-globalen-digitalpartner",
+  "timestamp": "2026-10-09T22:42:38.893Z",
+  "title": "BLACKROLL® ernennt DEPT® zum globalen Digitalpartner für den Aufbau einer KI-gestützten Longevity-Plattform - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Blackroll-1600x900-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Blackroll-1600x900-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Blackroll-1600x900-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Blackroll-1600x900-1.webp"
+    ]
+  ]
+}

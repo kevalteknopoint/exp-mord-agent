@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/resolviendo-diversos-desafios-de-marketing-con-creatividad-estrategia-y-datos/",
+  "path": "dept/latam/case/resolviendo-diversos-desafios-de-marketing-con-creatividad-estrategia-y-datos",
+  "timestamp": "2026-10-09T21:41:56.065Z",
+  "title": "Resolviendo diversos desafíos de marketing para Atlassian - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/atlassian-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/atlassian-logo.jpg"
+    ]
+  ]
+}

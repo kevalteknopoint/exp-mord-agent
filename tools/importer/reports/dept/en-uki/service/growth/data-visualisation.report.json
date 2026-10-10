@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/service/growth/data-visualisation/",
+  "path": "dept/en-uki/service/growth/data-visualisation",
+  "timestamp": "2026-10-09T19:50:39.439Z",
+  "title": "Data Visualisation - DEPT®",
+  "template": "dept-service",
+  "locale": "en-uki",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/data-visiualization.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/data-visiualization.jpg"
+    ]
+  ]
+}

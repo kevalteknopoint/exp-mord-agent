@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/google-shopping-segment-brand-vs-non-brand/",
+  "path": "dept/insight/google-shopping-segment-brand-vs-non-brand",
+  "timestamp": "2026-10-09T20:44:12.071Z",
+  "title": "Google Shopping: How and Why to Segment Brand vs. Non-Brand",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/online-shopping-platform.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/online-shopping-platform.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Google-Shopping-BRand-vs-Non-Brand.HR-Microsoft-Word-Today-at-2.19.38-PM-2-e1680725970703.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Google-Shopping-BRand-vs-Non-Brand.HR-Microsoft-Word-Today-at-2.19.38-PM-2-e1680725970703.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/image005-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/image005-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/online-shopping-platform.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/online-shopping-platform.jpg"
+    ]
+  ]
+}

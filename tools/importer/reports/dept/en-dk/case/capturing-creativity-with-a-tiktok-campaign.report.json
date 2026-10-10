@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/capturing-creativity-with-a-tiktok-campaign/",
+  "path": "dept/en-dk/case/capturing-creativity-with-a-tiktok-campaign",
+  "timestamp": "2026-10-09T14:04:15.040Z",
+  "title": "Capturing creativity with a TikTok campaign - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "full-width-image",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/PolaroidGo-Social-Post_05-1080x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/PolaroidGo-Social-Post_05-1080x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/PolaroidGo-Social-Post_04-1080x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/PolaroidGo-Social-Post_04-1080x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/image-4.png"
+    ]
+  ]
+}

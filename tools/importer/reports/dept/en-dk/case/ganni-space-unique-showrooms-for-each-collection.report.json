@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/ganni-space-unique-showrooms-for-each-collection/",
+  "path": "dept/en-dk/case/ganni-space-unique-showrooms-for-each-collection",
+  "timestamp": "2026-10-09T14:23:14.240Z",
+  "title": "Curated showrooms for each collection - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/GANNI-2.0-case-banner-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/GANNI-2.0-case-banner-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ]
+  ]
+}

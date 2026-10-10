@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/data-based-dynamic-advertising-media-for-co-brand-campaigns/",
+  "path": "dept/case/data-based-dynamic-advertising-media-for-co-brand-campaigns",
+  "timestamp": "2026-10-09T10:38:14.950Z",
+  "title": "Data-based dynamic advertising media for co-brand campaigns - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20201203_161611-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20201203_161611-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Intersport-Laptop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Intersport-Laptop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20201203_161611.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20201203_161611.jpg"
+    ]
+  ]
+}

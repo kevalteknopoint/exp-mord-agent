@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/bucket-up-fuer-kfc/",
+  "path": "dept/case/bucket-up-fuer-kfc",
+  "timestamp": "2026-10-09T10:13:38.240Z",
+  "title": "Bucket up für KFC - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/parking-lot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/parking-lot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ]
+  ]
+}

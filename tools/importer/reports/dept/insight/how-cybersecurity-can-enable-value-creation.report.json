@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-cybersecurity-can-enable-value-creation/",
+  "path": "dept/insight/how-cybersecurity-can-enable-value-creation",
+  "timestamp": "2026-10-09T20:51:37.541Z",
+  "title": "How cybersecurity can enable value creation - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wesley-Niels-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wesley-Niels-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/jefferson-santos-9SoCnyQmkzI-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/jefferson-santos-9SoCnyQmkzI-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wesley-Niels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wesley-Niels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/computer.jpg"
+    ]
+  ]
+}

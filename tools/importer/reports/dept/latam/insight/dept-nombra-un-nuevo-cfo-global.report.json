@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-nombra-un-nuevo-cfo-global/",
+  "path": "dept/latam/insight/dept-nombra-un-nuevo-cfo-global",
+  "timestamp": "2026-10-09T23:30:18.254Z",
+  "title": "DEPT® nombra un nuevo CFO global - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "case-quote",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DavidNeal_Web_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DavidNeal_Web_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1000x1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1000x1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Anthem-Awards-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Anthem-Awards-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DavidNeal_Web_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DavidNeal_Web_1920x1080.png"
+    ]
+  ]
+}

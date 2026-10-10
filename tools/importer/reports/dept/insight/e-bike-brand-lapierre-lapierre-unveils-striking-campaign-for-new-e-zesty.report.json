@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/e-bike-brand-lapierre-lapierre-unveils-striking-campaign-for-new-e-zesty/",
+  "path": "dept/insight/e-bike-brand-lapierre-lapierre-unveils-striking-campaign-for-new-e-zesty",
+  "timestamp": "2026-10-09T20:24:40.439Z",
+  "title": "E-bike brand Lapierre Unveils striking campaign for new E-Zesty - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Lapierre_Key_Visual.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Lapierre_Key_Visual.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Manuel-Di-Tolve-1-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Manuel-Di-Tolve-1-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Lapierre_Key_Visual.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Lapierre_Key_Visual.jpg"
+    ]
+  ]
+}

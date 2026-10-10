@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/how-to-get-your-adobe-experience-manager-aem-implementation-back-on-track/",
+  "path": "dept/en-in/insight/how-to-get-your-adobe-experience-manager-aem-implementation-back-on-track",
+  "timestamp": "2026-10-09T16:53:56.539Z",
+  "title": "How to get your Adobe Experience Manager (AEM) implementation back on track - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/aem-implementations.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/aem-implementations.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Yash-Mody-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Yash-Mody-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/DEPTC2AE-Adobe-Summit-Landing-page-header-1-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/DEPTC2AE-Adobe-Summit-Landing-page-header-1-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/creating-better-customer-journeys-adobe-optimizer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/creating-better-customer-journeys-adobe-optimizer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/accessibility-concept-e1677592301956.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/accessibility-concept-e1677592301956.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/aem-implementations.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/aem-implementations.jpeg"
+    ]
+  ]
+}

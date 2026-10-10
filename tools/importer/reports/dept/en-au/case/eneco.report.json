@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/eneco/",
+  "path": "dept/en-au/case/eneco",
+  "timestamp": "2026-10-09T12:59:13.135Z",
+  "title": "Transforming Eneco's website - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Enco_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Enco_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Enco_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Enco_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/energy-utilities-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/energy-utilities-.jpeg"
+    ]
+  ]
+}

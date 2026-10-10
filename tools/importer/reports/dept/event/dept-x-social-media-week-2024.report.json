@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-x-social-media-week-2024/",
+  "path": "dept/event/dept-x-social-media-week-2024",
+  "timestamp": "2026-10-09T21:19:38.070Z",
+  "title": "DEPT® x Social Media Week 2024 - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "title-and-content",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image",
+    "image-with-content-cards",
+    "event-register",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/DEPT%C2%AE-Social-media-week-1440x588-no-text.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/DEPT--Social-media-week-1440x588-no-text.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Evolution-of-social-media-featured-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Evolution-of-social-media-featured-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/claire-shalbrack.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/claire-shalbrack.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Lindsay-Kennedy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Lindsay-Kennedy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Calli-Goldstein.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Calli-Goldstein.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/DD_BTS_case_feature.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/DD_BTS_case_feature.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/DEPT%C2%AE-Social-media-week-1440x588-no-text.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/DEPT--Social-media-week-1440x588-no-text.png"
+    ]
+  ]
+}

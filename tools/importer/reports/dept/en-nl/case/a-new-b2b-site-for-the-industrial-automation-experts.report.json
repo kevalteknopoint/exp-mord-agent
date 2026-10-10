@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-new-b2b-site-for-the-industrial-automation-experts/",
+  "path": "dept/en-nl/case/a-new-b2b-site-for-the-industrial-automation-experts",
+  "timestamp": "2026-10-09T17:30:44.844Z",
+  "title": "A new B2B site for the industrial automation experts - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "title-and-content",
+    "panel-with-cards",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1057277428-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1057277428-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-107-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-107-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-108-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-108-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1143893625-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1143893625-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1220591821-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1220591821-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-Full-bleed-e1667315102794.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-Full-bleed-e1667315102794.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Boca-Keto-Beach--scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Boca-Keto-Beach--scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1057277428-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1057277428-min-scaled.jpg"
+    ]
+  ]
+}

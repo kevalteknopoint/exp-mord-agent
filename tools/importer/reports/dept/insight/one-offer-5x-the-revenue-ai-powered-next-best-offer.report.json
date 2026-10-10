@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/one-offer-5x-the-revenue-ai-powered-next-best-offer/",
+  "path": "dept/insight/one-offer-5x-the-revenue-ai-powered-next-best-offer",
+  "timestamp": "2026-10-09T22:48:20.655Z",
+  "title": "One offer, 5x the revenue: AI-powered Next Best Offer - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/MariaProkoheadshot-e1701966883394-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/MariaProkoheadshot-e1701966883394-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/NBOprocess.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/NBOprocess.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/rituals-image.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/rituals-image.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/7-CRM-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/7-CRM-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/hands-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/hands-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp"
+    ]
+  ]
+}

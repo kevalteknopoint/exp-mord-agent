@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/dept-future-club-reinventing-content-as-a-growth-engine/",
+  "path": "dept/en-in/event/dept-future-club-reinventing-content-as-a-growth-engine",
+  "timestamp": "2026-10-09T15:47:09.465Z",
+  "title": "DEPT® Future Club: Reinventing content as a growth engine - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "event-intro",
+    "event-info",
+    "insight-cta",
+    "event-content-v2",
+    "insight-cta"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DFC-MUM-Website-Hero-Banner-Orange-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DFC-MUM-Website-Hero-Banner-Orange-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DFC-MUM-Website-Hero-Banner-Orange-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DFC-MUM-Website-Hero-Banner-Orange-1920x1080-1.png"
+    ]
+  ]
+}

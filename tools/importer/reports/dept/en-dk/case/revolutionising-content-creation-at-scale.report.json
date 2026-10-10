@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/revolutionising-content-creation-at-scale/",
+  "path": "dept/en-dk/case/revolutionising-content-creation-at-scale",
+  "timestamp": "2026-10-09T14:41:24.478Z",
+  "title": "Revolutionising content creation at scale - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/JYSK-AI-featured-image-500x344-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/JYSK-AI-featured-image-500x344-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/JYSK-AI-DK-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/JYSK-AI-DK-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Lidija-Pistelek.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Lidija-Pistelek.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/ITA-Group-Case-Image-Mockup-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/ITA-Group-Case-Image-Mockup-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/airplane-wing-during-flight-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/airplane-wing-during-flight-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Coravin-Featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Coravin-Featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/JYSK-AI-featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/JYSK-AI-featured-image.png"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/two-weeks-to-improve-development-speed-and-efficiency/",
+  "path": "dept/case/two-weeks-to-improve-development-speed-and-efficiency",
+  "timestamp": "2026-10-09T11:10:41.999Z",
+  "title": "Featured work: Major League Pickleball's architecture - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/pickleball-balls-on-court.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/pickleball-balls-on-court.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/pickleball-court.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/pickleball-court.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/pickleball-racket.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/pickleball-racket.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/pickleball-racket.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/pickleball-racket.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/dept-cares-day-in-dept-croatia/",
+  "path": "dept/en-in/insight/dept-cares-day-in-dept-croatia",
+  "timestamp": "2026-10-09T15:26:53.639Z",
+  "title": "DEPT® Cares Croatia: A day to give back to our communities - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-Cares-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--Cares-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/branka-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/branka-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/311590200_629086618580365_151386127108768543_n.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/311590200_629086618580365_151386127108768543_n.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-Cares-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--Cares-1.jpg"
+    ]
+  ]
+}

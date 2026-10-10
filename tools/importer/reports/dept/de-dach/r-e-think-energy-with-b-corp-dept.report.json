@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/r-e-think-energy-with-b-corp-dept/",
+  "path": "dept/de-dach/r-e-think-energy-with-b-corp-dept",
+  "timestamp": "2026-10-09T22:53:07.817Z",
+  "title": "r.e.think Energy with B Corp DEPT® - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "intro-text",
+    "panel-work",
+    "image",
+    "quote",
+    "panel-partners",
+    "panel-work",
+    "image",
+    "quote",
+    "panel-work",
+    "image",
+    "quote",
+    "panel-whitepaper",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Hochbahn.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Hochbahn.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Bouyges-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Bouyges-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c-1.jpeg"
+    ]
+  ]
+}

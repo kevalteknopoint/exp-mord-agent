@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/legal-notices/",
+  "path": "dept/en-dk/legal-notices",
+  "timestamp": "2026-10-09T15:27:39.258Z",
+  "title": "Legal Notices - DEPT®",
+  "template": "dept-page",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-list"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

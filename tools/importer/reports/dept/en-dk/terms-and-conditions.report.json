@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/terms-and-conditions/",
+  "path": "dept/en-dk/terms-and-conditions",
+  "timestamp": "2026-10-09T14:34:47.173Z",
+  "title": "Terms and Conditions - DEPT®",
+  "template": "dept-page",
+  "locale": "en-dk",
+  "components": [
+    "post-header",
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/dept.jpg"
+    ]
+  ]
+}

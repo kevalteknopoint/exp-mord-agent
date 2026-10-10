@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/branding-a-direct-to-consumer-counselling-service/",
+  "path": "dept/en-dk/case/branding-a-direct-to-consumer-counselling-service",
+  "timestamp": "2026-10-09T13:58:33.140Z",
+  "title": "Branding a direct-to-consumer counselling service - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Screenshot-2021-06-24-at-10.22.11.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Screenshot-2021-06-24-at-10.22.11.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/livelife-10.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/livelife-10.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/livelife-04-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/livelife-04-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/cruise_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/cruise_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ]
+  ]
+}

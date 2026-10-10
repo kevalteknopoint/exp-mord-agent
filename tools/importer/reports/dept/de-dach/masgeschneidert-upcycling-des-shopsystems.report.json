@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/masgeschneidert-upcycling-des-shopsystems/",
+  "path": "dept/de-dach/masgeschneidert-upcycling-des-shopsystems",
+  "timestamp": "2026-10-09T22:52:22.970Z",
+  "title": "Maßgeschneidert: Upcycling des Shopsystems - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "intro-text",
+    "panel-work",
+    "image",
+    "panel-work",
+    "image",
+    "panel-partners",
+    "panel-work",
+    "video",
+    "panel-work",
+    "video",
+    "panel-whitepaper",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/hessnatur_2400_1350_01-1-1200x675-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/hessnatur_2400_1350_01-1-1200x675-c-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/birkenstock-eu-cw15-stage-01-franca-d.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/birkenstock-eu-cw15-stage-01-franca-d.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/birkenstock-eu-cw15-stage-01-franca-d.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/birkenstock-eu-cw15-stage-01-franca-d.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/een-interactief-en-magisch-sinterklaasfeest-met-gebruik-van-tech/",
+  "path": "dept/en-nl/case/een-interactief-en-magisch-sinterklaasfeest-met-gebruik-van-tech",
+  "timestamp": "2026-10-09T18:07:47.139Z",
+  "title": "Een interactief en magisch Sinterklaasfeest met gebruik van Tech - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/De-grote-bol-speelgoed-app-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/De-grote-bol-speelgoed-app-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Bol-Grote-Speelgoed-App-1920.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Bol-Grote-Speelgoed-App-1920.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Bol-Grote-Speelgoed-App-cadeau-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Bol-Grote-Speelgoed-App-cadeau-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Bol-Grote-Speelgoed-App-sinterklaas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Bol-Grote-Speelgoed-App-sinterklaas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Joost-Eerbeek.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Joost-Eerbeek.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/bol-commerce-store.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/bol-commerce-store.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/De-grote-bol-speelgoed-app-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/De-grote-bol-speelgoed-app-1.png"
+    ]
+  ]
+}

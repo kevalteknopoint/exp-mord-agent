@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth-marketing-assessment/",
+  "path": "dept/en-au/service/growth-marketing-assessment",
+  "timestamp": "2026-10-09T18:09:47.645Z",
+  "title": "Growth Marketing Assessment - DEPT® 1:1 complimentary session",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "media-with-text",
+    "two-column-items-list",
+    "highlighted-item-listing",
+    "externally-triggered-form"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220902_BlFI_Top3BenefitsofGrowthMarketingAssessment.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220902_BlFI_Top3BenefitsofGrowthMarketingAssessment.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/green-plastic-bottle-on-a-road.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/green-plastic-bottle-on-a-road.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Technology-Tools_-Monitor-Effectiveness-of-Media-Buying-320x200-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Technology-Tools_-Monitor-Effectiveness-of-Media-Buying-320x200-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/orange-blur-on-black-background.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/orange-blur-on-black-background.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

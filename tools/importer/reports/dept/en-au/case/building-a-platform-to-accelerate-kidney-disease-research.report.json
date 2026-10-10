@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/building-a-platform-to-accelerate-kidney-disease-research/",
+  "path": "dept/en-au/case/building-a-platform-to-accelerate-kidney-disease-research",
+  "timestamp": "2026-10-09T12:36:44.386Z",
+  "title": "Building a platform to accelerate kidney disease research - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "call-to-action",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Ashley_Streb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Ashley_Streb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/tilestyle-case-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/tilestyle-case-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/header-1440x810-c-goldfinch-bio.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/header-1440x810-c-goldfinch-bio.png"
+    ]
+  ]
+}

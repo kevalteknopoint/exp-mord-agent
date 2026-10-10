@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/its-time-to-get-real-about-body-hair-with-stories-for-women-by-women/",
+  "path": "dept/awards/its-time-to-get-real-about-body-hair-with-stories-for-women-by-women",
+  "timestamp": "2026-10-09T10:23:59.188Z",
+  "title": "It’s time to get real about body hair. With stories for women, by women. - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "jumbotron",
+    "title-and-content",
+    "stats-panel",
+    "jumbotron"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Lumea-Header-Image.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Lumea-Header-Image.jpeg"
+    ]
+  ]
+}

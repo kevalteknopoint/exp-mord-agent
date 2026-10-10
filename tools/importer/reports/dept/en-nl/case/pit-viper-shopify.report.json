@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/pit-viper-shopify/",
+  "path": "dept/en-nl/case/pit-viper-shopify",
+  "timestamp": "2026-10-09T17:13:37.145Z",
+  "title": "Featured work: Turbocharging a Shopify site for Pit Viper - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Shopify.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper_Party-Mountain.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper_Party-Mountain.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/pit-viper-size-guide-pdp-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/pit-viper-size-guide-pdp-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Easter-Eggs.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Easter-Eggs.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Scrolly-Carousel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Scrolly-Carousel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/puffco-build-your-own-commerce-solution-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/puffco-build-your-own-commerce-solution-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Shopify.jpg"
+    ]
+  ]
+}

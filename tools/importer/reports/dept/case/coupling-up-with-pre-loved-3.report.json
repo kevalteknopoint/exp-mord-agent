@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/coupling-up-with-pre-loved-3/",
+  "path": "dept/case/coupling-up-with-pre-loved-3",
+  "timestamp": "2026-10-09T10:29:29.068Z",
+  "title": "Featured Work: eBay x Love Island collaboration",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Samsung-IFA-Header-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Samsung-IFA-Header-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ]
+  ]
+}

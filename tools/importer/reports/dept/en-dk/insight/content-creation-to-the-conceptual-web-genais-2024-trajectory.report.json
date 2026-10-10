@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/content-creation-to-the-conceptual-web-genais-2024-trajectory/",
+  "path": "dept/en-dk/insight/content-creation-to-the-conceptual-web-genais-2024-trajectory",
+  "timestamp": "2026-10-09T14:11:59.740Z",
+  "title": "Content creation to the conceptual web: GenAI’s 2024 trajectory - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "media-with-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/From-content-creation-to-the-conceptual-web_-GenAIs-2024-trajectory-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/From-content-creation-to-the-conceptual-web_-GenAIs-2024-trajectory-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dennis-Nielsen-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dennis-Nielsen-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Desktop-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Desktop-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/bob-briski.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/bob-briski.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/From-content-creation-to-the-conceptual-web_-GenAIs-2024-trajectory-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/From-content-creation-to-the-conceptual-web_-GenAIs-2024-trajectory-1.png"
+    ]
+  ]
+}

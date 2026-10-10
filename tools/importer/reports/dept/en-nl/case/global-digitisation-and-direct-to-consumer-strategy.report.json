@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/global-digitisation-and-direct-to-consumer-strategy/",
+  "path": "dept/en-nl/case/global-digitisation-and-direct-to-consumer-strategy",
+  "timestamp": "2026-10-09T18:16:46.339Z",
+  "title": "Global digitisation and direct-to-consumer strategy - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/cookeware-company.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/cookeware-company.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-160.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-160.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-185.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-185.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-188.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-188.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-161.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-161.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Template-Desktop-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Template-Desktop-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Template-Mobiles-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Template-Mobiles-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Kenna-selfie-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Kenna-selfie-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/cookeware-company.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/cookeware-company.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/amazon-going-social-new-inspire-app/",
+  "path": "dept/en-in/insight/amazon-going-social-new-inspire-app",
+  "timestamp": "2026-10-09T16:13:53.741Z",
+  "title": "Amazon going social: New Inspire app - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/amazon-going-social.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/amazon-going-social.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/amazon-inspire-app-screenshot.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/amazon-inspire-app-screenshot.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/amazon-going-social.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/amazon-going-social.webp"
+    ]
+  ]
+}

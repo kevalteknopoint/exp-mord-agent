@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/doordash-logan-moffitt/",
+  "path": "dept/awards/doordash-logan-moffitt",
+  "timestamp": "2026-10-09T10:16:15.140Z",
+  "title": "PROMOTING DOORDASH GROCERY DELIVERY TO 2.6 MILLION CUCUMBER LOVERS   - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/cucumbers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/cucumbers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/doordashlogo-big.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/doordashlogo-big.png"
+    ]
+  ]
+}

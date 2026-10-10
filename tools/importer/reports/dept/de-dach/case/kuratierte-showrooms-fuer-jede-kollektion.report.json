@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/kuratierte-showrooms-fuer-jede-kollektion/",
+  "path": "dept/de-dach/case/kuratierte-showrooms-fuer-jede-kollektion",
+  "timestamp": "2026-10-09T11:08:07.469Z",
+  "title": "Kuratierte Showrooms für jede Kollektion - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/pallas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/pallas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ]
+  ]
+}

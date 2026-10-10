@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/revving-up-digital-transformation-2/",
+  "path": "dept/en-au/case/revving-up-digital-transformation-2",
+  "timestamp": "2026-10-09T12:27:29.741Z",
+  "title": "Revving up digital transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-12.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-12.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Full-Image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Full-Image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-10.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-10.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Angled-Desktops-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Angled-Desktops-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Full-Image-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Full-Image-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google-Workspace01-e1678980997383.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google-Workspace01-e1678980997383.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9-1024x576.png"
+    ]
+  ]
+}

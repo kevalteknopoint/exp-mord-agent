@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/creative/motion-design/",
+  "path": "dept/de-dach/service/creative/motion-design",
+  "timestamp": "2026-10-09T12:06:48.789Z",
+  "title": "Motion Design - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Julien-Kelch.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Julien-Kelch.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Motion-graphic-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Motion-graphic-1200x750-c.png"
+    ]
+  ]
+}

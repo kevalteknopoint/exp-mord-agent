@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/lessons-in-coding-for-the-younger-generation/",
+  "path": "dept/en-in/case/lessons-in-coding-for-the-younger-generation",
+  "timestamp": "2026-10-09T16:03:17.845Z",
+  "title": "Lessons in coding for the younger generation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/code-quest-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/code-quest-hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/sci-girls-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/sci-girls-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/artboard-5a.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/artboard-5a.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/hans.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/hans.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Merit-Gaming-Thumbnail.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Merit-Gaming-Thumbnail.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Sci-Girls-Project-Header-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Sci-Girls-Project-Header-1.jpg"
+    ]
+  ]
+}

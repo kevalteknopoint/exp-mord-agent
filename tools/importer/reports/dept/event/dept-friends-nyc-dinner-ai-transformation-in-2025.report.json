@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-friends-nyc-dinner-ai-transformation-in-2025/",
+  "path": "dept/event/dept-friends-nyc-dinner-ai-transformation-in-2025",
+  "timestamp": "2026-10-09T20:04:44.340Z",
+  "title": "DEPT & Friends NYC Dinner: AI transformation in 2025 - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Event-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Event-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Trends-Event-Mobile-HR.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Trends-Event-Mobile-HR.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Jenny-Nicholson-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Jenny-Nicholson-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Bridget-Fahrland.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Bridget-Fahrland.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Carryn-Quibell-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Carryn-Quibell-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Jon-Judah.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Jon-Judah.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Laura-tron.1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Laura-tron.1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Asher-wren-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Asher-wren-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Event-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Event-Header.png"
+    ]
+  ]
+}

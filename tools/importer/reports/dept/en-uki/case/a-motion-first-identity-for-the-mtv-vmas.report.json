@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/a-motion-first-identity-for-the-mtv-vmas/",
+  "path": "dept/en-uki/case/a-motion-first-identity-for-the-mtv-vmas",
+  "timestamp": "2026-10-09T19:35:21.664Z",
+  "title": "A motion-first identity for the MTV VMAs  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "quote",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/02-VMA-2022-Webby-Awards-DEPT%C2%AE-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/02-VMA-2022-Webby-Awards-DEPT--1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Liza-Enebeis.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Liza-Enebeis.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/eBay_Homepage.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/eBay_Homepage.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/VMA-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/VMA-1920x1080-1.png"
+    ]
+  ]
+}

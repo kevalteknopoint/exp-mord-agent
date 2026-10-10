@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/how-to-tackle-the-head-with-headless/",
+  "path": "dept/en-in/insight/how-to-tackle-the-head-with-headless",
+  "timestamp": "2026-10-09T23:32:50.546Z",
+  "title": "How to tackle the 'head' with Headless - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "article-related-posts"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/DEPT_2204-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/DEPT_2204-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tim-de-Kamper-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tim-de-Kamper-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tim-de-Kamper.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tim-de-Kamper.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/DEPT_2204-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/DEPT_2204-3-scaled.jpg"
+    ]
+  ]
+}

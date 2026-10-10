@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/getting-to-clarity-why-durable-brands-start-with-the-brief/",
+  "path": "dept/insight/getting-to-clarity-why-durable-brands-start-with-the-brief",
+  "timestamp": "2026-10-09T20:43:16.742Z",
+  "title": "Getting to clarity: Why durable brands start with the brief - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durable-brands.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durable-brands.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/nolan-foster-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/nolan-foster-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Durable-brands-playbook.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Durable-brands-playbook.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Creating-alignment-digital-projects-featured-image.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Creating-alignment-digital-projects-featured-image.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-innovation.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-innovation.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durable-brands.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durable-brands.webp"
+    ]
+  ]
+}

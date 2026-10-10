@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/feed-management-effizienz-steigerung-im-e-commerce/",
+  "path": "dept/de-dach/insight/feed-management-effizienz-steigerung-im-e-commerce",
+  "timestamp": "2026-10-09T12:03:10.544Z",
+  "title": "Feed Management: Effizienz-Steigerung im E-Commerce - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Feed-Management1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Feed-Management1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Tobias-Scholz-Dept-e1627477890737-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Tobias-Scholz-Dept-e1627477890737-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Feed-Management2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Feed-Management2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Feed-Management3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Feed-Management3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Tobias-Scholz-Dept-e1627477890737.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Tobias-Scholz-Dept-e1627477890737.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Feed-Management1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Feed-Management1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/virtueller-walk-of-beauty/",
+  "path": "dept/de-dach/case/virtueller-walk-of-beauty",
+  "timestamp": "2026-10-09T11:26:14.463Z",
+  "title": "Der virtuelle \"Walk of Beauty\" - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "awards-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.39.18-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.39.18-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.33.10-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.33.10-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.43.32-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.43.32-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2021-12-01-um-15.16.11-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2021-12-01-um-15.16.11-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Annual_Multimedia_Award_WHITE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Annual_Multimedia_Award_WHITE.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Anthem-gold-winner-announ-share-square-1-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Anthem-gold-winner-announ-share-square-1-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/The-Webby-Awards.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/The-Webby-Awards.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Rotate-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Rotate-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otto_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otto_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.39.18-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.39.18-1.png"
+    ]
+  ]
+}

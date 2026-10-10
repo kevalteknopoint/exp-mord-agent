@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/tradition-und-moderne-im-einklang/",
+  "path": "dept/de-dach/case/tradition-und-moderne-im-einklang",
+  "timestamp": "2026-10-09T11:23:19.363Z",
+  "title": "Tradition und Moderne im Einklang - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Louis-Widmer-Website-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Louis-Widmer-Website-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Mobile-2-Louis-Widmer-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Mobile-2-Louis-Widmer-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Desktop-Louis-Widmer-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Desktop-Louis-Widmer-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Mobile-Louis-Widmer-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Mobile-Louis-Widmer-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Isostar_Life-is-your-playground.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Isostar_Life-is-your-playground.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/betty_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/betty_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Louis-Widmer-Website-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Louis-Widmer-Website-scaled.jpg"
+    ]
+  ]
+}

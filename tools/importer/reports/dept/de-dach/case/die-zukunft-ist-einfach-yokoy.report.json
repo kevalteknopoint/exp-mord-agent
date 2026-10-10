@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/die-zukunft-ist-einfach-yokoy/",
+  "path": "dept/de-dach/case/die-zukunft-ist-einfach-yokoy",
+  "timestamp": "2026-10-09T11:37:57.057Z",
+  "title": "Die Zukunft ist einfach. - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/so__nke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/so__nke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Helzberg-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Helzberg-12.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/bipa-480x480-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/bipa-480x480-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/msi-invitational-lol-design-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/msi-invitational-lol-design-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Screenshot-2022-03-31-at-19.04.03.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Screenshot-2022-03-31-at-19.04.03.png"
+    ]
+  ]
+}

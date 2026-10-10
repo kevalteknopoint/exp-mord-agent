@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/we-hosted-the-first-24h-festival-in-the-metaverse-heres-what-we-learned/",
+  "path": "dept/en-uki/insight/we-hosted-the-first-24h-festival-in-the-metaverse-heres-what-we-learned",
+  "timestamp": "2026-10-09T19:31:12.641Z",
+  "title": "We hosted the first 24H festival in the metaverse: here’s what we learned. - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Meta_Festival_POV.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Meta_Festival_POV.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Meta-Festival_Whole-World.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Meta-Festival_Whole-World.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/HighresScreenshot00084.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/HighresScreenshot00084.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Screenshot-2022-08-12-at-9.02.39-AM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Screenshot-2022-08-12-at-9.02.39-AM.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Highres-1920-px-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Highres-1920-px-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Meta-Festival-Header-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Meta-Festival-Header-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Meta_Festival_POV.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Meta_Festival_POV.jpeg"
+    ]
+  ]
+}

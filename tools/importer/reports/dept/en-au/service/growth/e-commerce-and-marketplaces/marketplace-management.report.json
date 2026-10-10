@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/e-commerce-and-marketplaces/marketplace-management/",
+  "path": "dept/en-au/service/growth/e-commerce-and-marketplaces/marketplace-management",
+  "timestamp": "2026-10-09T14:23:01.697Z",
+  "title": "Marketplace management - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text",
+    "panel-with-cards",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Subservices-%E2%80%93-Marketplace-management-1200x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Subservices---Marketplace-management-1200x1200-1.jpg"
+    ]
+  ]
+}

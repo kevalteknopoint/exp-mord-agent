@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/brand-campaigns-content/augmented-reality-ar/",
+  "path": "dept/en-dk/service/brand-campaigns-content/augmented-reality-ar",
+  "timestamp": "2026-10-09T15:32:51.140Z",
+  "title": "Augmented Reality (AR) - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "statement",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR-Service-Page-Mockup-NEW.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR-Service-Page-Mockup-NEW.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR_London_Waterloo_mock.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR_London_Waterloo_mock.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Lauren_Chester-e1680082116275.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Lauren_Chester-e1680082116275.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/NFT-Featured-image-V2-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/NFT-Featured-image-V2-1200x750-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR.jpg"
+    ]
+  ]
+}

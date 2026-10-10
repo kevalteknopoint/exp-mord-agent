@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/vote-to-see-dept-at-sxsw-2025/",
+  "path": "dept/en-au/insight/vote-to-see-dept-at-sxsw-2025",
+  "timestamp": "2026-10-09T13:14:39.960Z",
+  "title": "Vote to see DEPT® at SXSW 2025 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/SXSW25-Vote-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/SXSW25-Vote-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/SXSW25-Vote-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/SXSW25-Vote-featured.jpg"
+    ]
+  ]
+}

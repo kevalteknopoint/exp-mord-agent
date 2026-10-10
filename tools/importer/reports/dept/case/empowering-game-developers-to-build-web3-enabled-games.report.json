@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/empowering-game-developers-to-build-web3-enabled-games/",
+  "path": "dept/case/empowering-game-developers-to-build-web3-enabled-games",
+  "timestamp": "2026-10-09T10:00:15.640Z",
+  "title": "Empowering game developers to build web3-enabled games - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "panel-with-cards",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Beam-Header-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Beam-Header-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/02.-Stack.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/02.-Stack.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/05.-Beam.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/05.-Beam.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/04.-companion-app.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/04.-companion-app.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/06.-Collection-of-work.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/06.-Collection-of-work.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Dominykas-Maksimovas-Dept-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Dominykas-Maksimovas-Dept-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Star-Atlas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Star-Atlas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Beam-Header-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Beam-Header-Image.jpg"
+    ]
+  ]
+}

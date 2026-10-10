@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/selling-nfts-on-amazon-just-became-a-thing-heres-why-thats-a-big-deal/",
+  "path": "dept/en-au/insight/selling-nfts-on-amazon-just-became-a-thing-heres-why-thats-a-big-deal",
+  "timestamp": "2026-10-09T12:45:23.839Z",
+  "title": "Selling NFTs on Amazon just became a thing. Here’s why that’s a big deal.",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/NFT_concept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/NFT_concept.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/elina-andrus-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/elina-andrus-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nils-Zundorf.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nils-Zundorf.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/15-Hape-i.o.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/15-Hape-i.o.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-1000X1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--1000X1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/nfts-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/nfts-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/NFT_concept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/NFT_concept.jpeg"
+    ]
+  ]
+}

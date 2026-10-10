@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/cx-design/",
+  "path": "dept/en-dk/service/cx-design",
+  "timestamp": "2026-10-09T23:20:10.440Z",
+  "title": "UX/UI design & development services | Customer experience agency",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "service-post-header",
+    "wrapper",
+    "panel-services",
+    "wrapper",
+    "wrapper",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/x1IkwxJw-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/x1IkwxJw-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Inter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Inter.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/HeaderCXDesign.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/HeaderCXDesign.jpeg"
+    ]
+  ]
+}

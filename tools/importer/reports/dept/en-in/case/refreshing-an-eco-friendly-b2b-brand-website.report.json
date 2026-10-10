@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/refreshing-an-eco-friendly-b2b-brand-website/",
+  "path": "dept/en-in/case/refreshing-an-eco-friendly-b2b-brand-website",
+  "timestamp": "2026-10-09T16:11:15.567Z",
+  "title": "Refreshing an eco-friendly B2B brand website - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1220621165-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1220621165-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Bevi-Mock.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Bevi-Mock.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Feature-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Feature-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-7-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-7-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1220621165-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1220621165-1-scaled.jpg"
+    ]
+  ]
+}

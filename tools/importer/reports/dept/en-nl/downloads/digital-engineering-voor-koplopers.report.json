@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/digital-engineering-voor-koplopers/",
+  "path": "dept/en-nl/downloads/digital-engineering-voor-koplopers",
+  "timestamp": "2026-10-09T17:47:31.434Z",
+  "title": "Digital engineering voor koplopers - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-detail-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Digital-Engineering-Playbook-Insights-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Digital-Engineering-Playbook-Insights-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Digital-Engineering-Playbook-Insights-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Digital-Engineering-Playbook-Insights-1000x1200-1.jpg"
+    ]
+  ]
+}

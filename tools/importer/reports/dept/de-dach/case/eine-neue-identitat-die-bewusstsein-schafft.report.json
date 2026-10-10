@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-neue-identitat-die-bewusstsein-schafft/",
+  "path": "dept/de-dach/case/eine-neue-identitat-die-bewusstsein-schafft",
+  "timestamp": "2026-10-09T10:57:03.358Z",
+  "title": "Eine neue Identität, die Bewusstsein schafft - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "call-to-action",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Alzheimer-case-header-1440x810-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Alzheimer-case-header-1440x810-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Alzheimer-full-2-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Alzheimer-full-2-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wouter-Dirks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wouter-Dirks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-170510613-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-170510613-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/betty_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/betty_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Alzheimer-case-header-1440x810-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Alzheimer-case-header-1440x810-c.png"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/partner/adobe/adobe-learning-manager-partner/",
+  "path": "dept/partner/adobe/adobe-learning-manager-partner",
+  "timestamp": "2026-10-09T22:41:20.577Z",
+  "title": "Adobe Learning Manager agency - Adobe Platinum Partner - DEPT®",
+  "template": "dept-partner",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "four-card-information-block",
+    "panel-with-rich-text",
+    "title-and-content",
+    "two-cards-and-content",
+    "highlighted-insight",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Adobe-learning-manager-LP-Header-2200x800-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Adobe-learning-manager-LP-Header-2200x800-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Adobe-learning-manager-Integration-500x600-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Adobe-learning-manager-Integration-500x600-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Adobe-learning-manager-Content-500x600-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Adobe-learning-manager-Content-500x600-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Adobe-learning-manager-Personalization-500x600-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Adobe-learning-manager-Personalization-500x600-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Adobe-learning-manager-Analytics-500x600-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Adobe-learning-manager-Analytics-500x600-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/TataCapital_1000x1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/TataCapital_1000x1200.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Adobe-thumbnail-500x300-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Adobe-thumbnail-500x300-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Adobe-learning-manager-Personalization-500x600-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Adobe-learning-manager-Personalization-500x600-1.jpg"
+    ]
+  ]
+}

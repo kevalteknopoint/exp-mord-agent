@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/wie-ihr-e-commerce-von-mach-profitiert/",
+  "path": "dept/de-dach/insight/wie-ihr-e-commerce-von-mach-profitiert",
+  "timestamp": "2026-10-09T11:55:21.740Z",
+  "title": "Wie Ihr E-Commerce von MACH profitiert - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/MACH-Blog-header-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/MACH-Blog-header-500x300-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/MACH-Blog-header-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/MACH-Blog-header-500x300-1.jpg"
+    ]
+  ]
+}

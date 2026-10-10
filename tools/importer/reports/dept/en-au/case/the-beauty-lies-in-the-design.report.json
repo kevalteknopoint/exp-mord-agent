@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/the-beauty-lies-in-the-design/",
+  "path": "dept/en-au/case/the-beauty-lies-in-the-design",
+  "timestamp": "2026-10-09T12:32:35.659Z",
+  "title": "The beauty lies in the design - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Douglas_Case_Homepage.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Douglas_Case_Homepage.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Douglas_Case_Magazin_Teaser.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Douglas_Case_Magazin_Teaser.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Douglas_Case_Detailpage_Cockpit_v1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Douglas_Case_Detailpage_Cockpit_v1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Douglas_Case_Detailpage_Cockpit_v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Douglas_Case_Detailpage_Cockpit_v2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Douglas_Case_Live.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Douglas_Case_Live.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1262451395-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1262451395-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ]
+  ]
+}

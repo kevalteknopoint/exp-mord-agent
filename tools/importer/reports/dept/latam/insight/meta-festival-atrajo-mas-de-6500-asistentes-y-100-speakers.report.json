@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/latam/insight/meta-festival-atrajo-mas-de-6500-asistentes-y-100-speakers/",
   "path": "dept/latam/insight/meta-festival-atrajo-mas-de-6500-asistentes-y-100-speakers",
-  "timestamp": "2026-10-08T15:00:08.567Z",
+  "timestamp": "2026-10-09T09:53:31.635Z",
   "title": "Meta Festival atrajo más de 6,500+ asistentes y 100+ speakers - DEPT®",
   "template": "dept-insight",
   "locale": "latam",
@@ -14,9 +14,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "jumbotron"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/06/Map-Metapolis.png",

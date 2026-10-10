@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/from-dark-to-light-a-new-e-commerce-platform/",
+  "path": "dept/en-au/case/from-dark-to-light-a-new-e-commerce-platform",
+  "timestamp": "2026-10-09T13:03:37.236Z",
+  "title": "From dark to light: a new e-commerce platform - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Flos-Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Flos-Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Flos-Image-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Flos-Image-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Flos-Image-3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Flos-Image-3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Flos-Image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Flos-Image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Image-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Image-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Image-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Image-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Image-7.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Image-7.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Header-image.png"
+    ]
+  ]
+}

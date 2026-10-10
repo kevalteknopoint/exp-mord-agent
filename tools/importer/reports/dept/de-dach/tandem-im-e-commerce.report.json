@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/tandem-im-e-commerce/",
+  "path": "dept/de-dach/tandem-im-e-commerce",
+  "timestamp": "2026-10-09T22:54:14.318Z",
+  "title": "Tandem im E-Commerce - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "intro-text",
+    "panel-work",
+    "video",
+    "panel-partners",
+    "panel-work",
+    "quote",
+    "image",
+    "panel-whitepaper",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon2-1.png"
+    ]
+  ]
+}

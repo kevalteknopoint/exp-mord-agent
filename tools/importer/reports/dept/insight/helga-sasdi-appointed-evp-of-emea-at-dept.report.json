@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/helga-sasdi-appointed-evp-of-emea-at-dept/",
+  "path": "dept/insight/helga-sasdi-appointed-evp-of-emea-at-dept",
+  "timestamp": "2026-10-09T20:47:18.240Z",
+  "title": "Helga Sásdi Appointed EVP of EMEA at DEPT® - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Helga-new-hire-16x9-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Helga-new-hire-16x9-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Impact-Report_Featured-Image_1080x1350.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Impact-Report_Featured-Image_1080x1350.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/tariffs-jewels.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/tariffs-jewels.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/tariffs-metal.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/tariffs-metal.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Helga-new-hire-16x9-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Helga-new-hire-16x9-2.jpg"
+    ]
+  ]
+}

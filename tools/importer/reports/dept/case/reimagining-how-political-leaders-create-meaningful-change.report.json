@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/reimagining-how-political-leaders-create-meaningful-change/",
+  "path": "dept/case/reimagining-how-political-leaders-create-meaningful-change",
+  "timestamp": "2026-10-09T10:46:17.240Z",
+  "title": "Featured work: Tony Blair Institute website redesign & development - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "quote",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/tony-blair-website-mobile-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/tony-blair-website-mobile-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/tony-blair-website-design-grid.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/tony-blair-website-design-grid.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/office.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/office.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/sesamestreetyourself-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/sesamestreetyourself-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/hvac-controls-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/hvac-controls-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/tony-blair-woman-sewing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/tony-blair-woman-sewing.jpg"
+    ]
+  ]
+}

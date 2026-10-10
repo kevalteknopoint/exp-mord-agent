@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/a-customer-driven-strategy-for-gas-networks-ireland/",
+  "path": "dept/en-au/case/a-customer-driven-strategy-for-gas-networks-ireland",
+  "timestamp": "2026-10-09T11:51:12.098Z",
+  "title": "A customer driven strategy - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/gas-vanon-raod.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/gas-vanon-raod.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Group-10-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Group-10-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/StockSnap_AUVDUG2IVM-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/StockSnap_AUVDUG2IVM-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Group-9-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Group-9-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ireland-gas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ireland-gas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/gas-vanon-raod.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/gas-vanon-raod.jpg"
+    ]
+  ]
+}

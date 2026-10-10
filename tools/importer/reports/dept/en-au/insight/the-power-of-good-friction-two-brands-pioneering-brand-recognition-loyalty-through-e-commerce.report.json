@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/the-power-of-good-friction-two-brands-pioneering-brand-recognition-loyalty-through-e-commerce/",
+  "path": "dept/en-au/insight/the-power-of-good-friction-two-brands-pioneering-brand-recognition-loyalty-through-e-commerce",
+  "timestamp": "2026-10-09T13:04:40.946Z",
+  "title": "The power of good friction in branded e-commerce",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/5-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/5-1200x670-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/MariaProkoheadshot-e1701966883394-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/MariaProkoheadshot-e1701966883394-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Footprint_Overview3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Footprint_Overview3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/bicycle-playing-cards-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/bicycle-playing-cards-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/5-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/5-1200x670-1.png"
+    ]
+  ]
+}

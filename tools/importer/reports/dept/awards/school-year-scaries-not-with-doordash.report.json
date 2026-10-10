@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/school-year-scaries-not-with-doordash/",
+  "path": "dept/awards/school-year-scaries-not-with-doordash",
+  "timestamp": "2026-10-09T18:07:24.555Z",
+  "title": "School year scaries? Not with DoorDash - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "tiktok-video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Calli-Goldstein.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Calli-Goldstein.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/DD_BTS_case_feature.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/DD_BTS_case_feature.png"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/cheetos-llevo-el-cheetle-dust-al-mundo-del-arte-y-la-moda-junto-al-talentoso-artista-navinder/",
+  "path": "dept/latam/insight/cheetos-llevo-el-cheetle-dust-al-mundo-del-arte-y-la-moda-junto-al-talentoso-artista-navinder",
+  "timestamp": "2026-10-09T23:36:50.342Z",
+  "title": "Cheetos llevó el \"Cheetle Dust\" al mundo del arte y la moda, junto al talentoso artista Navinder - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/chain-link-up-close-min-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/chain-link-up-close-min-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/karinat_insight_image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/karinat_insight_image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/gen-z-woman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/gen-z-woman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg"
+    ]
+  ]
+}

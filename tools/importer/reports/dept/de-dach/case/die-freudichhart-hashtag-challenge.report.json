@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/die-freudichhart-hashtag-challenge/",
+  "path": "dept/de-dach/case/die-freudichhart-hashtag-challenge",
+  "timestamp": "2026-10-09T11:35:11.072Z",
+  "title": "Die #FreuDichHart Hashtag-Challenge - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "quote",
+    "panel-two-media",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otto_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otto_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otto_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otto_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otto_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otto_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Christl-Joe-Alarcon.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Christl-Joe-Alarcon.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/sihlcity-keyvisual-thumb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/sihlcity-keyvisual-thumb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/COCACOLA_Hero_16_9-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/COCACOLA_Hero_16_9-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Sibir-Header-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Sibir-Header-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otto_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otto_1-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/one-way-trip-digital-maturity/",
+  "path": "dept/en-au/case/one-way-trip-digital-maturity",
+  "timestamp": "2026-10-09T12:17:51.570Z",
+  "title": "Featured work: Sunweb | A one-way trip toward digital maturity - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SUNWEB_IBIZA_2022_488-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SUNWEB_IBIZA_2022_488-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SUNWEB_IBIZA_2022_377-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SUNWEB_IBIZA_2022_377-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/BB1_0677-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/BB1_0677-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg"
+    ]
+  ]
+}

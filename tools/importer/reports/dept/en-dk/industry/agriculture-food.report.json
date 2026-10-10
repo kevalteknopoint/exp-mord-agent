@@ -1,0 +1,123 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/industry/agriculture-food/",
+  "path": "dept/en-dk/industry/agriculture-food",
+  "timestamp": "2026-10-09T13:54:51.440Z",
+  "title": "Agriculture & Food - DEPT®",
+  "template": "dept-industry",
+  "locale": "en-dk",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/farmer-crops-tablet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/farmer-crops-tablet.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/KFC-Buckquet-Campaign.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/KFC-Buckquet-Campaign.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/002-Heinz-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/002-Heinz-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Indigo-AG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Indigo-AG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/SpriteMarvel_Dogstudio2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/SpriteMarvel_Dogstudio2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Ricola.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Ricola.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Heinz.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Heinz.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Innocent.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Innocent.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Justdiggit.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Justdiggit.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Indigo-AG.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Indigo-AG.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Arla.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Arla.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Hidden-Valley.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Hidden-Valley.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Avina.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Avina.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Mondelez.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Mondelez.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Barilla.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Barilla.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/indigo_8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/indigo_8-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HVR-Case-Study_Hero-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HVR-Case-Study_Hero-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/man-walking-through-field.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/man-walking-through-field.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Anthem-Awards-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Anthem-Awards-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/farmer-crops-tablet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/farmer-crops-tablet.jpg"
+    ]
+  ]
+}

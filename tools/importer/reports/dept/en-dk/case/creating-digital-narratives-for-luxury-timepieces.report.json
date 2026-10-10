@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/creating-digital-narratives-for-luxury-timepieces/",
+  "path": "dept/en-dk/case/creating-digital-narratives-for-luxury-timepieces",
+  "timestamp": "2026-10-09T14:11:54.988Z",
+  "title": "Creating digital narratives for luxury timepieces - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/jaeger-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/jaeger-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/jaeger-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/jaeger-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Jaeger-LeCoultre-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Jaeger-LeCoultre-featured.png"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/whatsapp-all-the-chats/",
+  "path": "dept/awards/whatsapp-all-the-chats",
+  "timestamp": "2026-10-09T10:37:52.240Z",
+  "title": "WhatsApp - All the Chats - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "video",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Card.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Card.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Card-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Card-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Whatsapp-Meta-still-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Whatsapp-Meta-still-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Whatsapp-Meta-still-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Whatsapp-Meta-still-2.png"
+    ]
+  ]
+}

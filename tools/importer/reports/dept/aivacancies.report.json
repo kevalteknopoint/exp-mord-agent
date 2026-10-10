@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/aivacancies/",
+  "path": "dept/aivacancies",
+  "timestamp": "2026-10-09T10:01:29.640Z",
+  "title": "DEPT® Careers: AI Vacancies",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-statement",
+    "highlighted-statement",
+    "highlighted-statement",
+    "highlighted-statement",
+    "highlighted-statement",
+    "highlighted-statement",
+    "highlighted-statement",
+    "highlighted-statement",
+    "insight-cta"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/CultureFeatured_16x9_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/CultureFeatured_16x9_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/About-us-Smiling-women.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/About-us-Smiling-women.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/CultureFeatured_16x9_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/CultureFeatured_16x9_2.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/building-a-first-of-its-kind-nft-marketplace/",
+  "path": "dept/en-nl/case/building-a-first-of-its-kind-nft-marketplace",
+  "timestamp": "2026-10-09T17:49:16.742Z",
+  "title": "Building a first-of-its-kind NFT marketplace - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/01-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/01-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/04-Visual.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/04-Visual.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/06-Collection-Editor-Visual.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/06-Collection-Editor-Visual.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/07-Visualpng.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/07-Visualpng.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Dominykas-Maksimovas-Dept-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Dominykas-Maksimovas-Dept-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Beam-Header-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Beam-Header-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Merit-Circle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Merit-Circle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Vizio-Insight-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Vizio-Insight-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ]
+  ]
+}

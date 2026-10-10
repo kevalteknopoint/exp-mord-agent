@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/vernachlaessigt-oder-unverzichtbar-die-vorteile-von-paid-social-strategien-fuer-bfsi-marken/",
+  "path": "dept/de-dach/insight/vernachlaessigt-oder-unverzichtbar-die-vorteile-von-paid-social-strategien-fuer-bfsi-marken",
+  "timestamp": "2026-10-09T11:51:15.042Z",
+  "title": "Die Vorteile von Paid Social Strategien für BFSI Marken - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/BFSI-Insight-image-1200x620-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/BFSI-Insight-image-1200x620-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/frictionless-cx-in-banking.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/frictionless-cx-in-banking.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/BFSI-Insight-image-1200x620-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/BFSI-Insight-image-1200x620-1.png"
+    ]
+  ]
+}

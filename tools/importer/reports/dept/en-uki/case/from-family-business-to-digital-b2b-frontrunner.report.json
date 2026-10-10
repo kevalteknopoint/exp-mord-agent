@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/from-family-business-to-digital-b2b-frontrunner/",
+  "path": "dept/en-uki/case/from-family-business-to-digital-b2b-frontrunner",
+  "timestamp": "2026-10-09T20:11:01.577Z",
+  "title": "From family business to digital B2B frontrunner - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-6-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-6-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-10A.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-10A.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-10B-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-10B-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-8-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/02/sidekix-media-RwXneIyqxAw-unsplash-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/02/sidekix-media-RwXneIyqxAw-unsplash-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Raleigh_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Raleigh_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-03-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/O2-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/O2-Image-Full-bleed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/02/Plieger_16-9-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/02/Plieger_16-9-1024x576.png"
+    ]
+  ]
+}

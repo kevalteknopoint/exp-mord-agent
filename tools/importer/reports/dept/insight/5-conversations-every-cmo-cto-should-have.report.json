@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/5-conversations-every-cmo-cto-should-have/",
+  "path": "dept/insight/5-conversations-every-cmo-cto-should-have",
+  "timestamp": "2026-10-09T21:40:52.200Z",
+  "title": "5 conversations every CMO & CTO should have - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/business-meeting-conversations.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/business-meeting-conversations.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/business-meeting-conversations.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/business-meeting-conversations.jpg"
+    ]
+  ]
+}

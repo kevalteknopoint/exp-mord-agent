@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/lo-que-los-productos-de-educacion-financiera-pueden-aprender-de-neopets/",
+  "path": "dept/latam/insight/lo-que-los-productos-de-educacion-financiera-pueden-aprender-de-neopets",
+  "timestamp": "2026-10-09T23:28:49.859Z",
+  "title": "Lo que los productos financieros pueden aprender de Neopets - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "work-listing",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/BFSI-and-Neopets_Feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/BFSI-and-Neopets_Feature.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Neopets-Nostalgia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Neopets-Nostalgia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Website-_-Full-Bleed-Content-Image@2X-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Website-_-Full-Bleed-Content-Image-2X-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/BFSI-and-Neopets_Feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/BFSI-and-Neopets_Feature.jpg"
+    ]
+  ]
+}

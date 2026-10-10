@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/hypewear-by-about-you-the-first-online-shop-for-digital-fashion/",
+  "path": "dept/en-dk/case/hypewear-by-about-you-the-first-online-shop-for-digital-fashion",
+  "timestamp": "2026-10-09T14:28:31.940Z",
+  "title": "HYPEWEAR by ABOUT YOU – the first online shop for digital fashion - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "video",
+    "case-intro",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Hypewear-Visual-Still-02-Desktop-Komprimiert-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Hypewear-Visual-Still-02-Desktop-Komprimiert-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-01-Desktop-Komprimiert.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-01-Desktop-Komprimiert.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Screenshot-2022-07-28-at-10.11.42.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Screenshot-2022-07-28-at-10.11.42.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/spin-magazine-open-graph.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/spin-magazine-open-graph.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Hypewear-Visual-Still-02-Desktop-Komprimiert-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Hypewear-Visual-Still-02-Desktop-Komprimiert-1.png"
+    ]
+  ]
+}

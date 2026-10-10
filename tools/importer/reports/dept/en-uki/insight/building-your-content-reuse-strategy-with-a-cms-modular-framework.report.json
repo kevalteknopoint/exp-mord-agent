@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/building-your-content-reuse-strategy-with-a-cms-modular-framework/",
+  "path": "dept/en-uki/insight/building-your-content-reuse-strategy-with-a-cms-modular-framework",
+  "timestamp": "2026-10-09T18:57:23.540Z",
+  "title": "Building your content reuse strategy with a CMS Modular Framework - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DSF9786.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DSF9786.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Jim-S-1680-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Jim-S-1680-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/EMPLOYER-BRANDING-BECOMES-INCREASINGLY-IMPORTANT-IN-THE-IMPROVING-ECONOMY-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/EMPLOYER-BRANDING-BECOMES-INCREASINGLY-IMPORTANT-IN-THE-IMPROVING-ECONOMY-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DSF9786.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DSF9786.jpg"
+    ]
+  ]
+}

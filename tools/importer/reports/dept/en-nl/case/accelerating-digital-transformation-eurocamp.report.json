@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/accelerating-digital-transformation-eurocamp/",
+  "path": "dept/en-nl/case/accelerating-digital-transformation-eurocamp",
+  "timestamp": "2026-10-09T17:38:10.839Z",
+  "title": "Accelerating digital transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Eurocamp-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Eurocamp-Image-Full-bleed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-653942568-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-653942568-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Audley-city-view.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Audley-city-view.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/VMA-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/VMA-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Eurocamp-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Eurocamp-Image-Full-bleed.png"
+    ]
+  ]
+}

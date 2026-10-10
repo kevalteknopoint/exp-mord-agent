@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/demo-festival-ueberschreitet-grenzen/",
+  "path": "dept/de-dach/insight/demo-festival-ueberschreitet-grenzen",
+  "timestamp": "2026-10-09T11:20:10.195Z",
+  "title": "DEMO Festival überschreitet Grenzen  - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Liza-Enebeis-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Liza-Enebeis-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/demo-fest-travelator-screen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/demo-fest-travelator-screen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT-x-Lufthansa-plane.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-x-Lufthansa-plane.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/AI-predictions-2025.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/AI-predictions-2025.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight.jpg"
+    ]
+  ]
+}

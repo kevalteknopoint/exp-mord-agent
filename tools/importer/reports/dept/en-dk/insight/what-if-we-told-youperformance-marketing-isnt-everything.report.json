@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/what-if-we-told-youperformance-marketing-isnt-everything/",
+  "path": "dept/en-dk/insight/what-if-we-told-youperformance-marketing-isnt-everything",
+  "timestamp": "2026-10-09T15:21:06.141Z",
+  "title": "What if we told you…performance marketing isn’t everything? - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221026_BlFI_What-If-We-Told-You%E2%80%A6Performance-Marketing-Isnt-Everything.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221026_BlFI_What-If-We-Told-You-Performance-Marketing-Isnt-Everything.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Melissa-Collins-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Melissa-Collins-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Melissa-Collins.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Melissa-Collins.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221026_BlFI_What-If-We-Told-You%E2%80%A6Performance-Marketing-Isnt-Everything.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221026_BlFI_What-If-We-Told-You-Performance-Marketing-Isnt-Everything.jpeg"
+    ]
+  ]
+}

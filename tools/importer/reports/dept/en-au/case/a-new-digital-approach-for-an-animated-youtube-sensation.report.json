@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/a-new-digital-approach-for-an-animated-youtube-sensation/",
+  "path": "dept/en-au/case/a-new-digital-approach-for-an-animated-youtube-sensation",
+  "timestamp": "2026-10-09T11:53:42.383Z",
+  "title": "A new digital approach for an animated YouTube sensation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/OddbodsProjectV1@2X-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/OddbodsProjectV1-2X-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/oddbods-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/oddbods-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/oddbods-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/oddbods-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Adobe-_-Dogstudio-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Adobe-_-Dogstudio-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/TataCapital_1000x1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/TataCapital_1000x1200.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/OddBodsFull-bleed-Project-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/OddBodsFull-bleed-Project-Image.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/technology-engineering/emerging-technologies/",
+  "path": "dept/en-dk/service/technology-engineering/emerging-technologies",
+  "timestamp": "2026-10-09T14:29:04.588Z",
+  "title": "Emerging Technologies - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Emerging-Technologies.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Emerging-Technologies.png"
+    ]
+  ]
+}

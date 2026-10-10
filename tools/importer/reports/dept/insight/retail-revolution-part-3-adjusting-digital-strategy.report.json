@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/retail-revolution-part-3-adjusting-digital-strategy/",
+  "path": "dept/insight/retail-revolution-part-3-adjusting-digital-strategy",
+  "timestamp": "2026-10-09T21:37:01.343Z",
+  "title": "The retail revolution, part 3: adjusting digital strategy - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Retail-_-Commerce.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Retail-_-Commerce.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/17-retail-revolution-part-4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/17-retail-revolution-part-4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/google-local-ads.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/google-local-ads.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/google-display-ads.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/google-display-ads.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/fb-proximity-ads.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/fb-proximity-ads.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/fb-local-CTAs.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/fb-local-CTAs.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/snapchat.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/snapchat.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Retail-_-Commerce.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Retail-_-Commerce.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/pushing-the-boundaries-of-virtual-with-a-next-level-digital-event/",
+  "path": "dept/case/pushing-the-boundaries-of-virtual-with-a-next-level-digital-event",
+  "timestamp": "2026-10-09T10:43:08.847Z",
+  "title": "A next-level virtual digital event - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "statement",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-291-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-291-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-16-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-16-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-210-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-210-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-95-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-95-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-94-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-94-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-293-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-293-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20201203_161611.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20201203_161611.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Trainline_Featured_16_9.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Trainline_Featured_16_9.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/smart_DATA_case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/smart_DATA_case.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg"
+    ]
+  ]
+}

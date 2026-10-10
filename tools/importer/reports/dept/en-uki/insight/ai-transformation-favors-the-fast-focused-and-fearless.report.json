@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/ai-transformation-favors-the-fast-focused-and-fearless/",
+  "path": "dept/en-uki/insight/ai-transformation-favors-the-fast-focused-and-fearless",
+  "timestamp": "2026-10-09T18:48:59.481Z",
+  "title": "AI transformation favours the fast, focused, and fearless - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "media-with-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Bridget-Fahrland-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Bridget-Fahrland-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg"
+    ]
+  ]
+}

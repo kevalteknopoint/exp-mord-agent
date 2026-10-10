@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/bpd-view-customise-buy-home-online/",
+  "path": "dept/en-nl/case/bpd-view-customise-buy-home-online",
+  "timestamp": "2026-10-09T17:46:49.061Z",
+  "title": "View, customise and buy a home online - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BPD_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BPD_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BPD_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BPD_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/nerf-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/nerf-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Kenna-selfie-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Kenna-selfie-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Avans-open-dag-grid-1-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Avans-open-dag-grid-1-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BPD_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BPD_1.jpg"
+    ]
+  ]
+}

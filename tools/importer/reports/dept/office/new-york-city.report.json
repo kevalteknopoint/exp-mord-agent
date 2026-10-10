@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/new-york-city/",
+  "path": "dept/office/new-york-city",
+  "timestamp": "2026-10-09T22:39:17.335Z",
+  "title": "New York City - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/New-York-office.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/New-York-office.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/New-York-office.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/New-York-office.jpg"
+    ]
+  ]
+}

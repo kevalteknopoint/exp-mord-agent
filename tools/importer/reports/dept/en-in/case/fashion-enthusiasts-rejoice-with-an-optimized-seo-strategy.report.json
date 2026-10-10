@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/fashion-enthusiasts-rejoice-with-an-optimized-seo-strategy/",
+  "path": "dept/en-in/case/fashion-enthusiasts-rejoice-with-an-optimized-seo-strategy",
+  "timestamp": "2026-10-09T15:50:43.141Z",
+  "title": "Fashion enthusiasts rejoice with an optimized SEO strategy - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/rothys-flats-colorful.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/rothys-flats-colorful.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/rothys-landing-page.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/rothys-landing-page.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Vizio-Insight-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Vizio-Insight-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/rothys-the-driver-featured-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/rothys-the-driver-featured-1.jpg"
+    ]
+  ]
+}

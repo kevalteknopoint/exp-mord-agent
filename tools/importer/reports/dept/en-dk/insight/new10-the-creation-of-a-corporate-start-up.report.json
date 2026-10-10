@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/new10-the-creation-of-a-corporate-start-up/",
+  "path": "dept/en-dk/insight/new10-the-creation-of-a-corporate-start-up",
+  "timestamp": "2026-10-09T14:55:42.243Z",
+  "title": "New10: the creation of a corporate start-up - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/max-bender-262783-unsplash-480x319-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/max-bender-262783-unsplash-480x319-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DEPT-SPIN-1280x728-2-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DEPT-SPIN-1280x728-2-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/1111-585x585-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/1111-585x585-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wwewe-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wwewe-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Bart-Manuel-Dept-1-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Bart-Manuel-Dept-1-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/max-bender-262783-unsplash-480x319-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/max-bender-262783-unsplash-480x319-1.jpg"
+    ]
+  ]
+}

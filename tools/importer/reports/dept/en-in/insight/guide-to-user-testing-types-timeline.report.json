@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/guide-to-user-testing-types-timeline/",
+  "path": "dept/en-in/insight/guide-to-user-testing-types-timeline",
+  "timestamp": "2026-10-09T16:36:54.135Z",
+  "title": "Guide to user testing - types & timeline - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "form-page",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/user-testing-guide-focus-group.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/user-testing-guide-focus-group.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Jesse-stevens-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Jesse-stevens-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/user-testing-guide-focus-group.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/user-testing-guide-focus-group.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/user-testing-scaled-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/user-testing-scaled-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/user-testing-emoney-visual-dept-scaled.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/user-testing-emoney-visual-dept-scaled.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/user-testing-guide-focus-group.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/user-testing-guide-focus-group.jpg"
+    ]
+  ]
+}

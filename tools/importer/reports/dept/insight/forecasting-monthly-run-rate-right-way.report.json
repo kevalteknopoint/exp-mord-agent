@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/forecasting-monthly-run-rate-right-way/",
+  "path": "dept/insight/forecasting-monthly-run-rate-right-way",
+  "timestamp": "2026-10-09T20:35:27.760Z",
+  "title": "Forecasting by monthly run rate: do it the right way",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/cloudsoftwareSolutions2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/cloudsoftwareSolutions2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Feliks-Malts-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Feliks-Malts-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-in-spreadsheet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-in-spreadsheet.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Feliks-Malts-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Feliks-Malts-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/cloudsoftwareSolutions2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/cloudsoftwareSolutions2.jpg"
+    ]
+  ]
+}

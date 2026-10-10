@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/make-your-move-with-an-older-generation-of-influencers-social-social-campaigns-arts-culture-lifestyle/",
+  "path": "dept/awards/make-your-move-with-an-older-generation-of-influencers-social-social-campaigns-arts-culture-lifestyle",
+  "timestamp": "2026-10-09T10:27:41.642Z",
+  "title": "Make your move with an older generation of influencers  - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "image",
+    "panel-with-list",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "stats-panel",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Calli-Goldstein.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Calli-Goldstein.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Autobytel-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Autobytel-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ]
+  ]
+}

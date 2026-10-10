@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/aeg-amazon-advertising-account1/",
+  "path": "dept/de-dach/case/aeg-amazon-advertising-account1",
+  "timestamp": "2026-10-09T11:23:50.252Z",
+  "title": "AEG Amazon Advertising Account - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/2023_SUMMER_LANDQUART_STORES_I7A3774_HR_2-Kopie.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/2023_SUMMER_LANDQUART_STORES_I7A3774_HR_2-Kopie.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/AEG-Oeko-Kombi-Waschtrockner-2-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/AEG-Oeko-Kombi-Waschtrockner-2-1440x810-c.jpg"
+    ]
+  ]
+}

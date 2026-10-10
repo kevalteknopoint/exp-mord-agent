@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/the-power-of-ai-in-voice-search/",
+  "path": "dept/en-nl/insight/the-power-of-ai-in-voice-search",
+  "timestamp": "2026-10-09T17:52:43.285Z",
+  "title": "The power of AI in voice search: leveraging conversational content for better results - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ai-voice-search.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ai-voice-search.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Dept-London-1680-47-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Dept-London-1680-47-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Dept-London-1680-47-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Dept-London-1680-47-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/AI-google-more-important-than-ever.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/AI-google-more-important-than-ever.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/car-driving-winding-road.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/car-driving-winding-road.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Navigating-the-edge-of-co-creation-in-influencer-marketing-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Navigating-the-edge-of-co-creation-in-influencer-marketing-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ai-voice-search.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ai-voice-search.jpeg"
+    ]
+  ]
+}

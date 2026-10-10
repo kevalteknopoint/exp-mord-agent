@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/ads-on-netflix/",
+  "path": "dept/insight/ads-on-netflix",
+  "timestamp": "2026-10-09T21:48:07.263Z",
+  "title": "Ads on Netflix? What this means for advertisers - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Netflix-remote.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Netflix-remote.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Placeholder-for-authors-without-headshot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Placeholder-for-authors-without-headshot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Netflix-remote.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Netflix-remote.jpg"
+    ]
+  ]
+}

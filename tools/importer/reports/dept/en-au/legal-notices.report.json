@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/legal-notices/",
+  "path": "dept/en-au/legal-notices",
+  "timestamp": "2026-10-09T14:03:14.640Z",
+  "title": "Legal Notices - DEPT®",
+  "template": "dept-page",
+  "locale": "en-au",
+  "components": [
+    "panel-with-list"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

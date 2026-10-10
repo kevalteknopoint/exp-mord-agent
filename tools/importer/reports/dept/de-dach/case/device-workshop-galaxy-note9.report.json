@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/de-dach/case/device-workshop-galaxy-note9/",
   "path": "dept/de-dach/case/device-workshop-galaxy-note9",
-  "timestamp": "2026-10-08T15:14:57.248Z",
+  "timestamp": "2026-10-09T09:51:44.839Z",
   "title": "Device Workshop Galaxy Note 9 - DEPT®",
   "template": "dept-case",
   "locale": "de-dach",
@@ -18,27 +18,23 @@
     "highlighted-cases",
     "next-case"
   ],
-  "fallback": [
-    "full-width-image",
-    "statement",
-    "call-to-action"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/03/@tonistadlr-Toni-Stadler-Kiew-exklusiv-Galaxy-Note9_4-1440x810-c.jpeg",
       "/content/dam/exp-mord-agent/dept/uploads/2021/03/-tonistadlr-Toni-Stadler-Kiew-exklusiv-Galaxy-Note9_4-1440x810-c.jpeg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Audience.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Audience.jpg"
+      "https://www.dept.global/wp-content/uploads/2023/06/Featured-Image_DS.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Featured-Image_DS.png"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Header.jpeg",
-      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Header.jpeg"
+      "https://www.dept.global/wp-content/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2021/04/Dept-x-quadient-case-1440x810-c-quadient.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dept-x-quadient-case-1440x810-c-quadient.png"
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2021/05/samsung_5-scaled.jpeg",

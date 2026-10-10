@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/metaverse-practice/",
+  "path": "dept/en-dk/service/metaverse-practice",
+  "timestamp": "2026-10-09T23:21:22.639Z",
+  "title": "Metaverse Practice - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "main-page-header",
+    "image",
+    "panel-with-rich-text",
+    "client-panel",
+    "panel-with-cards",
+    "call-to-action",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPTMETAVERSE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPTMETAVERSE.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/HM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/HM.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/About-You.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/About-You.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/dequency-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/dequency-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/spin.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/spin.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/algorand-logo-white-size.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/algorand-logo-white-size.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Eurovision-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Eurovision-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Dept_x_Metaverse_Practice_-1600x900-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Dept_x_Metaverse_Practice_-1600x900-2.png"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/just-eat-enthuellt-die-neue-did-somebody-say-kampagne/",
+  "path": "dept/de-dach/insight/just-eat-enthuellt-die-neue-did-somebody-say-kampagne",
+  "timestamp": "2026-10-09T12:10:17.935Z",
+  "title": "Just Eat enthüllt die neue ‘Did somebody say…’ Kampagne - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/luebue_NEU-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/luebue_NEU-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ]
+  ]
+}

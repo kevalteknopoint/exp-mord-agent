@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/meta-festival-2021/",
+  "path": "dept/de-dach/event/meta-festival-2021",
+  "timestamp": "2026-10-09T11:05:57.746Z",
+  "title": "Meta Festival 2021 - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/metafestival-visual-journee-16.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/metafestival-visual-journee-16.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Aya-Jaff-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Aya-Jaff-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Philipp_Westermeyer_OMR_OX22095.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Philipp_Westermeyer_OMR_OX22095.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Tarek-Muller_MitgrunderCo-CEO_ABOUT-YOU.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Tarek-Muller_MitgrunderCo-CEO_ABOUT-YOU.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Diana-zu-Lowen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Diana-zu-Lowen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Dan-Moller.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Dan-Moller.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/metafestival-visual-journee-16.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/metafestival-visual-journee-16.jpg"
+    ]
+  ]
+}

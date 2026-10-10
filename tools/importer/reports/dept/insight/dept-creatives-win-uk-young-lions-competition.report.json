@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-creatives-win-uk-young-lions-competition/",
+  "path": "dept/insight/dept-creatives-win-uk-young-lions-competition",
+  "timestamp": "2026-10-09T21:06:43.269Z",
+  "title": "DEPT® creatives win UK Young Lions Competition - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Creative-new-hires-I-Insight-Featured-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Creative-new-hires-I-Insight-Featured-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/COVER_IMAGE_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/COVER_IMAGE_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/PHONES_IMAGE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/PHONES_IMAGE.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/MENU_IMAGE_optimized_800.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/MENU_IMAGE_optimized_800.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/800kb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/800kb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Mammut-Website-asset-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Mammut-Website-asset-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Trainline-website-image-1-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Trainline-website-image-1-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Creative-new-hires-I-Insight-Featured-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Creative-new-hires-I-Insight-Featured-1920x1080-1.png"
+    ]
+  ]
+}

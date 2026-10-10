@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/its-time-to-take-a-combined-approach-to-brand-and-cx/",
+  "path": "dept/en-dk/insight/its-time-to-take-a-combined-approach-to-brand-and-cx",
+  "timestamp": "2026-10-09T14:49:40.249Z",
+  "title": "It’s time to take a combined approach to brand and CX - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Its-time-to-take-a-combined-approach-to-brand-and-CX.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Its-time-to-take-a-combined-approach-to-brand-and-CX.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lasse-Rasmussen-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lasse-Rasmussen-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Its-time-to-take-a-combined-approach-to-brand-and-CX.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Its-time-to-take-a-combined-approach-to-brand-and-CX.jpg"
+    ]
+  ]
+}

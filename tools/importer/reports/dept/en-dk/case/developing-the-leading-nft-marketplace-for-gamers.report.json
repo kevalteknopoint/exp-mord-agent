@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/developing-the-leading-nft-marketplace-for-gamers/",
+  "path": "dept/en-dk/case/developing-the-leading-nft-marketplace-for-gamers",
+  "timestamp": "2026-10-09T14:16:04.481Z",
+  "title": "Developing the leading NFT marketplace for gamers - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/01-Template-Full-screen-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/01-Template-Full-screen-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/03-Template-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/03-Template-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/04-Mobile-Angled-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/04-Mobile-Angled-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Jochem-van-Rossem-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Jochem-van-Rossem-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Signs_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Signs_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ]
+  ]
+}

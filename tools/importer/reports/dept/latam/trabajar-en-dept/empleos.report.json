@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/trabajar-en-dept/empleos/",
+  "path": "dept/latam/trabajar-en-dept/empleos",
+  "timestamp": "2026-10-09T22:34:54.739Z",
+  "title": "Vacantes abiertas - DEPT®",
+  "template": "dept-trabajar-en-dept",
+  "locale": "latam",
+  "components": [
+    "card-hero",
+    "wrapper"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/careers-header.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/careers-header.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-19.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-19.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-29.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-29.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-4.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-4.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-3.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-10.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-10.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-15.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-15.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/DEPT-office-Copenhagen-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/DEPT-office-Copenhagen-2.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/basic-dept-and-google-create-digital-symbols-of-solidarity-for-the-stonewall-visitor-center/",
+  "path": "dept/insight/basic-dept-and-google-create-digital-symbols-of-solidarity-for-the-stonewall-visitor-center",
+  "timestamp": "2026-10-09T21:56:54.139Z",
+  "title": "BASIC/DEPT® and Google create digital symbols of solidarity for the Stonewall Visitor Center - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Google-Stonewall-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Google-Stonewall-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Google-Stonewall-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Google-Stonewall-1920x1080-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/el-futuro-del-ecommerce-es-sin-cookies-componible-sostenible-personalizado-y-phygital/",
+  "path": "dept/latam/insight/el-futuro-del-ecommerce-es-sin-cookies-componible-sostenible-personalizado-y-phygital",
+  "timestamp": "2026-10-09T23:25:20.244Z",
+  "title": "El futuro del ecommerce es sin cookies, sostenible y phygital",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "image",
+    "intro-text",
+    "title-and-content",
+    "video",
+    "quote",
+    "title-and-content",
+    "video",
+    "quote",
+    "title-and-content",
+    "video",
+    "quote",
+    "title-and-content",
+    "video",
+    "quote",
+    "title-and-content",
+    "video",
+    "quote",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/future-of-commerce-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/future-of-commerce-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/future-of-commerce-_1_.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/future-of-commerce-_1_.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/future-of-commerce-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/future-of-commerce-1.jpg"
+    ]
+  ]
+}

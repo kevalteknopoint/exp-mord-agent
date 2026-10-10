@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/programmatic-advertising-made-sweet-with-caotina/",
+  "path": "dept/case/programmatic-advertising-made-sweet-with-caotina",
+  "timestamp": "2026-10-09T10:42:14.440Z",
+  "title": "Programmatic advertising made sweet with Caotina - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Luc-Suter-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Luc-Suter-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-11.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-11.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/pr_tomorrowland.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/pr_tomorrowland.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/WP20002_BLAK_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/WP20002_BLAK_11.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg"
+    ]
+  ]
+}

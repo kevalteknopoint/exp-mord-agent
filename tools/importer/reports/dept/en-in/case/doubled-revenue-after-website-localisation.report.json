@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/doubled-revenue-after-website-localisation/",
+  "path": "dept/en-in/case/doubled-revenue-after-website-localisation",
+  "timestamp": "2026-10-09T15:45:18.778Z",
+  "title": "Doubled revenue after website localisation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/WP20002_BLAK_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/WP20002_BLAK_11.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/K12363_GRAP_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/K12363_GRAP_11.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/DKahgUfXcAATTAB.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/DKahgUfXcAATTAB.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Feature-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Feature-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/The-Wiggles-Project-Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/The-Wiggles-Project-Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/WP20002_BLAK_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/WP20002_BLAK_11.jpeg"
+    ]
+  ]
+}

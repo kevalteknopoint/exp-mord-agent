@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/case/a-brand-refresh-for-an-extraordinary-charity/",
   "path": "dept/case/a-brand-refresh-for-an-extraordinary-charity",
-  "timestamp": "2026-10-08T16:14:12.618Z",
+  "timestamp": "2026-10-09T09:47:49.736Z",
   "title": "A brand refresh for an incredible charity - DEPT®",
   "template": "dept-case",
   "locale": "global",
@@ -28,18 +28,7 @@
     "highlighted-cases",
     "next-case"
   ],
-  "fallback": [
-    "full-width-image",
-    "statement",
-    "full-width-image",
-    "full-width-image",
-    "panel-two-media",
-    "call-to-action",
-    "call-to-action",
-    "full-width-image",
-    "full-width-image",
-    "call-to-action"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/11/food-drive.jpg",
@@ -70,12 +59,16 @@
       "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image-Split.png"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1223139297-1-scaled.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1223139297-1-scaled.jpg"
+      "https://www.dept.global/wp-content/uploads/2025/06/jonsson-product-photography2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/jonsson-product-photography2.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2024/08/Kenna-selfie-1.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Kenna-selfie-1.jpg"
+      "https://www.dept.global/wp-content/uploads/2022/12/Merit-Circle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Merit-Circle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-1.jpg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2021/04/Image-Full-bleed-2.png",

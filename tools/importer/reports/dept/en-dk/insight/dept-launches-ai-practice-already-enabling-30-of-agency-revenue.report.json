@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/dept-launches-ai-practice-already-enabling-30-of-agency-revenue/",
+  "path": "dept/en-dk/insight/dept-launches-ai-practice-already-enabling-30-of-agency-revenue",
+  "timestamp": "2026-10-09T15:02:49.345Z",
+  "title": "DEPT® launches AI Practice - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "statement",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AEAI-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT-AI-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-1000X1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--1000X1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/digital-trends-2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/digital-trends-2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/10-perspectives-on-AI-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/10-perspectives-on-AI-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AEAI-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT-AI-500x300-1.png"
+    ]
+  ]
+}

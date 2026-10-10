@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/meet-us-at-sitecore-symposium/",
+  "path": "dept/en-uki/event/meet-us-at-sitecore-symposium",
+  "timestamp": "2026-10-09T18:31:13.549Z",
+  "title": "Meet us at Sitecore Symposium - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/iStock-1348379995.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/iStock-1348379995.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Sarah-Davies-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Sarah-Davies-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/iStock-1348379995.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/iStock-1348379995.jpg"
+    ]
+  ]
+}

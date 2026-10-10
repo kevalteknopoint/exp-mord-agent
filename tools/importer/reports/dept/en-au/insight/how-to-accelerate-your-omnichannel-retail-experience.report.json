@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-accelerate-your-omnichannel-retail-experience/",
+  "path": "dept/en-au/insight/how-to-accelerate-your-omnichannel-retail-experience",
+  "timestamp": "2026-10-09T13:08:09.345Z",
+  "title": "How to accelerate your omnichannel retail experience - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Omnichannel-customer-experience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Omnichannel-customer-experience.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/HM_Virtual_Showroom_Hero_Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/HM_Virtual_Showroom_Hero_Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Omnichannel-customer-experience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Omnichannel-customer-experience.jpg"
+    ]
+  ]
+}

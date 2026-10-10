@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/supporting-customers-online-to-boost-offline-sales/",
+  "path": "dept/en-au/case/supporting-customers-online-to-boost-offline-sales",
+  "timestamp": "2026-10-09T12:31:06.258Z",
+  "title": "Supporting customers online to boost offline sales - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "call-to-action",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-van-Alphen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-van-Alphen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HM_htracism.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HM_htracism.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ULTIMATE_C8_HMB_ChampionRedGlans_10-1440x810-c-gazelle.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ULTIMATE_C8_HMB_ChampionRedGlans_10-1440x810-c-gazelle.jpeg"
+    ]
+  ]
+}

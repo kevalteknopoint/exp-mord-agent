@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/fjord-lines-journey-to-boost-travel-with-paid-social-strategy/",
+  "path": "dept/en-dk/case/fjord-lines-journey-to-boost-travel-with-paid-social-strategy",
+  "timestamp": "2026-10-09T14:20:10.155Z",
+  "title": "Fjord Line's journey to boost travel with paid social strategy - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Fjord-line-04.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Fjord-line-04.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Fjord-line-02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Fjord-line-02.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Fjord-line-03.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Fjord-line-03.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Fjord-line-01.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Fjord-line-01.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Kasper-Koletzki.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Kasper-Koletzki.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/regraded-AUDI-Amsterdam-%C2%A9rachelecclestone-093827-file1938-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/regraded-AUDI-Amsterdam--rachelecclestone-093827-file1938-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Fjord-line-Featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Fjord-line-Featured-image.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/service/growth/seo/",
+  "path": "dept/en-uki/service/growth/seo",
+  "timestamp": "2026-10-09T19:52:25.140Z",
+  "title": "Search engine optimisation (SEO) - DEPT® full-service SEO",
+  "template": "dept-service",
+  "locale": "en-uki",
+  "components": [
+    "title-block",
+    "image-and-fact",
+    "highlighted-statement",
+    "highlighted-logos",
+    "work-listing",
+    "custom-listing",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/YouTube-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/YouTube-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Google-4.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Google-4.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Moodys-2.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Moodys-2.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/ASU-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/ASU-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/SimpliSafe-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/SimpliSafe-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Disney-3.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Disney-3.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Expedia-Group-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Expedia-Group-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Herman-Miller-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Herman-Miller-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Optimization-in-the-age-of-AI-Understanding-GEO-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Optimization-in-the-age-of-AI-Understanding-GEO-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/ai-concept-swirls.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/ai-concept-swirls.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/The-Future-of-Authority-in-an-AI-First-Search-World-Idea-1080x1350-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/The-Future-of-Authority-in-an-AI-First-Search-World-Idea-1080x1350-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

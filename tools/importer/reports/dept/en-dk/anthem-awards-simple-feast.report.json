@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/anthem-awards-simple-feast/",
+  "path": "dept/en-dk/anthem-awards-simple-feast",
+  "timestamp": "2026-10-09T14:39:08.139Z",
+  "title": "Hi Anthem Awards judges, this is the case for Simple Feast - DEPT®",
+  "template": "dept-page",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "panel-two-media",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "quote",
+    "call-to-action",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/D-Hero-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/D-Hero-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/2022_jan-camp_desktop-dk-4mb-0-00-12-09-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/2022_jan-camp_desktop-dk-4mb-0-00-12-09-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/D-Full-screen-UI-8.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/D-Full-screen-UI-8.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/50-50-left-10-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/50-50-left-10-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/50-50-left-10.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/50-50-left-10.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Simple-Feast-7.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Simple-Feast-7.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Marie-Kierkegaard.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Marie-Kierkegaard.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

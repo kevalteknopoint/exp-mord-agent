@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/project-sundae-a-recipe-for-success/",
+  "path": "dept/case/project-sundae-a-recipe-for-success",
+  "timestamp": "2026-10-09T10:42:28.341Z",
+  "title": "Featured work: Creative Automation for Just Eat Takeaway - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "jumbotron",
+    "case-intro",
+    "jumbotron",
+    "assets-and-copy",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/ebay-creative-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/ebay-creative-automation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/just-eat-takeaway-personalized.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/just-eat-takeaway-personalized.jpg"
+    ]
+  ]
+}

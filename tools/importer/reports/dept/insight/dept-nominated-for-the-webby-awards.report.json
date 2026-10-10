@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-nominated-for-the-webby-awards/",
+  "path": "dept/insight/dept-nominated-for-the-webby-awards",
+  "timestamp": "2026-10-09T21:24:15.040Z",
+  "title": "DEPT® nominated for the Webby Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/IMG_1084-1-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/IMG_1084-1-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/IMG_1084-1-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/IMG_1084-1-1200x750-c.jpg"
+    ]
+  ]
+}

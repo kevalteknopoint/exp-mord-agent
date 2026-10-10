@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/bitvavo-launches-new-positioning-and-first-ever-brand-campaign-made-by-dept/",
+  "path": "dept/en-au/case/bitvavo-launches-new-positioning-and-first-ever-brand-campaign-made-by-dept",
+  "timestamp": "2026-10-09T12:30:08.448Z",
+  "title": "Bitvavo launches new positioning and first-ever brand campaign made by DEPT® - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/IMG_6969-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/IMG_6969-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/001-Heinz.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/001-Heinz.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

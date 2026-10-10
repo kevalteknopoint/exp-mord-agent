@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/embedded-teams-to-support-engineering-efficiency/",
+  "path": "dept/en-in/case/embedded-teams-to-support-engineering-efficiency",
+  "timestamp": "2026-10-09T15:47:42.505Z",
+  "title": "Under Armour: An embedded engineering partnership - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-basketball.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-jacket.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-jacket.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/jacket-under-armour.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/jacket-under-armour.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-sandbox.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-sandbox.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/under-armour-slackbot.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/under-armour-slackbot.png"
+    ]
+  ]
+}

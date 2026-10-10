@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/ignite-the-joy-of-reading-among-kids/",
+  "path": "dept/en-uki/case/ignite-the-joy-of-reading-among-kids",
+  "timestamp": "2026-10-09T20:16:36.852Z",
+  "title": "Ignite the joy of reading among kids - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "quote",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "stats-panel",
+    "image",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-01-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-01-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-02-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-03-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-05-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-05-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1057277428-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1057277428-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-03-1.png"
+    ]
+  ]
+}

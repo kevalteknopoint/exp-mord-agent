@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/using-ai-to-scale-cgi-avatars-for-inters-fan-loyalty-platform/",
+  "path": "dept/case/using-ai-to-scale-cgi-avatars-for-inters-fan-loyalty-platform",
+  "timestamp": "2026-10-09T11:13:55.740Z",
+  "title": "Featured work: AI-produced avatars for Inter",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/InteristaAvatars.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/InteristaAvatars.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/YourInteristaWorld_4.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/YourInteristaWorld_4.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/InteristaAvatars.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/InteristaAvatars.webp"
+    ]
+  ]
+}

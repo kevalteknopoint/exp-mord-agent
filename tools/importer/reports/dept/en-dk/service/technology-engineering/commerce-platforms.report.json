@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/technology-engineering/commerce-platforms/",
+  "path": "dept/en-dk/service/technology-engineering/commerce-platforms",
+  "timestamp": "2026-10-09T14:27:53.043Z",
+  "title": "Commerce platforms - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Commerce-platform.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Commerce-platform.jpg"
+    ]
+  ]
+}

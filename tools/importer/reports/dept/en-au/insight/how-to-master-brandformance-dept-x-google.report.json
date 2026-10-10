@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-master-brandformance-dept-x-google/",
+  "path": "dept/en-au/insight/how-to-master-brandformance-dept-x-google",
+  "timestamp": "2026-10-09T13:14:05.151Z",
+  "title": "Mastering Brandformance - Stay relevant or get lost in the shuffle",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "assets-and-copy",
+    "video",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image-and-fact",
+    "assets-and-copy",
+    "image-and-fact",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Insight-image-Brandperformance-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Insight-image-Brandperformance-1200x670-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/DoWoo-Lee-profile-picture-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/DoWoo-Lee-profile-picture-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Untitled-design-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Untitled-design-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-marketing-automation-welcome-journey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-marketing-automation-welcome-journey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Insight-image-Brandperformance-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Insight-image-Brandperformance-1200x670-1.png"
+    ]
+  ]
+}

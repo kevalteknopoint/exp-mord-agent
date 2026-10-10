@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/data-nerd-challenge-wir-losen-ihre-herausforderungen-mit-daten/",
+  "path": "dept/de-dach/event/data-nerd-challenge-wir-losen-ihre-herausforderungen-mit-daten",
+  "timestamp": "2026-10-09T10:57:03.759Z",
+  "title": "Data Nerd Challenge - Wir lösen Ihre Data-Herausforderungen - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Event-LP-Header_1080x1080_v2@2x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Event-LP-Header_1080x1080_v2-2x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marc_Preusche_LEROI-200x355-c-e1626533728975-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marc_Preusche_LEROI-200x355-c-e1626533728975-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Jonas-Rashedi-200x355-c-e1626533590516-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Jonas-Rashedi-200x355-c-e1626533590516-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/logo-dark-new.svg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/logo-dark-new.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Event-LP-Header_1080x1080_v2@2x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Event-LP-Header_1080x1080_v2-2x.jpg"
+    ]
+  ]
+}

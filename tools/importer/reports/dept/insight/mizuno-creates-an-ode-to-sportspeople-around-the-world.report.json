@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/mizuno-creates-an-ode-to-sportspeople-around-the-world/",
+  "path": "dept/insight/mizuno-creates-an-ode-to-sportspeople-around-the-world",
+  "timestamp": "2026-10-09T22:45:19.840Z",
+  "title": "Mizuno creates an ode to sportspeople around the world - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/shoes-mizuno-480x270-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/shoes-mizuno-480x270-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/shoes-mizuno-480x270-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/shoes-mizuno-480x270-1.png"
+    ]
+  ]
+}

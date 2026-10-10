@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-neuer-skalierbarer-webshop/",
+  "path": "dept/de-dach/case/ein-neuer-skalierbarer-webshop",
+  "timestamp": "2026-10-09T11:43:21.939Z",
+  "title": "Ein neuer skalierbarer Webshop - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/AdobeStock_292452515-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/AdobeStock_292452515-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-147-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-147-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-126-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-126-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/sihlcity-keyvisual-thumb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/sihlcity-keyvisual-thumb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/DJI_0076-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/DJI_0076-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nivea_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nivea_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/AdobeStock_292452515-1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/AdobeStock_292452515-1-scaled.jpeg"
+    ]
+  ]
+}

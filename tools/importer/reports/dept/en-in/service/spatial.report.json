@@ -1,0 +1,95 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/spatial/",
+  "path": "dept/en-in/service/spatial",
+  "timestamp": "2026-10-09T16:38:43.140Z",
+  "title": "Spatial - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "post-header-variant-2",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "four-card-information-block",
+    "video",
+    "title-and-content",
+    "client-panel",
+    "image",
+    "highlighted-item-listing",
+    "rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Apple-vision-pro.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Apple-vision-pro.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/girl-in-vr-headset-Immersive-Learning-Experiences.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/girl-in-vr-headset-Immersive-Learning-Experiences.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/tech-and-data.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/tech-and-data.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/technology.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/technology.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Web3-event-Landingpage-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Web3-event-Landingpage-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Audi.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Audi.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/LOGO-HM-beyond-400x210-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/LOGO-HM-beyond-400x210-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Sesame-Street-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Sesame-Street-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/smileyscope-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/smileyscope-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/T-B-Media-Global_Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/T-B-Media-Global_Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/The-Social-Hub_Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/The-Social-Hub_Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/University-of-Melbourne-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/University-of-Melbourne-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Tomorrowland-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Tomorrowland-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Utah-Jazz-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Utah-Jazz-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Apple-vision-pro-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Apple-vision-pro-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/HM_Virtual_Showroom_Hero_Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/HM_Virtual_Showroom_Hero_Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Apple-vision-pro.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Apple-vision-pro.png"
+    ]
+  ]
+}

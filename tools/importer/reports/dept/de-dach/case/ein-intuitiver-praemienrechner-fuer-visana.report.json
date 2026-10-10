@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-intuitiver-praemienrechner-fuer-visana/",
+  "path": "dept/de-dach/case/ein-intuitiver-praemienrechner-fuer-visana",
+  "timestamp": "2026-10-09T11:41:37.540Z",
+  "title": "Ein intuitiver Prämienrechner für Visana - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "image",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/visana-calculator-keyvisual-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/visana-calculator-keyvisual-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/visana-calculator-mobile-okp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/visana-calculator-mobile-okp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/visana-calculator-mobile-telmed.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/visana-calculator-mobile-telmed.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/visana-calculator-mobile-vvg.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/visana-calculator-mobile-vvg.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/visana-calculator-handmockup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/visana-calculator-handmockup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/visana-calculator-desktop-01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/visana-calculator-desktop-01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/visana-calculator-desktop-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/visana-calculator-desktop-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/visana-calculator-keyvisual-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/visana-calculator-keyvisual-1.jpg"
+    ]
+  ]
+}

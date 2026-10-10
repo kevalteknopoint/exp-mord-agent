@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/procurecon-marketing/",
+  "path": "dept/event/procurecon-marketing",
+  "timestamp": "2026-10-09T21:24:25.485Z",
+  "title": "ProcureCon Marketing - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/USA-PROCURECON-Event-header-1440x588-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/USA-PROCURECON-Event-header-1440x588-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/USA-PROCURECON-Pardot-form.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/USA-PROCURECON-Pardot-form.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/KC-Haiker.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/KC-Haiker.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Laura-tron.1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Laura-tron.1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Asher-wren-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Asher-wren-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Lou-Amodeo-Dept-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Lou-Amodeo-Dept-1-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/pragmatic-giude-ai.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/pragmatic-giude-ai.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ai-voice-search.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ai-voice-search.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Growth-Marketing-Survey-General-feature-image-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Growth-Marketing-Survey-General-feature-image-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/USA-PROCURECON-Pardot-form.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/USA-PROCURECON-Pardot-form.png"
+    ]
+  ]
+}

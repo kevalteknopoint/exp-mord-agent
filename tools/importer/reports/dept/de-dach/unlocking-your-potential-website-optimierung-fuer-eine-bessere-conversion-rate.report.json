@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/unlocking-your-potential-website-optimierung-fuer-eine-bessere-conversion-rate/",
+  "path": "dept/de-dach/unlocking-your-potential-website-optimierung-fuer-eine-bessere-conversion-rate",
+  "timestamp": "2026-10-09T22:54:35.998Z",
+  "title": "Website Optimierung für eine bessere Conversion Rate - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "industry-post-header",
+    "intro-text",
+    "wrapper",
+    "panel-with-rich-text",
+    "wrapper",
+    "client-panel",
+    "panel-partners",
+    "panel-whitepaper",
+    "wrapper",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/iStock-1224431379-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/iStock-1224431379-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bouygues_logo_white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bouygues_logo_white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Hochbahn_logo_white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Hochbahn_logo_white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Douglas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Douglas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/AMAG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/AMAG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/HM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/HM.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Google.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Google.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Electrolux_logo_white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Electrolux_logo_white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/About-You.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/About-You.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Patagonia.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Patagonia.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Weber.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Weber.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Canyon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Canyon.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Copy-of-fabian_kaiser-1069-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Copy-of-fabian_kaiser-1069-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/DEPT-UX-1-1-scaled.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/DEPT-UX-1-1-scaled.webp"
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/helping-a-century-old-sports-brand/",
+  "path": "dept/en-dk/case/helping-a-century-old-sports-brand",
+  "timestamp": "2026-10-09T14:26:28.165Z",
+  "title": "Refreshing a century-old brand for today's world - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/wilson-brand-identity.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/wilson-brand-identity.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/asher-wren-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/asher-wren-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/wilson-sportwear-man.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/wilson-sportwear-man.jpg"
+    ]
+  ]
+}

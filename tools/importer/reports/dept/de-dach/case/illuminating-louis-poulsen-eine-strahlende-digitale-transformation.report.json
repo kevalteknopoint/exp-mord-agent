@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/illuminating-louis-poulsen-eine-strahlende-digitale-transformation/",
+  "path": "dept/de-dach/case/illuminating-louis-poulsen-eine-strahlende-digitale-transformation",
+  "timestamp": "2026-10-09T11:04:53.940Z",
+  "title": "Illuminating Louis Poulsen: Eine strahlende digitale Transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/LouisPoulsen-spot3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/LouisPoulsen-spot3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/LouisPoulsen-spot6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/LouisPoulsen-spot6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/LouisPoulsen-spot7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/LouisPoulsen-spot7.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ]
+  ]
+}

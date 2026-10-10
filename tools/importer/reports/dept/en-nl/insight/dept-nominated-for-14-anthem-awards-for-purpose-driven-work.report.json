@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-nominated-for-14-anthem-awards-for-purpose-driven-work/",
+  "path": "dept/en-nl/insight/dept-nominated-for-14-anthem-awards-for-purpose-driven-work",
+  "timestamp": "2026-10-09T18:52:33.394Z",
+  "title": "DEPT® nominated for 14 Anthem Awards for purpose-driven work - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Blog-header-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Blog-header-500x300-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Blog-header-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Blog-header-500x300-1.jpg"
+    ]
+  ]
+}

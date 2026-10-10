@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/championing-entertainment-the-way-it-should-be/",
+  "path": "dept/en-nl/case/championing-entertainment-the-way-it-should-be",
+  "timestamp": "2026-10-09T17:53:53.941Z",
+  "title": "Championing entertainment the way it should be - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "video",
+    "case-intro",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "video",
+    "video",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Viz_stratslides-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Viz_stratslides-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Viz_mobile3up.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Viz_mobile3up.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Image-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Image-Full-bleed-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Vizio-Insight-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Vizio-Insight-500x300-1.png"
+    ]
+  ]
+}

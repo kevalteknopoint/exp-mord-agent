@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/revolutionising-skincare-with-a-seamless-digital-experience/",
+  "path": "dept/en-uki/case/revolutionising-skincare-with-a-seamless-digital-experience",
+  "timestamp": "2026-10-09T19:09:56.273Z",
+  "title": "Revolutionising skincare with a seamless digital experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-desktop-uxui.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-desktop-uxui.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-localization.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-localization.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-WebGL.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-WebGL.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-product-rendering.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-product-rendering.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-products.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-products.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-desktop-uxui.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-desktop-uxui.webp"
+    ]
+  ]
+}

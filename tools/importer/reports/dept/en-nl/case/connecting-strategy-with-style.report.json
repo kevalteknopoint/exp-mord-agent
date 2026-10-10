@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/connecting-strategy-with-style/",
+  "path": "dept/en-nl/case/connecting-strategy-with-style",
+  "timestamp": "2026-10-09T17:57:21.687Z",
+  "title": "Connecting strategy with style - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/HDFC-LTD-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/HDFC-LTD-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/traveling-adventure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/traveling-adventure.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy2.png"
+    ]
+  ]
+}

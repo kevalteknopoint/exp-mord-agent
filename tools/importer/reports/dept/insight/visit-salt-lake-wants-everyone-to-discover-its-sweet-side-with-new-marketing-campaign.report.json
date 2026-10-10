@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/visit-salt-lake-wants-everyone-to-discover-its-sweet-side-with-new-marketing-campaign/",
+  "path": "dept/insight/visit-salt-lake-wants-everyone-to-discover-its-sweet-side-with-new-marketing-campaign",
+  "timestamp": "2026-10-09T21:02:14.242Z",
+  "title": "Visit Salt Lake wants everyone to discover its sweet side with new marketing campaign   - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Salt-Lake-Insight-Featured-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Salt-Lake-Insight-Featured-1920x1080-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Salt-Lake-City-Family-picture-eating-icecream.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Salt-Lake-City-Family-picture-eating-icecream.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/epi_Logo_1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/epi_Logo_1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/influencer-creator.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/influencer-creator.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-shortlist.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-shortlist.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Salt-Lake-Insight-Featured-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Salt-Lake-Insight-Featured-1920x1080-2.png"
+    ]
+  ]
+}

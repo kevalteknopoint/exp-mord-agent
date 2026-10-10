@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/keeping-users-engaged-with-active-crm/",
+  "path": "dept/case/keeping-users-engaged-with-active-crm",
+  "timestamp": "2026-10-09T10:26:15.616Z",
+  "title": "Keeping users engaged with active CRM - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/artboard-5a.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/artboard-5a.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sophie.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sophie.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pelican-x-DEPT-Case-Study-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pelican-x-DEPT-Case-Study-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Gumtree.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Gumtree.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/het-grootste-interactieve-sinterklaasverhaal-van-nederland/",
+  "path": "dept/en-nl/case/het-grootste-interactieve-sinterklaasverhaal-van-nederland",
+  "timestamp": "2026-10-09T18:23:12.778Z",
+  "title": "Het grootste interactieve Sinterklaasverhaal van Nederland - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/kids-on-ipads.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/kids-on-ipads.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Image1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Image1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Image-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Image-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Image-4B.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Image-4B.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Franklin-Schamhart.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Franklin-Schamhart.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pathe_WOW_Student_Owned_2400x1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pathe_WOW_Student_Owned_2400x1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/schipol-airport.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/schipol-airport.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1016887284-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1016887284-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/kids-on-ipads.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/kids-on-ipads.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/how-think-about-shopping-experiences-non-binary-world/",
+  "path": "dept/en-in/insight/how-think-about-shopping-experiences-non-binary-world",
+  "timestamp": "2026-10-09T16:48:26.636Z",
+  "title": "How to think about shopping experiences in a non-binary world - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "quote",
+    "full-width-image",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/non-binary-shopper.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/non-binary-shopper.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/IMG_6081-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/IMG_6081-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/fashion-model.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/fashion-model.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/non-binary-shopper.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/non-binary-shopper.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/unisex-clothing-example.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/unisex-clothing-example.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/woman-in-jacket.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/woman-in-jacket.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/IMG_6081.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/IMG_6081.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/non-binary-shopper.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/non-binary-shopper.jpg"
+    ]
+  ]
+}

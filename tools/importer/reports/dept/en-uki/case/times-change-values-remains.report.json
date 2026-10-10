@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/times-change-values-remains/",
+  "path": "dept/en-uki/case/times-change-values-remains",
+  "timestamp": "2026-10-09T19:16:27.876Z",
+  "title": "Times change, values remains - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "statement",
+    "full-width-image",
+    "statement",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe7-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe7-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/render-3-edited-4x5-1024x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/render-3-edited-4x5-1024x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ]
+  ]
+}

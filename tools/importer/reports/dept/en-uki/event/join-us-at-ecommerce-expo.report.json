@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/join-us-at-ecommerce-expo/",
+  "path": "dept/en-uki/event/join-us-at-ecommerce-expo",
+  "timestamp": "2026-10-09T19:51:25.939Z",
+  "title": "Join us at eCommerce Expo - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/eCommerce-Expo-London-Landing-page-Only-Image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/eCommerce-Expo-London-Landing-page-Only-Image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Jonathan-Whiteside-Global-SVP-Technology.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Jonathan-Whiteside-Global-SVP-Technology.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Ben-Barton.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Ben-Barton.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Chloe-Harris.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Chloe-Harris.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/241101_ClaireDinhut_786_optimized_800.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/241101_ClaireDinhut_786_optimized_800.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Tim-de-Kamper-Dept-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Tim-de-Kamper-Dept-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/eCommerce-Expo-London-Landing-page-Only-Image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/eCommerce-Expo-London-Landing-page-Only-Image-1920x1080-1.png"
+    ]
+  ]
+}

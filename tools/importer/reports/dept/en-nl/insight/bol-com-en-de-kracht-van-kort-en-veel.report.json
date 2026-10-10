@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/bol-com-en-de-kracht-van-kort-en-veel/",
+  "path": "dept/en-nl/insight/bol-com-en-de-kracht-van-kort-en-veel",
+  "timestamp": "2026-10-09T17:13:16.950Z",
+  "title": "Bol.com en de kracht van kort en veel - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Screenshot-2019-03-29-at-13.34.12-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Screenshot-2019-03-29-at-13.34.12-1200x750-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rob-Voortman-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rob-Voortman-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rob-Voortman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rob-Voortman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Screenshot-2019-03-29-at-13.34.12-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Screenshot-2019-03-29-at-13.34.12-1200x750-c.png"
+    ]
+  ]
+}

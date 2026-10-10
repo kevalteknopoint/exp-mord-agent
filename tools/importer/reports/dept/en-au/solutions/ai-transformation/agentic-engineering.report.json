@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/solutions/ai-transformation/agentic-engineering/",
+  "path": "dept/en-au/solutions/ai-transformation/agentic-engineering",
+  "timestamp": "2026-10-09T14:30:37.035Z",
+  "title": "Agentic engineering services - DEPT®",
+  "template": "dept-solutions",
+  "locale": "en-au",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-statement",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/webby-winners-dept-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/webby-winners-dept-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-1.png"
+    ]
+  ]
+}

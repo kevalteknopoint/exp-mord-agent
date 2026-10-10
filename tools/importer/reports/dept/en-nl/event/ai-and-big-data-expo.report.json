@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/ai-and-big-data-expo/",
+  "path": "dept/en-nl/event/ai-and-big-data-expo",
+  "timestamp": "2026-10-09T23:42:53.339Z",
+  "title": "AI and Big Data Expo - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-header",
+    "event-register",
+    "title-and-content",
+    "cta-text",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/bob-briski.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/bob-briski.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg"
+    ]
+  ]
+}

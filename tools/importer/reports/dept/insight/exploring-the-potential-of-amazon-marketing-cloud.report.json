@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/exploring-the-potential-of-amazon-marketing-cloud/",
+  "path": "dept/insight/exploring-the-potential-of-amazon-marketing-cloud",
+  "timestamp": "2026-10-09T20:31:02.846Z",
+  "title": "Exploring the potential of Amazon Marketing Cloud [Interview with Amazon] - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/AMC_webinar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/AMC_webinar.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Alec-Burns-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Alec-Burns-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/AMC-Article-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/AMC-Article-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/AMC_webinar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/AMC_webinar.jpg"
+    ]
+  ]
+}

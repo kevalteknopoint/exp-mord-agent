@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/back-in-time-with-bijenkorf/",
+  "path": "dept/en-dk/case/back-in-time-with-bijenkorf",
+  "timestamp": "2026-10-09T13:55:49.441Z",
+  "title": "Back in time - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/De-Bijenkorf.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/De-Bijenkorf.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-6-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-6-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-54-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-54-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Franklin-Schamhart.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Franklin-Schamhart.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/bijenkorf-1440x810-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/bijenkorf-1440x810-c-1.jpeg"
+    ]
+  ]
+}

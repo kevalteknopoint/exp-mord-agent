@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/user-generated-contents-important-role-in-marketing/",
+  "path": "dept/insight/user-generated-contents-important-role-in-marketing",
+  "timestamp": "2026-10-09T21:00:55.844Z",
+  "title": "User-generated content’s important role in marketing - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "wrapper",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "video",
+    "title-and-content",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220407BlogFI_UGC.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220407BlogFI_UGC.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Jake-Favaro-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Jake-Favaro-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Jake-Favaro-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Jake-Favaro-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220407BlogFI_UGC.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220407BlogFI_UGC.jpeg"
+    ]
+  ]
+}

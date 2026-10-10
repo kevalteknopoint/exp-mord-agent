@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/navigating-uncertainty-four-ways-to-accelerate-digital-transformation/",
+  "path": "dept/en-uki/insight/navigating-uncertainty-four-ways-to-accelerate-digital-transformation",
+  "timestamp": "2026-10-09T20:09:30.363Z",
+  "title": "Navigating uncertainty: four ways to accelerate digital transformation - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/LTW-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/LTW-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/muuto-living-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/muuto-living-area-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/LTW-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/LTW-4.jpg"
+    ]
+  ]
+}

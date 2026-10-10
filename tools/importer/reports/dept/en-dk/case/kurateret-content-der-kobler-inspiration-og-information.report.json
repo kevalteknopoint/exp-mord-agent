@@ -1,0 +1,88 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/kurateret-content-der-kobler-inspiration-og-information/",
+  "path": "dept/en-dk/case/kurateret-content-der-kobler-inspiration-og-information",
+  "timestamp": "2026-10-09T14:31:13.339Z",
+  "title": "Kurateret content, der kobler inspiration og information - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/fritz-chair.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/fritz-chair.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Visual-Light-207.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Visual-Light-207.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Full-screen-UI-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Full-screen-UI-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/50-50-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/50-50-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Full-screen-UI-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Full-screen-UI-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Visual-Light-198.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Visual-Light-198.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Full-screen-UI-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Full-screen-UI-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/night-owl-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/night-owl-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bo-Bille.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bo-Bille.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Amazon-Prime-x-Without-Remorse-6-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Amazon-Prime-x-Without-Remorse-6-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Hero-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Hero-1024x576.png"
+    ]
+  ]
+}

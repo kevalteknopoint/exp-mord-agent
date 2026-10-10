@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/maximising-multilingual-paid-search-campaigns/",
+  "path": "dept/case/maximising-multilingual-paid-search-campaigns",
+  "timestamp": "2026-10-09T10:30:32.668Z",
+  "title": "Maximising multilingual paid search campaigns - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/SD_03_T28_1886M_Y0_X_EC_0.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/SD_03_T28_1886M_Y0_X_EC_0.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/SD_01_T59_5909_Y4_X_EC_0.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/SD_01_T59_5909_Y4_X_EC_0.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/9613_2tile1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/9613_2tile1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/9613_2tile2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/9613_2tile2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Christina-Hansen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Christina-Hansen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-peptide-booster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-peptide-booster.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ]
+  ]
+}

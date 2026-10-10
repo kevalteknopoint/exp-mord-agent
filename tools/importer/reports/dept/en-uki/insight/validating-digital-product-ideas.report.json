@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/validating-digital-product-ideas/",
+  "path": "dept/en-uki/insight/validating-digital-product-ideas",
+  "timestamp": "2026-10-09T19:30:21.941Z",
+  "title": "Validating digital product ideas: Navigating the journey from concept to creation - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "media-with-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/validating_product_ideas_feature-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/validating_product_ideas_feature-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/product-vision-meeting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/product-vision-meeting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/validating_product_ideas_feature-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/validating_product_ideas_feature-min.jpg"
+    ]
+  ]
+}

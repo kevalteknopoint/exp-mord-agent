@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-rapid-growth-of-amazon-ads-business/",
+  "path": "dept/insight/the-rapid-growth-of-amazon-ads-business",
+  "timestamp": "2026-10-09T22:05:19.870Z",
+  "title": "The Rapid Growth of Amazon Ads Business - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/rapid-growth-of-amazon-ads.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/rapid-growth-of-amazon-ads.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/amazon-ads-growth.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/amazon-ads-growth.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/rapid-growth-of-amazon-ads.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/rapid-growth-of-amazon-ads.webp"
+    ]
+  ]
+}

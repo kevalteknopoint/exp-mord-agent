@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/palfinger-reintroducing-a-global-brand-through-social-first-storytelling/",
+  "path": "dept/case/palfinger-reintroducing-a-global-brand-through-social-first-storytelling",
+  "timestamp": "2026-10-09T10:39:58.140Z",
+  "title": "Featured work: Reintroducing Palfinger through social-first storytelling - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger_Web-Header_v4.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger_Web-Header_v4.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger-1600x900-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger-Web-asset-1920x1080-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger-Web-asset-1920x1080-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1313751774-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1313751774-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger-1600x900-1.png"
+    ]
+  ]
+}

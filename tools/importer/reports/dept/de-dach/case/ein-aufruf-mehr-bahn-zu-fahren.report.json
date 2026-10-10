@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-aufruf-mehr-bahn-zu-fahren/",
+  "path": "dept/de-dach/case/ein-aufruf-mehr-bahn-zu-fahren",
+  "timestamp": "2026-10-09T11:40:37.741Z",
+  "title": "Ein Aufruf, mehr Bahn zu fahren - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline-hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline-Francis-and-Craig.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline-Francis-and-Craig.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline_500x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline_500x300.jpg"
+    ]
+  ]
+}

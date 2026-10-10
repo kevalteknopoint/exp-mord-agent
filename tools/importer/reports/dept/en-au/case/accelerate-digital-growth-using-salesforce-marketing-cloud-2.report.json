@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/accelerate-digital-growth-using-salesforce-marketing-cloud-2/",
+  "path": "dept/en-au/case/accelerate-digital-growth-using-salesforce-marketing-cloud-2",
+  "timestamp": "2026-10-09T12:23:06.068Z",
+  "title": "Accelerating digital growth using Salesforce Marketing Cloud - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-01-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-01-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-02-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-03-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-04-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-04-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-05-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-05-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nadine-Hendriks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nadine-Hendriks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Big-Time-Insight-image-550x344-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Big-Time-Insight-image-550x344-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/eBay.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/eBay.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/header-1440x810-c-goldfinch-bio.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/header-1440x810-c-goldfinch-bio.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg"
+    ]
+  ]
+}

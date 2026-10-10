@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/downloads/explore-the-ada-dash-x-commercetools-integration/",
+  "path": "dept/en-au/downloads/explore-the-ada-dash-x-commercetools-integration",
+  "timestamp": "2026-10-09T12:46:24.578Z",
+  "title": "Explore the ADA/DASH x commercetools integration - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-au",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/glowing-skin-orange.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/glowing-skin-orange.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/glowing-skin-orange.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/glowing-skin-orange.png"
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/prepare-to-pioneer-confirm/",
+  "path": "dept/en-uki/prepare-to-pioneer-confirm",
+  "timestamp": "2026-10-09T19:46:43.384Z",
+  "title": "Prepare to Pioneer - DEPT®",
+  "template": "dept-page",
+  "locale": "en-uki",
+  "components": [
+    "image",
+    "routing-banner"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT-prepare-pioneer-event.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT-prepare-pioneer-event.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

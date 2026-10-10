@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/inviting-the-world-to-stop-and-melt-with-pizza-hut/",
+  "path": "dept/en-au/case/inviting-the-world-to-stop-and-melt-with-pizza-hut",
+  "timestamp": "2026-10-09T12:10:41.960Z",
+  "title": "Inviting the world to stop and melt with Pizza Hut - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/man-biting-into-slice-of-pizza.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/man-biting-into-slice-of-pizza.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/pizza-hut-melts.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/pizza-hut-melts.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/VIA-outlets.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/VIA-outlets.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/pasos-hacia-el-progreso-empoderando-a-las-mujeres-en-europa-del-este/",
+  "path": "dept/latam/case/pasos-hacia-el-progreso-empoderando-a-las-mujeres-en-europa-del-este",
+  "timestamp": "2026-10-09T21:40:38.239Z",
+  "title": "Empoderando mujeres en Europa del Este con Johnnie Walker - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-1-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-1-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_6_Overview-mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_6_Overview-mobile-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/grilld-app-recognised-in-australias-good-design-awards/",
+  "path": "dept/insight/grilld-app-recognised-in-australias-good-design-awards",
+  "timestamp": "2026-10-09T20:45:04.173Z",
+  "title": "Grill’d app recognized in Australia’s Good Design Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png"
+    ]
+  ]
+}

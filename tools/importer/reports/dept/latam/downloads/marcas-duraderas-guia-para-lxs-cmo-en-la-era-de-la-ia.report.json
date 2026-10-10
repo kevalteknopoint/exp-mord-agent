@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/downloads/marcas-duraderas-guia-para-lxs-cmo-en-la-era-de-la-ia/",
+  "path": "dept/latam/downloads/marcas-duraderas-guia-para-lxs-cmo-en-la-era-de-la-ia",
+  "timestamp": "2026-10-09T23:46:33.592Z",
+  "title": "Guía de Marcas Duraderas para lxs CMO en la era de la IA - DEPT®",
+  "template": "dept-downloads",
+  "locale": "latam",
+  "components": [
+    "whitepaper-intro",
+    "assets-and-copy",
+    "case-quote",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/DurableBrandsLATAM.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/DurableBrandsLATAM.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/thumbs-up-on-wall-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/thumbs-up-on-wall-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/DurableBrandsLATAM.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/DurableBrandsLATAM.jpg"
+    ]
+  ]
+}

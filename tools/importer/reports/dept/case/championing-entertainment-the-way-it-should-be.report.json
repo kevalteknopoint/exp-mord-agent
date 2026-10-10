@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/championing-entertainment-the-way-it-should-be/",
+  "path": "dept/case/championing-entertainment-the-way-it-should-be",
+  "timestamp": "2026-10-09T10:23:12.046Z",
+  "title": "Championing entertainment the way it should be - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "video",
+    "case-intro",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "video",
+    "video",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Viz_stratslides-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Viz_stratslides-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Viz_mobile3up.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Viz_mobile3up.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Vizio-Insight-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Vizio-Insight-500x300-1.png"
+    ]
+  ]
+}

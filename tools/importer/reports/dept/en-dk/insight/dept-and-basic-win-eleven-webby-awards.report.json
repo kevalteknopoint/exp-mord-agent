@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/dept-and-basic-win-eleven-webby-awards/",
+  "path": "dept/en-dk/insight/dept-and-basic-win-eleven-webby-awards",
+  "timestamp": "2026-10-09T14:50:28.367Z",
+  "title": "DEPT® and BASIC® win eleven Webby Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/181026-Dept-Opening37-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/181026-Dept-Opening37-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/webby.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/webby.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/181026-Dept-Opening37-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/181026-Dept-Opening37-1.jpg"
+    ]
+  ]
+}

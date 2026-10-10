@@ -1,0 +1,22 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/partner/google-marketing-platform-reseller/",
+  "path": "dept/en-au/partner/google-marketing-platform-reseller",
+  "timestamp": "2026-10-09T18:06:22.440Z",
+  "title": "Google Marketing Platform Reseller - DEPT®",
+  "template": "dept-partner",
+  "locale": "en-au",
+  "components": [
+    "partner-post-header",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Google-marketing-platform-320x200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Google-marketing-platform-320x200-1.png"
+    ]
+  ]
+}

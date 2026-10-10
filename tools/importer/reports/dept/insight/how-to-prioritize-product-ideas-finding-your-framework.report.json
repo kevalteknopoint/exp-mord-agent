@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-prioritize-product-ideas-finding-your-framework/",
+  "path": "dept/insight/how-to-prioritize-product-ideas-finding-your-framework",
+  "timestamp": "2026-10-09T22:16:13.249Z",
+  "title": "How to prioritize product ideas: Finding your framework - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "media-with-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/How-to-prioritise-product-ideas-feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/How-to-prioritise-product-ideas-feature.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Josh_Porter-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Josh_Porter-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/product-vision-meeting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/product-vision-meeting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Josh_Porter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Josh_Porter.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/How-to-prioritise-product-ideas-feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/How-to-prioritise-product-ideas-feature.jpg"
+    ]
+  ]
+}

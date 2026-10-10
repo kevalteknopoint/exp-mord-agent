@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/careers/roles/",
+  "path": "dept/en-dk/careers/roles",
+  "timestamp": "2026-10-09T14:39:45.247Z",
+  "title": "Roles - DEPT®",
+  "template": "dept-careers",
+  "locale": "en-dk",
+  "components": [
+    "card-hero",
+    "wrapper"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/careers-header.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/careers-header.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-8.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-8.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-5.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-5.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-14.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-14.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-24.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-24.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-25.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-25.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

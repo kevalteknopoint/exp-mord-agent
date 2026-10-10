@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/wie-nivea-das-digitale-wachstum-mit-salesforce-marketing-cloud-beschleunigt/",
+  "path": "dept/de-dach/case/wie-nivea-das-digitale-wachstum-mit-salesforce-marketing-cloud-beschleunigt",
+  "timestamp": "2026-10-09T11:27:28.666Z",
+  "title": "Das digitale Wachstum mit Salesforce - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/highlights-neu-von-nivea.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/highlights-neu-von-nivea.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-02-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-05-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-05-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/ExLibris-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/ExLibris-Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg"
+    ]
+  ]
+}

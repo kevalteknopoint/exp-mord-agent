@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-is-a-salesforce-net-zero-cloud-partner/",
+  "path": "dept/en-nl/insight/dept-is-a-salesforce-net-zero-cloud-partner",
+  "timestamp": "2026-10-09T23:49:28.278Z",
+  "title": "DEPT® is a Salesforce Net Zero Cloud Partner - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-insight",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Salesforce-Image-2-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Salesforce-Image-2-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Salesforce-Image-2-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Salesforce-Image-2-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/10-perspectives-on-AI-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/10-perspectives-on-AI-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Salesforce-Image-2-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Salesforce-Image-2-500x300-1.png"
+    ]
+  ]
+}

@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/case/fueling-beauty-ambitions-from-zero-to-hero/",
   "path": "dept/en-au/case/fueling-beauty-ambitions-from-zero-to-hero",
-  "timestamp": "2026-10-08T15:15:04.098Z",
+  "timestamp": "2026-10-09T09:56:57.669Z",
   "title": "ghd (Good Hair Day): Amazon Advertising strategy",
   "template": "dept-case",
   "locale": "en-au",
@@ -12,13 +12,11 @@
     "case-intro",
     "assets-and-copy",
     "assets-and-copy",
+    "assets-and-copy",
     "stats-and-copy",
     "next-case"
   ],
-  "fallback": [
-    "case-intro-title",
-    "case-intro"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
@@ -33,8 +31,8 @@
       "/content/dam/exp-mord-agent/dept/uploads/2023/04/woman-lounging-ghd.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg"
+      "https://www.dept.global/wp-content/uploads/2022/04/03-H-and-M-Virtual-showroom.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/03-H-and-M-Virtual-showroom.jpg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",

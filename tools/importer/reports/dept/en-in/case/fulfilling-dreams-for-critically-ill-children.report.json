@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/fulfilling-dreams-for-critically-ill-children/",
+  "path": "dept/en-in/case/fulfilling-dreams-for-critically-ill-children",
+  "timestamp": "2026-10-09T15:54:03.535Z",
+  "title": "Granting wishes for critically ill children - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/My-Wish-Humour.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/My-Wish-Humour.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/mywish-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/mywish-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/2208_MyWishApp_Content-Image_2362x1181_2_2023-07-04-040933_qjth_2affa0cc9bd0e6f0f628b534ae32a553-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/2208_MyWishApp_Content-Image_2362x1181_2_2023-07-04-040933_qjth_2affa0cc9bd0e6f0f628b534ae32a553-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/2307_MyWishApp_Launch-postOption-1B_2affa0cc9bd0e6f0f628b534ae32a553-e1696477042656.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/2307_MyWishApp_Launch-postOption-1B_2affa0cc9bd0e6f0f628b534ae32a553-e1696477042656.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/blurb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/blurb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg"
+    ]
+  ]
+}

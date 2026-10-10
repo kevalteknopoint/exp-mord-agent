@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/dem-journalismus-ein-gesicht-geben/",
+  "path": "dept/de-dach/case/dem-journalismus-ein-gesicht-geben",
+  "timestamp": "2026-10-09T11:31:50.299Z",
+  "title": "Dem Journalismus ein Gesicht geben - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Tamedia_h-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Tamedia_h-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2Tamedia_Orientation2_%C2%A9Tamedia_Photographer-Yves-Bachmann-1440x810-c-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2Tamedia_Orientation2_-Tamedia_Photographer-Yves-Bachmann-1440x810-c-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tamedia_Meine-Leidenschaft_Device-Mockup-scaled-1200x675-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tamedia_Meine-Leidenschaft_Device-Mockup-scaled-1200x675-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Suisa_Intro_01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Suisa_Intro_01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/trimtex_header-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/trimtex_header-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg"
+    ]
+  ]
+}

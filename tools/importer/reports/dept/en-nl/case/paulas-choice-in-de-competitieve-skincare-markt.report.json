@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/paulas-choice-in-de-competitieve-skincare-markt/",
+  "path": "dept/en-nl/case/paulas-choice-in-de-competitieve-skincare-markt",
+  "timestamp": "2026-10-09T17:13:02.249Z",
+  "title": "De kracht van YouTube in de competitieve skincare-markt - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Paulas-choice-q.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Paulas-choice-q.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Paulas-choice-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Paulas-choice-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Paulas-choice-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Paulas-choice-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Signs_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Signs_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/VIA-outlets.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/VIA-outlets.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Paulas-choice-q.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Paulas-choice-q.jpeg"
+    ]
+  ]
+}

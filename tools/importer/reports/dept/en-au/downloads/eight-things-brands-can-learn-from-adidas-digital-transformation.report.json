@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/downloads/eight-things-brands-can-learn-from-adidas-digital-transformation/",
+  "path": "dept/en-au/downloads/eight-things-brands-can-learn-from-adidas-digital-transformation",
+  "timestamp": "2026-10-09T12:46:11.738Z",
+  "title": "Eight things brands can learn from adidas' digital transformation - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-au",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Landing-Page-950x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Landing-Page-950x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Landing-Page-950x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Landing-Page-950x1080-1.png"
+    ]
+  ]
+}

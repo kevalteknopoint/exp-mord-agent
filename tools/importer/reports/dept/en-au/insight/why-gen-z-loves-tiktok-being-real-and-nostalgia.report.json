@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/why-gen-z-loves-tiktok-being-real-and-nostalgia/",
+  "path": "dept/en-au/insight/why-gen-z-loves-tiktok-being-real-and-nostalgia",
+  "timestamp": "2026-10-09T13:22:25.841Z",
+  "title": "Why Gen Z loves TikTok, being \"real,\" and nostalgia - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/why-gen-zers-love-tik-tok.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/why-gen-zers-love-tik-tok.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/why-gen-zers-love-tik-tok.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/why-gen-zers-love-tik-tok.jpg"
+    ]
+  ]
+}

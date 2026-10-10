@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/a-strategic-digital-transformation/",
+  "path": "dept/en-in/case/a-strategic-digital-transformation",
+  "timestamp": "2026-10-09T14:44:39.159Z",
+  "title": "A strategic, digital transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-16-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-16-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-04-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-04-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-06-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-06-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-08-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-08-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-10-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-10-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-14-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-14-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/8-Image-Full-bleed@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/8-Image-Full-bleed-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-16-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-16-1-scaled.jpg"
+    ]
+  ]
+}

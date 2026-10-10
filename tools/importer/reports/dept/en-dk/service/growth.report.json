@@ -1,0 +1,117 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/growth/",
+  "path": "dept/en-dk/service/growth",
+  "timestamp": "2026-10-09T23:20:24.340Z",
+  "title": "Growth marketing services | Growth marketing agency",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "service-post-header",
+    "title-and-content",
+    "cta-text",
+    "service-teaser",
+    "two-cards-and-content",
+    "client-panel",
+    "js-media-parallax",
+    "client-panel",
+    "highlighted-item-listing",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Growth-marketing-DEPT%C2%AE.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Growth-marketing-DEPT-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/jysk-lounge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/jysk-lounge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/billing_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/billing_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Template-Full-screen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Template-Full-screen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/JYSK.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/JYSK.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Royal-Copenhagen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Royal-Copenhagen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Netflix.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Netflix.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Smart.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Smart.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Patagonia.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Patagonia.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Ebay.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Ebay.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Asos.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Asos.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Magasin-du-Nord.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Magasin-du-Nord.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/cloudsoftwareImageLeft.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/cloudsoftwareImageLeft.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Amazon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Amazon.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-Meta-400x210-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-Meta-400x210-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/LinkedIn.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/LinkedIn.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Google.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Google.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Snapchat.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Snapchat.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Growth-marketing-DEPT%C2%AE.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Growth-marketing-DEPT-.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/the-foundation-for-a-worldwide-platform/",
+  "path": "dept/en-dk/case/the-foundation-for-a-worldwide-platform",
+  "timestamp": "2026-10-09T13:28:44.955Z",
+  "title": "The foundation for a worldwide platform - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/eriks-construction.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/eriks-construction.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Eriks_Case_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Eriks_Case_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Picture-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Picture-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Anthony-van-de-Veen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Anthony-van-de-Veen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-cover-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-cover-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/ERIKS-Featured-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/ERIKS-Featured-image-1.png"
+    ]
+  ]
+}

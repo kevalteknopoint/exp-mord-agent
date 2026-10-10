@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/ux-vs-seo-why-you-need-cohesion-across-teams/",
+  "path": "dept/en-dk/insight/ux-vs-seo-why-you-need-cohesion-across-teams",
+  "timestamp": "2026-10-09T15:19:42.740Z",
+  "title": "UX vs. SEO: Why you need cohesion across teams - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/5-ux-vs-seo-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/5-ux-vs-seo-FT.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Wes-Flippo-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Wes-Flippo-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Wes-Flippo-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Wes-Flippo-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/5-ux-vs-seo-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/5-ux-vs-seo-FT.jpeg"
+    ]
+  ]
+}

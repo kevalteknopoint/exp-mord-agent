@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/service/engineering/technology-strategy-architecture/architecture-sprints/",
+  "path": "dept/service/engineering/technology-strategy-architecture/architecture-sprints",
+  "timestamp": "2026-10-09T22:50:24.850Z",
+  "title": "Digital product development agency | End-to-end development - DEPT®",
+  "template": "dept-service",
+  "locale": "global",
+  "components": [
+    "title-block",
+    "image-and-fact",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/digital-product-development-mobile-app-uxui.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/digital-product-development-mobile-app-uxui.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/sesamestreetyourself-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/sesamestreetyourself-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Clair-case-study-asset-4.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Clair-case-study-asset-4.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/orange-sponge.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/orange-sponge.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ai-sprints-product-development.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ai-sprints-product-development.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/stig-photo-for-full-width-min_upscaled-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/stig-photo-for-full-width-min_upscaled-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/digital-product-development-agency-dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/digital-product-development-agency-dept.jpg"
+    ]
+  ]
+}

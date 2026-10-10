@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/sire-bewustwording-creeren-in-een-weggooi-maatschappij/",
+  "path": "dept/en-nl/case/sire-bewustwording-creeren-in-een-weggooi-maatschappij",
+  "timestamp": "2026-10-09T17:25:17.460Z",
+  "title": "Bewustwording creëren in een weggooi-maatschappij - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "video",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/dan-cristian-padure-Y5dd6hLkn-8-unsplash-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/dan-cristian-padure-Y5dd6hLkn-8-unsplash-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Sire-8@1.5x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Sire-8-1.5x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Sire-11-FULL1.5x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Sire-11-FULL1.5x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Sire-13.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Sire-13.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nivea_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nivea_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/LME-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/LME-hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/sire_5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/sire_5.png"
+    ]
+  ]
+}

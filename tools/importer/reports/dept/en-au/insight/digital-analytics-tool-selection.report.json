@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/digital-analytics-tool-selection/",
+  "path": "dept/en-au/insight/digital-analytics-tool-selection",
+  "timestamp": "2026-10-09T22:59:59.798Z",
+  "title": "Digital Analytics - Tool Selection - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "image",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/lukas-blazek-mcSDtbWXUZU-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/lukas-blazek-mcSDtbWXUZU-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Grafik-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Grafik-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Grafik-14.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Grafik-14.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Grafik-17.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Grafik-17.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Grafik-23.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Grafik-23.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Grafik-11-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Grafik-11-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Grafik-15-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Grafik-15-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Grafik-22-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Grafik-22-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/lukas-blazek-mcSDtbWXUZU-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/lukas-blazek-mcSDtbWXUZU-unsplash-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/the-city-of-berlin-on-instagram/",
+  "path": "dept/en-in/case/the-city-of-berlin-on-instagram",
+  "timestamp": "2026-10-09T16:21:58.839Z",
+  "title": "The city of Berlin on Instagram - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176153061-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176153061-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-114-1-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-114-1-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1252393674-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1252393674-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-114-2-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-114-2-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Diana-Welte-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Diana-Welte-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Milla_johnnie-walker.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Milla_johnnie-walker.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Birla-Opus_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Birla-Opus_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-636008560-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-636008560-min-1-scaled.jpg"
+    ]
+  ]
+}

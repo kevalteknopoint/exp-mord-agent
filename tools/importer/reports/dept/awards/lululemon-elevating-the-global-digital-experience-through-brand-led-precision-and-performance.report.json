@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/lululemon-elevating-the-global-digital-experience-through-brand-led-precision-and-performance/",
+  "path": "dept/awards/lululemon-elevating-the-global-digital-experience-through-brand-led-precision-and-performance",
+  "timestamp": "2026-10-09T10:26:39.641Z",
+  "title": "Lululemon - Elevating the global digital experience through brand-led precision and performance - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "video",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/lululemon-model-pink.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/lululemon-model-pink.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Sleeping-Bag-Lululemon.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Sleeping-Bag-Lululemon.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Lululemon-model-brown-zip-up.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Lululemon-model-brown-zip-up.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Lululemon-WebbyWinner-PublicImage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Lululemon-WebbyWinner-PublicImage.webp"
+    ]
+  ]
+}

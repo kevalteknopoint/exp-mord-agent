@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/downloads/how-to-thrive-during-this-uncertain-holiday-season-2/",
+  "path": "dept/en-dk/downloads/how-to-thrive-during-this-uncertain-holiday-season-2",
+  "timestamp": "2026-10-09T13:43:09.649Z",
+  "title": "How to thrive during this uncertain holiday season - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-dk",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rectangle-383.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rectangle-383.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rectangle-383.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rectangle-383.png"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/building-future-ready-optimizely-solution/",
+  "path": "dept/en-in/case/building-future-ready-optimizely-solution",
+  "timestamp": "2026-10-09T14:58:25.838Z",
+  "title": "Building a future-ready Optimizely solution - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/solar-farm-on-building.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/solar-farm-on-building.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Bouygues_Case_02_startseite.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Bouygues_Case_02_startseite.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Bouygues_Case_01a.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Bouygues_Case_01a.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Hoxton_case_hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Hoxton_case_hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/bouygues.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/bouygues.jpg"
+    ]
+  ]
+}

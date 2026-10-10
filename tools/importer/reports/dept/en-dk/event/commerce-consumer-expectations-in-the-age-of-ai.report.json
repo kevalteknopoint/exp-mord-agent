@@ -1,0 +1,81 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/commerce-consumer-expectations-in-the-age-of-ai/",
+  "path": "dept/en-dk/event/commerce-consumer-expectations-in-the-age-of-ai",
+  "timestamp": "2026-10-09T18:39:31.701Z",
+  "title": "Commerce of the Future: Consumer Expectations in the Age of AI | Event",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "event-content-v2",
+    "assets-and-copy",
+    "event-program-v2",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Cop-Afternoon-Session-EventCover-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Cop-Afternoon-Session-EventCover-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Alina-Oleshchenko.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Alina-Oleshchenko.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Peter-Boris-Kreilgaard.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Peter-Boris-Kreilgaard.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Rasmus-Thau-Hogsted-Riddersholm.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Rasmus-Thau-Hogsted-Riddersholm.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Jakob-Wronding.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Jakob-Wronding.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Tim-de-Kamper.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Tim-de-Kamper.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Igor-Tolkachev-Shopify.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Igor-Tolkachev-Shopify.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Dennis-Nielsen-Dept-e1697200154225.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Dennis-Nielsen-Dept-e1697200154225.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Rasmus-Keller.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Rasmus-Keller.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Mark-van-den-Beij-Dept-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Mark-van-den-Beij-Dept-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Loyalty_Paradox_Featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Loyalty_Paradox_Featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Experience-path.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Experience-path.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/the-future-geo-port.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/the-future-geo-port.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Cop-Afternoon-Session-EventCover-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Cop-Afternoon-Session-EventCover-1920x1080-1.png"
+    ]
+  ]
+}

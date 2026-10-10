@@ -1,0 +1,104 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/partner/salesforce/",
+  "path": "dept/de-dach/partner/salesforce",
+  "timestamp": "2026-10-09T12:03:54.041Z",
+  "title": "Salesforce Summit Partner Agentur - DEPT®",
+  "template": "dept-partner",
+  "locale": "de-dach",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "stats-and-copy",
+    "event-content-v2",
+    "highlighted-logos",
+    "work-listing",
+    "points-table",
+    "work-listing",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Salesforce-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Salesforce-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Patagonia.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Patagonia.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Biersdorf.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Biersdorf.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Bissell.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Bissell.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Ricola.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Ricola.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nilfisk.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nilfisk.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Therabody.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Therabody.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Stokke.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Stokke.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Helzberg.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Helzberg.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Canyon.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Canyon.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Under-Armour.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Under-Armour.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-basketball.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Salesforce-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Salesforce-2.png"
+    ]
+  ]
+}

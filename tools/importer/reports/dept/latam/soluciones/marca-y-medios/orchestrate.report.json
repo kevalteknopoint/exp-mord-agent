@@ -1,0 +1,93 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/soluciones/marca-y-medios/orchestrate/",
+  "path": "dept/latam/soluciones/marca-y-medios/orchestrate",
+  "timestamp": "2026-10-09T22:33:11.241Z",
+  "title": "Plataforma de inteligencia Orchestrate - DEPT®",
+  "template": "dept-soluciones",
+  "locale": "latam",
+  "components": [
+    "title-block",
+    "image-and-fact",
+    "assets-and-copy",
+    "highlighted-statement",
+    "highlighted-logos",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/scale-up-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/scale-up-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/integrated-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/integrated-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/in-house-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/in-house-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Ebay-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Ebay-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Google-3.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Google-3.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/DoorDash-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/DoorDash-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Therabody-2.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Therabody-2.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Helzberg-Diamonds-2.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Helzberg-Diamonds-2.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Gant-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Gant-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Foot-Locker-2.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Foot-Locker-2.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Van-Gogh-Museum-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Van-Gogh-Museum-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Nordstrom-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Nordstrom-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/INTER-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/INTER-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/dept-orcestrate-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/dept-orcestrate-logo.png"
+    ]
+  ]
+}

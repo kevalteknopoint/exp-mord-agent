@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/digital-aber-richtig/",
+  "path": "dept/de-dach/case/digital-aber-richtig",
+  "timestamp": "2026-10-09T11:38:08.424Z",
+  "title": "Digital. Aber richtig - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Transa_case_image_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Transa_case_image_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Transa_case_image_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Transa_case_image_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Transa_case_image_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Transa_case_image_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Transa_case_image_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Transa_case_image_1.jpg"
+    ]
+  ]
+}

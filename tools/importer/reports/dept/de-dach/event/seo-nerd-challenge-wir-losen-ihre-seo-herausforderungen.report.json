@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/seo-nerd-challenge-wir-losen-ihre-seo-herausforderungen/",
+  "path": "dept/de-dach/event/seo-nerd-challenge-wir-losen-ihre-seo-herausforderungen",
+  "timestamp": "2026-10-09T11:06:56.290Z",
+  "title": "SEO Nerd Challenge – Wir lösen Ihre SEO-Herausforderungen - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/SEO-Nerd-Challenge_DEPT_Rico-Melzer_Sebastian-Adler_12-Juli-2022_Eventbanner.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/SEO-Nerd-Challenge_DEPT_Rico-Melzer_Sebastian-Adler_12-Juli-2022_Eventbanner.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Bildschirmfoto-2022-06-13-um-17.27.13-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Bildschirmfoto-2022-06-13-um-17.27.13-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Sebastian-Adler_SEO-Manager_Sparkassen-Finanzportal-GmbH_DEPT-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Sebastian-Adler_SEO-Manager_Sparkassen-Finanzportal-GmbH_DEPT-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/SEO-Nerd-Challenge_DEPT_Rico-Melzer_Sebastian-Adler_12-Juli-2022_Eventbanner.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/SEO-Nerd-Challenge_DEPT_Rico-Melzer_Sebastian-Adler_12-Juli-2022_Eventbanner.png"
+    ]
+  ]
+}

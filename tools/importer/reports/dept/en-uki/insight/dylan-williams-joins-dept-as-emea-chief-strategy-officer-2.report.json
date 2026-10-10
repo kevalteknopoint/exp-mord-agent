@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dylan-williams-joins-dept-as-emea-chief-strategy-officer-2/",
+  "path": "dept/en-uki/insight/dylan-williams-joins-dept-as-emea-chief-strategy-officer-2",
+  "timestamp": "2026-10-09T20:45:28.174Z",
+  "title": "Dylan Williams joins DEPT® as EMEA Chief Strategy Officer - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "case-quote",
+    "case-quote",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Insight-Dylan-Williams-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Insight-Dylan-Williams-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/ai-concept-swirls.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/ai-concept-swirls.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Stokke-Insight-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Stokke-Insight-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Mammut-Cliff-Insight-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Mammut-Cliff-Insight-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Insight-Dylan-Williams-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Insight-Dylan-Williams-1920x1080-1.png"
+    ]
+  ]
+}

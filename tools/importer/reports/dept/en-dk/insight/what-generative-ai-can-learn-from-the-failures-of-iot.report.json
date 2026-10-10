@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/what-generative-ai-can-learn-from-the-failures-of-iot/",
+  "path": "dept/en-dk/insight/what-generative-ai-can-learn-from-the-failures-of-iot",
+  "timestamp": "2026-10-09T15:20:54.579Z",
+  "title": "What generative AI can learn from the failures of IoT - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/generative-AI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/generative-AI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dennis-Nielsen-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dennis-Nielsen-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/How-to-integrate-generative-AI-into-existing-business-processes-500X300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/How-to-integrate-generative-AI-into-existing-business-processes-500X300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ai-voice-search.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ai-voice-search.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-metal-closeup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-metal-closeup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dennis-Nielsen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dennis-Nielsen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/generative-AI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/generative-AI.jpg"
+    ]
+  ]
+}

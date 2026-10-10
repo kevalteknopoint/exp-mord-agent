@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/achieving-a-super-fast-site-with-devops-optimisation-2/",
+  "path": "dept/case/achieving-a-super-fast-site-with-devops-optimisation-2",
+  "timestamp": "2026-10-09T10:53:00.939Z",
+  "title": "Achieving a super-fast site with DevOps optimisation - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Rectangle-489.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Rectangle-489.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-5-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-5-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-1-min.jpg"
+    ]
+  ]
+}

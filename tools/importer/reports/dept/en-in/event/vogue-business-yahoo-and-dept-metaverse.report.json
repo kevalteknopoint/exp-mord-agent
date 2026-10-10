@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/vogue-business-yahoo-and-dept-metaverse/",
+  "path": "dept/en-in/event/vogue-business-yahoo-and-dept-metaverse",
+  "timestamp": "2026-10-09T15:55:23.363Z",
+  "title": "Vogue Business, Yahoo and DEPT® Metaverse experience - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Landing-Page-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Landing-Page-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/trexler-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/trexler-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Joanna-Lambert-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Joanna-Lambert-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/MaghanMcDowellheadshotnew-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/MaghanMcDowellheadshotnew-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/mendelsohn-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/mendelsohn-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Nigel--150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Nigel--150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/129688375_1524239617765384_8923188688535691335_n-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/129688375_1524239617765384_8923188688535691335_n-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Landing-Page-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Landing-Page-1.png"
+    ]
+  ]
+}

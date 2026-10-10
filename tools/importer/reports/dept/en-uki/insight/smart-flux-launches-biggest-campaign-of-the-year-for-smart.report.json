@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-uki/insight/smart-flux-launches-biggest-campaign-of-the-year-for-smart/",
   "path": "dept/en-uki/insight/smart-flux-launches-biggest-campaign-of-the-year-for-smart",
-  "timestamp": "2026-10-08T14:59:54.011Z",
+  "timestamp": "2026-10-09T09:48:38.640Z",
   "title": "DEPT® launches biggest campaign of the year for smart - DEPT®",
   "template": "dept-insight",
   "locale": "en-uki",
@@ -16,10 +16,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "image",
-    "video"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/10/smart-PR-landing-page-min.jpg",

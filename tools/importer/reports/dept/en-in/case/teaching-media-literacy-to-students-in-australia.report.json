@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/teaching-media-literacy-to-students-in-australia/",
+  "path": "dept/en-in/case/teaching-media-literacy-to-students-in-australia",
+  "timestamp": "2026-10-09T16:21:30.836Z",
+  "title": "Teaching media literacy to students in Australia - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/AMF-%E2%80%93-Media-Lieracy-Lab-_-Summary-Image-%E2%80%93-V2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/AMF---Media-Lieracy-Lab-_-Summary-Image---V2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/AMF-%E2%80%93-Media-Lieracy-Lab-_-Summary-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/AMF---Media-Lieracy-Lab-_-Summary-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/media-lit-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/media-lit-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otravo_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otravo_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/samsung_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/samsung_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/AMF-%E2%80%93-Media-Lieracy-Lab-_-Summary-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/AMF---Media-Lieracy-Lab-_-Summary-Image.png"
+    ]
+  ]
+}

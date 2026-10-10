@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/freitag-f-cut-twice-in-a-lifetime/",
+  "path": "dept/de-dach/insight/freitag-f-cut-twice-in-a-lifetime",
+  "timestamp": "2026-10-09T12:03:51.886Z",
+  "title": "FREITAG F-Cut, twice in a lifetime - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "video",
+    "title-and-content",
+    "image",
+    "typography",
+    "title-and-content",
+    "image",
+    "typography",
+    "title-and-content",
+    "image",
+    "typography",
+    "title-and-content",
+    "image",
+    "typography",
+    "title-and-content",
+    "image",
+    "typography",
+    "title-and-content",
+    "video",
+    "typography",
+    "title-and-content",
+    "call-to-action",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT-20-Years-Option-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT-20-Years-Option-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Severin-Klaus-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Severin-Klaus-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Severin-Klaus.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Severin-Klaus.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT-20-Years-Option-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT-20-Years-Option-2-1.jpg"
+    ]
+  ]
+}

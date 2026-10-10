@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/navigating-the-cookieless-world/",
+  "path": "dept/en-uki/downloads/navigating-the-cookieless-world",
+  "timestamp": "2026-10-09T19:36:56.459Z",
+  "title": "Navigating the cookieless world - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Landing-Page-Cookieless-world-whitepaper.png"
+    ]
+  ]
+}

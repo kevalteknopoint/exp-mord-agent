@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/warum-die-gen-z-tiktok-being-real-und-nostalgie-liebt/",
+  "path": "dept/de-dach/insight/warum-die-gen-z-tiktok-being-real-und-nostalgie-liebt",
+  "timestamp": "2026-10-09T11:52:14.796Z",
+  "title": "Warum die Gen Z TikTok, ‘being real’ und Nostalgie liebt - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/why-gen-zers-love-tik-tok.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/why-gen-zers-love-tik-tok.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/why-gen-zers-love-tik-tok.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/why-gen-zers-love-tik-tok.jpg"
+    ]
+  ]
+}

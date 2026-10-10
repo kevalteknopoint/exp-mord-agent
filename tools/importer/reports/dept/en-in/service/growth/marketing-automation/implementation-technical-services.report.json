@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/marketing-automation/implementation-technical-services/",
+  "path": "dept/en-in/service/growth/marketing-automation/implementation-technical-services",
+  "timestamp": "2026-10-09T16:31:19.439Z",
+  "title": "Implementation & technical services - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Marketing-Automation_-Implementation-Technical-Services-320x200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Marketing-Automation_-Implementation-Technical-Services-320x200-1.png"
+    ]
+  ]
+}

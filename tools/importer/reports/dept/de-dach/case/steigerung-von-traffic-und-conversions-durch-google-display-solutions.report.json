@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/steigerung-von-traffic-und-conversions-durch-google-display-solutions/",
+  "path": "dept/de-dach/case/steigerung-von-traffic-und-conversions-durch-google-display-solutions",
+  "timestamp": "2026-10-09T11:21:20.180Z",
+  "title": "Steigerung von Traffic und Conversions durch Google Display Solutions - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/pexels-ngo%CC%82-tro%CC%A3ng-an-1717767-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/pexels-ngo--tro-ng-an-1717767-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Luc-Suter-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Luc-Suter-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ghd-case-image-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/pexels-ngo%CC%82-tro%CC%A3ng-an-1717767-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/pexels-ngo--tro-ng-an-1717767-scaled.jpg"
+    ]
+  ]
+}

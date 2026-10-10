@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/loyalty-orchestrated-building-crm-systems-ready-for-the-age-of-personal-ai/",
+  "path": "dept/insight/loyalty-orchestrated-building-crm-systems-ready-for-the-age-of-personal-ai",
+  "timestamp": "2026-10-09T22:38:52.273Z",
+  "title": "Loyalty, orchestrated: Building CRM systems ready for the age of personal AI - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/crm-systems-ai-loyalty.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/crm-systems-ai-loyalty.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/JM-Marino-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/JM-Marino-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Website-slideshow_16x9_WEB_v3_REMAP-2.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Website-slideshow_16x9_WEB_v3_REMAP-2.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/crm-systems-ai-loyalty.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/crm-systems-ai-loyalty.webp"
+    ]
+  ]
+}

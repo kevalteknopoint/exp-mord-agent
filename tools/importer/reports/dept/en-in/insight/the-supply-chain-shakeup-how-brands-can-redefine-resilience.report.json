@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/the-supply-chain-shakeup-how-brands-can-redefine-resilience/",
+  "path": "dept/en-in/insight/the-supply-chain-shakeup-how-brands-can-redefine-resilience",
+  "timestamp": "2026-10-09T16:52:16.678Z",
+  "title": "The supply chain shakeup: how brands can redefine resilience - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/tariffs-metal.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/tariffs-metal.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Andrew-Dimitriou-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Andrew-Dimitriou-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-LP.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-LP.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-Insight-Featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-Insight-Featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-Insight-Featured-1080x1350-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-Insight-Featured-1080x1350-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/tariffs-metal.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/tariffs-metal.webp"
+    ]
+  ]
+}

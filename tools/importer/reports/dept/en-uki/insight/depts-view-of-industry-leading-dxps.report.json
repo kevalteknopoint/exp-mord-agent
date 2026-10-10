@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/depts-view-of-industry-leading-dxps/",
+  "path": "dept/en-uki/insight/depts-view-of-industry-leading-dxps",
+  "timestamp": "2026-10-09T20:43:24.140Z",
+  "title": "DEPT®’s view of industry leading DXPs - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "call-to-action",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "jumbotron",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/sbcIJs6w.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/sbcIJs6w.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Phil-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Phil-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/sbcIJs6w.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/sbcIJs6w.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Landing-Page-950x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Landing-Page-950x1080-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Phil-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Phil-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/sbcIJs6w.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/sbcIJs6w.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-future-of-paid-social-whats-trending-in-media/",
+  "path": "dept/insight/the-future-of-paid-social-whats-trending-in-media",
+  "timestamp": "2026-10-09T21:59:24.372Z",
+  "title": "The future of paid social: What’s trending in media - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220907_BlFI_TheFutureOfPaidSocial.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220907_BlFI_TheFutureOfPaidSocial.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220907_BlFI_TheFutureOfPaidSocial.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220907_BlFI_TheFutureOfPaidSocial.jpeg"
+    ]
+  ]
+}

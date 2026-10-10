@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/downloads/pragmatic-guide-to-the-metaverse-technology-components/",
+  "path": "dept/en-in/downloads/pragmatic-guide-to-the-metaverse-technology-components",
+  "timestamp": "2026-10-09T15:43:30.138Z",
+  "title": "Pragmatic guide to the metaverse - technology & components - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-in",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/pragmatic-guide-to-metaverse-background.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/pragmatic-guide-to-metaverse-background.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/pragmatic-guide-metaverse-cover-1024x726.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/pragmatic-guide-metaverse-cover-1024x726.png"
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/all-whitepapers/",
+  "path": "dept/en-in/all-whitepapers",
+  "timestamp": "2026-10-09T23:23:34.967Z",
+  "title": "All Whitepapers - DEPT®",
+  "template": "dept-page",
+  "locale": "en-in",
+  "components": [
+    "filterable-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/green-and-orange-plastic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/green-and-orange-plastic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Impact-Report-2023-Insight-image-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Impact-Report-2023-Insight-image-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/bfsi-data-ai-innovation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/bfsi-data-ai-innovation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-LP-phrase-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-LP-phrase-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Trends2026_HeroImage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Trends2026_HeroImage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/ai-transformation-trends-technology-report.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/ai-transformation-trends-technology-report.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/successfully-scaling-into-new-markets-and-marketplaces/",
+  "path": "dept/en-au/case/successfully-scaling-into-new-markets-and-marketplaces",
+  "timestamp": "2026-10-09T12:30:56.341Z",
+  "title": "Successfully scaling into new markets and marketplaces  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Discovery01-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Discovery01-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/APS-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/APS-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Motion01-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Motion01-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/8-Image-Full-bleed@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/8-Image-Full-bleed-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/APS_mood.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/APS_mood.jpg"
+    ]
+  ]
+}

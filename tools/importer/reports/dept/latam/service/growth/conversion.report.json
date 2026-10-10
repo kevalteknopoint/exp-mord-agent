@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/growth/conversion/",
+  "path": "dept/latam/service/growth/conversion",
+  "timestamp": "2026-10-09T22:30:35.449Z",
+  "title": "Conversión - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-abstract.jpg"
+    ]
+  ]
+}

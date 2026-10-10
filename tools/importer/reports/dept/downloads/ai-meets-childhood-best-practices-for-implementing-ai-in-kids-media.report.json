@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/ai-meets-childhood-best-practices-for-implementing-ai-in-kids-media/",
+  "path": "dept/downloads/ai-meets-childhood-best-practices-for-implementing-ai-in-kids-media",
+  "timestamp": "2026-10-09T11:34:20.878Z",
+  "title": "AI meets childhood: Best practices for implementing AI in kids' media: Download the longread | DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/AI-meets-childhood-Featured-Image-500x344-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/AI-meets-childhood-Featured-Image-500x344-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/AI-meets-childhood-Featured-Image-500x344-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/AI-meets-childhood-Featured-Image-500x344-1.png"
+    ]
+  ]
+}

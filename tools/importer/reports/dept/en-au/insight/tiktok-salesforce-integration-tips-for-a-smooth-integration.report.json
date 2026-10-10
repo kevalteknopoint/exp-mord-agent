@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/tiktok-salesforce-integration-tips-for-a-smooth-integration/",
+  "path": "dept/en-au/insight/tiktok-salesforce-integration-tips-for-a-smooth-integration",
+  "timestamp": "2026-10-09T13:10:24.339Z",
+  "title": "TikTok & Salesforce integration: Tips for a smooth integration  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Tiktok-shopping.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Tiktok-shopping.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/steve-holsinger-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/steve-holsinger-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/steve-holsinger.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/steve-holsinger.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/tiktok-shopping-social.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/tiktok-shopping-social.jpg"
+    ]
+  ]
+}

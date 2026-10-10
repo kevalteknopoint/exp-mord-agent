@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/cro-pilot-uncovers-roi-potential-of-over-3000/",
+  "path": "dept/en-dk/case/cro-pilot-uncovers-roi-potential-of-over-3000",
+  "timestamp": "2026-10-09T14:13:25.461Z",
+  "title": "CRO pilot uncovers ROI potential of over 3000% - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Hero-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Hero-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Artboard-2-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Artboard-2-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Artboard-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Artboard-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Artboard-4-V3-kopi-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Artboard-4-V3-kopi-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/artboard-5a.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/artboard-5a.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/pr_tomorrowland.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/pr_tomorrowland.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/artboard-5a.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/artboard-5a.png"
+    ]
+  ]
+}

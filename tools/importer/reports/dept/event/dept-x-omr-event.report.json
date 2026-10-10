@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-x-omr-event/",
+  "path": "dept/event/dept-x-omr-event",
+  "timestamp": "2026-10-09T21:17:17.440Z",
+  "title": "Join DEPT® at OMR 2025 - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "event-content-v2",
+    "wrapper",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/OMR-LP-Header-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/OMR-LP-Header-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/OMR-LP-Header-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/OMR-LP-Header-1920x1080-1.png"
+    ]
+  ]
+}

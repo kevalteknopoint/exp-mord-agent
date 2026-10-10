@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/marketing-voor-machines-hoe-b2a-het-cmo-draaiboek-verandert/",
+  "path": "dept/en-nl/event/marketing-voor-machines-hoe-b2a-het-cmo-draaiboek-verandert",
+  "timestamp": "2026-10-09T16:50:05.570Z",
+  "title": "Marketing voor Machines: hoe B2A het CMO-draaiboek verandert - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-intro",
+    "event-info",
+    "insight-cta",
+    "assets-and-copy",
+    "title-block-carousel",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Cannes-Lions-2026-Adformatie-2-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Cannes-Lions-2026-Adformatie-2-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Cannes-Lions-2026-Main-page-300x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Cannes-Lions-2026-Main-page-300x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Cannes-Caroussel1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Cannes-Caroussel1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Cannes-Caroussel2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Cannes-Caroussel2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Cannes-Caroussel3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Cannes-Caroussel3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Cannes-Caroussel4.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Cannes-Caroussel4.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Cannes-Caroussel5.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Cannes-Caroussel5.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Cannes-Caroussel6.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Cannes-Caroussel6.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Cannes-Caroussel7.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Cannes-Caroussel7.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Cannes-Lions-2026-Banner-3-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Cannes-Lions-2026-Banner-3-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Cannes-Lions-2026-Adformatie-2-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Cannes-Lions-2026-Adformatie-2-1920x1080-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/mas-alla-del-codigo-tecnologia-e-interseccionalidad/",
+  "path": "dept/event/mas-alla-del-codigo-tecnologia-e-interseccionalidad",
+  "timestamp": "2026-10-09T21:23:46.135Z",
+  "title": "DEPT® | Growth Invention | Tech & Marketing",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "scrolly-video-intro",
+    "statement-v2",
+    "assets-and-copy",
+    "talking-points",
+    "work-listing",
+    "assets-and-copy",
+    "title-with-cta",
+    "image-and-fact",
+    "feature-turntable",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Deptify-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Deptify-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Growth-Invention-Flywheel-365x206-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Growth-Invention-Flywheel-365x206-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-the-Customer-Journey-365x206-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-the-Customer-Journey-365x206-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-work-365x206-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-work-365x206-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-engineering-365x206-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-engineering-365x206-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Solution-1-1920x1080-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Solution-1-1920x1080-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Solution-2-1920x1080-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Solution-2-1920x1080-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Solution-3-1920x1080-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Solution-3-1920x1080-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Solution-4-1920x1080-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Solution-4-1920x1080-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Solution-5-1920x1080-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Solution-5-1920x1080-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/BCORP-culture-carousel.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/BCORP-culture-carousel.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Awards-culture-carousel.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Awards-culture-carousel.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/AI-Native-culture-carousel.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/AI-Native-culture-carousel.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Hard-work-culture-carousel.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Hard-work-culture-carousel.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/from-an-external-e-commerce-model-to-an-in-house-platform/",
+  "path": "dept/en-au/case/from-an-external-e-commerce-model-to-an-in-house-platform",
+  "timestamp": "2026-10-09T13:02:18.539Z",
+  "title": "From an external e-commerce model to an in-house platform - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/smart_DATA_case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/smart_DATA_case.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Barilla-Pesto-Week-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Barilla-Pesto-Week-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Otrium-02-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Otrium-02-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tom-Tailor-first-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tom-Tailor-first-1.png"
+    ]
+  ]
+}

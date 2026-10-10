@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/ass-im-aermel-eine-e-commerce-experience-fuer-cartamundi/",
+  "path": "dept/case/ass-im-aermel-eine-e-commerce-experience-fuer-cartamundi",
+  "timestamp": "2026-10-09T10:04:37.475Z",
+  "title": "Eine E-Commerce-Experience für Cartamundi - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "intro-text",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "image",
+    "quote",
+    "cta-text",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/bicyclecards-Stargazer-Bundle.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/bicyclecards-Stargazer-Bundle.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/bicyclecards-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/bicyclecards-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicyclecards-World-of-Warcraft.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicyclecards-World-of-Warcraft.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Philips-multigroomer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Philips-multigroomer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/omnichannel-erlebnisse-mit-der-salesforce-commerce-cloud-schaffen/",
+  "path": "dept/de-dach/downloads/omnichannel-erlebnisse-mit-der-salesforce-commerce-cloud-schaffen",
+  "timestamp": "2026-10-09T10:53:03.860Z",
+  "title": "Omnichannel-Erlebnisse mit der Salesforce Commerce Cloud schaffen - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/bottles-in-green-plastic-bag.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/bottles-in-green-plastic-bag.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/bottles-in-green-plastic-bag.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/bottles-in-green-plastic-bag.png"
+    ]
+  ]
+}

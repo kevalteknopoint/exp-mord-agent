@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/revolutionizing-peer-to-peer-storage-through-bilingual-3d-website-experience/",
+  "path": "dept/case/revolutionizing-peer-to-peer-storage-through-bilingual-3d-website-experience",
+  "timestamp": "2026-10-09T10:49:03.042Z",
+  "title": "Revolutionizing peer-to-peer storage through bilingual 3D website experience - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/filecoin-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/filecoin-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/filecoin-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/filecoin-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/cowboy-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/cowboy-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ultraschnelle-shop-performance-mit-spryker/",
+  "path": "dept/de-dach/case/ultraschnelle-shop-performance-mit-spryker",
+  "timestamp": "2026-10-09T11:23:50.242Z",
+  "title": "Ultraschnelle Shop-Performance mit Spryker - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/sR_DeptCases_Featurebilder_Hardeck-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/sR_DeptCases_Featurebilder_Hardeck-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/ZHdK_Mobile-Screens.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/ZHdK_Mobile-Screens.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/modissa.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/modissa.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amag-Case-Visual-03.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amag-Case-Visual-03.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/sR_DeptCases_Vorschaubild_Hardeck-480x480-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/sR_DeptCases_Vorschaubild_Hardeck-480x480-1.jpg"
+    ]
+  ]
+}

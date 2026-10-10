@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/accelerating-innovation/",
+  "path": "dept/case/accelerating-innovation",
+  "timestamp": "2026-10-09T10:52:47.974Z",
+  "title": "Accelerating innovation - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Derek-Brady.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Derek-Brady.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Sibir-Header-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Sibir-Header-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/euronext1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/euronext1-scaled.jpg"
+    ]
+  ]
+}

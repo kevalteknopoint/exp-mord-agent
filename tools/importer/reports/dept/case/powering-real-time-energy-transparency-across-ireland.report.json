@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/powering-real-time-energy-transparency-across-ireland/",
+  "path": "dept/case/powering-real-time-energy-transparency-across-ireland",
+  "timestamp": "2026-10-09T10:41:23.187Z",
+  "title": "Powering real-time energy transparency across Ireland - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/EirGridCows.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/EirGridCows.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/EirGridkids.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/EirGridkids.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/electricity-grid.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/electricity-grid.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/EirGridCharts-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/EirGridCharts-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/EirGridCharts-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/EirGridCharts-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/EirGridCharts-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/EirGridCharts-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Untitled-design-7.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Untitled-design-7.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/EirGridCows.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/EirGridCows.jpg"
+    ]
+  ]
+}

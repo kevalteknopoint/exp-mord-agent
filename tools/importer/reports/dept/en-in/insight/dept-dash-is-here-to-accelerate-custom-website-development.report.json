@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-in/insight/dept-dash-is-here-to-accelerate-custom-website-development/",
   "path": "dept/en-in/insight/dept-dash-is-here-to-accelerate-custom-website-development",
-  "timestamp": "2026-10-08T16:16:01.319Z",
+  "timestamp": "2026-10-09T09:53:06.872Z",
   "title": "Accelerate custom website development with DASH - DEPT®",
   "template": "dept-insight",
   "locale": "en-in",
@@ -16,9 +16,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "client-panel"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/11/accelerate-website-development.jpg",
@@ -27,38 +25,6 @@
     [
       "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
       "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
-    ],
-    [
-      "https://www.dept.global/wp-content/uploads/2022/04/Contentful.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Contentful.png"
-    ],
-    [
-      "https://www.dept.global/wp-content/uploads/2023/01/4.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/01/4.png"
-    ],
-    [
-      "https://www.dept.global/wp-content/uploads/2023/01/9.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/01/9.png"
-    ],
-    [
-      "https://www.dept.global/wp-content/uploads/2023/01/1.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/01/1.png"
-    ],
-    [
-      "https://www.dept.global/wp-content/uploads/2023/01/3.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/01/3.png"
-    ],
-    [
-      "https://www.dept.global/wp-content/uploads/2023/01/8.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/01/8.png"
-    ],
-    [
-      "https://www.dept.global/wp-content/uploads/2023/01/5.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/01/5.png"
-    ],
-    [
-      "https://www.dept.global/wp-content/uploads/2023/01/6.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/01/6.png"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2022/04/Contentful.png",

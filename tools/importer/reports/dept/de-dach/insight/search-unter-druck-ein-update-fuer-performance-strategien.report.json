@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/search-unter-druck-ein-update-fuer-performance-strategien/",
+  "path": "dept/de-dach/insight/search-unter-druck-ein-update-fuer-performance-strategien",
+  "timestamp": "2026-10-09T11:43:43.223Z",
+  "title": "Search unter Druck – ein Update für Performance Strategien - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DEPT_CommerceWeek_Visual_Mo-Tapete-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DEPT_CommerceWeek_Visual_Mo-Tapete-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Grafiken_Commerce_Week_Seo_Sea.001-1200x675-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Grafiken_Commerce_Week_Seo_Sea.001-1200x675-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Grafiken_Commerce_Week_Seo_Sea.002-1200x675-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Grafiken_Commerce_Week_Seo_Sea.002-1200x675-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DEPT_CommerceWeek_Visual_Mo-Tapete-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DEPT_CommerceWeek_Visual_Mo-Tapete-1200x750-c.jpg"
+    ]
+  ]
+}

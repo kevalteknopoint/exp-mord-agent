@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/essence-celebrates-diversity-and-self-love-with-roblox-game/",
+  "path": "dept/de-dach/essence-celebrates-diversity-and-self-love-with-roblox-game",
+  "timestamp": "2026-10-09T10:55:27.340Z",
+  "title": "Beauty brand essence celebrates diversity and self-love with new roblox game - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "jumbotron",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/01_essence_Roblox-Game_Cover_Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/01_essence_Roblox-Game_Cover_Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/04_essence_Roblox-Game_Lash-Princess-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/04_essence_Roblox-Game_Lash-Princess-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/03_essence_Roblox-Game-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/03_essence_Roblox-Game-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/01_essence_Roblox-Game_Cover_Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/01_essence_Roblox-Game_Cover_Image.png"
+    ]
+  ]
+}

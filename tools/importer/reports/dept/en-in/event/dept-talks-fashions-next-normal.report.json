@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/dept-talks-fashions-next-normal/",
+  "path": "dept/en-in/event/dept-talks-fashions-next-normal",
+  "timestamp": "2026-10-09T15:49:20.446Z",
+  "title": "DEPT® Talks: Fashion’s next normal - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "event-details",
+    "full-width-image",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Angus-MacEwan-1-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Angus-MacEwan-1-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Headshot_2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Headshot_2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/John-Mooney.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/John-Mooney.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Josefine-Laigaard-GANNI-3-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Josefine-Laigaard-GANNI-3-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Cassandra-Russel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Cassandra-Russel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Screenshot-2021-10-20-at-19.02.28.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Screenshot-2021-10-20-at-19.02.28.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Tobias-Ring.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Tobias-Ring.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Andrew-Yanoscik.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Andrew-Yanoscik.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Fashions-next-normal-smaller.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Fashions-next-normal-smaller.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

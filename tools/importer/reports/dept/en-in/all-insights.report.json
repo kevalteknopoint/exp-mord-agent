@@ -1,0 +1,99 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/all-insights/",
+  "path": "dept/en-in/all-insights",
+  "timestamp": "2026-10-09T23:23:24.335Z",
+  "title": "All articles from DEPT® - Digital agency blog - DEPT®",
+  "template": "dept-page",
+  "locale": "en-in",
+  "components": [
+    "filterable-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Bigger-catalogs-or-better-conversations-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Bigger-catalogs-or-better-conversations-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/adobe-summit-value-vs-ai.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/adobe-summit-value-vs-ai.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/adobe-summit-preso2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/adobe-summit-preso2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/webby-winners-dept-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/webby-winners-dept-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Dimi-presenting-at-WFA-Forum-Mumbai.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Dimi-presenting-at-WFA-Forum-Mumbai.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1080X1350.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1080X1350.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Navigating-Indias-DPDP-Act-with-Privacy-by-Design-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Navigating-Indias-DPDP-Act-with-Privacy-by-Design-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/ChatGPT-Ads-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/ChatGPT-Ads-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Pilot-to-orchestration-feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Pilot-to-orchestration-feature.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/bfsi-trends-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/bfsi-trends-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/CRM-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/CRM-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/crm-systems-ai-loyalty.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/crm-systems-ai-loyalty.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/sbcIJs6w-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/sbcIJs6w-min.jpeg"
+    ]
+  ]
+}

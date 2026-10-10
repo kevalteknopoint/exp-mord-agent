@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/how-cybersecurity-can-enable-value-creation/",
+  "path": "dept/en-in/insight/how-cybersecurity-can-enable-value-creation",
+  "timestamp": "2026-10-09T16:40:07.749Z",
+  "title": "How cybersecurity can enable value creation - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wesley-Niels-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wesley-Niels-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/jefferson-santos-9SoCnyQmkzI-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/jefferson-santos-9SoCnyQmkzI-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wesley-Niels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wesley-Niels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/computer.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/motion-design-on-a-global-stage/",
+  "path": "dept/en-uki/case/motion-design-on-a-global-stage",
+  "timestamp": "2026-10-09T20:23:52.044Z",
+  "title": "Motion design on a global stage - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/render-3-edited-4x5-1024x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/render-3-edited-4x5-1024x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/20250130-demo-festival-tilburg-emmapassage-001-alex-heuvink-1024x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/20250130-demo-festival-tilburg-emmapassage-001-alex-heuvink-1024x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/3-compress-1024x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/3-compress-1024x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/20250130-demo-festival-rotterdam-alexandrium-010-alex-heuvink-1024x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/20250130-demo-festival-rotterdam-alexandrium-010-alex-heuvink-1024x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/demo-dusseldorf-ko-vision-innenstadt-richtung-konigsallee-072-1024x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/demo-dusseldorf-ko-vision-innenstadt-richtung-konigsallee-072-1024x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline_500x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline_500x300.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg"
+    ]
+  ]
+}

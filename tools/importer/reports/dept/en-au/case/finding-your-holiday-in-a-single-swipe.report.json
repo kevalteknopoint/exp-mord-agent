@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/finding-your-holiday-in-a-single-swipe/",
+  "path": "dept/en-au/case/finding-your-holiday-in-a-single-swipe",
+  "timestamp": "2026-10-09T13:01:14.934Z",
+  "title": "Finding your holiday in a single swipe - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "call-to-action",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jord-Wessels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jord-Wessels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plane-Holiday-1440x810-c-tui.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plane-Holiday-1440x810-c-tui.jpeg"
+    ]
+  ]
+}

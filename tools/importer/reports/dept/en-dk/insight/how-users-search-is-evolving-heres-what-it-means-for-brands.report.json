@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/how-users-search-is-evolving-heres-what-it-means-for-brands/",
+  "path": "dept/en-dk/insight/how-users-search-is-evolving-heres-what-it-means-for-brands",
+  "timestamp": "2026-10-09T15:36:11.442Z",
+  "title": "How users search is evolving: Here's what it means for brands",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ai-voice-search.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ai-voice-search.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dennis-Nielsen-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dennis-Nielsen-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/search-ecosystems.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/search-ecosystems.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ai-voice-search.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ai-voice-search.jpeg"
+    ]
+  ]
+}

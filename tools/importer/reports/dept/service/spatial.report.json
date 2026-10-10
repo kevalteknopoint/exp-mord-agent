@@ -1,0 +1,92 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/service/spatial/",
+  "path": "dept/service/spatial",
+  "timestamp": "2026-10-09T21:55:38.402Z",
+  "title": "Tech & data services - Consulting, tech & marketing agency - DEPT®",
+  "template": "dept-service",
+  "locale": "global",
+  "components": [
+    "title-block",
+    "image-and-fact",
+    "highlighted-statement",
+    "highlighted-logos",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-engineering-365x206-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-engineering-365x206-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Enterprise-architectures.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Enterprise-architectures.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Data-AI-governance-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Data-AI-governance-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Analytics-Business-Intelligence.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Analytics-Business-Intelligence.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Experience-product-engineering.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Experience-product-engineering.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Cloud-infrastructure.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Cloud-infrastructure.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/YouTube-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/YouTube-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Google-4.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Google-4.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Moodys-2.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Moodys-2.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/ASU-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/ASU-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/SimpliSafe-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/SimpliSafe-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Disney-3.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Disney-3.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Expedia-Group-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Expedia-Group-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Herman-Miller-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Herman-Miller-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ai-sprints-product-development.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ai-sprints-product-development.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ai-public-affair-tool.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ai-public-affair-tool.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CPD-CRM-DMP-Insight-1200x630-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CPD-CRM-DMP-Insight-1200x630-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Scale-Technology-and-Data-_-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Scale-Technology-and-Data-_-500x300-1.png"
+    ]
+  ]
+}

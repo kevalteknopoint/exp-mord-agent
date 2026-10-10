@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/adidas/",
+  "path": "dept/en-au/case/adidas",
+  "timestamp": "2026-10-09T12:23:52.435Z",
+  "title": "Responsive web design for a global player - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-522866588-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-522866588-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1151076499-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1151076499-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-109-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-109-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-110-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-110-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/render-3-edited-4x5-1024x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/render-3-edited-4x5-1024x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/TLC_feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/TLC_feature.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg"
+    ]
+  ]
+}

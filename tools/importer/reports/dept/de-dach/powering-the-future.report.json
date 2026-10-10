@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/powering-the-future/",
+  "path": "dept/de-dach/powering-the-future",
+  "timestamp": "2026-10-09T22:52:45.786Z",
+  "title": "Powering the Future - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "industry-post-header",
+    "intro-text",
+    "wrapper",
+    "wrapper",
+    "client-panel",
+    "panel-partners",
+    "panel-whitepaper",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Branchen_Elektro_LP-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Branchen_Elektro_LP-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/JBL.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/JBL.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Electrolux_logo_white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Electrolux_logo_white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Playstation.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Playstation.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Microsoft.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Microsoft.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Samsung.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Samsung.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Philips.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Philips.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/SteelSeries.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/SteelSeries.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Screenshot-2022-09-22-at-14.44.46.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Screenshot-2022-09-22-at-14.44.46.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Branchen_Elektro_LP-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Branchen_Elektro_LP-.jpg"
+    ]
+  ]
+}

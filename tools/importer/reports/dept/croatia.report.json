@@ -1,0 +1,128 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/croatia/",
+  "path": "dept/croatia",
+  "timestamp": "2026-10-09T11:19:12.856Z",
+  "title": "DEPT® – Croatia",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "cta-text",
+    "numbered-carousel",
+    "three-row-block",
+    "media-with-text",
+    "image-with-content-cards",
+    "six-block-content",
+    "client-panel",
+    "wrapper",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Impact-Virtual-Event-Landing-P-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Impact-Virtual-Event-Landing-P-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/1920x1080-Floewater.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/1920x1080-Floewater.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Demo-insight-500x300-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Demo-insight-500x300-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT-Fest-2022-Sat-651.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT-Fest-2022-Sat-651.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT-Fest-2022-Sat-42-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT-Fest-2022-Sat-42-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/branka-loncaric-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/branka-loncaric-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Ivan-Blazevic-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Ivan-Blazevic-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Group-1849-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Group-1849-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DSC01409-1-1-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DSC01409-1-1-1-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Adidas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Adidas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Nikon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Nikon.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Ebay.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Ebay.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/amazon-prime-video-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/amazon-prime-video-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Netflix.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Netflix.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Spotify.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Spotify.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Microsoft.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Microsoft.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Patagonia.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Patagonia.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Apple.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Apple.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-26.jpg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-26.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-28.jpg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-28.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-25.jpg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-25.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Meta-Festival_Whole-World.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Meta-Festival_Whole-World.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Events-Header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Events-Header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/The-One-Show-2023-featured-PT.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/The-One-Show-2023-featured-PT.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/branka.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/branka.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/DEPT-Interior-62-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/DEPT-Interior-62-1.jpg"
+    ]
+  ]
+}

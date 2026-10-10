@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/netflix-ernennt-dept-zur-lead-social-agentur-dach/",
+  "path": "dept/de-dach/insight/netflix-ernennt-dept-zur-lead-social-agentur-dach",
+  "timestamp": "2026-10-09T11:34:55.279Z",
+  "title": "Netflix ernennt DEPT® zur Lead Social Agentur DACH - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT%C2%AExNetflix.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-xNetflix.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT%C2%AExNetflix.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-xNetflix.jpg"
+    ]
+  ]
+}

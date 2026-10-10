@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-googles-circle-to-search-will-impact-brands/",
+  "path": "dept/insight/how-googles-circle-to-search-will-impact-brands",
+  "timestamp": "2026-10-09T20:53:42.567Z",
+  "title": "How Google’s Circle to Search will impact brands   - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/google-person-searching.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/google-person-searching.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/ramona-lutovska-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/ramona-lutovska-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/ramona-lutovska.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/ramona-lutovska.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/google-circle-to-search.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/google-circle-to-search.jpg"
+    ]
+  ]
+}

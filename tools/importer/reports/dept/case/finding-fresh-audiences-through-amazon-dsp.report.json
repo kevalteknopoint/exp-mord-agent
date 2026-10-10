@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/finding-fresh-audiences-through-amazon-dsp/",
+  "path": "dept/case/finding-fresh-audiences-through-amazon-dsp",
+  "timestamp": "2026-10-09T10:04:42.541Z",
+  "title": "Finding fresh audiences through Amazon DSP - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/BlueApronFeature.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/BlueApronFeature.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/BlueApronSpead-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/BlueApronSpead-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/808x1010-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/808x1010-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HM_htracism.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HM_htracism.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/BlueApronFeature.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/BlueApronFeature.png"
+    ]
+  ]
+}

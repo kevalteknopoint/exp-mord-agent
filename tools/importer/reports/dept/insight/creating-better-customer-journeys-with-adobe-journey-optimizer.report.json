@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/creating-better-customer-journeys-with-adobe-journey-optimizer/",
+  "path": "dept/insight/creating-better-customer-journeys-with-adobe-journey-optimizer",
+  "timestamp": "2026-10-09T20:49:27.835Z",
+  "title": "Creating better customer journeys with Adobe Journey Optimizer - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/creating-better-customer-journeys-adobe-optimizer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/creating-better-customer-journeys-adobe-optimizer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/annemiek-van-den-heuvel-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/annemiek-van-den-heuvel-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/aem-implementations.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/aem-implementations.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/creating-better-customer-journeys-adobe.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/creating-better-customer-journeys-adobe.jpg"
+    ]
+  ]
+}

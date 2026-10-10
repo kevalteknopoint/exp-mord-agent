@@ -1,0 +1,119 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/industry/servicios-publicos/",
+  "path": "dept/latam/industry/servicios-publicos",
+  "timestamp": "2026-10-09T23:40:42.862Z",
+  "title": "Agencia digital especializada en servicios públicos - DEPT®",
+  "template": "dept-industry",
+  "locale": "latam",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "event-content-v2",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/people-escalator.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/people-escalator.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/boabab-MultiScreen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/boabab-MultiScreen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Easy-Genomics-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Easy-Genomics-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Energy-data-screens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Energy-data-screens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/public-service-diverse.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/public-service-diverse.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Tony-Blair-Institute.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Tony-Blair-Institute.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/World-Health-Organisation.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/World-Health-Organisation.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/RIBA.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/RIBA.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Uisce-Eireann.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Uisce-Eireann.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gas-Networks-Irelandart.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gas-Networks-Irelandart.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/NREL.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/NREL.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Arizona-State-University.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Arizona-State-University.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Health-Services-Executive.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Health-Services-Executive.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Eiregrid.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Eiregrid.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Pathcheck-Foundation.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Pathcheck-Foundation.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/tony-blair-woman-sewing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/tony-blair-woman-sewing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/hvac-controls-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/hvac-controls-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/terra.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/terra.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ai-public-affair-tool.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ai-public-affair-tool.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/anthem-awards-hand-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/anthem-awards-hand-logo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/people-escalator.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/people-escalator.png"
+    ]
+  ]
+}

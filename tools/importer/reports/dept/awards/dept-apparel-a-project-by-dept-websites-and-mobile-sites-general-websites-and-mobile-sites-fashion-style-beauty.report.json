@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/dept-apparel-a-project-by-dept-websites-and-mobile-sites-general-websites-and-mobile-sites-fashion-style-beauty/",
+  "path": "dept/awards/dept-apparel-a-project-by-dept-websites-and-mobile-sites-general-websites-and-mobile-sites-fashion-style-beauty",
+  "timestamp": "2026-10-09T10:14:44.236Z",
+  "title": "DEPT APPAREL – A project by DEPT® - Fashion, Style & Beauty - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "video",
+    "panel-with-list",
+    "video",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "quote",
+    "image",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/02.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/05.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/05.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/04.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Danijel-Bonacic-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Danijel-Bonacic-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Kali-Healthcare-38-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Kali-Healthcare-38-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/bol-ai-gift-assistant.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/bol-ai-gift-assistant.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/02-1.png"
+    ]
+  ]
+}

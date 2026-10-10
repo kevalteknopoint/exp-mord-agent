@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/footsteps-of-progress-empowering-women-in-eastern-europe/",
+  "path": "dept/en-au/case/footsteps-of-progress-empowering-women-in-eastern-europe",
+  "timestamp": "2026-10-09T13:01:28.187Z",
+  "title": "Footsteps of Progress: Empowering women in Eastern Europe - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-1-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-1-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/birkenstock_featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/birkenstock_featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ]
+  ]
+}

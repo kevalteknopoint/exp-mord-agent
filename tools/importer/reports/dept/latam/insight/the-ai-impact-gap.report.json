@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/the-ai-impact-gap/",
+  "path": "dept/latam/insight/the-ai-impact-gap",
+  "timestamp": "2026-10-09T22:22:43.641Z",
+  "title": "La brecha de impacto de la IA: por qué la industria está incentivada a ignorar los números reales - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Roy-Armale_Headshot-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Roy-Armale_Headshot-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Real-vs-Expected-AI-Impact.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Real-vs-Expected-AI-Impact.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/GenAI-Vendor-Chart.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/GenAI-Vendor-Chart.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ]
+  ]
+}

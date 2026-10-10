@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/cloud-integration-to-support-global-growth-and-scale/",
+  "path": "dept/case/cloud-integration-to-support-global-growth-and-scale",
+  "timestamp": "2026-10-09T10:25:06.794Z",
+  "title": "Cloud integration to support global growth and scale - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/therabody-lifestyle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/therabody-lifestyle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/therabody-lifestyle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/therabody-lifestyle.jpg"
+    ]
+  ]
+}

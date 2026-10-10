@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/oneblade-one-of-a-kind/",
+  "path": "dept/en-nl/case/oneblade-one-of-a-kind",
+  "timestamp": "2026-10-09T17:11:13.939Z",
+  "title": "OneBlade, One of a Kind - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-Case.001-1-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-Case.001-1-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Joa%CC%83o-Ina%CC%81cio.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Joa-o-Ina-cio.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Philips-multigroomer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Philips-multigroomer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET-Project-Sundae-Featured-Profile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET-Project-Sundae-Featured-Profile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/KLM-1-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/KLM-1-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png"
+    ]
+  ]
+}

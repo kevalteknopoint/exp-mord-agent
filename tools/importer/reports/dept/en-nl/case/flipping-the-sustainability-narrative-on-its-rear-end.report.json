@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/flipping-the-sustainability-narrative-on-its-rear-end/",
+  "path": "dept/en-nl/case/flipping-the-sustainability-narrative-on-its-rear-end",
+  "timestamp": "2026-10-09T18:13:00.574Z",
+  "title": "Flipping the sustainability narrative on its (rear) end - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/4A.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/4A.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/ICBT_Social-asset_06.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/ICBT_Social-asset_06.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/ICBT-Key-Visual-7.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/ICBT-Key-Visual-7.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Trainline_Featured_16_9.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Trainline_Featured_16_9.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/ada-by-dept-our-all-in-one-proprietary-martech-platform/",
+  "path": "dept/en-in/service/growth/ada-by-dept-our-all-in-one-proprietary-martech-platform",
+  "timestamp": "2026-10-09T23:37:09.052Z",
+  "title": "ADA: Proprietary Martech Platform | DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "main-page-header",
+    "jumbotron",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "intro-text",
+    "call-to-action",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Dept-London-1680-47-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Dept-London-1680-47-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Ada_by_Dept_KV.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Ada_by_Dept_KV.png"
+    ]
+  ]
+}

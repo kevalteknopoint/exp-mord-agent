@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/visualizing-capacity-planning/",
+  "path": "dept/en-in/case/visualizing-capacity-planning",
+  "timestamp": "2026-10-09T15:35:27.999Z",
+  "title": "Visualizing capacity planning - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/multiscreen-2x.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/multiscreen-2x.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/SingleScreenPattern@2x.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/SingleScreenPattern-2x.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/woman-cA.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/woman-cA.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/multiscreen-2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/multiscreen-2x-1.png"
+    ]
+  ]
+}

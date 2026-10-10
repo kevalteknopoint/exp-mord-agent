@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-launches-commercetools-implementation-accelerator/",
+  "path": "dept/insight/dept-launches-commercetools-implementation-accelerator",
+  "timestamp": "2026-10-09T21:19:50.373Z",
+  "title": "DEPT® launches commercetools implementation accelerator - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/DASH-x-commerce-tools-Image-13.58.15.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/DASH-x-commerce-tools-Image-13.58.15.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Hein-Strijker-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Hein-Strijker-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Hein-Strijker.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Hein-Strijker.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Dept_Berlin_Office-11-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Dept_Berlin_Office-11-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Header-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Header-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-x-Mach-Alliance.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--x-Mach-Alliance.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/DASH-x-commerce-tools-Image-13.58.15.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/DASH-x-commerce-tools-Image-13.58.15.png"
+    ]
+  ]
+}

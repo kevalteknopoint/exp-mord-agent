@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/top-takeaways-from-the-salesforce-summer-23-release/",
+  "path": "dept/en-in/insight/top-takeaways-from-the-salesforce-summer-23-release",
+  "timestamp": "2026-10-09T16:56:41.454Z",
+  "title": "Top takeaways from the Salesforce summer '23 release - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/salesforce-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/salesforce-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ymar-frenken-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ymar-frenken-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Align-fields-horizontally-Before.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Align-fields-horizontally-Before.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Align-fields-horizontally-After-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Align-fields-horizontally-After-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ymar-frenken.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ymar-frenken.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/lessons-learned-from-decade-Salesforce-Marketing-Cloud.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/lessons-learned-from-decade-Salesforce-Marketing-Cloud.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Why-composable-ux-matters-your-cms-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Why-composable-ux-matters-your-cms-strategy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/the-role-of-integration-platforms-in-a-composable-enterprise-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/the-role-of-integration-platforms-in-a-composable-enterprise-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/salesforce-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/salesforce-concept.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/freitag-matched-tinder-swipe-to-s-w-a-p/",
+  "path": "dept/de-dach/case/freitag-matched-tinder-swipe-to-s-w-a-p",
+  "timestamp": "2026-10-09T11:00:39.465Z",
+  "title": "FREITAG matched Tinder: Swipe to S.W.A.P. - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "stats-panel",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ4.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ4.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ5.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ5.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ6.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ6.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Hiltl-%E2%80%93-Home-Overview-1.1-Desktop-1600.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Hiltl---Home-Overview-1.1-Desktop-1600.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/190814-maxderdachs-sc-home.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/190814-maxderdachs-sc-home.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/why-marketing-during-a-recession-is-a-necessity/",
+  "path": "dept/insight/why-marketing-during-a-recession-is-a-necessity",
+  "timestamp": "2026-10-09T21:17:36.040Z",
+  "title": "Why marketing during a recession is a necessity - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20230104_BlFI_MarketingDuringaRecession.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20230104_BlFI_MarketingDuringaRecession.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Screen-Shot-2023-11-10-at-1.23.04-PM-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Screen-Shot-2023-11-10-at-1.23.04-PM-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20230104_BlFI_MarketingDuringaRecession.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20230104_BlFI_MarketingDuringaRecession.jpeg"
+    ]
+  ]
+}

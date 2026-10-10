@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/live-recruiting-senior-account-management/",
+  "path": "dept/de-dach/insight/live-recruiting-senior-account-management",
+  "timestamp": "2026-10-09T22:47:43.777Z",
+  "title": "Live Recruiting: (Senior) Account Management - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "image",
+    "title-and-content",
+    "image",
+    "featured-items",
+    "highlighted-item-listing",
+    "video"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Linked-In-Event-Header_1920x1080@2x-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Linked-In-Event-Header_1920x1080-2x-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Icons-NEW.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Icons-NEW.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Linked-In-Event-Header_1920x1080@2x-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Linked-In-Event-Header_1920x1080-2x-2.png"
+    ]
+  ]
+}

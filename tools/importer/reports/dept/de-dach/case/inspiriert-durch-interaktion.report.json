@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/inspiriert-durch-interaktion/",
+  "path": "dept/de-dach/case/inspiriert-durch-interaktion",
+  "timestamp": "2026-10-09T11:05:39.446Z",
+  "title": "Inspiriert durch Interaktion - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-Pixel-Thumnail-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-Pixel-Thumnail-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1002823828-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1002823828-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg"
+    ]
+  ]
+}

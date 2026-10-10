@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/creative/brand-strategy/",
+  "path": "dept/en-au/service/creative/brand-strategy",
+  "timestamp": "2026-10-09T14:12:08.563Z",
+  "title": "Brand strategy agency | Creative digital marketing agency - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DSF9791-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DSF9791-1200x750-c.jpg"
+    ]
+  ]
+}

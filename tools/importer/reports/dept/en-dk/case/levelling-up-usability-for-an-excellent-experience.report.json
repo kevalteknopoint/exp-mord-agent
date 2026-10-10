@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/levelling-up-usability-for-an-excellent-experience/",
+  "path": "dept/en-dk/case/levelling-up-usability-for-an-excellent-experience",
+  "timestamp": "2026-10-09T14:31:41.552Z",
+  "title": "Levelling up usability for an excellent experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "quote",
+    "call-to-action",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Gubi-Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Gubi-Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Gubi-Visual-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Gubi-Visual-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Gubi-Visual-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Gubi-Visual-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rasmus-Keller.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rasmus-Keller.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Gubi-Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Gubi-Hero.jpg"
+    ]
+  ]
+}

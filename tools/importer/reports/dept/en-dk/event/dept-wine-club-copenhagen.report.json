@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/dept-wine-club-copenhagen/",
+  "path": "dept/en-dk/event/dept-wine-club-copenhagen",
+  "timestamp": "2026-10-09T13:51:35.163Z",
+  "title": "DEPT® Wine Club Copenhagen - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Wineclub-DK-Landing-page-Hero-banner-1920x1080-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Wineclub-DK-Landing-page-Hero-banner-1920x1080-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Wineclub-DK-Landing-page-Hero-banner-1920x1080-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Wineclub-DK-Landing-page-Hero-banner-1920x1080-1-1.png"
+    ]
+  ]
+}

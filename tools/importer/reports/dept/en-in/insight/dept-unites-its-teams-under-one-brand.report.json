@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-in/insight/dept-unites-its-teams-under-one-brand/",
   "path": "dept/en-in/insight/dept-unites-its-teams-under-one-brand",
-  "timestamp": "2026-10-08T15:00:42.810Z",
+  "timestamp": "2026-10-09T09:54:23.370Z",
   "title": "DEPT® unites its teams under one brand - DEPT®",
   "template": "dept-insight",
   "locale": "en-in",
@@ -16,10 +16,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "video",
-    "full-width-image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/04/people-mirror.png",

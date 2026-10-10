@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/ehealth-serves-as-a-source-of-truth-for-consumers/",
+  "path": "dept/case/ehealth-serves-as-a-source-of-truth-for-consumers",
+  "timestamp": "2026-10-09T10:49:45.739Z",
+  "title": "eHealth serves as a source of truth for consumers - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/ehealth-hero-back.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/ehealth-hero-back.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/eHealthImageRight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/eHealthImageRight.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Merit-Circle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Merit-Circle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ganni-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ganni-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Kali-Healthcare-38-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Kali-Healthcare-38-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/ehealth.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/ehealth.jpg"
+    ]
+  ]
+}

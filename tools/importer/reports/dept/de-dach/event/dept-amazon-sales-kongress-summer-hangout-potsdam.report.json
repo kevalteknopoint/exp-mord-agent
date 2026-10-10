@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-amazon-sales-kongress-summer-hangout-potsdam/",
+  "path": "dept/de-dach/event/dept-amazon-sales-kongress-summer-hangout-potsdam",
+  "timestamp": "2026-10-09T22:38:48.845Z",
+  "title": "DEPT® x ASK Potsdam: Summer Hangout - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ASK-Vendor-Dinner-Potsdam-1440x588-px-1_LP-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ASK-Vendor-Dinner-Potsdam-1440x588-px-1_LP-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ASK-Vendor-Dinner-Potsdam-1440x588-px-1_LP-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ASK-Vendor-Dinner-Potsdam-1440x588-px-1_LP-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Alexander-Ortner.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Alexander-Ortner.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ASK-Vendor-Dinner-Potsdam-1440x588-px-1_LP-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ASK-Vendor-Dinner-Potsdam-1440x588-px-1_LP-Header.png"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/launch-des-tiktok-kanals-der-fuehrenden-streaming-plattform-twitch/",
+  "path": "dept/de-dach/case/launch-des-tiktok-kanals-der-fuehrenden-streaming-plattform-twitch",
+  "timestamp": "2026-10-09T11:08:17.740Z",
+  "title": "Launch des TikTok Kanals für Twitch - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Gaming_Setup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Gaming_Setup.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/smart_case_digital_marketing.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/smart_case_digital_marketing.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Audience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Audience.jpg"
+    ]
+  ]
+}

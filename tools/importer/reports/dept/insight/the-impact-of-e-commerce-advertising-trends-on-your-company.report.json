@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-impact-of-e-commerce-advertising-trends-on-your-company/",
+  "path": "dept/insight/the-impact-of-e-commerce-advertising-trends-on-your-company",
+  "timestamp": "2026-10-09T22:01:06.541Z",
+  "title": "The impact of e-commerce advertising trends on your company - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/impact_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/impact_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bas-de-Knegt-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bas-de-Knegt-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bas-de-Knegt.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bas-de-Knegt.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/impact_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/impact_1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/helping-ig-trading-become-the-team-behind-ambitious-traders/",
+  "path": "dept/en-uki/case/helping-ig-trading-become-the-team-behind-ambitious-traders",
+  "timestamp": "2026-10-09T20:15:19.192Z",
+  "title": "Helping IG Trading become the team behind ambitious traders - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/IG.com-RaceCase.001.001.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/IG.com-RaceCase.001.001.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rob-Voortman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rob-Voortman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Website-_-Full-Bleed-Content-Image@2X-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Website-_-Full-Bleed-Content-Image-2X-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/KLM-1-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/KLM-1-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/IG.com-RaceCase.001.001-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/IG.com-RaceCase.001.001-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/experience/conversational-voice/",
+  "path": "dept/de-dach/service/experience/conversational-voice",
+  "timestamp": "2026-10-09T12:09:00.344Z",
+  "title": "Conversational & Voice - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Conversational-Voice-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Conversational-Voice-1.png"
+    ]
+  ]
+}

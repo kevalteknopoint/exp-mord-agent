@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/the-story-behind-a-self-publishing-companys-growth/",
+  "path": "dept/en-in/case/the-story-behind-a-self-publishing-companys-growth",
+  "timestamp": "2026-10-09T16:23:53.045Z",
+  "title": "The story behind a self-publishing company's growth - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "panel-with-rich-text",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/hero-desktop-29189d8ac5500524a0e68ca5b43693dea8d96f658f953c48bc14bca0364aebaf.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/hero-desktop-29189d8ac5500524a0e68ca5b43693dea8d96f658f953c48bc14bca0364aebaf.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/blurb-featured-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/blurb-featured-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Philips-header-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Philips-header-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Smileyscope1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Smileyscope1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/blurb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/blurb.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-life-designer/",
+  "path": "dept/en-uki/insight/dept-life-designer",
+  "timestamp": "2026-10-09T20:30:27.089Z",
+  "title": "DEPT® LIFE: Designer - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/DEPT-Interior-99.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/DEPT-Interior-99.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lyndsay-Burrill-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lyndsay-Burrill-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Untitled-design-2-e1654076918250.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Untitled-design-2-e1654076918250.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lyndsay-Burrill.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lyndsay-Burrill.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/DEPT-Interior-99.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/DEPT-Interior-99.jpg"
+    ]
+  ]
+}

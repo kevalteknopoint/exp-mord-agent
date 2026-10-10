@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/wir-lieben-unser-team/",
+  "path": "dept/de-dach/case/wir-lieben-unser-team",
+  "timestamp": "2026-10-09T11:27:42.898Z",
+  "title": "Wir lieben unser Team - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/pallas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/pallas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Pallas_Kliniken-1-1200x675-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Pallas_Kliniken-1-1200x675-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-search-strat2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-search-strat2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/bipa-480x480-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/bipa-480x480-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/pallas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/pallas.png"
+    ]
+  ]
+}

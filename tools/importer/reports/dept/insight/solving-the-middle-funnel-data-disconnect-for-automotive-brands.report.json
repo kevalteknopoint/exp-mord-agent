@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/solving-the-middle-funnel-data-disconnect-for-automotive-brands/",
+  "path": "dept/insight/solving-the-middle-funnel-data-disconnect-for-automotive-brands",
+  "timestamp": "2026-10-09T21:46:41.767Z",
+  "title": "Solving the middle-funnel data disconnect for automotive brands - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "rich-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/cars-on-lot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/cars-on-lot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/david-grover-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/david-grover-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/simple-funnel-analytics-data-architecure.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/simple-funnel-analytics-data-architecure.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/driving-down-road.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/driving-down-road.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/car-dashboard-technology.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/car-dashboard-technology.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/data-analytics-missing-digital-transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/data-analytics-missing-digital-transformation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Survey-of-US-marketers-thumbnail-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Survey-of-US-marketers-thumbnail-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT%C2%AE-Office.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT--Office.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/cars-on-lot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/cars-on-lot.jpg"
+    ]
+  ]
+}

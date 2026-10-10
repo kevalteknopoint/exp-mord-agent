@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/hyper-personalised-video-marketing-to-increase-brand-awareness/",
+  "path": "dept/case/hyper-personalised-video-marketing-to-increase-brand-awareness",
+  "timestamp": "2026-10-09T10:19:24.503Z",
+  "title": "Video marketing to increase brand awareness - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/enyaq-opener-732d19.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/enyaq-opener-732d19.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/skoda-kodiaq-dynamisch-1520.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/skoda-kodiaq-dynamisch-1520.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Hoxton_case_hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Hoxton_case_hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/GoogleKidsSpace-Case-07.1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/GoogleKidsSpace-Case-07.1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop-Komprimiert.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop-Komprimiert.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1269732224-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1269732224-1-scaled.jpg"
+    ]
+  ]
+}

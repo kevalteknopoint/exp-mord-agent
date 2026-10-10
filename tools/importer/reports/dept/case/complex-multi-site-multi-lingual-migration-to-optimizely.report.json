@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/complex-multi-site-multi-lingual-migration-to-optimizely/",
+  "path": "dept/case/complex-multi-site-multi-lingual-migration-to-optimizely",
+  "timestamp": "2026-10-09T10:26:35.794Z",
+  "title": "A complex multi-site, multi-lingual migration to Optimizely - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/1-Image-Full-bleed@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/1-Image-Full-bleed-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/6-Desktop@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/6-Desktop-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/2-Image-Mobile@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/2-Image-Mobile-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/3-Desktop-Angle@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/3-Desktop-Angle-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/8-Image-Full-bleed@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/8-Image-Full-bleed-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/5-Image-Mobile@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/5-Image-Mobile-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google-Workspace01-e1678980997383.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google-Workspace01-e1678980997383.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

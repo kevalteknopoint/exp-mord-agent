@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/google-dept-prepare-to-pioneer-summit/",
+  "path": "dept/en-in/service/growth/google-dept-prepare-to-pioneer-summit",
+  "timestamp": "2026-10-09T23:37:40.079Z",
+  "title": "Google + DEPT® Prepare to Pioneer Summit - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "text-block-hero",
+    "image",
+    "panel-with-rich-text",
+    "intro-text",
+    "form-with-header",
+    "panel-with-image-and-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/preparetopioneer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/preparetopioneer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/prepare-to-pioneer-carousel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/prepare-to-pioneer-carousel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/prepare-to-pioneer-carousel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/prepare-to-pioneer-carousel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Google-DEPT%C2%AE-Prepare-to-Pioneer-Summit_email-header_V2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Google-DEPT--Prepare-to-Pioneer-Summit_email-header_V2.jpg"
+    ]
+  ]
+}

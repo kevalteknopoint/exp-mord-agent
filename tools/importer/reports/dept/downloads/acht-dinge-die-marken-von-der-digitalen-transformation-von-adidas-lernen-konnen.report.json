@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/acht-dinge-die-marken-von-der-digitalen-transformation-von-adidas-lernen-ko%cc%88nnen/",
+  "path": "dept/downloads/acht-dinge-die-marken-von-der-digitalen-transformation-von-adidas-lernen-konnen",
+  "timestamp": "2026-10-09T23:47:31.118Z",
+  "title": "Acht Dinge, die Marken von der digitalen Transformation von adidas lernen können - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Landing-Page-950x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Landing-Page-950x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Landing-Page-950x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Landing-Page-950x1080-1.png"
+    ]
+  ]
+}

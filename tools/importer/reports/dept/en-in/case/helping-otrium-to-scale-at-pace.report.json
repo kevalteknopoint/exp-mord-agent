@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/helping-otrium-to-scale-at-pace/",
+  "path": "dept/en-in/case/helping-otrium-to-scale-at-pace",
+  "timestamp": "2026-10-09T15:57:10.340Z",
+  "title": "Helping Otrium to scale at pace - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Otrium-06.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Otrium-06.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Otrium-08.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Otrium-08.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Otrium-04.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Otrium-04.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Danijel-Bonacic-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Danijel-Bonacic-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/TLC_feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/TLC_feature.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/ERIKS-Featured-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/ERIKS-Featured-image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Otrium-02-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Otrium-02-1.jpg"
+    ]
+  ]
+}

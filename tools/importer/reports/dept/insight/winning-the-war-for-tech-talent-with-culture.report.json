@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/winning-the-war-for-tech-talent-with-culture/",
+  "path": "dept/insight/winning-the-war-for-tech-talent-with-culture",
+  "timestamp": "2026-10-09T21:20:50.845Z",
+  "title": "Winning the war for tech talent with culture - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Dept-13-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Dept-13-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Sandor-Voordes-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Sandor-Voordes-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Sandor-Voordes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Sandor-Voordes.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Dept-13-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Dept-13-scaled.jpg"
+    ]
+  ]
+}

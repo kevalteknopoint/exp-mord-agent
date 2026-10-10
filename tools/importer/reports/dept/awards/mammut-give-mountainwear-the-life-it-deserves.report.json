@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/mammut-give-mountainwear-the-life-it-deserves/",
+  "path": "dept/awards/mammut-give-mountainwear-the-life-it-deserves",
+  "timestamp": "2026-10-09T10:28:35.535Z",
+  "title": "MAMMUT: Give mountainwear the life it deserves - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "video",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-KV.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-KV.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/4-patch.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/4-patch.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/5-Collateral.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/5-Collateral.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6-OOH.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6-OOH.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/4-patch.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/4-patch.webp"
+    ]
+  ]
+}

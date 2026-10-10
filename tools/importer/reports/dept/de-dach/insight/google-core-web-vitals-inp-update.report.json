@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/google-core-web-vitals-inp-update/",
+  "path": "dept/de-dach/insight/google-core-web-vitals-inp-update",
+  "timestamp": "2026-10-09T12:05:14.453Z",
+  "title": "Google Core Web Vitals INP Update - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/INP_-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/INP_-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/unnamed-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/unnamed-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/INP_Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/INP_Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/unnamed-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/unnamed-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/INP_-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/INP_-1.jpg"
+    ]
+  ]
+}

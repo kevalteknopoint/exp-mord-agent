@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/meet-kenna-the-first-ai-powered-virtual-beauty-assistant-2/",
+  "path": "dept/awards/meet-kenna-the-first-ai-powered-virtual-beauty-assistant-2",
+  "timestamp": "2026-10-09T10:28:49.056Z",
+  "title": "Meet Kenna, The first AI-powered virtual beauty assistant  - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Kenna-selfie-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Kenna-selfie-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Kenna-at-OMR-1-3-dach.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Kenna-at-OMR-1-3-dach.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Kenna-Anatomie-dach.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Kenna-Anatomie-dach.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Kenna-at-OMR-crowd.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Kenna-at-OMR-crowd.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/kenna-ai-influencer-smiling-at-camera.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/kenna-ai-influencer-smiling-at-camera.png"
+    ]
+  ]
+}

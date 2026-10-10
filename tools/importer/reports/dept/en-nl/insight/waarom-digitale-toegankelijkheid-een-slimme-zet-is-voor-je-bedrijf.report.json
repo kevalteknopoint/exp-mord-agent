@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/waarom-digitale-toegankelijkheid-een-slimme-zet-is-voor-je-bedrijf/",
+  "path": "dept/en-nl/insight/waarom-digitale-toegankelijkheid-een-slimme-zet-is-voor-je-bedrijf",
+  "timestamp": "2026-10-09T18:02:04.961Z",
+  "title": "Waarom digitale toegankelijkheid een slimme zet is voor je bedrijf - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/D%C2%AEBrand108-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/D-Brand108-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ferry-den-Dopper-Dept-2-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ferry-den-Dopper-Dept-2-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ferry-den-Dopper-Dept-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ferry-den-Dopper-Dept-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/D%C2%AEBrand108-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/D-Brand108-1.jpg"
+    ]
+  ]
+}

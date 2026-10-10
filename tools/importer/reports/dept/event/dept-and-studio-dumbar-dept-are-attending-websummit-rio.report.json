@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-and-studio-dumbar-dept-are-attending-websummit-rio/",
+  "path": "dept/event/dept-and-studio-dumbar-dept-are-attending-websummit-rio",
+  "timestamp": "2026-10-09T20:02:46.239Z",
+  "title": "DEPT® and Studio Dumbar / DEPT® are attending WebSummit Rio!",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/D%C2%AEBrand121.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/D-Brand121.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/D%C2%AEBrand121.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/D-Brand121.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-14.50.39.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Screenshot-2024-04-11-at-14.50.39.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-14.49.31.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Screenshot-2024-04-11-at-14.49.31.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-14.56.37.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Screenshot-2024-04-11-at-14.56.37.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/JosefinaBlattmann74-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/JosefinaBlattmann74-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/websummit-rio.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/websummit-rio.jpg"
+    ]
+  ]
+}

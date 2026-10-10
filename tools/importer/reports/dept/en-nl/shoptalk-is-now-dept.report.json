@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/shoptalk-is-now-dept/",
+  "path": "dept/en-nl/shoptalk-is-now-dept",
+  "timestamp": "2026-10-09T23:55:53.839Z",
+  "title": "ShopTalk/DEPT® is now DEPT® - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "statement",
+    "video",
+    "title-and-content",
+    "cta-text",
+    "four-card-information-block",
+    "cta-text",
+    "two-cards-and-content",
+    "form-with-header",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Experience-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Experience-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Brand-Strategy-and-Identity.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Brand-Strategy-and-Identity.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Creative-design-systems-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Creative-design-systems-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Motion-design-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Motion-design-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Heinz-Thumbnail.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Heinz-Thumbnail.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Piech-Thumbnail.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Piech-Thumbnail.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Evrnu_Worlds-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Evrnu_Worlds-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/P2P-Website-landing-page-with-gradient-1440-x-588.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/P2P-Website-landing-page-with-gradient-1440-x-588.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

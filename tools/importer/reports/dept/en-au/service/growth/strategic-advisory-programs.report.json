@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/strategic-advisory-programs/",
+  "path": "dept/en-au/service/growth/strategic-advisory-programs",
+  "timestamp": "2026-10-09T23:06:06.839Z",
+  "title": "Strategic advisory programs - DEPT® digital marketing strategy",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "image",
+    "title-left-body-right",
+    "two-column-items-list",
+    "information-with-two-content-cards",
+    "routing-banner",
+    "highlighted-cases",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/strategic-advisory-growth.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/strategic-advisory-growth.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/light-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/light-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/light-abtract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/light-abtract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Layla-Sleep-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Layla-Sleep-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/wine.com_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/wine.com_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/cityscape.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/cityscape.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

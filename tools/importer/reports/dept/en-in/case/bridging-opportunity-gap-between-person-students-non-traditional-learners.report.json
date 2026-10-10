@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/bridging-opportunity-gap-between-person-students-non-traditional-learners/",
+  "path": "dept/en-in/case/bridging-opportunity-gap-between-person-students-non-traditional-learners",
+  "timestamp": "2026-10-09T23:24:15.141Z",
+  "title": "Bridging an opportunity gap between students - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "paragraph",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/asu-education-for-humanity-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/asu-education-for-humanity-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/asu-me3-app.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/asu-me3-app.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/boabab-MultiScreen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/boabab-MultiScreen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Sci-Girls-Project-Header-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Sci-Girls-Project-Header-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/cloudsoftwareSolutions2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/cloudsoftwareSolutions2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ]
+  ]
+}

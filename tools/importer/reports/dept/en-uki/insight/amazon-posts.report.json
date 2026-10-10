@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/amazon-posts/",
+  "path": "dept/en-uki/insight/amazon-posts",
+  "timestamp": "2026-10-09T18:50:24.439Z",
+  "title": "Amazon Posts - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/amazon-posts.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/amazon-posts.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/kristen-bryk-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/kristen-bryk-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/kristen-bryk.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/kristen-bryk.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/amazon-posts.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/amazon-posts.png"
+    ]
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/tradition-neu-definiert-150-jahre-heinz/",
+  "path": "dept/de-dach/case/tradition-neu-definiert-150-jahre-heinz",
+  "timestamp": "2026-10-09T11:23:09.448Z",
+  "title": "Tradition neu definiert – 150 Jahre Heinz - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "image",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/002-Heinz-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/002-Heinz-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Mobile-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Mobile-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/006-Heinz-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/006-Heinz-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/007-Heinz-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/007-Heinz-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-5-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-5-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/011-Heinz.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/011-Heinz.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Mobiles-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Mobiles-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-7-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-7-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/001-Heinz.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/001-Heinz.jpg"
+    ]
+  ]
+}

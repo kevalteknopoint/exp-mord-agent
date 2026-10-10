@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/berlin-data-meetup/",
+  "path": "dept/de-dach/event/berlin-data-meetup",
+  "timestamp": "2026-10-09T10:55:43.856Z",
+  "title": "Berlin dbt Meetup - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/event-landingpage-header-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/event-landingpage-header-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/event-landingpage-header-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/event-landingpage-header-2.png"
+    ]
+  ]
+}

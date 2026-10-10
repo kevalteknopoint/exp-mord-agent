@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/vacancy/8090714-senior-motion-designer-editor-m-f-div",
+  "path": "dept/vacancy/8090714-senior-motion-designer-editor-m-f-div",
+  "timestamp": "2026-10-09T22:20:25.572Z",
+  "title": "Senior Motion Designer & Editor (m/f/div) - DEPT®",
+  "template": "dept-vacancy",
+  "locale": "global",
+  "components": [
+    "job-details",
+    "image-cards"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-tl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-tl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-tr.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-tr.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-bl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-bl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-br.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-br.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/800x600-24.jpg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/800x600-24.jpg"
+    ]
+  ]
+}

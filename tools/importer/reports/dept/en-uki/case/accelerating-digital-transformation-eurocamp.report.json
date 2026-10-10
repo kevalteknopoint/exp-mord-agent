@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/accelerating-digital-transformation-eurocamp/",
+  "path": "dept/en-uki/case/accelerating-digital-transformation-eurocamp",
+  "timestamp": "2026-10-09T19:42:07.761Z",
+  "title": "Accelerating digital transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Eurocamp-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Eurocamp-Image-Full-bleed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Element-featured-image-480x480-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Element-featured-image-480x480-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/helm-health-mobile-app-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/helm-health-mobile-app-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-basketball.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Eurocamp-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Eurocamp-Image-Full-bleed.png"
+    ]
+  ]
+}

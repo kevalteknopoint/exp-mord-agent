@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/visiting-samsungs-home-in-seoul/",
+  "path": "dept/en-dk/case/visiting-samsungs-home-in-seoul",
+  "timestamp": "2026-10-09T13:33:02.384Z",
+  "title": "Visiting Samsung's home in Seoul - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1169744232-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1169744232-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/samsung_2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/samsung_2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/samsung_3-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/samsung_3-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/samsung_1-scaled-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/samsung_1-scaled-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/render-3-edited-4x5-1024x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/render-3-edited-4x5-1024x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/sam-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/sam-scaled.jpg"
+    ]
+  ]
+}

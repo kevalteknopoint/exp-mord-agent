@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-honored-with-32-webby-award-nominations-for-pioneering-digital-work/",
+  "path": "dept/en-au/insight/dept-honored-with-32-webby-award-nominations-for-pioneering-digital-work",
+  "timestamp": "2026-10-09T13:21:31.851Z",
+  "title": "DEPT® honored with 32 Webby Awards nominations - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Home-carousel-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Home-carousel-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/lovies-2022-featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/lovies-2022-featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/insight-page-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/insight-page-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AEAI-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT-AI-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Home-carousel-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Home-carousel-2.png"
+    ]
+  ]
+}

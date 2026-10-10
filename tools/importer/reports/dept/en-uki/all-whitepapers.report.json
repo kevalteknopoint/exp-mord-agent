@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/all-whitepapers/",
+  "path": "dept/en-uki/all-whitepapers",
+  "timestamp": "2026-10-09T19:29:30.592Z",
+  "title": "Insights, Downloads & Events by DEPT®",
+  "template": "dept-page",
+  "locale": "en-uki",
+  "components": [
+    "content-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Rethinking-the-customer-journey-with-agentic-AI-1-ft-image-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Rethinking-the-customer-journey-with-agentic-AI-1-ft-image-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Five-ways-that-AI-is-changing-the-CJ_1920x1080.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Five-ways-that-AI-is-changing-the-CJ_1920x1080.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Opticon-London-2026-MobileCopy-375x375-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Opticon-London-2026-MobileCopy-375x375-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/ChatGPT-Insight-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/ChatGPT-Insight-1920x1080-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/eTail-event-UK-Mobile-Hero-banner-Only-Image-375x375-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/eTail-event-UK-Mobile-Hero-banner-Only-Image-375x375-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-LP-phrase-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-LP-phrase-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Three-data-types_Feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Three-data-types_Feature.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/How-AI-is-changing-the-customer-journey-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/How-AI-is-changing-the-customer-journey-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brand-image-5.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brand-image-5.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/The-decision-layer-in-content-at-scale-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/The-decision-layer-in-content-at-scale-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Search-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Search-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/moon-creative-automatiom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/moon-creative-automatiom.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/the-latest-addition-to-dept-apac-and-india/",
+  "path": "dept/en-au/insight/the-latest-addition-to-dept-apac-and-india",
+  "timestamp": "2026-10-09T13:02:34.564Z",
+  "title": "The latest addition to DEPT® APAC and India - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/India-new-hires-800x500-generic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/India-new-hires-800x500-generic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/India-new-hires-800x500-generic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/India-new-hires-800x500-generic.png"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/creators-propel-purchases-for-custom-framing-and-design-company/",
+  "path": "dept/en-au/case/creators-propel-purchases-for-custom-framing-and-design-company",
+  "timestamp": "2026-10-09T12:49:47.283Z",
+  "title": "Creators propel purchases for custom framing and design company - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "panel-two-media",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/frame-results-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/frame-results-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/frame-results-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/frame-results-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1269732224-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1269732224-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Framebridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Framebridge.jpg"
+    ]
+  ]
+}

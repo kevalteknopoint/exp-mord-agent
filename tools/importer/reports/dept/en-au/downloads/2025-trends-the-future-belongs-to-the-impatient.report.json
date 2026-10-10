@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/downloads/2025-trends-the-future-belongs-to-the-impatient/",
+  "path": "dept/en-au/downloads/2025-trends-the-future-belongs-to-the-impatient",
+  "timestamp": "2026-10-09T12:42:47.338Z",
+  "title": "2025 Trends: The Future Belongs to the Impatient - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-au",
+  "components": [
+    "wrapper",
+    "title-block-carousel",
+    "assets-and-copy",
+    "cta-text",
+    "work-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/why-cant-the-small-be-big.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/why-cant-the-small-be-big.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/why-cant-the-fixed-be-fluid.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/why-cant-the-fixed-be-fluid.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/why-cant-we-start-tomorrow-today.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/why-cant-we-start-tomorrow-today.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/why-cant-the-impossible-be-possible.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/why-cant-the-impossible-be-possible.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blurred-face.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blurred-face.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/three-people-working-outside.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/three-people-working-outside.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/keyboard-with-leaves.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/keyboard-with-leaves.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/yellow-red-plant.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/yellow-red-plant.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Joann.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Joann.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/the-evolution-performance-to-growth-marketing/",
+  "path": "dept/downloads/the-evolution-performance-to-growth-marketing",
+  "timestamp": "2026-10-09T11:45:01.800Z",
+  "title": "The evolution: performance to growth marketing - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blurred-face-orange-background.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blurred-face-orange-background.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blurred-face-orange-background.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blurred-face-orange-background.png"
+    ]
+  ]
+}

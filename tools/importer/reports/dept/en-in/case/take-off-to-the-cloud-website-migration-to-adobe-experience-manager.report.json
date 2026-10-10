@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/take-off-to-the-cloud-website-migration-to-adobe-experience-manager/",
+  "path": "dept/en-in/case/take-off-to-the-cloud-website-migration-to-adobe-experience-manager",
+  "timestamp": "2026-10-09T16:20:50.588Z",
+  "title": "Featured work: Edelweiss migration to Adobe Experience Manager - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1.-Edelweiss_Mockup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1.-Edelweiss_Mockup.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/4.-Edelweiss_Mobile-Screens_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/4.-Edelweiss_Mobile-Screens_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ]
+  ]
+}

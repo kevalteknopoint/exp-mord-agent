@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/extrem-schnelle-website-durch-devops-optimierung/",
+  "path": "dept/case/extrem-schnelle-website-durch-devops-optimierung",
+  "timestamp": "2026-10-09T10:03:24.440Z",
+  "title": "Extrem schnelle Website durch DevOps-Optimierung - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-5-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-5-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tom-Simm.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tom-Simm.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Merit-Gaming-Thumbnail.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Merit-Gaming-Thumbnail.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-1-min-1024x576.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-1-min-1024x576.jpg"
+    ]
+  ]
+}

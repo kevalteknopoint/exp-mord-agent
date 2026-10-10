@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/are-you-game-the-rise-of-a-new-marketing-platform/",
+  "path": "dept/en-dk/insight/are-you-game-the-rise-of-a-new-marketing-platform",
+  "timestamp": "2026-10-09T14:04:41.436Z",
+  "title": "Are you game? The rise of a new marketing platform - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/UJFzPEjF-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/UJFzPEjF-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Kasper-Koletzki-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Kasper-Koletzki-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/UJFzPEjF-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/UJFzPEjF-2.jpeg"
+    ]
+  ]
+}

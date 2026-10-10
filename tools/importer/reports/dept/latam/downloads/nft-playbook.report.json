@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/downloads/nft-playbook/",
+  "path": "dept/latam/downloads/nft-playbook",
+  "timestamp": "2026-10-09T23:46:15.584Z",
+  "title": "NFT playbook - DEPT®",
+  "template": "dept-downloads",
+  "locale": "latam",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/neon-reef.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/neon-reef.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/neon-reef.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/neon-reef.png"
+    ]
+  ]
+}

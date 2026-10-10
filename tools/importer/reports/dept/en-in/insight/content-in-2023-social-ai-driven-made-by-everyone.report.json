@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/content-in-2023-social-ai-driven-made-by-everyone/",
+  "path": "dept/en-in/insight/content-in-2023-social-ai-driven-made-by-everyone",
+  "timestamp": "2026-10-09T15:15:00.048Z",
+  "title": "Content in 2023: Social, AI-driven, & made by everyone - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "wrapper",
+    "video",
+    "title-and-content",
+    "wrapper",
+    "video",
+    "title-and-content",
+    "wrapper",
+    "video",
+    "title-and-content",
+    "wrapper",
+    "video",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/POC_-_500x300_featured_image.jpeg.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/POC_-_500x300_featured_image.jpeg.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/POC_-_500x300_featured_image.jpeg.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/POC_-_500x300_featured_image.jpeg.jpg"
+    ]
+  ]
+}

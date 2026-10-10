@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/website-relaunch-fur-die-zukunft-der-digitalen-mobilitat/",
+  "path": "dept/de-dach/case/website-relaunch-fur-die-zukunft-der-digitalen-mobilitat",
+  "timestamp": "2026-10-09T11:27:13.140Z",
+  "title": "Website Relaunch für die Zukunft der digitalen Mobilität - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Hochbahn_Mood_Image4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Hochbahn_Mood_Image4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Hochbahn_Mockup_Grid.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Hochbahn_Mockup_Grid.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Hochbahn_Mockup_Startseite_Grau-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Hochbahn_Mockup_Startseite_Grau-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Header-Image-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Header-Image-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Arm_Hero_Static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Arm_Hero_Static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Hochbahn_Mood_Image4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Hochbahn_Mood_Image4-1.png"
+    ]
+  ]
+}

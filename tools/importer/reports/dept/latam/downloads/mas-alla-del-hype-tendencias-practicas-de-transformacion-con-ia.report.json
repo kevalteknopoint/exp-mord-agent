@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/downloads/mas-alla-del-hype-tendencias-practicas-de-transformacion-con-ia/",
+  "path": "dept/latam/downloads/mas-alla-del-hype-tendencias-practicas-de-transformacion-con-ia",
+  "timestamp": "2026-10-09T23:46:23.707Z",
+  "title": "Más allá del hype: tendencias prácticas de transformación con IA - DEPT®",
+  "template": "dept-downloads",
+  "locale": "latam",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/ai-transformation-trends-technology-report.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/ai-transformation-trends-technology-report.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/ai-transformation-trends-technology-report.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/ai-transformation-trends-technology-report.png"
+    ]
+  ]
+}

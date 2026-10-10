@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/produkt-feed-nach-wetterlage-2/",
+  "path": "dept/de-dach/case/produkt-feed-nach-wetterlage-2",
+  "timestamp": "2026-10-09T11:16:40.934Z",
+  "title": "Produkt-Feed nach Wetterlage - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "video",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/jumbo_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/jumbo_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Jumbo-Wetter.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Jumbo-Wetter.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/peakperformance_Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/peakperformance_Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/AdobeStock_292452515-1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/AdobeStock_292452515-1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/jumbo_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/jumbo_1.jpg"
+    ]
+  ]
+}

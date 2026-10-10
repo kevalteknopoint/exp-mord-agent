@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/showcasing-the-value-of-personalized-loans/",
+  "path": "dept/en-in/case/showcasing-the-value-of-personalized-loans",
+  "timestamp": "2026-10-09T16:19:36.041Z",
+  "title": "Showcasing the value of personalized loans - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/towfiqu-barbhuiya-yIIFNiEKkYI-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/towfiqu-barbhuiya-yIIFNiEKkYI-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/home-page-banner.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/home-page-banner.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/03-H-and-M-Virtual-showroom.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/03-H-and-M-Virtual-showroom.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/VDK-Read-More-VDK.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/VDK-Read-More-VDK.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/World-finance-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/World-finance-copy.jpg"
+    ]
+  ]
+}

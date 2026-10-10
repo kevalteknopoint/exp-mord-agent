@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/online-world-enchants-adults-and-children-alike/",
+  "path": "dept/en-nl/case/online-world-enchants-adults-and-children-alike",
+  "timestamp": "2026-10-09T17:11:51.435Z",
+  "title": "An online world that enchants adults and children alike - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "statement",
+    "panel-with-cards",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-106-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-106-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-103-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-103-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Nteflix-Kids-featured-skateboards.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Nteflix-Kids-featured-skateboards.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1223832759-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1223832759-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg"
+    ]
+  ]
+}

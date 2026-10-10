@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/how-early-is-too-early-to-talk-about-black-friday-invite-only/",
+  "path": "dept/event/how-early-is-too-early-to-talk-about-black-friday-invite-only",
+  "timestamp": "2026-10-09T21:21:57.169Z",
+  "title": "How early is too early to talk about Black Friday - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "event-content-v2",
+    "event-people",
+    "event-program-v2"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Frame-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Frame-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/ZANNIe-ABBOTT-e1755048086100.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/ZANNIe-ABBOTT-e1755048086100.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/James-Carrick-headshot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/James-Carrick-headshot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Laura-Lauritzen-headshot.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Laura-Lauritzen-headshot.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/1730045510128-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/1730045510128-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Headshot_Gabbi-Stubbs-021.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Headshot_Gabbi-Stubbs-021.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Frame-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Frame-1-1.jpg"
+    ]
+  ]
+}

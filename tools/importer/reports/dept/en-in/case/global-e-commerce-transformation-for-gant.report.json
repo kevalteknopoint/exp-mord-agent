@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/global-e-commerce-transformation-for-gant/",
+  "path": "dept/en-in/case/global-e-commerce-transformation-for-gant",
+  "timestamp": "2026-10-09T15:55:01.067Z",
+  "title": "Global e-commerce transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Gant-global-ecommerce-transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Gant-global-ecommerce-transformation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Gant.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Gant.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-33-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-33-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-45-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-45-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Adobe-_-Dogstudio-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Adobe-_-Dogstudio-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/3.jpg"
+    ]
+  ]
+}

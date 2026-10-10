@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/forende-dansk-og-fem-tyske-digitale-bureauer-bliver-til-dept/",
+  "path": "dept/en-dk/insight/forende-dansk-og-fem-tyske-digitale-bureauer-bliver-til-dept",
+  "timestamp": "2026-10-09T15:18:19.950Z",
+  "title": "Førende Dansk og fem tyske digitale bureauer bliver til Dept - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Berlin_Office-19-320x213-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Berlin_Office-19-320x213-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-Dam-Johnse-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-Dam-Johnse-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-Dam-Johnse.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-Dam-Johnse.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Berlin_Office-19-320x213-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Berlin_Office-19-320x213-2.jpg"
+    ]
+  ]
+}

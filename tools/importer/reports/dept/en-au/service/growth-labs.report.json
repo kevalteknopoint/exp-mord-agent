@@ -1,0 +1,92 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth-labs/",
+  "path": "dept/en-au/service/growth-labs",
+  "timestamp": "2026-10-09T14:19:08.640Z",
+  "title": "Growth Labs - DEPT® research and development powerhouse",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "title-left-body-right",
+    "image-with-content-cards",
+    "title-left-body-right",
+    "panel-two-media",
+    "title-left-body-right",
+    "client-panel",
+    "title-left-body-right",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-3Q_DEPT--e1679308787762.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-3Q_DEPT--e1679308787762.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-DEPT%C2%AE_3Q-e1679308650172.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-DEPT-_3Q-e1679308650172.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Lyndsey-Garza.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Lyndsey-Garza.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Chris-Brook-Growth-Labs-e1679303114295.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Chris-Brook-Growth-Labs-e1679303114295.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Growth-Labs.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Growth-Labs.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Growth-Labs-Girl-e1679303640610.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Growth-Labs-Girl-e1679303640610.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Google.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Google.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Meta-Business-Partner.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Meta-Business-Partner.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/LinkedIn.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/LinkedIn.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Microsoft.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Microsoft.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/The-Trade-Desk-Logo-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/The-Trade-Desk-Logo-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Amazon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Amazon.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/8-how-to-broadcast-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/8-how-to-broadcast-FT.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/brave-logo-color-RGB_reversed-branding-assets.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/brave-logo-color-RGB_reversed-branding-assets.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/ai-concept-paid-search.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/ai-concept-paid-search.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Growth-Labs-Phone.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Growth-Labs-Phone.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/sustainability-in-digital-4-practical-initiatives-for-2023/",
+  "path": "dept/en-au/insight/sustainability-in-digital-4-practical-initiatives-for-2023",
+  "timestamp": "2026-10-09T12:51:58.846Z",
+  "title": "Sustainability in digital: 4 practical initiatives for 2023 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sustainability-in-tech.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sustainability-in-tech.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sustainability-stats.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sustainability-stats.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sustainability-in-tech.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sustainability-in-tech.jpg"
+    ]
+  ]
+}

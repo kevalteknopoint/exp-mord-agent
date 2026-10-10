@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/creando-un-sitio-web-que-alimente-la-reflexion/",
+  "path": "dept/latam/case/creando-un-sitio-web-que-alimente-la-reflexion",
+  "timestamp": "2026-10-09T21:31:08.288Z",
+  "title": "Creando un sitio web que alimente la reflexión - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/avina-presskit-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/avina-presskit-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/avina-presskit-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/avina-presskit-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1190632451-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1190632451-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/avina-presskit-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/avina-presskit-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Valentin-Baumann_HV-Dept-e1627480506586.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Valentin-Baumann_HV-Dept-e1627480506586.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1002823828-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1002823828-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Kali-Healthcare-dept-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Kali-Healthcare-dept-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ]
+  ]
+}

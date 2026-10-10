@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/bitvavo-launches-new-positioning-and-first-ever-brand-campaign-made-by-dept/",
+  "path": "dept/insight/bitvavo-launches-new-positioning-and-first-ever-brand-campaign-made-by-dept",
+  "timestamp": "2026-10-09T21:59:30.076Z",
+  "title": "Bitvavo launches new positioning and brand campaign - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/bitvavo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/bitvavo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/IMG_6969-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/IMG_6969-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/bitvavo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/bitvavo.jpg"
+    ]
+  ]
+}

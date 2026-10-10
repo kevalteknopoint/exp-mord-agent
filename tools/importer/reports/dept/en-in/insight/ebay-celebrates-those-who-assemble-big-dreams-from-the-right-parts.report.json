@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/ebay-celebrates-those-who-assemble-big-dreams-from-the-right-parts/",
+  "path": "dept/en-in/insight/ebay-celebrates-those-who-assemble-big-dreams-from-the-right-parts",
+  "timestamp": "2026-10-09T15:50:41.740Z",
+  "title": "eBay celebrates those who assemble big dreams from the right parts - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ebay-built-different-female-mechanic.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ebay-built-different-female-mechanic.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ebay-built-different-male-mechanic-moped.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ebay-built-different-male-mechanic-moped.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ebay-built-different-female-mechanic.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ebay-built-different-female-mechanic.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-brand-refresh-for-an-extraordinary-charity/",
+  "path": "dept/en-nl/case/a-brand-refresh-for-an-extraordinary-charity",
+  "timestamp": "2026-10-09T17:25:55.948Z",
+  "title": "A brand refresh for an incredible charity - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/food-drive.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/food-drive.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image-Full-bleed-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image-Full-bleed-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/c4c-teatowels-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/c4c-teatowels-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/c4c-apron-1-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/c4c-apron-1-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Desktop-Angle-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Desktop-Angle-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image-Split.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image-Split.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Joann-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Joann-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otravo_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otravo_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image-Full-bleed-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image-Full-bleed-2.png"
+    ]
+  ]
+}

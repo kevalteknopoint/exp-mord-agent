@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/finding-your-holiday-in-a-single-swipe/",
+  "path": "dept/case/finding-your-holiday-in-a-single-swipe",
+  "timestamp": "2026-10-09T10:05:03.389Z",
+  "title": "Finding your holiday in a single swipe - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "call-to-action",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jord-Wessels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jord-Wessels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plane-Holiday-1440x810-c-tui.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plane-Holiday-1440x810-c-tui.jpeg"
+    ]
+  ]
+}

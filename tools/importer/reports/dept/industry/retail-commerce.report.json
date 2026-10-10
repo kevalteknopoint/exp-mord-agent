@@ -1,0 +1,115 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/industry/retail-commerce/",
+  "path": "dept/industry/retail-commerce",
+  "timestamp": "2026-10-09T21:34:19.740Z",
+  "title": "Retail & Commerce agency - marketing, tech integrations, AI | DEPT®",
+  "template": "dept-industry",
+  "locale": "global",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Social-media-influencer-partnerships.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Social-media-influencer-partnerships.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Patagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Patagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/cowboy-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/cowboy-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/lapierre-light-the-way-creative-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/lapierre-light-the-way-creative-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/KFC-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/KFC-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Just-Eat.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Just-Eat.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/HM.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/HM.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/eBay.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/eBay.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Bang-Olufsen.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Bang-Olufsen.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Adidas.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Adidas.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Diageo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Diageo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Google.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Google.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Biersdorf.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Biersdorf.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Philips-2.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Philips-2.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT%C2%AExShopify_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-xShopify_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Why-weird-works-Feature-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Why-weird-works-Feature-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/1-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/1-1200x670-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/5-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/5-1200x670-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/woman-silver-boot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/woman-silver-boot.jpg"
+    ]
+  ]
+}

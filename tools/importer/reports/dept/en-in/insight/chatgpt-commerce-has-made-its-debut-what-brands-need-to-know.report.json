@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/chatgpt-commerce-has-made-its-debut-what-brands-need-to-know/",
+  "path": "dept/en-in/insight/chatgpt-commerce-has-made-its-debut-what-brands-need-to-know",
+  "timestamp": "2026-10-09T15:13:09.341Z",
+  "title": "ChatGPT commerce has made its debut: What brands need to know - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Chatgpt-Commerce-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Chatgpt-Commerce-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/steve-holsinger-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/steve-holsinger-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/ai-agents-concept.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/ai-agents-concept.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/tiktok-pastel-phones.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/tiktok-pastel-phones.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Chatgpt-Commerce-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Chatgpt-Commerce-1920x1080-1.webp"
+    ]
+  ]
+}

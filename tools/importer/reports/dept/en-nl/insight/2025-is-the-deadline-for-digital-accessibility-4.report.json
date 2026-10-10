@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/2025-is-the-deadline-for-digital-accessibility-4/",
+  "path": "dept/en-nl/insight/2025-is-the-deadline-for-digital-accessibility-4",
+  "timestamp": "2026-10-09T16:58:34.187Z",
+  "title": "2025 is the deadline for digital accessibility - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "case-study-showcase",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Asher-wren-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Asher-wren-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mark-Wright.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mark-Wright.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/digital-trends-2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/digital-trends-2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sustainability-in-tech.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sustainability-in-tech.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

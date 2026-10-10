@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/putting-disability-inclusion-in-the-spotlight/",
+  "path": "dept/en-dk/case/putting-disability-inclusion-in-the-spotlight",
+  "timestamp": "2026-10-09T14:38:47.441Z",
+  "title": "Putting disability inclusion in the spotlight - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-Campaign-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-Campaign-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-campaign-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-campaign-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO_Campaign3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO_Campaign3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Meta-case_itsyourworld-custom_1920x1080.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Meta-case_itsyourworld-custom_1920x1080.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Jaeger-LeCoultre-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Jaeger-LeCoultre-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png"
+    ]
+  ]
+}

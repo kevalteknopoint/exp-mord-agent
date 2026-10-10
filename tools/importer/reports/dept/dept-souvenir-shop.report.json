@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/dept-souvenir-shop/",
+  "path": "dept/dept-souvenir-shop",
+  "timestamp": "2026-10-09T18:51:20.335Z",
+  "title": "DEPT® Souvenir Shop - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "souvenir-shop",
+    "insight-cta"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Handbag-Brown-Raffia-color-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Handbag-Brown-Raffia-color-2-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Keychain-Orange-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Keychain-Orange-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/CANNES-2026_POSTCARD_1_315x444.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/CANNES-2026_POSTCARD_1_315x444.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Keychain-bundle-metal-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Keychain-bundle-metal-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Hat-White_01-2-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Hat-White_01-2-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Cactus-Croissant.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Cactus-Croissant.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Hangtag-Front-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Hangtag-Front-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Table-tennis-bat-front-view-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Table-tennis-bat-front-view-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Mikado.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Mikado.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Socks_Orange-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Socks_Orange-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Scarf_Brown_Icons_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Scarf_Brown_Icons_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Metal-Pins-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Metal-Pins-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-Featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-Featured.png"
+    ]
+  ]
+}

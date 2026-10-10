@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/bol-christmas-packing-up-early-2/",
+  "path": "dept/awards/bol-christmas-packing-up-early-2",
+  "timestamp": "2026-10-09T10:05:40.239Z",
+  "title": "Bol Christmas: Packing Up Early - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/bol-kerst-girl-with-autism.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/bol-kerst-girl-with-autism.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/overzichttweets.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/overzichttweets.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/bolkerst_results-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/bolkerst_results-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/quotes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/quotes.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/bol-kerst-girl-with-autism.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/bol-kerst-girl-with-autism.jpeg"
+    ]
+  ]
+}

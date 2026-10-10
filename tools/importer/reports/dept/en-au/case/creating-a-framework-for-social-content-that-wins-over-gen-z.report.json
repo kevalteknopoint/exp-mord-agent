@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/creating-a-framework-for-social-content-that-wins-over-gen-z/",
+  "path": "dept/en-au/case/creating-a-framework-for-social-content-that-wins-over-gen-z",
+  "timestamp": "2026-10-09T12:46:12.583Z",
+  "title": "Google Workspace: social content that wins over Gen Z - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google-Workspace01-e1678980997383.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google-Workspace01-e1678980997383.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/claire-shalbrack.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/claire-shalbrack.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/doordash-mothers-day-campaign.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/doordash-mothers-day-campaign.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-170510613-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-170510613-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google-Workspace01-e1678980997383.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google-Workspace01-e1678980997383.jpg"
+    ]
+  ]
+}

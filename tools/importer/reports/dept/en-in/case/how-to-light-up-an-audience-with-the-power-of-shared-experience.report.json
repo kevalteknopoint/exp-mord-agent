@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/how-to-light-up-an-audience-with-the-power-of-shared-experience/",
+  "path": "dept/en-in/case/how-to-light-up-an-audience-with-the-power-of-shared-experience",
+  "timestamp": "2026-10-09T15:58:30.840Z",
+  "title": "How to light up an audience with the power of shared experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Hurdl-concert-confetti.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Hurdl-concert-confetti.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Tech-whitelabel-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Tech-whitelabel-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Gumtree.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Gumtree.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Hurdl-concert-confetti.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Hurdl-concert-confetti.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/pushing-boundaries/",
+  "path": "dept/en-dk/case/pushing-boundaries",
+  "timestamp": "2026-10-09T14:38:21.144Z",
+  "title": "Strolling into new ground - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/download-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/download-8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Bugaboo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Bugaboo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/download-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/download-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Grid-scaled-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Grid-scaled-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/download-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/download-8.jpg"
+    ]
+  ]
+}

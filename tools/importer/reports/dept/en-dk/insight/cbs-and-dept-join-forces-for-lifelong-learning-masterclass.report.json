@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/cbs-and-dept-join-forces-for-lifelong-learning-masterclass/",
+  "path": "dept/en-dk/insight/cbs-and-dept-join-forces-for-lifelong-learning-masterclass",
+  "timestamp": "2026-10-09T14:09:34.346Z",
+  "title": "CBS and DEPT® join forces for masterclass - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "panel-with-rich-text",
+    "cta-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/CBS_press_photo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/CBS_press_photo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dennis-Nielsen-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dennis-Nielsen-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dennis-Nielsen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dennis-Nielsen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/CBS_press_photo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/CBS_press_photo.jpeg"
+    ]
+  ]
+}

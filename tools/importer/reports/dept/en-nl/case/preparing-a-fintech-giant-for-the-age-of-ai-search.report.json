@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/preparing-a-fintech-giant-for-the-age-of-ai-search/",
+  "path": "dept/en-nl/case/preparing-a-fintech-giant-for-the-age-of-ai-search",
+  "timestamp": "2026-10-09T17:14:52.845Z",
+  "title": "Preparing a fintech giant for the age of AI search - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-1-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-1-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-3-1080X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-3-1080X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ]
+  ]
+}

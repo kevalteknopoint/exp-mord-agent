@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/bringing-the-best-of-google-to-people-worldwide/",
+  "path": "dept/en-dk/case/bringing-the-best-of-google-to-people-worldwide",
+  "timestamp": "2026-10-09T14:00:42.873Z",
+  "title": "Bringing the best of Google to people worldwide - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Google-closeup-phone-camera.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Google-closeup-phone-camera.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Google-website-components.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Google-website-components.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Scandlines-oversigtbillede.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Scandlines-oversigtbillede.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Google-store-headphones.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Google-store-headphones.webp"
+    ]
+  ]
+}

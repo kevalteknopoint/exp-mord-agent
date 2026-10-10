@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/be-excellent-ist-jetzt-dept/",
+  "path": "dept/de-dach/be-excellent-ist-jetzt-dept",
+  "timestamp": "2026-10-09T22:36:24.934Z",
+  "title": "Be excellent ist jetzt dept - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "post-header",
+    "panel-with-rich-text",
+    "jumbotron",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_Still-320x190-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_Still-320x190-1.png"
+    ]
+  ]
+}

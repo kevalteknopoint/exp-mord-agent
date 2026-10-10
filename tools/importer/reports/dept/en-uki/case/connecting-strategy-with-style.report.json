@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/connecting-strategy-with-style/",
+  "path": "dept/en-uki/case/connecting-strategy-with-style",
+  "timestamp": "2026-10-09T19:58:22.462Z",
+  "title": "Connecting strategy with style - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Trainline_Featured_16_9.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Trainline_Featured_16_9.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/KLM-1-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/KLM-1-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/energy-consumption-data-nrel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/energy-consumption-data-nrel.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy2.png"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-x-amazon-ads-wiesn-2024/",
+  "path": "dept/de-dach/event/dept-x-amazon-ads-wiesn-2024",
+  "timestamp": "2026-10-09T22:40:42.839Z",
+  "title": "DEPT® x Amazon Ads Wiesn 2024 - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "event-register",
+    "event-registration-form"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Wiesn-24-Event-header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Wiesn-24-Event-header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Wiesn-24-Event-header-1440x588-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Wiesn-24-Event-header-1440x588-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Wiesn-24-Event-header-1440x588-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Wiesn-24-Event-header-1440x588-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Wiesn-24-Event-header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Wiesn-24-Event-header-1440x588-1.png"
+    ]
+  ]
+}

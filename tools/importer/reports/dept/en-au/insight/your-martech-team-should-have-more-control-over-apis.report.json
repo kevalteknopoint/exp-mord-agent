@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/your-martech-team-should-have-more-control-over-apis/",
+  "path": "dept/en-au/insight/your-martech-team-should-have-more-control-over-apis",
+  "timestamp": "2026-10-09T13:26:31.950Z",
+  "title": "Your MarTech team should have more control over APIs  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Why-Should-MarTech-Have-Control-Over-API-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Why-Should-MarTech-Have-Control-Over-API-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Why-Should-MarTech-Have-Control-Over-API-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Why-Should-MarTech-Have-Control-Over-API-500x300-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/alcanzando-grandes-audiencias-mas-rapido-gracias-a-adobe-experience-cloud/",
+  "path": "dept/latam/case/alcanzando-grandes-audiencias-mas-rapido-gracias-a-adobe-experience-cloud",
+  "timestamp": "2026-10-09T21:26:30.940Z",
+  "title": "Alcanzando grandes audiencias más rápido gracias a Adobe Experience Cloud - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Tata-Capital_1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Tata-Capital_1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Tata-Capital_1920x1080_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Tata-Capital_1920x1080_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Raleigh_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Raleigh_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Tata-Capital_1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Tata-Capital_1920x1080_1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/transformacion-del-eurovision-village-en-un-mundo-virtual-en-3d/",
+  "path": "dept/case/transformacion-del-eurovision-village-en-un-mundo-virtual-en-3d",
+  "timestamp": "2026-10-09T11:07:40.173Z",
+  "title": "Transformación del Eurovisión Village en un mundo virtual en 3D - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "panel-with-cards",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-6-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-6-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-8-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-8-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-10-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-10-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Liedwood_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Liedwood_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-signage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Star-Atlas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Star-Atlas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/eurovision_render2_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/eurovision_render2_1-1.png"
+    ]
+  ]
+}

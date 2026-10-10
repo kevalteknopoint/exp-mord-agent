@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/content-management-beschleunigen-mit-einem-custom-ki-agenten/",
+  "path": "dept/de-dach/case/content-management-beschleunigen-mit-einem-custom-ki-agenten",
+  "timestamp": "2026-10-09T11:29:06.077Z",
+  "title": "Lufthansa: Accelerating content management with a custom AI agent - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "custom-listing",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/micasa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/micasa-Case-Study-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger-1600x900-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Mountain-Rescue-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Mountain-Rescue-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-1.png"
+    ]
+  ]
+}

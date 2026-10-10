@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/branded-commerce-the-logical-next-step/",
+  "path": "dept/en-in/insight/branded-commerce-the-logical-next-step",
+  "timestamp": "2026-10-09T15:10:22.142Z",
+  "title": "Branded commerce: the logical next step - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2017_16_02_Amsterdam_Marketing_DEPT_TALKS_JRF__104-480x320-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2017_16_02_Amsterdam_Marketing_DEPT_TALKS_JRF__104-480x320-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2017_16_02_Amsterdam_Marketing_DEPT_TALKS_JRF__104-480x320-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2017_16_02_Amsterdam_Marketing_DEPT_TALKS_JRF__104-480x320-1.jpeg"
+    ]
+  ]
+}

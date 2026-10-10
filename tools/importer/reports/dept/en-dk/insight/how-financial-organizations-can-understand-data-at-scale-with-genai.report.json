@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/how-financial-organizations-can-understand-data-at-scale-with-genai/",
+  "path": "dept/en-dk/insight/how-financial-organizations-can-understand-data-at-scale-with-genai",
+  "timestamp": "2026-10-09T15:26:09.415Z",
+  "title": "How financial organisations can understand data at scale with GenAI - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/scale-data-understanding.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/scale-data-understanding.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/CX-expectations-in-BFSI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/CX-expectations-in-BFSI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/jaeger-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/jaeger-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/bfsi-data-ai-innovation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/bfsi-data-ai-innovation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg"
+    ]
+  ]
+}

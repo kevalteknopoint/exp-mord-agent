@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/dept-ist-das-webby-awards-network-of-the-year-2025/",
+  "path": "dept/de-dach/insight/dept-ist-das-webby-awards-network-of-the-year-2025",
+  "timestamp": "2026-10-09T11:45:55.585Z",
+  "title": "DEPT® ist das Webby Awards ‘Network of the Year 2025’ - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-Insight-Header-16x9-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-Insight-Header-16x9-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/luebue_NEU-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/luebue_NEU-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-Insight-Header-16x9-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-Insight-Header-16x9-3.png"
+    ]
+  ]
+}

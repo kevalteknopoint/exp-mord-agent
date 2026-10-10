@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/advertising-during-a-recession-start-with-an-audit/",
+  "path": "dept/insight/advertising-during-a-recession-start-with-an-audit",
+  "timestamp": "2026-10-09T21:48:21.445Z",
+  "title": "Advertising during a recession? Start with an audit. - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Screen-Shot-2023-11-10-at-1.23.04-PM-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Screen-Shot-2023-11-10-at-1.23.04-PM-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Article-1-Homepage-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Article-1-Homepage-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Header-1-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Header-1-1024x576.png"
+    ]
+  ]
+}

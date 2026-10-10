@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/the-orchestration-era-when-data-workflow-and-culture-meet/",
+  "path": "dept/en-nl/insight/the-orchestration-era-when-data-workflow-and-culture-meet",
+  "timestamp": "2026-10-09T17:52:18.162Z",
+  "title": "The orchestration era: When data, workflow, and culture meet - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Pilot-to-orchestration-feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Pilot-to-orchestration-feature.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/combo-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/combo-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-4-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-4-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Pilot-to-orchestration-feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Pilot-to-orchestration-feature.webp"
+    ]
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/dept-best-of-adobe-summit/",
+  "path": "dept/en-in/event/dept-best-of-adobe-summit",
+  "timestamp": "2026-10-09T15:46:42.763Z",
+  "title": "Best of Adobe Summit 2025 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "event-people",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/ADOBE-SUMMIT-25-1440x588-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/ADOBE-SUMMIT-25-1440x588-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/ADOBE-PARTNER-25-Web-Featured-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/ADOBE-PARTNER-25-Web-Featured-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Vishnu_Mohan.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Vishnu_Mohan.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/James_Lowe_VP-Commerce-APAC.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/James_Lowe_VP-Commerce-APAC.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Neha-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Neha-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Saurabh-Shah-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Saurabh-Shah-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Himanshu-Mody.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Himanshu-Mody.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Yash-Mody-Dept-2-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Yash-Mody-Dept-2-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Julian-Gilchrist.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Julian-Gilchrist.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Tata-Capital_1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Tata-Capital_1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/breakfast-in-bed-couple.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/breakfast-in-bed-couple.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/aem-implementations.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/aem-implementations.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/DEPTC2AE-Adobe-Summit-Landing-page-header-1-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/DEPTC2AE-Adobe-Summit-Landing-page-header-1-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/ADOBE-SUMMIT-25-1440x588-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/ADOBE-SUMMIT-25-1440x588-3.png"
+    ]
+  ]
+}

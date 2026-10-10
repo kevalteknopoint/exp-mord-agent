@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/unlocking-organic-success-with-seamless-seo-migration/",
+  "path": "dept/en-au/case/unlocking-organic-success-with-seamless-seo-migration",
+  "timestamp": "2026-10-09T12:38:48.841Z",
+  "title": "Unlocking organic success with seamless SEO migration - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Comwell_Images_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Comwell_Images_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Comwell_Images_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Comwell_Images_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/What-Insurance-Marketers-Must-Know-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/What-Insurance-Marketers-Must-Know-500x300-1.png"
+    ]
+  ]
+}

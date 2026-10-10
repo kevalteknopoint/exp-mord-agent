@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-web3-roundtable-2/",
+  "path": "dept/de-dach/event/dept-web3-roundtable-2",
+  "timestamp": "2026-10-09T22:40:31.491Z",
+  "title": "DEPT® Web3 Roundtable - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details",
+    "fifty-fifty-image-block"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/2400x2400-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/2400x2400-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/David-Pajung-Dept-01-1-14950-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/David-Pajung-Dept-01-1-14950-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Jan-Gutkuhn-Dept-01-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Jan-Gutkuhn-Dept-01-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/dept-web3-roundtable-hb-spatial-2-small.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/dept-web3-roundtable-hb-spatial-2-small.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/dept-web3-roundtable-hb-spatial-1-small.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/dept-web3-roundtable-hb-spatial-1-small.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/2400x2400-1-1024x1024.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/2400x2400-1-1024x1024.png"
+    ]
+  ]
+}

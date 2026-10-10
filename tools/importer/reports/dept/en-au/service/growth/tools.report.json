@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/tools/",
+  "path": "dept/en-au/service/growth/tools",
+  "timestamp": "2026-10-09T14:28:23.185Z",
+  "title": "Technology (tools) - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dept-41-1-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dept-41-1-1200x750-c.jpg"
+    ]
+  ]
+}

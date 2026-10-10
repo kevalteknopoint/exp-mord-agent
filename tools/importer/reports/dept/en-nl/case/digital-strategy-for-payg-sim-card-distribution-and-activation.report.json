@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/digital-strategy-for-payg-sim-card-distribution-and-activation/",
+  "path": "dept/en-nl/case/digital-strategy-for-payg-sim-card-distribution-and-activation",
+  "timestamp": "2026-10-09T18:06:59.167Z",
+  "title": "Digital strategy for a national mobile network - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Desktop-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Desktop-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Split-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Split-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Mobile-x-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Mobile-x-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Mobile.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Mobile.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Desktop-Angle.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Desktop-Angle.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/kids-on-ipads.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/kids-on-ipads.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-1-1.png"
+    ]
+  ]
+}

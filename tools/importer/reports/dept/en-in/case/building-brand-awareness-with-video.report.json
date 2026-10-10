@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/building-brand-awareness-with-video/",
+  "path": "dept/en-in/case/building-brand-awareness-with-video",
+  "timestamp": "2026-10-09T14:58:13.839Z",
+  "title": "Building brand awareness with video - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/jeriden-villegas-VLPUm5wP5Z0-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/jeriden-villegas-VLPUm5wP5Z0-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/meric-dagli-T6vEvurAGE0-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/meric-dagli-T6vEvurAGE0-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/james-sullivan-ESZRBtkQ_f8-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/james-sullivan-ESZRBtkQ_f8-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Framebridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Framebridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/jeriden-villegas-VLPUm5wP5Z0-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/jeriden-villegas-VLPUm5wP5Z0-unsplash.jpg"
+    ]
+  ]
+}

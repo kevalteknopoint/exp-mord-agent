@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/cto-lead-developer-or-hybrid-how-to-hire-a-tech-leader/",
+  "path": "dept/en-in/insight/cto-lead-developer-or-hybrid-how-to-hire-a-tech-leader",
+  "timestamp": "2026-10-09T15:18:52.945Z",
+  "title": "How to hire a tech leader - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/cto-developer-1050x700-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/cto-developer-1050x700-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Ashley_Streb-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Ashley_Streb-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Ashley_Streb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Ashley_Streb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/cto-developer-1050x700-3-1024x683.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/cto-developer-1050x700-3-1024x683.jpeg"
+    ]
+  ]
+}

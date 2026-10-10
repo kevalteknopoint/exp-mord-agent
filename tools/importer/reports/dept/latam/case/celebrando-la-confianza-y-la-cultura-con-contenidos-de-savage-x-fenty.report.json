@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/celebrando-la-confianza-y-la-cultura-con-contenidos-de-savage-x-fenty/",
+  "path": "dept/latam/case/celebrando-la-confianza-y-la-cultura-con-contenidos-de-savage-x-fenty",
+  "timestamp": "2026-10-09T21:28:58.191Z",
+  "title": "Celebrando la confianza y la cultura con Savage X Fenty - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ]
+  ]
+}

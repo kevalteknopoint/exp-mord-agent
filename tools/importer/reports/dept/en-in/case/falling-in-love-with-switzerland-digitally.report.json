@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/falling-in-love-with-switzerland-digitally/",
+  "path": "dept/en-in/case/falling-in-love-with-switzerland-digitally",
+  "timestamp": "2026-10-09T15:50:29.240Z",
+  "title": "Falling in love with Switzerland digitally - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Dark-4-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Dark-4-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Dark-9-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Dark-9-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Dark-6-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Dark-6-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/myswiss_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/myswiss_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Star-Atlas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Star-Atlas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/multiscreen-2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/multiscreen-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-1.png"
+    ]
+  ]
+}

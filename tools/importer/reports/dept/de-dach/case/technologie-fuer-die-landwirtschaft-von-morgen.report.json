@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/technologie-fuer-die-landwirtschaft-von-morgen/",
+  "path": "dept/de-dach/case/technologie-fuer-die-landwirtschaft-von-morgen",
+  "timestamp": "2026-10-09T11:22:12.542Z",
+  "title": "Technologie für die Landwirtschaft von Morgen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1218623771-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1218623771-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Indigo-AG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Indigo-AG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-155145458-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-155145458-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1299915575-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1299915575-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Frame-1537-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Frame-1537-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-539454508-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-539454508-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Rotate-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Rotate-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/indigo_8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/indigo_8-1.jpg"
+    ]
+  ]
+}

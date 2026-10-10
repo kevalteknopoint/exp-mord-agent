@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-es-la-primera-agencia-global-en-recertificarse-como-empresa-b/",
+  "path": "dept/latam/insight/dept-es-la-primera-agencia-global-en-recertificarse-como-empresa-b",
+  "timestamp": "2026-10-09T23:31:43.582Z",
+  "title": "La primera agencia global en recertificarse como Empresa B - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Impact-Report-2023-Cover.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Impact-Report-2023-Cover.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/anthem-awards-hand-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/anthem-awards-hand-logo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ]
+  ]
+}

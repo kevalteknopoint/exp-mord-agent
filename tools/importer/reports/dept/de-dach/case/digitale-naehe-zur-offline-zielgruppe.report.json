@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/digitale-naehe-zur-offline-zielgruppe/",
+  "path": "dept/de-dach/case/digitale-naehe-zur-offline-zielgruppe",
+  "timestamp": "2026-10-09T11:38:55.340Z",
+  "title": "Digitale Nähe zur Offline-Zielgruppe - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/highlights-neu-von-nivea.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/highlights-neu-von-nivea.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nivea_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nivea_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/NIVEA_Creme_Perfume.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/NIVEA_Creme_Perfume.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/E1nS90CXEAIQ6jt-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/E1nS90CXEAIQ6jt-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Julia-Gunkel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Julia-Gunkel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/03-Walder-Design-Moods-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/03-Walder-Design-Moods-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nivea_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nivea_1.jpg"
+    ]
+  ]
+}

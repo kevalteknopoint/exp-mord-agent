@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/coca-cola/",
+  "path": "dept/en-au/case/coca-cola",
+  "timestamp": "2026-10-09T12:42:02.140Z",
+  "title": "Harnessing the power of AI-assisted storytelling - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "title-block-carousel",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/COCACOLA_Featured_16_9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/COCACOLA_Featured_16_9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/minute-maid-ai-stortboard-white.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/minute-maid-ai-stortboard-white.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/minute-maid-ai-art.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/minute-maid-ai-art.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/image-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/image-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/image-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/image-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Rectangle-17002.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Rectangle-17002.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/image-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/image-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Rectangle-17004.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Rectangle-17004.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Rectangle-17005.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Rectangle-17005.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/image-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/image-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Meta-case_itsyourworld-custom_1920x1080.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Meta-case_itsyourworld-custom_1920x1080.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/COCACOLA_Featured_16_9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/COCACOLA_Featured_16_9.jpg"
+    ]
+  ]
+}

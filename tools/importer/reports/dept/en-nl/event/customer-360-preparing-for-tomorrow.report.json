@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/customer-360-preparing-for-tomorrow/",
+  "path": "dept/en-nl/event/customer-360-preparing-for-tomorrow",
+  "timestamp": "2026-10-09T17:58:51.883Z",
+  "title": "Customer 360: Preparing for Tomorrow - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Paula_Dahm-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Paula_Dahm-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Carlo-Klaasse-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Carlo-Klaasse-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Henri-Legentil-Borup-scaled-e1663591414874-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Henri-Legentil-Borup-scaled-e1663591414874-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

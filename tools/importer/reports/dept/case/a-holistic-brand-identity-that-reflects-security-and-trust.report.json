@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-holistic-brand-identity-that-reflects-security-and-trust/",
+  "path": "dept/case/a-holistic-brand-identity-that-reflects-security-and-trust",
+  "timestamp": "2026-10-09T09:50:25.675Z",
+  "title": "Featured work: Brand identity and design system for Zscaler - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-branding.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-branding.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/zscaler-brand-Guidelines.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/zscaler-brand-Guidelines.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-signage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-signage.jpg"
+    ]
+  ]
+}

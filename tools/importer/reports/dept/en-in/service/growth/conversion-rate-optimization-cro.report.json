@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/conversion-rate-optimization-cro/",
+  "path": "dept/en-in/service/growth/conversion-rate-optimization-cro",
+  "timestamp": "2026-10-09T16:27:40.839Z",
+  "title": "Conversion rate optimization (CRO) Strategy Services - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "cta-text",
+    "rich-text",
+    "routing-banner",
+    "client-panel",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Optimizely.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Optimizely.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/VWO-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/VWO-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AB-Tasty-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AB-Tasty-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/adobetarget-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/adobetarget-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Office-ROT-16-e1559743142921.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Office-ROT-16-e1559743142921.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Innovation-search-ai-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Innovation-search-ai-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/optimize-cro-programs-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/optimize-cro-programs-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-abstract.jpg"
+    ]
+  ]
+}

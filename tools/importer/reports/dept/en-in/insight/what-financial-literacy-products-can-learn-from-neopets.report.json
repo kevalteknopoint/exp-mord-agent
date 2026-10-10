@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/what-financial-literacy-products-can-learn-from-neopets/",
+  "path": "dept/en-in/insight/what-financial-literacy-products-can-learn-from-neopets",
+  "timestamp": "2026-10-09T17:03:53.385Z",
+  "title": "What financial literacy products can learn from Neopets - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "work-listing",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/BFSI-and-Neopets_Feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/BFSI-and-Neopets_Feature.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Neopets-Nostalgia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Neopets-Nostalgia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Website-_-Full-Bleed-Content-Image@2X-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Website-_-Full-Bleed-Content-Image-2X-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/BFSI-and-Neopets_Feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/BFSI-and-Neopets_Feature.jpg"
+    ]
+  ]
+}

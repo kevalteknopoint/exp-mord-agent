@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/2025-update-climate-commitments/",
+  "path": "dept/en-uki/insight/2025-update-climate-commitments",
+  "timestamp": "2026-10-09T18:41:27.063Z",
+  "title": "A 2025 update on DEPT®’s climate commitments - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/the-climate-label-dept-update-20251.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/the-climate-label-dept-update-20251.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Impact-Report_Featured-Image_1080x1350.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Impact-Report_Featured-Image_1080x1350.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/the-climate-label-dept-update-20251.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/the-climate-label-dept-update-20251.jpg"
+    ]
+  ]
+}

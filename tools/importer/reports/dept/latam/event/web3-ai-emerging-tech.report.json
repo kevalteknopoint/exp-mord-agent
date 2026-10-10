@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/event/web3-ai-emerging-tech/",
+  "path": "dept/latam/event/web3-ai-emerging-tech",
+  "timestamp": "2026-10-09T23:43:29.335Z",
+  "title": "Web3, AI, tecnologías emergentes: ¿cuál es su impacto en empresas y profesionales tech? - DEPT®",
+  "template": "dept-event",
+  "locale": "latam",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Linkedin-Event-Header-7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Linkedin-Event-Header-7.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Joaqui%CC%81n-Gatti--150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Joaqui-n-Gatti--150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/image-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/image-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Linkedin-Event-Header-7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Linkedin-Event-Header-7.jpg"
+    ]
+  ]
+}

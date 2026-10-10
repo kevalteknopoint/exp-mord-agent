@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/immortalizing-experiences-with-ar-at-mcm-comic-con/",
+  "path": "dept/case/immortalizing-experiences-with-ar-at-mcm-comic-con",
+  "timestamp": "2026-10-09T10:23:12.936Z",
+  "title": "Immortalizing experiences with AR at MCM Comic Con - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-3-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-3-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-1-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-1-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-2-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-2-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/eBay-Comic-Con-Image-5.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/eBay-Comic-Con-Image-5.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Featured-images-501x501-MarcO-Polo-01-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Featured-images-501x501-MarcO-Polo-01-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ]
+  ]
+}

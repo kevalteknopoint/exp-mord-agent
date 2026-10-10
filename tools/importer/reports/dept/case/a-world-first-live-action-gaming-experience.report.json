@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-world-first-live-action-gaming-experience/",
+  "path": "dept/case/a-world-first-live-action-gaming-experience",
+  "timestamp": "2026-10-09T10:50:29.035Z",
+  "title": "A world-first live action gaming experience - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "intro-text",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Amazon-Prime-Video-x-Without-Remorse-Streamers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Amazon-Prime-Video-x-Without-Remorse-Streamers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Amazon-Prime-x-Without-Remorse-Storyboard.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Amazon-Prime-x-Without-Remorse-Storyboard.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Amazon-Prime-x-Without-Remorse-Film-Promo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Amazon-Prime-x-Without-Remorse-Film-Promo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Amazon-Prime-x-Without-Remorse-Film.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Amazon-Prime-x-Without-Remorse-Film.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/jeff-bowerman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/jeff-bowerman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Amazon-Prime-x-Without-Remorse-Film-Promo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Amazon-Prime-x-Without-Remorse-Film-Promo.jpg"
+    ]
+  ]
+}

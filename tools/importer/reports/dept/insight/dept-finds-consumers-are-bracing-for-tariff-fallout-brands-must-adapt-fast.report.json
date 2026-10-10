@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-finds-consumers-are-bracing-for-tariff-fallout-brands-must-adapt-fast/",
+  "path": "dept/insight/dept-finds-consumers-are-bracing-for-tariff-fallout-brands-must-adapt-fast",
+  "timestamp": "2026-10-09T21:10:35.001Z",
+  "title": "Global survey from DEPT® finds consumers are bracing for tariff fallout, and brands must adapt fast - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/NavigatorIQ-Insight-Featured-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/NavigatorIQ-Insight-Featured-1920x1080-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Impact-Report_Featured-Image_1080x1350.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Impact-Report_Featured-Image_1080x1350.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/tariffs-jewels.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/tariffs-jewels.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/tariffs-metal.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/tariffs-metal.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/NavigatorIQ-Insight-Featured-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/NavigatorIQ-Insight-Featured-1920x1080-2.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-listed-in-forresters-now-tech-commerce-services-q4-2020-report/",
+  "path": "dept/en-au/insight/dept-listed-in-forresters-now-tech-commerce-services-q4-2020-report",
+  "timestamp": "2026-10-09T13:27:10.805Z",
+  "title": "DEPT® listed in Forrester’s “Now Tech: Commerce Services, Q4 2020” report - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/iStock-518251288-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/iStock-518251288-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/iStock-518251288-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/iStock-518251288-1200x750-c.jpg"
+    ]
+  ]
+}

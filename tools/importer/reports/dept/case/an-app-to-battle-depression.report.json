@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/an-app-to-battle-depression/",
+  "path": "dept/case/an-app-to-battle-depression",
+  "timestamp": "2026-10-09T10:02:35.038Z",
+  "title": "An app to battle depression - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/beyond-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/beyond-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/beyond-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/beyond-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/15-Hape-i.o.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/15-Hape-i.o.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1.-Edelweiss_Mockup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1.-Edelweiss_Mockup.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung2-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung2-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/BeyondBlueProject@2X-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/BeyondBlueProject-2X-1.jpg"
+    ]
+  ]
+}

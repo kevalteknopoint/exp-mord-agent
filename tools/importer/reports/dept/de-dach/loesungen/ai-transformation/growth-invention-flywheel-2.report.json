@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/loesungen/ai-transformation/growth-invention-flywheel-2/",
+  "path": "dept/de-dach/loesungen/ai-transformation/growth-invention-flywheel-2",
+  "timestamp": "2026-10-09T11:59:38.589Z",
+  "title": "Growth Invention Flywheel | DEPT®",
+  "template": "dept-loesungen",
+  "locale": "de-dach",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Growth-Invention-Flywheel-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Growth-Invention-Flywheel-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Growth-Invention-Framework.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Growth-Invention-Framework.webp"
+    ]
+  ]
+}

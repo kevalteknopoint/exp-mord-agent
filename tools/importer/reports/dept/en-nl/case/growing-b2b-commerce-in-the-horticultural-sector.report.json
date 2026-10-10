@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/growing-b2b-commerce-in-the-horticultural-sector/",
+  "path": "dept/en-nl/case/growing-b2b-commerce-in-the-horticultural-sector",
+  "timestamp": "2026-10-09T18:20:27.436Z",
+  "title": "Growing B2B commerce in the horticultural sector - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "image",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/schipol-airport.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/schipol-airport.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Paulas-choice-q.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Paulas-choice-q.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_1.png"
+    ]
+  ]
+}

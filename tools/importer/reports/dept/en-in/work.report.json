@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/work/",
+  "path": "dept/en-in/work",
+  "timestamp": "2026-10-09T17:20:46.043Z",
+  "title": "Featured work by DEPT®, a full service digital agency - DEPT®",
+  "template": "dept-page",
+  "locale": "en-in",
+  "components": [
+    "work-listing-v2"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Tech-whitelabel-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Tech-whitelabel-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Birla-Opus_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Birla-Opus_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Growth-marketing-DEPT%C2%AE.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Growth-marketing-DEPT-.jpeg"
+    ]
+  ]
+}

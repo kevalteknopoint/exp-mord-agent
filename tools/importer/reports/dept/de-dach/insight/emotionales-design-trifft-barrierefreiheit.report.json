@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/emotionales-design-trifft-barrierefreiheit/",
+  "path": "dept/de-dach/insight/emotionales-design-trifft-barrierefreiheit",
+  "timestamp": "2026-10-09T12:02:09.458Z",
+  "title": "Emotionales Design trifft Barrierefreiheit - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "highlighted-item-listing",
+    "call-to-action"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Hochbahn_Mood_Image1@2x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Hochbahn_Mood_Image1-2x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/bild-u4-elbbruecken-data.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/bild-u4-elbbruecken-data.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Hochbahn_Mood_Image1@2x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Hochbahn_Mood_Image1-2x.jpg"
+    ]
+  ]
+}

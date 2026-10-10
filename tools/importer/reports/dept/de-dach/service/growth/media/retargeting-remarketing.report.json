@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/growth/media/retargeting-remarketing/",
+  "path": "dept/de-dach/service/growth/media/retargeting-remarketing",
+  "timestamp": "2026-10-09T11:26:15.276Z",
+  "title": "Retargeting & Remarketing - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Remarketing.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Remarketing.png"
+    ]
+  ]
+}

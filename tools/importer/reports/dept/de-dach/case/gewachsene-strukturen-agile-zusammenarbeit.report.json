@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/gewachsene-strukturen-agile-zusammenarbeit/",
+  "path": "dept/de-dach/case/gewachsene-strukturen-agile-zusammenarbeit",
+  "timestamp": "2026-10-09T11:01:40.727Z",
+  "title": "Gewachsene Strukturen, agile Zusammenarbeit - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "video",
+    "panel-with-cards",
+    "video",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/PE_eMobilitaet_F_2184x1228.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/PE_eMobilitaet_F_2184x1228.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/RightImage-copy-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/RightImage-copy-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/05-verena-sandbote-e1627480031616.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/05-verena-sandbote-e1627480031616.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-636008560-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-636008560-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/PE_eMobilitaet_F_2184x1228.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/PE_eMobilitaet_F_2184x1228.jpg"
+    ]
+  ]
+}

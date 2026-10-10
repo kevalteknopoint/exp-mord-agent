@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/in-sekunden-zum-passenden-ersatzteil/",
+  "path": "dept/de-dach/case/in-sekunden-zum-passenden-ersatzteil",
+  "timestamp": "2026-10-09T11:05:11.864Z",
+  "title": "In Sekunden zum passenden Ersatzteil - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Jungheinrich-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Jungheinrich-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ]
+  ]
+}

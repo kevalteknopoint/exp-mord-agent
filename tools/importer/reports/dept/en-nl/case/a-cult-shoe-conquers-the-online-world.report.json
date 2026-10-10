@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-cult-shoe-conquers-the-online-world/",
+  "path": "dept/en-nl/case/a-cult-shoe-conquers-the-online-world",
+  "timestamp": "2026-10-09T17:27:23.562Z",
+  "title": "A cult shoe conquers the online world - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/birkenstock-eu-cw15-stage-01-franca-d.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/birkenstock-eu-cw15-stage-01-franca-d.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/birkenstock-1024x1024-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/birkenstock-1024x1024-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1019635_f_look_f.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1019635_f_look_f.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1015488_f_look_f.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1015488_f_look_f.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1022719_f_closeup_f.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1022719_f_closeup_f.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-94-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-94-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/foot-locker-bus-in-paris-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/foot-locker-bus-in-paris-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Curio-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Curio-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/simple-feast-mobile-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/simple-feast-mobile-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/birkenstock_featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/birkenstock_featured.jpg"
+    ]
+  ]
+}

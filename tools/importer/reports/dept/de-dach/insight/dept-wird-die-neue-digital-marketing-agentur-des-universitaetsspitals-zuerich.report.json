@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/dept-wird-die-neue-digital-marketing-agentur-des-universitaetsspitals-zuerich/",
+  "path": "dept/de-dach/insight/dept-wird-die-neue-digital-marketing-agentur-des-universitaetsspitals-zuerich",
+  "timestamp": "2026-10-09T11:52:14.055Z",
+  "title": "DEPT® wird Leadagentur für das Universitätsspital Zürich - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT%C2%AE-x-USZ.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT--x-USZ.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Fabienne-Schneuwly-Dept-e1627477734889-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Fabienne-Schneuwly-Dept-e1627477734889-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Fabienne-Schneuwly-Dept-e1627477734889.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Fabienne-Schneuwly-Dept-e1627477734889.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT%C2%AE-x-USZ.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT--x-USZ.jpg"
+    ]
+  ]
+}

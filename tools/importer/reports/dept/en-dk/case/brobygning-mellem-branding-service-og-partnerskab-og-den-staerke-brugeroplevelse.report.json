@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/brobygning-mellem-branding-service-og-partnerskab-og-den-staerke-brugeroplevelse/",
+  "path": "dept/en-dk/case/brobygning-mellem-branding-service-og-partnerskab-og-den-staerke-brugeroplevelse",
+  "timestamp": "2026-10-09T14:01:53.864Z",
+  "title": "Brobygning mellem service, partnerskaber og brandfortælling - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/muuto-living-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/muuto-living-area-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-197@2x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-197-2x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/50-50-A.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/50-50-A.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-177@2x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-177-2x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/50-50-C.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/50-50-C.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-185@2x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-185-2x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-cover-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-cover-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/01/muuto-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/01/muuto-1-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/will-loyalty-programs-be-nfts-saving-grace/",
+  "path": "dept/en-in/insight/will-loyalty-programs-be-nfts-saving-grace",
+  "timestamp": "2026-10-09T16:06:41.839Z",
+  "title": "Will loyalty programs be NFTs' saving grace? - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/nfts-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/nfts-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/neon-reef.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/neon-reef.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/power-lines.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/power-lines.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-1000X1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--1000X1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/nfts-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/nfts-concept.jpg"
+    ]
+  ]
+}

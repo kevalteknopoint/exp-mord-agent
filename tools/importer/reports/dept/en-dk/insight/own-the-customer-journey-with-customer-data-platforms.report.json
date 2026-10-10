@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/own-the-customer-journey-with-customer-data-platforms/",
+  "path": "dept/en-dk/insight/own-the-customer-journey-with-customer-data-platforms",
+  "timestamp": "2026-10-09T14:58:57.840Z",
+  "title": "Own the customer journey with customer data platforms - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/photo-1504868584819-f8e8b4b6d7e3-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/photo-1504868584819-f8e8b4b6d7e3-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/photo-1504868584819-f8e8b4b6d7e3-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/photo-1504868584819-f8e8b4b6d7e3-1200x750-c.jpeg"
+    ]
+  ]
+}

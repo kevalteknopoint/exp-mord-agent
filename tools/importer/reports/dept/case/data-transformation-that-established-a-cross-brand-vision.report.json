@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/data-transformation-that-established-a-cross-brand-vision/",
+  "path": "dept/case/data-transformation-that-established-a-cross-brand-vision",
+  "timestamp": "2026-10-09T10:39:12.845Z",
+  "title": "Featured work: Data transformation for Tailored Brands",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Tailored-Brands-Case-image-2-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Tailored-Brands-Case-image-2-1920x1080-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Tailored-Brands-Case-image-1-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Tailored-Brands-Case-image-1-1920x1080-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/03_Brand_Equity_Phase_I_Face_Judge_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/03_Brand_Equity_Phase_I_Face_Judge_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg"
+    ]
+  ]
+}

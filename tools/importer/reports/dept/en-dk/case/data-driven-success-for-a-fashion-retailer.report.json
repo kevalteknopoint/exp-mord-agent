@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/data-driven-success-for-a-fashion-retailer/",
+  "path": "dept/en-dk/case/data-driven-success-for-a-fashion-retailer",
+  "timestamp": "2026-10-09T14:13:51.440Z",
+  "title": "Data-driven success for a fashion retailer - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Omoda-Featured-Image-1024x559-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Omoda-Featured-Image-1024x559-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Feature-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Feature-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Feature-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Feature-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/image-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/image-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Feature-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Feature-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Feature-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Feature-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/omoda-store.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/omoda-store.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/omoda-store2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/omoda-store2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/01/muuto-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/01/muuto-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Featured-Image.jpg"
+    ]
+  ]
+}

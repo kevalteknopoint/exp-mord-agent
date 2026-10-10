@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/downloads/retail-media-2-0-the-future-of-advertising-in-the-digital-marketplace/",
+  "path": "dept/en-dk/downloads/retail-media-2-0-the-future-of-advertising-in-the-digital-marketplace",
+  "timestamp": "2026-10-09T13:44:55.323Z",
+  "title": "Retail media 2.0: The future of advertising in the digital marketplace - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-dk",
+  "components": [
+    "whitepaper-detail-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Retail-Media-2.0-Whitepaper-Featured-Image-2200x1237-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Retail-Media-2.0-Whitepaper-Featured-Image-2200x1237-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Retail-Media-2.0-Whitepaper-Featured-Image-2200x1237-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Retail-Media-2.0-Whitepaper-Featured-Image-2200x1237-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/the-worlds-first-ipad-based-cloud-powered-hospitality-point-of-sale-system/",
+  "path": "dept/en-au/case/the-worlds-first-ipad-based-cloud-powered-hospitality-point-of-sale-system",
+  "timestamp": "2026-10-09T12:35:20.475Z",
+  "title": "The world’s first iPad-based, cloud-powered hospitality point-of-sale system - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/breadcrumb-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/breadcrumb-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/breadcrumb-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/breadcrumb-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otravo_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otravo_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Read-More-Breadcrumb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Read-More-Breadcrumb.png"
+    ]
+  ]
+}

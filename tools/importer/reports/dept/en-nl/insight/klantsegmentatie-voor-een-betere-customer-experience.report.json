@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/klantsegmentatie-voor-een-betere-customer-experience/",
+  "path": "dept/en-nl/insight/klantsegmentatie-voor-een-betere-customer-experience",
+  "timestamp": "2026-10-09T18:31:23.536Z",
+  "title": "Klantsegmentatie voor een betere customer experience - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Office_FACTOR-A-03-480x320-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Office_FACTOR-A-03-480x320-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rick-van-Sintmaartensdijk-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rick-van-Sintmaartensdijk-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Office_FACTOR-A-03-480x320-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Office_FACTOR-A-03-480x320-1.jpg"
+    ]
+  ]
+}

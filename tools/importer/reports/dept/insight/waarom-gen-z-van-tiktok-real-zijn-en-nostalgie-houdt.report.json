@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/waarom-gen-z-van-tiktok-real-zijn-en-nostalgie-houdt/",
+  "path": "dept/insight/waarom-gen-z-van-tiktok-real-zijn-en-nostalgie-houdt",
+  "timestamp": "2026-10-09T21:03:53.582Z",
+  "title": "Waarom Gen Z van TikTok, “real”-zijn en nostalgie houdt - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/why-gen-zers-love-tik-tok.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/why-gen-zers-love-tik-tok.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/why-gen-zers-love-tik-tok-1024x576.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/why-gen-zers-love-tik-tok-1024x576.jpg"
+    ]
+  ]
+}

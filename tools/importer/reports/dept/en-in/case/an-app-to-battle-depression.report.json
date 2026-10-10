@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/an-app-to-battle-depression/",
+  "path": "dept/en-in/case/an-app-to-battle-depression",
+  "timestamp": "2026-10-09T14:50:06.941Z",
+  "title": "An app to battle depression - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/beyond-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/beyond-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/beyond-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/beyond-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1313751774-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1313751774-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/BeyondBlueProject@2X-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/BeyondBlueProject-2X-1.jpg"
+    ]
+  ]
+}

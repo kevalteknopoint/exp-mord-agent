@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/holiday-fun-meets-digital-with-chocomel/",
+  "path": "dept/case/holiday-fun-meets-digital-with-chocomel",
+  "timestamp": "2026-10-09T10:18:45.039Z",
+  "title": "Holiday fun meets digital with Chocomel - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/wezijnerweer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/wezijnerweer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jord-Wessels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jord-Wessels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/sesamestreetyourself-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/sesamestreetyourself-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Trainline_Featured_16_9.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Trainline_Featured_16_9.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/von-der-gesetzlichen-pflicht-zur-kuenstlerischen-kuer/",
+  "path": "dept/de-dach/case/von-der-gesetzlichen-pflicht-zur-kuenstlerischen-kuer",
+  "timestamp": "2026-10-09T11:26:56.792Z",
+  "title": "Von der gesetzlichen Pflicht zur künstlerischen Kür - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/ZHdK_Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/ZHdK_Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/ZHdK_Digital-Examples-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/ZHdK_Digital-Examples-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/ZHdK_Detail-Pages-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/ZHdK_Detail-Pages-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/ZHdK_Mobile-Screens.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/ZHdK_Mobile-Screens.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Vera-Weber_HV-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Vera-Weber_HV-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/AEG-Oeko-Kombi-Waschtrockner-2-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/AEG-Oeko-Kombi-Waschtrockner-2-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/ZHdK_Mobile-Screens.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/ZHdK_Mobile-Screens.png"
+    ]
+  ]
+}

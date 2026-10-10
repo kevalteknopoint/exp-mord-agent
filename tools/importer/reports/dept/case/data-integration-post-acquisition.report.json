@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/data-integration-post-acquisition/",
+  "path": "dept/case/data-integration-post-acquisition",
+  "timestamp": "2026-10-09T10:39:02.540Z",
+  "title": "Featured work: Disney’s data integration post-acquisition - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/disney-data-analyics-consulting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/disney-data-analyics-consulting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/disney-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/disney-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Barilla-Pesto-Week-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Barilla-Pesto-Week-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/disney-data-analyics-consulting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/disney-data-analyics-consulting.jpg"
+    ]
+  ]
+}

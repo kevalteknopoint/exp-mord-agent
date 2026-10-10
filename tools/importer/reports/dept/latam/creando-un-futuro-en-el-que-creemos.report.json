@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/creando-un-futuro-en-el-que-creemos/",
+  "path": "dept/latam/creando-un-futuro-en-el-que-creemos",
+  "timestamp": "2026-10-09T23:01:22.540Z",
+  "title": "Creando un futuro en el que creemos - DEPT®",
+  "template": "dept-page",
+  "locale": "latam",
+  "components": [
+    "post-header",
+    "full-width-image",
+    "panel-with-rich-text",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Impact-report-featured-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Impact-report-featured-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Impact-report-featured-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Impact-report-featured-1.jpeg"
+    ]
+  ]
+}

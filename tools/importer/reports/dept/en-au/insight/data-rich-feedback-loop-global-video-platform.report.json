@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/data-rich-feedback-loop-global-video-platform/",
+  "path": "dept/en-au/insight/data-rich-feedback-loop-global-video-platform",
+  "timestamp": "2026-10-09T12:38:00.150Z",
+  "title": "How we created a data-rich feedback loop for a global video platform - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/dta-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/dta-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/david-grover-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/david-grover-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/dta-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/dta-abstract.jpg"
+    ]
+  ]
+}

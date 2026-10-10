@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/fast-forward-b2b-how-to-accelerate-your-digital-commerce-business/",
+  "path": "dept/insight/fast-forward-b2b-how-to-accelerate-your-digital-commerce-business",
+  "timestamp": "2026-10-09T20:33:10.040Z",
+  "title": "Fast forward B2B: How to accelerate your digital commerce business - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/fastforwar_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/fastforwar_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/fastforwar_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/fastforwar_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/fastforwar_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/fastforwar_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/fastforwar_4.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/fastforwar_4.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/fastforwar_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/fastforwar_1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/take-off-to-the-cloud-website-migration-to-adobe-experience-manager/",
+  "path": "dept/en-dk/case/take-off-to-the-cloud-website-migration-to-adobe-experience-manager",
+  "timestamp": "2026-10-09T13:27:28.142Z",
+  "title": "Take off to the cloud: website migration to Adobe Experience Manager - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1.-Edelweiss_Mockup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1.-Edelweiss_Mockup.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/4.-Edelweiss_Mobile-Screens_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/4.-Edelweiss_Mobile-Screens_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/drone-racing-league-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/drone-racing-league-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ]
+  ]
+}

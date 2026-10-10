@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/elevating-a-luxury-e-bike-website/",
+  "path": "dept/en-au/case/elevating-a-luxury-e-bike-website",
+  "timestamp": "2026-10-09T12:57:50.758Z",
+  "title": "Featured work: Cowboy e-commerce design and development",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/cowboy-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/cowboy-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/rothys-the-driver-featured-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/rothys-the-driver-featured-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/cowboy-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/cowboy-1.png"
+    ]
+  ]
+}

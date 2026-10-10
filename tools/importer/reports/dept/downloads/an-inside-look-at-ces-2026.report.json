@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/an-inside-look-at-ces-2026/",
+  "path": "dept/downloads/an-inside-look-at-ces-2026",
+  "timestamp": "2026-10-09T11:34:46.239Z",
+  "title": "Inside look at CES 2026: For marketing & brand leaders [Download] - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/ces-takeaways-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/ces-takeaways-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/dept-ces-panel-2026-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/dept-ces-panel-2026-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Pilot-to-orchestration-feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Pilot-to-orchestration-feature.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/crm-systems-ai-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/crm-systems-ai-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/ces-takeaways-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/ces-takeaways-2026.webp"
+    ]
+  ]
+}

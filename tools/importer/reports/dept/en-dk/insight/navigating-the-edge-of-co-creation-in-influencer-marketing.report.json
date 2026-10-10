@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/navigating-the-edge-of-co-creation-in-influencer-marketing/",
+  "path": "dept/en-dk/insight/navigating-the-edge-of-co-creation-in-influencer-marketing",
+  "timestamp": "2026-10-09T14:55:16.564Z",
+  "title": "Navigating the edge of co-creation in influencer marketing - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/co-creation-influencer-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/co-creation-influencer-marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Kasper-Koletzki-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Kasper-Koletzki-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/influencer-marketing-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/influencer-marketing-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Kasper-Koletzki.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Kasper-Koletzki.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/co-creation-influencer-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/co-creation-influencer-marketing.jpg"
+    ]
+  ]
+}

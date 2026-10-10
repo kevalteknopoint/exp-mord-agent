@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/b-d-jams/",
+  "path": "dept/en-dk/case/b-d-jams",
+  "timestamp": "2026-10-09T13:55:34.979Z",
+  "title": "B/D® JAMS - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "image",
+    "title-and-content",
+    "video",
+    "video",
+    "title-and-content",
+    "image",
+    "video",
+    "title-and-content",
+    "video",
+    "video",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/JAMScase_heroimage.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/JAMScase_heroimage.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/JAMScase_postersplit3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/JAMScase_postersplit3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/JAMScase_btsimg6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/JAMScase_btsimg6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/JAMScase_btsimg2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/JAMScase_btsimg2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/JAMScase_btsimg3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/JAMScase_btsimg3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/asher-wren-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/asher-wren-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/drone-racing-league-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/drone-racing-league-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Feature-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Feature-500x300-1.png"
+    ]
+  ]
+}

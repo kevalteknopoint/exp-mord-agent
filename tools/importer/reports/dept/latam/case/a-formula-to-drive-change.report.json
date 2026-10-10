@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/a-formula-to-drive-change/",
+  "path": "dept/latam/case/a-formula-to-drive-change",
+  "timestamp": "2026-10-09T21:24:28.383Z",
+  "title": "A formula to drive change - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "panel-with-cards",
+    "full-width-image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-861247950-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-861247950-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Nyiyaparli-Widi-Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Nyiyaparli-Widi-Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1002823828-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1002823828-1-scaled.jpg"
+    ]
+  ]
+}

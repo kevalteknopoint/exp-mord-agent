@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/fusion-de-la-marca-iconica-de-kfc-con-una-comodidad-inigualable/",
+  "path": "dept/case/fusion-de-la-marca-iconica-de-kfc-con-una-comodidad-inigualable",
+  "timestamp": "2026-10-09T10:10:31.039Z",
+  "title": "Fusión de la marca icónica de KFC con una comodidad inigualable - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/smart_DATA_case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/smart_DATA_case.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-cares-day-2019/",
+  "path": "dept/en-nl/insight/dept-cares-day-2019",
+  "timestamp": "2026-10-09T23:48:14.806Z",
+  "title": "DEPT® Cares Day 2019 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "insights-header"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/IMG_0535-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/IMG_0535-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/IMG_0535-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/IMG_0535-1200x750-c.jpeg"
+    ]
+  ]
+}

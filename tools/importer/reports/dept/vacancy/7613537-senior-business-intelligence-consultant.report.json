@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/vacancy/7613537-senior-business-intelligence-consultant",
+  "path": "dept/vacancy/7613537-senior-business-intelligence-consultant",
+  "timestamp": "2026-10-09T22:08:54.589Z",
+  "title": "Senior Business Intelligence Consultant - DEPT®",
+  "template": "dept-vacancy",
+  "locale": "global",
+  "components": [
+    "job-details",
+    "image-cards"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-tl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-tl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-tr.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-tr.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-bl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-bl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-br.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-br.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/800x600-1.jpg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/800x600-1.jpg"
+    ]
+  ]
+}

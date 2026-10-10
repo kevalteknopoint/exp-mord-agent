@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/how-creative-automation-can-supercharge-your-business/",
+  "path": "dept/en-in/insight/how-creative-automation-can-supercharge-your-business",
+  "timestamp": "2026-10-09T16:39:53.844Z",
+  "title": "How creative automation can supercharge your business - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/creative-automation-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/creative-automation-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/jamie-kenny-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/jamie-kenny-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-2-Blog-post-1920x1080-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-2-Blog-post-1920x1080-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Events-Header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Events-Header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/moon-creative-automatiom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/moon-creative-automatiom.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DEPT-Interior-118-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DEPT-Interior-118-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/creative-automation-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/creative-automation-concept.jpg"
+    ]
+  ]
+}

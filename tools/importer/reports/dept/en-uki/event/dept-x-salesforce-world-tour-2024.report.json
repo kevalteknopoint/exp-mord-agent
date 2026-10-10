@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/dept-x-salesforce-world-tour-2024/",
+  "path": "dept/en-uki/event/dept-x-salesforce-world-tour-2024",
+  "timestamp": "2026-10-09T19:50:35.366Z",
+  "title": "DEPT® x Salesforce World Tour 2024 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-header",
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "highlighted-item-listing",
+    "event-register",
+    "title-and-content"
+  ],
+  "fallback": [
+    "event-header",
+    "event-header"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Salesforce-connections-00000-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Salesforce-connections-00000-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Salesforce-connections-00000-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Salesforce-connections-00000-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Salesforce-connections-00000.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Salesforce-connections-00000.jpg"
+    ]
+  ]
+}

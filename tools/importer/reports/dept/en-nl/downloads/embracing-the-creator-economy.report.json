@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/embracing-the-creator-economy/",
+  "path": "dept/en-nl/downloads/embracing-the-creator-economy",
+  "timestamp": "2026-10-09T17:49:11.100Z",
+  "title": "De creator economy omarmen - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-detail-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Lunch-Break-Social-Creators-header-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Lunch-Break-Social-Creators-header-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Lunch-Break-Social-Creators-header-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Lunch-Break-Social-Creators-header-image.jpg"
+    ]
+  ]
+}

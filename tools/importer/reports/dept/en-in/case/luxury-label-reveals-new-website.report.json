@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/luxury-label-reveals-new-website/",
+  "path": "dept/en-in/case/luxury-label-reveals-new-website",
+  "timestamp": "2026-10-09T16:03:44.066Z",
+  "title": "Luxury label reveals new website - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/2007-launch-ourstory-1440x799-01.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/2007-launch-ourstory-1440x799-01.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Q70023002_050_main.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Q70023002_050_main.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Q70321005_1CN_back.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Q70321005_1CN_back.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-125-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-125-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-126-2-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-126-2-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/APS_mood.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/APS_mood.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Q70321005_1CN_back.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Q70321005_1CN_back.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ricola-heritage-neu-gedacht-eine-moderne-umgestaltung-fuer-eine-kultmarke/",
+  "path": "dept/de-dach/case/ricola-heritage-neu-gedacht-eine-moderne-umgestaltung-fuer-eine-kultmarke",
+  "timestamp": "2026-10-09T11:18:14.242Z",
+  "title": "Heritage neu gedacht: Eine moderne Umgestaltung für eine Kultmarke - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/ricola-bento-v3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/ricola-bento-v3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/ricola-mood-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/ricola-mood-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/ricola-ecommerce-mobile.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/ricola-ecommerce-mobile.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Header-1440x810-c-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Header-1440x810-c-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/den-energieverbrauch-einsehen-und-anpassen/",
+  "path": "dept/de-dach/case/den-energieverbrauch-einsehen-und-anpassen",
+  "timestamp": "2026-10-09T11:32:01.740Z",
+  "title": "Den Energieverbrauch einsehen und anpassen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Oxxio-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Oxxio-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Norbert-Kersbergen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Norbert-Kersbergen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/van.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/van.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/msi-invitational-lol-design-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/msi-invitational-lol-design-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Oxxio-1-e1530628250257.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Oxxio-1-e1530628250257.jpg"
+    ]
+  ]
+}

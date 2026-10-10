@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/the-lovie-awards-beyond-currents-shaping-europes-internet-culture-and-innovation/",
+  "path": "dept/event/the-lovie-awards-beyond-currents-shaping-europes-internet-culture-and-innovation",
+  "timestamp": "2026-10-09T21:26:16.747Z",
+  "title": "The Lovie Awards: Beyond - Currents Shaping Europe’s Internet Culture & Innovation - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Lovie-Awards-2023-Event-header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Lovie-Awards-2023-Event-header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Marijke-Smallegange-11-09-2019-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Marijke-Smallegange-11-09-2019-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/David-Newton-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/David-Newton-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ramin-Bahari-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ramin-Bahari-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Jacqueline-Kavanagh-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Jacqueline-Kavanagh-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Lovie-Awards-2023-Event-header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Lovie-Awards-2023-Event-header.png"
+    ]
+  ]
+}

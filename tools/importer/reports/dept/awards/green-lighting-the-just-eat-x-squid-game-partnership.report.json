@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/green-lighting-the-just-eat-x-squid-game-partnership/",
+  "path": "dept/awards/green-lighting-the-just-eat-x-squid-game-partnership",
+  "timestamp": "2026-10-09T10:20:29.384Z",
+  "title": "Green lighting the Just Eat x Squid Game partnership - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "full-width-image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "full-width-image",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Jetflix2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Jetflix2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Jetflix3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Jetflix3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/JETLFIX_Featured_16_9-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/JETLFIX_Featured_16_9-1.jpg"
+    ]
+  ]
+}

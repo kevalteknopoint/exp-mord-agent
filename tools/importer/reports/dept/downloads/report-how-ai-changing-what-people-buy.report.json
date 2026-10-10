@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/report-how-ai-changing-what-people-buy/",
+  "path": "dept/downloads/report-how-ai-changing-what-people-buy",
+  "timestamp": "2026-10-09T11:44:23.696Z",
+  "title": "[Report] How AI is changing what people buy  - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/ai-shoopers-stat1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/ai-shoopers-stat1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp"
+    ]
+  ]
+}

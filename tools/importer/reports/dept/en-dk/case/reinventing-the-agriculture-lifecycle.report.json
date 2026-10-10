@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/reinventing-the-agriculture-lifecycle/",
+  "path": "dept/en-dk/case/reinventing-the-agriculture-lifecycle",
+  "timestamp": "2026-10-09T14:40:00.441Z",
+  "title": "Reinventing the agriculture lifecycle - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1218623771-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1218623771-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Indigo-AG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Indigo-AG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-155145458-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-155145458-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1299915575-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1299915575-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Frame-1537-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Frame-1537-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-539454508-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-539454508-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-636008560-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-636008560-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/indigo_8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/indigo_8-1.jpg"
+    ]
+  ]
+}

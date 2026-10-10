@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/careers/roles/",
+  "path": "dept/en-uki/careers/roles",
+  "timestamp": "2026-10-09T19:30:21.635Z",
+  "title": "Roles - DEPT®",
+  "template": "dept-careers",
+  "locale": "en-uki",
+  "components": [
+    "card-hero",
+    "wrapper",
+    "carousel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/careers-header.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/careers-header.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-3.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-21.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-21.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-30.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-30.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-1.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-18.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-18.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-20.webp",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-20.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/4016-DSC_0037-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/4016-DSC_0037-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Dept-48.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Dept-48.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/DEPT_1304-73-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/DEPT_1304-73-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/20190907-DEPTweekend-166-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/20190907-DEPTweekend-166-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

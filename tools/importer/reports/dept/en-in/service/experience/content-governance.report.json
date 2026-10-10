@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/experience/content-governance/",
+  "path": "dept/en-in/service/experience/content-governance",
+  "timestamp": "2026-10-09T16:23:39.870Z",
+  "title": "Content governance | Customer experience agency - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/HeaderContentGov.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/HeaderContentGov.jpg"
+    ]
+  ]
+}

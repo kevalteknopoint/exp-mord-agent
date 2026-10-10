@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/brand-experiences-fuer-tech-futuristinnen/",
+  "path": "dept/case/brand-experiences-fuer-tech-futuristinnen",
+  "timestamp": "2026-10-09T10:09:40.351Z",
+  "title": "Brand Experiences für Tech Futurist:innen - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "image",
+    "title-and-content",
+    "video",
+    "image",
+    "title-and-content",
+    "video",
+    "image",
+    "title-and-content",
+    "image",
+    "video",
+    "quote",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/003-Arm-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/003-Arm-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Mobile-min-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Mobile-min-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/008-Arm-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/008-Arm-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/009-Arm-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/009-Arm-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-36-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-36-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/James-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/James-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-33-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-33-min.jpg"
+    ]
+  ]
+}

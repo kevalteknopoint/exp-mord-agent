@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/how-internal-influencers-help-humanise-your-brand/",
+  "path": "dept/en-uki/insight/how-internal-influencers-help-humanise-your-brand",
+  "timestamp": "2026-10-09T21:03:53.344Z",
+  "title": "How internal influencers help humanise your brand - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/HOW-INTERNAL-INFLUENCERS-HELP-HUMANISE-YOUR-BRAND1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/HOW-INTERNAL-INFLUENCERS-HELP-HUMANISE-YOUR-BRAND1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/HOW-INTERNAL-INFLUENCERS-HELP-HUMANISE-YOUR-BRAND1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/HOW-INTERNAL-INFLUENCERS-HELP-HUMANISE-YOUR-BRAND1.jpg"
+    ]
+  ]
+}

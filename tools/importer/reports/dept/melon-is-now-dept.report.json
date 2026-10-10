@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/melon-is-now-dept/",
+  "path": "dept/melon-is-now-dept",
+  "timestamp": "2026-10-09T22:35:49.542Z",
+  "title": "Melon is now DEPT® - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "statement",
+    "video",
+    "title-and-content",
+    "four-card-information-block",
+    "highlighted-item-listing",
+    "title-and-content",
+    "numbered-carousel",
+    "highlighted-item-listing",
+    "rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Commerce-platforms.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Commerce-platforms.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Adobe.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Adobe.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Ecommerce-design-system.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Ecommerce-design-system.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Vineyard-vines-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Vineyard-vines-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/TLC_feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/TLC_feature.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/show-carnival-ecomm-store.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/show-carnival-ecomm-store.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/prepare-to-pioneer-carousel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/prepare-to-pioneer-carousel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Shopify-Plus-vs-Salesforce-Commerce-Cloud-1200x630-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Shopify-Plus-vs-Salesforce-Commerce-Cloud-1200x630-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Salesforce-Commerce-Cloud-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Salesforce-Commerce-Cloud-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/What-is-SFRA_-1000x1200-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/What-is-SFRA_-1000x1200-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

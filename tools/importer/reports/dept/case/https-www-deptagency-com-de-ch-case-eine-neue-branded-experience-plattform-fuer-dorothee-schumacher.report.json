@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/https-www-deptagency-com-de-ch-case-eine-neue-branded-experience-plattform-fuer-dorothee-schumacher/",
+  "path": "dept/case/https-www-deptagency-com-de-ch-case-eine-neue-branded-experience-plattform-fuer-dorothee-schumacher",
+  "timestamp": "2026-10-09T10:19:09.877Z",
+  "title": "Branded Experience Plattform für Dorothee Schumacher - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "awards-panel",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_02-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_02-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_03-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_03-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mobile_Mockup_04-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mobile_Mockup_04-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Annual_Multimedia_Award_WHITE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Annual_Multimedia_Award_WHITE.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1.-Edelweiss_Mockup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1.-Edelweiss_Mockup.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg"
+    ]
+  ]
+}

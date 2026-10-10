@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/ist-2024-das-ende-des-traditionellen-screens/",
+  "path": "dept/de-dach/insight/ist-2024-das-ende-des-traditionellen-screens",
+  "timestamp": "2026-10-09T12:09:35.798Z",
+  "title": "Ist 2024 das Ende des traditionellen Screens? - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Is-2024-the-end-of-screens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Is-2024-the-end-of-screens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/luebue_NEU-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/luebue_NEU-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/meta-glasses.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/meta-glasses.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Is-2024-the-end-of-screens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Is-2024-the-end-of-screens.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/digital-health-coach/",
+  "path": "dept/case/digital-health-coach",
+  "timestamp": "2026-10-09T10:44:32.340Z",
+  "title": "Digital health coach - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "video",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/family-yoga.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/family-yoga.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Swica_Mockup-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Swica_Mockup-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Gleneagles_case_hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Gleneagles_case_hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Swica_Mockup-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Swica_Mockup-2.png"
+    ]
+  ]
+}

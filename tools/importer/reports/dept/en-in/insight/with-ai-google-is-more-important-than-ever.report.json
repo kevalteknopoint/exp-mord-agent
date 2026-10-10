@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/with-ai-google-is-more-important-than-ever/",
+  "path": "dept/en-in/insight/with-ai-google-is-more-important-than-ever",
+  "timestamp": "2026-10-09T16:07:05.261Z",
+  "title": "With AI, Google is becoming more important than ever - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/AI-google-more-important-than-ever.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/AI-google-more-important-than-ever.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/jose-chris-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/jose-chris-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/water-reflection.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/water-reflection.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Google-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Google-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Small-medium-businesses-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Small-medium-businesses-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Search-marketing-AI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Search-marketing-AI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Innovation-search-ai-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Innovation-search-ai-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/How-to-maintain-culture-experimentation-as-you-scale.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/How-to-maintain-culture-experimentation-as-you-scale.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Keyword-Research-Dept-1200x750-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Keyword-Research-Dept-1200x750-c-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/AI-google-more-important-than-ever.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/AI-google-more-important-than-ever.jpg"
+    ]
+  ]
+}

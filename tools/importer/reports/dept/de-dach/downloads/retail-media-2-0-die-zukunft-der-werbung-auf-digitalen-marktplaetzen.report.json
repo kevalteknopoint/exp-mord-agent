@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/retail-media-2-0-die-zukunft-der-werbung-auf-digitalen-marktplaetzen/",
+  "path": "dept/de-dach/downloads/retail-media-2-0-die-zukunft-der-werbung-auf-digitalen-marktplaetzen",
+  "timestamp": "2026-10-09T10:53:40.589Z",
+  "title": "Die Zukunft der Werbung auf digitalen Marktplätzen - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/person-closeup-denim-suit.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/person-closeup-denim-suit.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/person-closeup-denim-suit.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/person-closeup-denim-suit.png"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/superlative-auf-dem-rasen-ein-blick-hinter-die-kulissen-des-fulminanten-kickoff-fussballturniers/",
+  "path": "dept/de-dach/insight/superlative-auf-dem-rasen-ein-blick-hinter-die-kulissen-des-fulminanten-kickoff-fussballturniers",
+  "timestamp": "2026-10-09T11:47:39.239Z",
+  "title": "KICKOFF 2023: Superlative auf dem Rasen - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Kickoff_2023_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Kickoff_2023_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Iva-Cerar_HV-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Iva-Cerar_HV-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Kickoff_2023_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Kickoff_2023_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Kickoff_2023_2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Kickoff_2023_2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Kickoff_2023_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Kickoff_2023_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Kickoff_2023_4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Kickoff_2023_4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Kickoff_2023_5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Kickoff_2023_5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Kickoff_2023_6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Kickoff_2023_6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Iva-Cerar_HV-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Iva-Cerar_HV-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Kickoff_2023_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Kickoff_2023_2.jpg"
+    ]
+  ]
+}

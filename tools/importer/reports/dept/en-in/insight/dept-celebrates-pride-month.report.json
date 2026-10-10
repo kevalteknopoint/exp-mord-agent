@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-in/insight/dept-celebrates-pride-month/",
   "path": "dept/en-in/insight/dept-celebrates-pride-month",
-  "timestamp": "2026-10-08T16:13:18.689Z",
+  "timestamp": "2026-10-09T09:51:58.140Z",
   "title": "DEPT® celebrates Pride month - DEPT®",
   "template": "dept-insight",
   "locale": "en-in",
@@ -17,10 +17,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "image",
-    "image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/08/Billy_Osborne_Pride_Post-1.jpg",

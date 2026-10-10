@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/european-payments-initiative-partners-with-dept-to-position-wero-as-europes-leading-digital-wallet-2-2/",
+  "path": "dept/en-uki/insight/european-payments-initiative-partners-with-dept-to-position-wero-as-europes-leading-digital-wallet-2-2",
+  "timestamp": "2026-10-09T20:47:25.068Z",
+  "title": "European Payments Initiative partners with DEPT® to position Wero as Europe’s leading digital wallet - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/epi_Logo_1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/epi_Logo_1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/bfsi-data-ai-innovation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/bfsi-data-ai-innovation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/epi_Logo_1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/epi_Logo_1920x1080-1.jpg"
+    ]
+  ]
+}

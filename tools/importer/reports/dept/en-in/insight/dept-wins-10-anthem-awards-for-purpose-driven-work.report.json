@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/dept-wins-10-anthem-awards-for-purpose-driven-work/",
+  "path": "dept/en-in/insight/dept-wins-10-anthem-awards-for-purpose-driven-work",
+  "timestamp": "2026-10-09T15:43:03.327Z",
+  "title": "DEPT® wins 10 Anthem Awards for purpose-driven work - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/blog-header-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/blog-header-500x300-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/10-perspectives-on-AI-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/10-perspectives-on-AI-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Salesforce-Image-2-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Salesforce-Image-2-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sustainability-in-tech.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sustainability-in-tech.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/landing-page-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/landing-page-1920x1080-1.jpg"
+    ]
+  ]
+}

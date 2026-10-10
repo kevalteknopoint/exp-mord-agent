@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/reflections-on-black-history-month-from-marlena-edwards/",
+  "path": "dept/insight/reflections-on-black-history-month-from-marlena-edwards",
+  "timestamp": "2026-10-09T21:36:02.241Z",
+  "title": "Reflections on Black History Month from Marlena Edwards - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Black-History-Month_Marlena-Edwards-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Black-History-Month_Marlena-Edwards-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Sandra-Masiliso-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Sandra-Masiliso-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Black-History-Month_Marlena-Edwards-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Black-History-Month_Marlena-Edwards-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Black-History-Month_Marlena-Edwards-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Black-History-Month_Marlena-Edwards-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/pragmatic-giude-ai.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/pragmatic-giude-ai.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/US-head-of-PC-Header-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/US-head-of-PC-Header-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Email-header-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Email-header-1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Sandra-Masiliso.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Sandra-Masiliso.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Black-History-Month_Marlena-Edwards-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Black-History-Month_Marlena-Edwards-1.png"
+    ]
+  ]
+}

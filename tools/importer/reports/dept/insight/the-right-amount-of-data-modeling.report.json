@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-right-amount-of-data-modeling/",
+  "path": "dept/insight/the-right-amount-of-data-modeling",
+  "timestamp": "2026-10-09T22:05:32.840Z",
+  "title": "The right amount of data modeling - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/data-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/data-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/david-grover-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/david-grover-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/data-lake-semantic-layer.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/data-lake-semantic-layer.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/data-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/data-concept.jpg"
+    ]
+  ]
+}

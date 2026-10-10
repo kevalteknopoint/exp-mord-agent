@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/macedonia/dept-data-talks/",
+  "path": "dept/macedonia/dept-data-talks",
+  "timestamp": "2026-10-09T22:35:30.013Z",
+  "title": "DEPT® Data Talks - DEPT®",
+  "template": "dept-page",
+  "locale": "macedonia",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/DEPT%C2%AE_DATA-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/DEPT-_DATA-1-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/DEPT%C2%AE_DATA-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/DEPT-_DATA-1-2.jpg"
+    ]
+  ]
+}

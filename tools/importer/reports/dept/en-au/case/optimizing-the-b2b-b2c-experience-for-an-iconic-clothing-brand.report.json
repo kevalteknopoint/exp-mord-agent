@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/optimizing-the-b2b-b2c-experience-for-an-iconic-clothing-brand/",
+  "path": "dept/en-au/case/optimizing-the-b2b-b2c-experience-for-an-iconic-clothing-brand",
+  "timestamp": "2026-10-09T12:18:30.836Z",
+  "title": "vineyard vines®: Optimizing the B2B & B2C experience for an iconic clothing brand",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/vineyardvines_hero.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/vineyardvines_hero.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/vineyard-vines-mongram-products-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/vineyard-vines-mongram-products-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/vineyard-vines-monogram-products-01.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/vineyard-vines-monogram-products-01.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/vineyardvines_hero.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/vineyardvines_hero.jpeg"
+    ]
+  ]
+}

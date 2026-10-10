@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/advertising-on-reddit-3-things-brands-need-to-know/",
+  "path": "dept/en-au/insight/advertising-on-reddit-3-things-brands-need-to-know",
+  "timestamp": "2026-10-09T12:15:20.242Z",
+  "title": "Advertising on Reddit? 3 Things Brands Need to Know - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/13-ctv-advertising-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/13-ctv-advertising-FT.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Stephanie-Bissonnette-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Stephanie-Bissonnette-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/1-advertising-on-reddit-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/1-advertising-on-reddit-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/1-advertising-on-reddit-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/1-advertising-on-reddit-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Stephanie-Bissonnette.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Stephanie-Bissonnette.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/13-ctv-advertising-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/13-ctv-advertising-FT.jpeg"
+    ]
+  ]
+}

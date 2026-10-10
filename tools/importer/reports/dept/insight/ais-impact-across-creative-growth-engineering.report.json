@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/insight/ais-impact-across-creative-growth-engineering/",
   "path": "dept/insight/ais-impact-across-creative-growth-engineering",
-  "timestamp": "2026-10-08T16:14:36.087Z",
+  "timestamp": "2026-10-09T09:50:24.345Z",
   "title": "The AI Playbook: AI’s impact across creative, growth, & engineering  - DEPT®",
   "template": "dept-insight",
   "locale": "global",
@@ -26,12 +26,7 @@
     "title-and-content",
     "highlighted-item-listing"
   ],
-  "fallback": [
-    "statement",
-    "statement",
-    "statement",
-    "statement"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/03/AI-impact-creative-growth-engineering.jpg",

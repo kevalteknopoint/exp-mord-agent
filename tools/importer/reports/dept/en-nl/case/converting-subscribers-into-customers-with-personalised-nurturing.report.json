@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/converting-subscribers-into-customers-with-personalised-nurturing/",
+  "path": "dept/en-nl/case/converting-subscribers-into-customers-with-personalised-nurturing",
+  "timestamp": "2026-10-09T17:58:06.835Z",
+  "title": "Converting subscribers into customers with personalised nurturing  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "video",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "image",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-ev-brand-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-ev-brand-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-marketing-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-marketing-automation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-marketing-automation-welcome-journey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-marketing-automation-welcome-journey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-marketing-automation-campaign.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-marketing-automation-campaign.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ]
+  ]
+}

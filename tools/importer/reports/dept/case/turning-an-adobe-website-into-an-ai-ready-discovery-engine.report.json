@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/turning-an-adobe-website-into-an-ai-ready-discovery-engine/",
+  "path": "dept/case/turning-an-adobe-website-into-an-ai-ready-discovery-engine",
+  "timestamp": "2026-10-09T11:09:36.340Z",
+  "title": "Turning an Adobe website into an AI-ready discovery engine - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Tech-whitelabel-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Tech-whitelabel-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Tech-whitelabel-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Tech-whitelabel-Insight-1920x1080-1.png"
+    ]
+  ]
+}

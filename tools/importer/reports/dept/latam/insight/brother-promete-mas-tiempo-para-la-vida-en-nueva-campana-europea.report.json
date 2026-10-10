@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/brother-promete-mas-tiempo-para-la-vida-en-nueva-campana-europea/",
+  "path": "dept/latam/insight/brother-promete-mas-tiempo-para-la-vida-en-nueva-campana-europea",
+  "timestamp": "2026-10-09T23:38:34.739Z",
+  "title": "Brother promete “Más tiempo para la vida” en su nueva campaña europea - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "case-credits",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Brother-3-website-insight.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Brother-3-website-insight.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Brother-3-website-insight.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Brother-3-website-insight.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/dynamic-success-jysks-e-commerce-transformation/",
+  "path": "dept/en-dk/case/dynamic-success-jysks-e-commerce-transformation",
+  "timestamp": "2026-10-09T14:17:16.541Z",
+  "title": "Driving E-Commerce Growth: JYSK's Social Media Success Story",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JYSK-dk-case-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JYSK-dk-case-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/jysk_case_image_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/jysk_case_image_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/jysk_case_image_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/jysk_case_image_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Kasper-Koletzki.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Kasper-Koletzki.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET-Sundae_1000x1200-min-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET-Sundae_1000x1200-min-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Mammut1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Mammut1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JYSK-Featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JYSK-Featured-image.jpg"
+    ]
+  ]
+}

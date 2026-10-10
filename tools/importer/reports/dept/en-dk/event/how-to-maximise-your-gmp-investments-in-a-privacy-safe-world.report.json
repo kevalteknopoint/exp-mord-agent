@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/how-to-maximise-your-gmp-investments-in-a-privacy-safe-world/",
+  "path": "dept/en-dk/event/how-to-maximise-your-gmp-investments-in-a-privacy-safe-world",
+  "timestamp": "2026-10-09T23:11:06.042Z",
+  "title": "How to maximise your GMP investments in a privacy-safe worldDEPT® @ Google: How to maximise your GMP investments in a privacy-safe world - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-header",
+    "event-registration-form",
+    "event-register",
+    "title-and-content",
+    "four-card-information-block",
+    "event-program",
+    "event-registration-form",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/GMP-Event-Event-header-1905x975-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/GMP-Event-Event-header-1905x975-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/GMP-Event-Event-header-1905x975-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/GMP-Event-Event-header-1905x975-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Birgitte-Johncke-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Birgitte-Johncke-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Kristoffer-Hald.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Kristoffer-Hald.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Amir-Hermon-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Amir-Hermon-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Steven-Ramaker-Dept-2-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Steven-Ramaker-Dept-2-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Christian-pedersen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Christian-pedersen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Alex-van-Wijhe-Dept-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Alex-van-Wijhe-Dept-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/GMP-Event-Event-header-1905x975-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/GMP-Event-Event-header-1905x975-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/GMP-Event-Event-header-1905x975-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/GMP-Event-Event-header-1905x975-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/uber-den-handelskonflikt-hinaus-wie-potenzielle-zollstorungen-in-langfristige-marketingchancen-verwandelt-werden-konnen/",
+  "path": "dept/de-dach/insight/uber-den-handelskonflikt-hinaus-wie-potenzielle-zollstorungen-in-langfristige-marketingchancen-verwandelt-werden-konnen",
+  "timestamp": "2026-10-09T11:49:45.842Z",
+  "title": "Über den Handelskonflikt hinaus: Wie potenzielle Zollstörungen in langfristige Marketingchancen verwandelt werden können - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/strategic-navigators-tariff-disruption.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/strategic-navigators-tariff-disruption.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Andrew-Dimitriou-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Andrew-Dimitriou-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/strategic-navigators-tariff-disruption.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/strategic-navigators-tariff-disruption.jpg"
+    ]
+  ]
+}

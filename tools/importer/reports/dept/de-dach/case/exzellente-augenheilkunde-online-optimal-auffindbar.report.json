@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/exzellente-augenheilkunde-online-optimal-auffindbar/",
+  "path": "dept/de-dach/case/exzellente-augenheilkunde-online-optimal-auffindbar",
+  "timestamp": "2026-10-09T10:59:25.805Z",
+  "title": "Exzellente Augenheilkunde online optimal auffindbar - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Header-Image-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Header-Image-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Pallas-Standortseite.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Pallas-Standortseite.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Pallas-Searchmetrics.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Pallas-Searchmetrics.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/ExLibris-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/ExLibris-Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Header-Image-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Header-Image-1440x810-c.jpg"
+    ]
+  ]
+}

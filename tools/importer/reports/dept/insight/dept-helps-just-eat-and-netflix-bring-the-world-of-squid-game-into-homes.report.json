@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-helps-just-eat-and-netflix-bring-the-world-of-squid-game-into-homes/",
+  "path": "dept/insight/dept-helps-just-eat-and-netflix-bring-the-world-of-squid-game-into-homes",
+  "timestamp": "2026-10-09T21:12:35.960Z",
+  "title": "DEPT® helps Just Eat and Netflix bring the world of Squid Game into homes - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "case-intro",
+    "video",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Social-media-trends-and-culture-Web-16_9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Social-media-trends-and-culture-Web-16_9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT-x-Lufthansa-plane.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-x-Lufthansa-plane.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ]
+  ]
+}

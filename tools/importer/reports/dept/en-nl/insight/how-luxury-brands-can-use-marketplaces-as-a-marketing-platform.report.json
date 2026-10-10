@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/how-luxury-brands-can-use-marketplaces-as-a-marketing-platform/",
+  "path": "dept/en-nl/insight/how-luxury-brands-can-use-marketplaces-as-a-marketing-platform",
+  "timestamp": "2026-10-09T18:13:33.150Z",
+  "title": "How luxury brands can use marketplaces as a marketing platform - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/chanel-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/chanel-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/bang-olufsen-amazon.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/bang-olufsen-amazon.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/qvcloccitane.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/qvcloccitane.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/netaporter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/netaporter.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Sanne1x1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Sanne1x1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/chanel-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/chanel-1200x750-c.jpg"
+    ]
+  ]
+}

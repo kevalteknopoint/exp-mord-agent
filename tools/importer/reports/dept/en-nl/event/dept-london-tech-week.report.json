@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/dept-london-tech-week/",
+  "path": "dept/en-nl/event/dept-london-tech-week",
+  "timestamp": "2026-10-09T16:44:14.571Z",
+  "title": "DEPT® x London Tech Week - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DEPT%C2%AE-London-Tech-Week-Event-header-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DEPT--London-Tech-Week-Event-header-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Untitled-design-6-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Untitled-design-6-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Untitled-design-37-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Untitled-design-37-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/NZ_Headshot2-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/NZ_Headshot2-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DEPT%C2%AE-London-Tech-Week-Event-header-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DEPT--London-Tech-Week-Event-header-1-min.jpg"
+    ]
+  ]
+}

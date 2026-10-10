@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/cross-channel-fur-die-allerkleinsten/",
+  "path": "dept/de-dach/case/cross-channel-fur-die-allerkleinsten",
+  "timestamp": "2026-10-09T11:29:40.989Z",
+  "title": "Cross-Channel für die Allerkleinsten - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BabyOne_Header-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BabyOne_Header-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/masai_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/masai_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/generali_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/generali_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BabyOne_Header-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BabyOne_Header-1440x810-c.jpg"
+    ]
+  ]
+}

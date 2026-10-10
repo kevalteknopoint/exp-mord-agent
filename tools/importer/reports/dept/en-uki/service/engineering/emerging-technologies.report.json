@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/service/engineering/emerging-technologies/",
+  "path": "dept/en-uki/service/engineering/emerging-technologies",
+  "timestamp": "2026-10-09T19:48:44.448Z",
+  "title": "Emerging Technologies - DEPT®",
+  "template": "dept-service",
+  "locale": "en-uki",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Emerging-Technologies.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Emerging-Technologies.png"
+    ]
+  ]
+}

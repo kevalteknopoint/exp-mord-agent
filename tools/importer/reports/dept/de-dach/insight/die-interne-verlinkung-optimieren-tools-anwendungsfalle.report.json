@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/die-interne-verlinkung-optimieren-tools-anwendungsfalle/",
+  "path": "dept/de-dach/insight/die-interne-verlinkung-optimieren-tools-anwendungsfalle",
+  "timestamp": "2026-10-09T11:56:45.436Z",
+  "title": "Die interne Verlinkung optimieren – Tools & Anwendungsfälle - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DSF3717-1-480x320-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DSF3717-1-480x320-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Simon-Kasimir-Griesser-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Simon-Kasimir-Griesser-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/crawl-map-hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/crawl-map-hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Simon-Kasimir-Griesser.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Simon-Kasimir-Griesser.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DSF3717-1-480x320-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DSF3717-1-480x320-1.jpg"
+    ]
+  ]
+}

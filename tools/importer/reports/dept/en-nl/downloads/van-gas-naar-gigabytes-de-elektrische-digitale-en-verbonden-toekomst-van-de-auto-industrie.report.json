@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/van-gas-naar-gigabytes-de-elektrische-digitale-en-verbonden-toekomst-van-de-auto-industrie/",
+  "path": "dept/en-nl/downloads/van-gas-naar-gigabytes-de-elektrische-digitale-en-verbonden-toekomst-van-de-auto-industrie",
+  "timestamp": "2026-10-09T17:54:21.239Z",
+  "title": "Van gas naar gigabytes: de elektrische, digitale en verbonden toekomst van de auto-industrie - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/automotive-connected-future.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/automotive-connected-future.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/automotive-connected-future.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/automotive-connected-future.jpg"
+    ]
+  ]
+}

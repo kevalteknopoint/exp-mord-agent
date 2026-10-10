@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/experiencia/e-commerce-design/",
+  "path": "dept/latam/service/experiencia/e-commerce-design",
+  "timestamp": "2026-10-09T22:29:43.853Z",
+  "title": "E-commerce Design - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ecommerdesign.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ecommerdesign.png"
+    ]
+  ]
+}

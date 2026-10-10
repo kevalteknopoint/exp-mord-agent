@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/avisos-legales/",
+  "path": "dept/latam/avisos-legales",
+  "timestamp": "2026-10-09T21:24:10.447Z",
+  "title": "Avisos legales - DEPT®",
+  "template": "dept-page",
+  "locale": "latam",
+  "components": [
+    "panel-with-list"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

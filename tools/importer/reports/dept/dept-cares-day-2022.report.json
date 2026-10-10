@@ -1,0 +1,112 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/dept-cares-day-2022/",
+  "path": "dept/dept-cares-day-2022",
+  "timestamp": "2026-10-09T11:30:21.441Z",
+  "title": "DEPT® Cares Day 2022 - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "hero-carousel-montage",
+    "panel-with-rich-text",
+    "jumbotron",
+    "wrapper",
+    "call-to-action",
+    "routing-banner"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/DEPT-Fest-2022-Sat-399.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/DEPT-Fest-2022-Sat-399.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DEPT_Office-002-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DEPT_Office-002-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/San-Francisco-DEPT%C2%AE-Office-scaled-e1665520620837.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/San-Francisco-DEPT--Office-scaled-e1665520620837.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Dept_Berlin_Office-11-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Dept_Berlin_Office-11-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Bern.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Bern.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/sydney-angove-8Duzi4xFNns-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/sydney-angove-8Duzi4xFNns-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DEPT%C2%AE-Tchibo-Web3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DEPT--Tchibo-Web3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DEPT_Office-003-1200x675-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DEPT_Office-003-1200x675-c-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Chicago-DEPT%C2%AE-Office.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Chicago-DEPT--Office.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Cologne.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Cologne.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Copenhagen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Copenhagen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/jakob-rosen-7C00d3z3ssU-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/jakob-rosen-7C00d3z3ssU-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/DEPT-Office_DUBLIN-2-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/DEPT-Office_DUBLIN-2-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Hamburg.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Hamburg.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Manchester.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Manchester.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Boston-1-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Boston-1-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/New-York.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/New-York.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/basic-agency-offices-san-diego-3-1200x800-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/basic-agency-offices-san-diego-3-1200x800-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Skopje.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Skopje.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Split.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Split.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Zagreb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Zagreb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/DESKTOPFULL-BLEED-IMAGEBLACK-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/DESKTOPFULL-BLEED-IMAGEBLACK-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Dept-cares-1x1-white-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Dept-cares-1x1-white-logo.png"
+    ]
+  ]
+}

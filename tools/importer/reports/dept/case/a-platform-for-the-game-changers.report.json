@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-platform-for-the-game-changers/",
+  "path": "dept/case/a-platform-for-the-game-changers",
+  "timestamp": "2026-10-09T10:44:11.958Z",
+  "title": "A platform for the game-changers - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "full-width-image",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/playstation-gamechangers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/playstation-gamechangers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/playstation2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/playstation2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/playstation4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/playstation4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/playstation5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/playstation5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Liedwood_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Liedwood_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/playstation-gamechangers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/playstation-gamechangers.jpg"
+    ]
+  ]
+}

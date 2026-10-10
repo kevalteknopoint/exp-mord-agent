@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/dept-apparel-the-chaotic-beauty-of-the-internets-underbelly/",
+  "path": "dept/awards/dept-apparel-the-chaotic-beauty-of-the-internets-underbelly",
+  "timestamp": "2026-10-09T10:15:23.840Z",
+  "title": "DEPT APPAREL - A project by DEPT® - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "quote",
+    "image",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/02.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/05.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/05.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/04.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Danijel-Bonacic-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Danijel-Bonacic-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET-Project-Sundae-Featured-Profile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET-Project-Sundae-Featured-Profile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Dept-Apparel-02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Dept-Apparel-02.png"
+    ]
+  ]
+}

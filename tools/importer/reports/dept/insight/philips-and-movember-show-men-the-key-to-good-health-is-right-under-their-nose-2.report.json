@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/philips-and-movember-show-men-the-key-to-good-health-is-right-under-their-nose-2/",
+  "path": "dept/insight/philips-and-movember-show-men-the-key-to-good-health-is-right-under-their-nose-2",
+  "timestamp": "2026-10-09T22:52:14.139Z",
+  "title": "Philips and Movember show men the key to good health is right under their nose - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Screenshot-2022-02-11-at-08.30.25-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Screenshot-2022-02-11-at-08.30.25-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/IMG_6969-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/IMG_6969-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Screenshot-2022-02-11-at-08.30.25-2-1024x577.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Screenshot-2022-02-11-at-08.30.25-2-1024x577.png"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/dynamische-werbung-mit-news-feed-fur-tamedia/",
+  "path": "dept/de-dach/case/dynamische-werbung-mit-news-feed-fur-tamedia",
+  "timestamp": "2026-10-09T11:39:43.747Z",
+  "title": "Dynamische Werbung mit News-Feed für Tamedia - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/pexels-mike-van-schoonderwalt-5505718-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/pexels-mike-van-schoonderwalt-5505718-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/smart_DATA_case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/smart_DATA_case.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/pasted-image-0-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/pasted-image-0-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/pexels-mike-van-schoonderwalt-5505718-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/pexels-mike-van-schoonderwalt-5505718-scaled.jpg"
+    ]
+  ]
+}

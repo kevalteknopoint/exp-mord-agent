@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/online-marketplace-carwow-launches-new-campaign-only-wow/",
+  "path": "dept/en-nl/insight/online-marketplace-carwow-launches-new-campaign-only-wow",
+  "timestamp": "2026-10-09T18:42:28.081Z",
+  "title": "Online marketplace carwow launches new campaign ‘Only Wow’ - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Screenshot-2023-09-04-at-09.56.37.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Screenshot-2023-09-04-at-09.56.37.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Screenshot-2023-09-04-at-09.56.37.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Screenshot-2023-09-04-at-09.56.37.png"
+    ]
+  ]
+}

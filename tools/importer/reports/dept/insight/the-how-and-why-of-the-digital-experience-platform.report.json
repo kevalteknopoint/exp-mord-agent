@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/insight/the-how-and-why-of-the-digital-experience-platform/",
   "path": "dept/insight/the-how-and-why-of-the-digital-experience-platform",
-  "timestamp": "2026-10-08T14:33:19.378Z",
+  "timestamp": "2026-10-09T09:52:40.540Z",
   "title": "The how and why of the digital experience platform - DEPT®",
   "template": "dept-insight",
   "locale": "global",
@@ -14,9 +14,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "full-width-image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/03/84-480x320-1.jpg",

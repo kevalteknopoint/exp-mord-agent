@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/reinventing-the-horse-racing-experience/",
+  "path": "dept/en-in/case/reinventing-the-horse-racing-experience",
+  "timestamp": "2026-10-09T16:13:25.094Z",
+  "title": "An experience like nowhere else - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ascot-Banner2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ascot-Banner2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-53-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-53-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/2142930093-01-06-2021-10-48-03.Royal-Ascot-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/2142930093-01-06-2021-10-48-03.Royal-Ascot-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-53-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-53-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-96-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-96-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-69-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-69-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-53-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-53-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-54-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-54-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jake-Welsh.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jake-Welsh.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/01-Capti-Hero-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/01-Capti-Hero-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Audley-city-view.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Audley-city-view.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ascot-Banner2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ascot-Banner2.png"
+    ]
+  ]
+}

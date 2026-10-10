@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/capturing-creativity-with-a-tiktok-campaign/",
+  "path": "dept/en-au/case/capturing-creativity-with-a-tiktok-campaign",
+  "timestamp": "2026-10-09T12:39:27.960Z",
+  "title": "Capturing creativity with a TikTok campaign - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "full-width-image",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/PolaroidGo-Social-Post_05-1080x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/PolaroidGo-Social-Post_05-1080x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/PolaroidGo-Social-Post_04-1080x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/PolaroidGo-Social-Post_04-1080x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/UBER-EATS-Gogo-Knows-best_30_ONLINE_v1.01_00_24_02.Still002.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/UBER-EATS-Gogo-Knows-best_30_ONLINE_v1.01_00_24_02.Still002.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/image-4.png"
+    ]
+  ]
+}

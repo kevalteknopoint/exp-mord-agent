@@ -1,0 +1,79 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/op-het-juiste-spoor-richting-digitale-versnelling/",
+  "path": "dept/en-nl/case/op-het-juiste-spoor-richting-digitale-versnelling",
+  "timestamp": "2026-10-09T17:12:06.971Z",
+  "title": "Op het juiste spoor richting digitale versnelling - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/ProRail-02-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/ProRail-02-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/ProRail-04-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/ProRail-04-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/ProRail-06-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/ProRail-06-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/ProRail-08-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/ProRail-08-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/ProRail-10-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/ProRail-10-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/ProRail-12-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/ProRail-12-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/ProRail-14-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/ProRail-14-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Rachid-Lechheb-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Rachid-Lechheb-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre_06.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre_06.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Image-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Image-Full-bleed-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/AithyraFeatureFrame.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/AithyraFeatureFrame.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/ProRail-14-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/ProRail-14-scaled.jpg"
+    ]
+  ]
+}

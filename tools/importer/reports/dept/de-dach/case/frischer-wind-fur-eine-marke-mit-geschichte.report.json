@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/frischer-wind-fur-eine-marke-mit-geschichte/",
+  "path": "dept/de-dach/case/frischer-wind-fur-eine-marke-mit-geschichte",
+  "timestamp": "2026-10-09T11:01:14.841Z",
+  "title": "Frischer Wind für eine Marke mit Geschichte - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/wilson-brand-identity.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/wilson-brand-identity.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/asher-wren-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/asher-wren-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20201203_161611.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20201203_161611.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/erasmus_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/erasmus_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Story-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Story-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/wilson-sportwear-man.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/wilson-sportwear-man.jpg"
+    ]
+  ]
+}

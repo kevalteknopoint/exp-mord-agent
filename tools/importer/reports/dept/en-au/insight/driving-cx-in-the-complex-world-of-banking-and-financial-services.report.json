@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/driving-cx-in-the-complex-world-of-banking-and-financial-services/",
+  "path": "dept/en-au/insight/driving-cx-in-the-complex-world-of-banking-and-financial-services",
+  "timestamp": "2026-10-09T13:41:16.339Z",
+  "title": "Driving CX in the complex world of banking and financial services   - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/CX-in-bfsi.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/CX-in-bfsi.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Yash-Mody-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Yash-Mody-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/CX-in-bfsi.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/CX-in-bfsi.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/spatial-computing-affecting-industries.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/spatial-computing-affecting-industries.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/CX-in-bfsi.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/CX-in-bfsi.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/CX-in-bfsi.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/CX-in-bfsi.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/5-fragen-die-sich-marken-hinsichtlich-nfts-stellen-sollten/",
+  "path": "dept/de-dach/insight/5-fragen-die-sich-marken-hinsichtlich-nfts-stellen-sollten",
+  "timestamp": "2026-10-09T11:12:44.368Z",
+  "title": "5 Fragen, die sich Marken hinsichtlich NFTs stellen sollten - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/nft-questions-to-ask.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/nft-questions-to-ask.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT--150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/digital-art-nft-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/digital-art-nft-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/nike-swish.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/nike-swish.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-917742572-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-917742572-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/nft-questions-to-ask.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/nft-questions-to-ask.jpg"
+    ]
+  ]
+}

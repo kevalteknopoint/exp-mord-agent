@@ -1,0 +1,89 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/using-the-power-of-technology-for-a-good-cause/",
+  "path": "dept/en-nl/case/using-the-power-of-technology-for-a-good-cause",
+  "timestamp": "2026-10-09T17:33:13.542Z",
+  "title": "Using the power of technology for a good cause - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-181126562-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-181126562-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/5_Kuku_-Kenya_Work_What-we-do_Justdiggit_kenya_Kuku_grass_seed_bank_women_Kilimanjaro-1024x683-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/5_Kuku_-Kenya_Work_What-we-do_Justdiggit_kenya_Kuku_grass_seed_bank_women_Kilimanjaro-1024x683-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-105-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-105-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-104-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-104-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1138863600-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1138863600-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1138864710-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1138864710-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-103-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-103-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-157313406-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-157313406-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-canvas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-canvas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_screens-desktop_v2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_screens-desktop_v2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Evrnu_Worlds-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Evrnu_Worlds-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg"
+    ]
+  ]
+}

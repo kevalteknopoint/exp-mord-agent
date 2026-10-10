@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/dept-tech-meetup/",
+  "path": "dept/en-uki/event/dept-tech-meetup",
+  "timestamp": "2026-10-09T19:47:50.639Z",
+  "title": "DEPT® Tech Meetup - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-details",
+    "article-related-posts",
+    "jumbotron",
+    "highlighted-item-listing"
+  ],
+  "fallback": [
+    "article-related-posts"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/128-Manchester-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/128-Manchester-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20170901-DEPT-FESTIVAL-105-1200x675-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20170901-DEPT-FESTIVAL-105-1200x675-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/128-Manchester-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/128-Manchester-scaled.jpg"
+    ]
+  ]
+}

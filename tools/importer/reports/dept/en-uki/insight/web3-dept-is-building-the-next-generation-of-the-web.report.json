@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/web3-dept-is-building-the-next-generation-of-the-web/",
+  "path": "dept/en-uki/insight/web3-dept-is-building-the-next-generation-of-the-web",
+  "timestamp": "2026-10-09T19:31:23.177Z",
+  "title": "WEB3/DEPT® is building the next generation of the web - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/WEB3-DEPT-press-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/WEB3-DEPT-press-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/WEB3-DEPT-press-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/WEB3-DEPT-press-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/pr_tomorrowland.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/pr_tomorrowland.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/lovies-2022-featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/lovies-2022-featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Isabel-Perry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Isabel-Perry.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/WEB3-DEPT-press-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/WEB3-DEPT-press-image.jpg"
+    ]
+  ]
+}

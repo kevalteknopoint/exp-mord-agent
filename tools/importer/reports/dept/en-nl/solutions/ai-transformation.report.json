@@ -1,0 +1,112 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/solutions/ai-transformation/",
+  "path": "dept/en-nl/solutions/ai-transformation",
+  "timestamp": "2026-10-09T18:26:13.347Z",
+  "title": "AI Transformation - DEPT®",
+  "template": "dept-solutions",
+  "locale": "en-nl",
+  "components": [
+    "title-block",
+    "image-and-fact",
+    "highlighted-statement",
+    "highlighted-logos",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/AI-strategy-Leadership.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/AI-strategy-Leadership.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/AI-foundations-infrastructure.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/AI-foundations-infrastructure.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/AI-driven-customer-experiences-products.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/AI-driven-customer-experiences-products.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/AI-powered-content-media.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/AI-powered-content-media.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Process-workflow-optimization.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Process-workflow-optimization.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Moodys-3.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Moodys-3.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Just-Eat.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Just-Eat.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Ebay-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Ebay-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Footlocker.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Footlocker.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Google-4.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Google-4.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Rituals-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Rituals-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Adidas-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Adidas-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Smart.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Smart.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/philips.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/philips.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/BMW-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/BMW-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Trends-report-2025-Featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Trends-report-2025-Featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/hands-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/hands-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/7-CRM-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/7-CRM-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/ai-poc-to-mvp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/ai-poc-to-mvp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ai-sprints-product-development.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ai-sprints-product-development.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/AI-Transformation-_-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/AI-Transformation-_-500x300-1.png"
+    ]
+  ]
+}

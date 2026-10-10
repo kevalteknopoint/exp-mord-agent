@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/marketing-in-the-grey-zone-finding-agility-amid-tariff-uncertainty/",
+  "path": "dept/en-au/insight/marketing-in-the-grey-zone-finding-agility-amid-tariff-uncertainty",
+  "timestamp": "2026-10-09T13:31:59.737Z",
+  "title": "Marketing in the grey zone: finding agility amid tariff uncertainty - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Andrew-Dimitriou-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Andrew-Dimitriou-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-LP.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-LP.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/strategic-navigators-tariff-disruption.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/strategic-navigators-tariff-disruption.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/7-CRM-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/7-CRM-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg"
+    ]
+  ]
+}

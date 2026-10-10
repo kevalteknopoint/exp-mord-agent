@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/ride-without-limits/",
+  "path": "dept/en-nl/case/ride-without-limits",
+  "timestamp": "2026-10-09T17:21:38.681Z",
+  "title": "Ride without limits - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/d66_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/d66_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon2.png"
+    ]
+  ]
+}

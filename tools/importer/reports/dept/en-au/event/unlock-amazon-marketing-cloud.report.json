@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/unlock-amazon-marketing-cloud/",
+  "path": "dept/en-au/event/unlock-amazon-marketing-cloud",
+  "timestamp": "2026-10-09T11:57:27.835Z",
+  "title": "Unlock Amazon Marketing Cloud - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/AMC_webinar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/AMC_webinar.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Alec-Burns-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Alec-Burns-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/AMC_webinar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/AMC_webinar.jpg"
+    ]
+  ]
+}

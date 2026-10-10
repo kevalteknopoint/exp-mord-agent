@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/project-sundae-a-recipe-for-success/",
+  "path": "dept/en-nl/case/project-sundae-a-recipe-for-success",
+  "timestamp": "2026-10-09T17:15:11.541Z",
+  "title": "Project Sundae: a recipe for success - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Microsoft-10.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Microsoft-10.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/just-eat-takeaway-personalized.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/just-eat-takeaway-personalized.jpg"
+    ]
+  ]
+}

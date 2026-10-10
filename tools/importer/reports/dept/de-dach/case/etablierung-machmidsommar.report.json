@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/etablierung-machmidsommar/",
+  "path": "dept/de-dach/case/etablierung-machmidsommar",
+  "timestamp": "2026-10-09T10:58:46.236Z",
+  "title": "Etablierung #machmidsommar - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-57.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-57.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-92.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-92.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-111-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-111-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-72.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-72.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-81.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-81.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Diana-Welte-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Diana-Welte-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/swiss-re.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/swiss-re.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/generali_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/generali_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/pasted-image-0-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/pasted-image-0-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/zo-genereer-je-productideeen-bij-softwaredevelopment/",
+  "path": "dept/en-nl/downloads/zo-genereer-je-productideeen-bij-softwaredevelopment",
+  "timestamp": "2026-10-09T17:55:02.190Z",
+  "title": "Zo genereer je productideeën bij software development - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-metal-closeup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-metal-closeup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Open-graph-image-1200x630-1-1024x538.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Open-graph-image-1200x630-1-1024x538.png"
+    ]
+  ]
+}

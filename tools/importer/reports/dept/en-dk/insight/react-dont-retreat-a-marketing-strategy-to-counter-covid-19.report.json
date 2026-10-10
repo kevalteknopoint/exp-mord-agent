@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/react-dont-retreat-a-marketing-strategy-to-counter-covid-19/",
+  "path": "dept/en-dk/insight/react-dont-retreat-a-marketing-strategy-to-counter-covid-19",
+  "timestamp": "2026-10-09T15:01:43.748Z",
+  "title": "React, don’t retreat. putting together a marketing strategy to counter covid-19 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/stormtrropers-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/stormtrropers-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Sanne1x1-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Sanne1x1-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/photo-1506365558634-e0c754979231-1-scaled-1200x675-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/photo-1506365558634-e0c754979231-1-scaled-1200x675-c-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Lukas-Stuber-Dept-e1627477162482.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Lukas-Stuber-Dept-e1627477162482.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/stormtrropers-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/stormtrropers-1200x750-c.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/una-campana-de-influencers-impecable-con-resultados-brillantes/",
+  "path": "dept/latam/case/una-campana-de-influencers-impecable-con-resultados-brillantes",
+  "timestamp": "2026-10-09T23:00:15.478Z",
+  "title": "Una campaña de influencers impecable con resultados brillantes - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/afghan-hound-in-dog-bed.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/afghan-hound-in-dog-bed.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ]
+  ]
+}

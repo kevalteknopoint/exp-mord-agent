@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/helping-a-century-old-sports-brand-2/",
+  "path": "dept/case/helping-a-century-old-sports-brand-2",
+  "timestamp": "2026-10-09T10:16:22.652Z",
+  "title": "Refreshing a century-old brand for today's world - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Wilson_Case-Study_Brand-Carousel_01.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Wilson_Case-Study_Brand-Carousel_01.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/wilson-brand-identity.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/wilson-brand-identity.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/wilson-sportwear-man.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/wilson-sportwear-man.jpg"
+    ]
+  ]
+}

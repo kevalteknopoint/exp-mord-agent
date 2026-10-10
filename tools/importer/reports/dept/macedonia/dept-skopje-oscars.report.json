@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/macedonia/dept-skopje-oscars/",
+  "path": "dept/macedonia/dept-skopje-oscars",
+  "timestamp": "2026-10-09T22:35:39.159Z",
+  "title": "DEPT® Skopje Oscars - DEPT®",
+  "template": "dept-page",
+  "locale": "macedonia",
+  "components": [
+    "article-post-header",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Oscars_Skjope-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Oscars_Skjope-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Oscars_Skjope-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Oscars_Skjope-2.jpg"
+    ]
+  ]
+}

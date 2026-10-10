@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/terms-conditions/",
+  "path": "dept/en-uki/terms-conditions",
+  "timestamp": "2026-10-09T19:58:01.658Z",
+  "title": "Terms & Conditions - DEPT®",
+  "template": "dept-page",
+  "locale": "en-uki",
+  "components": [
+    "post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-logo-ho-wh.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-logo-ho-wh.png"
+    ]
+  ]
+}

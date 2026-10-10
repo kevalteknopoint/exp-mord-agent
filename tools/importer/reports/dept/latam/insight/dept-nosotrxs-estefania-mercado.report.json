@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-nosotrxs-estefania-mercado/",
+  "path": "dept/latam/insight/dept-nosotrxs-estefania-mercado",
+  "timestamp": "2026-10-09T23:29:44.384Z",
+  "title": "DEPT®/NOSOTRXS – Estefania Mercado - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "media-with-text",
+    "title-and-content",
+    "title-and-content",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Estefi-Mercado.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Estefi-Mercado.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/san-rafael.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/san-rafael.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Estefi-Mercado.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Estefi-Mercado.jpg"
+    ]
+  ]
+}

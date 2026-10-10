@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/holiday-fun-meets-digital-with-chocomel/",
+  "path": "dept/en-dk/case/holiday-fun-meets-digital-with-chocomel",
+  "timestamp": "2026-10-09T14:27:39.040Z",
+  "title": "Holiday fun meets digital with Chocomel - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/wezijnerweer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/wezijnerweer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jord-Wessels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jord-Wessels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1187304458-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1187304458-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ]
+  ]
+}

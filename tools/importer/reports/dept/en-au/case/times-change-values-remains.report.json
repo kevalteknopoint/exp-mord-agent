@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/times-change-values-remains/",
+  "path": "dept/en-au/case/times-change-values-remains",
+  "timestamp": "2026-10-09T12:36:02.039Z",
+  "title": "Times change, values remains - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "statement",
+    "video",
+    "statement",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/G-nuAr_g-2-e1627388428112.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/G-nuAr_g-2-e1627388428112.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-16-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-16-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ]
+  ]
+}

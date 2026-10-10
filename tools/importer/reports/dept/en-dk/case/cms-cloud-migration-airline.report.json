@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/cms-cloud-migration-airline/",
+  "path": "dept/en-dk/case/cms-cloud-migration-airline",
+  "timestamp": "2026-10-09T14:06:07.240Z",
+  "title": "Featured work: CMS cloud migration for a leader in aviation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/airline-against-sky.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/airline-against-sky.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/cloud-architecture-diagram-cms-project-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/cloud-architecture-diagram-cms-project-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-wing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-wing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Audley-city-view.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Audley-city-view.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+    ]
+  ]
+}

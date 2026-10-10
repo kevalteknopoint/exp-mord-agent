@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/de-weg-naar-een-land-zonder-kinderarmoede-versterken-met-digitale-kanalen/",
+  "path": "dept/en-nl/case/de-weg-naar-een-land-zonder-kinderarmoede-versterken-met-digitale-kanalen",
+  "timestamp": "2026-10-09T18:03:34.656Z",
+  "title": "De weg naar een land zonder kinderarmoede versterken met digitale kanalen - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/1200x627-2-zonder-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/1200x627-2-zonder-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sam_StelJeVoor-55-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sam_StelJeVoor-55-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sam_StelJeVoor-23-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sam_StelJeVoor-23-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sam_StelJeVoor-47-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sam_StelJeVoor-47-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Wouter-boer-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Wouter-boer-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/LME-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/LME-hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/TataCapital_1000x1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/TataCapital_1000x1200.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Rotate-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Rotate-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sam_StelJeVoor-47-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sam_StelJeVoor-47-scaled.jpg"
+    ]
+  ]
+}

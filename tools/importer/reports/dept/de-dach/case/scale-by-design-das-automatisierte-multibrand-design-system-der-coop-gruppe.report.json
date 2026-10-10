@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/scale-by-design-das-automatisierte-multibrand-design-system-der-coop-gruppe/",
+  "path": "dept/de-dach/case/scale-by-design-das-automatisierte-multibrand-design-system-der-coop-gruppe",
+  "timestamp": "2026-10-09T11:18:51.442Z",
+  "title": "Scale by Design: Das automatisierte Multibrand Design System der Coop-Gruppe - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/1770909050-coop_bosw_keyvisual.jpg.avif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/1770909050-coop_bosw_keyvisual.jpg.avif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/1770901615-coop-losung.png.avif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/1770901615-coop-losung.png.avif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/1770901644-coop-core-components.png.avif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/1770901644-coop-core-components.png.avif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/1770901659-coop-token-basiert.png-2.avif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/1770901659-coop-token-basiert.png-2.avif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Coop-Case-Study-Button-Label-2.avif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Coop-Case-Study-Button-Label-2.avif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/1770901677-coop-productivity.png.avif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/1770901677-coop-productivity.png.avif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Hochbahn_Mood_Image4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Hochbahn_Mood_Image4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

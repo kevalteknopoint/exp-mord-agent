@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/bridging-opportunity-gap-between-person-students-non-traditional-learners/",
+  "path": "dept/case/bridging-opportunity-gap-between-person-students-non-traditional-learners",
+  "timestamp": "2026-10-09T18:07:39.140Z",
+  "title": "Bridging an opportunity gap between students - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "paragraph",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/asu-education-for-humanity-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/asu-education-for-humanity-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/asu-me3-app.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/asu-me3-app.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/boabab-MultiScreen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/boabab-MultiScreen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-11.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-11.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-google-360.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-google-360.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/212DEMO.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/212DEMO.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/curated-content-that-connects-inspiration-and-information/",
+  "path": "dept/case/curated-content-that-connects-inspiration-and-information",
+  "timestamp": "2026-10-09T10:37:46.142Z",
+  "title": "Curated content that connects inspiration and information - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/fritz-chair.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/fritz-chair.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Visual-Light-207.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Visual-Light-207.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Full-screen-UI-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Full-screen-UI-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/50-50-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/50-50-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Full-screen-UI-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Full-screen-UI-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Visual-Light-198.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Visual-Light-198.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Full-screen-UI-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Full-screen-UI-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/night-owl-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/night-owl-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bo-Bille.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bo-Bille.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/WP20002_BLAK_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/WP20002_BLAK_11.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-canvas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-canvas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/wine.com-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/wine.com-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

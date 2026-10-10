@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/building-a-multi-site-sitecore-experience/",
+  "path": "dept/en-nl/case/building-a-multi-site-sitecore-experience",
+  "timestamp": "2026-10-09T17:49:55.441Z",
+  "title": "Building a multi-site experience for London Marathon Events - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/LME_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/LME_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/LME_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/LME_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/LME_4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/LME_4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/LME_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/LME_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Paulas-choice-q.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Paulas-choice-q.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/LME-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/LME-hero.jpg"
+    ]
+  ]
+}

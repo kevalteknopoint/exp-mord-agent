@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-australia-expands-team-and-brings-on-new-client-director/",
+  "path": "dept/en-au/insight/dept-australia-expands-team-and-brings-on-new-client-director",
+  "timestamp": "2026-10-09T22:59:37.345Z",
+  "title": "DEPT® Australia expands team and brings on new Client Director - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Christine-Watts-_Web_Pic_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Christine-Watts-_Web_Pic_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Anthem-Awards-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Anthem-Awards-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/800kb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/800kb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/2025-social-media-trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/2025-social-media-trends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Christine-Watts-_Web_Pic_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Christine-Watts-_Web_Pic_1920x1080.png"
+    ]
+  ]
+}

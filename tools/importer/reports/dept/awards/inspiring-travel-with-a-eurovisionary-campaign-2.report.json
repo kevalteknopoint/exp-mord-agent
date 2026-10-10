@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/inspiring-travel-with-a-eurovisionary-campaign-2/",
+  "path": "dept/awards/inspiring-travel-with-a-eurovisionary-campaign-2",
+  "timestamp": "2026-10-09T10:22:23.641Z",
+  "title": "Inspiring travel with a Eurovisionary campaign - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "assets-and-copy",
+    "statement",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/53704836284_2562edbe2b_k.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/53704836284_2562edbe2b_k.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/easyjet-cabincrew.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/easyjet-cabincrew.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/easyjet-outsideplane-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/easyjet-outsideplane-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/53704836284_2562edbe2b_k.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/53704836284_2562edbe2b_k.jpg"
+    ]
+  ]
+}

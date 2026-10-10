@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/is-your-organisation-equipped-for-continuous-product-innovation/",
+  "path": "dept/en-dk/insight/is-your-organisation-equipped-for-continuous-product-innovation",
+  "timestamp": "2026-10-09T14:49:18.163Z",
+  "title": "Is your organisation equipped for continuous product innovation? - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Product-development-magic-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Product-development-magic-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Josh_Porter-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Josh_Porter-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Product-development-magic-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Product-development-magic-concept.jpg"
+    ]
+  ]
+}

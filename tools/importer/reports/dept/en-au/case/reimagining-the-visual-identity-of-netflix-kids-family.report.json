@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/reimagining-the-visual-identity-of-netflix-kids-family/",
+  "path": "dept/en-au/case/reimagining-the-visual-identity-of-netflix-kids-family",
+  "timestamp": "2026-10-09T12:22:49.995Z",
+  "title": "Reimagining the visual identity of Netflix Kids & Family - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "panel-two-media",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Featured-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/11_Netflix_Kids.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/11_Netflix_Kids.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Kids-Hello-Monday_Songs.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Kids-Hello-Monday_Songs.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Kids-Hello-Monday_Lunchbox-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Kids-Hello-Monday_Lunchbox-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Fingerspelling-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Fingerspelling-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Featured-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Featured-image-1.jpg"
+    ]
+  ]
+}

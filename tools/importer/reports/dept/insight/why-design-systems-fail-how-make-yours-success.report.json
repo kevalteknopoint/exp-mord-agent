@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/why-design-systems-fail-how-make-yours-success/",
+  "path": "dept/insight/why-design-systems-fail-how-make-yours-success",
+  "timestamp": "2026-10-09T21:14:15.138Z",
+  "title": "Why design systems fail, and how to make yours a success - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "highlighted-item-listing",
+    "form-page"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/desgin-system.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/desgin-system.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/jon-sukarangsan-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/jon-sukarangsan-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/desgin-system.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/desgin-system.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/design-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/design-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/desgin-system.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/desgin-system.jpg"
+    ]
+  ]
+}

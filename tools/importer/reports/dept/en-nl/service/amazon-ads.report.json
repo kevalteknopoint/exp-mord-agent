@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/service/amazon-ads/",
+  "path": "dept/en-nl/service/amazon-ads",
+  "timestamp": "2026-10-09T18:17:49.240Z",
+  "title": "Amazon Ads - DEPT®",
+  "template": "dept-service",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "four-card-information-block",
+    "highlighted-item-listing",
+    "rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amazon-ads-new-releases.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amazon-ads-new-releases.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Strategy-for-Amazon.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Strategy-for-Amazon.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/seo-content-for-amazon.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/seo-content-for-amazon.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

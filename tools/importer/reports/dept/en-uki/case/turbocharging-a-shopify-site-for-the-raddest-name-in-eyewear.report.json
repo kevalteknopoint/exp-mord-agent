@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-uki/case/turbocharging-a-shopify-site-for-the-raddest-name-in-eyewear/",
   "path": "dept/en-uki/case/turbocharging-a-shopify-site-for-the-raddest-name-in-eyewear",
-  "timestamp": "2026-10-08T15:20:19.039Z",
+  "timestamp": "2026-10-09T09:48:06.688Z",
   "title": "Turbocharging a Shopify site for the raddest name in eyewear - DEPT®",
   "template": "dept-case",
   "locale": "en-uki",
@@ -21,9 +21,7 @@
     "assets-and-copy",
     "next-case"
   ],
-  "fallback": [
-    "case-intro-title"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",
@@ -46,8 +44,8 @@
       "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Scrolly-Carousel.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2023/11/disney-data-analyics-consulting.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/11/disney-data-analyics-consulting.jpg"
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",

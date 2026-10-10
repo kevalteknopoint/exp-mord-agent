@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/growth-marketing-week/",
+  "path": "dept/en-dk/event/growth-marketing-week",
+  "timestamp": "2026-10-09T23:10:52.171Z",
+  "title": "DEPT® Growth Marketing Week 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "event-register",
+    "event-program",
+    "image-with-content-cards"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/DEPT%C2%AE-Growth-Week-Events-Page-Background.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/DEPT--Growth-Week-Events-Page-Background.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Rectangle-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Rectangle-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Martin-W.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Martin-W.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Sarah-Lockhart-Gammelgaard.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Sarah-Lockhart-Gammelgaard.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Peter-Hestbaek.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Peter-Hestbaek.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Henri-Legentil-Borup-scaled-e1663591414874.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Henri-Legentil-Borup-scaled-e1663591414874.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Brian-Coles-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Brian-Coles-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Katrine-Andersen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Katrine-Andersen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/New-Email-Header-v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/New-Email-Header-v2.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/changing-travel-perspectives-around-the-world/",
+  "path": "dept/en-dk/case/changing-travel-perspectives-around-the-world",
+  "timestamp": "2026-10-09T14:05:37.870Z",
+  "title": "Featured work: Influencer marketing campaign for SkyTeam - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Photo-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Photo-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Photo-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Photo-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Comwell-case-SEO-migration-strategy-Featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Comwell-case-SEO-migration-strategy-Featured-image-500x344-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Skyteam-case-min-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Skyteam-case-min-1.png"
+    ]
+  ]
+}

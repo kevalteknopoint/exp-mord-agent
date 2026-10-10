@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/latam/case/caos-organizado-en-tiktok/",
   "path": "dept/latam/case/caos-organizado-en-tiktok",
-  "timestamp": "2026-10-08T15:14:51.271Z",
+  "timestamp": "2026-10-09T09:52:57.636Z",
   "title": "Caos organizado en TikTok - DEPT®",
   "template": "dept-case",
   "locale": "latam",
@@ -22,11 +22,7 @@
     "get-in-touch",
     "next-case"
   ],
-  "fallback": [
-    "statement",
-    "full-width-image",
-    "image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/11/case-tiktok-DEPT%C2%AE.jpg",
@@ -41,8 +37,8 @@
       "/content/dam/exp-mord-agent/dept/uploads/2023/11/Nina-de-Ridder.png"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image.png"
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-7-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-7-1.png"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2023/11/case-tiktok-DEPT%C2%AE.jpg",

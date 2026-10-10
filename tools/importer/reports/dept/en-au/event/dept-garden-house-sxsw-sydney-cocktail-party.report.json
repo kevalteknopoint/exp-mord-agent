@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dept-garden-house-sxsw-sydney-cocktail-party/",
+  "path": "dept/en-au/event/dept-garden-house-sxsw-sydney-cocktail-party",
+  "timestamp": "2026-10-09T12:51:53.235Z",
+  "title": "SXSW Sydney x DEPT®: Daily events, panels, & dinners - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/SXSW-Sydney-2025-Shopify-1920x1080-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/SXSW-Sydney-2025-Shopify-1920x1080-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/webby-winners-dept-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/webby-winners-dept-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/SXSW-Sydney-2025-Shopify-1920x1080-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/SXSW-Sydney-2025-Shopify-1920x1080-2.webp"
+    ]
+  ]
+}

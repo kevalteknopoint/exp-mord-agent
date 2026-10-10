@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/kenna-der-erste-ki-gesteuerte-virtuelle-beauty-assistant-2/",
+  "path": "dept/awards/kenna-der-erste-ki-gesteuerte-virtuelle-beauty-assistant-2",
+  "timestamp": "2026-10-09T10:25:06.476Z",
+  "title": "Kenna, der erste KI-gesteuerte virtuelle Beauty Assistant - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-credits"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Kenna-selfie-dach.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Kenna-selfie-dach.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Kenna-at-OMR-1-3-dach.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Kenna-at-OMR-1-3-dach.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Kenna-Anatomie-dach.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Kenna-Anatomie-dach.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/image-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/image-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Kenna-selfie-dach.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Kenna-selfie-dach.jpg"
+    ]
+  ]
+}

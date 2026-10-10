@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/a-new-affiliate-programme-for-branding-and-performance/",
+  "path": "dept/en-uki/case/a-new-affiliate-programme-for-branding-and-performance",
+  "timestamp": "2026-10-09T19:35:35.240Z",
+  "title": "A new affiliate programme for branding and performance - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-lifestyl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-lifestyl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-peptide-booster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-peptide-booster.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-Influencer-campaign-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-Influencer-campaign-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/british-gymnastics-hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/british-gymnastics-hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Shopify.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Audley-city-view.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Audley-city-view.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-peptide-booster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-peptide-booster.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/reaching-the-ebay-seller-community-with-the-all-ears-roadshow/",
+  "path": "dept/en-au/case/reaching-the-ebay-seller-community-with-the-all-ears-roadshow",
+  "timestamp": "2026-10-09T12:21:02.343Z",
+  "title": "Reaching the eBay seller community with the ‘All Ears’ Roadshow - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/eBay-All-Ears-Roadshow-rep.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/eBay-All-Ears-Roadshow-rep.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/eBay-All-Ears-Roadshow-panel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/eBay-All-Ears-Roadshow-panel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Story-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Story-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Samsung-IFA-Header-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Samsung-IFA-Header-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/eBay-All-Ears-Roadshow-rep.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/eBay-All-Ears-Roadshow-rep.jpg"
+    ]
+  ]
+}

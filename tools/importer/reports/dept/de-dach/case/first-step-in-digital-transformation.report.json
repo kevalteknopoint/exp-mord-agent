@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/first-step-in-digital-transformation/",
+  "path": "dept/de-dach/case/first-step-in-digital-transformation",
+  "timestamp": "2026-10-09T10:59:57.705Z",
+  "title": "First Step in Digital Transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-cards",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/12889-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/12889-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/12848-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/12848-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20201203_161611.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20201203_161611.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/SEA_Ha%CC%88nde_beide_1.91x1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/SEA_Ha-nde_beide_1.91x1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Zimmerli-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Zimmerli-Featured-Image.jpg"
+    ]
+  ]
+}

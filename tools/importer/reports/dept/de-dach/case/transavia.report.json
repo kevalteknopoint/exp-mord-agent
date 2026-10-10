@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/transavia/",
+  "path": "dept/de-dach/case/transavia",
+  "timestamp": "2026-10-09T11:23:29.640Z",
+  "title": "In neuen Dimensionen abheben - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/RGB-21-Transavia-Airplane-Model-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/RGB-21-Transavia-Airplane-Model-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/RGB-19-Transavia-Airplane-Model-1-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/RGB-19-Transavia-Airplane-Model-1-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/RGB-13-Transavia-Magazine-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/RGB-13-Transavia-Magazine-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-104-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-104-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/RGB-XX-Transavia-Compilation-Articles-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/RGB-XX-Transavia-Compilation-Articles-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wouter-Dirks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wouter-Dirks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/pexels-uriel-mont-6280957.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/pexels-uriel-mont-6280957.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/bol-commerce-store-lowlands-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/bol-commerce-store-lowlands-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/imghome.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/imghome.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1188236181-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1188236181-1-scaled.jpg"
+    ]
+  ]
+}

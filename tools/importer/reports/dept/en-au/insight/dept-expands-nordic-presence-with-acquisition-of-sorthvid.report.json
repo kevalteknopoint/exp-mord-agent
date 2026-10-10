@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/insight/dept-expands-nordic-presence-with-acquisition-of-sorthvid/",
   "path": "dept/en-au/insight/dept-expands-nordic-presence-with-acquisition-of-sorthvid",
-  "timestamp": "2026-10-08T15:00:23.422Z",
+  "timestamp": "2026-10-09T09:58:51.406Z",
   "title": "DEPT® expands Nordic presence with acquisition of Sorthvid - DEPT®",
   "template": "dept-insight",
   "locale": "en-au",
@@ -13,9 +13,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "jumbotron"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/03/2020-02-25-SORTHVID-Headshots-Copenhagen-Denmark-808-Edit-480x320-1.jpg",

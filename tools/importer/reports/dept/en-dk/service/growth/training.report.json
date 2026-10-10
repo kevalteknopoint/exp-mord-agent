@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/growth/training/",
+  "path": "dept/en-dk/service/growth/training",
+  "timestamp": "2026-10-09T14:26:42.436Z",
+  "title": "Training - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/2017_22_05_Dept_Rotterdam_Marketing_Social_post_Portretten_JRF9568-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/2017_22_05_Dept_Rotterdam_Marketing_Social_post_Portretten_JRF9568-1200x750-c.jpg"
+    ]
+  ]
+}

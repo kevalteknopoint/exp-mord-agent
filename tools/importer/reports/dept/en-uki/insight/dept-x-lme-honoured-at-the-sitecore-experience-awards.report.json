@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-x-lme-honoured-at-the-sitecore-experience-awards/",
+  "path": "dept/en-uki/insight/dept-x-lme-honoured-at-the-sitecore-experience-awards",
+  "timestamp": "2026-10-09T20:42:02.239Z",
+  "title": "DEPT® x LME honoured at the Sitecore Experience Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/sitecore-coding-1200x675-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/sitecore-coding-1200x675-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/LME_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/LME_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/sitecore-coding-1200x675-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/sitecore-coding-1200x675-c.jpg"
+    ]
+  ]
+}

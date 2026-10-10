@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/nilfisk-selects-dept-to-build-a-scalable-e-commerce-platform/",
+  "path": "dept/en-dk/insight/nilfisk-selects-dept-to-build-a-scalable-e-commerce-platform",
+  "timestamp": "2026-10-09T14:56:05.639Z",
+  "title": "Nilfisk selects DEPT® to build a scalable e-commerce platform - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/DEPT-x-Nilfisk-feautured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/DEPT-x-Nilfisk-feautured-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/E026KL2NWPK-UJCGKPL3A-97dc09ddf06b-512-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/E026KL2NWPK-UJCGKPL3A-97dc09ddf06b-512-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/DEPT-x-Nilfisk-feautured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/DEPT-x-Nilfisk-feautured-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/E026KL2NWPK-UJCGKPL3A-97dc09ddf06b-512.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/E026KL2NWPK-UJCGKPL3A-97dc09ddf06b-512.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/pragmatic-giude-ai.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/pragmatic-giude-ai.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/webby-awards-2024-featured-Insight-alt.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/webby-awards-2024-featured-Insight-alt.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Event-Header-_-Website-_-Static-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Event-Header-_-Website-_-Static-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/DEPT-x-Nilfisk-feautured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/DEPT-x-Nilfisk-feautured-image.jpg"
+    ]
+  ]
+}

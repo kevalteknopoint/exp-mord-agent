@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/an-analytics-transformation-and-brand-integration-for-millerknoll/",
+  "path": "dept/en-in/case/an-analytics-transformation-and-brand-integration-for-millerknoll",
+  "timestamp": "2026-10-09T14:49:52.036Z",
+  "title": "Featured work: Custom data platform for MillerKnoll - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Herman-Miller-case-image-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Herman-Miller-case-image-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Herman-Miller-case-image-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Herman-Miller-case-image-1920x1080-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Herman-Miller-case-image-1920x1080-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Herman-Miller-case-image-1920x1080-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Herman-Miller-case-image-1920x1080-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Herman-Miller-case-image-1920x1080-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/data-analytics-consulting-disney.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/data-analytics-consulting-disney.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Herman-Miller-case-image-1920x1080-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Herman-Miller-case-image-1920x1080-4.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/solutions/ai-transformation/agentic-engineering/",
+  "path": "dept/en-nl/solutions/ai-transformation/agentic-engineering",
+  "timestamp": "2026-10-09T18:26:28.140Z",
+  "title": "Agentic engineering services - DEPT®",
+  "template": "dept-solutions",
+  "locale": "en-nl",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-statement",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/split/",
+  "path": "dept/office/split",
+  "timestamp": "2026-10-09T22:40:12.750Z",
+  "title": "Split - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Split.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Split.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Split-983x1024.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Split-983x1024.png"
+    ]
+  ]
+}

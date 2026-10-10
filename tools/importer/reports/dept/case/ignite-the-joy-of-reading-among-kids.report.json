@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/ignite-the-joy-of-reading-among-kids/",
+  "path": "dept/case/ignite-the-joy-of-reading-among-kids",
+  "timestamp": "2026-10-09T10:21:36.784Z",
+  "title": "Ignite the joy of reading among kids - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "quote",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "stats-panel",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-01-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-01-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-02-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-03-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-05-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-05-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Marco-Wallenburg.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Marco-Wallenburg.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Skyteam-case-min-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Skyteam-case-min-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/schipol-airport.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/schipol-airport.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ascot-Banner2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ascot-Banner2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-03-1.png"
+    ]
+  ]
+}

@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/case/a-green-strategy-to-reach-more-climate-conscious-donors/",
   "path": "dept/case/a-green-strategy-to-reach-more-climate-conscious-donors",
-  "timestamp": "2026-10-08T16:17:33.791Z",
+  "timestamp": "2026-10-09T09:50:07.992Z",
   "title": "A green strategy to reach more climate-conscious donors - DEPT®",
   "template": "dept-case",
   "locale": "global",
@@ -22,15 +22,7 @@
     "highlighted-cases",
     "next-case"
   ],
-  "fallback": [
-    "full-width-image",
-    "statement",
-    "full-width-image",
-    "full-width-image",
-    "full-width-image",
-    "panel-with-cards",
-    "full-width-image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image-1.png",
@@ -57,16 +49,16 @@
       "/content/dam/exp-mord-agent/dept/uploads/2022/12/Max-Reilman-Dept-1-min-1.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2022/03/multiscreen-2x-1.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2022/03/multiscreen-2x-1.png"
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg"
+      "https://www.dept.global/wp-content/uploads/2021/10/Philips-multigroomer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Philips-multigroomer.jpeg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2023/03/Google-Play-1920x1080-Header.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Google-Play-1920x1080-Header.png"
+      "https://www.dept.global/wp-content/uploads/2021/03/Lousiana_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lousiana_1.png"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image.png",

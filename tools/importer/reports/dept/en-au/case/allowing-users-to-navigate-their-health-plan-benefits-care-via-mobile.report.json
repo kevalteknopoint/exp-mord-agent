@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/allowing-users-to-navigate-their-health-plan-benefits-care-via-mobile/",
+  "path": "dept/en-au/case/allowing-users-to-navigate-their-health-plan-benefits-care-via-mobile",
+  "timestamp": "2026-10-09T12:25:33.458Z",
+  "title": "Friday Health Plans App: Allowing users to navigate their health plan benefits - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-app-design1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-app-design1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/fhp_img4-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/fhp_img4-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/fhp_img5-_1_-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/fhp_img5-_1_-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-app-design2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-app-design2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Logan-bishop.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Logan-bishop.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre_06.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre_06.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/fhp_img4-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/fhp_img4-1.webp"
+    ]
+  ]
+}

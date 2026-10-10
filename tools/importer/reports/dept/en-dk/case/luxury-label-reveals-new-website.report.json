@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/luxury-label-reveals-new-website/",
+  "path": "dept/en-dk/case/luxury-label-reveals-new-website",
+  "timestamp": "2026-10-09T14:32:20.977Z",
+  "title": "Luksuslabel afslører nyt website - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/2007-launch-ourstory-1440x799-01.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/2007-launch-ourstory-1440x799-01.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Q70023002_050_main.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Q70023002_050_main.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Q70321005_1CN_back.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Q70321005_1CN_back.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-125-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-125-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-126-2-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-126-2-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/playstation-gamechangers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/playstation-gamechangers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/group-in-ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/group-in-ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Q70321005_1CN_back.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Q70321005_1CN_back.jpeg"
+    ]
+  ]
+}

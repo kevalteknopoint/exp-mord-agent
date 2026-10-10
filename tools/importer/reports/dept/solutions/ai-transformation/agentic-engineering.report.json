@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/solutions/ai-transformation/agentic-engineering/",
+  "path": "dept/solutions/ai-transformation/agentic-engineering",
+  "timestamp": "2026-10-09T21:58:30.534Z",
+  "title": "Agentic engineering services - DEPT®",
+  "template": "dept-solutions",
+  "locale": "global",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-statement",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-Additional-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-Engineering-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-Engineering-1920x1080-1.png"
+    ]
+  ]
+}

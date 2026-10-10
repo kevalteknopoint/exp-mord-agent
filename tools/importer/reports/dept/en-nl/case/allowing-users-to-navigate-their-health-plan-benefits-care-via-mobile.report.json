@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/allowing-users-to-navigate-their-health-plan-benefits-care-via-mobile/",
+  "path": "dept/en-nl/case/allowing-users-to-navigate-their-health-plan-benefits-care-via-mobile",
+  "timestamp": "2026-10-09T17:42:09.442Z",
+  "title": "Friday Health Plans App: Allowing users to navigate their health plan benefits - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-app-design1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-app-design1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/fhp_img4-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/fhp_img4-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/fhp_img5-_1_-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/fhp_img5-_1_-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-app-design2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-app-design2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Logan-bishop.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Logan-bishop.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/atlassian-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/atlassian-logo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/cruise_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/cruise_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-basketball.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/fhp_img4-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/fhp_img4-1.webp"
+    ]
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/dept-agency-at-night-till-metrics-do-us-part/",
+  "path": "dept/en-nl/event/dept-agency-at-night-till-metrics-do-us-part",
+  "timestamp": "2026-10-09T17:59:16.872Z",
+  "title": "DEPT® Agency at Night - Till metrics do us part - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-register",
+    "event-content-v2",
+    "wrapper",
+    "event-people",
+    "title-block-carousel",
+    "image",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/AAN-Event-Header-1920x1080-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/AAN-Event-Header-1920x1080-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Jan-Waatze-Schuurman-Hess.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Jan-Waatze-Schuurman-Hess.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Marten-Kuipers.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Marten-Kuipers.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Sander-Sturing.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Sander-Sturing.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/AAN-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/AAN-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/AAN-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/AAN-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/AAN-3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/AAN-3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/AAN-4.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/AAN-4.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/AAN-5.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/AAN-5.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/AAN-6.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/AAN-6.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/AAN-7.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/AAN-7.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/AAN-8.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/AAN-8.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/AAN-10.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/AAN-10.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/AAN-Event-Header-1920x1080-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/AAN-Event-Header-1920x1080-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-Pixel-Thumnail-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-Pixel-Thumnail-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/InteristaAvatars.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/InteristaAvatars.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/AAN-Event-Header-1920x1080-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/AAN-Event-Header-1920x1080-4.png"
+    ]
+  ]
+}

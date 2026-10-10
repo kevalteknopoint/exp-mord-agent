@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/loesungen/ai-transformation/future-of-work-beratung/",
+  "path": "dept/de-dach/loesungen/ai-transformation/future-of-work-beratung",
+  "timestamp": "2026-10-09T11:59:31.636Z",
+  "title": "Enterprise AI Readiness Beratung - DEPT®",
+  "template": "dept-loesungen",
+  "locale": "de-dach",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-statement",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-Work-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-Work-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-Work-1920x1080-Additional-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-Work-1920x1080-Additional-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-Work-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-Work-1920x1080-1.png"
+    ]
+  ]
+}

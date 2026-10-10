@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/navigating-complexities-of-retail-media-with-medela/",
+  "path": "dept/insight/navigating-complexities-of-retail-media-with-medela",
+  "timestamp": "2026-10-09T22:45:55.988Z",
+  "title": "Navigating the complexities of retail media: Perspectives from Medela - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Retail-media-Insight-image-1200x620-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Retail-media-Insight-image-1200x620-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Retail-media-Insight-image-1200x620-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Retail-media-Insight-image-1200x620-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/premiumization-la-nueva-divisa-para-el-crecimiento-de-cpg/",
+  "path": "dept/latam/insight/premiumization-la-nueva-divisa-para-el-crecimiento-de-cpg",
+  "timestamp": "2026-10-09T22:18:29.103Z",
+  "title": "\"Premiumization\": la nueva divisa para el crecimiento de CPG - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Premiumization_-The-new-currency-for-CPG-growth-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Premiumization_-The-new-currency-for-CPG-growth-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Labubu-variety.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Labubu-variety.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Rhodeexample.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Rhodeexample.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Bronners.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Bronners.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/discovery.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/discovery.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Premiumization_-The-new-currency-for-CPG-growth-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Premiumization_-The-new-currency-for-CPG-growth-1920x1080-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-growth-marketing-week-2023-berlin-edition/",
+  "path": "dept/de-dach/event/dept-growth-marketing-week-2023-berlin-edition",
+  "timestamp": "2026-10-09T22:39:52.580Z",
+  "title": "DEPT® Growth Marketing Week 2023 – Berlin Edition - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-program",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/DEPT%C2%AE-Growth-Week-Events-Page-Background.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/DEPT--Growth-Week-Events-Page-Background.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Rectangle-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Rectangle-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Klie-Portrait.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Klie-Portrait.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Curt-Simon-Harlinghausen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Curt-Simon-Harlinghausen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Wall.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Wall.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Tobias-Cummins.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Tobias-Cummins.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/E026KL2NWPK-UTG7LJGAH-1cfa5342bc79-512.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/E026KL2NWPK-UTG7LJGAH-1cfa5342bc79-512.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1612168383302.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1612168383302.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Sonke-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Sonke-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Growth-Marketing-Report_Alternate.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Growth-Marketing-Report_Alternate.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/transavia/",
+  "path": "dept/en-in/case/transavia",
+  "timestamp": "2026-10-09T16:26:07.763Z",
+  "title": "A new visual identity for Transavia - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/RGB-21-Transavia-Airplane-Model-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/RGB-21-Transavia-Airplane-Model-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/RGB-19-Transavia-Airplane-Model-1-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/RGB-19-Transavia-Airplane-Model-1-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/RGB-13-Transavia-Magazine-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/RGB-13-Transavia-Magazine-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-104-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-104-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/RGB-XX-Transavia-Compilation-Articles-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/RGB-XX-Transavia-Compilation-Articles-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wouter-Dirks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wouter-Dirks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/UBER-EATS-Gogo-Knows-best_30_ONLINE_v1.01_00_24_02.Still002.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/UBER-EATS-Gogo-Knows-best_30_ONLINE_v1.01_00_24_02.Still002.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Big-Time-Insight-image-550x344-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Big-Time-Insight-image-550x344-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1188236181-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1188236181-1-scaled.jpg"
+    ]
+  ]
+}

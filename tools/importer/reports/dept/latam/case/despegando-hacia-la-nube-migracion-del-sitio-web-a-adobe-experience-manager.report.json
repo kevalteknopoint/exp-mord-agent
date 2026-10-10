@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/despegando-hacia-la-nube-migracion-del-sitio-web-a-adobe-experience-manager/",
+  "path": "dept/latam/case/despegando-hacia-la-nube-migracion-del-sitio-web-a-adobe-experience-manager",
+  "timestamp": "2026-10-09T21:34:58.439Z",
+  "title": "Featured work: Edelweiss migration to Adobe Experience Manager - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1.-Edelweiss_Mockup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1.-Edelweiss_Mockup.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/4.-Edelweiss_Mobile-Screens_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/4.-Edelweiss_Mobile-Screens_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/tekno-point-dept-named-2022-adobe-digital-experience-emerging-partner-of-the-year-apac-2nd-time-in-a-row/",
+  "path": "dept/en-in/insight/tekno-point-dept-named-2022-adobe-digital-experience-emerging-partner-of-the-year-apac-2nd-time-in-a-row",
+  "timestamp": "2026-10-09T16:38:08.649Z",
+  "title": "Tekno Point/DEPT® named 2022 Adobe Digital Experience Emerging Partner of the Year, APAC – 2nd time in a row! - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Tekno-Point-Named-2022-Emerging-Partner-of-the-Year-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Tekno-Point-Named-2022-Emerging-Partner-of-the-Year-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Tekno-Point-Named-2022-Emerging-Partner-of-the-Year-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Tekno-Point-Named-2022-Emerging-Partner-of-the-Year-500x300-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/cro-pilotprojekt-deckt-roi-potenzial-von-uber-3000-auf/",
+  "path": "dept/case/cro-pilotprojekt-deckt-roi-potenzial-von-uber-3000-auf",
+  "timestamp": "2026-10-09T10:37:35.172Z",
+  "title": "CRO-Pilotprojekt deckt ROI-Potenzial von über 3000 % auf - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Hero-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Hero-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Artboard-2-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Artboard-2-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Artboard-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Artboard-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Artboard-4-V3-kopi-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Artboard-4-V3-kopi-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/artboard-5a.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/artboard-5a.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/artboard-5a.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/artboard-5a.png"
+    ]
+  ]
+}

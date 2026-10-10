@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/enhancing-online-enrolment-with-salesforce-education-cloud/",
+  "path": "dept/en-uki/case/enhancing-online-enrolment-with-salesforce-education-cloud",
+  "timestamp": "2026-10-09T20:06:47.567Z",
+  "title": "Enhancing online enrolment with Salesforce Education Cloud - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ganni7-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ganni7-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept2.jpg"
+    ]
+  ]
+}

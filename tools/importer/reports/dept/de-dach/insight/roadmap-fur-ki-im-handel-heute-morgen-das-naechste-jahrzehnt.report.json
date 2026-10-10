@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/roadmap-fur-ki-im-handel-heute-morgen-das-naechste-jahrzehnt/",
+  "path": "dept/de-dach/insight/roadmap-fur-ki-im-handel-heute-morgen-das-naechste-jahrzehnt",
+  "timestamp": "2026-10-09T11:41:59.881Z",
+  "title": "Roadmap für KI im Commerce: Heute, morgen & in den nächsten zehn Jahren - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Now-Next-Future-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Now-Next-Future-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Bridget-Fahrland-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Bridget-Fahrland-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Discovery-click.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Discovery-click.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Shopify.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Labubu.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Labubu.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Now-Next-Future-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Now-Next-Future-min.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/using-ai-to-scale-cgi-avatars-for-a-fan-loyalty-platform/",
+  "path": "dept/en-uki/case/using-ai-to-scale-cgi-avatars-for-a-fan-loyalty-platform",
+  "timestamp": "2026-10-09T19:21:31.969Z",
+  "title": "Using AI to scale CGI avatars for a fan loyalty platform - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/InteristaAvatars.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/InteristaAvatars.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/YourInteristaWorld.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/YourInteristaWorld.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/InteristaAvatars.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/InteristaAvatars.webp"
+    ]
+  ]
+}

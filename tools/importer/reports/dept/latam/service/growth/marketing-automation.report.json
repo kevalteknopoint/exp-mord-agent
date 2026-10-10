@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/growth/marketing-automation/",
+  "path": "dept/latam/service/growth/marketing-automation",
+  "timestamp": "2026-10-09T22:31:07.301Z",
+  "title": "Marketing automation - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/marketing_automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/marketing_automation.jpg"
+    ]
+  ]
+}

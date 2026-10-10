@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-trends-2026/",
+  "path": "dept/de-dach/event/dept-trends-2026",
+  "timestamp": "2026-10-09T11:00:19.145Z",
+  "title": "DEPT® Trends 2026: The Age of Acceleration - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "wrapper",
+    "event-people",
+    "work-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Trends2026_InsightPage_1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Trends2026_InsightPage_1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/NewHires-alternative-BenWilliams-headshot.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/NewHires-alternative-BenWilliams-headshot.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/RyanParkhust-Headshot.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/RyanParkhust-Headshot.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Bridget-Fahrland.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Bridget-Fahrland.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/new-hires-sam-lewis-alternate.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/new-hires-sam-lewis-alternate.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Thayna-Winnubst-profile-picture.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Thayna-Winnubst-profile-picture.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/shannon-breslin.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/shannon-breslin.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Trends2026_InsightPage_1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Trends2026_InsightPage_1920x1080-1.png"
+    ]
+  ]
+}

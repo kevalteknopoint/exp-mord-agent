@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/shop-for-perfect-bra-fitting-experiences/",
+  "path": "dept/en-uki/case/shop-for-perfect-bra-fitting-experiences",
+  "timestamp": "2026-10-09T19:13:27.660Z",
+  "title": "Shop for perfect bra fitting experiences - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Figleaves-Rectangle-489.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Figleaves-Rectangle-489.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/image2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/image2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Helion-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Helion-Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline_500x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline_500x300.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Figleaves-Rectangle-489.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Figleaves-Rectangle-489.png"
+    ]
+  ]
+}

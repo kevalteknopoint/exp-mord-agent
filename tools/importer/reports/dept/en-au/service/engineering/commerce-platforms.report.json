@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/engineering/commerce-platforms/",
+  "path": "dept/en-au/service/engineering/commerce-platforms",
+  "timestamp": "2026-10-09T14:14:43.722Z",
+  "title": "E-commerce platform development | Software engineering agency - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Commerce-platform.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Commerce-platform.jpg"
+    ]
+  ]
+}

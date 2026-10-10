@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/webby-talks-x-dept-the-race-to-outpace/",
+  "path": "dept/event/webby-talks-x-dept-the-race-to-outpace",
+  "timestamp": "2026-10-09T21:28:25.340Z",
+  "title": "Webby Talks x DEPT®: The Race to Outpace - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "title-and-content",
+    "event-register",
+    "event-registration-form",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Event-Header-1-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Event-Header-1-1-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Event-Header-1-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Event-Header-1-1-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/emma-webby-talk-profile.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/emma-webby-talk-profile.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Max-Pinas-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Max-Pinas-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Event-Header-1-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Event-Header-1-1-1.jpg"
+    ]
+  ]
+}

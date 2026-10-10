@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/tecnologia/dash/",
+  "path": "dept/latam/service/tecnologia/dash",
+  "timestamp": "2026-10-09T22:31:36.710Z",
+  "title": "Website accelerator - ADA/DASH - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "main-page-header",
+    "video",
+    "panel-with-rich-text",
+    "four-card-information-block",
+    "panel-with-rich-text",
+    "podcasts",
+    "cta-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Ecommerce-design-system.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Ecommerce-design-system.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/transparent-plastic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/transparent-plastic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/dash-website-accelerator-ad.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/dash-website-accelerator-ad.jpg"
+    ]
+  ]
+}

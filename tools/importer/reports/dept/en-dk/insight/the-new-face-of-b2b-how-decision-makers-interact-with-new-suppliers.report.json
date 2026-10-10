@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/the-new-face-of-b2b-how-decision-makers-interact-with-new-suppliers/",
+  "path": "dept/en-dk/insight/the-new-face-of-b2b-how-decision-makers-interact-with-new-suppliers",
+  "timestamp": "2026-10-09T15:13:19.240Z",
+  "title": "The new face of B2B: how decision makers interact with new suppliers - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Header-b2b-2-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Header-b2b-2-1200x750-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-Dam-Johnse-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-Dam-Johnse-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Sjoerd-van-der-Gijp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Sjoerd-van-der-Gijp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Header-b2b-2-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Header-b2b-2-1200x750-c.png"
+    ]
+  ]
+}

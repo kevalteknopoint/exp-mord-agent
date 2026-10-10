@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/the-future-of-retail-is-phygital/",
+  "path": "dept/en-uki/insight/the-future-of-retail-is-phygital",
+  "timestamp": "2026-10-09T20:35:44.967Z",
+  "title": "The future of retail is phygital - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/iStock-858220430-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/iStock-858220430-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Isabel-Perry-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Isabel-Perry-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/iStock-858220430-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/iStock-858220430-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/HM_Virtual_Showroom_Hero_Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/HM_Virtual_Showroom_Hero_Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Isabel-Perry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Isabel-Perry.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/iStock-858220430-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/iStock-858220430-1.jpg"
+    ]
+  ]
+}

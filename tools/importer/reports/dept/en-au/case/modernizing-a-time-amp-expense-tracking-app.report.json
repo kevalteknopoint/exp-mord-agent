@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/modernizing-a-time-amp-expense-tracking-app/",
+  "path": "dept/en-au/case/modernizing-a-time-amp-expense-tracking-app",
+  "timestamp": "2026-10-09T12:14:36.088Z",
+  "title": "Featured work: BigTime mobile app redesign & development",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/big_time_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/big_time_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/big_time_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/big_time_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/big_time_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/big_time_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/alex-glaser.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/alex-glaser.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Big-Time-Insight-image-550x344-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Big-Time-Insight-image-550x344-1.png"
+    ]
+  ]
+}

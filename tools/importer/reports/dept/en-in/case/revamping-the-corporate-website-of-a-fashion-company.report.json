@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-in/case/revamping-the-corporate-website-of-a-fashion-company/",
   "path": "dept/en-in/case/revamping-the-corporate-website-of-a-fashion-company",
-  "timestamp": "2026-10-08T15:14:23.285Z",
+  "timestamp": "2026-10-09T09:51:22.752Z",
   "title": "Revamping the corporate website of a fashion company - DEPT®",
   "template": "dept-case",
   "locale": "en-in",
@@ -26,14 +26,7 @@
     "highlighted-cases",
     "next-case"
   ],
-  "fallback": [
-    "image",
-    "statement",
-    "image",
-    "image",
-    "image",
-    "call-to-action"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_1.jpg",
@@ -64,8 +57,8 @@
       "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2021/05/eurovision_render2_1-1.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2021/05/eurovision_render2_1-1.png"
+      "https://www.dept.global/wp-content/uploads/2021/05/3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/3.jpg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_1.jpg",

@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/join-dept-at-best-of-adobe-summit-2024/",
+  "path": "dept/en-au/event/join-dept-at-best-of-adobe-summit-2024",
+  "timestamp": "2026-10-09T22:58:18.936Z",
+  "title": "Join DEPT® at Best of Adobe Summit 2024 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/DEPT%C2%AE-Adobe-Summit-Landing-page-header-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/DEPT--Adobe-Summit-Landing-page-header-1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/DEPT%C2%AE-Adobe-Summit-Landing-page-header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/DEPT--Adobe-Summit-Landing-page-header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Vishnu_Mohan.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Vishnu_Mohan.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Yash-Mody.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Yash-Mody.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Diphaa_Nair.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Diphaa_Nair.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Adobe-Summit2024_Speaker_06-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Adobe-Summit2024_Speaker_06-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Evan-Davey-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Evan-Davey-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/james-lowe.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/james-lowe.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/DEPT%C2%AE-Adobe-Summit-Landing-page-header-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/DEPT--Adobe-Summit-Landing-page-header-1-1.png"
+    ]
+  ]
+}

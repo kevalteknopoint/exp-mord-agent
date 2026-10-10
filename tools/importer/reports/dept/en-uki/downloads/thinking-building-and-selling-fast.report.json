@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/thinking-building-and-selling-fast/",
+  "path": "dept/en-uki/downloads/thinking-building-and-selling-fast",
+  "timestamp": "2026-10-09T19:40:06.783Z",
+  "title": "Thinking, building and selling fast - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/dept-020202-220420-3001.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/dept-020202-220420-3001.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/dept-020202-220420-3001.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/dept-020202-220420-3001.png"
+    ]
+  ]
+}

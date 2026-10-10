@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/the-mtv-video-music-awards-vmas-case-by-dumbar-dept/",
+  "path": "dept/awards/the-mtv-video-music-awards-vmas-case-by-dumbar-dept",
+  "timestamp": "2026-10-09T10:36:49.244Z",
+  "title": "The MTV Video Music Awards (VMAs) case by Dumbar/DEPT® - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "quote",
+    "video"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/02-VMA-2022-Webby-Awards-DEPT%C2%AE-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/02-VMA-2022-Webby-Awards-DEPT--1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

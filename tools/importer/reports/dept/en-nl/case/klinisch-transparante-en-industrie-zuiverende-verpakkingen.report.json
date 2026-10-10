@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/klinisch-transparante-en-industrie-zuiverende-verpakkingen/",
+  "path": "dept/en-nl/case/klinisch-transparante-en-industrie-zuiverende-verpakkingen",
+  "timestamp": "2026-10-09T18:27:27.457Z",
+  "title": "Klinisch transparante en industrie-zuiverende verpakkingen - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "title-left-body-right",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SKIN_KV1_HEADER_DEPT-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SKIN_KV1_HEADER_DEPT-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SKIN_KV3_DEPT-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SKIN_KV3_DEPT-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SKIN_KV7_DEPT-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SKIN_KV7_DEPT-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/5K1N_KV9_DEPT-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/5K1N_KV9_DEPT-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SKIN_KV2_DEPT-min-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SKIN_KV2_DEPT-min-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/02/Plieger_16-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/02/Plieger_16-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/wine.com_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/wine.com_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1188236181-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1188236181-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SKIN_KV1_HEADER_DEPT-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SKIN_KV1_HEADER_DEPT-4.png"
+    ]
+  ]
+}

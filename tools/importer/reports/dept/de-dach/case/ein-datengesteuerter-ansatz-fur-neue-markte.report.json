@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-datengesteuerter-ansatz-fur-neue-markte/",
+  "path": "dept/de-dach/case/ein-datengesteuerter-ansatz-fur-neue-markte",
+  "timestamp": "2026-10-09T11:40:57.664Z",
+  "title": "Ein datengesteuerter Ansatz für neue Märkte - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Christina-Hansen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Christina-Hansen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/demo-amsterdam-2025-66-1600x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/UBS-Athletics_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/UBS-Athletics_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/masai_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/masai_1.jpg"
+    ]
+  ]
+}

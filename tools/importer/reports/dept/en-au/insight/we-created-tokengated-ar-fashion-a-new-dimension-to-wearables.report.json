@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/we-created-tokengated-ar-fashion-a-new-dimension-to-wearables/",
+  "path": "dept/en-au/insight/we-created-tokengated-ar-fashion-a-new-dimension-to-wearables",
+  "timestamp": "2026-10-09T13:15:01.313Z",
+  "title": "We created tokengated AR fashion, a new dimension to wearables - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/tokengated-ar-wearables-jacket.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/tokengated-ar-wearables-jacket.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Lauren_Chester-e1680082116275-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Lauren_Chester-e1680082116275-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Lauren_Chester-e1680082116275.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Lauren_Chester-e1680082116275.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/tokengated-ar-wearables-jacket.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/tokengated-ar-wearables-jacket.jpg"
+    ]
+  ]
+}

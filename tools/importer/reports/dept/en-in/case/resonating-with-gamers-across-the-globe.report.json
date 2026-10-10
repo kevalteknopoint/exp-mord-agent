@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/resonating-with-gamers-across-the-globe/",
+  "path": "dept/en-in/case/resonating-with-gamers-across-the-globe",
+  "timestamp": "2026-10-09T16:13:53.969Z",
+  "title": "Resonating with gamers across the globe - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/steelseries-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/steelseries-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/social.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/social.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/journey-test.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/journey-test.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/comments-tiktok.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/comments-tiktok.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/commets.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/commets.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/HYVA-Case-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/HYVA-Case-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/woman-cA.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/woman-cA.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Utah-Jazz-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Utah-Jazz-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/steelseries-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/steelseries-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/leveraging-commercetools-and-data-to-create-an-innovative-marketplace/",
+  "path": "dept/en-nl/case/leveraging-commercetools-and-data-to-create-an-innovative-marketplace",
+  "timestamp": "2026-10-09T17:06:16.164Z",
+  "title": "Tuck into the future of food - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-518459098-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-518459098-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway3-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway3-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Kali-Healthcare-38-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Kali-Healthcare-38-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/experience/e-commerce-design/",
+  "path": "dept/en-au/service/experience/e-commerce-design",
+  "timestamp": "2026-10-09T14:17:39.244Z",
+  "title": "e-commerce website design services | Customer experience agency - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text",
+    "highlighted-item-listing",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/e-commerce-brands-get-started-tiktok1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/e-commerce-brands-get-started-tiktok1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Full_Stack_Enabled_Commerce_Cloud-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Full_Stack_Enabled_Commerce_Cloud-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/group-of-friends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/group-of-friends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ecommerdesign.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ecommerdesign.png"
+    ]
+  ]
+}

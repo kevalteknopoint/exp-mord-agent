@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/turning-complexity-into-simplicity-with-cash-app/",
+  "path": "dept/awards/turning-complexity-into-simplicity-with-cash-app",
+  "timestamp": "2026-10-09T10:37:29.571Z",
+  "title": "Turning complexity into simplicity with Cash App - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/CashAppBitcoin.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/CashAppBitcoin.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/CashappBitcoin2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/CashappBitcoin2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/CashAppBitcoin.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/CashAppBitcoin.jpg"
+    ]
+  ]
+}

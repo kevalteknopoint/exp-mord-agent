@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/crafting-a-website-worthy-of-food-for-thought/",
+  "path": "dept/case/crafting-a-website-worthy-of-food-for-thought",
+  "timestamp": "2026-10-09T10:30:08.841Z",
+  "title": "Crafting a website worthy of food for thought - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/avina-presskit-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/avina-presskit-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/avina-presskit-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/avina-presskit-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1190632451-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1190632451-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/avina-presskit-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/avina-presskit-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Valentin-Baumann_HV-Dept-e1627480506586.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Valentin-Baumann_HV-Dept-e1627480506586.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/03-H-and-M-Virtual-showroom.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/03-H-and-M-Virtual-showroom.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-639001344-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-639001344-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ]
+  ]
+}

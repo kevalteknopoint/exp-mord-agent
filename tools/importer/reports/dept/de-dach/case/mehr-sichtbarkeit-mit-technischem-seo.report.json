@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/mehr-sichtbarkeit-mit-technischem-seo/",
+  "path": "dept/de-dach/case/mehr-sichtbarkeit-mit-technischem-seo",
+  "timestamp": "2026-10-09T11:10:02.994Z",
+  "title": "Mehr Sichtbarkeit mit technischem SEO - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/unnamed-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/unnamed-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Kenna-selfie-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Kenna-selfie-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BabyOne_Header-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BabyOne_Header-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1313751774-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1313751774-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/askari.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/askari.jpg"
+    ]
+  ]
+}

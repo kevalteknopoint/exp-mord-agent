@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-is-a-finalist-in-five-categories-at-the-google-ads-premier-partner-awards/",
+  "path": "dept/insight/dept-is-a-finalist-in-five-categories-at-the-google-ads-premier-partner-awards",
+  "timestamp": "2026-10-09T21:15:15.840Z",
+  "title": "DEPT® is a finalist in five categories at the Google Ads Premier Partner Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Google-Premier-Awards-2023-Insights-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Google-Premier-Awards-2023-Insights-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Ellen-Corrigan-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Ellen-Corrigan-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Google-Premier-Awards-2023-Article-Header-500x300-v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Google-Premier-Awards-2023-Article-Header-500x300-v2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Ellen-Corrigan-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Ellen-Corrigan-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Google-Premier-Awards-2023-Insights-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Google-Premier-Awards-2023-Insights-1000x1200-1.jpg"
+    ]
+  ]
+}

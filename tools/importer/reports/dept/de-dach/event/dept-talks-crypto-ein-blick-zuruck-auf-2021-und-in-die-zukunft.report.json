@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-talks-crypto-ein-blick-zuruck-auf-2021-und-in-die-zukunft/",
+  "path": "dept/de-dach/event/dept-talks-crypto-ein-blick-zuruck-auf-2021-und-in-die-zukunft",
+  "timestamp": "2026-10-09T10:59:43.493Z",
+  "title": "DEPT® Talks: Crypto, ein Blick zurück auf 2021 und in die Zukunft - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Website.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Website.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/David-Markley-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/David-Markley-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Brandon-Aaskov-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Brandon-Aaskov-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Jesse-Streb-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Jesse-Streb-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Website.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Website.png"
+    ]
+  ]
+}

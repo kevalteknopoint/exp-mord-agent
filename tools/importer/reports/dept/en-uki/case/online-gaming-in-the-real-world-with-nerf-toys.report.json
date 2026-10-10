@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/online-gaming-in-the-real-world-with-nerf-toys/",
+  "path": "dept/en-uki/case/online-gaming-in-the-real-world-with-nerf-toys",
+  "timestamp": "2026-10-09T20:24:58.242Z",
+  "title": "Online gaming in the real world with NERF toys - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nerf_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nerf_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/nerf-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/nerf-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nerf_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nerf_1.png"
+    ]
+  ]
+}

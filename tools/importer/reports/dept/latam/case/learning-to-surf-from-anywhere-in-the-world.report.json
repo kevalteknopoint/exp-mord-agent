@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/learning-to-surf-from-anywhere-in-the-world/",
+  "path": "dept/latam/case/learning-to-surf-from-anywhere-in-the-world",
+  "timestamp": "2026-10-09T21:39:23.649Z",
+  "title": "Learning to surf from anywhere in the world - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "quote",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/iStock-488916424-min-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/iStock-488916424-min-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/iStock-1283316947-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/iStock-1283316947-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/iStock-1003589032-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/iStock-1003589032-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Visual-Light-160-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Visual-Light-160-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Visual-Light-163-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Visual-Light-163-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/iStock-1255102320-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/iStock-1255102320-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Helzberg-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Helzberg-12.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/surfers-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/surfers-min.jpg"
+    ]
+  ]
+}

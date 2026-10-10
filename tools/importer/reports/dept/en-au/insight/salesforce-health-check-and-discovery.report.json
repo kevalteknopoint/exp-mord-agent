@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/salesforce-health-check-and-discovery/",
+  "path": "dept/en-au/insight/salesforce-health-check-and-discovery",
+  "timestamp": "2026-10-09T12:43:54.859Z",
+  "title": "Salesforce Health Check and Discovery - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "call-to-action",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/semina-psichogiopoulou-hl0iLy1hFo0-unsplash-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/semina-psichogiopoulou-hl0iLy1hFo0-unsplash-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Nick-Broekema-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Nick-Broekema-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/semina-psichogiopoulou-hl0iLy1hFo0-unsplash-1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/semina-psichogiopoulou-hl0iLy1hFo0-unsplash-1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Nick-Broekema-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Nick-Broekema-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/semina-psichogiopoulou-hl0iLy1hFo0-unsplash-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/semina-psichogiopoulou-hl0iLy1hFo0-unsplash-scaled.jpeg"
+    ]
+  ]
+}

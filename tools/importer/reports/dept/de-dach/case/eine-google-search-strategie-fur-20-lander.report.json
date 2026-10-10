@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-google-search-strategie-fur-20-lander/",
+  "path": "dept/de-dach/case/eine-google-search-strategie-fur-20-lander",
+  "timestamp": "2026-10-09T10:55:34.042Z",
+  "title": "Eine Google Search Strategie für 20 Länder - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/93522.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/93522.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/SEA_Ha%CC%88nde_beide_1.91x1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/SEA_Ha-nde_beide_1.91x1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ]
+  ]
+}

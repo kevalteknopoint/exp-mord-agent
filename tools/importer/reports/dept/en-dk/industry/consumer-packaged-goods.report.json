@@ -1,0 +1,112 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/industry/consumer-packaged-goods/",
+  "path": "dept/en-dk/industry/consumer-packaged-goods",
+  "timestamp": "2026-10-09T13:56:08.841Z",
+  "title": "AI-native consulting, tech, and marketing solutions for CPG - DEPT®",
+  "template": "dept-industry",
+  "locale": "en-dk",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "event-content-v2",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "event-content-v2",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/DEPT%C2%AECPG-Retail-media-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/DEPT-CPG-Retail-media-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/002-Heinz-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/002-Heinz-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/douglas_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/douglas_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Kenna-Anatomie-dach.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Kenna-Anatomie-dach.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/avina_4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/avina_4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Unilever.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Unilever.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Proctor-Gamble-PG.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Proctor-Gamble-PG.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Pepsico.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Pepsico.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Mondelez.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Mondelez.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Heinz.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Heinz.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Diageo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Diageo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Danone.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Danone.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Colgate-Palmolive.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Colgate-Palmolive.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Biersdorf.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Biersdorf.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/reckitt.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/reckitt.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/silver-drink-can-crushed-CPG-crossroads.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/silver-drink-can-crushed-CPG-crossroads.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Impact-of-marketing-media-1-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Impact-of-marketing-media-1-500x300-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/cpg-retail-media.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/cpg-retail-media.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/JagermeisterDEPT-NDH2.0-wLogo-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/JagermeisterDEPT-NDH2.0-wLogo-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/CPG-Thumbnail.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/CPG-Thumbnail.jpg"
+    ]
+  ]
+}

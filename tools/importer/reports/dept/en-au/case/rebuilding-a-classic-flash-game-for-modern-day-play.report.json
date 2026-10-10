@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/rebuilding-a-classic-flash-game-for-modern-day-play/",
+  "path": "dept/en-au/case/rebuilding-a-classic-flash-game-for-modern-day-play",
+  "timestamp": "2026-10-09T12:21:31.739Z",
+  "title": "Rebuilding a classic Flash game for modern day play - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/cyberchase-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/cyberchase-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CyberchaseProject@2X-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CyberchaseProject-2X-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/cyberchase-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/cyberchase-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/cyberchase-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/cyberchase-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/cruise_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/cruise_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CyberchaseProject@2X-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CyberchaseProject-2X-1.jpg"
+    ]
+  ]
+}

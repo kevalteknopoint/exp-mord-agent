@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/the-digital-transformation-of-a-b2b-giant/",
+  "path": "dept/en-dk/case/the-digital-transformation-of-a-b2b-giant",
+  "timestamp": "2026-10-09T13:28:35.036Z",
+  "title": "A formula to drive change - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "panel-with-cards",
+    "full-width-image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Johan-Kruseman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Johan-Kruseman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1002823828-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1002823828-1-scaled.jpg"
+    ]
+  ]
+}

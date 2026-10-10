@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/como-la-funcion-try-it-on-de-google-cambia-las-compras-una-vez-mas/",
+  "path": "dept/latam/insight/como-la-funcion-try-it-on-de-google-cambia-las-compras-una-vez-mas",
+  "timestamp": "2026-10-09T23:34:48.971Z",
+  "title": "Cómo la función \"Try It On\" de Google cambia las compras una vez más  - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Online-shopping-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Online-shopping-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/wesley-valstar-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/wesley-valstar-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/try-it-on-uxui-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/try-it-on-uxui-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Online-shopping-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Online-shopping-02.jpg"
+    ]
+  ]
+}

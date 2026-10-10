@@ -1,0 +1,92 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/mit-einer-neuen-brand-identity-die-verbindung-zwischen-leidenschaft-kunst-und-wissenschaft-herstellen/",
+  "path": "dept/case/mit-einer-neuen-brand-identity-die-verbindung-zwischen-leidenschaft-kunst-und-wissenschaft-herstellen",
+  "timestamp": "2026-10-09T10:32:22.176Z",
+  "title": "Eine neue Brand Identity für Evrnu® - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "image",
+    "image",
+    "video",
+    "title-and-content",
+    "video",
+    "video",
+    "image",
+    "title-and-content",
+    "video",
+    "image",
+    "image",
+    "title-and-content",
+    "video",
+    "video",
+    "quote",
+    "video",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "image",
+    "quote",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Logo_Build_Evrnu.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Logo_Build_Evrnu.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Evrnu-Worlds.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Evrnu-Worlds.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Evrnu_OOH-e1685613776424.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Evrnu_OOH-e1685613776424.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/NuCycl_Worlds-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/NuCycl_Worlds-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Hero_Logo_NuCycl-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Hero_Logo_NuCycl-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Evrnu_Card_Mock-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Evrnu_Card_Mock-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Nucycle-socials-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Nucycle-socials-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Evrnu_Conference_Mock-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Evrnu_Conference_Mock-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/guidelines-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/guidelines-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/James-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/James-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/download-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/download-8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Evrnu_Worlds-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Evrnu_Worlds-min.png"
+    ]
+  ]
+}

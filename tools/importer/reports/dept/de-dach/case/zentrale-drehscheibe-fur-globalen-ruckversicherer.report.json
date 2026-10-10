@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/zentrale-drehscheibe-fur-globalen-ruckversicherer/",
+  "path": "dept/de-dach/case/zentrale-drehscheibe-fur-globalen-ruckversicherer",
+  "timestamp": "2026-10-09T11:27:58.898Z",
+  "title": "Zentrale Drehscheibe für globalen Rückversicherer - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/swiss-re.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/swiss-re.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Featured-Image_DS.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Featured-Image_DS.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Ferrari-California-T-Frontansicht-article169Gallery-34c5df96-836949.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Ferrari-California-T-Frontansicht-article169Gallery-34c5df96-836949.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Kardex-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Kardex-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/swiss-re.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/swiss-re.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/2023-growth-marketing-report/",
+  "path": "dept/de-dach/downloads/2023-growth-marketing-report",
+  "timestamp": "2026-10-09T09:53:12.186Z",
+  "title": "2023 Growth Marketing Report - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/green-archway-with-lights-growth-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/green-archway-with-lights-growth-marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/green-archway-with-lights-growth-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/green-archway-with-lights-growth-marketing.jpg"
+    ]
+  ]
+}

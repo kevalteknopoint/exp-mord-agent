@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/ride-without-limits/",
+  "path": "dept/latam/case/ride-without-limits",
+  "timestamp": "2026-10-09T21:42:30.940Z",
+  "title": "Ride without limits - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-861247950-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-861247950-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon2-1.png"
+    ]
+  ]
+}

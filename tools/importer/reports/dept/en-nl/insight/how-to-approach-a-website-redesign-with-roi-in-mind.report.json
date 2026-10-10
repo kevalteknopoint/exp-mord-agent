@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-nl/insight/how-to-approach-a-website-redesign-with-roi-in-mind/",
   "path": "dept/en-nl/insight/how-to-approach-a-website-redesign-with-roi-in-mind",
-  "timestamp": "2026-10-08T16:14:10.788Z",
+  "timestamp": "2026-10-09T09:45:16.941Z",
   "title": "How to approach a website redesign with ROI in mind - DEPT®",
   "template": "dept-insight",
   "locale": "en-nl",
@@ -17,9 +17,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "two-cards-and-content"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/09/Website-redesign-ROI.jpg",

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/visual-identity-for-netflix-playground/",
+  "path": "dept/en-uki/case/visual-identity-for-netflix-playground",
+  "timestamp": "2026-10-09T19:22:24.140Z",
+  "title": "Visual Identity for Netflix Playground  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "text",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [
+    "text"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design-noodles-moves.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design-noodles-moves.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design-noodles-with-hats.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design-noodles-with-hats.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/netflix-playground-billboard-mockup.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/netflix-playground-billboard-mockup.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design.webp"
+    ]
+  ]
+}

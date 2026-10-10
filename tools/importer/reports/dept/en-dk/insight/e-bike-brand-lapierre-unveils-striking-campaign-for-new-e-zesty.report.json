@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/e-bike-brand-lapierre-unveils-striking-campaign-for-new-e-zesty/",
+  "path": "dept/en-dk/insight/e-bike-brand-lapierre-unveils-striking-campaign-for-new-e-zesty",
+  "timestamp": "2026-10-09T15:14:34.539Z",
+  "title": "E-bike brand Lapierre unveils striking campaign for new E-Zesty - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Lapierre_Key_Visual.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Lapierre_Key_Visual.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Manuel-Di-Tolve-1-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Manuel-Di-Tolve-1-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Lapierre_Key_Visual.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Lapierre_Key_Visual.jpg"
+    ]
+  ]
+}

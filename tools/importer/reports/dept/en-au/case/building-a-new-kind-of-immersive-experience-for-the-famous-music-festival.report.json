@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/building-a-new-kind-of-immersive-experience-for-the-famous-music-festival/",
+  "path": "dept/en-au/case/building-a-new-kind-of-immersive-experience-for-the-famous-music-festival",
+  "timestamp": "2026-10-09T12:36:30.902Z",
+  "title": "Building an immersive experience for the leader in music festivals - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "jumbotron",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/pr_tomorrowland.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/pr_tomorrowland.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Amazon-Prime-x-Without-Remorse-6-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Amazon-Prime-x-Without-Remorse-6-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Adobe-_-Dogstudio-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Adobe-_-Dogstudio-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/vijay-sales-logo-red-background.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/vijay-sales-logo-red-background.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/TML1-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/TML1-2.jpeg"
+    ]
+  ]
+}

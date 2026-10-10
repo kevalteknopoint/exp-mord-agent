@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/organising-the-worlds-first-24-hour-meta-festival/",
+  "path": "dept/en-au/case/organising-the-worlds-first-24-hour-meta-festival",
+  "timestamp": "2026-10-09T12:18:55.189Z",
+  "title": "Organising the world's first 24-hour Meta Festival - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "stats-panel",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Meta-Fest-stills-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Meta-Fest-stills-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Meta-Festival_Whole-World.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Meta-Festival_Whole-World.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Highres-1920-px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Highres-1920-px.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Meta-Fest-stills-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Meta-Fest-stills-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Header_Etos-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Header_Etos-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Meta-Festival_Whole-World-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Meta-Festival_Whole-World-1024x576.png"
+    ]
+  ]
+}

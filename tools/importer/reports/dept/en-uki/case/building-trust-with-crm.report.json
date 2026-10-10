@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/building-trust-with-crm/",
+  "path": "dept/en-uki/case/building-trust-with-crm",
+  "timestamp": "2026-10-09T19:54:18.400Z",
+  "title": "Building trust with CRM - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Screenshot-2023-03-09-at-11.06.32-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Screenshot-2023-03-09-at-11.06.32-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/adam-jewson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/adam-jewson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ganni7-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ganni7-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Screenshot-2023-03-09-at-11.06.32-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Screenshot-2023-03-09-at-11.06.32-min.png"
+    ]
+  ]
+}

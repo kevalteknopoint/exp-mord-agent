@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/convirtiendo-nada-que-ponerse-en-algo-que-amar/",
+  "path": "dept/case/convirtiendo-nada-que-ponerse-en-algo-que-amar",
+  "timestamp": "2026-10-09T10:29:02.993Z",
+  "title": "Convirtiendo nada que ponerse en algo que amar - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "stats-panel",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Ebay4.jpg.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Ebay4.jpg.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/BYTE_HEAD_SHOTS1238_1-e1707149328146.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/BYTE_HEAD_SHOTS1238_1-e1707149328146.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/gas-vanon-raod.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/gas-vanon-raod.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ]
+  ]
+}

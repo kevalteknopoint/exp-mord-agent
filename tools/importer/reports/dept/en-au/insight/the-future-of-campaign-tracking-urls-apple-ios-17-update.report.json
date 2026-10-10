@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/the-future-of-campaign-tracking-urls-apple-ios-17-update/",
+  "path": "dept/en-au/insight/the-future-of-campaign-tracking-urls-apple-ios-17-update",
+  "timestamp": "2026-10-09T12:58:17.139Z",
+  "title": "The future of campaign tracking URLs [Apple iOS 17 update]  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/apple-store-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/apple-store-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Cristian-van-Nispen-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Cristian-van-Nispen-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/trackers-examples.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/trackers-examples.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Cristian-van-Nispen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Cristian-van-Nispen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/apple-store-1-1024x614.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/apple-store-1-1024x614.jpg"
+    ]
+  ]
+}

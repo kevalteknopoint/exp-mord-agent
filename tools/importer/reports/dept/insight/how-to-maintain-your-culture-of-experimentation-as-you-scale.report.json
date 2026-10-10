@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-maintain-your-culture-of-experimentation-as-you-scale/",
+  "path": "dept/insight/how-to-maintain-your-culture-of-experimentation-as-you-scale",
+  "timestamp": "2026-10-09T22:14:20.942Z",
+  "title": "How to maintain your culture of experimentation as you scale - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/How-to-maintain-culture-experimentation-as-you-scale.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/How-to-maintain-culture-experimentation-as-you-scale.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/orange-wires-on-gray.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/orange-wires-on-gray.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Innovation-search-ai-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Innovation-search-ai-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/optimize-cro-programs-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/optimize-cro-programs-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/How-to-maintain-culture-experimentation-as-you-scale.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/How-to-maintain-culture-experimentation-as-you-scale.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/launching-new-d2c-health-brand/",
+  "path": "dept/en-uki/case/launching-new-d2c-health-brand",
+  "timestamp": "2026-10-09T20:19:16.135Z",
+  "title": "Launching a new D2C health brand - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Image-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Image-Full-bleed-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Image-Split-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Image-Split-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Desktop-Angle-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Desktop-Angle-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Desktop-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Desktop-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Mobile-x-9-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Mobile-x-9-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1085747632-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1085747632-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-cover-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-cover-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/breakfast-in-bed-couple.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/breakfast-in-bed-couple.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Image-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Image-Full-bleed-1.png"
+    ]
+  ]
+}

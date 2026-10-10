@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/the-keys-to-keybanks-digital-marketing-success/",
+  "path": "dept/en-au/case/the-keys-to-keybanks-digital-marketing-success",
+  "timestamp": "2026-10-09T12:34:06.147Z",
+  "title": "The keys to Keybank's digital marketing success - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/mortgage_index_1000x480.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/mortgage_index_1000x480.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/compare_credit_cards_1020_1500x556.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/compare_credit_cards_1020_1500x556.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Philips-Hue.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Philips-Hue.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Oxxio-1-e1530628250257.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Oxxio-1-e1530628250257.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/key-bank.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/key-bank.jpg"
+    ]
+  ]
+}

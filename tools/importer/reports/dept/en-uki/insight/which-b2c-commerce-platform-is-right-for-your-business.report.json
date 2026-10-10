@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/which-b2c-commerce-platform-is-right-for-your-business/",
+  "path": "dept/en-uki/insight/which-b2c-commerce-platform-is-right-for-your-business",
+  "timestamp": "2026-10-09T19:36:14.642Z",
+  "title": "Which B2C commerce platform is right for your business? - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Which-B2C-Commerce-Platform-is-right-for-your-Business1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Which-B2C-Commerce-Platform-is-right-for-your-Business1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Which-B2C-Commerce-Platform-is-right-for-your-Business2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Which-B2C-Commerce-Platform-is-right-for-your-Business2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Which-B2C-Commerce-Platform-is-right-for-your-Business1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Which-B2C-Commerce-Platform-is-right-for-your-Business1.jpg"
+    ]
+  ]
+}

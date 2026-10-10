@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/the-benefits-of-mach-for-your-e-commerce-experience/",
+  "path": "dept/en-dk/insight/the-benefits-of-mach-for-your-e-commerce-experience",
+  "timestamp": "2026-10-09T15:08:39.394Z",
+  "title": "The benefits of MACH for your e-commerce experience - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/MACH-Blog-header-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/MACH-Blog-header-500x300-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/elina-andrus-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/elina-andrus-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-x-Mach-Alliance.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--x-Mach-Alliance.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/group-of-friends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/group-of-friends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/DASH-x-commerce-tools-Insights-1200x1000-13.58.16.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/DASH-x-commerce-tools-Insights-1200x1000-13.58.16.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/MACH-Blog-header-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/MACH-Blog-header-500x300-1.jpg"
+    ]
+  ]
+}

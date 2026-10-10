@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/transforming-a-home-decor-publication-into-an-experience-led-commerce-platform/",
+  "path": "dept/en-au/case/transforming-a-home-decor-publication-into-an-experience-led-commerce-platform",
+  "timestamp": "2026-10-09T12:36:29.080Z",
+  "title": "Featured work: Beautiful Homes transformation on Adobe Experience Manager",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Beautiful-Homes-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Beautiful-Homes-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/hero-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/hero-1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/cowboy-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/cowboy-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Beautiful-Homes-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Beautiful-Homes-Case-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/ddma-rituals-ai-award-solution/",
+  "path": "dept/en-nl/insight/ddma-rituals-ai-award-solution",
+  "timestamp": "2026-10-09T17:28:45.995Z",
+  "title": "Rituals and DEPT® Win Customer Data Award with AI Solution to boost shopping experience - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "case-quote",
+    "case-quote",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Rituals_Web_1920x1080_logos.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Rituals_Web_1920x1080_logos.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Rituals_Web_1920x1080_logos.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Rituals_Web_1920x1080_logos.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1000x1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1000x1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/AOTY-Anthem-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/AOTY-Anthem-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Rituals_Web_1920x1080_logos.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Rituals_Web_1920x1080_logos.png"
+    ]
+  ]
+}

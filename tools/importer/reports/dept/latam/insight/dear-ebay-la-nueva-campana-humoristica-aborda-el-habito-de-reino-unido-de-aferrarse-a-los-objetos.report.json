@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dear-ebay-la-nueva-campana-humoristica-aborda-el-habito-de-reino-unido-de-aferrarse-a-los-objetos/",
+  "path": "dept/latam/insight/dear-ebay-la-nueva-campana-humoristica-aborda-el-habito-de-reino-unido-de-aferrarse-a-los-objetos",
+  "timestamp": "2026-10-09T23:32:52.072Z",
+  "title": "\"Dear eBay\": la nueva campaña humorística que aborda el hábito de Reino Unido de aferrarse a los objetos - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Dear-eBay-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Dear-eBay-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Dear-eBay-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Dear-eBay-1920x1080-1.webp"
+    ]
+  ]
+}

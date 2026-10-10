@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/hoja-de-ruta-para-el-comercio-con-ia-hoy-manana-y-la-proxima-decada/",
+  "path": "dept/latam/insight/hoja-de-ruta-para-el-comercio-con-ia-hoy-manana-y-la-proxima-decada",
+  "timestamp": "2026-10-09T23:27:08.442Z",
+  "title": "Hoja de ruta para el comercio con IA: hoy, mañana y la próxima década - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "assets-and-copy",
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Now-Next-Future-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Now-Next-Future-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Bridget-Fahrland-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Bridget-Fahrland-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Now-Next-Future-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Now-Next-Future-min.jpg"
+    ]
+  ]
+}

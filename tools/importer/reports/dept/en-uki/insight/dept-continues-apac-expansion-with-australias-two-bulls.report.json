@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-continues-apac-expansion-with-australias-two-bulls/",
+  "path": "dept/en-uki/insight/dept-continues-apac-expansion-with-australias-two-bulls",
+  "timestamp": "2026-10-09T19:21:02.852Z",
+  "title": "DEPT® continues APAC expansion with Australia’s Two Bulls - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Press-image-Two-Bulls-x-DEPT.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Press-image-Two-Bulls-x-DEPT.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Press-image-Two-Bulls-x-DEPT-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Press-image-Two-Bulls-x-DEPT-1024x576.png"
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/rise-of-the-alpha-building-brand-relevance-today-for-tomorrow-main-page/",
+  "path": "dept/en-au/event/rise-of-the-alpha-building-brand-relevance-today-for-tomorrow-main-page",
+  "timestamp": "2026-10-09T22:58:28.052Z",
+  "title": "Rise of the Alpha: Building Brand Relevance Today for Tomorrow - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "assets-and-copy",
+    "event-people",
+    "event-program-v2",
+    "full-width-image",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Talks-Sydney-LinkedIn-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Talks-Sydney-LinkedIn-1600x900-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Batoul-Peters-headshot.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Batoul-Peters-headshot.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Dan-Ludlow-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Dan-Ludlow-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Alice-Almeida-Headshot-1-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Alice-Almeida-Headshot-1-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/ZachEdward.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/ZachEdward.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Kelly-Collier-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Kelly-Collier-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Talks-Sydney-LP-hero-banner-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Talks-Sydney-LP-hero-banner-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/the-future-geo-port.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/the-future-geo-port.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/influencer-creator.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/influencer-creator.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Talks-Sydney-LinkedIn-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Talks-Sydney-LinkedIn-1600x900-1.png"
+    ]
+  ]
+}

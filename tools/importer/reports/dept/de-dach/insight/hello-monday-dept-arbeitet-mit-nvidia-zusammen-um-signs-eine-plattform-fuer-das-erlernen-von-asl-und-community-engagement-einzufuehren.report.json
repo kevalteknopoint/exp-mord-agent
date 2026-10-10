@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/hello-monday-dept-arbeitet-mit-nvidia-zusammen-um-signs-eine-plattform-fuer-das-erlernen-von-asl-und-community-engagement-einzufuehren/",
+  "path": "dept/de-dach/insight/hello-monday-dept-arbeitet-mit-nvidia-zusammen-um-signs-eine-plattform-fuer-das-erlernen-von-asl-und-community-engagement-einzufuehren",
+  "timestamp": "2026-10-09T22:46:42.147Z",
+  "title": "Hello Monday/DEPT® arbeitet mit NVIDIA zusammen, um Signs, eine Plattform für das Erlernen von ASL und Community-Engagement, einzuführen - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/JET_Katy_Perry_Perfomance_Thumbnail_1x1_Pizza_UK_IRE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/JET_Katy_Perry_Perfomance_Thumbnail_1x1_Pizza_UK_IRE.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT%C2%AExLufthansa_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-xLufthansa_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png"
+    ]
+  ]
+}

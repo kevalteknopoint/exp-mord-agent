@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/kpn-is-klaar-voor-de-zakelijke-toekomst/",
+  "path": "dept/en-nl/case/kpn-is-klaar-voor-de-zakelijke-toekomst",
+  "timestamp": "2026-10-09T18:27:41.641Z",
+  "title": "KPN is klaar voor de zakelijke toekomst - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/01.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/01.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/02.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/03.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/03.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/kind-windmolen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/kind-windmolen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/lapierre-light-the-way-creative-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/lapierre-light-the-way-creative-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/01-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/01-1024x576.png"
+    ]
+  ]
+}

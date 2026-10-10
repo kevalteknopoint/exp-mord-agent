@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/how-insurance-and-banking-strategy-is-affected-by-digital/",
+  "path": "dept/en-in/insight/how-insurance-and-banking-strategy-is-affected-by-digital",
+  "timestamp": "2026-10-09T16:42:20.744Z",
+  "title": "How insurance and banking strategy is affected by digital  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Modern-Day-Insurance-and-Banking-Digital-strategy-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Modern-Day-Insurance-and-Banking-Digital-strategy-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Modern-Day-Insurance-and-Banking-Digital-strategy-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Modern-Day-Insurance-and-Banking-Digital-strategy-500x300-1.png"
+    ]
+  ]
+}

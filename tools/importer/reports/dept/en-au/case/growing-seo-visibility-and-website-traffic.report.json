@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/growing-seo-visibility-and-website-traffic/",
+  "path": "dept/en-au/case/growing-seo-visibility-and-website-traffic",
+  "timestamp": "2026-10-09T13:07:02.277Z",
+  "title": "Growing SEO visibility and website traffic - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "panel-two-media",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/cloudsoftwareImageLeft2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/cloudsoftwareImageLeft2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/cloudsoftwareSolutions2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/cloudsoftwareSolutions2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/using-docusign.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/using-docusign.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ascot-Banner2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ascot-Banner2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/foot-locker-bus-in-paris-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/foot-locker-bus-in-paris-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/cloudsoftwareSolutions2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/cloudsoftwareSolutions2.jpg"
+    ]
+  ]
+}

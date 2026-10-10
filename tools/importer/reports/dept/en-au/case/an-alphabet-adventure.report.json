@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/an-alphabet-adventure/",
+  "path": "dept/en-au/case/an-alphabet-adventure",
+  "timestamp": "2026-10-09T12:25:57.761Z",
+  "title": "An Alphabet Adventure - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/anders-jessen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/anders-jessen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/ebay-creative-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/ebay-creative-automation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/wongle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/wongle.jpg"
+    ]
+  ]
+}

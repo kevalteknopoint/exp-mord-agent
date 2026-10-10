@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/vom-hersteller-zum-dienstleister-ein-neues-zuhause-fur-sibir/",
+  "path": "dept/de-dach/case/vom-hersteller-zum-dienstleister-ein-neues-zuhause-fur-sibir",
+  "timestamp": "2026-10-09T11:26:32.340Z",
+  "title": "Vom Hersteller zum Dienstleister: Ein neues Zuhause für SIBIR - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Sibir-Header-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Sibir-Header-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Sibir-Case-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Sibir-Case-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Philipp-Griesser-Dept.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Philipp-Griesser-Dept.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/imghome.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/imghome.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/UBS-Athletics_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/UBS-Athletics_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Arm_Hero_Static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Arm_Hero_Static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Sibir-Header-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Sibir-Header-scaled.jpg"
+    ]
+  ]
+}

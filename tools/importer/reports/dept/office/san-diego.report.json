@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/san-diego/",
+  "path": "dept/office/san-diego",
+  "timestamp": "2026-10-09T22:39:48.740Z",
+  "title": "Digital agency San Diego - Branding, design, development - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "media-with-text",
+    "title-and-content",
+    "cta-text",
+    "four-card-information-block",
+    "highlighted-item-listing",
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/san-diego-agency-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/san-diego-agency-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Creative-Content.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Creative-Content.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Audience-management-and-multivariate-experimentation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Audience-management-and-multivariate-experimentation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-development.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-development.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/brand-experience-marketplace-growth-service-page-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/brand-experience-marketplace-growth-service-page-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/San-Diego-office.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/San-Diego-office.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/San-Diego-office.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/San-Diego-office.jpg"
+    ]
+  ]
+}

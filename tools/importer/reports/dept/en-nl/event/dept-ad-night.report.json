@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/dept-ad-night/",
+  "path": "dept/en-nl/event/dept-ad-night",
+  "timestamp": "2026-10-09T23:43:19.440Z",
+  "title": "DEPT® AdNight - 10 years of DEPT® Amsterdam - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-register",
+    "event-content-v2",
+    "event-program-v2",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Adnight_Web_16x9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Adnight_Web_16x9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-Pixel-Thumnail-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-Pixel-Thumnail-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/InteristaAvatars.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/InteristaAvatars.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Adnight_Web_16x9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Adnight_Web_16x9.png"
+    ]
+  ]
+}

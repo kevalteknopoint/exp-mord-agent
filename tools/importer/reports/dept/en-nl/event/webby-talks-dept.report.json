@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/webby-talks-dept/",
+  "path": "dept/en-nl/event/webby-talks-dept",
+  "timestamp": "2026-10-09T16:52:31.468Z",
+  "title": "Event: Webby Talks x DEPT® - Trust the (Generative) Process",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-register",
+    "event-content-v2",
+    "event-people"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Webby-Talks-Event-header-1440x588-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Webby-Talks-Event-header-1440x588-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Jesse-Feister-headshot-16x9-Credit-Benjamin_Allen-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Jesse-Feister-headshot-16x9-Credit-Benjamin_Allen-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Ally-Behr.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Ally-Behr.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/1751840583468.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/1751840583468.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Webby-Talks-Event-header-1440x588-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Webby-Talks-Event-header-1440x588-1.webp"
+    ]
+  ]
+}

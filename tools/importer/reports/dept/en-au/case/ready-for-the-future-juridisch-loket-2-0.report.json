@@ -1,0 +1,79 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/ready-for-the-future-juridisch-loket-2-0/",
+  "path": "dept/en-au/case/ready-for-the-future-juridisch-loket-2-0",
+  "timestamp": "2026-10-09T12:21:17.874Z",
+  "title": "Ready for the future: Juridisch Loket 2.0 - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-02-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-02-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-04-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-04-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-06-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-06-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-08-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-08-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-12-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-12-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-14-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-14-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-16-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-16-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Rachid-Lechheb-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Rachid-Lechheb-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HM_htracism.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HM_htracism.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-02-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-02-scaled.jpg"
+    ]
+  ]
+}

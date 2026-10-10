@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/how-to-die-design-system-discovery/",
+  "path": "dept/de-dach/insight/how-to-die-design-system-discovery",
+  "timestamp": "2026-10-09T12:08:04.385Z",
+  "title": "How to: Die Design System Discovery - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/THE_Design_System_Discovery_Cover2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/THE_Design_System_Discovery_Cover2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Stefan-Schroeter-Dept-01-13593-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Stefan-Schroeter-Dept-01-13593-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/THE_Design_System_Discovery.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/THE_Design_System_Discovery.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Stefan-Schroeter-Dept-01-13593.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Stefan-Schroeter-Dept-01-13593.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/THE_Design_System_Discovery_Cover2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/THE_Design_System_Discovery_Cover2.png"
+    ]
+  ]
+}

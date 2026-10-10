@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/die-zukunft-der-finanzplanung-neu-gestalten/",
+  "path": "dept/case/die-zukunft-der-finanzplanung-neu-gestalten",
+  "timestamp": "2026-10-09T10:44:06.739Z",
+  "title": "Die Zukunft der Finanzplanung neu gestalten - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-160-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-160-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-161-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-161-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-161-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-161-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Dave_Witting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Dave_Witting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-canvas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-canvas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/VMA-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/VMA-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg"
+    ]
+  ]
+}

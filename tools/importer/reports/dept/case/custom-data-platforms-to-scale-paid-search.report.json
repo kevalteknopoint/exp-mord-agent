@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/custom-data-platforms-to-scale-paid-search/",
+  "path": "dept/case/custom-data-platforms-to-scale-paid-search",
+  "timestamp": "2026-10-09T10:38:00.035Z",
+  "title": "Featured work: Custom data platform for Expedia - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/traveling-adventure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/traveling-adventure.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/woman-traveling.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/woman-traveling.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/traveling-adventure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/traveling-adventure.jpg"
+    ]
+  ]
+}

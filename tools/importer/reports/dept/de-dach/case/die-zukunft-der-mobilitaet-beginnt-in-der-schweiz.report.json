@@ -1,0 +1,82 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/die-zukunft-der-mobilitaet-beginnt-in-der-schweiz/",
+  "path": "dept/de-dach/case/die-zukunft-der-mobilitaet-beginnt-in-der-schweiz",
+  "timestamp": "2026-10-09T11:37:30.342Z",
+  "title": "Die Zukunft der Mobilität beginnt in der Schweiz - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "stats-panel",
+    "panel-two-media",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "video",
+    "image",
+    "panel-with-rich-text",
+    "quote",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amag-Case-Visual-01-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amag-Case-Visual-01-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amag-Case-Visual-02-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amag-Case-Visual-02-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amag-Case-Visual-04-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amag-Case-Visual-04-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Hannahno1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Hannahno1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amag-Case-Visual-06-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amag-Case-Visual-06-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amag-Case-Visual-07-2_klein-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amag-Case-Visual-07-2_klein-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amag-Case-Visual-03.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amag-Case-Visual-03.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amag-Case-Visual-08-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amag-Case-Visual-08-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Amag-Case_01_b-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Amag-Case_01_b-2-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Benjamin-Huth_Dept_820x790.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Benjamin-Huth_Dept_820x790.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amag-Case-Visual-03.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amag-Case-Visual-03.png"
+    ]
+  ]
+}

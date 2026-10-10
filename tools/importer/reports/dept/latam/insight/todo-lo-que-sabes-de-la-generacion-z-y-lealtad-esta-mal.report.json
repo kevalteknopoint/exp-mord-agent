@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/todo-lo-que-sabes-de-la-generacion-z-y-lealtad-esta-mal/",
+  "path": "dept/latam/insight/todo-lo-que-sabes-de-la-generacion-z-y-lealtad-esta-mal",
+  "timestamp": "2026-10-09T22:22:51.246Z",
+  "title": "Todo lo que sabes de la Generación Z y lealtad está mal - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/gen-z-woman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/gen-z-woman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Kids-and-AI-Feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Kids-and-AI-Feature.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Building-durable-brands-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Building-durable-brands-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/gen-z-woman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/gen-z-woman.jpg"
+    ]
+  ]
+}

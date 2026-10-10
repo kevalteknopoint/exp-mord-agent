@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/why-we-joined-the-mach-alliance/",
+  "path": "dept/en-au/insight/why-we-joined-the-mach-alliance",
+  "timestamp": "2026-10-09T13:23:48.034Z",
+  "title": "Why we joined the MACH Alliance - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-Mach-Alliance.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--Mach-Alliance.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tim-de-Kamper-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tim-de-Kamper-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tim-de-Kamper.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tim-de-Kamper.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-x-Mach-Alliance2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--x-Mach-Alliance2.jpg"
+    ]
+  ]
+}

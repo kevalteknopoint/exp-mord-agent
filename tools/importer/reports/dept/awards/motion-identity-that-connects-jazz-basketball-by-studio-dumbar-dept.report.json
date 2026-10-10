@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/motion-identity-that-connects-jazz-basketball-by-studio-dumbar-dept/",
+  "path": "dept/awards/motion-identity-that-connects-jazz-basketball-by-studio-dumbar-dept",
+  "timestamp": "2026-10-09T10:29:17.240Z",
+  "title": "Motion identity that connects jazz & basketball - By Studio Dumbar/DEPT® - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Utah-Jazz-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Utah-Jazz-1920x1080-1.png"
+    ]
+  ]
+}

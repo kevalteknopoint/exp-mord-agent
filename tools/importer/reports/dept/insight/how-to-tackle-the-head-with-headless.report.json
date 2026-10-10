@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-tackle-the-head-with-headless/",
+  "path": "dept/insight/how-to-tackle-the-head-with-headless",
+  "timestamp": "2026-10-09T22:18:46.158Z",
+  "title": "How to tackle the 'head' with Headless - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "article-related-posts"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tim-de-Kamper-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tim-de-Kamper-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tim-de-Kamper.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tim-de-Kamper.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

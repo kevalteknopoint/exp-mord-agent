@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/marketing-in-der-grauzone-mit-agilitaet-durch-die-zoll-unsicherheit/",
+  "path": "dept/de-dach/insight/marketing-in-der-grauzone-mit-agilitaet-durch-die-zoll-unsicherheit",
+  "timestamp": "2026-10-09T12:16:39.539Z",
+  "title": "Marketing in der Grauzone: Mit Agilität durch die Zoll-Unsicherheit - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Andrew-Dimitriou-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Andrew-Dimitriou-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-LP.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-LP.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/strategic-navigators-tariff-disruption.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/strategic-navigators-tariff-disruption.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/CPG-trends-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/CPG-trends-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/TikTok-Shop-Insight-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/TikTok-Shop-Insight-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg"
+    ]
+  ]
+}

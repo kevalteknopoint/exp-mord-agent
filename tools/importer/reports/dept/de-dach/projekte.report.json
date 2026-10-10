@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/projekte/",
+  "path": "dept/de-dach/projekte",
+  "timestamp": "2026-10-09T12:05:13.838Z",
+  "title": "Projekte - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "work-listing-v2"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/micasa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/micasa-Case-Study-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger-1600x900-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Mountain-Rescue-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Mountain-Rescue-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/1770909050-coop_bosw_keyvisual.jpg.avif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/1770909050-coop_bosw_keyvisual.jpg.avif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Growth-marketing-DEPT%C2%AE.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Growth-marketing-DEPT-.jpeg"
+    ]
+  ]
+}

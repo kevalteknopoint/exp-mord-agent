@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/how-to-create-an-integrated-search-strategy/",
+  "path": "dept/en-uki/insight/how-to-create-an-integrated-search-strategy",
+  "timestamp": "2026-10-09T21:11:58.640Z",
+  "title": "How to create an integrated search strategy - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/How-to-create-an-integrated-search-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/How-to-create-an-integrated-search-strategy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Cristina-Trocin-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Cristina-Trocin-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/How-to-create-an-integrated-search-strategy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/How-to-create-an-integrated-search-strategy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/How-to-create-an-integrated-search-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/How-to-create-an-integrated-search-strategy.jpg"
+    ]
+  ]
+}

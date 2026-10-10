@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/philips-sigma-oneblade-general/",
+  "path": "dept/awards/philips-sigma-oneblade-general",
+  "timestamp": "2026-10-09T10:30:46.381Z",
+  "title": "Hey judges! Here’s a one of a kind case for you. - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "jumbotron",
+    "panel-with-list",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "stats-panel",
+    "jumbotron"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Sigma-Header-Image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Sigma-Header-Image-1.jpeg"
+    ]
+  ]
+}

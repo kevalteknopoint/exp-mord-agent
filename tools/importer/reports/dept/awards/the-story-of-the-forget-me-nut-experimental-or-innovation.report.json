@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/the-story-of-the-forget-me-nut-experimental-or-innovation/",
+  "path": "dept/awards/the-story-of-the-forget-me-nut-experimental-or-innovation",
+  "timestamp": "2026-10-09T10:37:00.739Z",
+  "title": "The Story of the Forget-me-nut - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Forget-me-nut-lovie-awards.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Forget-me-nut-lovie-awards.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/The-Story-of-the-Forget-me-nut_pepernoten.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/The-Story-of-the-Forget-me-nut_pepernoten.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/The-Story-of-the-Forget-me-nut_pepernoten.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/The-Story-of-the-Forget-me-nut_pepernoten.jpg"
+    ]
+  ]
+}

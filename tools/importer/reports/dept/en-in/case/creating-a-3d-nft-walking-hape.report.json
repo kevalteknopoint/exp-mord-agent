@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/creating-a-3d-nft-walking-hape/",
+  "path": "dept/en-in/case/creating-a-3d-nft-walking-hape",
+  "timestamp": "2026-10-09T15:06:14.339Z",
+  "title": "Creating a 3D NFT walking HAPE - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "video",
+    "video",
+    "panel-with-image-and-rich-text",
+    "video",
+    "image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HapePrime_Phone-Home@2x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HapePrime_Phone-Home-2x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HapePrime_Sketch2@2x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HapePrime_Sketch2-2x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HapePrime_Dev@2x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HapePrime_Dev-2x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HapePrime_RedWalk@2x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HapePrime_RedWalk-2x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HapePrime_Black_def@2x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HapePrime_Black_def-2x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/WP20002_BLAK_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/WP20002_BLAK_11.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/APS_mood.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/APS_mood.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/15-Hape-i.o.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/15-Hape-i.o.jpg"
+    ]
+  ]
+}

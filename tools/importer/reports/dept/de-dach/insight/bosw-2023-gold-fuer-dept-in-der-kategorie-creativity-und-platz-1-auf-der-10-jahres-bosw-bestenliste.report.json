@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/bosw-2023-gold-fuer-dept-in-der-kategorie-creativity-und-platz-1-auf-der-10-jahres-bosw-bestenliste/",
+  "path": "dept/de-dach/insight/bosw-2023-gold-fuer-dept-in-der-kategorie-creativity-und-platz-1-auf-der-10-jahres-bosw-bestenliste",
+  "timestamp": "2026-10-09T11:16:19.570Z",
+  "title": "BoSW 2023: Gold für DEPT® in der Kategorie Creativity - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Best-of-Swiss-Web_2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Best-of-Swiss-Web_2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Philipp-Griesser-Dept-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Philipp-Griesser-Dept-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Best-of-Swiss-Web_2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Best-of-Swiss-Web_2023.jpg"
+    ]
+  ]
+}

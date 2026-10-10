@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/pragmatic-guide-to-the-metaverse-technology-components/",
+  "path": "dept/downloads/pragmatic-guide-to-the-metaverse-technology-components",
+  "timestamp": "2026-10-09T11:44:05.561Z",
+  "title": "Pragmatic guide to the metaverse - technology & components - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-melted-plastic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-melted-plastic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-melted-plastic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-melted-plastic.png"
+    ]
+  ]
+}

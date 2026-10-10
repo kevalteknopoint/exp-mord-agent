@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/oog-in-oog-met-het-meisje-mauritshuis-lanceert-campagne-rond-meesterwerk-van-vermeer/",
+  "path": "dept/en-nl/insight/oog-in-oog-met-het-meisje-mauritshuis-lanceert-campagne-rond-meesterwerk-van-vermeer",
+  "timestamp": "2026-10-09T18:42:41.243Z",
+  "title": "Oog in Oog met het Meisje: Mauritshuis lanceert campagne rond meesterwerk van Vermeer - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Mauritshuis-Oog-in-oog-met-het-Meisje-persbeeld.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Mauritshuis-Oog-in-oog-met-het-Meisje-persbeeld.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-Pixel-Thumnail-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-Pixel-Thumnail-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Irma-Scherpenkate-Dept-2-min-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Mauritshuis-Oog-in-oog-met-het-Meisje-persbeeld.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Mauritshuis-Oog-in-oog-met-het-Meisje-persbeeld.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/rituals/",
+  "path": "dept/en-au/case/rituals",
+  "timestamp": "2026-10-09T12:28:07.952Z",
+  "title": "Conquering the biggest data challenge - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Rituals-header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Rituals-header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ]
+  ]
+}

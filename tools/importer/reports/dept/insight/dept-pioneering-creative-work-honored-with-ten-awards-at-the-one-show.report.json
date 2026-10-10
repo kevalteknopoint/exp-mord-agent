@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-pioneering-creative-work-honored-with-ten-awards-at-the-one-show/",
+  "path": "dept/insight/dept-pioneering-creative-work-honored-with-ten-awards-at-the-one-show",
+  "timestamp": "2026-10-09T21:27:59.477Z",
+  "title": "DEPT®’s pioneering creative work honored with ten awards at The One Show - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/The-One-Show-2023-feature-LS.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/The-One-Show-2023-feature-LS.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/The-One-Show-2023-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/The-One-Show-2023-hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AEAI-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT-AI-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Helping_Hand-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Helping_Hand-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Insight-1000x1200-15.17.04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Insight-1000x1200-15.17.04.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/The-One-Show-2023-feature-LS.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/The-One-Show-2023-feature-LS.jpg"
+    ]
+  ]
+}

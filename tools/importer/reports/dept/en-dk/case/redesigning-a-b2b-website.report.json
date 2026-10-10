@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/redesigning-a-b2b-website/",
+  "path": "dept/en-dk/case/redesigning-a-b2b-website",
+  "timestamp": "2026-10-09T14:39:15.440Z",
+  "title": "Nyt design til et B2B-website, der betjener over 17.500 virksomheder - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/1600px_COLOURBOX51560159.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/1600px_COLOURBOX51560159.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-on-dirtbiker.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-on-dirtbiker.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1269732224-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1269732224-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/dank_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/dank_1.png"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/optimizely-dxp-drives-370-roi/",
+  "path": "dept/en-in/insight/optimizely-dxp-drives-370-roi",
+  "timestamp": "2026-10-09T16:22:41.322Z",
+  "title": "Optimizely DXP drives 370% ROI - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DEPT-Interior-118-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DEPT-Interior-118-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DEPT-Interior-118-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DEPT-Interior-118-1.jpg"
+    ]
+  ]
+}

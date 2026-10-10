@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/helion-wins-new-customers-with-discovery-ads/",
+  "path": "dept/case/helion-wins-new-customers-with-discovery-ads",
+  "timestamp": "2026-10-09T10:16:08.239Z",
+  "title": "Helion wins new customers with Discovery Ads - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Helion-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Helion-Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Philipp-Griesser-Dept.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Philipp-Griesser-Dept.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Helion-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Helion-Header.jpeg"
+    ]
+  ]
+}

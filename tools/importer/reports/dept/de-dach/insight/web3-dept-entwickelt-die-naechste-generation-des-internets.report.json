@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/web3-dept-entwickelt-die-naechste-generation-des-internets/",
+  "path": "dept/de-dach/insight/web3-dept-entwickelt-die-naechste-generation-des-internets",
+  "timestamp": "2026-10-09T11:53:14.510Z",
+  "title": "WEB3/DEPT® – die nächste Generation des Internets - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-500X300.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--500X300.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT--150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/WEB3-DEPT-press-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/WEB3-DEPT-press-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-500X300.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--500X300.png"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/desde-la-optimizacion-del-checkout-hasta-el-e-commerce-integrado-esto-es-lo-que-se-viene/",
+  "path": "dept/latam/insight/desde-la-optimizacion-del-checkout-hasta-el-e-commerce-integrado-esto-es-lo-que-se-viene",
+  "timestamp": "2026-10-09T23:26:51.743Z",
+  "title": "From optimizing checkout to embedded e-commerce - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Online-shopping-Insights-1164x655-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Online-shopping-Insights-1164x655-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Untitled-design-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Untitled-design-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/accessibility-concept-e1677592301956.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/accessibility-concept-e1677592301956.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Online-shopping-Insights-1164x655-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Online-shopping-Insights-1164x655-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/facebook-conversion-api/",
+  "path": "dept/en-au/insight/facebook-conversion-api",
+  "timestamp": "2026-10-09T13:46:00.889Z",
+  "title": "Masterclass: Facebook Conversion API - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "video",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Screenshot-2021-10-12-at-13.29.36.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Screenshot-2021-10-12-at-13.29.36.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Sander-van-Vossen-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Sander-van-Vossen-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Sander-van-Vossen-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Sander-van-Vossen-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Screenshot-2021-10-12-at-13.29.36.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Screenshot-2021-10-12-at-13.29.36.png"
+    ]
+  ]
+}

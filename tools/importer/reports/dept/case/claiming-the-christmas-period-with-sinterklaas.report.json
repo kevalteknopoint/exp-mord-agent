@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/claiming-the-christmas-period-with-sinterklaas/",
+  "path": "dept/case/claiming-the-christmas-period-with-sinterklaas",
+  "timestamp": "2026-10-09T10:24:37.158Z",
+  "title": "Claiming the Christmas period with Sinterklaas - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/visual_filmstrategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/visual_filmstrategy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Dia1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Dia1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dennis-Hamakers-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dennis-Hamakers-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Liedwood_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Liedwood_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Aaron_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Aaron_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/WP20002_BLAK_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/WP20002_BLAK_11.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/visual_filmstrategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/visual_filmstrategy.jpg"
+    ]
+  ]
+}

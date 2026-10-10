@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/amazon-content-a-and-a-premium/",
+  "path": "dept/en-uki/insight/amazon-content-a-and-a-premium",
+  "timestamp": "2026-10-09T18:50:06.242Z",
+  "title": "Amazon Content: A+ and A+ Premium - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amazon-a-content.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amazon-a-content.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/kristen-bryk-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/kristen-bryk-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/building-a-content.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/building-a-content.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/a-premium-content.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/a-premium-content.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/a-and-a-premium-content-comparison.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/a-and-a-premium-content-comparison.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/kristen-bryk.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/kristen-bryk.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amazon-a-content.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amazon-a-content.webp"
+    ]
+  ]
+}

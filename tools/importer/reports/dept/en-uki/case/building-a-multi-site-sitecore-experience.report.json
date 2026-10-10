@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/building-a-multi-site-sitecore-experience/",
+  "path": "dept/en-uki/case/building-a-multi-site-sitecore-experience",
+  "timestamp": "2026-10-09T19:51:36.570Z",
+  "title": "Building a multi-site experience for London Marathon Events - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/LME_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/LME_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/LME_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/LME_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/LME_4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/LME_4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/LME_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/LME_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/LME-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/LME-hero.jpg"
+    ]
+  ]
+}

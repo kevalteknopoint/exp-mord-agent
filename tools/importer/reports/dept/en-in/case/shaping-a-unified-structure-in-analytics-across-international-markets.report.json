@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/shaping-a-unified-structure-in-analytics-across-international-markets/",
+  "path": "dept/en-in/case/shaping-a-unified-structure-in-analytics-across-international-markets",
+  "timestamp": "2026-10-09T16:17:56.456Z",
+  "title": "Shaping a unified structure in analytics across international markets - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Philips-header-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Philips-header-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-10.45.48.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-09-at-10.45.48.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-10.48.33.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-09-at-10.48.33.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Cristian-van-Nispen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Cristian-van-Nispen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-653942568-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-653942568-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Philips-header-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Philips-header-image-1.jpg"
+    ]
+  ]
+}

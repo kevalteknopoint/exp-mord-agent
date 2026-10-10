@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/broad-customer-experience-strategy-and-execution/",
+  "path": "dept/en-au/case/broad-customer-experience-strategy-and-execution",
+  "timestamp": "2026-10-09T12:35:28.836Z",
+  "title": "Broad customer-experience strategy and execution - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/TLC_feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/TLC_feature.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/tlc-e-comm-store.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/tlc-e-comm-store.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/tlc-e-comm-store-product.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/tlc-e-comm-store-product.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/tlc-e-comm-store-mobile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/tlc-e-comm-store-mobile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Ryan-Nicholson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Ryan-Nicholson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Star-Atlas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Star-Atlas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/TLC_feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/TLC_feature.jpeg"
+    ]
+  ]
+}

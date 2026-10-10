@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/agency/byte/",
+  "path": "dept/en-au/agency/byte",
+  "timestamp": "2026-10-09T11:47:55.680Z",
+  "title": "BYTE/DEPT® - DEPT®",
+  "template": "dept-agency",
+  "locale": "en-au",
+  "components": [
+    "panel-agency-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/4pkTFxzA-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/4pkTFxzA-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Rectangle-420.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Rectangle-420.png"
+    ]
+  ]
+}

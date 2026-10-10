@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/treffen-sie-dept-auf-der-k5/",
+  "path": "dept/de-dach/event/treffen-sie-dept-auf-der-k5",
+  "timestamp": "2026-10-09T11:07:34.647Z",
+  "title": "Meet us at K5 in Berlin - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "event-people",
+    "work-listing",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/K5-Featueed-Image-16x9-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/K5-Featueed-Image-16x9-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Philip-Schroth-DeptHH-1-e1747843941855.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Philip-Schroth-DeptHH-1-e1747843941855.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Copy-of-fabian_kaiser-1069-2-1-e1747844035233.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Copy-of-fabian_kaiser-1069-2-1-e1747844035233.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Oliver-Cloppenburg-Dept-03-Kopie-e1748253213505.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Oliver-Cloppenburg-Dept-03-Kopie-e1748253213505.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-x-Shopify-orange-dress.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-x-Shopify-orange-dress.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT-x-Lufthansa-plane.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-x-Lufthansa-plane.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-Insight-Header-16x9-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-Insight-Header-16x9-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/K5-Featueed-Image-16x9-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/K5-Featueed-Image-16x9-1.png"
+    ]
+  ]
+}

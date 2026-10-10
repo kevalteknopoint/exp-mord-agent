@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/cookies/",
+  "path": "dept/en-au/cookies",
+  "timestamp": "2026-10-09T12:42:15.940Z",
+  "title": "Cookies - DEPT®",
+  "template": "dept-page",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

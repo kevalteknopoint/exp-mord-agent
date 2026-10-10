@@ -1,0 +1,124 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/industry/health/",
+  "path": "dept/industry/health",
+  "timestamp": "2026-10-09T21:33:40.939Z",
+  "title": "Digital agency specializing in health & life science - DEPT®",
+  "template": "dept-industry",
+  "locale": "global",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "event-content-v2",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-Campaign-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-Campaign-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Fitbit_Versa_3_Sense_Render_Duo_Pink_Clay_Carbon_Deezer_Flo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Fitbit_Versa_3_Sense_Render_Duo_Pink_Clay_Carbon_Deezer_Flo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Kali-Healthcare-dept-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Kali-Healthcare-dept-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Easy-Genomics-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Easy-Genomics-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Fingerspelling-07.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Fingerspelling-07.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/World-Health-Organisation.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/World-Health-Organisation.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Smileyscope.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Smileyscope.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Roche.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Roche.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Novo-Nordisk.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Novo-Nordisk.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/NASA.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/NASA.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Health-Services-Executive.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Health-Services-Executive.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Google.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Google.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Foundation-Medicine.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Foundation-Medicine.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ehealth.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ehealth.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dossy.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dossy.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Kali-Healthcare-38-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Kali-Healthcare-38-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Digital-health-event-header-1905x975-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Digital-health-event-header-1905x975-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/glass-pipette.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/glass-pipette.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/ai-ml-in-healthcare-indsutry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/ai-ml-in-healthcare-indsutry.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/foundation-medicine-480x320-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/foundation-medicine-480x320-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/easy-genomics-DNA-sequence.jpg"
+    ]
+  ]
+}

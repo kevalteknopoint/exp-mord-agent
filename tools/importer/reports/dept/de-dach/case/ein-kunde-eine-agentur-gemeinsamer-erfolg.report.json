@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-kunde-eine-agentur-gemeinsamer-erfolg/",
+  "path": "dept/de-dach/case/ein-kunde-eine-agentur-gemeinsamer-erfolg",
+  "timestamp": "2026-10-09T22:36:45.940Z",
+  "title": "Ein Kunde. Eine Agentur. Gemeinsamer Erfolg. - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "panel-work",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Audience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Audience.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Lehner-Versand_Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Lehner-Versand_Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/parking-lot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/parking-lot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/soft-skills-in-product-development-insights-from-dept-engineering-leaders/",
+  "path": "dept/insight/soft-skills-in-product-development-insights-from-dept-engineering-leaders",
+  "timestamp": "2026-10-09T21:46:15.891Z",
+  "title": "The power of soft skills in product development: Insights from engineering leaders - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "quote",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Soft-skills-product-development-insights.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Soft-skills-product-development-insights.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/ben-ricker-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/ben-ricker-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/jon-principe.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/jon-principe.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/jake-rainis.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/jake-rainis.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Joaquin.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Joaquin.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jorge_Castellanos.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jorge_Castellanos.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/joey-egger.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/joey-egger.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Tim-Davison-engineer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Tim-Davison-engineer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/jonah-jolley.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/jonah-jolley.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/nat-ring.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/nat-ring.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/phil-g.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/phil-g.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/product-development-processes-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/product-development-processes-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-metal-closeup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-metal-closeup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/generative-AI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/generative-AI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Soft-skills-product-development-insights.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Soft-skills-product-development-insights.jpg"
+    ]
+  ]
+}

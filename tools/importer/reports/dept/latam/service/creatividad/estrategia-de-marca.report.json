@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/creatividad/estrategia-de-marca/",
+  "path": "dept/latam/service/creatividad/estrategia-de-marca",
+  "timestamp": "2026-10-09T22:28:45.169Z",
+  "title": "Estrategia de marca - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DSF9791-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DSF9791-1200x750-c.jpg"
+    ]
+  ]
+}

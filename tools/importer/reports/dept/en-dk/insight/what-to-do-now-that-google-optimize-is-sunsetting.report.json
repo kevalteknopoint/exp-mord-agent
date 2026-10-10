@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/what-to-do-now-that-google-optimize-is-sunsetting/",
+  "path": "dept/en-dk/insight/what-to-do-now-that-google-optimize-is-sunsetting",
+  "timestamp": "2026-10-09T15:21:20.240Z",
+  "title": "What to do now that Google Optimize is sunsetting - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google_Optimize_Sunset-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google_Optimize_Sunset-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google_Optimize_Sunset-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google_Optimize_Sunset-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/transforming-the-eurovision-village-into-3d-virtual-world/",
+  "path": "dept/en-au/case/transforming-the-eurovision-village-into-3d-virtual-world",
+  "timestamp": "2026-10-09T12:36:50.644Z",
+  "title": "Transforming the Eurovision village into a 3D virtual world - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "panel-with-cards",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-6-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-6-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-8-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-8-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-10-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-10-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Tim-Kugelmann-Bol.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Tim-Kugelmann-Bol.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otravo_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otravo_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/my-cp-guide-6-1-1-e1700022786913.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/my-cp-guide-6-1-1-e1700022786913.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/eurovision_render2_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/eurovision_render2_1-1.png"
+    ]
+  ]
+}

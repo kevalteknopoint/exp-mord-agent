@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/a-unique-web3-experience-for-hmbeyond/",
+  "path": "dept/awards/a-unique-web3-experience-for-hmbeyond",
+  "timestamp": "2026-10-09T10:03:51.040Z",
+  "title": "A unique Web3 experience for H&Mbeyond - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/hm-virtual-showroom-press-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/hm-virtual-showroom-press-area-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/hm-virtual-showroom-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/hm-virtual-showroom-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/hm-virtual-showroom-campaign-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/hm-virtual-showroom-campaign-area-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/hm-virtual-showroom-garment-feature-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/hm-virtual-showroom-garment-feature-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

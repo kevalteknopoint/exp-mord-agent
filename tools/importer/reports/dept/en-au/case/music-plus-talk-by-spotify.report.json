@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/music-plus-talk-by-spotify/",
+  "path": "dept/en-au/case/music-plus-talk-by-spotify",
+  "timestamp": "2026-10-09T12:16:19.982Z",
+  "title": "Music + Talk by Spotify – revitalising the world of podcasting - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Liza-Enebeis.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Liza-Enebeis.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Milla_johnnie-walker.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Milla_johnnie-walker.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/HomeTeam_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/HomeTeam_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/spotify-music-talk-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/spotify-music-talk-scaled.jpeg"
+    ]
+  ]
+}

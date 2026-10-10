@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/dr-martens/",
+  "path": "dept/case/dr-martens",
+  "timestamp": "2026-10-09T10:46:03.977Z",
+  "title": "Featured work: Increasing profit & AOV for Dr. Martens - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Dr-Martens-dept-branding-16x9-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Dr-Martens-dept-branding-16x9-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Dr-Martens-dept-branding-16x9-3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Dr-Martens-dept-branding-16x9-3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp"
+    ]
+  ]
+}

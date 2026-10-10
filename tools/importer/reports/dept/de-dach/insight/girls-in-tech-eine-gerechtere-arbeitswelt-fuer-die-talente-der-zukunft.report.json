@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/girls-in-tech-eine-gerechtere-arbeitswelt-fuer-die-talente-der-zukunft/",
+  "path": "dept/de-dach/insight/girls-in-tech-eine-gerechtere-arbeitswelt-fuer-die-talente-der-zukunft",
+  "timestamp": "2026-10-09T12:04:15.573Z",
+  "title": "Eine gerechtere Arbeitswelt für die Talente der Zukunft - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/IMG_9324-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/IMG_9324-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Nike-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Nike-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/IMG_9324-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/IMG_9324-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/IMG_0075-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/IMG_0075-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Screenshot-2023-05-22-at-14.26.22.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Screenshot-2023-05-22-at-14.26.22.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Nike.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Nike.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/IMG_9324-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/IMG_9324-1.jpg"
+    ]
+  ]
+}

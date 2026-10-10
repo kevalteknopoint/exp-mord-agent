@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/retail-media/",
+  "path": "dept/de-dach/service/retail-media",
+  "timestamp": "2026-10-09T11:28:05.140Z",
+  "title": "Retail Media - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "routing-banner",
+    "rich-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-agency.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-agency.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

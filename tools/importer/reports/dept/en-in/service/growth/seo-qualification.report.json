@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/seo-qualification/",
+  "path": "dept/en-in/service/growth/seo-qualification",
+  "timestamp": "2026-10-09T23:38:04.939Z",
+  "title": "SEO project qualification - DEPT® complimentary SEO strategy",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "cta-text",
+    "media-with-text",
+    "externally-triggered-form"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mobile-SEO_Teaser-1-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mobile-SEO_Teaser-1-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mobile-SEO_Teaser-1-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mobile-SEO_Teaser-1-1200x750-c.jpg"
+    ]
+  ]
+}

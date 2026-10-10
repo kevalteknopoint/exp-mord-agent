@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/falling-in-love-with-switzerland-digitally/",
+  "path": "dept/latam/case/falling-in-love-with-switzerland-digitally",
+  "timestamp": "2026-10-09T21:36:46.337Z",
+  "title": "Falling in love with Switzerland digitally - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Dark-4-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Dark-4-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Dark-9-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Dark-9-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Dark-6-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Dark-6-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/myswiss_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/myswiss_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ascot-Banner2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ascot-Banner2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-1.png"
+    ]
+  ]
+}

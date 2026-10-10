@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/bpd-view-customise-buy-home-online/",
+  "path": "dept/en-uki/case/bpd-view-customise-buy-home-online",
+  "timestamp": "2026-10-09T19:47:05.966Z",
+  "title": "View, customise and buy a home online - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BPD_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BPD_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BPD_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BPD_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-653942568-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-653942568-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Shopify.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-52-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-52-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/BPD_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BPD_1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-fue-seleccionada-para-la-lista-best-for-the-world-2022/",
+  "path": "dept/latam/insight/dept-fue-seleccionada-para-la-lista-best-for-the-world-2022",
+  "timestamp": "2026-10-09T23:31:04.265Z",
+  "title": "DEPT® fue seleccionada para la lista Best for the World™ 2022 - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/iStock-856230660-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/iStock-856230660-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Joaqui%CC%81n-Gatti--150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Joaqui-n-Gatti--150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/English-BFTW-LinkedIn-Post_Governance-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/English-BFTW-LinkedIn-Post_Governance-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/iStock-856230660-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/iStock-856230660-1.jpg"
+    ]
+  ]
+}

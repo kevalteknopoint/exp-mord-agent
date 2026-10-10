@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/boosting-tourism-with-an-award-winning-organic-search-strategy/",
+  "path": "dept/en-nl/case/boosting-tourism-with-an-award-winning-organic-search-strategy",
+  "timestamp": "2026-10-09T17:46:33.040Z",
+  "title": "Boosting tourism with an award-winning organic search strategy - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/lex-melony-WwNSFyCmYpQ-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/lex-melony-WwNSFyCmYpQ-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/profiteren-van-minder-concurrentie.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/profiteren-van-minder-concurrentie.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/martha-dominguez-de-gouveia-aYXAZTUjYGU-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/martha-dominguez-de-gouveia-aYXAZTUjYGU-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/rabih-shasha-z32zpFu45is-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/rabih-shasha-z32zpFu45is-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/traveler-health-requirements.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/traveler-health-requirements.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Dept-London-1680-47-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Dept-London-1680-47-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/bol-ai-gift-assistant.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/bol-ai-gift-assistant.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Boca-Keto-Beach--scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Boca-Keto-Beach--scaled.jpg"
+    ]
+  ]
+}

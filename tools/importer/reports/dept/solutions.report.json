@@ -1,0 +1,81 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/solutions/",
+  "path": "dept/solutions",
+  "timestamp": "2026-10-09T21:58:05.093Z",
+  "title": "Digital solutions - AI, marketing, & technology solutions - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "highlighted-logos",
+    "work-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Boost-Brand-Media.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Boost-Brand-Media.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Enhance-Customer-Experience.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Enhance-Customer-Experience.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Drive-Commerce-Growth.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Drive-Commerce-Growth.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Scale-Technology-and-Data.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Scale-Technology-and-Data.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Ai-transformation-subsolution.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Ai-transformation-subsolution.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/apple.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/apple.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/audi.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/audi.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Disney-2.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Disney-2.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Google-2.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Google-2.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/gucci.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/gucci.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/moodys.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/moodys.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/nasa.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/nasa.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/netflix.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/netflix.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/patagonia.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/patagonia.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/philips.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/philips.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

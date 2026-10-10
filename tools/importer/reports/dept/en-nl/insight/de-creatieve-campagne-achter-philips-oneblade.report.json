@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/de-creatieve-campagne-achter-philips-oneblade/",
+  "path": "dept/en-nl/insight/de-creatieve-campagne-achter-philips-oneblade",
+  "timestamp": "2026-10-09T17:30:33.096Z",
+  "title": "Philips OneBlade zet productrecensies om in filmische verhalen - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/nbEKXO-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/nbEKXO-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/nbEKXO-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/nbEKXO-min.png"
+    ]
+  ]
+}

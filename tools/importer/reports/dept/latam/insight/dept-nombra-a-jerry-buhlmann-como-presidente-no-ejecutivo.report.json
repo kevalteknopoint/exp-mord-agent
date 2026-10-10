@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-nombra-a-jerry-buhlmann-como-presidente-no-ejecutivo/",
+  "path": "dept/latam/insight/dept-nombra-a-jerry-buhlmann-como-presidente-no-ejecutivo",
+  "timestamp": "2026-10-09T23:30:29.961Z",
+  "title": "DEPT® nombra a Jerry Buhlmann como presidente no ejecutivo - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Jerry-Buhlmann_x_Dept-1-scaled-e1649244964808.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Jerry-Buhlmann_x_Dept-1-scaled-e1649244964808.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Jerry-Buhlmann_x_Dept-2-scaled-e1649245076780.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Jerry-Buhlmann_x_Dept-2-scaled-e1649245076780.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Jerry-Buhlmann_x_Dept-1-scaled-e1649244964808.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Jerry-Buhlmann_x_Dept-1-scaled-e1649244964808.jpeg"
+    ]
+  ]
+}

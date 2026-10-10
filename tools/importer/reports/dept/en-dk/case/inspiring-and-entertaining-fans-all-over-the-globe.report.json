@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/inspiring-and-entertaining-fans-all-over-the-globe/",
+  "path": "dept/en-dk/case/inspiring-and-entertaining-fans-all-over-the-globe",
+  "timestamp": "2026-10-09T14:30:09.640Z",
+  "title": "Inspiring and entertaining fans all over the globe - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "image",
+    "panel-with-cards",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_slanted_static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_slanted_static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_players.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_players.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_jerseys.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_jerseys.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Featured-Image_DS.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Featured-Image_DS.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ghd-case-image-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Inter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Inter.jpg"
+    ]
+  ]
+}

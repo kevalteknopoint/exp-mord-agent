@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/blitzschnell-sein-lohnt-sich-doppelt/",
+  "path": "dept/de-dach/case/blitzschnell-sein-lohnt-sich-doppelt",
+  "timestamp": "2026-10-09T18:36:50.139Z",
+  "title": "Blitzschnell sein lohnt sich doppelt - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "paragraph",
+    "title-and-content",
+    "image",
+    "paragraph",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Printzessin-Header-New-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Printzessin-Header-New-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Printzessin.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Printzessin.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Iso-Feldmann-Dept-e1627480484204.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Iso-Feldmann-Dept-e1627480484204.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Insights.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Insights.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/pexels-uriel-mont-6280957.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/pexels-uriel-mont-6280957.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Printzessin-Header-New-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Printzessin-Header-New-scaled.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/tuck-into-the-future-of-food/",
+  "path": "dept/latam/case/tuck-into-the-future-of-food",
+  "timestamp": "2026-10-09T22:59:08.488Z",
+  "title": "Tuck into the future of food - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "wrapper",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-518459098-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-518459098-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway3-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway3-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Franklin-Schamhart.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Franklin-Schamhart.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1085747632-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1085747632-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ]
+  ]
+}

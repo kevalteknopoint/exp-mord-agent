@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/youtube-select/",
+  "path": "dept/de-dach/case/youtube-select",
+  "timestamp": "2026-10-09T11:27:50.759Z",
+  "title": "YouTube Select – Bereit für das Beste von YouTube? - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Isostar_Life-is-your-playground.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Isostar_Life-is-your-playground.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Luc-Suter-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Luc-Suter-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/msi-invitational-lol-design-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/msi-invitational-lol-design-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Featured-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Featured-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Isostar_Life-is-your-playground.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Isostar_Life-is-your-playground.png"
+    ]
+  ]
+}

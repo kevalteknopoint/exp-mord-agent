@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/pmw-unlocked-2024/",
+  "path": "dept/en-nl/pmw-unlocked-2024",
+  "timestamp": "2026-10-09T23:55:15.000Z",
+  "title": "PMW Unlocked 2024 - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "post-header-variant-2",
+    "statement",
+    "form-with-header",
+    "form-with-header",
+    "form-with-header",
+    "highlighted-item-listing",
+    "cta-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Trends_Event_alternate_image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Trends_Event_alternate_image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/pragmatic-giude-ai.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/pragmatic-giude-ai.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Retail-Media-2.0-Whitepaper-Featured-Image-2200x1237-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Retail-Media-2.0-Whitepaper-Featured-Image-2200x1237-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Dept-London-1680-47-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Dept-London-1680-47-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/LP-header-PMW.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/LP-header-PMW.png"
+    ]
+  ]
+}

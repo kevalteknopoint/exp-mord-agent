@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/online-gaming-in-the-real-world-with-nerf-toys/",
+  "path": "dept/en-au/case/online-gaming-in-the-real-world-with-nerf-toys",
+  "timestamp": "2026-10-09T12:18:07.339Z",
+  "title": "Online gaming in the real world with NERF toys - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "full-width-image",
+    "intro-text",
+    "panel-with-rich-text",
+    "full-width-image",
+    "call-to-action",
+    "panel-with-rich-text",
+    "panel-two-media",
+    "panel-with-rich-text",
+    "jumbotron",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nerf_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nerf_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nerf_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nerf_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nerf_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nerf_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nerf_4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nerf_4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nerf_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nerf_1.png"
+    ]
+  ]
+}

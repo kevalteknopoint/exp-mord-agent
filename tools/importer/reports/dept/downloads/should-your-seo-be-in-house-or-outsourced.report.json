@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/should-your-seo-be-in-house-or-outsourced/",
+  "path": "dept/downloads/should-your-seo-be-in-house-or-outsourced",
+  "timestamp": "2026-10-09T11:44:48.275Z",
+  "title": "Should your SEO be in-house or outsourced? - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-detail-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Should-seo-in-house-outsourced.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Should-seo-in-house-outsourced.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Should-seo-in-house-outsourced.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Should-seo-in-house-outsourced.jpg"
+    ]
+  ]
+}

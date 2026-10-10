@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/is-google-gearing-up-to-launch-its-own-marketplace/",
+  "path": "dept/en-uki/insight/is-google-gearing-up-to-launch-its-own-marketplace",
+  "timestamp": "2026-10-09T19:58:43.440Z",
+  "title": "Is Google gearing up to launch its own marketplace? - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_10-11_Talks-Google-003.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_10-11_Talks-Google-003.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Marja-3-scaled-1-e1627482473708.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Marja-3-scaled-1-e1627482473708.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Marja-3-scaled-1-e1627482473708.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Marja-3-scaled-1-e1627482473708.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_10-11_Talks-Google-003.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_10-11_Talks-Google-003.jpg"
+    ]
+  ]
+}

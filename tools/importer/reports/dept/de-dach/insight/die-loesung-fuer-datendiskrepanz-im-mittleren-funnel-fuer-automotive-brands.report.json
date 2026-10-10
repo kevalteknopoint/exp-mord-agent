@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/die-loesung-fuer-datendiskrepanz-im-mittleren-funnel-fuer-automotive-brands/",
+  "path": "dept/de-dach/insight/die-loesung-fuer-datendiskrepanz-im-mittleren-funnel-fuer-automotive-brands",
+  "timestamp": "2026-10-09T11:57:12.245Z",
+  "title": "Die Lösung für Datendiskrepanz im mittleren Funnel für Automotive Brands - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/cars-on-lot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/cars-on-lot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Carolin-Bornholdt-Dept-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Carolin-Bornholdt-Dept-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/simple-funnel-analytics-data-architecure.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/simple-funnel-analytics-data-architecure.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/driving-down-road.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/driving-down-road.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT%C2%AE-Office.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT--Office.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/cars-on-lot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/cars-on-lot.jpg"
+    ]
+  ]
+}

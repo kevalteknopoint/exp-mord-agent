@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/delivering-joy-with-an-unexpected-duo-advertising-media-pr-pr-campaigns-best-influencer-endorsements/",
+  "path": "dept/awards/delivering-joy-with-an-unexpected-duo-advertising-media-pr-pr-campaigns-best-influencer-endorsements",
+  "timestamp": "2026-10-09T10:13:29.264Z",
+  "title": "Delivering joy with an unexpected duo - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "text-block-hero",
+    "video",
+    "panel-with-list",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "quote",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/JET-christina-latto.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/JET-christina-latto.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ]
+  ]
+}

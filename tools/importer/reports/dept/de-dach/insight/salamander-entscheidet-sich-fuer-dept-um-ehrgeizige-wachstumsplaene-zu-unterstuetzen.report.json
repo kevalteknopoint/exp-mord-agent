@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/salamander-entscheidet-sich-fuer-dept-um-ehrgeizige-wachstumsplaene-zu-unterstuetzen/",
+  "path": "dept/de-dach/insight/salamander-entscheidet-sich-fuer-dept-um-ehrgeizige-wachstumsplaene-zu-unterstuetzen",
+  "timestamp": "2026-10-09T11:42:15.535Z",
+  "title": "Salamander entscheidet sich für DEPT®, um ehrgeizige Wachstumspläne zu unterstützen  - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "case-quote",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPTxSalamander_1920x1080_Symbol.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPTxSalamander_1920x1080_Symbol.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPTxSalamander_1920x1080_Symbol.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPTxSalamander_1920x1080_Symbol.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/20241119_Best_of_Swiss_Apps_Best_of_Swiss_Software_Zurich_0343-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/20241119_Best_of_Swiss_Apps_Best_of_Swiss_Software_Zurich_0343-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT-x-Lufthansa-plane.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-x-Lufthansa-plane.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPTxSalamander_1920x1080_Symbol.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPTxSalamander_1920x1080_Symbol.png"
+    ]
+  ]
+}

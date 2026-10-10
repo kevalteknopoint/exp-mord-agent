@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/roadmap-ai-commerce-today-tomorrow-next-decade/",
+  "path": "dept/en-dk/insight/roadmap-ai-commerce-today-tomorrow-next-decade",
+  "timestamp": "2026-10-09T15:02:32.155Z",
+  "title": "Roadmap for AI commerce: Today, tomorrow, & the next decade - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Now-Next-Future-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Now-Next-Future-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Job-Deibel-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Job-Deibel-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Discovery-click.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Discovery-click.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Labubu.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Labubu.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Now-Next-Future-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Now-Next-Future-min.jpg"
+    ]
+  ]
+}

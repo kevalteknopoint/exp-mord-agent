@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/universal-app-campaign-best-practices-straight-google/",
+  "path": "dept/insight/universal-app-campaign-best-practices-straight-google",
+  "timestamp": "2026-10-09T22:14:30.549Z",
+  "title": "Universal App Campaign best practices – straight from Google - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/working-in-google-analytics.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/working-in-google-analytics.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/working-in-google-analytics.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/working-in-google-analytics.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-crafted-motion-video-to-help-reach-new-traders/",
+  "path": "dept/en-nl/case/a-crafted-motion-video-to-help-reach-new-traders",
+  "timestamp": "2026-10-09T17:27:08.266Z",
+  "title": "A crafted motion video to help reach new traders - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/O2-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/O2-Image-Full-bleed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/sam-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/sam-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Maandag02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Maandag02.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/O2-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/O2-Image-Full-bleed.png"
+    ]
+  ]
+}

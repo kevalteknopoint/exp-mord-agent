@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/metaverse-practice/",
+  "path": "dept/latam/service/metaverse-practice",
+  "timestamp": "2026-10-09T22:31:29.655Z",
+  "title": "Metaverse Practice - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "main-page-header",
+    "image",
+    "panel-with-rich-text",
+    "client-panel",
+    "panel-with-cards",
+    "call-to-action",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPTMETAVERSE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPTMETAVERSE.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Eurovision-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Eurovision-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/GANNI.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/GANNI.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/algorand-logo-white-size.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/algorand-logo-white-size.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Douglas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Douglas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Lagunitas-400x210-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Lagunitas-400x210-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Dept_x_Metaverse_Practice_-1600x900-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Dept_x_Metaverse_Practice_-1600x900-2.png"
+    ]
+  ]
+}

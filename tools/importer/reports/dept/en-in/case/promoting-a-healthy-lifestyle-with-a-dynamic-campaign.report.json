@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/promoting-a-healthy-lifestyle-with-a-dynamic-campaign/",
+  "path": "dept/en-in/case/promoting-a-healthy-lifestyle-with-a-dynamic-campaign",
+  "timestamp": "2026-10-09T16:08:29.241Z",
+  "title": "Promoting a healthy lifestyle with a dynamic campaign - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Ferdie-Kamphuis-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Ferdie-Kamphuis-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-2-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-2-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Ferdie-Kamphuis.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Ferdie-Kamphuis.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Philips-Hue.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Philips-Hue.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ]
+  ]
+}

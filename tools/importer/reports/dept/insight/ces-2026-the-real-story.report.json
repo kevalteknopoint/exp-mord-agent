@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/ces-2026-the-real-story/",
+  "path": "dept/insight/ces-2026-the-real-story",
+  "timestamp": "2026-10-09T20:43:31.442Z",
+  "title": "At CES 2026, the real story wasn’t the tech, it was how leaders are using it  - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "title-block-carousel",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/dept-ces-panel-2026-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/dept-ces-panel-2026-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/ces-takeaways-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/ces-takeaways-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/dept-ces-agentic-panel-2026-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/dept-ces-agentic-panel-2026-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/dept-ces-panel-DEPT-letters-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/dept-ces-panel-DEPT-letters-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/dept-ces-panel-on-creativity-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/dept-ces-panel-on-creativity-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/dept-ces-panel-2026-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/dept-ces-panel-2026-min.webp"
+    ]
+  ]
+}

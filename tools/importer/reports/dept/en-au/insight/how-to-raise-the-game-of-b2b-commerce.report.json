@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-raise-the-game-of-b2b-commerce/",
+  "path": "dept/en-au/insight/how-to-raise-the-game-of-b2b-commerce",
+  "timestamp": "2026-10-09T13:16:06.739Z",
+  "title": "How to raise the game of B2B commerce - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/people-escalator.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/people-escalator.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Untitled-design-20.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Untitled-design-20.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Phil-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Phil-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/people-escalator.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/people-escalator.png"
+    ]
+  ]
+}

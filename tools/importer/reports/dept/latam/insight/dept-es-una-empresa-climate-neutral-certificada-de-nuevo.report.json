@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-es-una-empresa-climate-neutral-certificada-de-nuevo/",
+  "path": "dept/latam/insight/dept-es-una-empresa-climate-neutral-certificada-de-nuevo",
+  "timestamp": "2026-10-09T23:31:20.652Z",
+  "title": "DEPT® es una empresa Climate Label certificada, ¡de nuevo! - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/trees.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/trees.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Landingpage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Landingpage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/trees-1024x680.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/trees-1024x680.jpg"
+    ]
+  ]
+}

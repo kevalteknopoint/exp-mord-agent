@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/social-media-trends-2025-was-wird-content-und-kultur-praegen/",
+  "path": "dept/de-dach/insight/social-media-trends-2025-was-wird-content-und-kultur-praegen",
+  "timestamp": "2026-10-09T11:46:19.541Z",
+  "title": "Demure Deinfluencing, der Aufstieg von Reddit und die Abschaffung von X: Social im Jahr 2025 - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "title-block-carousel",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/2025-social-media-trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/2025-social-media-trends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Philipp-Griesser-Dept-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Philipp-Griesser-Dept-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/grasslord-twitchcon.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/grasslord-twitchcon.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/grasslord-twitchcon-knighting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/grasslord-twitchcon-knighting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/grasslord-twitchcon-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/grasslord-twitchcon-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/AI-predictions-2025.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/AI-predictions-2025.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/2025-social-media-trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/2025-social-media-trends.jpg"
+    ]
+  ]
+}

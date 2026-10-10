@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-groceryshop/",
+  "path": "dept/event/dept-groceryshop",
+  "timestamp": "2026-10-09T20:05:25.435Z",
+  "title": "Join us at Groceryshop - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "assets-and-copy",
+    "wrapper",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Groceryshop-2025-Hero-LP-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Groceryshop-2025-Hero-LP-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Asher-Wren.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Asher-Wren.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/jon-judah-headshot-2025-e1755202842262.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/jon-judah-headshot-2025-e1755202842262.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/JM-Marino.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/JM-Marino.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Bairavi-BB-Bala-profile-picture.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Bairavi-BB-Bala-profile-picture.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/alex-glaser.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/alex-glaser.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Noelle-e1721133622573.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Noelle-e1721133622573.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Kevin-Veenman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Kevin-Veenman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-toucan.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-toucan.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger-1600x900-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Groceryshop-2025-Hero-LP-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Groceryshop-2025-Hero-LP-1920x1080-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/creating-customer-insights-for-ergo/",
+  "path": "dept/en-au/case/creating-customer-insights-for-ergo",
+  "timestamp": "2026-10-09T12:47:08.082Z",
+  "title": "Creating customer insights - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1218822023-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1218822023-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1016885904-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1016885904-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Read-More-Breadcrumb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Read-More-Breadcrumb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1000-x-1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1000-x-1200.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1218822023-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1218822023-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/einen-fintech-giganten-auf-das-zeitalter-der-ki-suche-vorbereiten/",
+  "path": "dept/de-dach/case/einen-fintech-giganten-auf-das-zeitalter-der-ki-suche-vorbereiten",
+  "timestamp": "2026-10-09T10:58:15.172Z",
+  "title": "Einen Fintech-Giganten auf das Zeitalter der KI-Suche vorbereiten - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-1-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-1-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-3-1080X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-3-1080X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/jumbo_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/jumbo_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ]
+  ]
+}

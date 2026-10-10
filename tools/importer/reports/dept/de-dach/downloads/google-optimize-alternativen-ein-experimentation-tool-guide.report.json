@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/google-optimize-alternativen-ein-experimentation-tool-guide/",
+  "path": "dept/de-dach/downloads/google-optimize-alternativen-ein-experimentation-tool-guide",
+  "timestamp": "2026-10-09T11:32:52.239Z",
+  "title": "Google Optimize Alternativen - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/orange-wires-on-gray.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/orange-wires-on-gray.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/orange-wires-on-gray.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/orange-wires-on-gray.png"
+    ]
+  ]
+}

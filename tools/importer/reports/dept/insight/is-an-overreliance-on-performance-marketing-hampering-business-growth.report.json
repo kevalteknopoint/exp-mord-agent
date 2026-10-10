@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/is-an-overreliance-on-performance-marketing-hampering-business-growth/",
+  "path": "dept/insight/is-an-overreliance-on-performance-marketing-hampering-business-growth",
+  "timestamp": "2026-10-09T22:31:04.359Z",
+  "title": "Is an overreliance on performance marketing bad? - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-insight"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/performance-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/performance-marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/ai-concept-paid-search.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/ai-concept-paid-search.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/performance-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/performance-marketing.jpg"
+    ]
+  ]
+}

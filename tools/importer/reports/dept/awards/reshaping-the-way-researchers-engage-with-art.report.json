@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/reshaping-the-way-researchers-engage-with-art/",
+  "path": "dept/awards/reshaping-the-way-researchers-engage-with-art",
+  "timestamp": "2026-10-09T10:33:25.577Z",
+  "title": "Reshaping the way researchers engage with art - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "title-and-content",
+    "jumbotron",
+    "panel-with-rich-text",
+    "jumbotron",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "quote",
+    "call-to-action"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Van-Gogh-Collection-Catalogues-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Van-Gogh-Collection-Catalogues-12.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/vangogh1-1024x576.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/vangogh1-1024x576.jpg"
+    ]
+  ]
+}

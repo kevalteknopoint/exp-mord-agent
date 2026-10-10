@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/service/growth/data-strategy/",
+  "path": "dept/en-nl/service/growth/data-strategy",
+  "timestamp": "2026-10-09T18:21:08.597Z",
+  "title": "Data strategy - DEPT®",
+  "template": "dept-service",
+  "locale": "en-nl",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/data-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/data-strategy.jpg"
+    ]
+  ]
+}

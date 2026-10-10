@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/building-an-accessibility-hub-for-a-global-bank/",
+  "path": "dept/en-au/case/building-an-accessibility-hub-for-a-global-bank",
+  "timestamp": "2026-10-09T12:36:54.868Z",
+  "title": "Featured work: Building HSBC UK’s accessibility hub",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/HSBC-UK-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/HSBC-UK-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/tilestyle-shopify.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/tilestyle-shopify.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/HSBC-UK-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/HSBC-UK-Case-1.png"
+    ]
+  ]
+}

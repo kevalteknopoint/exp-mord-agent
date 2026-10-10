@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-cares-day-2019/",
+  "path": "dept/en-uki/insight/dept-cares-day-2019",
+  "timestamp": "2026-10-09T23:58:15.650Z",
+  "title": "DEPT® Cares Day 2019 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insights-header"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/IMG_0535-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/IMG_0535-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/IMG_0535-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/IMG_0535-1200x750-c.jpeg"
+    ]
+  ]
+}

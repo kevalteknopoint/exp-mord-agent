@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/grosser-umzug-neues-zuhause/",
+  "path": "dept/de-dach/case/grosser-umzug-neues-zuhause",
+  "timestamp": "2026-10-09T11:02:04.800Z",
+  "title": "Grosser Umzug, neues Zuhause - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/190809-swissmilk-rezept-datenbank_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/190809-swissmilk-rezept-datenbank_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Ferrari-California-T-Frontansicht-article169Gallery-34c5df96-836949.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Ferrari-California-T-Frontansicht-article169Gallery-34c5df96-836949.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Joann-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Joann-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/190809-swissmilk-rezept-datenbank_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/190809-swissmilk-rezept-datenbank_1.png"
+    ]
+  ]
+}

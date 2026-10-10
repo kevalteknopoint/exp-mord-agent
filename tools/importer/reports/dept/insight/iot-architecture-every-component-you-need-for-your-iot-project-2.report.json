@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/iot-architecture-every-component-you-need-for-your-iot-project-2/",
+  "path": "dept/insight/iot-architecture-every-component-you-need-for-your-iot-project-2",
+  "timestamp": "2026-10-09T22:29:43.447Z",
+  "title": "Every component you need for your IoT project - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/iot-architecture-concept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/iot-architecture-concept.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jesse_Streb-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jesse_Streb-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/iot-architecture-concept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/iot-architecture-concept.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/iot-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/iot-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/iot-architecture-concept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/iot-architecture-concept.jpeg"
+    ]
+  ]
+}

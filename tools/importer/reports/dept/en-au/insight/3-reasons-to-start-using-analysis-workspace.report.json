@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/3-reasons-to-start-using-analysis-workspace/",
+  "path": "dept/en-au/insight/3-reasons-to-start-using-analysis-workspace",
+  "timestamp": "2026-10-09T12:06:34.547Z",
+  "title": "3 reasons to start using Analysis Workspace - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Top-3-reasons-you-should-start-using-Analysis-Workspace-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Top-3-reasons-you-should-start-using-Analysis-Workspace-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Top-3-reasons-you-should-start-using-Analysis-Workspace-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Top-3-reasons-you-should-start-using-Analysis-Workspace-500x300-1.png"
+    ]
+  ]
+}

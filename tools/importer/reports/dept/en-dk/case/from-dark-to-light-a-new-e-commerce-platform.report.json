@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/from-dark-to-light-a-new-e-commerce-platform/",
+  "path": "dept/en-dk/case/from-dark-to-light-a-new-e-commerce-platform",
+  "timestamp": "2026-10-09T14:21:27.340Z",
+  "title": "From dark to light: a new e-commerce platform - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Flos-Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Flos-Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Flos-Image-3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Flos-Image-3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Flos-Image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Flos-Image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Image-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Image-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Image-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Image-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Image-7.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Image-7.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/spotify-music-talk-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/spotify-music-talk-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Header-image.png"
+    ]
+  ]
+}

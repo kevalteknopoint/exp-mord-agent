@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/growth/analytics-data-management/",
+  "path": "dept/en-dk/service/growth/analytics-data-management",
+  "timestamp": "2026-10-09T14:19:19.188Z",
+  "title": "Analytics & Data Management - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/analytics-data.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/analytics-data.jpg"
+    ]
+  ]
+}

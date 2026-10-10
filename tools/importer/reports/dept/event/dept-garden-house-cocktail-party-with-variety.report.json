@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-garden-house-cocktail-party-with-variety/",
+  "path": "dept/event/dept-garden-house-cocktail-party-with-variety",
+  "timestamp": "2026-10-09T20:05:10.240Z",
+  "title": "DEPT® Garden House Cocktail Party with Variety - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "title-and-content",
+    "event-register",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/SXSW-event-header-1906x975_v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/SXSW-event-header-1906x975_v2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/SXSW-Sydney-Map-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/SXSW-Sydney-Map-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/SXSW-event-header-1906x975_v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/SXSW-event-header-1906x975_v2.jpg"
+    ]
+  ]
+}

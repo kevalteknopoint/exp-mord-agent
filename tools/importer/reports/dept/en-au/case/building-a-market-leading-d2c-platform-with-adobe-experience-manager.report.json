@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/building-a-market-leading-d2c-platform-with-adobe-experience-manager/",
+  "path": "dept/en-au/case/building-a-market-leading-d2c-platform-with-adobe-experience-manager",
+  "timestamp": "2026-10-09T12:36:04.310Z",
+  "title": "Building a market-leading D2C platform with AEM - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/ceat-tyres-range.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/ceat-tyres-range.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg"
+    ]
+  ]
+}

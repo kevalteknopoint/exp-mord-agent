@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/chatgpt-ads-are-here-six-months-of-lessons-from-the-us-pilot-for-european-brands/",
+  "path": "dept/event/chatgpt-ads-are-here-six-months-of-lessons-from-the-us-pilot-for-european-brands",
+  "timestamp": "2026-10-09T20:01:49.139Z",
+  "title": "ChatGPT Ads are here: Six Months of Lessons from the US-Pilot - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/ChatGPT-Ads-Masterclass-Landing-page-Only-Image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/ChatGPT-Ads-Masterclass-Landing-page-Only-Image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Molly-Deaville-Growth-Director.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Molly-Deaville-Growth-Director.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/ChatGPT-Ads-Masterclass-Landing-page-Only-Image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/ChatGPT-Ads-Masterclass-Landing-page-Only-Image-1920x1080-1.png"
+    ]
+  ]
+}

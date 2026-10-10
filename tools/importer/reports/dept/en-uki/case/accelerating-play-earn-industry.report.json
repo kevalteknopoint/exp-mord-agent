@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/accelerating-play-earn-industry/",
+  "path": "dept/en-uki/case/accelerating-play-earn-industry",
+  "timestamp": "2026-10-09T19:42:19.652Z",
+  "title": "Accelerating the play & earn industry - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "quote",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/04-Mobile-Angled-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/04-Mobile-Angled-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/05-Mobile-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/05-Mobile-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/02-Template-Mobiles-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/02-Template-Mobiles-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/maxim-melnikov-7oh6dJVhurM-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/maxim-melnikov-7oh6dJVhurM-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game-1024x576.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game-1024x576.jpg"
+    ]
+  ]
+}

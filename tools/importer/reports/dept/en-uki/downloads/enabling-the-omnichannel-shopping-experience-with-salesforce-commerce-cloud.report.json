@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/enabling-the-omnichannel-shopping-experience-with-salesforce-commerce-cloud/",
+  "path": "dept/en-uki/downloads/enabling-the-omnichannel-shopping-experience-with-salesforce-commerce-cloud",
+  "timestamp": "2026-10-09T19:32:00.562Z",
+  "title": "Enabling the omnichannel shopping experience with salesforce commerce cloud - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/bottles-in-green-plastic-bag.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/bottles-in-green-plastic-bag.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/bottles-in-green-plastic-bag.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/bottles-in-green-plastic-bag.png"
+    ]
+  ]
+}

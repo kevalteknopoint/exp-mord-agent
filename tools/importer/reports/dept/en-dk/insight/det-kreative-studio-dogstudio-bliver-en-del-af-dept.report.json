@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/det-kreative-studio-dogstudio-bliver-en-del-af-dept/",
+  "path": "dept/en-dk/insight/det-kreative-studio-dogstudio-bliver-en-del-af-dept",
+  "timestamp": "2026-10-09T15:12:11.635Z",
+  "title": "Det kreative studio Dogstudio bliver en del af DEPT® - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Dogstudio-x-DEPT%C2%AE-PR-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Dogstudio-x-DEPT--PR-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-Dam-Johnse-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-Dam-Johnse-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-Dam-Johnse.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-Dam-Johnse.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Dogstudio-x-DEPT%C2%AE-PR-image-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Dogstudio-x-DEPT--PR-image-1024x576.png"
+    ]
+  ]
+}

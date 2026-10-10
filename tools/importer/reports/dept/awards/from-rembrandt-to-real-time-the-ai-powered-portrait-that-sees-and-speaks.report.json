@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/from-rembrandt-to-real-time-the-ai-powered-portrait-that-sees-and-speaks/",
+  "path": "dept/awards/from-rembrandt-to-real-time-the-ai-powered-portrait-that-sees-and-speaks",
+  "timestamp": "2026-10-09T10:19:35.980Z",
+  "title": "From Rembrandt to real time: The AI-powered portrait that sees and speaks - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "awards-intro",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "case-quote",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/TP-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/TP-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/TP-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/TP-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/TP3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/TP3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/TP-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/TP-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ]
+  ]
+}

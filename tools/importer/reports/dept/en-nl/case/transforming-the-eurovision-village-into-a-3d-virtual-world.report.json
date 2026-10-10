@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/transforming-the-eurovision-village-into-a-3d-virtual-world/",
+  "path": "dept/en-nl/case/transforming-the-eurovision-village-into-a-3d-virtual-world",
+  "timestamp": "2026-10-09T17:29:55.541Z",
+  "title": "Transforming the Eurovision village into a 3D virtual world - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "panel-with-cards",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-6-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-6-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-8-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-8-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Eurovision-10-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Eurovision-10-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Eurovision-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Eurovision-1.png"
+    ]
+  ]
+}

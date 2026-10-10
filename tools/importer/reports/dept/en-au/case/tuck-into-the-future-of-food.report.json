@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/case/tuck-into-the-future-of-food/",
   "path": "dept/en-au/case/tuck-into-the-future-of-food",
-  "timestamp": "2026-10-08T15:14:02.659Z",
+  "timestamp": "2026-10-09T09:57:06.592Z",
   "title": "Tuck into the future of food - DEPT®",
   "template": "dept-case",
   "locale": "en-au",
@@ -10,11 +10,12 @@
     "case-intro-title",
     "assets-and-copy",
     "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
     "next-case"
   ],
-  "fallback": [
-    "case-intro-title"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/06/iStock-518459098-1-scaled.jpg",
@@ -33,8 +34,8 @@
       "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+      "https://www.dept.global/wp-content/uploads/2021/05/van.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/van.png"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",

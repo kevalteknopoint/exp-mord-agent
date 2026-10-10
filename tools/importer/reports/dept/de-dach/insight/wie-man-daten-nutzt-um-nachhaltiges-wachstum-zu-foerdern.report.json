@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/wie-man-daten-nutzt-um-nachhaltiges-wachstum-zu-foerdern/",
+  "path": "dept/de-dach/insight/wie-man-daten-nutzt-um-nachhaltiges-wachstum-zu-foerdern",
+  "timestamp": "2026-10-09T11:55:50.542Z",
+  "title": "Daten nutzen um nachhaltiges Wachstum zu fördern - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/black-white-winding-path-stay-ahead.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/black-white-winding-path-stay-ahead.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/neon-blue-arrows-stay-ahead.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/neon-blue-arrows-stay-ahead.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/black-white-winding-path-stay-ahead.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/black-white-winding-path-stay-ahead.jpg"
+    ]
+  ]
+}

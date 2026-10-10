@@ -1,0 +1,123 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/industry/energy-utilities/",
+  "path": "dept/en-in/industry/energy-utilities",
+  "timestamp": "2026-10-09T15:58:19.458Z",
+  "title": "Digital agency specialising in energy & utilities - DEPT®",
+  "template": "dept-industry",
+  "locale": "en-in",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wind-farm.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wind-farm.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/water-bottle-tap.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/water-bottle-tap.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/GE-Lighting-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/GE-Lighting-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/eneco-energy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/eneco-energy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/hvac-controls-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/hvac-controls-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Energy-data-screens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Energy-data-screens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Uisce-Eireann.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Uisce-Eireann.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/GE-Lighting.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/GE-Lighting.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Bouygues.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Bouygues.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gas-Networks-Irelandart.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gas-Networks-Irelandart.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Oxxio.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Oxxio.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/NREL.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/NREL.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Helion.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Helion.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Eiregrid.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Eiregrid.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Eneco.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Eneco.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Philips-Hue.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Philips-Hue.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/energy-utilities-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/energy-utilities-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/energy-consumption-data-nrel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/energy-consumption-data-nrel.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/bouygues.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/bouygues.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Helion-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Helion-Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Anthem-Awards-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Anthem-Awards-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEPT-CES-2025-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEPT-CES-2025-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ai-public-affair-tool.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ai-public-affair-tool.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/5-AI-predictions-2025.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/5-AI-predictions-2025.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wind-farm.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wind-farm.jpg"
+    ]
+  ]
+}

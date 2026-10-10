@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/an-online-world-that-enchants-adults-and-children-alike/",
+  "path": "dept/latam/case/an-online-world-that-enchants-adults-and-children-alike",
+  "timestamp": "2026-10-09T21:26:57.241Z",
+  "title": "An online world that enchants adults and children alike - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "statement",
+    "panel-with-cards",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-106-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-106-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-103-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-103-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ganni-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ganni-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-7-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-7-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg"
+    ]
+  ]
+}

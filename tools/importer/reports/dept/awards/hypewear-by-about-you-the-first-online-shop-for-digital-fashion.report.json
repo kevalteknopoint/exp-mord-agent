@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/hypewear-by-about-you-the-first-online-shop-for-digital-fashion/",
+  "path": "dept/awards/hypewear-by-about-you-the-first-online-shop-for-digital-fashion",
+  "timestamp": "2026-10-09T10:21:09.257Z",
+  "title": "HYPEWEAR by ABOUT YOU – the first online shop for digital fashion - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "intro-text",
+    "video",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "video",
+    "panel-with-rich-text",
+    "video",
+    "quote",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "quote",
+    "call-to-action",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop-Komprimiert.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop-Komprimiert.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-01-Desktop-Komprimiert.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-01-Desktop-Komprimiert.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Screenshot-2022-07-28-at-10.11.42.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Screenshot-2022-07-28-at-10.11.42.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/industry/manufacturing-industrials/",
+  "path": "dept/en-nl/industry/manufacturing-industrials",
+  "timestamp": "2026-10-09T16:56:48.838Z",
+  "title": "Digital agency specialising in manufacturing - DEPT®",
+  "template": "dept-industry",
+  "locale": "en-nl",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "event-content-v2",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "event-content-v2",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/DEPT%C2%AE-MANUFACTURING-Featured-Image-no-logo-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/DEPT--MANUFACTURING-Featured-Image-no-logo-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/arm-subway-screen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/arm-subway-screen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-8-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/6-Desktop@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/6-Desktop-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Jungheinrich-04.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Jungheinrich-04.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/manufacturing-cogs.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/manufacturing-cogs.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Omron.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Omron.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Jungheinrich.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Jungheinrich.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Glen-Dimplex.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Glen-Dimplex.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/GEA.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/GEA.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Eriks.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Eriks.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/CEAT-Tyres.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/CEAT-Tyres.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Brenntag.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Brenntag.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Bissell.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Bissell.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Helion.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Helion.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-33-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-33-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/02/Plieger_16-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/02/Plieger_16-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEPT-CES-2025-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEPT-CES-2025-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/RAG-solutions-LLMs_AI-concept-1200x670px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/RAG-solutions-LLMs_AI-concept-1200x670px.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/shopping-trolley-1200x750-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/shopping-trolley-1200x750-c-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/DEPT%C2%AE-MANUFACTURING-Featured-Image-no-logo-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/DEPT--MANUFACTURING-Featured-Image-no-logo-.png"
+    ]
+  ]
+}

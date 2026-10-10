@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/frischer-look-fuer-die-groesste-schweizer-hochschule/",
+  "path": "dept/de-dach/case/frischer-look-fuer-die-groesste-schweizer-hochschule",
+  "timestamp": "2026-10-09T11:01:04.841Z",
+  "title": "Frischer Look für die grösste Schweizer Hochschule - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Intro_Spitzenforschung_UZH-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Intro_Spitzenforschung_UZH-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/UZH_01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/UZH_01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/UZH_02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/UZH_02.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/UZH_Digital-Examples.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/UZH_Digital-Examples.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/UZH_03.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/UZH_03.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Tom-Jonasse_HV-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Tom-Jonasse_HV-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/UZH_Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/UZH_Header.png"
+    ]
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/increasing-brand-awareness-during-cyber-week/",
+  "path": "dept/case/increasing-brand-awareness-during-cyber-week",
+  "timestamp": "2026-10-09T10:23:49.042Z",
+  "title": "Philips: Increasing brand awareness during Cyber Week - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Jets-Bot-builder.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Jets-Bot-builder.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-4.png"
+    ]
+  ]
+}

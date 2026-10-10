@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/when-to-use-net-for-product-development/",
+  "path": "dept/en-in/insight/when-to-use-net-for-product-development",
+  "timestamp": "2026-10-09T16:00:32.636Z",
+  "title": "When to use .NET for product development - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/net-framework-with-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/net-framework-with-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/John-Askew-Dept-e1627486679920-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/John-Askew-Dept-e1627486679920-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/net-framework-with-logo-1024x535.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/net-framework-with-logo-1024x535.png"
+    ]
+  ]
+}

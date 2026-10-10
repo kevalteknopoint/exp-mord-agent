@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/the-worlds-first-multi-color-led-wifi-light-bulb/",
+  "path": "dept/en-in/case/the-worlds-first-multi-color-led-wifi-light-bulb",
+  "timestamp": "2026-10-09T16:24:46.058Z",
+  "title": "Featured work: The world’s first multi-color LED wifi light bulb - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/lifx-Project-Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/lifx-Project-Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/lifx-Full-bleed-Project-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/lifx-Full-bleed-Project-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/retirement-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/retirement-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/8-Image-Full-bleed@1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/8-Image-Full-bleed-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/lifx-Project-Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/lifx-Project-Header.jpg"
+    ]
+  ]
+}

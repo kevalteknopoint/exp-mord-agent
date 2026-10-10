@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-x-salesforce-world-tour-2024/",
+  "path": "dept/event/dept-x-salesforce-world-tour-2024",
+  "timestamp": "2026-10-09T21:19:23.444Z",
+  "title": "DEPT® x Salesforce World Tour 2024 - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Salesforce-connections-00000-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Salesforce-connections-00000-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Salesforce-connections-00000-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Salesforce-connections-00000-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Salesforce-connections-00000.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Salesforce-connections-00000.jpg"
+    ]
+  ]
+}

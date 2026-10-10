@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/hello-monday-part-of-dept-hoster-haeder-fra-innovation-by-design-awards/",
+  "path": "dept/en-dk/insight/hello-monday-part-of-dept-hoster-haeder-fra-innovation-by-design-awards",
+  "timestamp": "2026-10-09T15:23:37.539Z",
+  "title": "Hello Monday (part of DEPT®) høster hæder fra Innovation by Design Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "image",
+    "title-and-content",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Fingerspelling-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Fingerspelling-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rasmus-Keller-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rasmus-Keller-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/fast_co___fs_share_img.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/fast_co___fs_share_img.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/test.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/test.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Fingerspelling-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Fingerspelling-01.jpg"
+    ]
+  ]
+}

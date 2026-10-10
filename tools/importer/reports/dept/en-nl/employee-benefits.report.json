@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/employee-benefits/",
+  "path": "dept/en-nl/employee-benefits",
+  "timestamp": "2026-10-09T17:55:14.240Z",
+  "title": "Employee Benefits - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "jumbotron",
+    "intro-text",
+    "image",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "jumbotron"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-tl.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-tl.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Benefits-at-dept-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Benefits-at-dept-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/02.11.2021_DEPTMENSEN__1444-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/02.11.2021_DEPTMENSEN__1444-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Dept_15Nov-Talks-Fashion-162-mobile.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Dept_15Nov-Talks-Fashion-162-mobile.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/4016-DSC_0037-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/4016-DSC_0037-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Office_Berlin_09-1200x750-c-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Office_Berlin_09-1200x750-c-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

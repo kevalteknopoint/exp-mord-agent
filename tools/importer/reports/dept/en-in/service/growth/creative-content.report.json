@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/creative-content/",
+  "path": "dept/en-in/service/growth/creative-content",
+  "timestamp": "2026-10-09T23:37:19.340Z",
+  "title": "Creative & Content | DEPT",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "service-post-header",
+    "title-and-content",
+    "panel-services",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/BANG-OLUFSEN_featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/BANG-OLUFSEN_featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/BANG-OLUFSEN_featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/BANG-OLUFSEN_featured.png"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/from-tools-to-systems-the-rise-of-the-creative-supply-chain/",
+  "path": "dept/en-au/insight/from-tools-to-systems-the-rise-of-the-creative-supply-chain",
+  "timestamp": "2026-10-09T13:52:11.641Z",
+  "title": "From tools to systems: The rise of the creative supply chain - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/lightspeed-running.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/lightspeed-running.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Adobe-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Adobe-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Leadership-1080x1350-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Leadership-1080x1350-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/vijay-sales-logo-red-background.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/vijay-sales-logo-red-background.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/ADOBE-PARTNER-25-Web-Featured-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/ADOBE-PARTNER-25-Web-Featured-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/lightspeed-running.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/lightspeed-running.webp"
+    ]
+  ]
+}

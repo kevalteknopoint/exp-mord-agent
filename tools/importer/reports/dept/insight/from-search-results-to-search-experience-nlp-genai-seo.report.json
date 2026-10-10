@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/from-search-results-to-search-experience-nlp-genai-seo/",
+  "path": "dept/insight/from-search-results-to-search-experience-nlp-genai-seo",
+  "timestamp": "2026-10-09T20:38:50.739Z",
+  "title": "From search results to search experience: NLP, GenAI & SEO - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "media-with-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/From-search-results-to-search-experience_-NLP-GenAI-and-SEO-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/From-search-results-to-search-experience_-NLP-GenAI-and-SEO-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/MariaProkoheadshot-e1701966883394-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/MariaProkoheadshot-e1701966883394-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Desktop-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Desktop-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/From-search-results-to-search-experience_-NLP-GenAI-and-SEO-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/From-search-results-to-search-experience_-NLP-GenAI-and-SEO-min.png"
+    ]
+  ]
+}

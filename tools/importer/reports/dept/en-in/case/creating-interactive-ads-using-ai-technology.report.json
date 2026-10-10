@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/creating-interactive-ads-using-ai-technology/",
+  "path": "dept/en-in/case/creating-interactive-ads-using-ai-technology",
+  "timestamp": "2026-10-09T15:39:54.962Z",
+  "title": "Creating interactive ads using AI technology - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoemirror_header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoemirror_header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoemirror_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoemirror_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoemirror_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoemirror_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoemirror_5-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoemirror_5-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/anders-jessen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/anders-jessen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/law-hero-back-v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/law-hero-back-v2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Birla-Opus_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Birla-Opus_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoe-mirror-13.21.18.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoe-mirror-13.21.18.png"
+    ]
+  ]
+}

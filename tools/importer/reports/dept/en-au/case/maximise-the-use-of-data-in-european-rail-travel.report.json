@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/maximise-the-use-of-data-in-european-rail-travel/",
+  "path": "dept/en-au/case/maximise-the-use-of-data-in-european-rail-travel",
+  "timestamp": "2026-10-09T12:13:50.439Z",
+  "title": "Maximise the use of data in European rail travel - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "call-to-action",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jeanette-Kerssens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jeanette-Kerssens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/maxim-melnikov-7oh6dJVhurM-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/maxim-melnikov-7oh6dJVhurM-unsplash.jpg"
+    ]
+  ]
+}

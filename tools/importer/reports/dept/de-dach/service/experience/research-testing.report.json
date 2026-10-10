@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/experience/research-testing/",
+  "path": "dept/de-dach/service/experience/research-testing",
+  "timestamp": "2026-10-09T12:09:26.580Z",
+  "title": "Research & Testing - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Research-Testing.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Research-Testing.png"
+    ]
+  ]
+}

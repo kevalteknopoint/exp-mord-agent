@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/pioneering-the-future-of-social-media/",
+  "path": "dept/event/pioneering-the-future-of-social-media",
+  "timestamp": "2026-10-09T21:24:14.040Z",
+  "title": "Pioneering the future of social media - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Bildschirmfoto-2023-10-10-um-16.55.43.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Bildschirmfoto-2023-10-10-um-16.55.43.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Nina-Webb.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Nina-Webb.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Lawrence-Edmondson-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Lawrence-Edmondson-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Gianna-Valintina.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Gianna-Valintina.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Lindsay-Kennedy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Lindsay-Kennedy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/GMW-2023-Email-Header-Sponsored-Adweek.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/GMW-2023-Email-Header-Sponsored-Adweek.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/connecting-strategy-with-style/",
+  "path": "dept/en-in/case/connecting-strategy-with-style",
+  "timestamp": "2026-10-09T15:04:04.240Z",
+  "title": "Connecting strategy with style - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Carolin-Bornholdt-Dept-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Carolin-Bornholdt-Dept-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Fjordline_featured_image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Fjordline_featured_image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Milla_johnnie-walker.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Milla_johnnie-walker.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ivy2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ivy2.png"
+    ]
+  ]
+}

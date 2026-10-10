@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/insight/dept-10th-anniversary-growth-invention/",
   "path": "dept/en-au/insight/dept-10th-anniversary-growth-invention",
-  "timestamp": "2026-10-08T15:01:21.341Z",
+  "timestamp": "2026-10-09T09:57:59.774Z",
   "title": "DEPT® marks 10th anniversary and doubles down on Growth Invention |DEPT®",
   "template": "dept-insight",
   "locale": "en-au",
@@ -11,20 +11,18 @@
     "assets-and-copy",
     "case-quote",
     "assets-and-copy",
+    "assets-and-copy",
     "custom-listing"
   ],
-  "fallback": [
-    "insight-intro",
-    "case-quote"
-  ],
+  "fallback": [],
   "images": [
-    [
-      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
-      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
-    ],
     [
       "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Leadership-1920x1080-1.webp",
       "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Leadership-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2025/10/DEPT-logo-blurred-runner.webp",

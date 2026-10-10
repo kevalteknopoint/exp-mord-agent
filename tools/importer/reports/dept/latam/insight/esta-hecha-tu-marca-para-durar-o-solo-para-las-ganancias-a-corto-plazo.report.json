@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/esta-hecha-tu-marca-para-durar-o-solo-para-las-ganancias-a-corto-plazo/",
+  "path": "dept/latam/insight/esta-hecha-tu-marca-para-durar-o-solo-para-las-ganancias-a-corto-plazo",
+  "timestamp": "2026-10-09T23:25:52.539Z",
+  "title": "¿Está tu marca pensada para durar? - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Durable-brands-playbook.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Durable-brands-playbook.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Website-asset-agile-in-uncertain-times-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-Insight-Featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-Insight-Featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/blueorange-building.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/blueorange-building.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ]
+  ]
+}

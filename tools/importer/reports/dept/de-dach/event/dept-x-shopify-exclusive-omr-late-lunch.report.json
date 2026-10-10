@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-x-shopify-exclusive-omr-late-lunch/",
+  "path": "dept/de-dach/event/dept-x-shopify-exclusive-omr-late-lunch",
+  "timestamp": "2026-10-09T22:41:04.786Z",
+  "title": "DEPT® x Shopify x Jägermeister Exclusive OMR Late Lunch - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "form-page"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Side-event-DEPT%C2%AE-x-OMR-24-Event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Side-event-DEPT--x-OMR-24-Event-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Side-event-DEPT%C2%AE-x-OMR-24-Event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Side-event-DEPT--x-OMR-24-Event-header.jpg"
+    ]
+  ]
+}

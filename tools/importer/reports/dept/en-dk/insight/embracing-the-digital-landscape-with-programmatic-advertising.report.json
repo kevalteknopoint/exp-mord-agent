@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/embracing-the-digital-landscape-with-programmatic-advertising/",
+  "path": "dept/en-dk/insight/embracing-the-digital-landscape-with-programmatic-advertising",
+  "timestamp": "2026-10-09T15:15:27.485Z",
+  "title": "Embracing the Digital Landscape with Programmatic Advertising - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "text-block-hero",
+    "quote",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Image_Longread_Programmatic_500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Image_Longread_Programmatic_500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Mette-Schnor-Bailey_740x720-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Mette-Schnor-Bailey_740x720-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Mette-Schnor-Bailey_740x720.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Mette-Schnor-Bailey_740x720.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Mette-Schnor-Bailey_740x720.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Mette-Schnor-Bailey_740x720.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Image_Longread_Programmatic_500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Image_Longread_Programmatic_500x300-1.png"
+    ]
+  ]
+}

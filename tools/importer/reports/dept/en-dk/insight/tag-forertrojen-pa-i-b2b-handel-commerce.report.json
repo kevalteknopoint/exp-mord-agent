@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/tag-forertrojen-pa-i-b2b-handel-commerce/",
+  "path": "dept/en-dk/insight/tag-forertrojen-pa-i-b2b-handel-commerce",
+  "timestamp": "2026-10-09T15:07:36.561Z",
+  "title": "Tag førertrøjen på i B2B-handel - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/people-escalator.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/people-escalator.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Untitled-design-20.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Untitled-design-20.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Phil-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Phil-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/people-escalator.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/people-escalator.png"
+    ]
+  ]
+}

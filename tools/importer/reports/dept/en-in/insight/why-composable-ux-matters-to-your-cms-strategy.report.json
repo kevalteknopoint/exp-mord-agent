@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/why-composable-ux-matters-to-your-cms-strategy/",
+  "path": "dept/en-in/insight/why-composable-ux-matters-to-your-cms-strategy",
+  "timestamp": "2026-10-09T16:02:02.442Z",
+  "title": "Why Composable UX matters to your CMS strategy - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Why-composable-ux-matters-your-cms-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Why-composable-ux-matters-your-cms-strategy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Danny-Patterson-Dept-e1627485724792-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Danny-Patterson-Dept-e1627485724792-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Composable-approach-to-UX-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Composable-approach-to-UX-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Why-composable-ux-matters-your-cms-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Why-composable-ux-matters-your-cms-strategy.jpg"
+    ]
+  ]
+}

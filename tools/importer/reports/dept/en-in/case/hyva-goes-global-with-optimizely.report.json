@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/hyva-goes-global-with-optimizely/",
+  "path": "dept/en-in/case/hyva-goes-global-with-optimizely",
+  "timestamp": "2026-10-09T15:59:35.939Z",
+  "title": "Hyva goes global with Optimizely - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/HYVA-Case-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/HYVA-Case-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/HYVA-Case-1-1200x675-c-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/HYVA-Case-1-1200x675-c-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/HYVA-Case-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/HYVA-Case-Header-1.png"
+    ]
+  ]
+}

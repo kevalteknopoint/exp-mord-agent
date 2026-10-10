@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/digital-tools-to-aid-the-personal-growth-of-youth-scouts-in-australia/",
+  "path": "dept/case/digital-tools-to-aid-the-personal-growth-of-youth-scouts-in-australia",
+  "timestamp": "2026-10-09T10:45:02.274Z",
+  "title": "Digital tools to aid the personal growth of youth Scouts in Australia - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/children-smiling-in-woodland.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/children-smiling-in-woodland.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/scouts-australia-smiling-girl-in-hat.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/scouts-australia-smiling-girl-in-hat.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/scouts1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/scouts1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Jason_ODonnell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Jason_ODonnell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/12/sesame-street-ar-app-children-phone.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/12/sesame-street-ar-app-children-phone.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Fingerspelling-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Fingerspelling-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/children-smiling-in-woodland.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/children-smiling-in-woodland.jpg"
+    ]
+  ]
+}

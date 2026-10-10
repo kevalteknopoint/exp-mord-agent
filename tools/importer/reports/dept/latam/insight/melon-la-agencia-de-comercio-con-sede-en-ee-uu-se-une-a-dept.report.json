@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/melon-la-agencia-de-comercio-con-sede-en-ee-uu-se-une-a-dept/",
+  "path": "dept/latam/insight/melon-la-agencia-de-comercio-con-sede-en-ee-uu-se-une-a-dept",
+  "timestamp": "2026-10-09T23:29:33.535Z",
+  "title": "Melon, la agencia con sede en EEUU se une a DEPT® - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Melon-x-DEPT%C2%AE-Career-600x600-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Melon-x-DEPT--Career-600x600-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Melon-x-DEPT%C2%AE-Career-600x600-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Melon-x-DEPT--Career-600x600-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/twitch-launching-a-leading-streaming-platform-on-tiktok/",
+  "path": "dept/latam/case/twitch-launching-a-leading-streaming-platform-on-tiktok",
+  "timestamp": "2026-10-09T22:59:16.977Z",
+  "title": "Twitch: Launching a leading streaming platform on TikTok - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Gaming_Setup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Gaming_Setup.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Audience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Audience.jpg"
+    ]
+  ]
+}

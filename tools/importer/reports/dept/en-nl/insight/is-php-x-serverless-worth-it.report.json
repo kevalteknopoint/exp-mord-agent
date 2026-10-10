@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/is-php-x-serverless-worth-it/",
+  "path": "dept/en-nl/insight/is-php-x-serverless-worth-it",
+  "timestamp": "2026-10-09T18:27:35.439Z",
+  "title": "Is PHP x Serverless worth it? - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/isphp_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/isphp_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Jim-S-1680-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Jim-S-1680-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Sandor-Voordes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Sandor-Voordes.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/isphp_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/isphp_1.png"
+    ]
+  ]
+}

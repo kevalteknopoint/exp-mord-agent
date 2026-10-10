@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/information-vs-meinung-diffamierende-webseiten-erkennen/",
+  "path": "dept/de-dach/insight/information-vs-meinung-diffamierende-webseiten-erkennen",
+  "timestamp": "2026-10-09T12:08:50.270Z",
+  "title": "Information vs. Meinung: diffamierende Webseiten erkennen - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/sergey-zolkin-_UeY8aTI6d0-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/sergey-zolkin-_UeY8aTI6d0-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/PPAC48IgnmJirg0faib5S9XM5MjPIlEzaNhWWpfTRblE8Af5YxUTNocaY9p1-bt3qCYLYzbJnrW_FzaePrdLeTUFwy_UNBvQX44LB_9YEljEFHJYUpMbB-p4VHJ84qrgyHr9k0p-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/PPAC48IgnmJirg0faib5S9XM5MjPIlEzaNhWWpfTRblE8Af5YxUTNocaY9p1-bt3qCYLYzbJnrW_FzaePrdLeTUFwy_UNBvQX44LB_9YEljEFHJYUpMbB-p4VHJ84qrgyHr9k0p-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/sergey-zolkin-_UeY8aTI6d0-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/sergey-zolkin-_UeY8aTI6d0-unsplash-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/back-in-time/",
+  "path": "dept/latam/case/back-in-time",
+  "timestamp": "2026-10-09T21:28:28.639Z",
+  "title": "Back in time - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/De-Bijenkorf.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/De-Bijenkorf.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-6-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-6-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-54-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-54-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Franklin-Schamhart.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Franklin-Schamhart.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/bijenkorf-1440x810-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/bijenkorf-1440x810-c-1.jpeg"
+    ]
+  ]
+}

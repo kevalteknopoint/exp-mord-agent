@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/growth/media-2/",
+  "path": "dept/en-dk/service/growth/media-2",
+  "timestamp": "2026-10-09T23:21:09.751Z",
+  "title": "Media - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "service-post-header",
+    "title-and-content",
+    "panel-services",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT%C2%AE-TikTok_Instagram.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT--TikTok_Instagram.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Kristoffer1x1-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Kristoffer1x1-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT%C2%AE-TikTok_Instagram.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT--TikTok_Instagram.png"
+    ]
+  ]
+}

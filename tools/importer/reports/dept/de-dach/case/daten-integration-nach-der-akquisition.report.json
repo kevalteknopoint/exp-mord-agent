@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/daten-integration-nach-der-akquisition/",
+  "path": "dept/de-dach/case/daten-integration-nach-der-akquisition",
+  "timestamp": "2026-10-09T11:30:25.252Z",
+  "title": "Daten Integration nach der Akquisition - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "stats-panel",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/disney-data-analyics-consulting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/disney-data-analyics-consulting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/disney-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/disney-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/IMG_9557-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/IMG_9557-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.39.18-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.39.18-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/data-analytics-consulting-disney.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/data-analytics-consulting-disney.jpg"
+    ]
+  ]
+}

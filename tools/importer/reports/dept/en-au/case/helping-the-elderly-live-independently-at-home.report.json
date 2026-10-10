@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/helping-the-elderly-live-independently-at-home/",
+  "path": "dept/en-au/case/helping-the-elderly-live-independently-at-home",
+  "timestamp": "2026-10-09T13:08:28.940Z",
+  "title": "Helping the elderly live independently at home - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/AbiBird-App.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/AbiBird-App.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Jason_ODonnell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Jason_ODonnell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Meebits-_-Dogstudio-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Meebits-_-Dogstudio-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/AbiBird-App.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/AbiBird-App.jpg"
+    ]
+  ]
+}

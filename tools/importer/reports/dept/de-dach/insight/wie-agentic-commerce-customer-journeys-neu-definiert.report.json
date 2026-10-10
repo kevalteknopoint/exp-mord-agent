@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/wie-agentic-commerce-customer-journeys-neu-definiert/",
+  "path": "dept/de-dach/insight/wie-agentic-commerce-customer-journeys-neu-definiert",
+  "timestamp": "2026-10-09T11:54:06.099Z",
+  "title": "Wie Agentic Commerce die Customer Journey neu gestaltet - DEPT® x Shopify- DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Experience-path.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Experience-path.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Bridget-Fahrland-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Bridget-Fahrland-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Labubu.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Labubu.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Shopify.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Experience-path.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Experience-path.jpg"
+    ]
+  ]
+}

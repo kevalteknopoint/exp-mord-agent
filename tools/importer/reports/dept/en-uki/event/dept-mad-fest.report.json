@@ -1,0 +1,105 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/dept-mad-fest/",
+  "path": "dept/en-uki/event/dept-mad-fest",
+  "timestamp": "2026-10-09T19:46:38.172Z",
+  "title": "DEPT® at MAD//Fest 2025 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/MADFEST-2025-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/MADFEST-2025-Website-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Ali-Mcclintock-Dept-3-2-e1739455702103.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Ali-Mcclintock-Dept-3-2-e1739455702103.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/adam-jewson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/adam-jewson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.21.35.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.21.35.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/535A9686-e1749647107789.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/535A9686-e1749647107789.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Joe-Watson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Joe-Watson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Duncan-Birch-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Duncan-Birch-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Jeff-Bowerman-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Jeff-Bowerman-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Katy_White_1_optimized_800.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Katy_White_1_optimized_800.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/strategic-navigators-tariff-disruption.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/strategic-navigators-tariff-disruption.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/foot-locker-bus-in-paris-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/foot-locker-bus-in-paris-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/800kb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/800kb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/CPG-trends-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/CPG-trends-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-shortlist.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-shortlist.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/MADFEST-2025-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/MADFEST-2025-Website-1920x1080-1.png"
+    ]
+  ]
+}

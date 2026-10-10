@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/merging-kfcs-iconic-brand-with-unparalleled-convenience-3/",
+  "path": "dept/case/merging-kfcs-iconic-brand-with-unparalleled-convenience-3",
+  "timestamp": "2026-10-09T10:31:12.443Z",
+  "title": "Merging KFC's iconic brand with convenience - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline_500x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline_500x300.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ]
+  ]
+}

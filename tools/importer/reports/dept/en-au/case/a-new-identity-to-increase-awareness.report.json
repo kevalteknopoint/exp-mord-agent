@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/a-new-identity-to-increase-awareness/",
+  "path": "dept/en-au/case/a-new-identity-to-increase-awareness",
+  "timestamp": "2026-10-09T12:17:44.540Z",
+  "title": "A new identity to increase awareness - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "intro-text",
+    "panel-with-rich-text",
+    "call-to-action",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Alzheimer-case-header-1440x810-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Alzheimer-case-header-1440x810-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tom-Dorresteijn.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tom-Dorresteijn.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Alzheimer-case-header-1440x810-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Alzheimer-case-header-1440x810-c.png"
+    ]
+  ]
+}

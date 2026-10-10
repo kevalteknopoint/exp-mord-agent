@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/nye-site-skaber-vaekst-for-scandlines-pa-trods-af-coronapandemien/",
+  "path": "dept/en-dk/case/nye-site-skaber-vaekst-for-scandlines-pa-trods-af-coronapandemien",
+  "timestamp": "2026-10-09T14:35:20.635Z",
+  "title": "Nyt site skaber vækst for Scandlines på trods af coronapandemien - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Scandilines-hero-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Scandilines-hero-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/D-Full-screen-UI-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/D-Full-screen-UI-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/D-Fullscreen-UI-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/D-Fullscreen-UI-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/D-Fullscreen-UI-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/D-Fullscreen-UI-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Aaron_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Aaron_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Scandlines-oversigtbillede.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Scandlines-oversigtbillede.png"
+    ]
+  ]
+}

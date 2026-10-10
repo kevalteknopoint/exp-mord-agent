@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/accelerate-digital-growth-using-salesforce-marketing-cloud/",
+  "path": "dept/case/accelerate-digital-growth-using-salesforce-marketing-cloud",
+  "timestamp": "2026-10-09T10:51:07.301Z",
+  "title": "Accelerating digital growth using Salesforce Marketing Cloud - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/highlights-neu-von-nivea.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/highlights-neu-von-nivea.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-02-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-05-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-05-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/surfers-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/surfers-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg"
+    ]
+  ]
+}

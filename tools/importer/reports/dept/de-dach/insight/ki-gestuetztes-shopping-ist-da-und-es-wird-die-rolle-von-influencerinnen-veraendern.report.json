@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/ki-gestuetztes-shopping-ist-da-und-es-wird-die-rolle-von-influencerinnen-veraendern/",
+  "path": "dept/de-dach/insight/ki-gestuetztes-shopping-ist-da-und-es-wird-die-rolle-von-influencerinnen-veraendern",
+  "timestamp": "2026-10-09T12:10:48.961Z",
+  "title": "KI-gestütztes Shopping ist da – und es wird die Rolle von Influencer:innen verändern - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/thumbs-up-on-wall-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/thumbs-up-on-wall-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT--150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/OpenAI-website-image-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/OpenAI-website-image-1920x1080-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Kenna-portait-selfie.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Kenna-portait-selfie.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/OpenAI-website-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/OpenAI-website-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/ai-transformation-trends-technology-report.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/ai-transformation-trends-technology-report.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/the-future-geo-port.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/the-future-geo-port.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/thumbs-up-on-wall-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/thumbs-up-on-wall-min.jpg"
+    ]
+  ]
+}

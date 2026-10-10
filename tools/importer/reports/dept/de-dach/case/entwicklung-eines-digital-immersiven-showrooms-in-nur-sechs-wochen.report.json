@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/entwicklung-eines-digital-immersiven-showrooms-in-nur-sechs-wochen/",
+  "path": "dept/de-dach/case/entwicklung-eines-digital-immersiven-showrooms-in-nur-sechs-wochen",
+  "timestamp": "2026-10-09T10:58:36.338Z",
+  "title": "Entwicklung eines digital immersiven Showrooms in nur sechs Wochen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Ganni-SS20-MJJ_3405.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Ganni-SS20-MJJ_3405.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/GAN_WINDOW_DRESS_UP_short2-1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/GAN_WINDOW_DRESS_UP_short2-1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/ganni-levis.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/ganni-levis.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/T2775-001-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/T2775-001-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/GAN_SWITCHING.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/GAN_SWITCHING.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ganni-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ganni-1.jpeg"
+    ]
+  ]
+}

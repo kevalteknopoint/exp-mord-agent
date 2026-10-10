@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/creating-alignment-within-digital-products-teams/",
+  "path": "dept/en-au/insight/creating-alignment-within-digital-products-teams",
+  "timestamp": "2026-10-09T12:34:40.541Z",
+  "title": "Creating alignment within digital products teams | DEPT® - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "media-with-text",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Creating-alignment-digital-projects-featured-image.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Creating-alignment-digital-projects-featured-image.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andrew_Chin_Director-Product-Design-Digital-Product-Australia-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andrew_Chin_Director-Product-Design-Digital-Product-Australia-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/how-to-generate-product-ideas-software.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/how-to-generate-product-ideas-software.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/blueorange-building.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/blueorange-building.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Creating-alignment-digital-projects-featured-image.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Creating-alignment-digital-projects-featured-image.jpeg"
+    ]
+  ]
+}

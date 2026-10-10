@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/creating-personalised-collectibles-for-comic-con-fans/",
+  "path": "dept/en-au/case/creating-personalised-collectibles-for-comic-con-fans",
+  "timestamp": "2026-10-09T12:48:16.664Z",
+  "title": "Creating personalised collectibles for Comic Con Fans - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "quote",
+    "video",
+    "video",
+    "title-and-content",
+    "image",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/ebay-comic-con-featured-scaled-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/ebay-comic-con-featured-scaled-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/22-ebay_MCM_ComicCon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/22-ebay_MCM_ComicCon.png"
+    ]
+  ]
+}

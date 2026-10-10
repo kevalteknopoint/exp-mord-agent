@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dept-trends-2025-sydney-edition/",
+  "path": "dept/en-au/event/dept-trends-2025-sydney-edition",
+  "timestamp": "2026-10-09T22:58:08.544Z",
+  "title": "DEPT® Trends 2025: Sydney Edition - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Event-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Event-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Linkedin_event-Trends-2025.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Linkedin_event-Trends-2025.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Linkedin_event-Trends-2025.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Linkedin_event-Trends-2025.png"
+    ]
+  ]
+}

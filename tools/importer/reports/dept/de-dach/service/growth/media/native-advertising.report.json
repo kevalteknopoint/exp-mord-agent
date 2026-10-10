@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/growth/media/native-advertising/",
+  "path": "dept/de-dach/service/growth/media/native-advertising",
+  "timestamp": "2026-10-09T11:26:06.657Z",
+  "title": "Native Advertising - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Media_-Native-Advertising-320x200-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Media_-Native-Advertising-320x200-1-1.png"
+    ]
+  ]
+}

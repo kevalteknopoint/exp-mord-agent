@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-becomes-certified-climate-neutral/",
+  "path": "dept/insight/dept-becomes-certified-climate-neutral",
+  "timestamp": "2026-10-09T21:01:17.473Z",
+  "title": "DEPT® becomes certified climate label - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Dept_Climate-Neutral_PR_Motion-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Dept_Climate-Neutral_PR_Motion-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Dept_Climate-Neutral_PR_Motion-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Dept_Climate-Neutral_PR_Motion-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Dept_Climate-Neutral_PR_Motion-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Dept_Climate-Neutral_PR_Motion-1.png"
+    ]
+  ]
+}

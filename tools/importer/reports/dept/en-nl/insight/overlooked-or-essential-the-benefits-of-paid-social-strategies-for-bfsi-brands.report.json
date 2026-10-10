@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/overlooked-or-essential-the-benefits-of-paid-social-strategies-for-bfsi-brands/",
+  "path": "dept/en-nl/insight/overlooked-or-essential-the-benefits-of-paid-social-strategies-for-bfsi-brands",
+  "timestamp": "2026-10-09T18:45:15.444Z",
+  "title": "The benefits of paid social strategies for BFSI brands - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/BFSI-Insight-image-1200x620-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/BFSI-Insight-image-1200x620-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/frictionless-cx-in-banking.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/frictionless-cx-in-banking.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Banking-and-commerce-strategy_Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/BFSI-Insight-image-1200x620-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/BFSI-Insight-image-1200x620-1.png"
+    ]
+  ]
+}

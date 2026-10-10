@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/the-foundation-for-a-worldwide-platform/",
+  "path": "dept/en-in/case/the-foundation-for-a-worldwide-platform",
+  "timestamp": "2026-10-09T16:22:53.140Z",
+  "title": "The foundation for a worldwide platform - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/eriks-construction.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/eriks-construction.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Eriks_Case_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Eriks_Case_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Picture-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Picture-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Anthony-van-de-Veen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Anthony-van-de-Veen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Reddit-Feature-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Reddit-Feature-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Big-Time-Insight-image-550x344-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Big-Time-Insight-image-550x344-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/ERIKS-Featured-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/ERIKS-Featured-image-1.png"
+    ]
+  ]
+}

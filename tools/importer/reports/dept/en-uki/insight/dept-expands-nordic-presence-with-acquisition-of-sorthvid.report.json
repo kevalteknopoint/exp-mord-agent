@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-expands-nordic-presence-with-acquisition-of-sorthvid/",
+  "path": "dept/en-uki/insight/dept-expands-nordic-presence-with-acquisition-of-sorthvid",
+  "timestamp": "2026-10-09T19:23:22.150Z",
+  "title": "DEPT® expands Nordic presence with acquisition of Sorthvid - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2020-02-25-SORTHVID-Headshots-Copenhagen-Denmark-808-Edit-scaled-1200x750-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2020-02-25-SORTHVID-Headshots-Copenhagen-Denmark-808-Edit-scaled-1200x750-c-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/2020-02-25-SORTHVID-Headshots-Copenhagen-Denmark-808-Edit-scaled-1200x750-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/2020-02-25-SORTHVID-Headshots-Copenhagen-Denmark-808-Edit-scaled-1200x750-c-1.jpg"
+    ]
+  ]
+}

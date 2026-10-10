@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/service/growth/media-strategy-and-planning/",
   "path": "dept/en-au/service/growth/media-strategy-and-planning",
-  "timestamp": "2026-10-08T16:17:05.018Z",
+  "timestamp": "2026-10-09T09:47:22.335Z",
   "title": "Media strategy and planning - DEPT® digital media strategists",
   "template": "dept-service",
   "locale": "en-au",
@@ -10,14 +10,9 @@
     "cta-text",
     "rich-text",
     "routing-banner",
-    "get-in-touch",
-    "footer-top"
+    "get-in-touch"
   ],
-  "fallback": [
-    "rich-text",
-    "routing-banner",
-    "footer-top"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/03/media-strategy-planning-concept.jpg",

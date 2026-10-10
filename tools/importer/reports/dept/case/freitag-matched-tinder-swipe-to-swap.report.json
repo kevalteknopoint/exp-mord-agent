@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/freitag-matched-tinder-swipe-to-swap/",
+  "path": "dept/case/freitag-matched-tinder-swipe-to-swap",
+  "timestamp": "2026-10-09T10:07:21.538Z",
+  "title": "Featured work: FREITAG matched Tinder: Swipe to SWAP - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "stats-panel",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/SWAPxTINDER_NativeDisplayCard_RZ6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Victor-Gigea-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Victor-Gigea-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Header_Etos-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Header_Etos-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Tech-whitelabel-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Tech-whitelabel-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg"
+    ]
+  ]
+}

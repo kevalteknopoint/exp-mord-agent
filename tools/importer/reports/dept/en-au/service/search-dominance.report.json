@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/search-dominance/",
+  "path": "dept/en-au/service/search-dominance",
+  "timestamp": "2026-10-09T14:29:36.635Z",
+  "title": "Search Dominance - DEPT® paid search and organic search",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "title-left-body-right",
+    "image-with-content-cards",
+    "title-left-body-right",
+    "panel-two-media",
+    "title-left-body-right",
+    "title-left-body-right",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-3Q_DEPT--e1679308787762.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-3Q_DEPT--e1679308787762.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Wes-Flippo_Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Wes-Flippo_Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/paid-search-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/paid-search-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/strategic-advisory-growth.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/strategic-advisory-growth.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-agency.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-agency.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

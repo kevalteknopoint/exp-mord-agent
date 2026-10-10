@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/stay-in-the-game-with-the-cleveland-browns-foundation/",
+  "path": "dept/case/stay-in-the-game-with-the-cleveland-browns-foundation",
+  "timestamp": "2026-10-09T10:59:41.040Z",
+  "title": "Encouraging school attendance with the Cleveland Browns Foundation  - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "video",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/stay-in-the-game-still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/stay-in-the-game-still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/stay-in-the-game-welcome-screen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/stay-in-the-game-welcome-screen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/stay-inthe-game-product-uxui-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/stay-inthe-game-product-uxui-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/stay-in-the-game-calendar-view.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/stay-in-the-game-calendar-view.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/stig-photo-for-full-width-min_upscaled-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/stig-photo-for-full-width-min_upscaled-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-signage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/stig-photo-for-full-width-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/stig-photo-for-full-width-min.jpg"
+    ]
+  ]
+}

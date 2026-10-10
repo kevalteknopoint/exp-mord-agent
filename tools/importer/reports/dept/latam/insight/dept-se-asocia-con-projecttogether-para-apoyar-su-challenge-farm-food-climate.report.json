@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-se-asocia-con-projecttogether-para-apoyar-su-challenge-farm-food-climate/",
+  "path": "dept/latam/insight/dept-se-asocia-con-projecttogether-para-apoyar-su-challenge-farm-food-climate",
+  "timestamp": "2026-10-09T23:27:46.463Z",
+  "title": "DEPT® se asocia con ProjectTogether para apoyar su challenge Farm-Food-Climate - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/man-walking-through-field.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/man-walking-through-field.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/FFC-Trigger-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/FFC-Trigger-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/FFC-Trigger-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/FFC-Trigger-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/man-walking-through-field.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/man-walking-through-field.jpg"
+    ]
+  ]
+}

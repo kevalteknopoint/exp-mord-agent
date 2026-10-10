@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/leveraging-influencers-to-speed-up-airport-security-lines/",
+  "path": "dept/en-dk/case/leveraging-influencers-to-speed-up-airport-security-lines",
+  "timestamp": "2026-10-09T14:31:53.581Z",
+  "title": "Leveraging influencers to speed up airport security lines  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Schiphol-influencer-marketing-campaign.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Schiphol-influencer-marketing-campaign.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Schiphol-influencer-marketing-campaign-tiktoks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Schiphol-influencer-marketing-campaign-tiktoks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Schiphol-influencer-marketing-campaign-comments.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Schiphol-influencer-marketing-campaign-comments.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Dept-Schiphol-case-Header-image-1440x810px-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Dept-Schiphol-case-Header-image-1440x810px-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1057277428-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1057277428-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/schipol-airport.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/schipol-airport.jpg"
+    ]
+  ]
+}

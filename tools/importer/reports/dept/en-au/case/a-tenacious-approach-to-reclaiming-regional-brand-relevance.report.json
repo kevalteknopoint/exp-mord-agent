@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/a-tenacious-approach-to-reclaiming-regional-brand-relevance/",
+  "path": "dept/en-au/case/a-tenacious-approach-to-reclaiming-regional-brand-relevance",
+  "timestamp": "2026-10-09T12:21:31.341Z",
+  "title": "A tenacious approach to reclaiming regional brand relevance - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Johnnie-Walker-header-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Johnnie-Walker-header-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Chocomel-x-DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Chocomel-x-DEPT-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Did-somebody-say-Just-Eat-Katy-Pary.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Did-somebody-say-Just-Eat-Katy-Pary.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Milla_johnnie-walker.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Milla_johnnie-walker.jpg"
+    ]
+  ]
+}

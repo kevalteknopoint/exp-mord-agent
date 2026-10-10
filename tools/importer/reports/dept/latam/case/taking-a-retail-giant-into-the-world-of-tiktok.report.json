@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/taking-a-retail-giant-into-the-world-of-tiktok/",
+  "path": "dept/latam/case/taking-a-retail-giant-into-the-world-of-tiktok",
+  "timestamp": "2026-10-09T22:56:13.063Z",
+  "title": "Taking a retail giant into the world of TikTok - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "statement",
+    "video",
+    "statement",
+    "stats-panel",
+    "panel-two-media",
+    "statement",
+    "full-width-image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1098_Retouched.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1098_Retouched.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1463_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1463_Retouched-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_869_Retouched.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_869_Retouched.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1652_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1652_Retouched-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1616_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1616_Retouched-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1218822023-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1218822023-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/therabody-lifestyle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/therabody-lifestyle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1223832759-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1223832759-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg"
+    ]
+  ]
+}

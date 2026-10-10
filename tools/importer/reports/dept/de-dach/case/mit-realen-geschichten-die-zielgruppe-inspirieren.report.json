@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/mit-realen-geschichten-die-zielgruppe-inspirieren/",
+  "path": "dept/de-dach/case/mit-realen-geschichten-die-zielgruppe-inspirieren",
+  "timestamp": "2026-10-09T11:12:36.939Z",
+  "title": "Mit realen Geschichten die Zielgruppe inspirieren",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "panel-two-media",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/SHOT_01_HUBCAP_0041_v2RGB-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/SHOT_01_HUBCAP_0041_v2RGB-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/SHOT_02_PETROL_CAP_0227_v2RGB-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/SHOT_02_PETROL_CAP_0227_v2RGB-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Raleigh_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Raleigh_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ]
+  ]
+}

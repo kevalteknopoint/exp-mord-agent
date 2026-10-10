@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/growth/data-science-machine-learning-ai/",
+  "path": "dept/latam/service/growth/data-science-machine-learning-ai",
+  "timestamp": "2026-10-09T22:30:51.257Z",
+  "title": "Data Science, Machine Learning & AI - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/data-science.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/data-science.jpg"
+    ]
+  ]
+}

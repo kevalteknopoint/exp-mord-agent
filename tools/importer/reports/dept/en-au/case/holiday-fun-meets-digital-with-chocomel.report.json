@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/holiday-fun-meets-digital-with-chocomel/",
+  "path": "dept/en-au/case/holiday-fun-meets-digital-with-chocomel",
+  "timestamp": "2026-10-09T13:08:42.739Z",
+  "title": "Holiday fun meets digital with Chocomel - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/wezijnerweer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/wezijnerweer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jord-Wessels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jord-Wessels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Read-More-Breadcrumb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Read-More-Breadcrumb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Jaeger-LeCoultre-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Jaeger-LeCoultre-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/001-Heinz.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/001-Heinz.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/angewandte-gesundheitspolitik/",
+  "path": "dept/de-dach/case/angewandte-gesundheitspolitik",
+  "timestamp": "2026-10-09T11:24:43.735Z",
+  "title": "Angewandte Gesundheitspolitik - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "panel-with-cards",
+    "video",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/pexels-uriel-mont-6280957-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/pexels-uriel-mont-6280957-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Screens-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Screens-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/EverEstate-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/EverEstate-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/pexels-uriel-mont-6280957.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/pexels-uriel-mont-6280957.jpg"
+    ]
+  ]
+}

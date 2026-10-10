@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/rebuilding-a-classic-flash-game-for-modern-day-play/",
+  "path": "dept/en-in/case/rebuilding-a-classic-flash-game-for-modern-day-play",
+  "timestamp": "2026-10-09T16:10:39.639Z",
+  "title": "Rebuilding a classic Flash game for modern day play - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/cyberchase-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/cyberchase-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CyberchaseProject@2X-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CyberchaseProject-2X-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/cyberchase-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/cyberchase-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/cyberchase-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/cyberchase-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/WP20002_BLAK_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/WP20002_BLAK_11.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CyberchaseProject@2X-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CyberchaseProject-2X-1.jpg"
+    ]
+  ]
+}

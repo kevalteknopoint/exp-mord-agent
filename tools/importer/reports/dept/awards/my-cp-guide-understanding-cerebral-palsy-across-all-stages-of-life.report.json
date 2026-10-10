@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/my-cp-guide-understanding-cerebral-palsy-across-all-stages-of-life/",
+  "path": "dept/awards/my-cp-guide-understanding-cerebral-palsy-across-all-stages-of-life",
+  "timestamp": "2026-10-09T10:29:55.043Z",
+  "title": "My CP Guide - Understanding cerebral palsy across all stages of life - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "cta-text",
+    "jumbotron",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/My-CP-Guide-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/My-CP-Guide-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/My-CP-Guide-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/My-CP-Guide-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Read-More.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Read-More.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/My-CP-Guide-6-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/My-CP-Guide-6-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/driving-sustainability-with-data-visualization/",
+  "path": "dept/en-in/case/driving-sustainability-with-data-visualization",
+  "timestamp": "2026-10-09T15:45:42.242Z",
+  "title": "Driving sustainability with data visualization - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/windmills.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/windmills.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/energy-consumption-data-nrel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/energy-consumption-data-nrel.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/nrel-intelligent-campus-screens.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/nrel-intelligent-campus-screens.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/boy-in-stands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/boy-in-stands.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Hypewear-Visual-Still-02-Desktop-Komprimiert-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Hypewear-Visual-Still-02-Desktop-Komprimiert-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/energy-consumption-data-nrel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/energy-consumption-data-nrel.png"
+    ]
+  ]
+}

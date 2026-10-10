@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/when-containers-meet-serverless-a-match-made-in-heaven/",
+  "path": "dept/insight/when-containers-meet-serverless-a-match-made-in-heaven",
+  "timestamp": "2026-10-09T21:10:52.260Z",
+  "title": "When containers meet serverless: a match made in heaven - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insights-header"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Wesley-Niels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Wesley-Niels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/bild_whitepaper-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/bild_whitepaper-1200x750-c.jpeg"
+    ]
+  ]
+}

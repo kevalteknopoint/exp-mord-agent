@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/webby-awards-dept-agency-argentina/",
+  "path": "dept/latam/insight/webby-awards-dept-agency-argentina",
+  "timestamp": "2026-10-09T22:24:33.341Z",
+  "title": "DEPT®, BASIC® y Hello Monday reciben 23 nominaciones Webby - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "article-post-header",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/webby.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/webby.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Webbys-PR-header-v2-1-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Webbys-PR-header-v2-1-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/webby.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/webby.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/technology/",
+  "path": "dept/en-au/service/growth/technology",
+  "timestamp": "2026-10-09T14:27:38.176Z",
+  "title": "Technology - DEPT® digital experience platforms",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "rich-text",
+    "routing-banner",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Technology-Tools_-Monitor-Effectiveness-of-Media-Buying-320x200-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Technology-Tools_-Monitor-Effectiveness-of-Media-Buying-320x200-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221122_BlFI_6WaysMarketersCanLevergeDataDuringARecession.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221122_BlFI_6WaysMarketersCanLevergeDataDuringARecession.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/orange-blur-on-black-background.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/orange-blur-on-black-background.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/technology.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/technology.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/technology.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/technology.jpg"
+    ]
+  ]
+}

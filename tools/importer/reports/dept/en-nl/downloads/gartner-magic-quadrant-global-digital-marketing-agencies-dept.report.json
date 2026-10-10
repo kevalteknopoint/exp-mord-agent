@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/gartner-magic-quadrant-global-digital-marketing-agencies-dept/",
+  "path": "dept/en-nl/downloads/gartner-magic-quadrant-global-digital-marketing-agencies-dept",
+  "timestamp": "2026-10-09T17:49:49.240Z",
+  "title": "Gartner® Magic Quadrant™ Global Digital Marketing Agencies: DEPT® - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-intro",
+    "image",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-LP-phrase-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-LP-phrase-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-true-magic-quardant.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-true-magic-quardant.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-LP-phrase-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-LP-phrase-1920x1080-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/measure-and-optimize-your-omnichannel-marketing-with-amazon-attribution/",
+  "path": "dept/en-in/insight/measure-and-optimize-your-omnichannel-marketing-with-amazon-attribution",
+  "timestamp": "2026-10-09T17:15:39.440Z",
+  "title": "Measure and optimize your omnichannel marketing with Amazon Attribution - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/amazon-attribtion-concept-small.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/amazon-attribtion-concept-small.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/elina-andrus-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/elina-andrus-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/The-future-of-e-commerce-is-composable-cookieless-sustainable-personal-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/The-future-of-e-commerce-is-composable-cookieless-sustainable-personal-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/e-commerce-trends-2023-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/e-commerce-trends-2023-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/amazon-product-lifecycle.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/amazon-product-lifecycle.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nils-Zundorf.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nils-Zundorf.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/amazon-atribution-concept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/amazon-atribution-concept.jpeg"
+    ]
+  ]
+}

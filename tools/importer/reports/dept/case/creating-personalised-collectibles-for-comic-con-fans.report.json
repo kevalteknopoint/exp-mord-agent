@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/creating-personalised-collectibles-for-comic-con-fans/",
+  "path": "dept/case/creating-personalised-collectibles-for-comic-con-fans",
+  "timestamp": "2026-10-09T10:35:37.141Z",
+  "title": "Creating personalised collectibles for Comic Con Fans - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "quote",
+    "video",
+    "video",
+    "title-and-content",
+    "image",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/ebay-comic-con-featured-scaled-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/ebay-comic-con-featured-scaled-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kfc-box.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kfc-box.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Griffin-funding-mortgage-bankers-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Griffin-funding-mortgage-bankers-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/22-ebay_MCM_ComicCon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/22-ebay_MCM_ComicCon.png"
+    ]
+  ]
+}

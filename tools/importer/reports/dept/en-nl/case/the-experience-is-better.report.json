@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/the-experience-is-better/",
+  "path": "dept/en-nl/case/the-experience-is-better",
+  "timestamp": "2026-10-09T17:28:18.104Z",
+  "title": "The experience is better - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-58-min-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-58-min-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-44-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-44-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-47-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-47-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-55-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-55-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-40-min-e1678806281149.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-40-min-e1678806281149.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-51-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-51-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/01-Post-NS.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/01-Post-NS.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-52-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-52-min.jpg"
+    ]
+  ]
+}

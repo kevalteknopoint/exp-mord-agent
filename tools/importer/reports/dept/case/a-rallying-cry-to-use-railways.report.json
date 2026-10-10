@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-rallying-cry-to-use-railways/",
+  "path": "dept/case/a-rallying-cry-to-use-railways",
+  "timestamp": "2026-10-09T10:44:41.440Z",
+  "title": "A rallying cry to use railways - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "video",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline-hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline-Francis-and-Craig.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline-Francis-and-Craig.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Isostar_Life-is-your-playground.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Isostar_Life-is-your-playground.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline_500x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline_500x300.jpg"
+    ]
+  ]
+}

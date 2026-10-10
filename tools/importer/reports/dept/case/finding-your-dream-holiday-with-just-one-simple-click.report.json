@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/finding-your-dream-holiday-with-just-one-simple-click/",
+  "path": "dept/case/finding-your-dream-holiday-with-just-one-simple-click",
+  "timestamp": "2026-10-09T10:04:53.777Z",
+  "title": "Finding your dream holiday with just one simple click - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1016887284-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1016887284-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/glamping-airlodge.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/glamping-airlodge.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/boutique-camping-santa-maria-village.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/boutique-camping-santa-maria-village.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1280006582-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1280006582-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jeanette-Kerssens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jeanette-Kerssens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/show-carnival-ecomm-store.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/show-carnival-ecomm-store.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1016887284-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1016887284-min-scaled.jpg"
+    ]
+  ]
+}

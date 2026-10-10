@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/3-tips-for-successful-advertising-creative/",
+  "path": "dept/en-in/insight/3-tips-for-successful-advertising-creative",
+  "timestamp": "2026-10-09T16:01:58.050Z",
+  "title": "3 tips for successful advertising creative - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "wrapper",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221019_BlFI_3-Tips-for-Creative-Advertising.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221019_BlFI_3-Tips-for-Creative-Advertising.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221019_BlFI_3-Tips-for-Creative-Advertising.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221019_BlFI_3-Tips-for-Creative-Advertising.jpeg"
+    ]
+  ]
+}

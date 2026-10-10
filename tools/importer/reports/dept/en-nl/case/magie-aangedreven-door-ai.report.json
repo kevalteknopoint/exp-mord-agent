@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/magie-aangedreven-door-ai/",
+  "path": "dept/en-nl/case/magie-aangedreven-door-ai",
+  "timestamp": "2026-10-09T17:08:02.452Z",
+  "title": "Magie aangedreven door AI - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Bol-Sint-spraakbericht-header-2-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Bol-Sint-spraakbericht-header-2-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Bol-Hulpsint-platform-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Bol-Hulpsint-platform-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Bol-Grote-Speelgoed-App-schoen-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Bol-Grote-Speelgoed-App-schoen-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Bol-Sint-spraakbericht-header-2-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Bol-Sint-spraakbericht-header-2-1920x1080-1.png"
+    ]
+  ]
+}

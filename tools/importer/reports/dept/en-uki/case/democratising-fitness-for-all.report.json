@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/democratising-fitness-for-all/",
+  "path": "dept/en-uki/case/democratising-fitness-for-all",
+  "timestamp": "2026-10-09T20:03:30.968Z",
+  "title": "Democratising fitness for all - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/TGG_hero_YT_16x9_ShedCycle-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/TGG_hero_YT_16x9_ShedCycle-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/BYTE_HEAD_SHOTS1238_1-e1707149328146.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/BYTE_HEAD_SHOTS1238_1-e1707149328146.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Helzberg-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Helzberg-12.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/TGG_hero_YT_16x9_CouchPress.png"
+    ]
+  ]
+}

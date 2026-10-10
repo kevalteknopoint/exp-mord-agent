@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/aithyra/",
+  "path": "dept/case/aithyra",
+  "timestamp": "2026-10-09T10:55:59.139Z",
+  "title": "Featured work: Transforming Aithyra through motion design - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/aithyra-human-1350x1080-1600x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/aithyra-human-1350x1080-1600x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/01-Capti-Hero-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/01-Capti-Hero-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/AithyraFeatureFrame.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/AithyraFeatureFrame.jpg"
+    ]
+  ]
+}

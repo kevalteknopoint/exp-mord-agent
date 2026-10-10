@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/opstijgen-naar-de-cloud-websitemigratie-naar-adobe-experience-manager/",
+  "path": "dept/case/opstijgen-naar-de-cloud-websitemigratie-naar-adobe-experience-manager",
+  "timestamp": "2026-10-09T10:38:08.740Z",
+  "title": "Opstijgen naar de cloud: websitemigratie naar Adobe Experience Manager - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1.-Edelweiss_Mockup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1.-Edelweiss_Mockup.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/2.-Edelweiss_Screens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/2.-Edelweiss_Screens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/4.-Edelweiss_Mobile-Screens_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/4.-Edelweiss_Mobile-Screens_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Daniel-Vuilleumier_DEPT.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Daniel-Vuilleumier_DEPT.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1.-Edelweiss_Mockup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1.-Edelweiss_Mockup.jpg"
+    ]
+  ]
+}

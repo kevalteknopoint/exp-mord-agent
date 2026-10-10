@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/agency/raybeam/",
+  "path": "dept/en-in/agency/raybeam",
+  "timestamp": "2026-10-09T14:37:39.080Z",
+  "title": "RAYBEAM/DEPT® - DEPT®",
+  "template": "dept-agency",
+  "locale": "en-in",
+  "components": [
+    "panel-agency-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Offie-Raybeam-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Offie-Raybeam-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

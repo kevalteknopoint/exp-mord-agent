@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/make-beauty-fun-mit-einer-farbenfrohen-roblox-experience-fuer-gen-z-und-alpha/",
+  "path": "dept/de-dach/case/make-beauty-fun-mit-einer-farbenfrohen-roblox-experience-fuer-gen-z-und-alpha",
+  "timestamp": "2026-10-09T11:08:41.994Z",
+  "title": "Eine farbenfrohen Roblox Experience für Gen Z und Alpha - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT%C2%AE-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT--2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/cosnova_cases-collage_dept-4-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/cosnova_cases-collage_dept-4-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Roblox_Case_Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Roblox_Case_Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/van.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/van.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT%C2%AE-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT--2.jpg"
+    ]
+  ]
+}

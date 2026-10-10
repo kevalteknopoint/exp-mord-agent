@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/featured-work-gleneagles-website-ux-ui-design/",
+  "path": "dept/en-in/case/featured-work-gleneagles-website-ux-ui-design",
+  "timestamp": "2026-10-09T15:51:10.167Z",
+  "title": "Redesigning a website from bounce to bookings - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "call-to-action",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Gleneagles_case_hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Gleneagles_case_hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Hoxton_case_hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Hoxton_case_hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Gleneagles_case_hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Gleneagles_case_hero.jpg"
+    ]
+  ]
+}

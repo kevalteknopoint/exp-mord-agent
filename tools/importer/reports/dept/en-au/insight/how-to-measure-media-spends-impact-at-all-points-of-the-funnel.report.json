@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-measure-media-spends-impact-at-all-points-of-the-funnel/",
+  "path": "dept/en-au/insight/how-to-measure-media-spends-impact-at-all-points-of-the-funnel",
+  "timestamp": "2026-10-09T13:14:17.140Z",
+  "title": "How-to: measure media spend’s impact at all points of the funnel",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/De-slag-om-in-app-user-data.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/De-slag-om-in-app-user-data.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Feliks-Malts-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Feliks-Malts-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Feliks-Malts-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Feliks-Malts-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/De-slag-om-in-app-user-data.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/De-slag-om-in-app-user-data.jpg"
+    ]
+  ]
+}

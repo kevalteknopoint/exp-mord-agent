@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/media-strategy-and-planning/sea/",
+  "path": "dept/en-in/service/growth/media-strategy-and-planning/sea",
+  "timestamp": "2026-10-09T16:33:16.739Z",
+  "title": "SEA - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/sea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/sea.jpg"
+    ]
+  ]
+}

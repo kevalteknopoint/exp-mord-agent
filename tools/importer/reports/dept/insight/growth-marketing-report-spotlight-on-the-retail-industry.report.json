@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/growth-marketing-report-spotlight-on-the-retail-industry/",
+  "path": "dept/insight/growth-marketing-report-spotlight-on-the-retail-industry",
+  "timestamp": "2026-10-09T20:46:20.342Z",
+  "title": "Growth Marketing Report: Spotlight on the retail industry - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/abstract-gold.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/abstract-gold.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/2023-Growth-marketing-infographic-retail.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/2023-Growth-marketing-infographic-retail.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/woman-pointing-at-laptop.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/woman-pointing-at-laptop.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/car-driving-winding-road.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/car-driving-winding-road.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/green-archway-with-lights-growth-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/green-archway-with-lights-growth-marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/abstract-gold.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/abstract-gold.png"
+    ]
+  ]
+}

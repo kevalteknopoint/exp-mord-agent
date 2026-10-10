@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/why-stakeholder-experience-matters/",
+  "path": "dept/en-au/insight/why-stakeholder-experience-matters",
+  "timestamp": "2026-10-09T13:23:33.880Z",
+  "title": "Why stakeholder experience matters - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Lets-look-at-stakeholder-experience-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Lets-look-at-stakeholder-experience-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Lets-look-at-stakeholder-experience-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Lets-look-at-stakeholder-experience-500x300-1.png"
+    ]
+  ]
+}

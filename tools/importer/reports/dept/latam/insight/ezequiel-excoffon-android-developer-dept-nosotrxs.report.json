@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/ezequiel-excoffon-android-developer-dept-nosotrxs/",
+  "path": "dept/latam/insight/ezequiel-excoffon-android-developer-dept-nosotrxs",
+  "timestamp": "2026-10-09T23:26:10.864Z",
+  "title": "DEPT®/NOSOTRXS: Ezequiel Excoffon - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "media-with-text",
+    "title-and-content",
+    "fifty-fifty-image-block",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "video"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DSC03142-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DSC03142-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/image-67.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/image-67.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/1661422118013-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/1661422118013-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DSC03142-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DSC03142-1.jpg"
+    ]
+  ]
+}

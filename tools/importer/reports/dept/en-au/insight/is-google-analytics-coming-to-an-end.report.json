@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/is-google-analytics-coming-to-an-end/",
+  "path": "dept/en-au/insight/is-google-analytics-coming-to-an-end",
+  "timestamp": "2026-10-09T13:24:10.355Z",
+  "title": "Is Google Analytics coming to an end? - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-1159761637-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-1159761637-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tobias-Kra%CC%88ft-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tobias-Kra-ft-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-1159761637-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-1159761637-scaled.jpg"
+    ]
+  ]
+}

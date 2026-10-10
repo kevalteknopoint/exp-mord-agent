@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/the-correct-spare-part-in-seconds/",
+  "path": "dept/en-dk/case/the-correct-spare-part-in-seconds",
+  "timestamp": "2026-10-09T13:28:25.268Z",
+  "title": "The correct spare part in seconds - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Jungheinrich-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Jungheinrich-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Jungheinrich-02A.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Jungheinrich-02A.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Jungheinrich-04.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Jungheinrich-04.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ]
+  ]
+}

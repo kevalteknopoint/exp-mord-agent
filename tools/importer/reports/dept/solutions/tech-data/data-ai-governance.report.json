@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/solutions/tech-data/data-ai-governance/",
+  "path": "dept/solutions/tech-data/data-ai-governance",
+  "timestamp": "2026-10-09T22:01:41.039Z",
+  "title": "Data, AI, & governance consulting services - Data strategy services - DEPT®",
+  "template": "dept-solutions",
+  "locale": "global",
+  "components": [
+    "title-block",
+    "image-and-fact",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/millerknoll-website-ui-data-project.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/millerknoll-website-ui-data-project.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/shutterfly-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/shutterfly-logo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Omoda-Feature-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Omoda-Feature-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/data-analytics-consulting-disney.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/data-analytics-consulting-disney.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ai-public-affair-tool.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ai-public-affair-tool.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CPD-CRM-DMP-Insight-1200x630-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CPD-CRM-DMP-Insight-1200x630-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/data-analytics-missing-digital-transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/data-analytics-missing-digital-transformation.jpg"
+    ]
+  ]
+}

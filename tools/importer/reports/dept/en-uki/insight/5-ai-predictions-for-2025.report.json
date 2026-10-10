@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/5-ai-predictions-for-2025/",
+  "path": "dept/en-uki/insight/5-ai-predictions-for-2025",
+  "timestamp": "2026-10-09T18:43:08.142Z",
+  "title": "5 AI predictions for 2025  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/AI-predictions-2025.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/AI-predictions-2025.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Bridget-Fahrland-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Bridget-Fahrland-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Social-media-trends-and-culture-Web-16_9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Social-media-trends-and-culture-Web-16_9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Insight-image-GEO-vs-SEO-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Insight-image-GEO-vs-SEO-1200x670-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/AI-predictions-2025.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/AI-predictions-2025.jpg"
+    ]
+  ]
+}

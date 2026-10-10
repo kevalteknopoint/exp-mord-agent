@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/creative-performance/",
+  "path": "dept/en-au/service/growth/creative-performance",
+  "timestamp": "2026-10-09T14:21:06.640Z",
+  "title": "Creative performance - DEPT® data-driven creative services",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "rich-text",
+    "routing-banner",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/man-face-red-light.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/man-face-red-light.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/digital-trends-2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/digital-trends-2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AI-impact-creative-growth-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AI-impact-creative-growth-engineering.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/creative-performance-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/creative-performance-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/creative-performance-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/creative-performance-concept.jpg"
+    ]
+  ]
+}

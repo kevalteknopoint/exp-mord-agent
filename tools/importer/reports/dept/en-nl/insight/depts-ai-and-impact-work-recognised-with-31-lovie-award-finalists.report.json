@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/depts-ai-and-impact-work-recognised-with-31-lovie-award-finalists/",
+  "path": "dept/en-nl/insight/depts-ai-and-impact-work-recognised-with-31-lovie-award-finalists",
+  "timestamp": "2026-10-09T19:04:13.265Z",
+  "title": "DEPT®’s AI and Impact work recognised with 31 Lovie Award Finalists - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/LovieAward_Insight_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/LovieAward_Insight_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/LovieAward_Insight_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/LovieAward_Insight_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Anthem-Awards-featured-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Anthem-Awards-featured-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/1000x1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/1000x1200.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/webby-awards-2024-featured-Insight-alt.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/webby-awards-2024-featured-Insight-alt.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/LovieAward_Insight_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/LovieAward_Insight_1920x1080.png"
+    ]
+  ]
+}

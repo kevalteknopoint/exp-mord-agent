@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-next-wave-of-fortnite-creative-and-what-it-means-for-brands/",
+  "path": "dept/insight/the-next-wave-of-fortnite-creative-and-what-it-means-for-brands",
+  "timestamp": "2026-10-09T22:02:57.039Z",
+  "title": "The next wave of Fortnite Creative and what it means for brands  - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/fortnite-gaming-unreal-engine.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/fortnite-gaming-unreal-engine.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Isabel-Perry-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Isabel-Perry-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/22-ebay_MCM_ComicCon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/22-ebay_MCM_ComicCon.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/2Website-Insight-Image-The-Last-Of-Us-HBO-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/2Website-Insight-Image-The-Last-Of-Us-HBO-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR-opportunity-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR-opportunity-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Isabel-Perry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Isabel-Perry.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/fortnite-gaming-unreal-engine.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/fortnite-gaming-unreal-engine.jpg"
+    ]
+  ]
+}

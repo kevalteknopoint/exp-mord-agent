@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/an-inspired-b2b-solution-for-a-childrens-lifestyle-brand/",
+  "path": "dept/en-dk/case/an-inspired-b2b-solution-for-a-childrens-lifestyle-brand",
+  "timestamp": "2026-10-09T13:53:32.451Z",
+  "title": "An inspired B2B solution for a children’s lifestyle brand - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/liewood_mockup_hero_low.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/liewood_mockup_hero_low.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Liewood_shop_products.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Liewood_shop_products.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Liewood_Design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Liewood_Design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Liedwood_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Liedwood_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/liewood_mobile_screens_low.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/liewood_mobile_screens_low.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Liewood_Bedroom.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Liewood_Bedroom.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Besteller_Case_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Besteller_Case_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Liedwood_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Liedwood_Hero.jpg"
+    ]
+  ]
+}

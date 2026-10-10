@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/a-game-plan-for-the-post-cookie-web/",
+  "path": "dept/en-nl/event/a-game-plan-for-the-post-cookie-web",
+  "timestamp": "2026-10-09T17:55:29.868Z",
+  "title": "A game plan for the post-cookie web - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Landingpage.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Landingpage.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Cristian-van-Nispen-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Cristian-van-Nispen-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Lisanne-Maatman-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Lisanne-Maatman-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/1560859130223-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/1560859130223-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/1532029548361-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/1532029548361-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Landingpage.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Landingpage.png"
+    ]
+  ]
+}

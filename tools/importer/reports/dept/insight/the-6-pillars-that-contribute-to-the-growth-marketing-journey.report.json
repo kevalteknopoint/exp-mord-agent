@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-6-pillars-that-contribute-to-the-growth-marketing-journey/",
+  "path": "dept/insight/the-6-pillars-that-contribute-to-the-growth-marketing-journey",
+  "timestamp": "2026-10-09T21:51:56.968Z",
+  "title": "The 6 pillars that contribute to the growth marketing journey - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221006_BlFI_6Pillars2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221006_BlFI_6Pillars2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/2022-Overall-Results-2022GrowthMarketingReport-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/2022-Overall-Results-2022GrowthMarketingReport-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221006_BlFI_6Pillars2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221006_BlFI_6Pillars2.jpeg"
+    ]
+  ]
+}

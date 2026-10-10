@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-sets-record-as-network-and-agency-of-the-year-at-the-2023-webby-awards/",
+  "path": "dept/en-au/insight/dept-sets-record-as-network-and-agency-of-the-year-at-the-2023-webby-awards",
+  "timestamp": "2026-10-09T13:31:26.268Z",
+  "title": "DEPT® Sets Record as Network and Agency of the Year at the 2023 Webby Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Featured-500x300-15.17.04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Featured-500x300-15.17.04.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Large-1920x1080-15.17.04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Large-1920x1080-15.17.04.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_-_Insights_Image.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_-_Insights_Image.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Helping_Hand-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Helping_Hand-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Impact-Report-2022_Alternate-Featured-Image_1000-x-1201.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Impact-Report-2022_Alternate-Featured-Image_1000-x-1201.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Featured-500x300-15.17.04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Featured-500x300-15.17.04.png"
+    ]
+  ]
+}

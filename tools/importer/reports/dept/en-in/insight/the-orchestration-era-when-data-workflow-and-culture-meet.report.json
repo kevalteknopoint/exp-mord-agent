@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/the-orchestration-era-when-data-workflow-and-culture-meet/",
+  "path": "dept/en-in/insight/the-orchestration-era-when-data-workflow-and-culture-meet",
+  "timestamp": "2026-10-09T16:48:57.891Z",
+  "title": "The orchestration era: when data, workflow, and culture meet - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Pilot-to-orchestration-feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Pilot-to-orchestration-feature.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Job-Deibel-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Job-Deibel-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/pilot-to-orchestration-4-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/pilot-to-orchestration-4-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Bigger-catalogs-or-better-conversations-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Bigger-catalogs-or-better-conversations-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Pilot-to-orchestration-feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Pilot-to-orchestration-feature.webp"
+    ]
+  ]
+}

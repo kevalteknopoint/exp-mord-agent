@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/partner/cxm-accelerator/",
+  "path": "dept/en-au/partner/cxm-accelerator",
+  "timestamp": "2026-10-09T14:06:43.256Z",
+  "title": "CXM accelerator | Adobe partner | DEPT®",
+  "template": "dept-partner",
+  "locale": "en-au",
+  "components": [
+    "partner-header",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "case-teaser-v2",
+    "title-and-content",
+    "two-cards-and-content",
+    "form-page",
+    "cta-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Adobe.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Adobe.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/adobe-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/adobe-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/smart-1-mobile-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/smart-1-mobile-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Insurance-that-cares-for-customers-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Insurance-that-cares-for-customers-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Tyres_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Tyres_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/HDFC-LTD-Case-portrait.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/HDFC-LTD-Case-portrait.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Partners_Adobe.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Partners_Adobe.jpg"
+    ]
+  ]
+}

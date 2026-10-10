@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/rethinking-heritage-a-modern-revamp-for-an-iconic-brand-2/",
+  "path": "dept/awards/rethinking-heritage-a-modern-revamp-for-an-iconic-brand-2",
+  "timestamp": "2026-10-09T18:50:59.853Z",
+  "title": "Rethinking heritage: A modern revamp for an iconic brand - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "awards-intro",
+    "assets-and-copy",
+    "cta-button",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Ricola_Packshot.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Ricola_Packshot.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Bee.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Bee.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Mobile.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Mobile.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Ricola_LemonMint.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Ricola_LemonMint.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Link.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Link.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Ricola_Packshot.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Ricola_Packshot.png"
+    ]
+  ]
+}

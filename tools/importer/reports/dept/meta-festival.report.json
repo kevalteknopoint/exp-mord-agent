@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/meta-festival/",
+  "path": "dept/meta-festival",
+  "timestamp": "2026-10-09T22:35:58.439Z",
+  "title": "Meta Festival 2022 - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "numbered-carousel",
+    "image",
+    "image-cards",
+    "call-to-action",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Map-Metapolis-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Map-Metapolis-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Meta-Fest-Live-Panel-program.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Meta-Fest-Live-Panel-program.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Meta-Fest-stills-2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Meta-Fest-stills-2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Meta-Fest-2022-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Meta-Fest-2022-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/meta-fest-2022-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/meta-fest-2022-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Meta-Fest-stills-4-e1666023553533-min-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Meta-Fest-stills-4-e1666023553533-min-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/deptxjournee.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/deptxjournee.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Map-Metapolis-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Map-Metapolis-min.png"
+    ]
+  ]
+}

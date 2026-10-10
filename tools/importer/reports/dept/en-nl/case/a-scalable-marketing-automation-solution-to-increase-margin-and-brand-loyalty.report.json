@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-scalable-marketing-automation-solution-to-increase-margin-and-brand-loyalty/",
+  "path": "dept/en-nl/case/a-scalable-marketing-automation-solution-to-increase-margin-and-brand-loyalty",
+  "timestamp": "2026-10-09T17:36:36.162Z",
+  "title": "Automation to increase margin and loyalty - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Holiday2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Holiday2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1165603368-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1165603368-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1158220335-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1158220335-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-van-Alphen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-van-Alphen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1002823828-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1002823828-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Mammut1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Mammut1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-52-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-52-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otravo_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otravo_1-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/serving-up-bold-influencer-campaigns-worth-snacking-on/",
+  "path": "dept/awards/serving-up-bold-influencer-campaigns-worth-snacking-on",
+  "timestamp": "2026-10-09T10:36:13.740Z",
+  "title": "Serving up bold influencer campaigns worth snacking on  - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "awards-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/800kb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/800kb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Pepsico-4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Pepsico-4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Pepsico-6-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Pepsico-6-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Pepsico-8.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Pepsico-8.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/800kb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/800kb.png"
+    ]
+  ]
+}

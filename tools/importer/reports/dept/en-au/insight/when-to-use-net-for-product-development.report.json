@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/when-to-use-net-for-product-development/",
+  "path": "dept/en-au/insight/when-to-use-net-for-product-development",
+  "timestamp": "2026-10-09T13:19:48.341Z",
+  "title": "When to use .NET for product development - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/net-framework-with-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/net-framework-with-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/John-Askew-Dept-e1627486679920-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/John-Askew-Dept-e1627486679920-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/net-framework-with-logo-1024x535.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/net-framework-with-logo-1024x535.png"
+    ]
+  ]
+}

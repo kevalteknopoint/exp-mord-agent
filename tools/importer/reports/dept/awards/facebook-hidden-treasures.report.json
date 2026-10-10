@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/facebook-hidden-treasures/",
+  "path": "dept/awards/facebook-hidden-treasures",
+  "timestamp": "2026-10-09T10:17:43.439Z",
+  "title": "Facebook - Hidden Treasures - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "video",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "video"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Facebook-Meta-still-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Facebook-Meta-still-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Facebook-still-2A.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Facebook-still-2A.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Facebook-Meta-still-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Facebook-Meta-still-2.jpg"
+    ]
+  ]
+}

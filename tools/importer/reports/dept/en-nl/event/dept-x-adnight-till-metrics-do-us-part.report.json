@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/dept-x-adnight-till-metrics-do-us-part/",
+  "path": "dept/en-nl/event/dept-x-adnight-till-metrics-do-us-part",
+  "timestamp": "2026-10-09T18:39:47.941Z",
+  "title": "DEPT® x ADNIGHT - Till metrics do us part - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-intro",
+    "event-content-v2",
+    "event-locations",
+    "event-register",
+    "event-content-v2",
+    "title-block-carousel",
+    "wrapper",
+    "event-people",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Adnight-Event-Header-1920x1080-7.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Adnight-Event-Header-1920x1080-7.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/AdNight-Carousel-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/AdNight-Carousel-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/AdNight-Carousel-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/AdNight-Carousel-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/AdNight-Carousel-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/AdNight-Carousel-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/AdNight-Carousel-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/AdNight-Carousel-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/AdNight-Carousel-5-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/AdNight-Carousel-5-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/AdNight-Carousel-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/AdNight-Carousel-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/AdNight-Carousel-7.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/AdNight-Carousel-7.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/AdNight-Carousel-8.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/AdNight-Carousel-8.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/AdNight-Carousel-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/AdNight-Carousel-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Justin-Resok.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Justin-Resok.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Adnight-Event-Header-1920x1080-3-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Adnight-Event-Header-1920x1080-3-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Adnight-Event-Header-1920x1080-7.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Adnight-Event-Header-1920x1080-7.png"
+    ]
+  ]
+}

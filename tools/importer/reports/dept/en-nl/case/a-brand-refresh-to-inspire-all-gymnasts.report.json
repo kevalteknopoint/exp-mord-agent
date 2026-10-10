@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-brand-refresh-to-inspire-all-gymnasts/",
+  "path": "dept/en-nl/case/a-brand-refresh-to-inspire-all-gymnasts",
+  "timestamp": "2026-10-09T17:26:23.143Z",
+  "title": "A brand refresh to inspire all gymnasts - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/british-gymnastics-hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/british-gymnastics-hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/British-gymnastics-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/British-gymnastics-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/British-Gymnastics-Split.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/British-Gymnastics-Split.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/British-Gymnastics-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/British-Gymnastics-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/British-Gymnastics-Mobile-x-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/British-Gymnastics-Mobile-x-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/bol-sinterklaas-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/bol-sinterklaas-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/download-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/download-8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/british-gymnastics-hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/british-gymnastics-hero.png"
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/creative/motion-designs/",
+  "path": "dept/en-au/service/creative/motion-designs",
+  "timestamp": "2026-10-09T14:13:12.334Z",
+  "title": "Motion design agency | Creative digital marketing agency - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Motion-graphic-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Motion-graphic-1200x750-c.png"
+    ]
+  ]
+}

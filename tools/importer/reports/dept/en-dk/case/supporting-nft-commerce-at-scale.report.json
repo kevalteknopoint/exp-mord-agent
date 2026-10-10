@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/supporting-nft-commerce-at-scale/",
+  "path": "dept/en-dk/case/supporting-nft-commerce-at-scale",
+  "timestamp": "2026-10-09T14:46:25.836Z",
+  "title": "Supporting NFT commerce at scale - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "panel-two-media",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "panel-with-image-and-rich-text",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/machine-gun-kelly2-spin.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/machine-gun-kelly2-spin.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/machine-gun-kelly-spin.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/machine-gun-kelly-spin.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/spin-nft-machine-gun-kelly.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/spin-nft-machine-gun-kelly.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jesse_Streb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jesse_Streb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nivea_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nivea_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Le-Mans_Asset3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Le-Mans_Asset3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/spin-magazine-open-graph.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/spin-magazine-open-graph.png"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-manage-embrace-risk-in-product-development/",
+  "path": "dept/en-au/insight/how-to-manage-embrace-risk-in-product-development",
+  "timestamp": "2026-10-09T13:13:52.739Z",
+  "title": "How to manage & embrace risk in product development - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "form-page"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/product-risk-scaled.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/product-risk-scaled.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/product-risk-scaled.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/product-risk-scaled.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/jo-szczepanska-5aiRb5f464A-unsplash-1-1024x510.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/jo-szczepanska-5aiRb5f464A-unsplash-1-1024x510.jpg"
+    ]
+  ]
+}

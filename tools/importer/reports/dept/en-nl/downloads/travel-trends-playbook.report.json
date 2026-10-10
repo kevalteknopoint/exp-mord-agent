@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/travel-trends-playbook/",
+  "path": "dept/en-nl/downloads/travel-trends-playbook",
+  "timestamp": "2026-10-09T17:54:02.450Z",
+  "title": "Travel Trends Playbook - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/DEPT%C2%AETRAVEL-Trends-Playbook-Landing-Page-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/DEPT-TRAVEL-Trends-Playbook-Landing-Page-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/DEPT%C2%AETRAVEL-Trends-Playbook-Landing-Page-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/DEPT-TRAVEL-Trends-Playbook-Landing-Page-1920x1080-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/mehr-ist-mehr-dank-eigenem-css-fur-ex-libris/",
+  "path": "dept/de-dach/case/mehr-ist-mehr-dank-eigenem-css-fur-ex-libris",
+  "timestamp": "2026-10-09T11:09:43.940Z",
+  "title": "Mehr ist mehr dank eigenem CSS für Ex Libris - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/ExLibris-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/ExLibris-Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/ExLibris-Grafik.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/ExLibris-Grafik.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/just-eat-takeaway-personalized.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/just-eat-takeaway-personalized.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Louis-Widmer-Website-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Louis-Widmer-Website-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/ExLibris-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/ExLibris-Header.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/moderne-shopping-experience-dank-umfangreicher-neuausrichtung/",
+  "path": "dept/de-dach/case/moderne-shopping-experience-dank-umfangreicher-neuausrichtung",
+  "timestamp": "2026-10-09T11:13:02.158Z",
+  "title": "Moderne Shopping Experience dank umfangreicher Neuausrichtung - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "video",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/woman-cA.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/woman-cA.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-02-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-02-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/group-in-ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/group-in-ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-06-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-06-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-07.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-07.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-08-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-08-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-09.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-09.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/ExLibris-Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/ExLibris-Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/woman-cA.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/woman-cA.jpg"
+    ]
+  ]
+}

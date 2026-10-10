@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/geske/",
+  "path": "dept/de-dach/case/geske",
+  "timestamp": "2026-10-09T11:01:34.156Z",
+  "title": "Geske's digitales Erlebnis",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-desktop-uxui.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-desktop-uxui.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-localization.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-localization.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-WebGL.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-WebGL.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-product-rendering.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-product-rendering.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-products.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-products.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-products.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-products.webp"
+    ]
+  ]
+}

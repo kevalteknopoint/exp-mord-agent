@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/mehr-sehen-mit-unravel-van-gogh/",
+  "path": "dept/de-dach/case/mehr-sehen-mit-unravel-van-gogh",
+  "timestamp": "2026-10-09T11:09:54.039Z",
+  "title": "Mehr sehen mit Unravel Van Gogh - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/van.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/van.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/v2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/v2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/van1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/van1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Franklin-Schamhart.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Franklin-Schamhart.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/JBL_Case_Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/JBL_Case_Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1223832759-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1223832759-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/van.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/van.png"
+    ]
+  ]
+}

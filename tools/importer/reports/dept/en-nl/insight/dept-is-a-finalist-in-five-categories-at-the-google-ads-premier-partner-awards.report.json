@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-is-a-finalist-in-five-categories-at-the-google-ads-premier-partner-awards/",
+  "path": "dept/en-nl/insight/dept-is-a-finalist-in-five-categories-at-the-google-ads-premier-partner-awards",
+  "timestamp": "2026-10-09T18:43:09.046Z",
+  "title": "DEPT® is a finalist in five categories at the Google Ads Premier Partner Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Google-Premier-Awards-2023-Insights-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Google-Premier-Awards-2023-Insights-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Ellen-Corrigan-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Ellen-Corrigan-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Ellen-Corrigan-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Ellen-Corrigan-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Google-Premier-Awards-2023-Insights-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Google-Premier-Awards-2023-Insights-1000x1200-1.jpg"
+    ]
+  ]
+}

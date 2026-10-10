@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/bridging-the-opportunity-gap-between-in-person-students-non-traditional-learners/",
+  "path": "dept/en-uki/case/bridging-the-opportunity-gap-between-in-person-students-non-traditional-learners",
+  "timestamp": "2026-10-09T19:47:32.140Z",
+  "title": "Bridging an opportunity gap between students - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "paragraph",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/asu-education-for-humanity-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/asu-education-for-humanity-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/asu-me3-app.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/asu-me3-app.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/boabab-MultiScreen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/boabab-MultiScreen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Signs_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Signs_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ]
+  ]
+}

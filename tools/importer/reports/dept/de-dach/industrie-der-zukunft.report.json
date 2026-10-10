@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/industrie-der-zukunft/",
+  "path": "dept/de-dach/industrie-der-zukunft",
+  "timestamp": "2026-10-09T22:42:12.839Z",
+  "title": "Industrie der Zukunft – Technologie als Schlüssel zum Erfolg - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "industry-post-header",
+    "panel-with-rich-text",
+    "panel-work",
+    "client-panel",
+    "panel-whitepaper",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/sol-tZw3fcjUIpM-unsplash-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/sol-tZw3fcjUIpM-unsplash-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/OMRON.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/OMRON.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Brenntag.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Brenntag.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Glen-Dimplex.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Glen-Dimplex.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Electrolux_logo_white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Electrolux_logo_white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Screenshot-2022-09-22-at-14.44.46.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Screenshot-2022-09-22-at-14.44.46.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/sol-tZw3fcjUIpM-unsplash-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/sol-tZw3fcjUIpM-unsplash-1-1.jpg"
+    ]
+  ]
+}

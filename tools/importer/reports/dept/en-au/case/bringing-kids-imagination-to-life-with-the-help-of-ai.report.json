@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/bringing-kids-imagination-to-life-with-the-help-of-ai/",
+  "path": "dept/en-au/case/bringing-kids-imagination-to-life-with-the-help-of-ai",
+  "timestamp": "2026-10-09T12:34:25.957Z",
+  "title": "Bringing kids' imagination to life with the help of AI - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "quote",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1269732224-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1269732224-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_1-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/footsteps-of-progress-emancipatie-van-vrouwen-in-oost-europa/",
+  "path": "dept/en-nl/case/footsteps-of-progress-emancipatie-van-vrouwen-in-oost-europa",
+  "timestamp": "2026-10-09T18:13:58.140Z",
+  "title": "Footsteps of Progress: Emancipatie van vrouwen in Oost-Europa - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-1-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-1-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Shopify.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ]
+  ]
+}

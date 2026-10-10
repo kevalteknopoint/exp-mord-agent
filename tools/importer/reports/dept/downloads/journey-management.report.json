@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/journey-management/",
+  "path": "dept/downloads/journey-management",
+  "timestamp": "2026-10-09T11:42:36.591Z",
+  "title": "Journey management: Leveling up customer journeys to kickstart CX transformation - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/grey-render-computer-piece.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/grey-render-computer-piece.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Journey-management-Whitepaper-Social-Image-2-US.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Journey-management-Whitepaper-Social-Image-2-US.jpg"
+    ]
+  ]
+}

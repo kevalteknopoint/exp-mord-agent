@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/a-brand-new-design-for-gant/",
+  "path": "dept/en-dk/case/a-brand-new-design-for-gant",
+  "timestamp": "2026-10-09T14:40:25.940Z",
+  "title": "A brand new design for GANT - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/gant-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/gant-design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Visual-Light-206-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Visual-Light-206-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/GANT-3-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/GANT-3-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/GANT-4.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/GANT-4.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/GANT-5a.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/GANT-5a.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/50-50-A.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/50-50-A.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rasmus-Keller.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rasmus-Keller.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/magasin-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/magasin-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/gant-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/gant-design.jpg"
+    ]
+  ]
+}

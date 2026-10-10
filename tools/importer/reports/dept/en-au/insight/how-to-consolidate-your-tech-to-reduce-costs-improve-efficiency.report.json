@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-consolidate-your-tech-to-reduce-costs-improve-efficiency/",
+  "path": "dept/en-au/insight/how-to-consolidate-your-tech-to-reduce-costs-improve-efficiency",
+  "timestamp": "2026-10-09T13:10:29.536Z",
+  "title": "How to consolidate your tech to reduce costs & improve efficiency - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/aerial-view-snowy-landscape.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/aerial-view-snowy-landscape.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/green-arrows-stay-ahead-tech-consolidation.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/green-arrows-stay-ahead-tech-consolidation.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay_Ahead_Loyalty-Featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay_Ahead_Loyalty-Featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/shadow-person-phone-stay-ahead.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/shadow-person-phone-stay-ahead.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Events-Header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Events-Header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/aerial-view-snowy-landscape.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/aerial-view-snowy-landscape.jpg"
+    ]
+  ]
+}

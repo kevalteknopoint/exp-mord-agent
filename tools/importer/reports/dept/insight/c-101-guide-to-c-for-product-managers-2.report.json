@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/c-101-guide-to-c-for-product-managers-2/",
+  "path": "dept/insight/c-101-guide-to-c-for-product-managers-2",
+  "timestamp": "2026-10-09T22:04:02.780Z",
+  "title": "C++ 101: Guide to C++ for Product Managers - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "highlighted-item-listing",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/c-for-product-managers.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/c-for-product-managers.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jesse_Streb-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jesse_Streb-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/c-for-product-managers.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/c-for-product-managers.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/c-example-code-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/c-example-code-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/c-for-product-managers.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/c-for-product-managers.jpeg"
+    ]
+  ]
+}

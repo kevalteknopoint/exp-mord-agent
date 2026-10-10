@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/broad-customer-experience-strategy-and-execution/",
+  "path": "dept/en-in/case/broad-customer-experience-strategy-and-execution",
+  "timestamp": "2026-10-09T14:56:39.935Z",
+  "title": "Broad customer-experience strategy and execution - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/TLC_feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/TLC_feature.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/tlc-e-comm-store.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/tlc-e-comm-store.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/tlc-e-comm-store-product.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/tlc-e-comm-store-product.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/tlc-e-comm-store-mobile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/tlc-e-comm-store-mobile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Ryan-Nicholson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Ryan-Nicholson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Meta-Festival_Whole-World.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Meta-Festival_Whole-World.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/TLC_feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/TLC_feature.jpeg"
+    ]
+  ]
+}

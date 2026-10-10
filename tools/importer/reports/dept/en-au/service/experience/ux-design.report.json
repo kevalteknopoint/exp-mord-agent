@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/experience/ux-design/",
+  "path": "dept/en-au/service/experience/ux-design",
+  "timestamp": "2026-10-09T14:18:30.435Z",
+  "title": "UX & design - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/HeaderUX.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/HeaderUX.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/behind-the-scenes-tour-of-a-rebrand/",
+  "path": "dept/case/behind-the-scenes-tour-of-a-rebrand",
+  "timestamp": "2026-10-09T10:08:07.439Z",
+  "title": "Featured work: Behind-the-scenes tour of Docusign's rebrand - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Docusign-Brand-Image-2-2x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Docusign-Brand-Image-2-2x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/using-docusign.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/using-docusign.webp"
+    ]
+  ]
+}

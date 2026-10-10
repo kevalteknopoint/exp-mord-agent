@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/from-start-up-to-international-player/",
+  "path": "dept/latam/case/from-start-up-to-international-player",
+  "timestamp": "2026-10-09T21:37:21.039Z",
+  "title": "From start-up to international player - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1076106768-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1076106768-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Arctic-Black-Sunglasses-Styling.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Arctic-Black-Sunglasses-Styling.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-104-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-104-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-103-6-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-103-6-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Indian-Black-Sunglasses-Styling.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Indian-Black-Sunglasses-Styling.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Style-Uhr-Sailor-Line-White-Sand-Edelstahl-Lederarmband-Schwarzm7hvEDIq6pS8lY1gd8BRzBngFU-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Style-Uhr-Sailor-Line-White-Sand-Edelstahl-Lederarmband-Schwarzm7hvEDIq6pS8lY1gd8BRzBngFU-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-101-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-101-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/COCACOLA_Hero_16_9-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/COCACOLA_Hero_16_9-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1085747632-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1085747632-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg"
+    ]
+  ]
+}

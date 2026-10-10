@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/enhancing-the-reliability-of-a-vital-resource-in-ireland/",
+  "path": "dept/en-dk/case/enhancing-the-reliability-of-a-vital-resource-in-ireland",
+  "timestamp": "2026-10-09T14:18:51.999Z",
+  "title": "Enhancing the reliability of a vital resource in Ireland - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Feature.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Feature.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann-Agriculture.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann-Agriculture.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Fishing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Fishing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Load-Testing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Load-Testing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Mobile1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Mobile1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Mobile3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Mobile3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Mobile2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Mobile2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Fjordline_featured_image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Fjordline_featured_image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Fishing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Fishing.jpeg"
+    ]
+  ]
+}

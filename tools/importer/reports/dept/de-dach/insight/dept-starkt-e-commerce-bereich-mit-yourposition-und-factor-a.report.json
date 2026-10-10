@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/dept-starkt-e-commerce-bereich-mit-yourposition-und-factor-a/",
+  "path": "dept/de-dach/insight/dept-starkt-e-commerce-bereich-mit-yourposition-und-factor-a",
+  "timestamp": "2026-10-09T11:49:52.469Z",
+  "title": "DEPT® stärkt E-Commerce-Bereich mit Yourposition und Factor-A - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2018/09/Dept_Berlin_Office-10-1-e1543320769127-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2018/09/Dept_Berlin_Office-10-1-e1543320769127-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2018/09/Dept_Berlin_Office-10-1-e1543320769127-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2018/09/Dept_Berlin_Office-10-1-e1543320769127-1200x750-c.jpg"
+    ]
+  ]
+}

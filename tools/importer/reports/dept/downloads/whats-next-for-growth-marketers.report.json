@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/whats-next-for-growth-marketers/",
+  "path": "dept/downloads/whats-next-for-growth-marketers",
+  "timestamp": "2026-10-09T11:47:12.291Z",
+  "title": "What’s next for growth marketers? - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-detail-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/whats-next-seo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/whats-next-seo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/whats-next-seo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/whats-next-seo.jpg"
+    ]
+  ]
+}

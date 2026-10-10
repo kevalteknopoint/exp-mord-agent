@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/redefining-a-150-year-old-brands-digital-presence/",
+  "path": "dept/case/redefining-a-150-year-old-brands-digital-presence",
+  "timestamp": "2026-10-09T10:45:03.380Z",
+  "title": "Heinz - Redefining a 150-year-old brand’s digital presence - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "video",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "statement",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Mobile-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Mobile-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/002-Heinz-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/002-Heinz-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/006-Heinz-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/006-Heinz-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/007-Heinz-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/007-Heinz-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-5-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-5-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/011-Heinz.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/011-Heinz.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Mobiles-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Mobiles-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-7-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-7-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/James-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/James-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/MAKINA_Product_Art_Direction-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/MAKINA_Product_Art_Direction-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-3-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-3-min.jpg"
+    ]
+  ]
+}

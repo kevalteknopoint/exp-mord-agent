@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/the-ultimate-retail-media-guide-50-of-your-top-questions-answered/",
+  "path": "dept/downloads/the-ultimate-retail-media-guide-50-of-your-top-questions-answered",
+  "timestamp": "2026-10-09T11:46:21.856Z",
+  "title": "The ultimate retail media guide: Download the longread | DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ultimate-Retail-media-guide-Header-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ultimate-Retail-media-guide-Header-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ultimate-retail-media-guide-open-graph.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ultimate-retail-media-guide-open-graph.png"
+    ]
+  ]
+}

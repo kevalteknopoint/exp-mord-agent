@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/the-impact-of-automation-on-the-future-of-work/",
+  "path": "dept/en-au/insight/the-impact-of-automation-on-the-future-of-work",
+  "timestamp": "2026-10-09T13:01:43.043Z",
+  "title": "The impact of automation on the future of work - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "image",
+    "intro-text",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Metaverse-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Metaverse-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Isabel-Perry-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Isabel-Perry-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Metaverse-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Metaverse-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Metaverse-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Metaverse-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Metaverse-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Metaverse-2.jpeg"
+    ]
+  ]
+}

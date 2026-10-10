@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/doordash-delivering-social-engagement/",
+  "path": "dept/en-au/case/doordash-delivering-social-engagement",
+  "timestamp": "2026-10-09T12:56:16.445Z",
+  "title": "Featured work: Social engagement for DoorDash | DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-and-content",
+    "assets-and-copy",
+    "title-and-content",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "title-and-content",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Doordash-christmas-fun-theory.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Doordash-christmas-fun-theory.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Doordash-christmas-takeout.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Doordash-christmas-takeout.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Doordash-Christmas-Turkey-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Doordash-Christmas-Turkey-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Doordash-mothers-day-bloom-ad.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Doordash-mothers-day-bloom-ad.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Doordash-mothers-day-bestmom-ad.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Doordash-mothers-day-bestmom-ad.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Doordash-mothers-day-heart-ad.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Doordash-mothers-day-heart-ad.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/doordash-tweets.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/doordash-tweets.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/doordash-mothers-day-campaign-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/doordash-mothers-day-campaign-1.jpg"
+    ]
+  ]
+}

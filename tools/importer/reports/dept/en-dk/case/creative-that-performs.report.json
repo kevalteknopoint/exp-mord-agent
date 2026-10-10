@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/creative-that-performs/",
+  "path": "dept/en-dk/case/creative-that-performs",
+  "timestamp": "2026-10-09T14:13:14.043Z",
+  "title": "Creative that performs - DEPT® x Meta creative performance",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Meta-cricket-friends-insta.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Meta-cricket-friends-insta.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Meta-cricket-insta.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Meta-cricket-insta.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Meta-four-friends-insta.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Meta-four-friends-insta.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/ITA-Group-Case-Image-Mockup-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/ITA-Group-Case-Image-Mockup-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Meta-case_itsyourworld-custom_1920x1080.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Meta-case_itsyourworld-custom_1920x1080.jpg"
+    ]
+  ]
+}

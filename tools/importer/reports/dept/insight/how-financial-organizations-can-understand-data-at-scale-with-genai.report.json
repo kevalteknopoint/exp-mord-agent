@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-financial-organizations-can-understand-data-at-scale-with-genai/",
+  "path": "dept/insight/how-financial-organizations-can-understand-data-at-scale-with-genai",
+  "timestamp": "2026-10-09T20:53:29.354Z",
+  "title": "How financial organizations can understand data at scale with GenAI - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/scale-data-understanding.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/scale-data-understanding.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/CX-in-bfsi.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/CX-in-bfsi.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/jaeger-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/jaeger-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/fortnite-gaming-unreal-engine.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/fortnite-gaming-unreal-engine.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/How-financial-organizations-understand-data-scale-GenAI.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/a-global-rebrand-for-the-experts-in-shipping/",
+  "path": "dept/en-dk/case/a-global-rebrand-for-the-experts-in-shipping",
+  "timestamp": "2026-10-09T14:41:42.239Z",
+  "title": "A global rebrand for the experts in shipping - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-58-min-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-58-min-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-44-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-44-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-47-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-47-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-55-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-55-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-40-min-e1678806281149.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-40-min-e1678806281149.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-51-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-51-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/HYVA-Case-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/HYVA-Case-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Template-Full-screen-52-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Template-Full-screen-52-min.jpg"
+    ]
+  ]
+}

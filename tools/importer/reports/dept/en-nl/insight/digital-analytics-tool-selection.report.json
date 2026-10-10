@@ -1,0 +1,79 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/digital-analytics-tool-selection/",
+  "path": "dept/en-nl/insight/digital-analytics-tool-selection",
+  "timestamp": "2026-10-09T19:05:56.945Z",
+  "title": "Digital Analytics - Tool Selection - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/lukas-blazek-mcSDtbWXUZU-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/lukas-blazek-mcSDtbWXUZU-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Tool-Selection-Graph-1-ENG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Tool-Selection-Graph-1-ENG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Tool-Selection-Graph-3-ENG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Tool-Selection-Graph-3-ENG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Grafik-17.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Grafik-17.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Tool-Selection-Graph-5-ENG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Tool-Selection-Graph-5-ENG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Tool-Selection-Graph-2-ENG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Tool-Selection-Graph-2-ENG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Grafik-15-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Grafik-15-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Tool-Selection-Graph-4-ENG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Tool-Selection-Graph-4-ENG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/lukas-blazek-mcSDtbWXUZU-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/lukas-blazek-mcSDtbWXUZU-unsplash-scaled.jpg"
+    ]
+  ]
+}

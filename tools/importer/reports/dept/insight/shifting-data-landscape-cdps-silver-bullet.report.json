@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/shifting-data-landscape-cdps-silver-bullet/",
+  "path": "dept/insight/shifting-data-landscape-cdps-silver-bullet",
+  "timestamp": "2026-10-09T21:42:37.834Z",
+  "title": "The shifting data landscape: are CDPs the silver bullet? - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "jumbotron",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/iStock-875039156.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/iStock-875039156.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/iStock-1279395367.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/iStock-1279395367.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/iStock-875039156.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/iStock-875039156.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Header-Landing-Page-Textless-Version-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Header-Landing-Page-Textless-Version-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Matt-Lacey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Matt-Lacey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/iStock-875039156.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/iStock-875039156.jpg"
+    ]
+  ]
+}

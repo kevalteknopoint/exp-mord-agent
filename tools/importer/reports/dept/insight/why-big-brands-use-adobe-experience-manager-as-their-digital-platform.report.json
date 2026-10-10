@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/why-big-brands-use-adobe-experience-manager-as-their-digital-platform/",
+  "path": "dept/insight/why-big-brands-use-adobe-experience-manager-as-their-digital-platform",
+  "timestamp": "2026-10-09T21:13:31.941Z",
+  "title": "Why big brands use Adobe Experience Manager as their digital platform - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/WHY-BIG-BRANDS-USE-ADOBE-EXPERIENCE-MANAGER-AS-THEIR-DIGITAL-PLATFORM-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/WHY-BIG-BRANDS-USE-ADOBE-EXPERIENCE-MANAGER-AS-THEIR-DIGITAL-PLATFORM-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/WHY-BIG-BRANDS-USE-ADOBE-EXPERIENCE-MANAGER-AS-THEIR-DIGITAL-PLATFORM-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/WHY-BIG-BRANDS-USE-ADOBE-EXPERIENCE-MANAGER-AS-THEIR-DIGITAL-PLATFORM-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/WHY-BIG-BRANDS-USE-ADOBE-EXPERIENCE-MANAGER-AS-THEIR-DIGITAL-PLATFORM-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/WHY-BIG-BRANDS-USE-ADOBE-EXPERIENCE-MANAGER-AS-THEIR-DIGITAL-PLATFORM-1.jpg"
+    ]
+  ]
+}

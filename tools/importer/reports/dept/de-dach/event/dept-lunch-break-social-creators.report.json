@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-lunch-break-social-creators/",
+  "path": "dept/de-dach/event/dept-lunch-break-social-creators",
+  "timestamp": "2026-10-09T10:59:25.491Z",
+  "title": "DEPT® Lunch Break: Social & Creators - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/DEPT%C2%AE-Lunch-Break-Social-Creators-event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/DEPT--Lunch-Break-Social-Creators-event-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Guylou-Werner-Dept-2-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Guylou-Werner-Dept-2-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Salome-3-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Salome-3-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Heleen-2-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Heleen-2-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/DEPT%C2%AE-Lunch-Break-Social-Creators-event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/DEPT--Lunch-Break-Social-Creators-event-header.jpg"
+    ]
+  ]
+}

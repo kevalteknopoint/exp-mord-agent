@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/bol-sint/",
+  "path": "dept/awards/bol-sint",
+  "timestamp": "2026-10-09T10:06:25.586Z",
+  "title": "Bol - The store that delivers smiles. - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/1-KV.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/1-KV.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/QUOTES-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/QUOTES-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/RESULTS.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/RESULTS.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/5.jpg"
+    ]
+  ]
+}

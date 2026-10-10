@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/building-a-durable-e-commerce-platform-for-a-purpose-driven-brand/",
+  "path": "dept/case/building-a-durable-e-commerce-platform-for-a-purpose-driven-brand",
+  "timestamp": "2026-10-09T10:14:05.454Z",
+  "title": "Featured work: Jonsson Workwear e-commerce platform - DEPT® - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/complete-the-look-ux-jonsson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/complete-the-look-ux-jonsson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/category-module-jonsson-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/category-module-jonsson-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/jonsson-workwear-ux-module.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/jonsson-workwear-ux-module.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/jonsson-product-photography2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/jonsson-product-photography2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/jonsson-product-photography3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/jonsson-product-photography3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/jonsson-product-photography1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/jonsson-product-photography1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20201203_161611.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20201203_161611.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/jonsson-product-photography2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/jonsson-product-photography2.jpg"
+    ]
+  ]
+}

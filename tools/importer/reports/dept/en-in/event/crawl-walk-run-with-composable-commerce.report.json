@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/crawl-walk-run-with-composable-commerce/",
+  "path": "dept/en-in/event/crawl-walk-run-with-composable-commerce",
+  "timestamp": "2026-10-09T15:45:54.071Z",
+  "title": "Crawl, Walk, Run with Composable Commerce - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Crawl-walk-run-with-composable-commerce-event-header-1905x927-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Crawl-walk-run-with-composable-commerce-event-header-1905x927-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Ryan-Nicholson-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Ryan-Nicholson-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/steve-holsinger-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/steve-holsinger-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Crawl-walk-run-with-composable-commerce-event-header-1905x927-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Crawl-walk-run-with-composable-commerce-event-header-1905x927-1.jpg"
+    ]
+  ]
+}

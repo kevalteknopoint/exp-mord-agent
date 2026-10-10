@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/een-eeuwenoud-sportmerk-zijn-plek-helpen-vinden-in-de-culturele-sector/",
+  "path": "dept/case/een-eeuwenoud-sportmerk-zijn-plek-helpen-vinden-in-de-culturele-sector",
+  "timestamp": "2026-10-09T10:48:16.879Z",
+  "title": "Een eeuwenoud sportmerk zijn plek helpen vinden in de culturele sector - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Wilson_Case-Study_Brand-Carousel_01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/wilson-brand-identity.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/wilson-brand-identity.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/asher-wren-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/asher-wren-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Final-hero-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Final-hero-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/wilson-sportwear-man.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/wilson-sportwear-man.jpg"
+    ]
+  ]
+}

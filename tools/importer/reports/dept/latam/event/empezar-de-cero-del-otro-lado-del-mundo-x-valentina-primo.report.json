@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/event/empezar-de-cero-del-otro-lado-del-mundo-x-valentina-primo/",
+  "path": "dept/latam/event/empezar-de-cero-del-otro-lado-del-mundo-x-valentina-primo",
+  "timestamp": "2026-10-09T23:44:08.539Z",
+  "title": "Empezar de cero del otro lado del mundo x Valentina Primo - DEPT®",
+  "template": "dept-event",
+  "locale": "latam",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Zoom-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Zoom-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-22-at-13.04.08.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-22-at-13.04.08.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Soledad-Salas-web-Soledad-Salas-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Soledad-Salas-web-Soledad-Salas-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-11-at-13.54.51-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/WhatsApp-Image-2024-01-11-at-13.54.51-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Zoom-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Zoom-1-1.jpg"
+    ]
+  ]
+}

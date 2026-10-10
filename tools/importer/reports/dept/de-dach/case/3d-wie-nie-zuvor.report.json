@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/3d-wie-nie-zuvor/",
+  "path": "dept/de-dach/case/3d-wie-nie-zuvor",
+  "timestamp": "2026-10-09T11:22:32.924Z",
+  "title": "3D wie nie zuvor - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/bues-swissmania.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/bues-swissmania.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Suisse-Mania-v8.jpg-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Suisse-Mania-v8.jpg-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/50-years-swiss-music-charts.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/50-years-swiss-music-charts.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Helzberg-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Helzberg-12.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Piech-Thumbnail.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Piech-Thumbnail.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Suisse-Mania-v8.jpg-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Suisse-Mania-v8.jpg-scaled.jpeg"
+    ]
+  ]
+}

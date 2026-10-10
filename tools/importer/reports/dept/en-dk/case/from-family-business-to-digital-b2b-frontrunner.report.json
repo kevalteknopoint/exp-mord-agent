@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/from-family-business-to-digital-b2b-frontrunner/",
+  "path": "dept/en-dk/case/from-family-business-to-digital-b2b-frontrunner",
+  "timestamp": "2026-10-09T14:21:38.576Z",
+  "title": "From family business to digital B2B frontrunner - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-6-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-6-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-10A.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-10A.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-10B-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-10B-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-8-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/02/sidekix-media-RwXneIyqxAw-unsplash-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/02/sidekix-media-RwXneIyqxAw-unsplash-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/D-Hero-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/D-Hero-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/02/Plieger_16-9-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/02/Plieger_16-9-1024x576.png"
+    ]
+  ]
+}

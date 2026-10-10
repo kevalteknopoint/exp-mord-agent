@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-dept-digital-products-is-using-generative-ai-to-build-better-products/",
+  "path": "dept/en-au/insight/how-dept-digital-products-is-using-generative-ai-to-build-better-products",
+  "timestamp": "2026-10-09T12:58:53.342Z",
+  "title": "How DEPT®/Digital Products is using generative AI to build better products - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/digital-products-generative-AI-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/digital-products-generative-AI-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Raymond_Cook_Senior-Engineering-Manager-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Raymond_Cook_Senior-Engineering-Manager-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/optical-recognition-grandmas-recipe-long.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/optical-recognition-grandmas-recipe-long.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-metal-closeup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-metal-closeup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/validating-product-ideas-1000-x-1200-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/validating-product-ideas-1000-x-1200-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Soft-skills-product-development-insights.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Soft-skills-product-development-insights.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/digital-products-generative-AI-min-1024x538.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/digital-products-generative-AI-min-1024x538.jpg"
+    ]
+  ]
+}

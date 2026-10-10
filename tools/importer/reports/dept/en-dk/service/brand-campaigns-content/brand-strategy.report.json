@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/brand-campaigns-content/brand-strategy/",
+  "path": "dept/en-dk/service/brand-campaigns-content/brand-strategy",
+  "timestamp": "2026-10-09T15:33:14.987Z",
+  "title": "Brand Strategy - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DSF9791-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DSF9791-1200x750-c.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/transforming-the-customer-experience-with-composable-commerce/",
+  "path": "dept/en-au/service/transforming-the-customer-experience-with-composable-commerce",
+  "timestamp": "2026-10-09T23:06:31.635Z",
+  "title": "Transforming CX with composable commerce - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "jumbotron",
+    "information-with-two-content-cards",
+    "client-panel",
+    "text-block-hero",
+    "image",
+    "two-column-two-row-list",
+    "text-block-hero",
+    "image",
+    "two-column-two-row-list",
+    "cta-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Ecommerce-design-system.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Ecommerce-design-system.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/composable-storefront-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/composable-storefront-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Gant.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Gant.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Just-Eat.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Just-Eat.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Otrium.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Otrium.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Shoe-Carnival.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Shoe-Carnival.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Therabody.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Therabody.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Under-Armour.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Under-Armour.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Vineyard-Vines.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Vineyard-Vines.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Vineyard-Vines-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Vineyard-Vines-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Shoe-Carnival-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Shoe-Carnival-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/composable-storefront-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/composable-storefront-1.png"
+    ]
+  ]
+}

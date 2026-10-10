@@ -1,0 +1,86 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/using-social-media-to-create-a-conversation-around-mental-health/",
+  "path": "dept/en-dk/case/using-social-media-to-create-a-conversation-around-mental-health",
+  "timestamp": "2026-10-09T13:32:09.240Z",
+  "title": "Creating a conversation around mental health - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/EzV92TnUcAUckZK-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/EzV92TnUcAUckZK-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-121-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-121-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/ExuEY0TWUAA-vBw-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/ExuEY0TWUAA-vBw-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-122-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-122-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/E0zA4eBXsAMtYnU-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/E0zA4eBXsAMtYnU-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Screenshot-2021-07-02-at-08.43.50.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Screenshot-2021-07-02-at-08.43.50.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-123-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-123-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/EzV-Oj0VoAMhmOb-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/EzV-Oj0VoAMhmOb-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Simon-Walsch-1-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Simon-Walsch-1-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Shopify.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1254128245-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1254128245-1-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/new-goodhabitz-website-puts-marketing-in-the-spotlight/",
+  "path": "dept/en-dk/case/new-goodhabitz-website-puts-marketing-in-the-spotlight",
+  "timestamp": "2026-10-09T14:34:47.816Z",
+  "title": "Putting marketing in the spotlight - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1220413167-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1220413167-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/teamwork.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/teamwork.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Habitz-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Habitz-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1187304458-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1187304458-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1221479375-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1221479375-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/newsitenl.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/newsitenl.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/JYSK-AI-insight-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/JYSK-AI-insight-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1313751774-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1313751774-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/HomeTeam_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/HomeTeam_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1187304458-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1187304458-1-scaled.jpg"
+    ]
+  ]
+}

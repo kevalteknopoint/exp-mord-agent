@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/de-ultieme-retail-media-gids-50-veelgestelde-vragen-beantwoord/",
+  "path": "dept/en-nl/downloads/de-ultieme-retail-media-gids-50-veelgestelde-vragen-beantwoord",
+  "timestamp": "2026-10-09T17:45:37.034Z",
+  "title": "De ultieme retail media gids – 50 veelgestelde vragen beantwoord - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ultimate-Retail-media-guide-Header-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ultimate-Retail-media-guide-Header-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ultimate-retail-media-guide-open-graph-1024x535.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ultimate-retail-media-guide-open-graph-1024x535.png"
+    ]
+  ]
+}

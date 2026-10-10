@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/stop-interrupting-and-start-inspiring-brands-and-pinterest/",
+  "path": "dept/en-au/insight/stop-interrupting-and-start-inspiring-brands-and-pinterest",
+  "timestamp": "2026-10-09T12:50:56.041Z",
+  "title": "Stop interrupting and start inspiring - brands and Pinterest - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Office-ROT-16-e1559743142921-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Office-ROT-16-e1559743142921-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Pinterest-2.livia-585x585-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Pinterest-2.livia-585x585-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Pinterest-1livia-585x585-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Pinterest-1livia-585x585-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/pinterest-search-methods-1200x675-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/pinterest-search-methods-1200x675-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Office-ROT-16-e1559743142921-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Office-ROT-16-e1559743142921-1.jpg"
+    ]
+  ]
+}

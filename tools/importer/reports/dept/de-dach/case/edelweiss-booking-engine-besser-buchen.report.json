@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/edelweiss-booking-engine-besser-buchen/",
+  "path": "dept/de-dach/case/edelweiss-booking-engine-besser-buchen",
+  "timestamp": "2026-10-09T11:40:25.082Z",
+  "title": "Edelweiss Booking Engine: Besser buchen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Stefan-Tan_-HV-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Stefan-Tan_-HV-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/09/gabriel-kuenzi-gPnmFiG_lew-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/09/gabriel-kuenzi-gPnmFiG_lew-unsplash-scaled.jpg"
+    ]
+  ]
+}

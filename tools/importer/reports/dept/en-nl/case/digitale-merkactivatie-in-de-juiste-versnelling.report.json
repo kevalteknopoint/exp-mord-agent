@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/digitale-merkactivatie-in-de-juiste-versnelling/",
+  "path": "dept/en-nl/case/digitale-merkactivatie-in-de-juiste-versnelling",
+  "timestamp": "2026-10-09T18:07:14.235Z",
+  "title": "Digitale merkactivatie in de juiste versnelling - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Gazelle-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Gazelle-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Gazelle-06.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Gazelle-06.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Gazelle-08-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Gazelle-08-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Coen-Huijsmans.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Coen-Huijsmans.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Kali-Healthcare-38-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Kali-Healthcare-38-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-canvas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-canvas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/boy-in-stands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/boy-in-stands.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Gazelle-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Gazelle-02.jpg"
+    ]
+  ]
+}

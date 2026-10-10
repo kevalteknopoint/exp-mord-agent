@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/what-you-need-to-know-about-metas-new-beneficiary-and-payer-requirements/",
+  "path": "dept/en-dk/insight/what-you-need-to-know-about-metas-new-beneficiary-and-payer-requirements",
+  "timestamp": "2026-10-09T15:21:33.640Z",
+  "title": "What you need to know about Meta’s new beneficiary and payer requirements - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Meta-Beneficiary-and-Payer-Requirements-600x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Meta-Beneficiary-and-Payer-Requirements-600x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Kasper-Koletzki-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Kasper-Koletzki-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Kasper-Koletzki.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Kasper-Koletzki.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Meta-Beneficiary-and-Payer-Requirements-600x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Meta-Beneficiary-and-Payer-Requirements-600x300-1.png"
+    ]
+  ]
+}

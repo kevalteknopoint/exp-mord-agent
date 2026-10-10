@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/growth/marktplaetze/google/",
+  "path": "dept/de-dach/service/growth/marktplaetze/google",
+  "timestamp": "2026-10-09T11:25:27.461Z",
+  "title": "Google - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dept_Berlin_Office-18-e1557927654252.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dept_Berlin_Office-18-e1557927654252.jpg"
+    ]
+  ]
+}

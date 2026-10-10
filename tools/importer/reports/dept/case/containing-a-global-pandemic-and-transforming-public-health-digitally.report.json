@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/containing-a-global-pandemic-and-transforming-public-health-digitally/",
+  "path": "dept/case/containing-a-global-pandemic-and-transforming-public-health-digitally",
+  "timestamp": "2026-10-09T10:28:35.250Z",
+  "title": "Containing a global pandemic through digital - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "statement",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1214593011-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1214593011-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-148-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-148-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-147-4-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-147-4-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-149-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-149-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Ashley_Streb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Ashley_Streb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Layla-Sleep-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Layla-Sleep-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Otrium-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Otrium-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Dr-Martens-dept-branding-16x9-1-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ]
+  ]
+}

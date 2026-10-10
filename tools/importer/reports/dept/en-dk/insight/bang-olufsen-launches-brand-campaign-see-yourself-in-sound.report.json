@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/bang-olufsen-launches-brand-campaign-see-yourself-in-sound/",
+  "path": "dept/en-dk/insight/bang-olufsen-launches-brand-campaign-see-yourself-in-sound",
+  "timestamp": "2026-10-09T14:05:24.240Z",
+  "title": "Bang & Olufsen launches brand campaign: See Yourself In Sound - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/BANG-OLUFSEN.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/BANG-OLUFSEN.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/anders-jessen-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/anders-jessen-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/anders-jessen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/anders-jessen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/BANG-OLUFSEN.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/BANG-OLUFSEN.png"
+    ]
+  ]
+}

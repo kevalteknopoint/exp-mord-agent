@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/digital-due-diligence/",
+  "path": "dept/en-au/service/digital-due-diligence",
+  "timestamp": "2026-10-09T14:13:59.485Z",
+  "title": "Digital due diligence risk assessment services - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "rich-text",
+    "media-with-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/digital-due-dilligence-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/digital-due-dilligence-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220816_BlFI_MaintainMarketingEffectiveness.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220816_BlFI_MaintainMarketingEffectiveness.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220823_BlFI_DueDilligence.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220823_BlFI_DueDilligence.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20230125_BlFI_SecretWeaponforInvestors.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20230125_BlFI_SecretWeaponforInvestors.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/digital-technology-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/digital-technology-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/digital-technology-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/digital-technology-abstract.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/redefining-innovation-ecommerce/",
+  "path": "dept/en-nl/insight/redefining-innovation-ecommerce",
+  "timestamp": "2026-10-09T18:50:29.043Z",
+  "title": "Redefining innovation in e-commerce - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "call-to-action",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-choose-a-cms-or-dxp/",
+  "path": "dept/insight/how-to-choose-a-cms-or-dxp",
+  "timestamp": "2026-10-09T22:09:36.175Z",
+  "title": "How to choose a CMS or DXP - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-statement",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/green-and-orange-plastic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/green-and-orange-plastic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Untitled-design-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Untitled-design-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/RAG-solutions-LLMs_AI-concept-1200x670px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/RAG-solutions-LLMs_AI-concept-1200x670px.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-x-Shopify-orange-dress.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-x-Shopify-orange-dress.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/green-and-orange-plastic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/green-and-orange-plastic.png"
+    ]
+  ]
+}

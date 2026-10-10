@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/one-client-one-agency-joint-success/",
+  "path": "dept/en-au/case/one-client-one-agency-joint-success",
+  "timestamp": "2026-10-09T22:57:20.241Z",
+  "title": "One client. One agency. Joint success. - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "panel-work",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Star-Atlas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Star-Atlas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/healthtech-case-study-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/healthtech-case-study-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/39_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ]
+  ]
+}

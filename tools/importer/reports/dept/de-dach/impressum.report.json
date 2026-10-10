@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/impressum/",
+  "path": "dept/de-dach/impressum",
+  "timestamp": "2026-10-09T11:08:53.039Z",
+  "title": "Impressum - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Berlin_Office-19-1200x750-c-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Berlin_Office-19-1200x750-c-1-1.jpg"
+    ]
+  ]
+}

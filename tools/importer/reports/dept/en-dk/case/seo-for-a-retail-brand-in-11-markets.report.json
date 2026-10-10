@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/seo-for-a-retail-brand-in-11-markets/",
+  "path": "dept/en-dk/case/seo-for-a-retail-brand-in-11-markets",
+  "timestamp": "2026-10-09T14:44:30.639Z",
+  "title": "SEO for a retail brand in 11 markets - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/09_Brand_Equity_Phase_I_Lips_Jokes_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/09_Brand_Equity_Phase_I_Lips_Jokes_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/13_Brand_Equity_Phase_I_xx_xx_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/13_Brand_Equity_Phase_I_xx_xx_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/07_Brand_Equity_Phase_I_Hands_Hold_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/07_Brand_Equity_Phase_I_Hands_Hold_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Douglas_Case_Magazin_Teaser.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Douglas_Case_Magazin_Teaser.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Douglas-Grau-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Douglas-Grau-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/unnamed-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/unnamed-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ]
+  ]
+}

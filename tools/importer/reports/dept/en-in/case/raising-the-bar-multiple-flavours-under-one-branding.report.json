@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/raising-the-bar-multiple-flavours-under-one-branding/",
+  "path": "dept/en-in/case/raising-the-bar-multiple-flavours-under-one-branding",
+  "timestamp": "2026-10-09T16:09:39.436Z",
+  "title": "CORNY BIG: Amazon branding and content strategy",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "panel-with-image-and-rich-text",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/schwartau-main-banner-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/schwartau-main-banner-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/pdp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/pdp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/schwartau-end-banner-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/schwartau-end-banner-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Natacha-Steyn-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Natacha-Steyn-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/IDFC-First-Bank-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/IDFC-First-Bank-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Corny-Big-Case-Featured-Image-500x344-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Corny-Big-Case-Featured-Image-500x344-1.jpeg"
+    ]
+  ]
+}

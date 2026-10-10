@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/insight/unlocking-the-potential-of-composable-architecture-with-content-modeling/",
   "path": "dept/en-au/insight/unlocking-the-potential-of-composable-architecture-with-content-modeling",
-  "timestamp": "2026-10-08T16:16:06.384Z",
+  "timestamp": "2026-10-09T09:46:04.780Z",
   "title": "Unlocking the potential of Composable Architecture with content modeling - DEPT®",
   "template": "dept-insight",
   "locale": "en-au",
@@ -26,12 +26,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "image",
-    "image",
-    "image",
-    "image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/05/Unlocking-potential-Composable-Architecture-content-modeling.jpg",

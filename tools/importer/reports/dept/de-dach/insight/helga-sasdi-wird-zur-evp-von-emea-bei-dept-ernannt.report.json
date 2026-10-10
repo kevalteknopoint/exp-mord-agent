@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/helga-sasdi-wird-zur-evp-von-emea-bei-dept-ernannt/",
+  "path": "dept/de-dach/insight/helga-sasdi-wird-zur-evp-von-emea-bei-dept-ernannt",
+  "timestamp": "2026-10-09T22:45:46.639Z",
+  "title": "Helga Sásdi wird zur EVP von EMEA bei DEPT® ernannt - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Helga-new-hire-16x9-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Helga-new-hire-16x9-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-Insight-Header-16x9-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-Insight-Header-16x9-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/PR-Salamander-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/PR-Salamander-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Helga-new-hire-16x9-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Helga-new-hire-16x9-2.jpg"
+    ]
+  ]
+}

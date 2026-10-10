@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/studenten-weer-naar-de-bioscoopzalen-trekken/",
+  "path": "dept/en-nl/case/studenten-weer-naar-de-bioscoopzalen-trekken",
+  "timestamp": "2026-10-09T17:26:14.954Z",
+  "title": "Studenten weer naar de bioscoopzalen trekken - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pathe_WOW_Student_Okt_Owned_2400x1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pathe_WOW_Student_Okt_Owned_2400x1200.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pathe_WOW-Q3_Student_Okt_Social_4320x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pathe_WOW-Q3_Student_Okt_Social_4320x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-14.36.32.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-09-at-14.36.32.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pathe_WOW_Student_Owned_2400x1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pathe_WOW_Student_Owned_2400x1200.png"
+    ]
+  ]
+}

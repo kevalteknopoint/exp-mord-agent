@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/3-tips-for-successful-advertising-creative/",
+  "path": "dept/insight/3-tips-for-successful-advertising-creative",
+  "timestamp": "2026-10-09T21:37:45.453Z",
+  "title": "3 tips for successful advertising creative - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "wrapper",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221019_BlFI_3-Tips-for-Creative-Advertising.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221019_BlFI_3-Tips-for-Creative-Advertising.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20221019_BlFI_3-Tips-for-Creative-Advertising.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20221019_BlFI_3-Tips-for-Creative-Advertising.jpeg"
+    ]
+  ]
+}

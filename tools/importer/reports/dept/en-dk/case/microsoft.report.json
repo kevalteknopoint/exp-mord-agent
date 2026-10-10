@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/microsoft/",
+  "path": "dept/en-dk/case/microsoft",
+  "timestamp": "2026-10-09T14:33:33.288Z",
+  "title": "Forståelse af Xbox-gamernes mindset - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "stats-panel",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Windows-585x585-c-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Windows-585x585-c-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/ebaa2e1f-d7a2-456e-ae9e-c41581c66fbb-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/ebaa2e1f-d7a2-456e-ae9e-c41581c66fbb-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/36dcf91e-28d2-41f3-940f-cfc004f84ab6-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/36dcf91e-28d2-41f3-940f-cfc004f84ab6-1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/7f18e11b-9c20-4fbd-b1c0-74e6522b02c5-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/7f18e11b-9c20-4fbd-b1c0-74e6522b02c5-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mark-Wright.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mark-Wright.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/sam-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/sam-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/eBay.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/eBay.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/schipol-airport.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/schipol-airport.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/xbox-one-x_cnslcntlr_hrz_anrtlt_grdbg_96ppi_v2_rgb-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/a-state-of-the-art-virtual-exhibition/",
+  "path": "dept/en-dk/case/a-state-of-the-art-virtual-exhibition",
+  "timestamp": "2026-10-09T13:49:03.281Z",
+  "title": "A state-of-the-art virtual exhibition - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "video",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Rikke-Agersnap.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Rikke-Agersnap.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Element-featured-image-480x480-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Element-featured-image-480x480-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ]
+  ]
+}

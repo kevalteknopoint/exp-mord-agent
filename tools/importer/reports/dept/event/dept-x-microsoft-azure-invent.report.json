@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-x-microsoft-azure-invent/",
+  "path": "dept/event/dept-x-microsoft-azure-invent",
+  "timestamp": "2026-10-09T21:16:04.635Z",
+  "title": "DEPT® x Microsoft: Azure Invent - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Background.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Background.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/unnamed-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/unnamed-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/unnamed-1-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/unnamed-1-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Azure-Post.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Azure-Post.png"
+    ]
+  ]
+}

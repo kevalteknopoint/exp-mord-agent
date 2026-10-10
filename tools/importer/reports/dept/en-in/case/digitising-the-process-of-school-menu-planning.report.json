@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/digitising-the-process-of-school-menu-planning/",
+  "path": "dept/en-in/case/digitising-the-process-of-school-menu-planning",
+  "timestamp": "2026-10-09T15:45:06.145Z",
+  "title": "Digitising the process of school menu planning - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/mixed-food-in-metal-dishes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/mixed-food-in-metal-dishes.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/cartewheel-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/cartewheel-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/cartewheel-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/cartewheel-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Final-hero-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Final-hero-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/wongle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/wongle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/ERIKS-Featured-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/ERIKS-Featured-image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/mixed-food-in-metal-dishes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/mixed-food-in-metal-dishes.jpg"
+    ]
+  ]
+}

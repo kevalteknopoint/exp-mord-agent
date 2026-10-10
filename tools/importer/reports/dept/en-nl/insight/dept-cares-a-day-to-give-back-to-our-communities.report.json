@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-cares-a-day-to-give-back-to-our-communities/",
+  "path": "dept/en-nl/insight/dept-cares-a-day-to-give-back-to-our-communities",
+  "timestamp": "2026-10-09T18:32:05.339Z",
+  "title": "DEPT® Cares: A day to give back to our communities - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-Cares-pattern-logo-1-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--Cares-pattern-logo-1-500x300-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/dept-cares-day-elderly-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/dept-cares-day-elderly-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/dept-cares-day-planting-trees-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/dept-cares-day-planting-trees-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/dept-cares-day-farm-_1_.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/dept-cares-day-farm-_1_.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-Cares-pattern-logo-1-500x300-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--Cares-pattern-logo-1-500x300-1.jpg"
+    ]
+  ]
+}

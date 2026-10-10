@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/an-interactive-campaign-to-discover-your-fashion-dna/",
+  "path": "dept/case/an-interactive-campaign-to-discover-your-fashion-dna",
+  "timestamp": "2026-10-09T10:04:05.041Z",
+  "title": "Discover your fashion DNA - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1171026448-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1171026448-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Question-One-Transition-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Question-One-Transition-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-97-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-97-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-98-1-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-98-1-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-101-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-101-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jake-Welsh.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jake-Welsh.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otravo_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otravo_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/visana-calculator-handmockup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/visana-calculator-handmockup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Jungheinrich-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Jungheinrich-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1313751774-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1313751774-1-scaled.jpg"
+    ]
+  ]
+}

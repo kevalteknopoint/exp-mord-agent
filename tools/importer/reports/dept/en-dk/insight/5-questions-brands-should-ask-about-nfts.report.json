@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/5-questions-brands-should-ask-about-nfts/",
+  "path": "dept/en-dk/insight/5-questions-brands-should-ask-about-nfts",
+  "timestamp": "2026-10-09T14:00:33.575Z",
+  "title": "5 questions brands should ask about NFTs - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/nft-questions-to-ask.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/nft-questions-to-ask.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jesse_Streb-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jesse_Streb-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/digital-art-nft-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/digital-art-nft-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/nike-swish.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/nike-swish.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-917742572-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-917742572-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jesse_Streb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jesse_Streb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/nft-questions-to-ask.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/nft-questions-to-ask.jpg"
+    ]
+  ]
+}

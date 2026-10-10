@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-data-analysts-help-brands-break-down-silos/",
+  "path": "dept/en-au/insight/how-data-analysts-help-brands-break-down-silos",
+  "timestamp": "2026-10-09T12:58:29.060Z",
+  "title": "How data analysts help brands break down silos - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-analyst-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-analyst-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/david-grover-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/david-grover-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-in-spreadsheet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-in-spreadsheet.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-analyst-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-analyst-min.jpg"
+    ]
+  ]
+}

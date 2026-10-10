@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/building-an-immersive-digital-experience-for-an-alpine-destination/",
+  "path": "dept/en-uki/case/building-an-immersive-digital-experience-for-an-alpine-destination",
+  "timestamp": "2026-10-09T19:52:43.778Z",
+  "title": "Building an immersive digital experience for an alpine destination - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "image",
+    "title-and-content",
+    "video",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_screens-desktop_v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_screens-desktop_v2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_Mobile_screens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_Mobile_screens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Signs_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Signs_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg"
+    ]
+  ]
+}

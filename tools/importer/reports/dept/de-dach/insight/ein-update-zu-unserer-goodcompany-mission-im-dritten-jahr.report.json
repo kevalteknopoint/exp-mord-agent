@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/ein-update-zu-unserer-goodcompany-mission-im-dritten-jahr/",
+  "path": "dept/de-dach/insight/ein-update-zu-unserer-goodcompany-mission-im-dritten-jahr",
+  "timestamp": "2026-10-09T12:01:31.794Z",
+  "title": "Der DEPT® Impact Report 2022 - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "statement",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Impact-Report-2022_Featured-Image_500-x-301.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Impact-Report-2022_Featured-Image_500-x-301.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/DEPT%C2%AE-Impact-Report-2022.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/DEPT--Impact-Report-2022.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Impact-Report-2022_Featured-Image_500-x-301.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Impact-Report-2022_Featured-Image_500-x-301.jpg"
+    ]
+  ]
+}

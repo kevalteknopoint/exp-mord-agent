@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/downloads/growth-marketers-guide-building-trust-in-the-age-of-privacy/",
+  "path": "dept/en-in/downloads/growth-marketers-guide-building-trust-in-the-age-of-privacy",
+  "timestamp": "2026-10-09T15:42:09.081Z",
+  "title": "Growth marketers guide: Building trust in the age of privacy - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-in",
+  "components": [
+    "whitepaper-detail-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/building-trust-age-privacy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/building-trust-age-privacy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/building-trust-age-privacy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/building-trust-age-privacy.jpg"
+    ]
+  ]
+}

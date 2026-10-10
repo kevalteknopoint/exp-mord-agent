@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/webby-talk-never-niche-enough/",
+  "path": "dept/en-in/event/webby-talk-never-niche-enough",
+  "timestamp": "2026-10-09T15:55:49.285Z",
+  "title": "Webby Talk: Never Niche Enough - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Webby-Talk-Landing-page-Never-Niche-Enough-980x1087-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Webby-Talk-Landing-page-Never-Niche-Enough-980x1087-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Emma-Whitfield-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Emma-Whitfield-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Levy-Misiedjan-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Levy-Misiedjan-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/logo-dark-new.svg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/logo-dark-new.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Webby-Talk-Landing-page-Never-Niche-Enough-980x1087-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Webby-Talk-Landing-page-Never-Niche-Enough-980x1087-1.jpg"
+    ]
+  ]
+}

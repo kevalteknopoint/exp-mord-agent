@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/industries/",
+  "path": "dept/en-au/industries",
+  "timestamp": "2026-10-09T11:58:53.440Z",
+  "title": "Industries - DEPT®",
+  "template": "dept-page",
+  "locale": "en-au",
+  "components": [
+    "industry-intro",
+    "industry-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/data-analytics-missing-digital-transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/data-analytics-missing-digital-transformation.jpg"
+    ]
+  ]
+}

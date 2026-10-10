@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/transforming-digital-experience-with-adobe-experience-manager/",
+  "path": "dept/en-nl/case/transforming-digital-experience-with-adobe-experience-manager",
+  "timestamp": "2026-10-09T17:29:43.135Z",
+  "title": "Featured work: HDFC Ltd Adobe migration",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/breakfast-in-bed-couple.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/breakfast-in-bed-couple.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1188236181-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1188236181-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/breakfast-in-bed-couple.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/breakfast-in-bed-couple.jpg"
+    ]
+  ]
+}

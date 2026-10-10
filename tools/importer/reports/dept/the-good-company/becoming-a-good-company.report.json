@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/the-good-company/becoming-a-good-company/",
+  "path": "dept/the-good-company/becoming-a-good-company",
+  "timestamp": "2026-10-09T22:04:25.135Z",
+  "title": "Becoming a B Corp - DEPT®",
+  "template": "dept-the-good-company",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/forest.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/forest.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Becoming-a-good-company_leaves.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Becoming-a-good-company_leaves.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Becoming-a-good-company_bike.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Becoming-a-good-company_bike.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Fingerspelling-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Fingerspelling-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Smarter-IT-recap-Featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Smarter-IT-recap-Featured-image-500x344-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/girl-white-dress-grass.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/girl-white-dress-grass.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/forest.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/forest.jpg"
+    ]
+  ]
+}

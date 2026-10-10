@@ -1,0 +1,82 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/a-magical-branded-experience/",
+  "path": "dept/en-au/case/a-magical-branded-experience",
+  "timestamp": "2026-10-09T11:52:03.865Z",
+  "title": "A magical branded experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/de-bijenkorf-bee.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/de-bijenkorf-bee.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/de-bijenkorf-website2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/de-bijenkorf-website2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/de-bijenkorf-experience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/de-bijenkorf-experience.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/de-bijenkorf-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/de-bijenkorf-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/de-bijenkorf-cards2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/de-bijenkorf-cards2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/de-bijenkorf-holiday-experience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/de-bijenkorf-holiday-experience.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/de-bijenkorf-cards.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/de-bijenkorf-cards.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/wilson-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/wilson-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/HomeTeam_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/HomeTeam_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/headbanger.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/headbanger.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Header-image.png"
+    ]
+  ]
+}

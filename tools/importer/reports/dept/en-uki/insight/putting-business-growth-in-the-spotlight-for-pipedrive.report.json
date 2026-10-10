@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/putting-business-growth-in-the-spotlight-for-pipedrive/",
+  "path": "dept/en-uki/insight/putting-business-growth-in-the-spotlight-for-pipedrive",
+  "timestamp": "2026-10-09T20:16:59.569Z",
+  "title": "Putting business growth in the spotlight for Pipedrive - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/compressed_PDR_XRD_20_040_MD_v001-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/compressed_PDR_XRD_20_040_MD_v001-2-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/BYTE_HEAD_SHOTS1238_1-e1707149328146-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/BYTE_HEAD_SHOTS1238_1-e1707149328146-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/BYTE_HEAD_SHOTS1238_1-e1707149328146.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/BYTE_HEAD_SHOTS1238_1-e1707149328146.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/compressed_PDR_XRD_20_040_MD_v001-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/compressed_PDR_XRD_20_040_MD_v001-2-2.png"
+    ]
+  ]
+}

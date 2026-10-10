@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-brings-its-cannes-style-moments-year-round-with-future-club/",
+  "path": "dept/en-nl/insight/dept-brings-its-cannes-style-moments-year-round-with-future-club",
+  "timestamp": "2026-10-09T18:31:53.149Z",
+  "title": "DEPT® brings its Cannes-Style moments year-round with Future Club - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1080X1350.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1080X1350.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Trends2026_HeroImage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Trends2026_HeroImage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Universal-Commerce-Protocol-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Universal-Commerce-Protocol-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/SupremexLouis-Vuitton-alternate.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/SupremexLouis-Vuitton-alternate.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1920X1080.png"
+    ]
+  ]
+}

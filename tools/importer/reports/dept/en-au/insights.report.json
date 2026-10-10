@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insights/",
+  "path": "dept/en-au/insights",
+  "timestamp": "2026-10-09T23:04:19.334Z",
+  "title": "Insights, downloads & events by DEPT®",
+  "template": "dept-page",
+  "locale": "en-au",
+  "components": [
+    "content-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Trends2026_HeroImage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Trends2026_HeroImage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-16_9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/ChatGPT-Ads-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/ChatGPT-Ads-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/webby-winners-dept-2026.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/webby-winners-dept-2026.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DFC-INSIGHT-IMAGE-1-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/CRM-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/CRM-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Heritage-cultural-Gen-z.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Heritage-cultural-Gen-z.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/crm-systems-ai-loyalty.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/crm-systems-ai-loyalty.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Anthem-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Anthem-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/The-future-of-search-citation-not-clicks.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/The-future-of-search-citation-not-clicks.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/AISlop_cats_in_glass.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/AISlop_cats_in_glass.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Inter-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Inter-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/moon-creative-automatiom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/moon-creative-automatiom.jpeg"
+    ]
+  ]
+}

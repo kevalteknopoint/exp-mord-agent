@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/turning-nothing-to-wear-into-something-to-love/",
+  "path": "dept/en-uki/case/turning-nothing-to-wear-into-something-to-love",
+  "timestamp": "2026-10-09T19:17:55.045Z",
+  "title": "Turning nothing to wear into something to love - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/eBay-fridge-magnets.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/eBay-fridge-magnets.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Ebay4.jpg.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Ebay4.jpg.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Piech-Thumbnail.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Piech-Thumbnail.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/ebay-fashion-pr-website-featured-image-500x344-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/ebay-fashion-pr-website-featured-image-500x344-1.png"
+    ]
+  ]
+}

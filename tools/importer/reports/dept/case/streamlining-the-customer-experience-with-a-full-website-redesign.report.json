@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/streamlining-the-customer-experience-with-a-full-website-redesign/",
+  "path": "dept/case/streamlining-the-customer-experience-with-a-full-website-redesign",
+  "timestamp": "2026-10-09T11:00:29.335Z",
+  "title": "Streamlining the customer experience with a full website redesign - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/postfinance.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/postfinance.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/IG.com-press-release.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/IG.com-press-release.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Website-_-Full-Bleed-Content-Image@2X-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Website-_-Full-Bleed-Content-Image-2X-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/postfinance.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/postfinance.png"
+    ]
+  ]
+}

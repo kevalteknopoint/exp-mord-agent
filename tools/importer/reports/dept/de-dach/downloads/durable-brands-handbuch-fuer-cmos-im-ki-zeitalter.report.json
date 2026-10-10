@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/durable-brands-handbuch-fuer-cmos-im-ki-zeitalter/",
+  "path": "dept/de-dach/downloads/durable-brands-handbuch-fuer-cmos-im-ki-zeitalter",
+  "timestamp": "2026-10-09T11:32:17.076Z",
+  "title": "Durable Brands Playbook: Ein Handbuch für CMOs im KI-Zeitalter - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro",
+    "assets-and-copy",
+    "case-quote",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Building-durable-brands-playbook.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Building-durable-brands-playbook.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/thumbs-up-on-wall-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/thumbs-up-on-wall-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durable-brands.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durable-brands.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Building-durable-brands-playbook.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Building-durable-brands-playbook.png"
+    ]
+  ]
+}

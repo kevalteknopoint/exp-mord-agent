@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/connecting-the-in-store-online-shopping-experience/",
+  "path": "dept/en-au/case/connecting-the-in-store-online-shopping-experience",
+  "timestamp": "2026-10-09T12:43:39.270Z",
+  "title": "Connecting the in-store & online shopping experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "panel-two-media",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/diana-polekhina-iUfusOthmgQ-unsplash-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/diana-polekhina-iUfusOthmgQ-unsplash-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Kids-Insight-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Kids-Insight-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/trend-vision-e1599476355411.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/trend-vision-e1599476355411.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg"
+    ]
+  ]
+}

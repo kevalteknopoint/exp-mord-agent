@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/vom-externen-e-commerce-modell-zur-eigenen-plattform/",
+  "path": "dept/de-dach/case/vom-externen-e-commerce-modell-zur-eigenen-plattform",
+  "timestamp": "2026-10-09T11:26:22.658Z",
+  "title": "Vom externen E-Commerce-Modell zur eigenen Plattform - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tom-Tailor-case-header-1440x810-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tom-Tailor-case-header-1440x810-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tom-Tailer-full-1-1200x675-c-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tom-Tailer-full-1-1200x675-c-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tom-Tailor-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tom-Tailor-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Omoda-Featured-Image-1024x559-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Omoda-Featured-Image-1024x559-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/190809-swissmilk-rezept-datenbank_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/190809-swissmilk-rezept-datenbank_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tom-Tailor-case-header-1440x810-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tom-Tailor-case-header-1440x810-c.png"
+    ]
+  ]
+}

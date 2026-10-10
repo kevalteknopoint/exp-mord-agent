@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/the-future-of-commerce-is-composable-cookieless-sustainable-personal-2/",
+  "path": "dept/en-au/insight/the-future-of-commerce-is-composable-cookieless-sustainable-personal-2",
+  "timestamp": "2026-10-09T12:58:34.657Z",
+  "title": "The future of e-commerce is composable, cookieless, & sustainable - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "title-and-content",
+    "video",
+    "quote",
+    "title-and-content",
+    "video",
+    "quote",
+    "title-and-content",
+    "video",
+    "quote",
+    "title-and-content",
+    "video",
+    "quote",
+    "title-and-content",
+    "video",
+    "quote",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/The-future-of-e-commerce-is-composable-cookieless-sustainable-personal.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/The-future-of-e-commerce-is-composable-cookieless-sustainable-personal.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/future-of-commerce-2-1024x575.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/future-of-commerce-2-1024x575.jpg"
+    ]
+  ]
+}

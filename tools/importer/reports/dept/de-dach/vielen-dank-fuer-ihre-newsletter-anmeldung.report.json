@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/vielen-dank-fuer-ihre-newsletter-anmeldung/",
+  "path": "dept/de-dach/vielen-dank-fuer-ihre-newsletter-anmeldung",
+  "timestamp": "2026-10-09T11:29:47.374Z",
+  "title": "Vielen Dank für Ihre Newsletter-Anmeldung - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-image-and-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT%C2%AE-Office.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT--Office.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT%C2%AE-Office.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT--Office.png"
+    ]
+  ]
+}

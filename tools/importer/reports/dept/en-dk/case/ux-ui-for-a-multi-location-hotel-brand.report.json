@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/ux-ui-for-a-multi-location-hotel-brand/",
+  "path": "dept/en-dk/case/ux-ui-for-a-multi-location-hotel-brand",
+  "timestamp": "2026-10-09T13:32:35.776Z",
+  "title": "UX/UI for a multi-location hotel brand  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Hoxton_case_hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Hoxton_case_hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rasmus-Keller.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rasmus-Keller.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Gleneagles_case_hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Gleneagles_case_hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/JM-alternative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/JM-alternative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Hoxton_case_hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Hoxton_case_hero.jpg"
+    ]
+  ]
+}

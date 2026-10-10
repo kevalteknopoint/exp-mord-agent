@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/agency/studio-dumbar/",
+  "path": "dept/en-au/agency/studio-dumbar",
+  "timestamp": "2026-10-09T11:49:11.249Z",
+  "title": "STUDIO DUMBAR/DEPT® - DEPT®",
+  "template": "dept-agency",
+  "locale": "en-au",
+  "components": [
+    "panel-agency-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Rectangle-420.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Rectangle-420.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Rectangle-420.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Rectangle-420.png"
+    ]
+  ]
+}

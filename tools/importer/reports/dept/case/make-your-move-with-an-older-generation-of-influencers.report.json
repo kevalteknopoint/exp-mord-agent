@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/make-your-move-with-an-older-generation-of-influencers/",
+  "path": "dept/case/make-your-move-with-an-older-generation-of-influencers",
+  "timestamp": "2026-10-09T10:29:22.381Z",
+  "title": "Featured work: Opendoor influencer marketing campaign - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ]
+  ]
+}

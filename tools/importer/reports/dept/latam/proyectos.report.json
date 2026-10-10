@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/proyectos/",
+  "path": "dept/latam/proyectos",
+  "timestamp": "2026-10-09T22:27:47.083Z",
+  "title": "Proyectos - DEPT®",
+  "template": "dept-page",
+  "locale": "latam",
+  "components": [
+    "work-listing-v2"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Growth-marketing-DEPT%C2%AE.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Growth-marketing-DEPT-.jpeg"
+    ]
+  ]
+}

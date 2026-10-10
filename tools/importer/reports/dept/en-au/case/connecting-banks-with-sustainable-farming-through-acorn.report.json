@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/connecting-banks-with-sustainable-farming-through-acorn/",
+  "path": "dept/en-au/case/connecting-banks-with-sustainable-farming-through-acorn",
+  "timestamp": "2026-10-09T12:42:44.440Z",
+  "title": "Featured work: Website design & development for Acorn - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "cta-text",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Acorn_Rabobank-UXUI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Acorn_Rabobank-UXUI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Acorn_Rabobank-farm-view.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Acorn_Rabobank-farm-view.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Acorn_Rabobank-website-dev.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Acorn_Rabobank-website-dev.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Acorn_Rabobank-multi-screen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Acorn_Rabobank-multi-screen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otravo_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otravo_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/sustainable-farming-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/sustainable-farming-concept.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/zagreb/",
+  "path": "dept/office/zagreb",
+  "timestamp": "2026-10-09T22:40:43.299Z",
+  "title": "Zagreb - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DSF4305-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DSF4305-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Zagreb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Zagreb.jpg"
+    ]
+  ]
+}

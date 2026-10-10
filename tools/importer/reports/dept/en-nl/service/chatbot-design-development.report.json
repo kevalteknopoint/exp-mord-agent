@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/service/chatbot-design-development/",
+  "path": "dept/en-nl/service/chatbot-design-development",
+  "timestamp": "2026-10-09T18:18:17.840Z",
+  "title": "Chatbot Design & Development Agency | DEPT®",
+  "template": "dept-service",
+  "locale": "en-nl",
+  "components": [
+    "panel-with-rich-text",
+    "highlighted-item-listing",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/DEPT-Interior-83.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/DEPT-Interior-83.jpg"
+    ]
+  ]
+}

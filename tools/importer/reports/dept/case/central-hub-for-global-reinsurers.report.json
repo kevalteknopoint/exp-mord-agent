@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/central-hub-for-global-reinsurers/",
+  "path": "dept/case/central-hub-for-global-reinsurers",
+  "timestamp": "2026-10-09T10:22:31.191Z",
+  "title": "Central hub for global reinsurers - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/swiss-re.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/swiss-re.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/swiss-re.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/swiss-re.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/turning-snack-dust-into-street-cred-for-cheetos-uk/",
+  "path": "dept/en-uki/case/turning-snack-dust-into-street-cred-for-cheetos-uk",
+  "timestamp": "2026-10-09T19:18:48.545Z",
+  "title": "Turning snack dust into street cred for Cheetos UK - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "custom-listing",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-Cheetos_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/5-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/5-Cheetos_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6A-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6A-Cheetos_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6B-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6B-Cheetos_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6C-Cheetos_Still.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6C-Cheetos_Still.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/abstract-image-dept-brand3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/abstract-image-dept-brand3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg"
+    ]
+  ]
+}

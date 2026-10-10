@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/data-transformation-that-established-a-cross-brand-vision/",
+  "path": "dept/en-nl/case/data-transformation-that-established-a-cross-brand-vision",
+  "timestamp": "2026-10-09T18:02:47.555Z",
+  "title": "Data transformation that established a cross-brand vision - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Tailored-Brands-Case-image-2-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Tailored-Brands-Case-image-2-1920x1080-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Tailored-Brands-Case-image-1-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Tailored-Brands-Case-image-1-1920x1080-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/data-analytics-consulting-disney.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/data-analytics-consulting-disney.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-canvas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-canvas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Screenshot-2021-10-05-at-15.11.30.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Screenshot-2021-10-05-at-15.11.30.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/aufbau-beschleunigung-und-neuerfindung-des-rennsports/",
+  "path": "dept/de-dach/case/aufbau-beschleunigung-und-neuerfindung-des-rennsports",
+  "timestamp": "2026-10-09T11:25:06.300Z",
+  "title": "Aufbau, Beschleunigung und Neuerfindung des Rennsports - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Spacesuit-Media-Shiv-Gohil-233628.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Spacesuit-Media-Shiv-Gohil-233628.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Formula-E-In-Cape-Town-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Formula-E-In-Cape-Town-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-102-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-102-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-103-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-103-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-104-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-104-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-105-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-105-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/GAZELLE_CHAMONIX_HMS_SFEER_MODEL_081.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/GAZELLE_CHAMONIX_HMS_SFEER_MODEL_081.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/02_Brand_Equity_Phase_I_Eye_Sparkle_Preview_010221-310123_CLEAN_LF-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg"
+    ]
+  ]
+}

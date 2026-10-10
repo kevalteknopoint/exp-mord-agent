@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/why-you-need-a-product-strategy-even-for-your-simple-website/",
+  "path": "dept/en-dk/insight/why-you-need-a-product-strategy-even-for-your-simple-website",
+  "timestamp": "2026-10-09T15:25:47.355Z",
+  "title": "Why you need a product strategy, even for your \"simple\" website - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Why-your-website-need-product-strategy.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Why-your-website-need-product-strategy.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Phil-gonzales-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Phil-gonzales-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Why-your-website-need-product-strategy.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Why-your-website-need-product-strategy.webp"
+    ]
+  ]
+}

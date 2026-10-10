@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/sailing-towards-an-optimised-bidding-strategy-with-googles-dv360/",
+  "path": "dept/en-in/case/sailing-towards-an-optimised-bidding-strategy-with-googles-dv360",
+  "timestamp": "2026-10-09T16:17:03.740Z",
+  "title": "Sailing towards an optimised bidding strategy with Google's DV360 - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-11.07.19.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-09-at-11.07.19.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-11.08.57.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-09-at-11.08.57.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-11.10.50.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-09-at-11.10.50.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Daniel-Landman-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Daniel-Landman-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Fjordline_featured_image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Fjordline_featured_image.jpg"
+    ]
+  ]
+}

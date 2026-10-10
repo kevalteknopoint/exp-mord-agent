@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/eneco/",
+  "path": "dept/en-in/case/eneco",
+  "timestamp": "2026-10-09T15:49:22.490Z",
+  "title": "Transforming Eneco's website - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Enco_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Enco_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Enco_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Enco_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/retirement-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/retirement-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/energy-utilities-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/energy-utilities-.jpeg"
+    ]
+  ]
+}

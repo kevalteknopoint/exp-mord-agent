@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/dept-x-fivetran-x-snowflake-winetasting-anmeldezeitraum-vorbei/",
+  "path": "dept/de-dach/dept-x-fivetran-x-snowflake-winetasting-anmeldezeitraum-vorbei",
+  "timestamp": "2026-10-09T11:28:54.134Z",
+  "title": "Anmeldezeitraum vorbei - DEPT® Winetasting: Die Data Success Story von Douglas - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "media-with-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/kelsey-chance-tAH2cA_BL5g-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/kelsey-chance-tAH2cA_BL5g-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/kelsey-chance-tAH2cA_BL5g-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/kelsey-chance-tAH2cA_BL5g-unsplash-scaled.jpg"
+    ]
+  ]
+}

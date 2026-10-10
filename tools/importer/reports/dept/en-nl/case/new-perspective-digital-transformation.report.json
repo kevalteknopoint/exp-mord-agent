@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/new-perspective-digital-transformation/",
+  "path": "dept/en-nl/case/new-perspective-digital-transformation",
+  "timestamp": "2026-10-09T17:10:45.240Z",
+  "title": "A new perspective on digital transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/muuto-living-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/muuto-living-area-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-197@2x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-197-2x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/50-50-A.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/50-50-A.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-177@2x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-177-2x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/50-50-C.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/50-50-C.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Visual-Light-185@2x-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Visual-Light-185-2x-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-564578090-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-564578090-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/muuto-living-area-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/muuto-living-area-1.jpg"
+    ]
+  ]
+}

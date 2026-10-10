@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/revolution-of-the-shopping-world/",
+  "path": "dept/en-au/case/revolution-of-the-shopping-world",
+  "timestamp": "2026-10-09T12:25:58.135Z",
+  "title": "Taking forward a leading luxury brand - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Herobanner-homepage-summersale21-6-1920x1280-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Herobanner-homepage-summersale21-6-1920x1280-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-115-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-115-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/S69992002_090_lookbook2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/S69992002_090_lookbook2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/T69884001_309_lookbook2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/T69884001_309_lookbook2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-116-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-116-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/00001-Tiger-of-Sweden-Pitti-Menswear-Fall-2020-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/00001-Tiger-of-Sweden-Pitti-Menswear-Fall-2020-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-117-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-117-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-118-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-118-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/201811_MartinK_Portrait-2-e1627480286874.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/201811_MartinK_Portrait-2-e1627480286874.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Philips-header-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Philips-header-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1188236181-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1188236181-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ]
+  ]
+}

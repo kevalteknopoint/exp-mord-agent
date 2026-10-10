@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/subscribe-to-our-newsletter/",
+  "path": "dept/en-in/subscribe-to-our-newsletter",
+  "timestamp": "2026-10-09T23:39:06.582Z",
+  "title": "Subscribe to our newsletter - DEPT®",
+  "template": "dept-page",
+  "locale": "en-in",
+  "components": [
+    "form-newsletter"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/subscribe-DEPT-newsletter.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/subscribe-DEPT-newsletter.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/subscribe-DEPT-newsletter.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/subscribe-DEPT-newsletter.gif"
+    ]
+  ]
+}

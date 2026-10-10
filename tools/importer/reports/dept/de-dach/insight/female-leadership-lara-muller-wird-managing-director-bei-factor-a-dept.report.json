@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/female-leadership-lara-muller-wird-managing-director-bei-factor-a-dept/",
+  "path": "dept/de-dach/insight/female-leadership-lara-muller-wird-managing-director-bei-factor-a-dept",
+  "timestamp": "2026-10-09T12:03:19.373Z",
+  "title": "Lara Müller wird Managing Director - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Lara_Mueller_FACTOR-A_DEPT%C2%AE-2-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Lara_Mueller_FACTOR-A_DEPT--2-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Managing-Directors-_Lara_Mueller_Roberto_Russo-_Nils-Zuendorf_FACTO-A_DEPT%C2%AE-1-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Managing-Directors-_Lara_Mueller_Roberto_Russo-_Nils-Zuendorf_FACTO-A_DEPT--1-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Lara_Mueller_FACTOR-A_DEPT%C2%AE-2-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Lara_Mueller_FACTOR-A_DEPT--2-2.jpg"
+    ]
+  ]
+}

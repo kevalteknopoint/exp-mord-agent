@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/exploring-the-future-of-content-marketing/",
+  "path": "dept/en-au/insight/exploring-the-future-of-content-marketing",
+  "timestamp": "2026-10-09T13:45:01.975Z",
+  "title": "How DEPT® integrates AI and automation into its workflow - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DSC3072-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DSC3072-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/tobias-cummins-headshot-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/tobias-cummins-headshot-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/green-makeup-eye.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/green-makeup-eye.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/unlocking-growth-prepare-pioneer-event.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/unlocking-growth-prepare-pioneer-event.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/tobias-cummins-headshot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/tobias-cummins-headshot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DSC3072-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DSC3072-1-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/hvordan-20-ars-brandhistorie-gav-20-stigning-i-brand-awareness/",
+  "path": "dept/en-dk/case/hvordan-20-ars-brandhistorie-gav-20-stigning-i-brand-awareness",
+  "timestamp": "2026-10-09T14:27:52.862Z",
+  "title": "Et dansk brand elsket af gamere verden over - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/steelseries-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/steelseries-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/social.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/social.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/journey-test.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/journey-test.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/comments-tiktok.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/comments-tiktok.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/commets.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/commets.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Template-Full-screen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Template-Full-screen.png"
+    ]
+  ]
+}

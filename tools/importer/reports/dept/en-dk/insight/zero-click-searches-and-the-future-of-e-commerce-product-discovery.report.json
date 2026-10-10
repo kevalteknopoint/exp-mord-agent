@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/zero-click-searches-and-the-future-of-e-commerce-product-discovery/",
+  "path": "dept/en-dk/insight/zero-click-searches-and-the-future-of-e-commerce-product-discovery",
+  "timestamp": "2026-10-09T15:27:14.241Z",
+  "title": "Zero-click searches and the future of e-commerce product discovery - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Discovery-click.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Discovery-click.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/MariaProkoheadshot-e1701966883394-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/MariaProkoheadshot-e1701966883394-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Cetaphil-search.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Cetaphil-search.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/NSmithArticle.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/NSmithArticle.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/NSmithIG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/NSmithIG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Experience-path.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Experience-path.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/chain-link-up-close-min-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/chain-link-up-close-min-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/gen-z-woman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/gen-z-woman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Discovery-click.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Discovery-click.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-future-of-paid-social-creative/",
+  "path": "dept/insight/the-future-of-paid-social-creative",
+  "timestamp": "2026-10-09T21:59:00.940Z",
+  "title": "The future of paid social: Creative - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "wrapper",
+    "wrapper",
+    "title-and-content",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220909_BlFI_TheFutureOfPaidSocialCreative.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220909_BlFI_TheFutureOfPaidSocialCreative.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220909_BlFI_TheFutureOfPaidSocialCreative.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220909_BlFI_TheFutureOfPaidSocialCreative.jpeg"
+    ]
+  ]
+}

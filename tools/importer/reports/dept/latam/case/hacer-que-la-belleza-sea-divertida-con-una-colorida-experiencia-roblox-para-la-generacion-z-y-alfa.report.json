@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/hacer-que-la-belleza-sea-divertida-con-una-colorida-experiencia-roblox-para-la-generacion-z-y-alfa/",
+  "path": "dept/latam/case/hacer-que-la-belleza-sea-divertida-con-una-colorida-experiencia-roblox-para-la-generacion-z-y-alfa",
+  "timestamp": "2026-10-09T21:37:36.871Z",
+  "title": "Hacer que la belleza sea divertida con una experiencia en Roblox - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT%C2%AE-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT--2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/cosnova_cases-collage_dept-4-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/cosnova_cases-collage_dept-4-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Roblox_Case_Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Roblox_Case_Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Dept_Stefan_Ripke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Dept_Stefan_Ripke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Q70321005_1CN_back.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Q70321005_1CN_back.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Raleigh_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Raleigh_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-7-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-7-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT%C2%AE-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT--2.jpg"
+    ]
+  ]
+}

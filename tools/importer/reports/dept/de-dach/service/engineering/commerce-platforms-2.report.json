@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/engineering/commerce-platforms-2/",
+  "path": "dept/de-dach/service/engineering/commerce-platforms-2",
+  "timestamp": "2026-10-09T12:07:41.640Z",
+  "title": "Commerce Platforms - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Commerce-platform.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Commerce-platform.jpg"
+    ]
+  ]
+}

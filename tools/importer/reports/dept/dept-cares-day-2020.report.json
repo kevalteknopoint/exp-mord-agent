@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/dept-cares-day-2020/",
+  "path": "dept/dept-cares-day-2020",
+  "timestamp": "2026-10-09T17:55:02.447Z",
+  "title": "DEPT® cares day 2020 - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "post-header",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "jumbotron",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Rotterdam.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Rotterdam.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/IMG_9563-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/IMG_9563-scaled.jpg"
+    ]
+  ]
+}

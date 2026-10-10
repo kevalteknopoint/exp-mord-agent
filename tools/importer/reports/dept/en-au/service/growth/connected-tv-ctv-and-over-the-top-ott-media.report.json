@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/connected-tv-ctv-and-over-the-top-ott-media/",
+  "path": "dept/en-au/service/growth/connected-tv-ctv-and-over-the-top-ott-media",
+  "timestamp": "2026-10-09T14:20:30.570Z",
+  "title": "Connected TV and over-the-top media - DEPT® streaming ads",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "rich-text",
+    "routing-banner",
+    "highlighted-item-listing",
+    "client-panel",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/pexels-august-de-richelieu-4260639.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/pexels-august-de-richelieu-4260639.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220208BlogFI_CTV.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220208BlogFI_CTV.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Netflix-remote.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Netflix-remote.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/The-Trade-Desk-Logo-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/The-Trade-Desk-Logo-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/DV360-Logo-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/DV360-Logo-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Amazon-Advertising-Logo-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Amazon-Advertising-Logo-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/connected-tv-otp-media.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/connected-tv-otp-media.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/connected-tv-otp-media.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/connected-tv-otp-media.jpg"
+    ]
+  ]
+}

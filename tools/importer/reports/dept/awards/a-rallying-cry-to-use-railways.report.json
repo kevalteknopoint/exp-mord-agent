@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/a-rallying-cry-to-use-railways/",
+  "path": "dept/awards/a-rallying-cry-to-use-railways",
+  "timestamp": "2026-10-09T10:02:41.640Z",
+  "title": "A rallying cry to use railways - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "intro-text",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "stats-panel",
+    "title-and-content",
+    "quote"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline-hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline-Francis-and-Craig.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline-Francis-and-Craig.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Trainline-hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Trainline-hero.jpg"
+    ]
+  ]
+}

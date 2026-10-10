@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-100-ige-social-media-kampagne/",
+  "path": "dept/de-dach/case/eine-100-ige-social-media-kampagne",
+  "timestamp": "2026-10-09T10:53:54.936Z",
+  "title": "Eine 100%-ige Social-Media-Kampagne - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Story-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Story-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Half-width-1-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Half-width-1-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Half-width-Copy-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Half-width-Copy-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jord-Wessels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jord-Wessels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1258725147-1-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/traveling-adventure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/traveling-adventure.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Inuikii_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Inuikii_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Story-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Story-1440x810-c.jpg"
+    ]
+  ]
+}

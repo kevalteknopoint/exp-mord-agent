@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/digital-marketing-im-komplexen-versicherungs-unternehmensumfeld/",
+  "path": "dept/de-dach/case/digital-marketing-im-komplexen-versicherungs-unternehmensumfeld",
+  "timestamp": "2026-10-09T11:38:30.769Z",
+  "title": "Digital Marketing im komplexen Versicherungs-Unternehmensumfeld - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Header-cyberbild-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Header-cyberbild-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Generali-Menschen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Generali-Menschen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Generali-Katze.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Generali-Katze.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Generali-Auto.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Generali-Auto.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Philipp-Griesser-Dept.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Philipp-Griesser-Dept.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Bugaboo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Bugaboo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/DEPT%C2%AExPatagonia.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/DEPT-xPatagonia.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Header-cyberbild-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Header-cyberbild-1.png"
+    ]
+  ]
+}

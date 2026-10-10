@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/live-shopping/",
+  "path": "dept/de-dach/service/live-shopping",
+  "timestamp": "2026-10-09T11:27:57.680Z",
+  "title": "Live Shopping - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Dept_Stefan_Ripke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Dept_Stefan_Ripke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

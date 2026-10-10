@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/how-retail-brands-driving-digital-innovation-in-person-experiences/",
+  "path": "dept/en-dk/insight/how-retail-brands-driving-digital-innovation-in-person-experiences",
+  "timestamp": "2026-10-09T15:28:42.639Z",
+  "title": "How retail brands are driving digital innovation through in-person experiences - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Retail-brands-driving-digital-innovation-IRL-experiences.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Retail-brands-driving-digital-innovation-IRL-experiences.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/get-in-loser-were-going-shopping-1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/get-in-loser-were-going-shopping-1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Tiktok-shopping.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Tiktok-shopping.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Sephora-tweens-Insight-image-1200x620-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Sephora-tweens-Insight-image-1200x620-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/retail-media-non-endemics.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/retail-media-non-endemics.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Retail-brands-driving-digital-innovation-IRL-experiences.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Retail-brands-driving-digital-innovation-IRL-experiences.jpg"
+    ]
+  ]
+}

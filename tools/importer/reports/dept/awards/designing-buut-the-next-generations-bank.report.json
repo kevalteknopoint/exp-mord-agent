@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/designing-buut-the-next-generations-bank/",
+  "path": "dept/awards/designing-buut-the-next-generations-bank",
+  "timestamp": "2026-10-09T10:15:35.669Z",
+  "title": "Designing BUUT, the next generation’s bank - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "awards-intro",
+    "assets-and-copy",
+    "case-intro",
+    "insight-cta",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Buut-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Buut-1920x1080-1.png"
+    ]
+  ]
+}

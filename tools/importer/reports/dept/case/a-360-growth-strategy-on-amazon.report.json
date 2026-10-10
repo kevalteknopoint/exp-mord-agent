@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/case/a-360-growth-strategy-on-amazon/",
   "path": "dept/case/a-360-growth-strategy-on-amazon",
-  "timestamp": "2026-10-08T16:13:17.088Z",
+  "timestamp": "2026-10-09T19:21:38.644Z",
   "title": "A 360° growth strategy on Amazon - DEPT®",
   "template": "dept-case",
   "locale": "global",
@@ -19,10 +19,7 @@
     "assets-and-copy",
     "next-case"
   ],
-  "fallback": [
-    "case-intro-title",
-    "event-content-v2"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/11/pregnant-baby-medela.jpg",

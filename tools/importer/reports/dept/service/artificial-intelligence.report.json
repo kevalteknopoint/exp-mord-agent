@@ -1,0 +1,100 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/service/artificial-intelligence/",
+  "path": "dept/service/artificial-intelligence",
+  "timestamp": "2026-10-09T22:45:05.769Z",
+  "title": "AI transformation services - Consulting, tech, data, & marketing - DEPT®",
+  "template": "dept-service",
+  "locale": "global",
+  "components": [
+    "title-block",
+    "image-and-fact",
+    "highlighted-statement",
+    "highlighted-logos",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Deptify-Logo-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Deptify-Logo-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Growth-Invention-Flywheel-365x206-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Growth-Invention-Flywheel-365x206-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-the-Customer-Journey-365x206-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-the-Customer-Journey-365x206-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-work-365x206-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-work-365x206-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Agentic-engineering-365x206-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Agentic-engineering-365x206-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Moodys-3.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Moodys-3.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Just-Eat.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Just-Eat.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Ebay-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Ebay-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Footlocker.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Footlocker.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Google-4.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Google-4.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Rituals-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Rituals-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Adidas-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Adidas-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Smart.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Smart.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/philips.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/philips.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/BMW-1.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/BMW-1.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Trends-report-2025-Featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Trends-report-2025-Featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/hands-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/hands-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/AI-strategy-Leadership.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/AI-strategy-Leadership.png"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/agency-details/",
+  "path": "dept/en-uki/agency-details",
+  "timestamp": "2026-10-09T19:26:55.776Z",
+  "title": "Agency Details - DEPT®",
+  "template": "dept-page",
+  "locale": "en-uki",
+  "components": [
+    "panel-with-rich-text",
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/dept-logo2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/dept-logo2.png"
+    ]
+  ]
+}

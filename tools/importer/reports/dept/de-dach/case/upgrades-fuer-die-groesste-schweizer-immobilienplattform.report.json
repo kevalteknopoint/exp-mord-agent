@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/upgrades-fuer-die-groesste-schweizer-immobilienplattform/",
+  "path": "dept/de-dach/case/upgrades-fuer-die-groesste-schweizer-immobilienplattform",
+  "timestamp": "2026-10-09T11:24:34.241Z",
+  "title": "Upgrades für die grösste kostenlose Schweizer Immobilienplattform - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/keyvisual-flatfox.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/keyvisual-flatfox.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/web-screen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/web-screen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/web-section.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/web-section.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/social-section-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/social-section-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/mobile-mockups.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/mobile-mockups.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/poster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/poster.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/branding-mockups.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/branding-mockups.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Vera-Weber_HV-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Vera-Weber_HV-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/jumbo_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/jumbo_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/keyvisual.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/keyvisual.png"
+    ]
+  ]
+}

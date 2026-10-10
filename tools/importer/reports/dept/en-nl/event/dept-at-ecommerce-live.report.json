@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/dept-at-ecommerce-live/",
+  "path": "dept/en-nl/event/dept-at-ecommerce-live",
+  "timestamp": "2026-10-09T17:59:30.449Z",
+  "title": "DEPT® at eCommerce Live - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "assets-and-copy",
+    "assets-and-copy",
+    "event-people"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Emerce-Ecommerce-Live-Event-Header-B-1920-x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Emerce-Ecommerce-Live-Event-Header-B-1920-x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Emerce-Ecommerce-Live-Talon-One-375x375-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Emerce-Ecommerce-Live-Talon-One-375x375-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Lucas-Nutbey-director-of-strategy-bij-DEPT%C2%AE-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Lucas-Nutbey-director-of-strategy-bij-DEPT--.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/wesley-valstar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/wesley-valstar.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/ShannonBreslin.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/ShannonBreslin.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Jeroen-Paco-Heydendael-2-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Jeroen-Paco-Heydendael-2-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Job-Deibel-Dept-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Job-Deibel-Dept-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Serge-Zwak-Dept-2-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Serge-Zwak-Dept-2-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Wesley-Niels-2-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Wesley-Niels-2-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Emerce-Ecommerce-Live-Event-Header-B-1920-x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Emerce-Ecommerce-Live-Event-Header-B-1920-x1080.png"
+    ]
+  ]
+}

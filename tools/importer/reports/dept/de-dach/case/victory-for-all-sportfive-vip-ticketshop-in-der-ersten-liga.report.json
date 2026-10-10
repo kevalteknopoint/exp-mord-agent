@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/victory-for-all-sportfive-vip-ticketshop-in-der-ersten-liga/",
+  "path": "dept/de-dach/case/victory-for-all-sportfive-vip-ticketshop-in-der-ersten-liga",
+  "timestamp": "2026-10-09T11:25:11.874Z",
+  "title": "Victory For All: Sportfive VIP-Ticketshop in der ersten Liga - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DEPT_sportfive_case_stadion_mood-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DEPT_sportfive_case_stadion_mood-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DEPT-Agentur_SPORTFIVE_Case-Header-scaled-e1660893669501.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DEPT-Agentur_SPORTFIVE_Case-Header-scaled-e1660893669501.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Tobias-De-La-Cruz-Leo%CC%81n_Key-Account-Manager.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Tobias-De-La-Cruz-Leo-n_Key-Account-Manager.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/betty_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/betty_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bonmarche_header-1-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bonmarche_header-1-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/klub.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/klub.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DEPT_sportfive_case_stadion_mood-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DEPT_sportfive_case_stadion_mood-2.webp"
+    ]
+  ]
+}

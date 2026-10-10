@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/dept-is-optimizelys-customer-choice-partner-of-the-year/",
+  "path": "dept/en-in/insight/dept-is-optimizelys-customer-choice-partner-of-the-year",
+  "timestamp": "2026-10-09T15:33:10.034Z",
+  "title": "DEPT® is Optimizely's Customer Choice Partner of the Year - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Office_Berlin_09-1200x750-c-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Office_Berlin_09-1200x750-c-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_Office_Berlin_09-1200x750-c-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_Office_Berlin_09-1200x750-c-2.jpg"
+    ]
+  ]
+}

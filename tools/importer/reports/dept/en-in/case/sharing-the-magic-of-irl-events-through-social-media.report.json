@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/sharing-the-magic-of-irl-events-through-social-media/",
+  "path": "dept/en-in/case/sharing-the-magic-of-irl-events-through-social-media",
+  "timestamp": "2026-10-09T16:19:08.845Z",
+  "title": "Featured work: A gamified experience for TwitchCon Las Vegas 2023 | DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/twitchcon-las-vegas-group.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/twitchcon-las-vegas-group.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/twitchcon-las-vegas-group.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/twitchcon-las-vegas-group.jpg"
+    ]
+  ]
+}

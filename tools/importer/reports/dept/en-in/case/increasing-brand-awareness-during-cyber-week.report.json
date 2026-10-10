@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/increasing-brand-awareness-during-cyber-week/",
+  "path": "dept/en-in/case/increasing-brand-awareness-during-cyber-week",
+  "timestamp": "2026-10-09T16:00:52.335Z",
+  "title": "Philips: Increasing brand awareness during Cyber Week - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Marc-Aufzug.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Marc-Aufzug.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Fishing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Fishing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/steelseries-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/steelseries-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-4.png"
+    ]
+  ]
+}

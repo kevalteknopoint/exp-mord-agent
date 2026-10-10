@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/amazon-unboxed-on-tour/",
+  "path": "dept/en-nl/event/amazon-unboxed-on-tour",
+  "timestamp": "2026-10-09T23:43:07.140Z",
+  "title": "Amazon unBoxed on Tour - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Feature-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Feature-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Feature-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Feature-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Feature-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Feature-image.jpg"
+    ]
+  ]
+}

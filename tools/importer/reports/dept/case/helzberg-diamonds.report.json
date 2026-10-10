@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/helzberg-diamonds/",
+  "path": "dept/case/helzberg-diamonds",
+  "timestamp": "2026-10-09T10:18:06.196Z",
+  "title": "Featured work: A new digital experience for Helzberg Diamonds - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-product-page-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-product-page-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-digital-ad-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-digital-ad-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-print-ad-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-print-ad-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-ring-in-box-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-ring-in-box-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-ad-woman.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-ad-woman.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-print-full-page-ad-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-print-full-page-ad-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Trainline_Featured_16_9.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Trainline_Featured_16_9.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Helzberg-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Helzberg-12.jpg"
+    ]
+  ]
+}

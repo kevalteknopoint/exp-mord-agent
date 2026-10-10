@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/showcasing-the-value-of-personalized-loans/",
+  "path": "dept/en-au/case/showcasing-the-value-of-personalized-loans",
+  "timestamp": "2026-10-09T12:30:01.936Z",
+  "title": "Showcasing the value of personalized loans - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/towfiqu-barbhuiya-yIIFNiEKkYI-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/towfiqu-barbhuiya-yIIFNiEKkYI-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/home-page-banner.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/home-page-banner.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/What-Insurance-Marketers-Must-Know-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/What-Insurance-Marketers-Must-Know-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/render-3-edited-4x5-1024x.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/render-3-edited-4x5-1024x.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/ebay-creative-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/ebay-creative-automation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/World-finance-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/World-finance-copy.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/zuverlassige-einblicke-in-die-performance/",
+  "path": "dept/de-dach/case/zuverlassige-einblicke-in-die-performance",
+  "timestamp": "2026-10-09T11:28:06.740Z",
+  "title": "Zuverlässige Einblicke in die Performance - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/pasted-image-0-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/pasted-image-0-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/breno-assis-r3WAWU5Fi5Q-unsplash-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/breno-assis-r3WAWU5Fi5Q-unsplash-1440x810-c.jpg"
+    ]
+  ]
+}

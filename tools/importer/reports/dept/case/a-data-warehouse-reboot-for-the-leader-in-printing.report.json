@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/case/a-data-warehouse-reboot-for-the-leader-in-printing/",
   "path": "dept/case/a-data-warehouse-reboot-for-the-leader-in-printing",
-  "timestamp": "2026-10-08T16:16:08.284Z",
+  "timestamp": "2026-10-09T09:49:26.996Z",
   "title": "Featured work: Shutterfly data warehouse migration - DEPT®",
   "template": "dept-case",
   "locale": "global",
@@ -18,9 +18,6 @@
     "next-case"
   ],
   "fallback": [
-    "case-intro-title",
-    "image",
-    "image",
     "statement-v2"
   ],
   "images": [

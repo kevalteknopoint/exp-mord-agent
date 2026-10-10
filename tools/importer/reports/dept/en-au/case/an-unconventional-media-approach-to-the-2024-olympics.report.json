@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/an-unconventional-media-approach-to-the-2024-olympics/",
+  "path": "dept/en-au/case/an-unconventional-media-approach-to-the-2024-olympics",
+  "timestamp": "2026-10-09T12:27:41.435Z",
+  "title": "An unconventional media approach to the 2024 Olympics   - Foot Locker x DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/foot-locker-bus-in-paris-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/foot-locker-bus-in-paris-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/foot-locked-subway-wraps-1-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/foot-locked-subway-wraps-1-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/footlocker-uber.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/footlocker-uber.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/ebay-creative-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/ebay-creative-automation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/foot-locker-bus-in-paris-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/foot-locker-bus-in-paris-min.webp"
+    ]
+  ]
+}

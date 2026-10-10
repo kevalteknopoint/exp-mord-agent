@@ -1,0 +1,108 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-spatial-computing-will-change-the-digital-landscape/",
+  "path": "dept/insight/how-spatial-computing-will-change-the-digital-landscape",
+  "timestamp": "2026-10-09T22:05:51.345Z",
+  "title": "How spatial computing will change the digital landscape - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "cta-text",
+    "highlighted-insight",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/spatial-computing-affecting-industries.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/spatial-computing-affecting-industries.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Taking-It-All-In-How-Spatial-Computing-Will-Change-the-Digital-Landscape.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Taking-It-All-In-How-Spatial-Computing-Will-Change-the-Digital-Landscape.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/James_Lowe_VP-Commerce-APAC.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/James_Lowe_VP-Commerce-APAC.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Jessica_White_General-Manager-AU-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Jessica_White_General-Manager-AU-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Asher-wren-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Asher-wren-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Henry-Daubrez.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Henry-Daubrez.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Yash-Mody.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Yash-Mody.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Phil-gonzales.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Phil-gonzales.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/ToddH.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/ToddH.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Jan-Gutkuhn_DEPT%C2%AE-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Jan-Gutkuhn_DEPT--1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-van-Alphen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-van-Alphen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Creativity-x-AI-Linked-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Creativity-x-AI-Linked-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/10-perspectives-on-AI-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/10-perspectives-on-AI-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Is-2024-the-end-of-screens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Is-2024-the-end-of-screens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/From-content-creation-to-the-conceptual-web_-GenAIs-2024-trajectory-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/From-content-creation-to-the-conceptual-web_-GenAIs-2024-trajectory-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Taking-It-All-In-How-Spatial-Computing-Will-Change-the-Digital-Landscape.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Taking-It-All-In-How-Spatial-Computing-Will-Change-the-Digital-Landscape.jpg"
+    ]
+  ]
+}

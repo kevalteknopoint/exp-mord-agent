@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/boosting-the-job-market-with-data-driven-solutions/",
+  "path": "dept/case/boosting-the-job-market-with-data-driven-solutions",
+  "timestamp": "2026-10-09T10:08:40.747Z",
+  "title": "Boosting the job market with data-driven solutions - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-1a.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-1a.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-1181590443-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-1181590443-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-1294958620.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-1294958620.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/migrosbank-keyvisual-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/migrosbank-keyvisual-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/space-kids-feet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/space-kids-feet.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

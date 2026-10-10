@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/the-keys-to-keybanks-digital-marketing-success/",
+  "path": "dept/case/the-keys-to-keybanks-digital-marketing-success",
+  "timestamp": "2026-10-09T11:04:40.358Z",
+  "title": "The keys to Keybank's digital marketing success - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/mortgage_index_1000x480.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/mortgage_index_1000x480.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/compare_credit_cards_1020_1500x556.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/compare_credit_cards_1020_1500x556.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-33-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-33-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Le-Mans_Asset3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Le-Mans_Asset3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/key-bank.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/key-bank.jpg"
+    ]
+  ]
+}

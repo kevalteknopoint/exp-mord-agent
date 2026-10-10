@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/e-commerce-and-marketplaces/amazon/retail-media/",
+  "path": "dept/en-au/service/growth/e-commerce-and-marketplaces/amazon/retail-media",
+  "timestamp": "2026-10-09T14:22:40.323Z",
+  "title": "Retail media - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text",
+    "routing-banner"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

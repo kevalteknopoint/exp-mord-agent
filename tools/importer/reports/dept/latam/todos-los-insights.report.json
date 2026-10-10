@@ -1,0 +1,87 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/todos-los-insights/",
+  "path": "dept/latam/todos-los-insights",
+  "timestamp": "2026-10-09T22:34:33.118Z",
+  "title": "Insights - DEPT®",
+  "template": "dept-page",
+  "locale": "latam",
+  "components": [
+    "content-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Trends2026_HeroImage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Trends2026_HeroImage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Lovie-AOTY-2025-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Lovie-AOTY-2025-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Anthem-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Anthem-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Ambassador-Slop-Inisght-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Ambassador-Slop-Inisght-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-productivity_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-productivity_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/granny-spills-ai-influencer.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/granny-spills-ai-influencer.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Hero-Banner-No-Text-1920-x-1080-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/New-Hire-Michael%E2%80%A8Lanyon-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/New-Hire-Michael-Lanyon-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Supreme-x-Louis-Vuitton.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Supreme-x-Louis-Vuitton.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/CRM-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/CRM-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Premiumization_-The-new-currency-for-CPG-growth-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Premiumization_-The-new-currency-for-CPG-growth-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Heritage-cultural-Gen-z.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Heritage-cultural-Gen-z.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/moon-creative-automatiom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/moon-creative-automatiom.jpeg"
+    ]
+  ]
+}

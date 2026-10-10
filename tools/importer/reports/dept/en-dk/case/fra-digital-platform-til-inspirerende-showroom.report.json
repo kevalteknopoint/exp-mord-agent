@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/fra-digital-platform-til-inspirerende-showroom/",
+  "path": "dept/en-dk/case/fra-digital-platform-til-inspirerende-showroom",
+  "timestamp": "2026-10-09T14:20:48.739Z",
+  "title": "Fra digital platform til inspirerende showroom - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/D-Hero-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/D-Hero-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/visual-light-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/visual-light-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/D-Fullscreen-UI-6-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/D-Fullscreen-UI-6-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/boconcept-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/boconcept-website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/50-50-10-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/50-50-10-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/50-50-12.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/50-50-12.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bo-Bille.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bo-Bille.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Rotate-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Rotate-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1223832759-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1223832759-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/D-Hero-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/D-Hero-2-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-is-headed-to-las-vegas-for-adobe-summit/",
+  "path": "dept/en-au/insight/dept-is-headed-to-las-vegas-for-adobe-summit",
+  "timestamp": "2026-10-09T13:22:52.740Z",
+  "title": "DEPT® is headed to Las Vegas for Adobe Summit - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/ADOBE-SUMMIT-25-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/ADOBE-SUMMIT-25-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-Adobe-Summit-Announcement-Event-Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--Adobe-Summit-Announcement-Event-Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Missy-Foristall-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Missy-Foristall-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/ADOBE-SUMMIT-25-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/ADOBE-SUMMIT-25-1000x1200-1.png"
+    ]
+  ]
+}

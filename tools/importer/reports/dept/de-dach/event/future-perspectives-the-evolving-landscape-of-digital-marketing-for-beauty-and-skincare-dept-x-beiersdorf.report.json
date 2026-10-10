@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/future-perspectives-the-evolving-landscape-of-digital-marketing-for-beauty-and-skincare-dept-x-beiersdorf/",
+  "path": "dept/de-dach/event/future-perspectives-the-evolving-landscape-of-digital-marketing-for-beauty-and-skincare-dept-x-beiersdorf",
+  "timestamp": "2026-10-09T22:41:33.341Z",
+  "title": "The Evolving Landscape of Digital Marketing - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-program",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Beiersdorf-client-love-day-Event-header-plain-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Beiersdorf-client-love-day-Event-header-plain-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Beiersdorf-client-love-day-Event-header-plain-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Beiersdorf-client-love-day-Event-header-plain-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/1612343446192.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/1612343446192.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/1525102338647.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/1525102338647.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/John-Lin.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/John-Lin.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Thomas-Wlazik_TikTok.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Thomas-Wlazik_TikTok.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Julia-Grollmund-Dept-e1627491803263.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Julia-Grollmund-Dept-e1627491803263.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/pascal.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/pascal.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Tobias_17-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Tobias_17-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Beiersdorf-client-love-day-Event-header-plain-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Beiersdorf-client-love-day-Event-header-plain-1440x588-1.png"
+    ]
+  ]
+}

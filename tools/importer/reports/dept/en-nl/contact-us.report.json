@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/contact-us/",
+  "path": "dept/en-nl/contact-us",
+  "timestamp": "2026-10-09T23:42:04.581Z",
+  "title": "Contact - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "contact-form-big",
+    "office-map"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/dept-new-1024x683-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/dept-new-1024x683-1.jpg"
+    ]
+  ]
+}

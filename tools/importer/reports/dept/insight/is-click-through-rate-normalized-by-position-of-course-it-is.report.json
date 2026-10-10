@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/is-click-through-rate-normalized-by-position-of-course-it-is/",
+  "path": "dept/insight/is-click-through-rate-normalized-by-position-of-course-it-is",
+  "timestamp": "2026-10-09T22:31:14.940Z",
+  "title": "Is click-through-rate normalized by position? Of course it is - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/man-computers-1500x1000-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/man-computers-1500x1000-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/David-Rodnitzky-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/David-Rodnitzky-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/David-Rodnitzky.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/David-Rodnitzky.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/man-computers-1500x1000-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/man-computers-1500x1000-2.jpeg"
+    ]
+  ]
+}

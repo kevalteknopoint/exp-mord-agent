@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/what-to-know-before-your-data-project/",
+  "path": "dept/en-in/insight/what-to-know-before-your-data-project",
+  "timestamp": "2026-10-09T15:59:52.140Z",
+  "title": "What to know before your data project - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/before-your-data-project.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/before-your-data-project.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/david-grover-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/david-grover-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-analyst-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-analyst-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sustainability-in-tech.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sustainability-in-tech.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/before-your-data-analytics-project-Open-graph.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/before-your-data-analytics-project-Open-graph.jpg"
+    ]
+  ]
+}

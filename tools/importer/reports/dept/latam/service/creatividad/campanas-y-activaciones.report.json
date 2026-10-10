@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/creatividad/campanas-y-activaciones/",
+  "path": "dept/latam/service/creatividad/campanas-y-activaciones",
+  "timestamp": "2026-10-09T22:28:29.242Z",
+  "title": "Campañas y activaciones - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DEPT_19Dec-008-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DEPT_19Dec-008-1200x750-c.jpg"
+    ]
+  ]
+}

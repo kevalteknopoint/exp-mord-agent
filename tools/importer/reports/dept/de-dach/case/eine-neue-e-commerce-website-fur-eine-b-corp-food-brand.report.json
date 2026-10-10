@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-neue-e-commerce-website-fur-eine-b-corp-food-brand/",
+  "path": "dept/de-dach/case/eine-neue-e-commerce-website-fur-eine-b-corp-food-brand",
+  "timestamp": "2026-10-09T10:56:53.383Z",
+  "title": "Eine neue E-Commerce-Website für eine B Corp Food Brand - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/simple-feast-sandwich-1-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/simple-feast-sandwich-1-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/2022_jan-camp_desktop-dk-4mb-0-00-12-09-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/2022_jan-camp_desktop-dk-4mb-0-00-12-09-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/simple-feast-ui-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/simple-feast-ui-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/D-Full-screen-UI-8.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/D-Full-screen-UI-8.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/simple-feast-mobile-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/simple-feast-mobile-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.39.18-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2021-10-20-um-13.39.18-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Simple_Feast_DEPT%C2%AE-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Simple_Feast_DEPT--1024x576.png"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/den-menschen-weltweit-das-beste-von-google-bieten/",
+  "path": "dept/de-dach/case/den-menschen-weltweit-das-beste-von-google-bieten",
+  "timestamp": "2026-10-09T11:32:16.679Z",
+  "title": "Den Menschen weltweit das Beste von Google bieten - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Google-closeup-phone-camera.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Google-closeup-phone-camera.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Google-website-components.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Google-website-components.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1188236181-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1188236181-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Google-store-headphones.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Google-store-headphones.webp"
+    ]
+  ]
+}

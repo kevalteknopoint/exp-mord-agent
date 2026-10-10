@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/vacancy/8035766-principal-data-analytics-adobe-aa-cja-websdk",
+  "path": "dept/vacancy/8035766-principal-data-analytics-adobe-aa-cja-websdk",
+  "timestamp": "2026-10-09T22:17:29.941Z",
+  "title": "Principal, Data Analytics (Adobe - AA/CJA/WebSDK) - DEPT®",
+  "template": "dept-vacancy",
+  "locale": "global",
+  "components": [
+    "job-details",
+    "image-cards"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-tl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-tl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-tr.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-tr.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-bl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-bl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/hustle-br.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/hustle-br.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/800x600-6.jpg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/800x600-6.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/atlassian/",
+  "path": "dept/en-nl/case/atlassian",
+  "timestamp": "2026-10-09T17:43:38.342Z",
+  "title": "Featured work: Solving diverse marketing challenges for Atlassian",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-883852326.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-883852326.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Big-Time-Insight-image-550x344-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Big-Time-Insight-image-550x344-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/atlassian-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/atlassian-logo.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/preparing-a-fintech-giant-for-the-age-of-ai-search/",
+  "path": "dept/case/preparing-a-fintech-giant-for-the-age-of-ai-search",
+  "timestamp": "2026-10-09T10:41:50.968Z",
+  "title": "Preparing a fintech giant for the age of AI search - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-1-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-1-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-3-1080X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-3-1080X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Jets-Bot-Builder-Home.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Jets-Bot-Builder-Home.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ]
+  ]
+}

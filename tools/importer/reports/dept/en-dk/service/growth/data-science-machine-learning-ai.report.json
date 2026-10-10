@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/growth/data-science-machine-learning-ai/",
+  "path": "dept/en-dk/service/growth/data-science-machine-learning-ai",
+  "timestamp": "2026-10-09T14:20:44.987Z",
+  "title": "Data Science - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/data-science.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/data-science.jpg"
+    ]
+  ]
+}

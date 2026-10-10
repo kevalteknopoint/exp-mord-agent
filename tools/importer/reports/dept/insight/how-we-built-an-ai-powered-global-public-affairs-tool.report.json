@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-we-built-an-ai-powered-global-public-affairs-tool/",
+  "path": "dept/insight/how-we-built-an-ai-powered-global-public-affairs-tool",
+  "timestamp": "2026-10-09T22:21:54.739Z",
+  "title": "How we built an AI-powered global public affairs tool - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ai-public-affair-tool.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ai-public-affair-tool.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/david-grover-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/david-grover-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/ai-public-affair-tool.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/ai-public-affair-tool.jpg"
+    ]
+  ]
+}

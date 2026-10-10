@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/bringing-a-mountain-sized-message-to-life/",
+  "path": "dept/en-in/case/bringing-a-mountain-sized-message-to-life",
+  "timestamp": "2026-10-09T14:54:40.641Z",
+  "title": "Featured work: “Not a Streetwear Brand” campaign from Mammut - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "full-width-image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Mammut1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Mammut1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Mammut2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Mammut2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Mammut3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Mammut3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Mammut4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Mammut4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Mammut5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Mammut5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Mammut6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Mammut6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Mammut7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Mammut7.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Mammut1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Mammut1.jpg"
+    ]
+  ]
+}

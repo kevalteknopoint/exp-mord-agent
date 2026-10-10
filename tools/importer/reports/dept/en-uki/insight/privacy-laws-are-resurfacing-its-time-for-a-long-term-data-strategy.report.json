@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/privacy-laws-are-resurfacing-its-time-for-a-long-term-data-strategy/",
+  "path": "dept/en-uki/insight/privacy-laws-are-resurfacing-its-time-for-a-long-term-data-strategy",
+  "timestamp": "2026-10-09T20:15:43.340Z",
+  "title": "It's time for a long-term data strategy - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/data-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/data-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Matt-Lacey-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Matt-Lacey-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/data-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/data-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Matt-Lacey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Matt-Lacey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/data-concept-1024x683.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/data-concept-1024x683.jpg"
+    ]
+  ]
+}

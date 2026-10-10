@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/creatividad/motion-design/",
+  "path": "dept/latam/service/creatividad/motion-design",
+  "timestamp": "2026-10-09T22:29:00.027Z",
+  "title": "Motion design - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Motion-graphic-1200x750-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Motion-graphic-1200x750-c.png"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/agency/dogstudio/",
+  "path": "dept/agency/dogstudio",
+  "timestamp": "2026-10-09T10:00:37.983Z",
+  "title": "DOGSTUDIO/DEPT® - DEPT®",
+  "template": "dept-agency",
+  "locale": "global",
+  "components": [
+    "panel-agency-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Dogstudio-x-DEPT%C2%AE-PR-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Dogstudio-x-DEPT--PR-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Dogstudio-x-DEPT%C2%AE-PR-image-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Dogstudio-x-DEPT--PR-image-1024x576.png"
+    ]
+  ]
+}

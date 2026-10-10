@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/social-advertising-to-stimulate-growth-in-companies/",
+  "path": "dept/en-nl/case/social-advertising-to-stimulate-growth-in-companies",
+  "timestamp": "2026-10-09T17:25:33.364Z",
+  "title": "Social advertising to stimulate growth in companies   - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "intro-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Microsoft-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Microsoft-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Microsoft-4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Microsoft-4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Microsoft-6-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Microsoft-6-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Microsoft-8-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Microsoft-8-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Microsoft-10-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Microsoft-10-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Microsoft-10.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Microsoft-10.png"
+    ]
+  ]
+}

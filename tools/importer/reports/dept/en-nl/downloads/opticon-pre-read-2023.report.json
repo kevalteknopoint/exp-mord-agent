@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/opticon-pre-read-2023/",
+  "path": "dept/en-nl/downloads/opticon-pre-read-2023",
+  "timestamp": "2026-10-09T17:52:04.969Z",
+  "title": "Opticon pre-read 2023 - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/orange-comb-gray-background.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/orange-comb-gray-background.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/DEPT%C2%AE-x-Opticon-2023-longread-min-250x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/DEPT--x-Opticon-2023-longread-min-250x300.jpg"
+    ]
+  ]
+}

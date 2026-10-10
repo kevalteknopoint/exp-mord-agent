@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/make-beauty-fun-with-a-colourful-roblox-experience-for-gen-z-and-alpha/",
+  "path": "dept/case/make-beauty-fun-with-a-colourful-roblox-experience-for-gen-z-and-alpha",
+  "timestamp": "2026-10-09T10:29:03.540Z",
+  "title": "Making beauty fun with a colourful Roblox Experience for Gen Z and Alpha - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT%C2%AE-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT--2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/cosnova_cases-collage_dept-4-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/cosnova_cases-collage_dept-4-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Roblox_Case_Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Roblox_Case_Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Dept_Stefan_Ripke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Dept_Stefan_Ripke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lousiana_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lousiana_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ]
+  ]
+}

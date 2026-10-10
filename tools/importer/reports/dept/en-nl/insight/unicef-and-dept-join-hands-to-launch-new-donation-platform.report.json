@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/unicef-and-dept-join-hands-to-launch-new-donation-platform/",
+  "path": "dept/en-nl/insight/unicef-and-dept-join-hands-to-launch-new-donation-platform",
+  "timestamp": "2026-10-09T23:54:05.840Z",
+  "title": "UNICEF and DEPT® join hands to launch new donation platform - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Unicef-PR-Insight-Featured-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Unicef-PR-Insight-Featured-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/boy-in-school-with-backpack.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/boy-in-school-with-backpack.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Cannes-lions-hot-takes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Cannes-lions-hot-takes.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/flimsy-fence.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/flimsy-fence.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Online-shopping-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Online-shopping-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Unicef-PR-Insight-Featured-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Unicef-PR-Insight-Featured-1920x1080-1.jpg"
+    ]
+  ]
+}

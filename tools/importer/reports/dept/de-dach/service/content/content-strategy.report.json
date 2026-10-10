@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/content/content-strategy/",
+  "path": "dept/de-dach/service/content/content-strategy",
+  "timestamp": "2026-10-09T12:06:13.619Z",
+  "title": "Content Strategy - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-scaled-e1627487063485.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/2017_16_02_Amsterdam_Marketing_DEPT_TALKS_JRF__127-e1551949105938-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/2017_16_02_Amsterdam_Marketing_DEPT_TALKS_JRF__127-e1551949105938-1200x750-c.jpg"
+    ]
+  ]
+}

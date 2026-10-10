@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/three-data-types-that-actually-predict-customer-decisions/",
+  "path": "dept/insight/three-data-types-that-actually-predict-customer-decisions",
+  "timestamp": "2026-10-09T22:09:21.944Z",
+  "title": "Three data types that actually predict customer decisions - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Three-data-types_Feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Three-data-types_Feature.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/y_whitebg-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/y_whitebg-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Attitudinal-Data.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Attitudinal-Data.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Intent-Data.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Intent-Data.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Behavioral-Data.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Behavioral-Data.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Three-data-types_Feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Three-data-types_Feature.webp"
+    ]
+  ]
+}

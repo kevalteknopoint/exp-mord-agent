@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-virtuelle-zeitreise-durch-die-musikgeschichte/",
+  "path": "dept/de-dach/case/eine-virtuelle-zeitreise-durch-die-musikgeschichte",
+  "timestamp": "2026-10-09T10:58:06.298Z",
+  "title": "Eine virtuelle Zeitreise durch die Musikgeschichte - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/50-years-swiss-music-charts.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/50-years-swiss-music-charts.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/maxim-melnikov-7oh6dJVhurM-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/maxim-melnikov-7oh6dJVhurM-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Featured-Image_DS.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Featured-Image_DS.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/50-years-swiss-music-charts.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/50-years-swiss-music-charts.jpg"
+    ]
+  ]
+}

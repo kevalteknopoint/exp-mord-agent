@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/soluciones/transformacion-con-ia/future-of-the-customer-journey/",
+  "path": "dept/latam/soluciones/transformacion-con-ia/future-of-the-customer-journey",
+  "timestamp": "2026-10-09T22:33:40.200Z",
+  "title": "Business-to-agent (B2A) marketing strategy - DEPT®",
+  "template": "dept-soluciones",
+  "locale": "latam",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-statement",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-Additional-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-Additional-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-1.png"
+    ]
+  ]
+}

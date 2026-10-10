@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/organic-presence-soars-from-seo-collaboration/",
+  "path": "dept/en-au/case/organic-presence-soars-from-seo-collaboration",
+  "timestamp": "2026-10-09T12:18:42.341Z",
+  "title": "Organic presence soars from SEO collaboration - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "panel-two-media",
+    "stats-panel",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/AdobeStock_358968493-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/AdobeStock_358968493-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/gustavo-zambelli-nEvzSXBIhiU-unsplash-min-1-min-compressed.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/gustavo-zambelli-nEvzSXBIhiU-unsplash-min-1-min-compressed.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/AdobeStock_252261285-min-1-1-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/AdobeStock_252261285-min-1-1-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/joss-woodhead-tfEoT92EYlo-unsplash-min-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/joss-woodhead-tfEoT92EYlo-unsplash-min-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-7-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-7-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/van.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/van.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/ehealth.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/ehealth.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Griffin-funding-mortgage-bankers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Griffin-funding-mortgage-bankers.jpg"
+    ]
+  ]
+}

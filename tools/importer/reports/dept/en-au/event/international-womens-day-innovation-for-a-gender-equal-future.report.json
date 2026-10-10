@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/international-womens-day-innovation-for-a-gender-equal-future/",
+  "path": "dept/en-au/event/international-womens-day-innovation-for-a-gender-equal-future",
+  "timestamp": "2026-10-09T11:55:22.553Z",
+  "title": "International Women’s Day – Innovation for a Gender-Equal Future - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-IWD-Event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--IWD-Event-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Missy-Foristall-Dept-1-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Missy-Foristall-Dept-1-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/IMG_1184-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/IMG_1184-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Eva_Kane-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Eva_Kane-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jeanette-Kerssens-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jeanette-Kerssens-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.19.17-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.19.17-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.17.25-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.17.25-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.13.11-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.13.11-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.14.04-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.14.04-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-15.32.45-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-15.32.45-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-IWD-Event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--IWD-Event-header.jpg"
+    ]
+  ]
+}

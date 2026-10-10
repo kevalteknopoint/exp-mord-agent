@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/accessibility-in-healthcare-the-future-of-inclusive-digital-experiences/",
+  "path": "dept/en-dk/insight/accessibility-in-healthcare-the-future-of-inclusive-digital-experiences",
+  "timestamp": "2026-10-09T14:01:53.466Z",
+  "title": "Accessibility in healthcare: The future of inclusive digital experiences - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Digital-health-event-header-1905x975-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Digital-health-event-header-1905x975-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Kali-Healthcare-dept-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Kali-Healthcare-dept-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Clair-case-study-asset-4.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Clair-case-study-asset-4.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/spatial-computing-affecting-industries.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/spatial-computing-affecting-industries.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Trends-report-2025-Featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Trends-report-2025-Featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Digital-health-event-header-1905x975-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Digital-health-event-header-1905x975-min.png"
+    ]
+  ]
+}

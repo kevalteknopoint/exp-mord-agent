@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/transforming-digital-experience-with-adobe-experience-manager/",
+  "path": "dept/en-in/case/transforming-digital-experience-with-adobe-experience-manager",
+  "timestamp": "2026-10-09T16:26:33.141Z",
+  "title": "Featured work: HDFC Ltd Adobe migration",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/breakfast-in-bed-couple.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/breakfast-in-bed-couple.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Griffin-funding-mortgage-bankers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Griffin-funding-mortgage-bankers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/breakfast-in-bed-couple.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/breakfast-in-bed-couple.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/stay-ahead-mit-dept/",
+  "path": "dept/de-dach/stay-ahead-mit-dept",
+  "timestamp": "2026-10-09T11:28:58.139Z",
+  "title": "Stay Ahead mit DEPT® - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/hand-light.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/hand-light.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/hand-light.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/hand-light.png"
+    ]
+  ]
+}

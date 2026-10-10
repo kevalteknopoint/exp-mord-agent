@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/research-insights/",
+  "path": "dept/en-in/service/growth/research-insights",
+  "timestamp": "2026-10-09T16:34:32.986Z",
+  "title": "Research & Insights - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/reseach-insihgt.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/reseach-insihgt.jpg"
+    ]
+  ]
+}

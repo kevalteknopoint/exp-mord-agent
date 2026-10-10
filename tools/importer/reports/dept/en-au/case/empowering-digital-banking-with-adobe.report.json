@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/empowering-digital-banking-with-adobe/",
+  "path": "dept/en-au/case/empowering-digital-banking-with-adobe",
+  "timestamp": "2026-10-09T12:58:37.252Z",
+  "title": "Digital card launch with AEM upgrade and migration to AMS cloud",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/IDFC-First-Bank-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/IDFC-First-Bank-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Amazon-Prime-x-Without-Remorse-6-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Amazon-Prime-x-Without-Remorse-6-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/pickleball-court.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/pickleball-court.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/twitch-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/twitch-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/IDFC-First-Bank-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/IDFC-First-Bank-Case-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/solutions/ai-transformation/future-of-the-customer-journey/",
+  "path": "dept/solutions/ai-transformation/future-of-the-customer-journey",
+  "timestamp": "2026-10-09T21:58:43.940Z",
+  "title": "Business-to-agent (B2A) marketing strategy - DEPT®",
+  "template": "dept-solutions",
+  "locale": "global",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-statement",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-Additional-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-Additional-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/report-how-consumers-are-usingi-ai-shopping.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Three-data-types_Feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Three-data-types_Feature.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Five-ways-that-AI-is-changing-the-CJ_1920x1080.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Five-ways-that-AI-is-changing-the-CJ_1920x1080.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Future-of-the-Customer-Journey-1920x1080-1.png"
+    ]
+  ]
+}

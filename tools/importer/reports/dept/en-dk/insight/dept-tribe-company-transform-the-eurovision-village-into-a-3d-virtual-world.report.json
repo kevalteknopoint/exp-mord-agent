@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/dept-tribe-company-transform-the-eurovision-village-into-a-3d-virtual-world/",
+  "path": "dept/en-dk/insight/dept-tribe-company-transform-the-eurovision-village-into-a-3d-virtual-world",
+  "timestamp": "2026-10-09T15:07:55.958Z",
+  "title": "DEPT® og Tribe Company skaber en virtuel 3D-festival til Eurovision Song Contest 2021 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/eurovision_render2_1-320x180-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/eurovision_render2_1-320x180-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-Dam-Johnse-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-Dam-Johnse-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Eurovision-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Eurovision-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-Dam-Johnse.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-Dam-Johnse.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/eurovision_render2_1-320x180-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/eurovision_render2_1-320x180-1-1.png"
+    ]
+  ]
+}

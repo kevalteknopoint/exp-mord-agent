@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/turning-grassroots-humor-into-beloved-brand-ip-for-twitch/",
+  "path": "dept/awards/turning-grassroots-humor-into-beloved-brand-ip-for-twitch",
+  "timestamp": "2026-10-09T10:37:39.146Z",
+  "title": "Turning a meme into beloved brand IP - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/GRass-Collage-v2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/GRass-Collage-v2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Grass-Lord-Collage-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Grass-Lord-Collage-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/grasslord-UGC-Three-Up-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/grasslord-UGC-Three-Up-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/grasslord-twitchcon-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/grasslord-twitchcon-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/grasslord-twitchcon-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/grasslord-twitchcon-2024.jpg"
+    ]
+  ]
+}

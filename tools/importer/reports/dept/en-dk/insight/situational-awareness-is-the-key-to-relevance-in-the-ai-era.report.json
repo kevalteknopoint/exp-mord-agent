@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/situational-awareness-is-the-key-to-relevance-in-the-ai-era/",
+  "path": "dept/en-dk/insight/situational-awareness-is-the-key-to-relevance-in-the-ai-era",
+  "timestamp": "2026-10-09T15:04:22.463Z",
+  "title": "Situational awareness is the key to relevance in the AI era  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-innovation.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-innovation.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rasmus-Keller-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rasmus-Keller-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-innovation.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-innovation.webp"
+    ]
+  ]
+}

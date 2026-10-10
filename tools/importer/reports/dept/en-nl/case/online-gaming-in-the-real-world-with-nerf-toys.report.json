@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/online-gaming-in-the-real-world-with-nerf-toys/",
+  "path": "dept/en-nl/case/online-gaming-in-the-real-world-with-nerf-toys",
+  "timestamp": "2026-10-09T17:11:37.050Z",
+  "title": "Online gaming in the real world with NERF toys - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nerf_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nerf_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/nerf-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/nerf-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/LME_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/LME_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nerf_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nerf_1.png"
+    ]
+  ]
+}

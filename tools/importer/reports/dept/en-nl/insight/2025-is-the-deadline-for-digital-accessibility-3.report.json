@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-nl/insight/2025-is-the-deadline-for-digital-accessibility-3/",
   "path": "dept/en-nl/insight/2025-is-the-deadline-for-digital-accessibility-3",
-  "timestamp": "2026-10-08T15:00:49.434Z",
+  "timestamp": "2026-10-09T09:55:39.588Z",
   "title": "2025 is the deadline for digital accessibility - DEPT®",
   "template": "dept-insight",
   "locale": "en-nl",
@@ -17,11 +17,7 @@
     "get-in-touch",
     "highlighted-item-listing"
   ],
-  "fallback": [
-    "statement",
-    "panel-with-image-and-rich-text",
-    "case-study-showcase"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/02/Asher-wren-2.jpg",

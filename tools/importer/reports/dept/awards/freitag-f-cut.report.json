@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/freitag-f-cut/",
+  "path": "dept/awards/freitag-f-cut",
+  "timestamp": "2026-10-09T10:19:08.235Z",
+  "title": "FREITAG F-Cut - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "intro-text",
+    "panel-with-rich-text",
+    "video",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "quote",
+    "call-to-action"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/EN-f-cut-landing-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/EN-f-cut-landing-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/EN-f-cut-mobile-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/EN-f-cut-mobile-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/EN-f-cut-preview-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/EN-f-cut-preview-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/f-worker.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/f-worker.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/growth/training/",
+  "path": "dept/de-dach/service/growth/training",
+  "timestamp": "2026-10-09T11:27:40.359Z",
+  "title": "Training - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/2017_22_05_Dept_Rotterdam_Marketing_Social_post_Portretten_JRF9568-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/2017_22_05_Dept_Rotterdam_Marketing_Social_post_Portretten_JRF9568-1200x750-c.jpg"
+    ]
+  ]
+}

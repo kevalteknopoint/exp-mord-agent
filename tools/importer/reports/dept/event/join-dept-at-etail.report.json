@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/join-dept-at-etail/",
+  "path": "dept/event/join-dept-at-etail",
+  "timestamp": "2026-10-09T21:23:33.034Z",
+  "title": "Join us at eTail Palm Springs - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/eTail-Heroimage-16x9-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/eTail-Heroimage-16x9-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Bridget-Fahlrand-Headshot.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Bridget-Fahlrand-Headshot.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Bairavi-BB-Bala-profile-picture.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Bairavi-BB-Bala-profile-picture.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/eTail-Heroimage-16x9-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/eTail-Heroimage-16x9-1.png"
+    ]
+  ]
+}

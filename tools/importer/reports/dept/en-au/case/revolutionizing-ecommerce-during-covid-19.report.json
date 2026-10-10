@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/revolutionizing-ecommerce-during-covid-19/",
+  "path": "dept/en-au/case/revolutionizing-ecommerce-during-covid-19",
+  "timestamp": "2026-10-09T12:26:50.961Z",
+  "title": "Revolutionizing eCommerce during COVID-19 - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "panel-two-media",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sneaker-featuredimage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sneaker-featuredimage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/retailshoesImageLeft.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/retailshoesImageLeft.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/retailfootwearSolution3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/retailfootwearSolution3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/WP20002_BLAK_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/WP20002_BLAK_11.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1016887284-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1016887284-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/JM-alternative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/JM-alternative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sneaker-featuredimage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sneaker-featuredimage.jpg"
+    ]
+  ]
+}

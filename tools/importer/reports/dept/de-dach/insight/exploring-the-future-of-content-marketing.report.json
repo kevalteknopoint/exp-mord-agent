@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/exploring-the-future-of-content-marketing/",
+  "path": "dept/de-dach/insight/exploring-the-future-of-content-marketing",
+  "timestamp": "2026-10-09T12:02:53.468Z",
+  "title": "Exploring the Future of Content Marketing - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DSC3072-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DSC3072-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/luebue_NEU-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/luebue_NEU-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DSC3072-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DSC3072-1-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/what-the-gartner-magic-quadrant-on-digital-experience-platforms-tells-us/",
+  "path": "dept/insight/what-the-gartner-magic-quadrant-on-digital-experience-platforms-tells-us",
+  "timestamp": "2026-10-09T21:08:53.676Z",
+  "title": "What the Gartner Magic Quadrant on digital experience platforms tells us - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept-45-1-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept-45-1-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/DEPT_19Dec-007_preview-585x585-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/DEPT_19Dec-007_preview-585x585-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept-41-1-585x585-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept-41-1-585x585-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Terence-de-Waard-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Terence-de-Waard-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept-45-1-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept-45-1-1200x750-c.jpg"
+    ]
+  ]
+}

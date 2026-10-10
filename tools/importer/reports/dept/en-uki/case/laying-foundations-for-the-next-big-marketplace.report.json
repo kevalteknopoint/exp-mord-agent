@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/laying-foundations-for-the-next-big-marketplace/",
+  "path": "dept/en-uki/case/laying-foundations-for-the-next-big-marketplace",
+  "timestamp": "2026-10-09T20:19:26.740Z",
+  "title": "Laying foundations for the next big marketplace - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/dayrize_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/dayrize_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/dayrize_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/dayrize_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/dayrize_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/dayrize_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/dayrize_4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/dayrize_4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Matt-Lacey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Matt-Lacey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1269732224-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1269732224-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/dayrize_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/dayrize_1.png"
+    ]
+  ]
+}

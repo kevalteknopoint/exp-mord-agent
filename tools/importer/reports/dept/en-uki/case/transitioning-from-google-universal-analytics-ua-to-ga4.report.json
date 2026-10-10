@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/transitioning-from-google-universal-analytics-ua-to-ga4/",
+  "path": "dept/en-uki/case/transitioning-from-google-universal-analytics-ua-to-ga4",
+  "timestamp": "2026-10-09T19:17:28.549Z",
+  "title": "Transitioning from Google Universal Analytics (UA) to GA4 - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/JYSK-image-numbers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/JYSK-image-numbers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Oliver-Pedersen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Oliver-Pedersen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/jysk-lounge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/jysk-lounge.jpg"
+    ]
+  ]
+}

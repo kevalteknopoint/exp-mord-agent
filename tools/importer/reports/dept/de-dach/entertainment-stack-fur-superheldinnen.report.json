@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/entertainment-stack-fur-superheldinnen/",
+  "path": "dept/de-dach/entertainment-stack-fur-superheldinnen",
+  "timestamp": "2026-10-09T22:38:35.274Z",
+  "title": "Entertainment-Stack für Superheld:innen - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "intro-text",
+    "panel-work",
+    "image",
+    "panel-work",
+    "video",
+    "quote",
+    "panel-work",
+    "panel-industries",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Samsung.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Samsung.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

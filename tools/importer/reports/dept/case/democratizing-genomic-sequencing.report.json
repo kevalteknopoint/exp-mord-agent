@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/democratizing-genomic-sequencing/",
+  "path": "dept/case/democratizing-genomic-sequencing",
+  "timestamp": "2026-10-09T10:41:39.901Z",
+  "title": "Democratizing genomic sequencing - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-platform-ui-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-platform-ui-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/easy-genomics-DNA-sequence.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/easy-genomics-DNA-sequence.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-nosotrxs-fer-civitico-y-antu-caballero/",
+  "path": "dept/latam/insight/dept-nosotrxs-fer-civitico-y-antu-caballero",
+  "timestamp": "2026-10-09T23:29:37.476Z",
+  "title": "DEPT®/NOSOTRXS – Nando Civitico y Antu Caballero - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "media-with-text",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT-193-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-193-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT-Oficina-Villa-Crespo-144.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-Oficina-Villa-Crespo-144.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT-Oficina-Mar-del-Plata-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-Oficina-Mar-del-Plata-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT-193-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-193-1-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/embrace-digital-transformation-and-innovate-your-internal-organisation/",
+  "path": "dept/downloads/embrace-digital-transformation-and-innovate-your-internal-organisation",
+  "timestamp": "2026-10-09T11:39:25.969Z",
+  "title": "Embrace digital transformation and innovate your internal organisation - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rectangle-387.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rectangle-387.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rectangle-387.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rectangle-387.png"
+    ]
+  ]
+}

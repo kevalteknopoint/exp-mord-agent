@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/ai-changed-the-workflow-have-you-changed-the-jobs-around-it/",
+  "path": "dept/en-uki/insight/ai-changed-the-workflow-have-you-changed-the-jobs-around-it",
+  "timestamp": "2026-10-09T18:48:26.553Z",
+  "title": "AI changed the workflow. Have you changed the jobs around it?  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/combo2-1-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/combo2-1-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/CannesPanel.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/CannesPanel.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Solution-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Solution-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ]
+  ]
+}

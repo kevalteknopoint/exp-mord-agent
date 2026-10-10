@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-nl/insight/how-to-accelerate-digital-innovation-in-a-tough-economy/",
   "path": "dept/en-nl/insight/how-to-accelerate-digital-innovation-in-a-tough-economy",
-  "timestamp": "2026-10-08T16:13:17.688Z",
+  "timestamp": "2026-10-09T09:44:51.988Z",
   "title": "How to accelerate digital innovation in a tough economy - DEPT®",
   "template": "dept-insight",
   "locale": "en-nl",
@@ -17,9 +17,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/12/black-and-white-buildings.jpg",

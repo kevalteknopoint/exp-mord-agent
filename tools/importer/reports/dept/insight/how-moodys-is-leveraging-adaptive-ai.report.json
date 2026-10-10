@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-moodys-is-leveraging-adaptive-ai/",
+  "path": "dept/insight/how-moodys-is-leveraging-adaptive-ai",
+  "timestamp": "2026-10-09T20:56:36.091Z",
+  "title": "How Moody's is leveraging adaptive AI - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Moodys-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Moodys-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Growth-Marketing-Survey-General-feature-image-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Growth-Marketing-Survey-General-feature-image-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/AI-Big-data-LP-1920x1080-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/RAG-solutions-LLMs_AI-concept-1200x670px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/RAG-solutions-LLMs_AI-concept-1200x670px.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Moodys-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Moodys-featured.png"
+    ]
+  ]
+}

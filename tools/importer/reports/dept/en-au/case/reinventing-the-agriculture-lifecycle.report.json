@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/reinventing-the-agriculture-lifecycle/",
+  "path": "dept/en-au/case/reinventing-the-agriculture-lifecycle",
+  "timestamp": "2026-10-09T12:23:44.335Z",
+  "title": "IndigoAG: Reinventing the agriculture lifecycle - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1218623771-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1218623771-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Indigo-AG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Indigo-AG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-155145458-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-155145458-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1299915575-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1299915575-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Frame-1537-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Frame-1537-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-539454508-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-539454508-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Josh_Porter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Josh_Porter.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Arm_Hero_Static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Arm_Hero_Static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Barilla-Pesto-Week-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Barilla-Pesto-Week-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-7-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-7-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/indigo_8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/indigo_8-1.jpg"
+    ]
+  ]
+}

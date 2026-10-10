@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/lieferando-celebrates-city-life-with-hyper-local-campaign-in-germany/",
+  "path": "dept/en-uki/insight/lieferando-celebrates-city-life-with-hyper-local-campaign-in-germany",
+  "timestamp": "2026-10-09T20:04:51.639Z",
+  "title": "Lieferando celebrates city life with hyper-local campaign in Germany - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-x-Lieferando.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-x-Lieferando.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/luebue_NEU-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/luebue_NEU-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/JET-christina-latto-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/JET-christina-latto-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/JET-Home-of-the-Hotspots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/JET-Home-of-the-Hotspots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-x-Lieferando.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-x-Lieferando.jpg"
+    ]
+  ]
+}

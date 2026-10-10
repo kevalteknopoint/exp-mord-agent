@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/increasing-revenue-and-growing-brand-awareness-with-new-audiences/",
+  "path": "dept/en-in/case/increasing-revenue-and-growing-brand-awareness-with-new-audiences",
+  "timestamp": "2026-10-09T16:01:13.760Z",
+  "title": "Increasing revenue and growing brand awareness with new audiences - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "panel-two-media",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/healthcaretechSolution3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/healthcaretechSolution3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/healthcaretechImageRight2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/healthcaretechImageRight2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/healthtech-case-study-featured-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/healthtech-case-study-featured-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1221887249-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1221887249-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/law-hero-back-v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/law-hero-back-v2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/healthtech-case-study-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/healthtech-case-study-featured.jpg"
+    ]
+  ]
+}

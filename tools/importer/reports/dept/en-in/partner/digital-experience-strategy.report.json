@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/partner/digital-experience-strategy/",
+  "path": "dept/en-in/partner/digital-experience-strategy",
+  "timestamp": "2026-10-09T16:13:24.540Z",
+  "title": "Digital experience strategy | Adobe solutions | DEPT®",
+  "template": "dept-partner",
+  "locale": "en-in",
+  "components": [
+    "partner-header",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "case-teaser-v2",
+    "title-and-content",
+    "title-and-content",
+    "two-cards-and-content",
+    "form-page",
+    "cta-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Adobe.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Adobe.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/adobe-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/adobe-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/HDFC-LTD-Case-portrait.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/HDFC-LTD-Case-portrait.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Insurance-that-cares-for-customers-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Insurance-that-cares-for-customers-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Tyres_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Tyres_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/smart_DATA_case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/smart_DATA_case.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Beautiful-Homes-Case-portrait.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Beautiful-Homes-Case-portrait.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Partners_Adobe.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Partners_Adobe.jpg"
+    ]
+  ]
+}

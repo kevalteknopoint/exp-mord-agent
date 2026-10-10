@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/helping-ebay-start-a-conversation-with-the-world/",
+  "path": "dept/en-au/case/helping-ebay-start-a-conversation-with-the-world",
+  "timestamp": "2026-10-09T13:08:02.836Z",
+  "title": "Helping eBay start a conversation with the world - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HVR-Case-Study_Hero-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HVR-Case-Study_Hero-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/ebay-creative-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/ebay-creative-automation.jpg"
+    ]
+  ]
+}

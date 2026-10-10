@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/growth/creative-content/",
+  "path": "dept/en-dk/service/growth/creative-content",
+  "timestamp": "2026-10-09T23:20:46.642Z",
+  "title": "Creative & Content - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "service-post-header",
+    "title-and-content",
+    "panel-services",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/BANG-OLUFSEN_featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/BANG-OLUFSEN_featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Cecilie-Bligaard-e1694430603999.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Cecilie-Bligaard-e1694430603999.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/BANG-OLUFSEN_featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/BANG-OLUFSEN_featured.png"
+    ]
+  ]
+}

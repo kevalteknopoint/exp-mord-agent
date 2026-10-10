@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/rentabler-trotz-margendruck/",
+  "path": "dept/de-dach/case/rentabler-trotz-margendruck",
+  "timestamp": "2026-10-09T11:17:44.259Z",
+  "title": "Rentabler trotz Margendruck - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Retail-Commerce-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Retail-Commerce-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/smart_DATA_case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/smart_DATA_case.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Screenshot-2020-08-25-at-13.45.22.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Screenshot-2020-08-25-at-13.45.22.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Retail-Commerce-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Retail-Commerce-1.png"
+    ]
+  ]
+}

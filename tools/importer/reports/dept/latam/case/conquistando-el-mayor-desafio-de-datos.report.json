@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/conquistando-el-mayor-desafio-de-datos/",
+  "path": "dept/latam/case/conquistando-el-mayor-desafio-de-datos",
+  "timestamp": "2026-10-09T21:30:36.944Z",
+  "title": "Conquistando el mayor desafío de datos - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Rituals-header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Rituals-header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rituals_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rituals_1.jpg"
+    ]
+  ]
+}

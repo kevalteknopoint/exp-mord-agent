@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/building-an-immersive-digital-experience-for-an-alpine-destination/",
+  "path": "dept/awards/building-an-immersive-digital-experience-for-an-alpine-destination",
+  "timestamp": "2026-10-09T10:07:03.562Z",
+  "title": "Building an immersive digital experience for an alpine destination - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_screens-desktop_v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_screens-desktop_v2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_Mobile_screens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_Mobile_screens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg"
+    ]
+  ]
+}

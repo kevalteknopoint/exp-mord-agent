@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/the-two-layer-approach-the-future-of-influencer-and-creator-marketing/",
+  "path": "dept/en-dk/insight/the-two-layer-approach-the-future-of-influencer-and-creator-marketing",
+  "timestamp": "2026-10-09T15:16:47.050Z",
+  "title": "The two layer approach: the future of influencer and creator marketing - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/influencer-creator.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/influencer-creator.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Salome-Rijnders-Dept-2-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Salome-Rijnders-Dept-2-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Running-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Running-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/2025-social-media-trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/2025-social-media-trends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/TikTok-ban-insight-image-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/TikTok-ban-insight-image-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/influencer-creator.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/influencer-creator.webp"
+    ]
+  ]
+}

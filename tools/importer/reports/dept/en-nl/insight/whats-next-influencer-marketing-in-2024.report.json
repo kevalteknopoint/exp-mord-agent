@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/whats-next-influencer-marketing-in-2024/",
+  "path": "dept/en-nl/insight/whats-next-influencer-marketing-in-2024",
+  "timestamp": "2026-10-09T18:06:31.642Z",
+  "title": "What’s next: Influencer marketing in 2024 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Salome-Rijnders-Dept-2-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Salome-Rijnders-Dept-2-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/influencer-marketing-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/influencer-marketing-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/influencer-marketing-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/influencer-marketing-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/how-creator-economy-is-reshaping-marketing-500X300.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/how-creator-economy-is-reshaping-marketing-500X300.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/sociam-commerce-trends-2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/sociam-commerce-trends-2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/dept-2024-Trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/dept-2024-Trends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/charlotte-scorer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/charlotte-scorer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg"
+    ]
+  ]
+}

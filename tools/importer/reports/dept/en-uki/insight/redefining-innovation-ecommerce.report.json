@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/redefining-innovation-ecommerce/",
+  "path": "dept/en-uki/insight/redefining-innovation-ecommerce",
+  "timestamp": "2026-10-09T20:18:41.341Z",
+  "title": "Redefining innovation in e-commerce - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "call-to-action",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/rodion-kutsaev-0VGG7cqTwCo-unsplash-1200x750-c.jpeg"
+    ]
+  ]
+}

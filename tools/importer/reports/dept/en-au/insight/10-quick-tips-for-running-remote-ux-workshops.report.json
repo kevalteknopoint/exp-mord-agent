@@ -1,0 +1,78 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/10-quick-tips-for-running-remote-ux-workshops/",
+  "path": "dept/en-au/insight/10-quick-tips-for-running-remote-ux-workshops",
+  "timestamp": "2026-10-09T12:05:11.066Z",
+  "title": "10 quick tips for running remote UX workshops - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/remote-workshop-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/remote-workshop-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/workshop-objectives.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/workshop-objectives.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Workshop-agenda-2-1200x675-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Workshop-agenda-2-1200x675-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/1_HqSdGuDnUK_wTVZQxdPUdQ.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/1_HqSdGuDnUK_wTVZQxdPUdQ.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/1_nBcvTrDa7yIOxBwDSyry5A.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/1_nBcvTrDa7yIOxBwDSyry5A.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/1_zO-XBin4fSuSBhP-9aRfZA-scaled.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/1_zO-XBin4fSuSBhP-9aRfZA-scaled.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Parking-lot-1200x675-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Parking-lot-1200x675-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/remote-workshop-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/remote-workshop-1200x750-c.jpg"
+    ]
+  ]
+}

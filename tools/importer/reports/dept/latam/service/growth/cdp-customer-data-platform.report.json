@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/growth/cdp-customer-data-platform/",
+  "path": "dept/latam/service/growth/cdp-customer-data-platform",
+  "timestamp": "2026-10-09T22:30:29.072Z",
+  "title": "CDP: Customer Data Platform - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/CDP_-Customer-Data-Platform.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/CDP_-Customer-Data-Platform.png"
+    ]
+  ]
+}

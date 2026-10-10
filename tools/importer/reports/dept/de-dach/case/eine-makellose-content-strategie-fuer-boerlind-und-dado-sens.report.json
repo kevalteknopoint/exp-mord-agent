@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-makellose-content-strategie-fuer-boerlind-und-dado-sens/",
+  "path": "dept/de-dach/case/eine-makellose-content-strategie-fuer-boerlind-und-dado-sens",
+  "timestamp": "2026-10-09T10:56:09.787Z",
+  "title": "Eine makellose Content-Strategie für BÖRLIND und DADO SENS - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ANNEMARIE-BOeRLIND-NATUCOLLAGEN-BOOST-Gesichtsfluid-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ANNEMARIE-BOeRLIND-NATUCOLLAGEN-BOOST-Gesichtsfluid-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Carina-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Carina-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Arm_Hero_Static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Arm_Hero_Static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ANNEMARIE-BOeRLIND-NATUCOLLAGEN-BOOST-Gesichtsfluid-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ANNEMARIE-BOeRLIND-NATUCOLLAGEN-BOOST-Gesichtsfluid-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/hyper-personalised-video-marketing-to-increase-brand-awareness/",
+  "path": "dept/en-au/case/hyper-personalised-video-marketing-to-increase-brand-awareness",
+  "timestamp": "2026-10-09T13:09:21.366Z",
+  "title": "Video marketing to increase brand awareness - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/enyaq-opener-732d19.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/enyaq-opener-732d19.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/skoda-kodiaq-dynamisch-1520.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/skoda-kodiaq-dynamisch-1520.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Philips-Hue.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Philips-Hue.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/law-hero-back-v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/law-hero-back-v2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Screenshot-2023-12-08-at-2.29.01%E2%80%AFpm.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Screenshot-2023-12-08-at-2.29.01-pm.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1269732224-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1269732224-1-scaled.jpg"
+    ]
+  ]
+}

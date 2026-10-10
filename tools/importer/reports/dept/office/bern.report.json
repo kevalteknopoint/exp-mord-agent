@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/bern/",
+  "path": "dept/office/bern",
+  "timestamp": "2026-10-09T22:36:41.039Z",
+  "title": "Digitalagentur in Bern – DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Bern-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Bern-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Bern.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Bern.png"
+    ]
+  ]
+}

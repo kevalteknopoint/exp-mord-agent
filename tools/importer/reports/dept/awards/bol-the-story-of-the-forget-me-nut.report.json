@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/bol-the-story-of-the-forget-me-nut/",
+  "path": "dept/awards/bol-the-story-of-the-forget-me-nut",
+  "timestamp": "2026-10-09T10:06:36.455Z",
+  "title": "Bol: The Story of the Forget-me-nut - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/The-Story-of-the-Forget-me-nut_pepernoten.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/The-Story-of-the-Forget-me-nut_pepernoten.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/The-Story-of-the-Forget-me-nut_pepernoten.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/The-Story-of-the-Forget-me-nut_pepernoten.jpg"
+    ]
+  ]
+}

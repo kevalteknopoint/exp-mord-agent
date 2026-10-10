@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/survey-of-us-marketers-reveals-only-14-of-brands-are-chasing-growth-amid-economic-turbulence/",
+  "path": "dept/insight/survey-of-us-marketers-reveals-only-14-of-brands-are-chasing-growth-amid-economic-turbulence",
+  "timestamp": "2026-10-09T21:49:27.840Z",
+  "title": "Survey of US marketers reveals only 14% of brands are chasing growth amid economic turbulence - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Survey-of-US-marketers-thumbnail.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Survey-of-US-marketers-thumbnail.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Ellen-Corrigan-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Ellen-Corrigan-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/GMR-2023-Featured-Image-2200x1237-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/GMR-2023-Featured-Image-2200x1237-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/AI-google-more-important-than-ever.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/AI-google-more-important-than-ever.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/woman-pointing-at-laptop.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/woman-pointing-at-laptop.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/car-driving-winding-road.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/car-driving-winding-road.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Ellen-Corrigan-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Ellen-Corrigan-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Survey-of-US-marketers-thumbnail.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Survey-of-US-marketers-thumbnail.jpg"
+    ]
+  ]
+}

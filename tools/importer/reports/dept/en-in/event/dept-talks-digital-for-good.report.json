@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/dept-talks-digital-for-good/",
+  "path": "dept/en-in/event/dept-talks-digital-for-good",
+  "timestamp": "2026-10-09T15:49:08.739Z",
+  "title": "Digital for Good - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/DEPT%C2%AE-Talks-Digital-for-Good-Event-header-1440x588-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/DEPT--Talks-Digital-for-Good-Event-header-1440x588-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/green-makeup-eye.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/green-makeup-eye.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Innovation-search-ai-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Innovation-search-ai-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/P2P-16_9-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/P2P-16_9-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/DEPT%C2%AE-Talks-Digital-for-Good-Event-header-1440x588-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/DEPT--Talks-Digital-for-Good-Event-header-1440x588-1.jpg"
+    ]
+  ]
+}

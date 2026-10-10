@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/ctr-cpc-epc-work-optimize-facebook-ads/",
+  "path": "dept/en-au/insight/ctr-cpc-epc-work-optimize-facebook-ads",
+  "timestamp": "2026-10-09T12:37:34.563Z",
+  "title": "How CTR, CPC, and EPC work to optimize Facebook ads",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Facebook-Ad-Performance_Teaser-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Facebook-Ad-Performance_Teaser-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Facebook-Ad-Performance_Teaser-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Facebook-Ad-Performance_Teaser-1200x750-c.jpg"
+    ]
+  ]
+}

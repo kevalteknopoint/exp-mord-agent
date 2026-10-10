@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/dept-friends-dinner-future-edition-mumbai/",
+  "path": "dept/en-in/event/dept-friends-dinner-future-edition-mumbai",
+  "timestamp": "2026-10-09T15:46:56.634Z",
+  "title": "DEPT® & Friends Dinner: Future Edition – Mumbai - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "title-block-carousel",
+    "event-content-v2",
+    "event-content-v2",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/DFC-IN-Website-Hero-Banner-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/DFC-IN-Website-Hero-Banner-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Masque-1-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Masque-1-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/4-788.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/4-788.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/1-835_299006722e285f47655d17d1c9136337.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/1-835_299006722e285f47655d17d1c9136337.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Bigger-catalogs-or-better-conversations-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Bigger-catalogs-or-better-conversations-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/DFC-IN-Website-Hero-Banner-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/DFC-IN-Website-Hero-Banner-1920x1080-1.png"
+    ]
+  ]
+}

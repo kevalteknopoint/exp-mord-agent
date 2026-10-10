@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/building-a-new-kind-of-immersive-experience-for-the-famous-music-festival/",
+  "path": "dept/case/building-a-new-kind-of-immersive-experience-for-the-famous-music-festival",
+  "timestamp": "2026-10-09T10:15:11.260Z",
+  "title": "Building an immersive experience for the leader in music festivals - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "jumbotron",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/pr_tomorrowland.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/pr_tomorrowland.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_500x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_500x300.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/therabody-lifestyle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/therabody-lifestyle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/TML1-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/TML1-2.jpeg"
+    ]
+  ]
+}

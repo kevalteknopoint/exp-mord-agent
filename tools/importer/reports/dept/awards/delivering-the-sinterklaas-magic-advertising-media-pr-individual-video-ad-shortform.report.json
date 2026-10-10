@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/delivering-the-sinterklaas-magic-advertising-media-pr-individual-video-ad-shortform/",
+  "path": "dept/awards/delivering-the-sinterklaas-magic-advertising-media-pr-individual-video-ad-shortform",
+  "timestamp": "2026-10-09T10:14:09.241Z",
+  "title": "Delivering the Sinterklaas magic - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "jumbotron",
+    "panel-with-list",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "stats-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-58-22-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-58-22-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-29-15-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-29-15-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-24-08-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-24-08-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-24-08-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-24-08-min.png"
+    ]
+  ]
+}

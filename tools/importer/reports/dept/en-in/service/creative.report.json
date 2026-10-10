@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/creative/",
+  "path": "dept/en-in/service/creative",
+  "timestamp": "2026-10-09T23:34:46.740Z",
+  "title": "Creative services | Creative digital marketing agency - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "service-post-header",
+    "wrapper",
+    "panel-services",
+    "case-study-showcase"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/sbcIJs6w-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/sbcIJs6w-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Audience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Audience.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/VMA-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/VMA-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Utah-Jazz-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Utah-Jazz-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Feature-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Feature-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Merit-Gaming-Thumbnail.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Merit-Gaming-Thumbnail.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/7-Amsterdam-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/7-Amsterdam-1440x810-c.jpeg"
+    ]
+  ]
+}

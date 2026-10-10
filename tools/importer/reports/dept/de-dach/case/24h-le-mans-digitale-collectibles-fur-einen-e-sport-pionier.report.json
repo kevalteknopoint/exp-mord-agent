@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/24h-le-mans-digitale-collectibles-fur-einen-e-sport-pionier/",
+  "path": "dept/de-dach/case/24h-le-mans-digitale-collectibles-fur-einen-e-sport-pionier",
+  "timestamp": "2026-10-09T11:21:37.040Z",
+  "title": "24h Le Mans: Digitale Collectibles für einen E-Sport Pionier - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Le-Mans_Asset3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Le-Mans_Asset3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Screenshot-2022-05-10-at-11.59.36-AM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Screenshot-2022-05-10-at-11.59.36-AM.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/UZH_Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/UZH_Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-search-strat2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-search-strat2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Screenshot-2022-05-10-at-11.59.36-AM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Screenshot-2022-05-10-at-11.59.36-AM.png"
+    ]
+  ]
+}

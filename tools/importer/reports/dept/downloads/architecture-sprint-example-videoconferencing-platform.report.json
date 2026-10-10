@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/architecture-sprint-example-videoconferencing-platform/",
+  "path": "dept/downloads/architecture-sprint-example-videoconferencing-platform",
+  "timestamp": "2026-10-09T11:34:53.357Z",
+  "title": "[Download] Architecture sprint - Videoconferencing platform - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/white-wall-with-palm-tree-shadows.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/white-wall-with-palm-tree-shadows.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/architecture-sprint-download-open-graph.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/architecture-sprint-download-open-graph.png"
+    ]
+  ]
+}

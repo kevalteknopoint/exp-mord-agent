@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/downloads/dept-content-trends-the-ever-growing-importance-of-content/",
+  "path": "dept/en-au/downloads/dept-content-trends-the-ever-growing-importance-of-content",
+  "timestamp": "2026-10-09T12:45:18.339Z",
+  "title": "DEPT® Content Trends: the ever-growing importance of content - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-au",
+  "components": [
+    "whitepaper-detail-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/green-makeup-eye.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/green-makeup-eye.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/green-makeup-eye.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/green-makeup-eye.png"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-create-a-seamless-experience-with-modular-web-design/",
+  "path": "dept/en-au/insight/how-to-create-a-seamless-experience-with-modular-web-design",
+  "timestamp": "2026-10-09T13:11:07.557Z",
+  "title": "How to create a seamless experience with modular web design - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/modular-puzzle-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/modular-puzzle-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Logan-bishop-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Logan-bishop-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/modular-web-design-newsletter-example.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/modular-web-design-newsletter-example.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/moduar-web-design-modules.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/moduar-web-design-modules.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/modular-web-design-Variations.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/modular-web-design-Variations.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/modular-web-design-modules-logic.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/modular-web-design-modules-logic.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/metal-pore-structure.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/metal-pore-structure.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/145-Rotterdam-Design.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/145-Rotterdam-Design.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/modular-puzzle-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/modular-puzzle-concept.jpg"
+    ]
+  ]
+}

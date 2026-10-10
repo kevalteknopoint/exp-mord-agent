@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/celebrating-pride-23-with-twitch-anz-creators/",
+  "path": "dept/awards/celebrating-pride-23-with-twitch-anz-creators",
+  "timestamp": "2026-10-09T10:09:05.576Z",
+  "title": "Celebrating Pride ‘23 with Twitch ANZ creators - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/twitch-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/twitch-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/unraveling-the-cro-mystery-why-marketers-are-scaling-back-and-why-you-should-invest/",
+  "path": "dept/en-uki/insight/unraveling-the-cro-mystery-why-marketers-are-scaling-back-and-why-you-should-invest",
+  "timestamp": "2026-10-09T19:29:33.939Z",
+  "title": "Unravelling the CRO mystery: Why marketers are scaling back and why you should invest - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Featured-image-content-strategy-02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Featured-image-content-strategy-02.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Matt-Lacey-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Matt-Lacey-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Matt-Lacey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Matt-Lacey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Featured-image-content-strategy-02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Featured-image-content-strategy-02.png"
+    ]
+  ]
+}

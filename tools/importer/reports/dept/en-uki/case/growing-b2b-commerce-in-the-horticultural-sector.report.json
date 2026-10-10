@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/growing-b2b-commerce-in-the-horticultural-sector/",
+  "path": "dept/en-uki/case/growing-b2b-commerce-in-the-horticultural-sector",
+  "timestamp": "2026-10-09T20:14:27.963Z",
+  "title": "Growing B2B commerce in the horticultural sector - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "image",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/florensis_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/florensis_1.png"
+    ]
+  ]
+}

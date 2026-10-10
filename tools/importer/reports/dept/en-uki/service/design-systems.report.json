@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/service/design-systems/",
+  "path": "dept/en-uki/service/design-systems",
+  "timestamp": "2026-10-09T19:48:14.450Z",
+  "title": "Design system agency | DEPT®",
+  "template": "dept-service",
+  "locale": "en-uki",
+  "components": [
+    "panel-with-rich-text",
+    "highlighted-item-listing",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/DEPT-Interior-62-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/DEPT-Interior-62-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/image_9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/image_9.png"
+    ]
+  ]
+}

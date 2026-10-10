@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/ride-your-next-horizon-with-the-lapierre-xelius/",
+  "path": "dept/case/ride-your-next-horizon-with-the-lapierre-xelius",
+  "timestamp": "2026-10-09T10:50:29.679Z",
+  "title": "Ride Your Next Horizon with the Lapierre Xelius - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre-Xelius-01-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre-Xelius-01-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre_04.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre_04.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre_06.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre_06.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Manuel-Di-Tolve-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Biker-Guiness-world-records-min-1024x640-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/magasin-case-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/magasin-case-visual-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre_06.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre_06.jpeg"
+    ]
+  ]
+}

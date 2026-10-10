@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/experience/content-governance/",
+  "path": "dept/de-dach/service/experience/content-governance",
+  "timestamp": "2026-10-09T12:08:52.155Z",
+  "title": "Content Governance - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/HeaderContentGov.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/HeaderContentGov.jpg"
+    ]
+  ]
+}

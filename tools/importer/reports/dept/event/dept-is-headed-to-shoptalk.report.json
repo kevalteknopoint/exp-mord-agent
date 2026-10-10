@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-is-headed-to-shoptalk/",
+  "path": "dept/event/dept-is-headed-to-shoptalk",
+  "timestamp": "2026-10-09T20:06:32.967Z",
+  "title": "Welcome to Nashville Concert - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "event-content-v2",
+    "assets-and-copy",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/SHOPTALK-FALL-2026-Website-1920x1080-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/SHOPTALK-FALL-2026-Website-1920x1080-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Taylor-Chadwick.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Taylor-Chadwick.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Cole_Youngworth_Headshot.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Cole_Youngworth_Headshot.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/chet-fagin-headshot.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/chet-fagin-headshot.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/bridget-curran-headshot.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/bridget-curran-headshot.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/IMG_3593-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/IMG_3593-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/IMG_3594-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/IMG_3594-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/B2B-Manufacturing-Inisght-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/B2B-Manufacturing-Inisght-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Everyday-Retail-Inisght-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Everyday-Retail-Inisght-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/SHOPTALK-FALL-2026-Website-1920x1080-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/SHOPTALK-FALL-2026-Website-1920x1080-2-1.png"
+    ]
+  ]
+}

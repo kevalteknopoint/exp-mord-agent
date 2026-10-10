@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/agency/basic/",
+  "path": "dept/en-uki/agency/basic",
+  "timestamp": "2026-10-09T19:27:07.639Z",
+  "title": "BASIC/DEPT® - DEPT®",
+  "template": "dept-agency",
+  "locale": "en-uki",
+  "components": [
+    "panel-agency-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/21-8R6A9939_HDR_website.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/21-8R6A9939_HDR_website.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/basic-agency-offices-san-diego-3-1200x800-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/basic-agency-offices-san-diego-3-1200x800-1.jpeg"
+    ]
+  ]
+}

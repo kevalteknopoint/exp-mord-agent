@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/attention-brands-gen-z-is-more-nuanced-than-you-think/",
+  "path": "dept/insight/attention-brands-gen-z-is-more-nuanced-than-you-think",
+  "timestamp": "2026-10-09T21:55:22.840Z",
+  "title": "Attention brands: Gen Z is more nuanced than you think - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "title-and-content",
+    "title-and-content",
+    "media-with-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/why-gen-zers-love-tik-tok.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/why-gen-zers-love-tik-tok.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/gen-z.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/gen-z.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/gen-z-survey-results-media-portrayal.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/gen-z-survey-results-media-portrayal.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/gen-z-survey-results.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/gen-z-survey-results.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/gen-z-survey-results-social-media.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/gen-z-survey-results-social-media.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Trends_Event_alternate_image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Trends_Event_alternate_image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/why-gen-zers-love-tik-tok.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/why-gen-zers-love-tik-tok.jpg"
+    ]
+  ]
+}

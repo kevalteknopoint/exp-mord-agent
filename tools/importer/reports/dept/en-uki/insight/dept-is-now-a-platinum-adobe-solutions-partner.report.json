@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-is-now-a-platinum-adobe-solutions-partner/",
+  "path": "dept/en-uki/insight/dept-is-now-a-platinum-adobe-solutions-partner",
+  "timestamp": "2026-10-09T20:27:22.459Z",
+  "title": "DEPT® is now a Platinum Adobe Solutions Partner - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Platinum-Adobe-Solution-Partner.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Platinum-Adobe-Solution-Partner.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Platinum-Adobe-Solution-Partner.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Platinum-Adobe-Solution-Partner.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Tata-Capital_1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Tata-Capital_1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/PR_Teknopoint-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/PR_Teknopoint-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Platinum-Adobe-Solution-Partner.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Platinum-Adobe-Solution-Partner.jpg"
+    ]
+  ]
+}

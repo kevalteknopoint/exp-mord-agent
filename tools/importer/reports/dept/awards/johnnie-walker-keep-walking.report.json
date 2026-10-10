@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/johnnie-walker-keep-walking/",
+  "path": "dept/awards/johnnie-walker-keep-walking",
+  "timestamp": "2026-10-09T10:24:26.060Z",
+  "title": "Hey judges, let’s get straight into it. - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "stats-panel",
+    "jumbotron"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JW-Header-Image-n.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JW-Header-Image-n.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JW-Header-Image-n.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JW-Header-Image-n.jpeg"
+    ]
+  ]
+}

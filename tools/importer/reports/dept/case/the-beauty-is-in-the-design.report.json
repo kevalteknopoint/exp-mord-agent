@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/the-beauty-is-in-the-design/",
+  "path": "dept/case/the-beauty-is-in-the-design",
+  "timestamp": "2026-10-09T11:03:18.944Z",
+  "title": "The beauty lies in the design - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "stats-panel",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "image",
+    "title-and-content",
+    "quote",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Douglas_Case_Homepage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Douglas_Case_Homepage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Douglas_Case_Magazin_Teaser.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Douglas_Case_Magazin_Teaser.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Douglas_Case_Detailpage_Cockpit_v1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Douglas_Case_Detailpage_Cockpit_v1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Douglas_Case_Detailpage_Cockpit_v2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Douglas_Case_Detailpage_Cockpit_v2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Douglas_Case_Live.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Douglas_Case_Live.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/29_Brand_Equity_Additional_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ]
+  ]
+}

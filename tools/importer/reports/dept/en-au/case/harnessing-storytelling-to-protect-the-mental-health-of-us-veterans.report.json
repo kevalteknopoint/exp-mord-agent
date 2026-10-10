@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/harnessing-storytelling-to-protect-the-mental-health-of-us-veterans/",
+  "path": "dept/en-au/case/harnessing-storytelling-to-protect-the-mental-health-of-us-veterans",
+  "timestamp": "2026-10-09T13:07:33.640Z",
+  "title": "Harnessing storytelling to protect the mental health of U.S. veterans - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_carousel1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_carousel1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_carousel2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_carousel2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_carousel3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_carousel3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_carousel4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_carousel4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_carousel5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_carousel5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_carousel6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_carousel6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Hometeam_5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Hometeam_5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/HomeTeam_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/HomeTeam_Featured_169.png"
+    ]
+  ]
+}

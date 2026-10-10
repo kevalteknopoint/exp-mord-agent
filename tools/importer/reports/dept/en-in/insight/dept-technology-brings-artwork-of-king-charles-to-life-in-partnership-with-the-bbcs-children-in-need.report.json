@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/dept-technology-brings-artwork-of-king-charles-to-life-in-partnership-with-the-bbcs-children-in-need/",
+  "path": "dept/en-in/insight/dept-technology-brings-artwork-of-king-charles-to-life-in-partnership-with-the-bbcs-children-in-need",
+  "timestamp": "2026-10-09T15:42:22.140Z",
+  "title": "DEPT® technology brings artwork of King Charles to life in partnership with the BBC’s Children in Need - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/king-charles-portrait-ar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/king-charles-portrait-ar.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AI-impact-creative-growth-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AI-impact-creative-growth-engineering.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AR-opportunity-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AR-opportunity-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Insight-1000x1200-15.17.04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Insight-1000x1200-15.17.04.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/BYTE-HEAD-SHOTS1322-e1698327228279.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/king-charles-portrait-ar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/king-charles-portrait-ar.jpg"
+    ]
+  ]
+}

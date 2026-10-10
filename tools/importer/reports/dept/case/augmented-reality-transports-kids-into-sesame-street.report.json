@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/augmented-reality-transports-kids-into-sesame-street/",
+  "path": "dept/case/augmented-reality-transports-kids-into-sesame-street",
+  "timestamp": "2026-10-09T10:05:45.961Z",
+  "title": "Augmented reality transports kids into Sesame Street - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Sesame4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Sesame4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/visual_filmstrategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/visual_filmstrategy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/12/sesame-street-ar-app-children-phone.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/12/sesame-street-ar-app-children-phone.jpg"
+    ]
+  ]
+}

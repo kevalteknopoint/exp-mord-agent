@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/the-sound-of-amazon-success/",
+  "path": "dept/de-dach/case/the-sound-of-amazon-success",
+  "timestamp": "2026-10-09T11:22:48.165Z",
+  "title": "The sound of Amazon success - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/yamaha-soundbar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/yamaha-soundbar.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/yamaha-soundbar.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/yamaha-soundbar.jpg"
+    ]
+  ]
+}

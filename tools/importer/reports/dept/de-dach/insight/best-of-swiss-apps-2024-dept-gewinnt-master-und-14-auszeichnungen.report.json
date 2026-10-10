@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/best-of-swiss-apps-2024-dept-gewinnt-master-und-14-auszeichnungen/",
+  "path": "dept/de-dach/insight/best-of-swiss-apps-2024-dept-gewinnt-master-und-14-auszeichnungen",
+  "timestamp": "2026-10-09T11:15:33.175Z",
+  "title": "Best of Swiss Apps 2024: DEPT® gewinnt Master und 14 Auszeichnungen - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/20241119_Best_of_Swiss_Apps_Best_of_Swiss_Software_Zurich_0343-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/20241119_Best_of_Swiss_Apps_Best_of_Swiss_Software_Zurich_0343-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/20241119_Best_of_Swiss_Apps_Best_of_Swiss_Software_Zurich_0343-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/20241119_Best_of_Swiss_Apps_Best_of_Swiss_Software_Zurich_0343-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/20241119_Best_of_Swiss_Apps_Best_of_Swiss_Software_Zurich_8854-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/20241119_Best_of_Swiss_Apps_Best_of_Swiss_Software_Zurich_8854-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/20241119_Best_of_Swiss_Apps_Best_of_Swiss_Software_Zurich_0343-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/20241119_Best_of_Swiss_Apps_Best_of_Swiss_Software_Zurich_0343-1.jpg"
+    ]
+  ]
+}

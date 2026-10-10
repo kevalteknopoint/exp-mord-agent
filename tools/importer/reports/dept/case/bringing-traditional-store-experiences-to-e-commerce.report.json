@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/bringing-traditional-store-experiences-to-e-commerce/",
+  "path": "dept/case/bringing-traditional-store-experiences-to-e-commerce",
+  "timestamp": "2026-10-09T10:11:53.941Z",
+  "title": "Shoe Carnival: Bringing traditional store experiences to e-commerce - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/show-carnival-ecomm-store.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/show-carnival-ecomm-store.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Shoe-Carnival-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Shoe-Carnival-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/shoe-carnival-store-locator.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/shoe-carnival-store-locator.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/shoe-carnival-ecomm-store-mobile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/shoe-carnival-ecomm-store-mobile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/shoe-carnival-e-comm-ui-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/shoe-carnival-e-comm-ui-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/show-carnival-ecomm-store.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/show-carnival-ecomm-store.jpg"
+    ]
+  ]
+}

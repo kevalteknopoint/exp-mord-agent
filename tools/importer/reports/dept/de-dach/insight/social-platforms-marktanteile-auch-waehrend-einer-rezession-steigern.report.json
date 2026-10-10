@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/social-platforms-marktanteile-auch-waehrend-einer-rezession-steigern/",
+  "path": "dept/de-dach/insight/social-platforms-marktanteile-auch-waehrend-einer-rezession-steigern",
+  "timestamp": "2026-10-09T11:46:28.143Z",
+  "title": "Marktanteile auch während einer Rezession steigern - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/train-platform-glass-doors.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/train-platform-glass-doors.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Sarah-Berger-Dept-e1627486991567-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Sarah-Berger-Dept-e1627486991567-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/blue-arrows-on-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/blue-arrows-on-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-1000X1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--1000X1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Events-Header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Events-Header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/creative-automation-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/creative-automation-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Sarah-Berger-Dept-e1627486991567.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Sarah-Berger-Dept-e1627486991567.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/train-platform-glass-doors.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/train-platform-glass-doors.jpg"
+    ]
+  ]
+}

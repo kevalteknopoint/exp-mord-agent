@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/giving-non-alcoholic-beer-its-moment/",
+  "path": "dept/en-nl/insight/giving-non-alcoholic-beer-its-moment",
+  "timestamp": "2026-10-09T19:22:22.841Z",
+  "title": "Giving non-alcoholic beer its moment - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Grolsch-Featured-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Grolsch-Featured-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Salome-Rijnders-Dept-2-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Salome-Rijnders-Dept-2-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Frame-2-Grolsch-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Frame-2-Grolsch-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Concept-2-V1-Story-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Concept-2-V1-Story-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Gwen-x-Grolsch-story-2-V1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Gwen-x-Grolsch-story-2-V1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Impact-Report_Featured-Image_1080x1350.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Impact-Report_Featured-Image_1080x1350.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-innovation.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-innovation.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Grolsch-Featured-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Grolsch-Featured-1920x1080-1.jpg"
+    ]
+  ]
+}

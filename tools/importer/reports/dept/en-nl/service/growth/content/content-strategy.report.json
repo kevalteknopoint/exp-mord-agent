@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/service/growth/content/content-strategy/",
+  "path": "dept/en-nl/service/growth/content/content-strategy",
+  "timestamp": "2026-10-09T18:20:48.749Z",
+  "title": "Content strategy - DEPT®",
+  "template": "dept-service",
+  "locale": "en-nl",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/2017_16_02_Amsterdam_Marketing_DEPT_TALKS_JRF__127-e1551949105938-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/2017_16_02_Amsterdam_Marketing_DEPT_TALKS_JRF__127-e1551949105938-1200x750-c.jpg"
+    ]
+  ]
+}

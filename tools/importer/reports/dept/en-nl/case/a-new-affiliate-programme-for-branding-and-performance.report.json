@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-new-affiliate-programme-for-branding-and-performance/",
+  "path": "dept/en-nl/case/a-new-affiliate-programme-for-branding-and-performance",
+  "timestamp": "2026-10-09T17:30:27.862Z",
+  "title": "A new affiliate programme for branding and performance - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-lifestyl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-lifestyl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-peptide-booster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-peptide-booster.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-Influencer-campaign-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-Influencer-campaign-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Signs_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Signs_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-peptide-booster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-peptide-booster.jpg"
+    ]
+  ]
+}

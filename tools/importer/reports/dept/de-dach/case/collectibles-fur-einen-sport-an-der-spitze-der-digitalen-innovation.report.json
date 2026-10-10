@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/collectibles-fur-einen-sport-an-der-spitze-der-digitalen-innovation/",
+  "path": "dept/de-dach/case/collectibles-fur-einen-sport-an-der-spitze-der-digitalen-innovation",
+  "timestamp": "2026-10-09T11:28:52.140Z",
+  "title": "Collectibles für einen Sport an der Spitze der digitalen Innovation - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Screenshot-2022-05-09-at-2.07.45-PM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Screenshot-2022-05-09-at-2.07.45-PM.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/DRL_Asset1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/DRL_Asset1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/David-Pajung-Dept-e1652255398314.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/David-Pajung-Dept-e1652255398314.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/twitchcon-las-vegas-group.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/twitchcon-las-vegas-group.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/DRL_Asset1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/DRL_Asset1.jpeg"
+    ]
+  ]
+}

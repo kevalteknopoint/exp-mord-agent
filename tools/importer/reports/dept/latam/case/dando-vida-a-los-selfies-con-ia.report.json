@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/dando-vida-a-los-selfies-con-ia/",
+  "path": "dept/latam/case/dando-vida-a-los-selfies-con-ia",
+  "timestamp": "2026-10-09T21:34:34.239Z",
+  "title": "Dando vida a los selfies con IA - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-wall-at-festival.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-wall-at-festival.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-pal-norte.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-pal-norte.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-personalization.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-personalization.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-art-inspo.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-art-inspo.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ]
+  ]
+}

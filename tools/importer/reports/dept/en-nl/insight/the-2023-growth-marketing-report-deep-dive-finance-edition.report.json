@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/the-2023-growth-marketing-report-deep-dive-finance-edition/",
+  "path": "dept/en-nl/insight/the-2023-growth-marketing-report-deep-dive-finance-edition",
+  "timestamp": "2026-10-09T17:41:48.346Z",
+  "title": "The 2023 growth marketing report deep dive: Finance edition - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Growth-markeitng-report-finanace-edition.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Growth-markeitng-report-finanace-edition.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Dept-London-1680-47-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Dept-London-1680-47-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/growth-marketing-report-finance.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/growth-marketing-report-finance.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/green-archway-with-lights-growth-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/green-archway-with-lights-growth-marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/abstract-gold.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/abstract-gold.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Blurred-lights-fast-technology.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Blurred-lights-fast-technology.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Dept-London-1680-47-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Dept-London-1680-47-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Growth-markeitng-report-finanace-edition.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Growth-markeitng-report-finanace-edition.jpeg"
+    ]
+  ]
+}

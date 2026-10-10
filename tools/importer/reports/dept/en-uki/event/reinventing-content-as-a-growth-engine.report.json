@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/reinventing-content-as-a-growth-engine/",
+  "path": "dept/en-uki/event/reinventing-content-as-a-growth-engine",
+  "timestamp": "2026-10-09T18:31:50.577Z",
+  "title": "Reinventing content as a growth engine - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-intro",
+    "event-info",
+    "insight-cta",
+    "assets-and-copy",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/DFC-LDN-Website-Hero-Banner-Orange-1920x1080-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/DFC-LDN-Website-Hero-Banner-Orange-1920x1080-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/adam-jewson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/adam-jewson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Jack-Williams-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Jack-Williams-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Chris-Adobe.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Chris-Adobe.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DEPT%C2%AESTUDIOS-PR-assset-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DEPT-STUDIOS-PR-assset-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Navigating-Indias-DPDP-Act-with-Privacy-by-Design-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Navigating-Indias-DPDP-Act-with-Privacy-by-Design-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/granny-spills-ai-influencer.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/granny-spills-ai-influencer.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DFC-LDN-Website-Hero-Banner-Orange-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DFC-LDN-Website-Hero-Banner-Orange-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/DFC-LDN-Website-Hero-Banner-Orange-1920x1080-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/DFC-LDN-Website-Hero-Banner-Orange-1920x1080-2.webp"
+    ]
+  ]
+}

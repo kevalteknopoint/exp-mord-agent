@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-dk/service/google-marketing-platform/",
   "path": "dept/en-dk/service/google-marketing-platform",
-  "timestamp": "2026-10-08T16:17:33.386Z",
+  "timestamp": "2026-10-09T09:50:36.839Z",
   "title": "GMP Agency Partner - Google Premier Partner - DEPT®",
   "template": "dept-service",
   "locale": "en-dk",
@@ -17,11 +17,7 @@
     "insight-cta",
     "custom-listing"
   ],
-  "fallback": [
-    "title-block",
-    "event-content-v2",
-    "points-table"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2025/06/Google-DEPT-partner.png",

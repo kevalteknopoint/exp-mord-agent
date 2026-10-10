@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/connecting-ranch-dressing-lovers-through-digital-experiences/",
+  "path": "dept/en-uki/case/connecting-ranch-dressing-lovers-through-digital-experiences",
+  "timestamp": "2026-10-09T19:58:09.681Z",
+  "title": "Connecting ranch dressing lovers digitally - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "full-width-image",
+    "case-intro",
+    "full-width-image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HVR-Case-Study_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HVR-Case-Study_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HVR-Assets_IMG-02-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HVR-Assets_IMG-02-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Media.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Media.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HVR-Assets_IMG-04.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HVR-Assets_IMG-04.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Media-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Media-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Image-Full-bleed-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Image-Full-bleed-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HVR-Case-Study_Hero-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HVR-Case-Study_Hero-2.jpg"
+    ]
+  ]
+}

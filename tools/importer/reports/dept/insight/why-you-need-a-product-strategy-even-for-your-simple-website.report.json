@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/why-you-need-a-product-strategy-even-for-your-simple-website/",
+  "path": "dept/insight/why-you-need-a-product-strategy-even-for-your-simple-website",
+  "timestamp": "2026-10-09T21:19:15.940Z",
+  "title": "Why you need a product strategy, even for your \"simple\" website - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Why-your-website-need-product-strategy.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Why-your-website-need-product-strategy.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Phil-gonzales-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Phil-gonzales-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/new-ways-of-working-ai-powered.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/new-ways-of-working-ai-powered.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-on-dirtbiker.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-on-dirtbiker.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/ai-agents-concept.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/ai-agents-concept.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Why-your-website-need-product-strategy.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Why-your-website-need-product-strategy.webp"
+    ]
+  ]
+}

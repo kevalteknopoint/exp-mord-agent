@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/magasins-digitale-transformation-durch-serverseitiges-tagging/",
+  "path": "dept/de-dach/case/magasins-digitale-transformation-durch-serverseitiges-tagging",
+  "timestamp": "2026-10-09T11:08:28.439Z",
+  "title": "Magasins digitale Transformation durch serverseitiges Tagging - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/magasin-case-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/magasin-case-visual-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/magasin-case-visual-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/magasin-case-visual-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/jaeger-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/jaeger-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/magasin-case-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/magasin-case-visual-1.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/engineering/",
+  "path": "dept/en-au/service/engineering",
+  "timestamp": "2026-10-09T18:33:31.240Z",
+  "title": "Global software consulting | Software engineering agency - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "service-post-header",
+    "wrapper",
+    "panel-services",
+    "panel-services",
+    "js-media-parallax",
+    "case-study-showcase",
+    "wrapper",
+    "highlighted-item-listing",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/software-engineering-services-code-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/software-engineering-services-code-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/accelerate-website-development-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/accelerate-website-development-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Kali-Healthcare-38-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Kali-Healthcare-38-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/therabody-lifestyle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/therabody-lifestyle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-basketball.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/hvac-controls-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/hvac-controls-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/composable-architecture-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/composable-architecture-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/iStock-1173102272-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/iStock-1173102272-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/download.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/download.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/software-engineering-services-code-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/software-engineering-services-code-on-computer.jpg"
+    ]
+  ]
+}

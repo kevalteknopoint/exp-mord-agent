@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/the-future-belongs-to-the-impatient-ai-transformation-in-2025/",
+  "path": "dept/en-nl/event/the-future-belongs-to-the-impatient-ai-transformation-in-2025",
+  "timestamp": "2026-10-09T23:45:16.778Z",
+  "title": "The future belongs to the impatient: AI transformation in 2025 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "event-program",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Event-Header-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Event-Header-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Pardot-form-Trends.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Pardot-form-Trends.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Trends-2025_Linkedin_event-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Trends-2025_Linkedin_event-2.png"
+    ]
+  ]
+}

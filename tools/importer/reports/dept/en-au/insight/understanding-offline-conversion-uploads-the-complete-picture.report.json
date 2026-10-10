@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/insight/understanding-offline-conversion-uploads-the-complete-picture/",
   "path": "dept/en-au/insight/understanding-offline-conversion-uploads-the-complete-picture",
-  "timestamp": "2026-10-08T16:14:58.519Z",
+  "timestamp": "2026-10-09T23:04:07.040Z",
   "title": "Understanding offline conversion uploads - the complete picture - DEPT®",
   "template": "dept-insight",
   "locale": "en-au",
@@ -12,9 +12,7 @@
     "article-related-posts",
     "get-in-touch"
   ],
-  "fallback": [
-    "article-related-posts"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/04/Remarketing.png",

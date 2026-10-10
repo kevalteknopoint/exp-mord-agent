@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/cashapp-weird-for-real-shifting-trust-perceptions-through-creators/",
+  "path": "dept/awards/cashapp-weird-for-real-shifting-trust-perceptions-through-creators",
+  "timestamp": "2026-10-09T10:07:58.241Z",
+  "title": "CashApp - Weird for Real: Shifting Trust Perceptions Through Creators - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "image",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "stats-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Cashapp-featured-image.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Cashapp-featured-image.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Cashapp-featured-image.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Cashapp-featured-image.webp"
+    ]
+  ]
+}

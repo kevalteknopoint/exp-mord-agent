@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/contenido/content-strategy/",
+  "path": "dept/latam/service/contenido/content-strategy",
+  "timestamp": "2026-10-09T22:28:21.746Z",
+  "title": "Content strategy - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/2017_16_02_Amsterdam_Marketing_DEPT_TALKS_JRF__127-e1551949105938-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/2017_16_02_Amsterdam_Marketing_DEPT_TALKS_JRF__127-e1551949105938-1200x750-c.jpg"
+    ]
+  ]
+}

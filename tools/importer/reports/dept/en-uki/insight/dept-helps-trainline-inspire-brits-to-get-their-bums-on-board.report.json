@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-helps-trainline-inspire-brits-to-get-their-bums-on-board/",
+  "path": "dept/en-uki/insight/dept-helps-trainline-inspire-brits-to-get-their-bums-on-board",
+  "timestamp": "2026-10-09T19:24:35.568Z",
+  "title": "DEPT® helps Trainline inspire Brits to get their \"Bums on Board” - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Trainline-insight-image-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Trainline-insight-image-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/ICBT-cat-poster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/ICBT-cat-poster.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/TikTok-ban-insight-image-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/TikTok-ban-insight-image-1200x670-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/foot-locker-bus-in-paris-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/foot-locker-bus-in-paris-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Trainline-insight-image-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Trainline-insight-image-1164x655-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/celebrating-pride-23-with-twitch-anz-creators/",
+  "path": "dept/en-au/case/celebrating-pride-23-with-twitch-anz-creators",
+  "timestamp": "2026-10-09T12:40:34.535Z",
+  "title": "Celebrating Pride ‘23 with Twitch ANZ creators - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plane-Holiday-1440x810-c-tui.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plane-Holiday-1440x810-c-tui.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/BISSELL-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/BISSELL-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Beautiful-Homes-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Beautiful-Homes-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/twitch-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/twitch-1.png"
+    ]
+  ]
+}

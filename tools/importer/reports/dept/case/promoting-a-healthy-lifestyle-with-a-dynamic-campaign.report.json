@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/promoting-a-healthy-lifestyle-with-a-dynamic-campaign/",
+  "path": "dept/case/promoting-a-healthy-lifestyle-with-a-dynamic-campaign",
+  "timestamp": "2026-10-09T10:42:43.439Z",
+  "title": "Promoting a healthy lifestyle with a dynamic campaign - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-2-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-2-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Ferdie-Kamphuis.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Ferdie-Kamphuis.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Tailored-Brands-featured-image-500x344-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Gumtree.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Gumtree.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ]
+  ]
+}

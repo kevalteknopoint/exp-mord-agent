@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/aireport/",
+  "path": "dept/en-nl/aireport",
+  "timestamp": "2026-10-09T23:40:04.340Z",
+  "title": "DEPT® x AI Report: Your Guide to Starting with AI - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "title-block",
+    "podcasts",
+    "title-block-carousel",
+    "assets-and-copy",
+    "assets-and-copy",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Lucas-Nutbey-director-of-strategy-bij-DEPT%C2%AE-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Lucas-Nutbey-director-of-strategy-bij-DEPT--.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Marjan-Straathof-Global-SVP-of-Marketing-DEPT.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Marjan-Straathof-Global-SVP-of-Marketing-DEPT.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Clair-AI-screenshots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Clair-AI-screenshots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/shoe-mirror-13.21.18.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/shoe-mirror-13.21.18.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/hands-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/hands-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Trends-report-2025-Featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Trends-report-2025-Featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Insight-image-GEO-vs-SEO-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Insight-image-GEO-vs-SEO-1200x670-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/AIReport_16_9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/AIReport_16_9.png"
+    ]
+  ]
+}

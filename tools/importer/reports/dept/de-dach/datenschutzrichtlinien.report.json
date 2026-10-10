@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/datenschutzrichtlinien/",
+  "path": "dept/de-dach/datenschutzrichtlinien",
+  "timestamp": "2026-10-09T11:28:17.974Z",
+  "title": "Globale Datenschutzerklärung - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/enhancing-online-enrollment-with-salesforce-education-cloud/",
+  "path": "dept/case/enhancing-online-enrollment-with-salesforce-education-cloud",
+  "timestamp": "2026-10-09T10:01:29.875Z",
+  "title": "System migration to Salesforce Education Cloud | DEPT",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/education-concept2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/education-concept2.jpg"
+    ]
+  ]
+}

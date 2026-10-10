@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/organischer-erfolg-durch-nahtlose-seo-migration/",
+  "path": "dept/de-dach/case/organischer-erfolg-durch-nahtlose-seo-migration",
+  "timestamp": "2026-10-09T11:14:50.560Z",
+  "title": "Organischer Erfolg durch nahtlose SEO Migration - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Comwell_Images_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Comwell_Images_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Comwell_Images_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Comwell_Images_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Comwell-case-SEO-migration-strategy-Featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Comwell-case-SEO-migration-strategy-Featured-image-500x344-1.jpg"
+    ]
+  ]
+}

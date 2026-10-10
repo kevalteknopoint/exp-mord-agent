@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/good-hair-day-auf-amazon/",
+  "path": "dept/de-dach/case/good-hair-day-auf-amazon",
+  "timestamp": "2026-10-09T11:01:47.985Z",
+  "title": "Good Hair Day auf Amazon  - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ghd-case-image-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/woman-blonde-ghd.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/woman-blonde-ghd.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/woman-lounging-ghd.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/woman-lounging-ghd.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Oxxio-1-e1530628250257.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Oxxio-1-e1530628250257.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ghd-case-image-1.jpeg"
+    ]
+  ]
+}

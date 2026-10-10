@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/visualizing-capacity-planning/",
+  "path": "dept/case/visualizing-capacity-planning",
+  "timestamp": "2026-10-09T11:16:44.556Z",
+  "title": "Visualizing capacity planning - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/multiscreen-2x.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/multiscreen-2x.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/SingleScreenPattern@2x.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/SingleScreenPattern-2x.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20201203_161611.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20201203_161611.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-google-360.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-google-360.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-Pixel-Thumnail-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-Pixel-Thumnail-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/multiscreen-2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/multiscreen-2x-1.png"
+    ]
+  ]
+}

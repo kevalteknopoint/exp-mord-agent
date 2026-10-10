@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/the-worlds-first-nft-portal-for-brands/",
+  "path": "dept/en-uki/case/the-worlds-first-nft-portal-for-brands",
+  "timestamp": "2026-10-09T19:16:16.239Z",
+  "title": "The world’s first NFT portal for brands - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "quote",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Algorand_Post_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Algorand_Post_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Algorand_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Algorand_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Algorand_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Algorand_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Algorand_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Algorand_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/IG.com-RaceCase.001.001-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/IG.com-RaceCase.001.001-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-11.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-11.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept-1024x540.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept-1024x540.jpg"
+    ]
+  ]
+}

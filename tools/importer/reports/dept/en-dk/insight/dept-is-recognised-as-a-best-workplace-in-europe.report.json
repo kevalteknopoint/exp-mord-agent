@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/dept-is-recognised-as-a-best-workplace-in-europe/",
+  "path": "dept/en-dk/insight/dept-is-recognised-as-a-best-workplace-in-europe",
+  "timestamp": "2026-10-09T15:00:37.539Z",
+  "title": "DEPT® is recognised as a Best Workplace in Europe - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/smiling_happy_Depsters-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/smiling_happy_Depsters-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/smiling_happy_Depsters-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/smiling_happy_Depsters-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/DEPT-Interior-61-scaled-e1662546877641.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/DEPT-Interior-61-scaled-e1662546877641.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/smiling_happy_Depsters-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/smiling_happy_Depsters-scaled.jpeg"
+    ]
+  ]
+}

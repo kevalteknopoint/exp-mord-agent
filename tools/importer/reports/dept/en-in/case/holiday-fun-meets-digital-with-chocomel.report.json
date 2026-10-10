@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/holiday-fun-meets-digital-with-chocomel/",
+  "path": "dept/en-in/case/holiday-fun-meets-digital-with-chocomel",
+  "timestamp": "2026-10-09T15:58:18.734Z",
+  "title": "Holiday fun meets digital with Chocomel - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/wezijnerweer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/wezijnerweer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jord-Wessels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jord-Wessels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/15-Hape-i.o.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/15-Hape-i.o.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/12/sesame-street-ar-app-children-phone.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/12/sesame-street-ar-app-children-phone.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ]
+  ]
+}

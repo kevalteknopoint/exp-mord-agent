@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/the-digital-transformation-of-a-b2b-giant/",
+  "path": "dept/de-dach/case/the-digital-transformation-of-a-b2b-giant",
+  "timestamp": "2026-10-09T11:22:41.240Z",
+  "title": "Eine Formel um den Wandel voranzutreiben - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "panel-with-cards",
+    "full-width-image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/brenntag4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/brenntag4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/PTA008_00-E1P-global-001-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/klub.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/klub.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/indigo_8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/indigo_8-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1002823828-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1002823828-1-scaled.jpg"
+    ]
+  ]
+}

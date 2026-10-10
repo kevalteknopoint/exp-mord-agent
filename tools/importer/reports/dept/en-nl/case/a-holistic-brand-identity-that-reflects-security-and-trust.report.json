@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-holistic-brand-identity-that-reflects-security-and-trust/",
+  "path": "dept/en-nl/case/a-holistic-brand-identity-that-reflects-security-and-trust",
+  "timestamp": "2026-10-09T17:28:35.172Z",
+  "title": "A holistic brand identity that reflects security and trust  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-branding.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-branding.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/zscaler-brand-Guidelines.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/zscaler-brand-Guidelines.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-signage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Raleigh_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Raleigh_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-signage.jpg"
+    ]
+  ]
+}

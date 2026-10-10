@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/reaching-the-ebay-seller-community-with-the-all-ears-roadshow/",
+  "path": "dept/en-in/case/reaching-the-ebay-seller-community-with-the-all-ears-roadshow",
+  "timestamp": "2026-10-09T16:10:11.067Z",
+  "title": "Reaching the eBay seller community with the ‘All Ears’ Roadshow - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/eBay-All-Ears-Roadshow-rep.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/eBay-All-Ears-Roadshow-rep.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/eBay-All-Ears-Roadshow-panel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/eBay-All-Ears-Roadshow-panel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1254128245-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1254128245-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Sonicare-Case-Visual-02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Sonicare-Case-Visual-02-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/eBay-All-Ears-Roadshow-rep.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/eBay-All-Ears-Roadshow-rep.jpg"
+    ]
+  ]
+}

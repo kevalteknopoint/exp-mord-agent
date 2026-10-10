@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-x-diy-summit-2023/",
+  "path": "dept/de-dach/event/dept-x-diy-summit-2023",
+  "timestamp": "2026-10-09T11:01:48.250Z",
+  "title": "DEPT® x DIY Summit 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DEPT%C2%AE-Event-LP-Header-No-text.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DEPT--Event-LP-Header-No-text.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nils-Zundorf-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nils-Zundorf-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DEPT%C2%AE-Event-LP-Header-No-text.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DEPT--Event-LP-Header-No-text.jpg"
+    ]
+  ]
+}

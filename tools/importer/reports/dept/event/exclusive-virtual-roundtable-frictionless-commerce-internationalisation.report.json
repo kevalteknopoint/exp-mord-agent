@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/exclusive-virtual-roundtable-frictionless-commerce-internationalisation/",
+  "path": "dept/event/exclusive-virtual-roundtable-frictionless-commerce-internationalisation",
+  "timestamp": "2026-10-09T21:21:17.175Z",
+  "title": "Virtual Roundtable: Frictionless Commerce Internationalisation  - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/DEPTA%C2%AExScaylexGlobalE-Roundtable-Event-header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/DEPTA-xScaylexGlobalE-Roundtable-Event-header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/DEPTA%C2%AExScaylexGlobalE-Roundtable-Event-header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/DEPTA-xScaylexGlobalE-Roundtable-Event-header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Tarek-Muller_MitgrunderCo-CEO_ABOUT-YOU.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Tarek-Muller_MitgrunderCo-CEO_ABOUT-YOU.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jonathan-Whiteside.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jonathan-Whiteside.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Howard-Pleasance.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Howard-Pleasance.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/DEPTA%C2%AExScaylexGlobalE-Roundtable-Event-header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/DEPTA-xScaylexGlobalE-Roundtable-Event-header-1440x588-1.png"
+    ]
+  ]
+}

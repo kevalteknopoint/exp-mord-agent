@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/sephora-tweens-to-spending-machines/",
+  "path": "dept/insight/sephora-tweens-to-spending-machines",
+  "timestamp": "2026-10-09T21:41:42.740Z",
+  "title": "Sephora tweens to spending machines: Capturing the emerging buying power of Gen Alpha - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "cta-text",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Sephora-tweens-Insight-image-1200x620-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Sephora-tweens-Insight-image-1200x620-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/claire-shalbrack-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/claire-shalbrack-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durable-brands.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durable-brands.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/soccer-netting.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/soccer-netting.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Online-shopping-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Online-shopping-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Sephora_Tweens_Social.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Sephora_Tweens_Social.jpg"
+    ]
+  ]
+}

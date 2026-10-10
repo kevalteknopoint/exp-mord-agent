@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/maximising-digital-experiences-with-a-headless-cms/",
+  "path": "dept/downloads/maximising-digital-experiences-with-a-headless-cms",
+  "timestamp": "2026-10-09T11:42:53.468Z",
+  "title": "Maximising digital experiences with a headless CMS - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/gray-blue-blur-pearls.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/gray-blue-blur-pearls.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/gray-blue-blur-pearls.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/gray-blue-blur-pearls.png"
+    ]
+  ]
+}

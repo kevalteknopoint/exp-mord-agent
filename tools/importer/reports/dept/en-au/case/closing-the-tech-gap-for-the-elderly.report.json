@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/closing-the-tech-gap-for-the-elderly/",
+  "path": "dept/en-au/case/closing-the-tech-gap-for-the-elderly",
+  "timestamp": "2026-10-09T12:41:18.539Z",
+  "title": "Closing the tech gap for the elderly - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Untitled-design-3-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Untitled-design-3-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/dossy-Full-bleed-Project-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/dossy-Full-bleed-Project-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/dossy-Website-_-Summary-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/dossy-Website-_-Summary-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-170510613-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-170510613-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Dossy-feature-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Dossy-feature-image.png"
+    ]
+  ]
+}

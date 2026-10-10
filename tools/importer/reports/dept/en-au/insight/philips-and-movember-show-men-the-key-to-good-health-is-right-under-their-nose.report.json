@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/philips-and-movember-show-men-the-key-to-good-health-is-right-under-their-nose/",
+  "path": "dept/en-au/insight/philips-and-movember-show-men-the-key-to-good-health-is-right-under-their-nose",
+  "timestamp": "2026-10-09T13:41:23.850Z",
+  "title": "Philips and Movember show men the key to good health is right under their nose - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Screenshot-2022-02-11-at-08.30.25-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Screenshot-2022-02-11-at-08.30.25-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/IMG_6969-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/IMG_6969-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Screenshot-2022-02-11-at-08.30.25-2-1024x577.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Screenshot-2022-02-11-at-08.30.25-2-1024x577.png"
+    ]
+  ]
+}

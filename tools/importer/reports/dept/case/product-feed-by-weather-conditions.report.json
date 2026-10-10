@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/product-feed-by-weather-conditions/",
+  "path": "dept/case/product-feed-by-weather-conditions",
+  "timestamp": "2026-10-09T10:42:02.136Z",
+  "title": "Product feed by weather conditions - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/jumbo_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/jumbo_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Jumbo-Wetter.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Jumbo-Wetter.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Amir-Hermon-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Amir-Hermon-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/jumbo_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/jumbo_1.jpg"
+    ]
+  ]
+}

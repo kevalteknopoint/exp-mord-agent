@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-scalable-ecommerce-platform-for-a-growing-business/",
+  "path": "dept/en-nl/case/a-scalable-ecommerce-platform-for-a-growing-business",
+  "timestamp": "2026-10-09T17:36:13.940Z",
+  "title": "A scalable e-commerce platform for a growing business - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ann-summers-diversity-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ann-summers-diversity-1440x810-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Mum-and-baby_yoga1-min-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/O2-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/O2-Image-Full-bleed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/ann-summers-diversity-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/ann-summers-diversity-1440x810-c.jpeg"
+    ]
+  ]
+}

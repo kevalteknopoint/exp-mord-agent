@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-leverage-data-to-drive-sustainable-growth/",
+  "path": "dept/en-au/insight/how-to-leverage-data-to-drive-sustainable-growth",
+  "timestamp": "2026-10-09T13:13:24.341Z",
+  "title": "How to leverage data to drive sustainable growth - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/black-white-winding-path-stay-ahead.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/black-white-winding-path-stay-ahead.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/neon-blue-arrows-stay-ahead.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/neon-blue-arrows-stay-ahead.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/satellite-dish-pink-sky-stay-ahead-martech-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/aerial-view-snowy-landscape.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/aerial-view-snowy-landscape.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Events-Header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Events-Header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/black-white-winding-path-stay-ahead.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/black-white-winding-path-stay-ahead.jpg"
+    ]
+  ]
+}

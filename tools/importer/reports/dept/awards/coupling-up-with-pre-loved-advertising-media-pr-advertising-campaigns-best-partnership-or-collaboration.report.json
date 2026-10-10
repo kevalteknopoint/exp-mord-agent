@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/coupling-up-with-pre-loved-advertising-media-pr-advertising-campaigns-best-partnership-or-collaboration/",
+  "path": "dept/awards/coupling-up-with-pre-loved-advertising-media-pr-advertising-campaigns-best-partnership-or-collaboration",
+  "timestamp": "2026-10-09T10:10:23.640Z",
+  "title": "Coupling up with pre-loved - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "video",
+    "panel-with-list",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "stats-panel",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Joanna-Trippett-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Joanna-Trippett-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ]
+  ]
+}

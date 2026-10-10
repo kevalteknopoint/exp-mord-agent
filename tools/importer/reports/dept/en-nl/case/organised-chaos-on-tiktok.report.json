@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/organised-chaos-on-tiktok/",
+  "path": "dept/en-nl/case/organised-chaos-on-tiktok",
+  "timestamp": "2026-10-09T17:12:47.851Z",
+  "title": "Organised chaos on TikTok - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/case-tiktok-DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/case-tiktok-DEPT-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Bol-comments-DCA.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Bol-comments-DCA.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Nina-de-Ridder.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Nina-de-Ridder.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sam_StelJeVoor-47-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sam_StelJeVoor-47-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/magasin-case-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/magasin-case-visual-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nerf_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nerf_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Bol-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Bol-image.png"
+    ]
+  ]
+}

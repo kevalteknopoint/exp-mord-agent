@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/ais-impact-across-creative-growth-engineering/",
+  "path": "dept/en-au/insight/ais-impact-across-creative-growth-engineering",
+  "timestamp": "2026-10-09T12:17:22.008Z",
+  "title": "The AI Playbook: AI’s impact across creative, growth, & engineering  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "statement",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "statement",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "video",
+    "title-and-content",
+    "statement",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AI-impact-creative-growth-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AI-impact-creative-growth-engineering.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/1579113622470.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/1579113622470.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AEAI-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT-AI-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/AI-impact-creative-growth-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/AI-impact-creative-growth-engineering.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/hear-it-see-it-and-feel-it/",
+  "path": "dept/latam/case/hear-it-see-it-and-feel-it",
+  "timestamp": "2026-10-09T21:37:45.970Z",
+  "title": "Hear it, see it and feel it. - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/wegmen_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/wegmen_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/aaron_wegmann_c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/aaron_wegmann_c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Michael-Hinderling_HV-Dept-e1627477841234.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Michael-Hinderling_HV-Dept-e1627477841234.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Samsung-IFA-Header-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Samsung-IFA-Header-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Aaron_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Aaron_1.png"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/kempen/",
+  "path": "dept/de-dach/case/kempen",
+  "timestamp": "2026-10-09T11:06:11.904Z",
+  "title": "Kein gewöhnliches Online-Banking - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Norbert-Kersbergen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Norbert-Kersbergen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/190814-maxderdachs-sc-home.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/190814-maxderdachs-sc-home.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Arm_Hero_Static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Arm_Hero_Static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/imghome.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/imghome.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/oysterl2x-kempen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/oysterl2x-kempen.jpeg"
+    ]
+  ]
+}

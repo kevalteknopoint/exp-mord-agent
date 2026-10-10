@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/die-zukunft-der-fashion-branche-die-top-3-digitalen-trends-fur-2021/",
+  "path": "dept/de-dach/downloads/die-zukunft-der-fashion-branche-die-top-3-digitalen-trends-fur-2021",
+  "timestamp": "2026-10-09T11:31:39.271Z",
+  "title": "Die Zukunft der Fashion-Branche: Die Top 3 digitalen Trends für 2021 - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/two-bags-hanging-in-cacti.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/two-bags-hanging-in-cacti.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/two-bags-hanging-in-cacti.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/two-bags-hanging-in-cacti.png"
+    ]
+  ]
+}

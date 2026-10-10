@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/design-it-yourself-with-freitag-f-cut/",
+  "path": "dept/case/design-it-yourself-with-freitag-f-cut",
+  "timestamp": "2026-10-09T10:42:29.171Z",
+  "title": "Design your very own bag with FREITAG F-Cut - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/DE-f-cut-landing.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/DE-f-cut-landing.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DE-f-cut-mobile.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DE-f-cut-mobile.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/DE-f-cut-preview.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/DE-f-cut-preview.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/f-worker.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/f-worker.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Vera-Weber_HV-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Vera-Weber_HV-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Lapierre_06.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Lapierre_06.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Le-Mans_Asset3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Le-Mans_Asset3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

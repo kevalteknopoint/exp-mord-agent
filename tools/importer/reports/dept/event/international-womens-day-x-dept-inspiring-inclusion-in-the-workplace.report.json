@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/international-womens-day-x-dept-inspiring-inclusion-in-the-workplace/",
+  "path": "dept/event/international-womens-day-x-dept-inspiring-inclusion-in-the-workplace",
+  "timestamp": "2026-10-09T21:22:38.542Z",
+  "title": "International Women’s Day x DEPT®: Inspiring Inclusion in the Workplace - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Event-header-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Event-header-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Event-header-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Event-header-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Mutale-Nkonde-alt-headshot-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Mutale-Nkonde-alt-headshot-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/missy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/missy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/claire-shalbrack.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/claire-shalbrack.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Email-header-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Email-header-1-2.png"
+    ]
+  ]
+}

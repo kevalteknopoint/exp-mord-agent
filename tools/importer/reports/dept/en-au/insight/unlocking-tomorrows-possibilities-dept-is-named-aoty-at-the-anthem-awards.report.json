@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/insight/unlocking-tomorrows-possibilities-dept-is-named-aoty-at-the-anthem-awards/",
   "path": "dept/en-au/insight/unlocking-tomorrows-possibilities-dept-is-named-aoty-at-the-anthem-awards",
-  "timestamp": "2026-10-08T16:16:31.719Z",
+  "timestamp": "2026-10-09T09:46:19.441Z",
   "title": "Unlocking tomorrow's possibilities: DEPT® is named AOTY at the Anthem Awards - DEPT®",
   "template": "dept-insight",
   "locale": "en-au",
@@ -19,9 +19,7 @@
     "assets-and-copy",
     "highlighted-item-listing"
   ],
-  "fallback": [
-    "full-width-image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2024/11/Anthem-Awards-AOTY-Web-asset-500x300-1.png",

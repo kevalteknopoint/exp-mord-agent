@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/creating-the-largest-motion-design-festival/",
+  "path": "dept/case/creating-the-largest-motion-design-festival",
+  "timestamp": "2026-10-09T10:36:01.792Z",
+  "title": "Creating the largest motion design festival - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/78DEMO-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/78DEMO-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/201DEMO-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/201DEMO-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/212DEMO.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/212DEMO.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/170DEMO-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/170DEMO-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Studio_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Studio_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/122DEMO-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/122DEMO-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/176DEMO-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/176DEMO-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Liza-Enebeis.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Liza-Enebeis.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/bol-ai-gift-assistant.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/bol-ai-gift-assistant.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/15-Hape-i.o.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/15-Hape-i.o.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/212DEMO.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/212DEMO.jpg"
+    ]
+  ]
+}

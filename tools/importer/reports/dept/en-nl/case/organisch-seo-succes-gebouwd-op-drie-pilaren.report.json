@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/organisch-seo-succes-gebouwd-op-drie-pilaren/",
+  "path": "dept/en-nl/case/organisch-seo-succes-gebouwd-op-drie-pilaren",
+  "timestamp": "2026-10-09T17:12:18.839Z",
+  "title": "Organisch SEO-succes gebouwd op drie pilaren - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "rich-text",
+    "rich-text",
+    "rich-text",
+    "statement",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Hypotheker-twee-mannen-in-woonkamer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Hypotheker-twee-mannen-in-woonkamer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Hypotheker-moeder-en-zoon-in-keuken.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Hypotheker-moeder-en-zoon-in-keuken.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Hypotheker-man-vrouw-inhuiskamer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Hypotheker-man-vrouw-inhuiskamer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/De-Hypotheker-Man-achter-laptop.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/De-Hypotheker-Man-achter-laptop.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/De-Hypotheker-pand.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/De-Hypotheker-pand.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Wouter-van-Hoogdalem.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Wouter-van-Hoogdalem.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Raleigh_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Raleigh_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tecate-selfie-collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tecate-selfie-collage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Eurovision-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Eurovision-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Hypotheker-man-vrouw-inhuiskamer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Hypotheker-man-vrouw-inhuiskamer.jpeg"
+    ]
+  ]
+}

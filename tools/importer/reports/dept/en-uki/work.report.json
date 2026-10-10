@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/work/",
+  "path": "dept/en-uki/work",
+  "timestamp": "2026-10-09T19:59:05.040Z",
+  "title": "Featured work at DEPT®, a full service digital agency - DEPT®",
+  "template": "dept-page",
+  "locale": "en-uki",
+  "components": [
+    "work-listing-v2"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Lufthansa-Case-Study-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Lufthansa-Case-Study-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Image-4-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Image-4-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Growth-marketing-DEPT%C2%AE.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Growth-marketing-DEPT-.jpeg"
+    ]
+  ]
+}

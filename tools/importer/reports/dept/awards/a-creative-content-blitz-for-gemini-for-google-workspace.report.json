@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/a-creative-content-blitz-for-gemini-for-google-workspace/",
+  "path": "dept/awards/a-creative-content-blitz-for-gemini-for-google-workspace",
+  "timestamp": "2026-10-09T09:45:02.586Z",
+  "title": "A creative content blitz for Gemini for Google Workspace  - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/gemini-google-workspace.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/gemini-google-workspace.png"
+    ]
+  ]
+}

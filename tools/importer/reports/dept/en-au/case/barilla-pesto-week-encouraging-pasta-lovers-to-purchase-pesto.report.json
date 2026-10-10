@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/barilla-pesto-week-encouraging-pasta-lovers-to-purchase-pesto/",
+  "path": "dept/en-au/case/barilla-pesto-week-encouraging-pasta-lovers-to-purchase-pesto",
+  "timestamp": "2026-10-09T12:29:41.235Z",
+  "title": "Barilla Pesto Week: Encouraging pasta lovers to purchase pesto - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Barilla-Pesto-Week-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Barilla-Pesto-Week-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Rezept_04_Pesto-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Rezept_04_Pesto-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Reddit-Feature-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Reddit-Feature-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Barilla-Pesto-Week-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Barilla-Pesto-Week-Header.png"
+    ]
+  ]
+}

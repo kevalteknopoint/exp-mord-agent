@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/an-analytics-transformation-and-brand-integration-for-millerknoll/",
+  "path": "dept/en-dk/case/an-analytics-transformation-and-brand-integration-for-millerknoll",
+  "timestamp": "2026-10-09T13:52:56.261Z",
+  "title": "An analytics transformation and brand integration for MillerKnoll  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Herman-Miller-case-image-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Herman-Miller-case-image-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Herman-Miller-case-image-1920x1080-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Herman-Miller-case-image-1920x1080-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Herman-Miller-case-image-1920x1080-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Herman-Miller-case-image-1920x1080-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Herman-Miller-case-image-1920x1080-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Herman-Miller-case-image-1920x1080-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dennis-Nielsen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dennis-Nielsen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/magasin-case-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/magasin-case-visual-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Herman-Miller-case-image-1920x1080-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Herman-Miller-case-image-1920x1080-4.jpg"
+    ]
+  ]
+}

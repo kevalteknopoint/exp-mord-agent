@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/agency-at-night-when-ideas-strike/",
+  "path": "dept/en-nl/event/agency-at-night-when-ideas-strike",
+  "timestamp": "2026-10-09T23:42:43.141Z",
+  "title": "Agency at Night - When Ideas Strike - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-intro",
+    "event-content-v2",
+    "event-program-v2",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Agency-at-Night-2025-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Agency-at-Night-2025-Website-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-Insight-Header-16x9-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-Insight-Header-16x9-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Agency-at-Night-2025-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Agency-at-Night-2025-Website-1920x1080-1.png"
+    ]
+  ]
+}

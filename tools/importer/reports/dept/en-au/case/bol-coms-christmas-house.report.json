@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/bol-coms-christmas-house/",
+  "path": "dept/en-au/case/bol-coms-christmas-house",
+  "timestamp": "2026-10-09T12:30:50.536Z",
+  "title": "Bol.com’s Christmas House - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Tim-Kugelmann-Bol.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Tim-Kugelmann-Bol.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/visual_fundacases.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/visual_fundacases.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Tim-Kugelmann-Bol-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Tim-Kugelmann-Bol-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dennis-Hamakers-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dennis-Hamakers-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Southern-Black-Sunglasses-Styling.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Google-Play-1920x1080-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Google-Play-1920x1080-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Tim-Kugelmann-Bol.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Tim-Kugelmann-Bol.jpg"
+    ]
+  ]
+}

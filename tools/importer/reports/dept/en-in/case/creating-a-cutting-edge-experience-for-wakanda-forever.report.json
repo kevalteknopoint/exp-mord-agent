@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/creating-a-cutting-edge-experience-for-wakanda-forever/",
+  "path": "dept/en-in/case/creating-a-cutting-edge-experience-for-wakanda-forever",
+  "timestamp": "2026-10-09T15:07:15.341Z",
+  "title": "Creating a cutting-edge experience for Marvel’s Black Panther: Wakanda Forever - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/SpriteMarvel_Dogstudio2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/SpriteMarvel_Dogstudio2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/SpriteMarvel_Dogstudio6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/SpriteMarvel_Dogstudio6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/SpriteMarvel_Dogstudio7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/SpriteMarvel_Dogstudio7.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/SpriteMarvel_Dogstudio8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/SpriteMarvel_Dogstudio8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/SpriteMarvel_Dogstudio10.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/SpriteMarvel_Dogstudio10.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/SpriteMarvel_Dogstudio2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/SpriteMarvel_Dogstudio2.jpg"
+    ]
+  ]
+}

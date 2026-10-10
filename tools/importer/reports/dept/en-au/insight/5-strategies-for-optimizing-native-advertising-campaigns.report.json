@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/5-strategies-for-optimizing-native-advertising-campaigns/",
+  "path": "dept/en-au/insight/5-strategies-for-optimizing-native-advertising-campaigns",
+  "timestamp": "2026-10-09T12:10:03.346Z",
+  "title": "5 Strategies for Optimizing Native Advertising Campaigns",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Placeholder-for-authors-without-headshot-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Placeholder-for-authors-without-headshot-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Placeholder-for-authors-without-headshot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Placeholder-for-authors-without-headshot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg"
+    ]
+  ]
+}

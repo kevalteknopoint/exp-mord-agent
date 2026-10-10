@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/apis-the-silent-hero-of-modern-day-digital-transformation/",
+  "path": "dept/en-in/insight/apis-the-silent-hero-of-modern-day-digital-transformation",
+  "timestamp": "2026-10-09T16:15:51.135Z",
+  "title": "APIs – The silent hero of modern-day digital transformation - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/APIs-%E2%80%93-The-Silent-Hero-Of-Modern-Day-Digital-Transformation-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/APIs---The-Silent-Hero-Of-Modern-Day-Digital-Transformation-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/APIs-%E2%80%93-The-Silent-Hero-Of-Modern-Day-Digital-Transformation-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/APIs---The-Silent-Hero-Of-Modern-Day-Digital-Transformation-500x300-1.png"
+    ]
+  ]
+}

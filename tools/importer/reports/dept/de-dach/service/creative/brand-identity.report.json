@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/creative/brand-identity/",
+  "path": "dept/de-dach/service/creative/brand-identity",
+  "timestamp": "2026-10-09T12:06:22.030Z",
+  "title": "Brand Identity - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Julien-Kelch.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Julien-Kelch.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DEPT_19Dec-003-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DEPT_19Dec-003-1.jpg"
+    ]
+  ]
+}

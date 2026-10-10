@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/aprovechando-el-legado-para-crear-un-nuevo-clasico/",
+  "path": "dept/latam/case/aprovechando-el-legado-para-crear-un-nuevo-clasico",
+  "timestamp": "2026-10-09T21:27:56.552Z",
+  "title": "Una nueva experiencia digital para Helzberg Diamonds - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-product-page-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-product-page-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-digital-ad-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-digital-ad-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-print-ad-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-print-ad-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-ring-in-box-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-ring-in-box-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-ad-woman.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-ad-woman.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/helzberg-print-full-page-ad-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/helzberg-print-full-page-ad-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/takeaway4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/takeaway4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Helzberg-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Helzberg-12.jpg"
+    ]
+  ]
+}

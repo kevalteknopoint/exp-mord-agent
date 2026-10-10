@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/agency/two-bulls/",
+  "path": "dept/en-au/agency/two-bulls",
+  "timestamp": "2026-10-09T11:49:26.088Z",
+  "title": "Two Bulls/DEPT® - DEPT®",
+  "template": "dept-agency",
+  "locale": "en-au",
+  "components": [
+    "panel-agency-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Two-Bulls-x-DEPT-Office-image-2-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Two-Bulls-x-DEPT-Office-image-2-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Two-Bulls-x-DEPT-Office-image-2-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Two-Bulls-x-DEPT-Office-image-2-scaled.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/live-like-a-champion/",
+  "path": "dept/en-uki/case/live-like-a-champion",
+  "timestamp": "2026-10-09T20:21:42.263Z",
+  "title": "Live like a champion - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "statement",
+    "video",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/boy-in-stands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/boy-in-stands.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-7-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-7-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/jerome-boateng-visual.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/jerome-boateng-visual.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Screenshot-2019-07-24-at-13.52.11.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Screenshot-2019-07-24-at-13.52.11.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jake-Welsh.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jake-Welsh.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/sam-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/sam-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Fishing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Fishing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/boy-in-stands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/boy-in-stands.jpg"
+    ]
+  ]
+}

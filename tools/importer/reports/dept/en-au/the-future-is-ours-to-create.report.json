@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/the-future-is-ours-to-create/",
+  "path": "dept/en-au/the-future-is-ours-to-create",
+  "timestamp": "2026-10-09T23:06:42.239Z",
+  "title": "The future is ours to create - DEPT®",
+  "template": "dept-page",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "full-width-image",
+    "panel-with-rich-text",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Impact-report-featured-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Impact-report-featured-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Impact-report-featured.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Impact-report-featured.jpeg"
+    ]
+  ]
+}

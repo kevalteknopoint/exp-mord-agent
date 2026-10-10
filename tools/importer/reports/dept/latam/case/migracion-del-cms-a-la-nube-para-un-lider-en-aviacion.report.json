@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/migracion-del-cms-a-la-nube-para-un-lider-en-aviacion/",
+  "path": "dept/latam/case/migracion-del-cms-a-la-nube-para-un-lider-en-aviacion",
+  "timestamp": "2026-10-09T21:40:06.635Z",
+  "title": "Migración del CMS a la nube para un líder en aviación - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/airline-against-sky.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/airline-against-sky.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/cloud-architecture-diagram-cms-project-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/cloud-architecture-diagram-cms-project-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-wing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-wing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1188236181-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1188236181-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/sieben-tipps-wie-sie-sich-auf-die-post-corona-welt-einstimmen/",
+  "path": "dept/de-dach/insight/sieben-tipps-wie-sie-sich-auf-die-post-corona-welt-einstimmen",
+  "timestamp": "2026-10-09T11:44:25.771Z",
+  "title": "Sieben Tipps, wie Sie sich auf die Post-Corona-Welt einstimmen - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Sieben-Tipps-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Sieben-Tipps-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Philipp-Bruns-Dept-01-e1627486277947-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Philipp-Bruns-Dept-01-e1627486277947-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Philipp-Bruns-Dept-01-e1627486277947.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Philipp-Bruns-Dept-01-e1627486277947.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Sieben-Tipps-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Sieben-Tipps-1.jpeg"
+    ]
+  ]
+}

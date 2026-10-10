@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/de-cio-agenda-voor-2021-de-top-drie-digitale-trends-2/",
+  "path": "dept/en-nl/downloads/de-cio-agenda-voor-2021-de-top-drie-digitale-trends-2",
+  "timestamp": "2026-10-09T17:43:36.939Z",
+  "title": "De CIO agenda voor 2021: de top drie digitale trends - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rectangle-387.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rectangle-387.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rectangle-387.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rectangle-387.png"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/downloads/beyond-google-the-future-of-search-marketing/",
+  "path": "dept/en-au/downloads/beyond-google-the-future-of-search-marketing",
+  "timestamp": "2026-10-09T12:43:48.092Z",
+  "title": "Beyond Google: The future of search marketing - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-au",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/black-chain-links.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/black-chain-links.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/black-chain-links.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/black-chain-links.jpg"
+    ]
+  ]
+}

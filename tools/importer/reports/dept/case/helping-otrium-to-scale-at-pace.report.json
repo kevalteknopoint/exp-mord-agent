@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/helping-otrium-to-scale-at-pace/",
+  "path": "dept/case/helping-otrium-to-scale-at-pace",
+  "timestamp": "2026-10-09T10:17:06.340Z",
+  "title": "Helping Otrium to scale at pace - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Otrium-06.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Otrium-06.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Otrium-08.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Otrium-08.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Otrium-04.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Otrium-04.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Danijel-Bonacic-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Danijel-Bonacic-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/bol-commerce-store.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/bol-commerce-store.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/F-CUT_SimonHabegger_01_RGB_HighRes-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Otrium-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Otrium-02.jpg"
+    ]
+  ]
+}

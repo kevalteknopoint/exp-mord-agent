@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/de-dach/insight/kreativstudio-hello-monday-schliest-sich-dept-an/",
   "path": "dept/de-dach/insight/kreativstudio-hello-monday-schliest-sich-dept-an",
-  "timestamp": "2026-10-08T15:00:15.153Z",
+  "timestamp": "2026-10-09T09:55:16.235Z",
   "title": "Kreativstudio Hello Monday schließt sich DEPT® an - DEPT®",
   "template": "dept-insight",
   "locale": "de-dach",
@@ -14,9 +14,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "video"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/03/HMxDept_press_010322.jpeg",

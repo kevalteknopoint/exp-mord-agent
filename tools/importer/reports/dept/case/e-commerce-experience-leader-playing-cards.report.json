@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/e-commerce-experience-leader-playing-cards/",
+  "path": "dept/case/e-commerce-experience-leader-playing-cards",
+  "timestamp": "2026-10-09T10:47:00.534Z",
+  "title": "Bicyclecards.com - An e-commerce experience for the leader in playing cards - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "intro-text",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "image",
+    "quote",
+    "cta-text",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/bicyclecards-Stargazer-Bundle.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/bicyclecards-Stargazer-Bundle.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/bicyclecards-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/bicyclecards-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicyclecards-World-of-Warcraft.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicyclecards-World-of-Warcraft.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Ralph-Lauren-Red-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

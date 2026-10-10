@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/von-ch-zu-com/",
+  "path": "dept/de-dach/case/von-ch-zu-com",
+  "timestamp": "2026-10-09T11:26:47.940Z",
+  "title": "Von .ch zu .com - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/modissa.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/modissa.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/03-Walder-Design-Moods-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/03-Walder-Design-Moods-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/dyana-wing-so-KIyJNX7G36s-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/dyana-wing-so-KIyJNX7G36s-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/kelly-sikkema-FqqaJI9OxMI-unsplash-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/kelly-sikkema-FqqaJI9OxMI-unsplash-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/modissa.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/modissa.png"
+    ]
+  ]
+}

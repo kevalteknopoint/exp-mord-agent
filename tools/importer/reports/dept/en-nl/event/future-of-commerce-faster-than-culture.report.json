@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/future-of-commerce-faster-than-culture/",
+  "path": "dept/en-nl/event/future-of-commerce-faster-than-culture",
+  "timestamp": "2026-10-10T00:24:28.735Z",
+  "title": "Commerce of the Future: Faster than Culture - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "assets-and-copy",
+    "event-people",
+    "wrapper",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Frame-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Frame-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Silvia-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Silvia-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Amelia-Barry-AMP-Tik-Tok-For-DEPT.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Amelia-Barry-AMP-Tik-Tok-For-DEPT.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Salome-Rijnders-Dept-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Salome-Rijnders-Dept-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/mascha-feoktistova.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/mascha-feoktistova.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ramin-Bahari.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ramin-Bahari.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Igor-Tolkachev-Shopify.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Igor-Tolkachev-Shopify.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Tim-de-Kamper.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Tim-de-Kamper.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/gen-z-woman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/gen-z-woman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Experience-path.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Experience-path.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/the-future-geo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/the-future-geo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Frame-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Frame-1-1.jpg"
+    ]
+  ]
+}

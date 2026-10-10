@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/from-family-business-to-digital-b2b-frontrunner/",
+  "path": "dept/case/from-family-business-to-digital-b2b-frontrunner",
+  "timestamp": "2026-10-09T10:09:45.640Z",
+  "title": "From family business to digital B2B frontrunner - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-6-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-6-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-10A.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-10A.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-10B-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-10B-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plieger-8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plieger-8-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/02/sidekix-media-RwXneIyqxAw-unsplash-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/02/sidekix-media-RwXneIyqxAw-unsplash-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/jbl-headphones-black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/jbl-headphones-black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HVR-Case-Study_Hero-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HVR-Case-Study_Hero-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/wilson-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/wilson-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/02/Plieger_16-9-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/02/Plieger_16-9-1024x576.png"
+    ]
+  ]
+}

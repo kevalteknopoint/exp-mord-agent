@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/hybrides-meta-festival-begeistert-digitalszene/",
+  "path": "dept/de-dach/insight/hybrides-meta-festival-begeistert-digitalszene",
+  "timestamp": "2026-10-09T12:08:14.888Z",
+  "title": "Hybrides Meta Festival begeistert Digitalszene - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "full-width-image",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Impressionen_3DEventplattform_MetaFestival20211.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Impressionen_3DEventplattform_MetaFestival20211.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Impressionen_3DEventplattform_MetaFestival20213.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Impressionen_3DEventplattform_MetaFestival20213.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/digital-marketing-panel-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/digital-marketing-panel-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Impressionen_3DEventplattform_MetaFestival20211.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Impressionen_3DEventplattform_MetaFestival20211.png"
+    ]
+  ]
+}

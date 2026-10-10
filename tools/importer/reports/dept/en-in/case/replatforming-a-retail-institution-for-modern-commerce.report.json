@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/replatforming-a-retail-institution-for-modern-commerce/",
+  "path": "dept/en-in/case/replatforming-a-retail-institution-for-modern-commerce",
+  "timestamp": "2026-10-09T16:13:39.869Z",
+  "title": "Replatforming a retail institution for modern commerce - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/vijay-sales-logo-red.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/vijay-sales-logo-red.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Responsive-Design-02-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Responsive-Design-02-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/VS-homepage-01-M-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/VS-homepage-01-M-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/Responsive-Design-01-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/Responsive-Design-01-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/vijay-sales-logo-red-background.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/vijay-sales-logo-red-background.webp"
+    ]
+  ]
+}

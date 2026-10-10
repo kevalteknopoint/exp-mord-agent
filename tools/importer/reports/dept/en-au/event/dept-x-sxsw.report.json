@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dept-x-sxsw/",
+  "path": "dept/en-au/event/dept-x-sxsw",
+  "timestamp": "2026-10-09T11:54:24.377Z",
+  "title": "DEPT® X SXSW® - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/23_SXSW_website-seo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/23_SXSW_website-seo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/23_SXSW_website-seo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/23_SXSW_website-seo.png"
+    ]
+  ]
+}

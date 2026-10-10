@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/get-ready-for-takeoff-mit-dept/",
+  "path": "dept/de-dach/get-ready-for-takeoff-mit-dept",
+  "timestamp": "2026-10-09T18:10:28.445Z",
+  "title": "Get ready for takeoff – mit DEPT® - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "industry-post-header",
+    "intro-text",
+    "wrapper",
+    "wrapper",
+    "client-panel",
+    "panel-partners",
+    "panel-whitepaper",
+    "wrapper",
+    "call-to-action",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/airplane-gf993c6490_1920-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/airplane-gf993c6490_1920-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bouygues_logo_white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bouygues_logo_white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Hochbahn_logo_white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Hochbahn_logo_white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Douglas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Douglas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Transavia.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Transavia.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/AMAG.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/AMAG.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/HM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/HM.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Google.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Google.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Electrolux_logo_white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Electrolux_logo_white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Screenshot-2022-09-22-at-14.44.46.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Screenshot-2022-09-22-at-14.44.46.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/airplane-gf993c6490_1920-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/airplane-gf993c6490_1920-1.jpg"
+    ]
+  ]
+}

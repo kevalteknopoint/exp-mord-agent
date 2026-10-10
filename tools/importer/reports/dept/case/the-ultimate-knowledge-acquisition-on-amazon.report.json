@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/the-ultimate-knowledge-acquisition-on-amazon/",
+  "path": "dept/case/the-ultimate-knowledge-acquisition-on-amazon",
+  "timestamp": "2026-10-09T11:05:54.400Z",
+  "title": "The ultimate knowledge acquisition on Amazon - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Electrolux-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Electrolux-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Electrolux-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Electrolux-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Electrolux-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Electrolux-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Electrolux-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Electrolux-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ghd-case-image-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Electrolux-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Electrolux-4-scaled.jpg"
+    ]
+  ]
+}

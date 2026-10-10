@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/celebrating-b-lab-irelands-official-launch/",
+  "path": "dept/en-nl/insight/celebrating-b-lab-irelands-official-launch",
+  "timestamp": "2026-10-09T17:21:05.147Z",
+  "title": "Celebrating B Lab Ireland’s official launch - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/B-Lab-Ireland-Event.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/B-Lab-Ireland-Event.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Anna-Pas-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Anna-Pas-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Anna-Pas.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Anna-Pas.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/B-Lab-Ireland-Event.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/B-Lab-Ireland-Event.jpeg"
+    ]
+  ]
+}

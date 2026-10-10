@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/dept-erweitert-adobe-know-how-mit-spezialisten-team-von-tekno-point/",
+  "path": "dept/de-dach/insight/dept-erweitert-adobe-know-how-mit-spezialisten-team-von-tekno-point",
+  "timestamp": "2026-10-09T11:22:49.940Z",
+  "title": "DEPT® erweitert Adobe Know-how mit Spezialisten-Team - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Insight-TeknoPoint.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Insight-TeknoPoint.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Landing_page.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Landing_page.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Insight-TeknoPoint.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Insight-TeknoPoint.png"
+    ]
+  ]
+}

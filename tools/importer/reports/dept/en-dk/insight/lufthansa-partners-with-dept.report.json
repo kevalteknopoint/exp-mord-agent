@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/lufthansa-partners-with-dept/",
+  "path": "dept/en-dk/insight/lufthansa-partners-with-dept",
+  "timestamp": "2026-10-09T14:52:03.894Z",
+  "title": "Lufthansa Group picks DEPT® as Digital Agency of Record for EMEA  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT%C2%AExLufthansa_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-xLufthansa_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/JagermeisterDEPT-NDH2.0-wLogo-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/JagermeisterDEPT-NDH2.0-wLogo-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1000x1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1000x1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-x-Shopify-orange-dress.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-x-Shopify-orange-dress.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT%C2%AExLufthansa_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-xLufthansa_1920x1080.png"
+    ]
+  ]
+}

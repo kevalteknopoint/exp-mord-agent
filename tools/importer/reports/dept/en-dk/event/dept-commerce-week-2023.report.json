@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/dept-commerce-week-2023/",
+  "path": "dept/en-dk/event/dept-commerce-week-2023",
+  "timestamp": "2026-10-09T23:09:47.321Z",
+  "title": "DEPT® Commerce Week 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-program",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Desktop-Background-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Desktop-Background-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Desktop-Background-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Desktop-Background-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Rasmus-Keller-Jansen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Rasmus-Keller-Jansen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Desktop-Background-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Desktop-Background-2-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/data-driven-business-transformation-for-enhanced-profitability/",
+  "path": "dept/en-nl/case/data-driven-business-transformation-for-enhanced-profitability",
+  "timestamp": "2026-10-09T18:02:05.078Z",
+  "title": "Data-driven business transformation for enhanced profitability - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/autobytel-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/autobytel-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/autobytel-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/autobytel-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Matt-Lacey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Matt-Lacey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/traveling-adventure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/traveling-adventure.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/data-analytics-consulting-disney.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/data-analytics-consulting-disney.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/atlassian-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/atlassian-logo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Autobytel-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Autobytel-2.jpeg"
+    ]
+  ]
+}

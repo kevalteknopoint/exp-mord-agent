@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/green-lighting-the-squid-game-partnership/",
+  "path": "dept/en-dk/case/green-lighting-the-squid-game-partnership",
+  "timestamp": "2026-10-09T14:25:47.941Z",
+  "title": "Green lighting the Squid Game partnership - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "full-width-image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Jetflix1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Jetflix1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Jetflix3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Jetflix3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ]
+  ]
+}

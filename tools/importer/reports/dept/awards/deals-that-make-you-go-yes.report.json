@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/deals-that-make-you-go-yes/",
+  "path": "dept/awards/deals-that-make-you-go-yes",
+  "timestamp": "2026-10-09T10:12:52.538Z",
+  "title": "Deals that make you go YES! - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Black-Friday.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Black-Friday.jpg"
+    ]
+  ]
+}

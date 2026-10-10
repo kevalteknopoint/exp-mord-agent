@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-x-salesforce-world-tour-hamburg/",
+  "path": "dept/de-dach/event/dept-x-salesforce-world-tour-hamburg",
+  "timestamp": "2026-10-09T11:03:47.966Z",
+  "title": "DEPT® x Salesforce World Tour Hamburg - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details",
+    "video"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Salesforce-World-Event-Banner-1440x558-white-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Salesforce-World-Event-Banner-1440x558-white-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Salesforce-World-Event-Banner-1440x558-white-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Salesforce-World-Event-Banner-1440x558-white-1.png"
+    ]
+  ]
+}

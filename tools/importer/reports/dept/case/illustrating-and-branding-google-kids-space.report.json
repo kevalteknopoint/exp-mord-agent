@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/illustrating-and-branding-google-kids-space/",
+  "path": "dept/case/illustrating-and-branding-google-kids-space",
+  "timestamp": "2026-10-09T10:22:23.778Z",
+  "title": "Illustrating Google Kids Space - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/GoogleKidsSpace-Case-07.1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/GoogleKidsSpace-Case-07.1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/children-smiling-in-woodland.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/children-smiling-in-woodland.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/GoogleKidsSpace-Case-07.1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/GoogleKidsSpace-Case-07.1.png"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-at-w3-vision-2023/",
+  "path": "dept/de-dach/event/dept-at-w3-vision-2023",
+  "timestamp": "2026-10-09T22:39:01.013Z",
+  "title": "DEPT® at w3.vision 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-locations",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Event-LP-Header_bg.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Event-LP-Header_bg.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Background-Image_w3.vision.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Background-Image_w3.vision.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Jan-Gutkuhn_DEPT%C2%AE-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Jan-Gutkuhn_DEPT--1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Philip-Schroth_Dept_1080x1920-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Philip-Schroth_Dept_1080x1920-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/alex-ortner-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/alex-ortner-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/David-Pajung-Dept-01-1-14950-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/David-Pajung-Dept-01-1-14950-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Event-LP-Header-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Event-LP-Header-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/three-key-takeaways-for-the-future-of-growth-marketing/",
+  "path": "dept/en-au/insight/three-key-takeaways-for-the-future-of-growth-marketing",
+  "timestamp": "2026-10-09T13:09:28.073Z",
+  "title": "Three key takeaways for the future of growth marketing - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "wrapper",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Featured-Image-Top-5-Strategies-for-SEO-Growth-in-2022-1200x628-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Featured-Image-Top-5-Strategies-for-SEO-Growth-in-2022-1200x628-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Laura-Colton.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Laura-Colton.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Featured-Image-Top-5-Strategies-for-SEO-Growth-in-2022-1200x628-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Featured-Image-Top-5-Strategies-for-SEO-Growth-in-2022-1200x628-1.jpeg"
+    ]
+  ]
+}

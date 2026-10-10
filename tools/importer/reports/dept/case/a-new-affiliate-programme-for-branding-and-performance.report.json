@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-new-affiliate-programme-for-branding-and-performance/",
+  "path": "dept/case/a-new-affiliate-programme-for-branding-and-performance",
+  "timestamp": "2026-10-09T10:40:38.265Z",
+  "title": "A new affiliate program for branding and performance - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "image",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-lifestyl.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-lifestyl.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-peptide-booster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-peptide-booster.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-Influencer-campaign-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-Influencer-campaign-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/samsung_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/samsung_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-peptide-booster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-peptide-booster.jpg"
+    ]
+  ]
+}

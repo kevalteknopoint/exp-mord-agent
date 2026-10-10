@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/revolutionising-skincare-with-a-seamless-digital-experience/",
+  "path": "dept/awards/revolutionising-skincare-with-a-seamless-digital-experience",
+  "timestamp": "2026-10-09T10:34:29.339Z",
+  "title": "Revolutionising skincare with a seamless digital experience - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "awards-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-credits"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-desktop-uxui.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-desktop-uxui.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-localization.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-localization.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-WebGL.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-WebGL.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-product-rendering.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-product-rendering.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-products.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-products.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/geske-desktop-uxui.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/geske-desktop-uxui.webp"
+    ]
+  ]
+}

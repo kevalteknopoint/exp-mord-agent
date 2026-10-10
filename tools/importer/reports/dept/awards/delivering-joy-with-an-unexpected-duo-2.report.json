@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/delivering-joy-with-an-unexpected-duo-2/",
+  "path": "dept/awards/delivering-joy-with-an-unexpected-duo-2",
+  "timestamp": "2026-10-09T10:13:17.243Z",
+  "title": "Delivering joy with an unexpected duo - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "quote",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "stats-panel",
+    "video",
+    "title-and-content",
+    "video",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/jeff-bowerman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/jeff-bowerman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ]
+  ]
+}

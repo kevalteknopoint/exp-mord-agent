@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/the-sweet-chocolate-taste-of-nostalgia/",
+  "path": "dept/en-nl/case/the-sweet-chocolate-taste-of-nostalgia",
+  "timestamp": "2026-10-09T17:28:44.170Z",
+  "title": "The sweet chocolate taste of nostalgia - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "quote",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Chocomel-x-DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Chocomel-x-DEPT-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1057277428-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1057277428-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/IG.com-RaceCase.001.001-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/IG.com-RaceCase.001.001-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1254128245-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1254128245-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Chocomel-x-DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Chocomel-x-DEPT-.jpg"
+    ]
+  ]
+}

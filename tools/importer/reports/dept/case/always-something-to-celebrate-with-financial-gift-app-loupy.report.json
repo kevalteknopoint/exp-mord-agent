@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/always-something-to-celebrate-with-financial-gift-app-loupy/",
+  "path": "dept/case/always-something-to-celebrate-with-financial-gift-app-loupy",
+  "timestamp": "2026-10-09T10:01:30.341Z",
+  "title": "Always something to celebrate with financial gift app Loupy - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/2-Visual-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/2-Visual-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/4-Visual-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/4-Visual-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/8-Visual-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/8-Visual-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Boris-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Boris-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/bol-ai-gift-assistant.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/bol-ai-gift-assistant.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/storybook_1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/storybook_1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/8-Visual-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/8-Visual-4-scaled.jpg"
+    ]
+  ]
+}

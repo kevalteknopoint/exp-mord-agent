@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/digital-b2b-strategy-to-reach-healthcare-professionals/",
+  "path": "dept/en-in/case/digital-b2b-strategy-to-reach-healthcare-professionals",
+  "timestamp": "2026-10-09T15:44:28.840Z",
+  "title": "Featured work: B2B digital marketing strategy for Medela - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Betty_Nansen_case_header_final-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/medela-digital-work2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/medela-digital-work2.jpg"
+    ]
+  ]
+}

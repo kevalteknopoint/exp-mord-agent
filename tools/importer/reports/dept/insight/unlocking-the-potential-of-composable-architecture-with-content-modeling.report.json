@@ -1,0 +1,80 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/unlocking-the-potential-of-composable-architecture-with-content-modeling/",
+  "path": "dept/insight/unlocking-the-potential-of-composable-architecture-with-content-modeling",
+  "timestamp": "2026-10-09T22:14:58.642Z",
+  "title": "Unlocking the potential of Composable Architecture with content modeling - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Unlocking-potential-Composable-Architecture-content-modeling.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Unlocking-potential-Composable-Architecture-content-modeling.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Danny-Patterson-Dept-e1627485724792-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Danny-Patterson-Dept-e1627485724792-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Editor-defined-composition.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Editor-defined-composition.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/content-model-example.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/content-model-example.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Combosability.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Combosability.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Header-region-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Header-region-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Composable-structure-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Composable-structure-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/pink-material-olive-leather.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/pink-material-olive-leather.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/green-makeup-eye.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/green-makeup-eye.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/composable-architecture-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/composable-architecture-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/lycs-architecture-U2BI3GMnSSE-unsplash-scaled-e1684956807923.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/lycs-architecture-U2BI3GMnSSE-unsplash-scaled-e1684956807923.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Unlocking-potential-Composable-Architecture-content-modeling.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Unlocking-potential-Composable-Architecture-content-modeling.jpg"
+    ]
+  ]
+}

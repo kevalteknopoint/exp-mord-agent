@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/pragmatische-gids-voor-de-metaverse-technologie-bouwstenen/",
+  "path": "dept/en-nl/downloads/pragmatische-gids-voor-de-metaverse-technologie-bouwstenen",
+  "timestamp": "2026-10-09T17:52:39.569Z",
+  "title": "Pragmatische gids voor de metaverse - technologie & bouwstenen - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-melted-plastic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-melted-plastic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/pragmatic-guide-metaverse-cover-1024x726.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/pragmatic-guide-metaverse-cover-1024x726.png"
+    ]
+  ]
+}

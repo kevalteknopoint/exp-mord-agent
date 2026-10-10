@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/van-view-tot-vote-d66s-vernieuwde-voter-journey/",
+  "path": "dept/en-nl/case/van-view-tot-vote-d66s-vernieuwde-voter-journey",
+  "timestamp": "2026-10-09T17:33:31.746Z",
+  "title": "Van view tot vote: D66’s vernieuwde voter journey - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "panel-with-cards",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-162.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-162.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Template-Desktop-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Template-Desktop-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Mobile-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Mobile-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Desktop-Angled-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Desktop-Angled-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Template-Desktop-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Template-Desktop-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/d66-website-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/d66-website-design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Paul-Beentjes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Paul-Beentjes.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/indigo_8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/indigo_8-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Piech-Thumbnail.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Piech-Thumbnail.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/d66_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/d66_1.jpeg"
+    ]
+  ]
+}

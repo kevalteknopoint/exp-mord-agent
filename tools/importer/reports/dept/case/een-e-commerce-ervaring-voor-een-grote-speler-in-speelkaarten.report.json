@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/een-e-commerce-ervaring-voor-een-grote-speler-in-speelkaarten/",
+  "path": "dept/case/een-e-commerce-ervaring-voor-een-grote-speler-in-speelkaarten",
+  "timestamp": "2026-10-09T10:48:02.447Z",
+  "title": "Een e-commerce-ervaring voor een grote speler in speelkaarten - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "intro-text",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "image",
+    "quote",
+    "cta-text",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/bicyclecards-Stargazer-Bundle.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/bicyclecards-Stargazer-Bundle.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/bicyclecards-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/bicyclecards-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicyclecards-World-of-Warcraft.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicyclecards-World-of-Warcraft.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/schipol-airport.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/schipol-airport.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ]
+  ]
+}

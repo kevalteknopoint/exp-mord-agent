@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/each-play-of-a-song-creates-a-new-visual-experience/",
+  "path": "dept/case/each-play-of-a-song-creates-a-new-visual-experience",
+  "timestamp": "2026-10-09T10:47:17.040Z",
+  "title": "Hear it, see it and feel it. - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/wegmen_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/wegmen_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/aaron_wegmann_c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/aaron_wegmann_c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Michael-Hinderling_HV-Dept-e1627477841234.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Michael-Hinderling_HV-Dept-e1627477841234.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Fingerspelling-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Fingerspelling-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/HM_Virtual_Showroom_Hero_Image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Screenshot-2023-03-09-at-11.06.32-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Screenshot-2023-03-09-at-11.06.32-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Aaron_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Aaron_1.png"
+    ]
+  ]
+}

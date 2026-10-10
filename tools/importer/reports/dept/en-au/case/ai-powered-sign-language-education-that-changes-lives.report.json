@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/ai-powered-sign-language-education-that-changes-lives/",
+  "path": "dept/en-au/case/ai-powered-sign-language-education-that-changes-lives",
+  "timestamp": "2026-10-09T12:24:21.942Z",
+  "title": "Featured work: AI-powered platform for learning sign language - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/deaf-father-son-sign-language.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/deaf-father-son-sign-language.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/sign-homepage.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/sign-homepage.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/case-img-sm.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/case-img-sm.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/case-img-lg.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/case-img-lg.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/signs-carousel-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/signs-carousel-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/signs-carousel-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/signs-carousel-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/signs-carousel-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/signs-carousel-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/signs-carousel-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/signs-carousel-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/signs-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/signs-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/twitch-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/twitch-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Signs_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Signs_Featured_169.png"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/a-spick-and-span-influencer-campaign-with-shiny-results/",
+  "path": "dept/en-dk/case/a-spick-and-span-influencer-campaign-with-shiny-results",
+  "timestamp": "2026-10-09T23:08:15.446Z",
+  "title": "A spick-and-span influencer campaign with shiny results - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/afghan-hound-in-dog-bed.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/afghan-hound-in-dog-bed.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/just-eat-takeaway-personalized.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/just-eat-takeaway-personalized.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ]
+  ]
+}

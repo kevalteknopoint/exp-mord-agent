@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/de-dach/case/extrem-schnelle-website-durch-devops-optimierung/",
   "path": "dept/de-dach/case/extrem-schnelle-website-durch-devops-optimierung",
-  "timestamp": "2026-10-08T15:13:48.753Z",
+  "timestamp": "2026-10-09T09:51:55.141Z",
   "title": "Extrem schnelle Website durch DevOps-Optimierung - DEPT®",
   "template": "dept-case",
   "locale": "de-dach",
@@ -11,12 +11,14 @@
     "assets-and-copy",
     "case-intro",
     "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
     "next-case"
   ],
-  "fallback": [
-    "case-intro-title",
-    "case-intro"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-min.jpg",
@@ -35,8 +37,8 @@
       "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-2-min.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2025/09/Mountain-Rescue-1920x1080-1.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Mountain-Rescue-1920x1080-1.png"
+      "https://www.dept.global/wp-content/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-min.jpg",

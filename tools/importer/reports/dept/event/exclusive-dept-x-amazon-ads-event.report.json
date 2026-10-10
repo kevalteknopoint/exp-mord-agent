@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/exclusive-dept-x-amazon-ads-event/",
+  "path": "dept/event/exclusive-dept-x-amazon-ads-event",
+  "timestamp": "2026-10-09T21:21:03.471Z",
+  "title": "Exclusive DEPT® x Amazon Ads Event - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CMS-Featured-image-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CMS-Featured-image-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Alec-Burns-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Alec-Burns-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/alex-ortner-1-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/alex-ortner-1-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Lisa-Rousseau--150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Lisa-Rousseau--150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/laura-loebbel-1-1-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/laura-loebbel-1-1-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/frazer-locke-amazon-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/frazer-locke-amazon-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CMS-Featured-image-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CMS-Featured-image-2.jpg"
+    ]
+  ]
+}

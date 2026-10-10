@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/inter-milan-inspiring-and-entertaining-fans-all-over-the-globe/",
+  "path": "dept/awards/inter-milan-inspiring-and-entertaining-fans-all-over-the-globe",
+  "timestamp": "2026-10-09T10:23:07.491Z",
+  "title": "Inter Milan: Inspiring and entertaining fans all over the globe - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "intro-text",
+    "image",
+    "panel-with-cards",
+    "jumbotron",
+    "panel-with-rich-text",
+    "jumbotron",
+    "quote",
+    "image",
+    "panel-with-rich-text",
+    "jumbotron",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/INTER-milan-website.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/INTER-milan-website.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_players.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_players.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_jerseys.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_jerseys.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

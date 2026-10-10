@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/strategising-and-building-the-front-end-of-a-new-app/",
+  "path": "dept/en-uki/case/strategising-and-building-the-front-end-of-a-new-app",
+  "timestamp": "2026-10-09T19:13:50.935Z",
+  "title": "Strategising and building the front-end of a new app  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/helm-health-desktop-app.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/helm-health-desktop-app.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/helm-health-mobile-app-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/helm-health-mobile-app-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/helm-health-front-end-architecure.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/helm-health-front-end-architecure.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mark-Wright.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mark-Wright.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HVR-Case-Study_Hero-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HVR-Case-Study_Hero-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Fishing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Fishing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/IG.com-RaceCase.001.001-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/IG.com-RaceCase.001.001-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/helm-health-mobile-app-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/helm-health-mobile-app-min.jpg"
+    ]
+  ]
+}

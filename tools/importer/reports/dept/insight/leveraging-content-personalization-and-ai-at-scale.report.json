@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/leveraging-content-personalization-and-ai-at-scale/",
+  "path": "dept/insight/leveraging-content-personalization-and-ai-at-scale",
+  "timestamp": "2026-10-09T22:37:52.935Z",
+  "title": "Leveraging content, personalization, and AI at scale - DEPT® x Adobe",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "video",
+    "event-people",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/leveraging-content-ai-scale-adobe-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/leveraging-content-ai-scale-adobe-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Yash-Mody-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Yash-Mody-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Yash-Mody.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Yash-Mody.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Oleg-Sidorenko-Dept-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Oleg-Sidorenko-Dept-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Praveen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Praveen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/aem-implementations.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/aem-implementations.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Adobe-thumbnail-500x300-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Adobe-thumbnail-500x300-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/5-AI-predictions-2025.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/5-AI-predictions-2025.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/leveraging-content-ai-scale-adobe-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/leveraging-content-ai-scale-adobe-2.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/lapierre-launch-campaign-ezesty/",
+  "path": "dept/awards/lapierre-launch-campaign-ezesty",
+  "timestamp": "2026-10-09T10:25:33.765Z",
+  "title": "Heavy on craft, light on the trail. Launch campaign for Lapierre’s latest eZesty eMTB - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "jumbotron",
+    "panel-with-list",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Additional-pic-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Additional-pic-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Additional-pic-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Additional-pic-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Additional-pic-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Additional-pic-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/DSC01185-1024x682-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/DSC01185-1024x682-1.jpg"
+    ]
+  ]
+}

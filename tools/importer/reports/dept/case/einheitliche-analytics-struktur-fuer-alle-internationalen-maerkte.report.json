@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/einheitliche-analytics-struktur-fuer-alle-internationalen-maerkte/",
+  "path": "dept/case/einheitliche-analytics-struktur-fuer-alle-internationalen-maerkte",
+  "timestamp": "2026-10-09T10:52:08.126Z",
+  "title": "Einheitliche Analytics Struktur für alle internationalen Märkte - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Philips-header-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Philips-header-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-10.45.48.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-09-at-10.45.48.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-10.48.33.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-09-at-10.48.33.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Cristian-van-Nispen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Cristian-van-Nispen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Audley-city-view.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Audley-city-view.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Philips-header-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Philips-header-image-1.jpg"
+    ]
+  ]
+}

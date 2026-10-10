@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/the-telco-industry-transformation-download-the-longread-dept/",
+  "path": "dept/downloads/the-telco-industry-transformation-download-the-longread-dept",
+  "timestamp": "2026-10-09T11:45:55.904Z",
+  "title": "The telco industry transformation: Download the longread | DEPT® - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/stacked-gray-cubes-the-telco-transformation-connectivity-providers-to-digital-transformation-enablers-copy.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/stacked-gray-cubes-the-telco-transformation-connectivity-providers-to-digital-transformation-enablers-copy.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/stacked-gray-cubes-the-telco-transformation-connectivity-providers-to-digital-transformation-enablers-copy.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/stacked-gray-cubes-the-telco-transformation-connectivity-providers-to-digital-transformation-enablers-copy.png"
+    ]
+  ]
+}

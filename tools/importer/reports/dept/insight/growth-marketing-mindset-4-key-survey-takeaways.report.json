@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/growth-marketing-mindset-4-key-survey-takeaways/",
+  "path": "dept/insight/growth-marketing-mindset-4-key-survey-takeaways",
+  "timestamp": "2026-10-09T20:45:44.760Z",
+  "title": "Growth marketing mindset: 4 key survey takeaways - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Featured-Image-2021-Growth-Marketing-Report.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Featured-Image-2021-Growth-Marketing-Report.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Phoebe-Martell-Crawford-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Phoebe-Martell-Crawford-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Phoebe-Martell-Crawford.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Phoebe-Martell-Crawford.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Featured-Image-2021-Growth-Marketing-Report.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Featured-Image-2021-Growth-Marketing-Report.jpeg"
+    ]
+  ]
+}

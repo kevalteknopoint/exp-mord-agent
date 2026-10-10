@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/prepare-for-take-off/",
+  "path": "dept/de-dach/prepare-for-take-off",
+  "timestamp": "2026-10-09T22:52:58.970Z",
+  "title": "Prepare for take off - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "intro-text",
+    "panel-work",
+    "image",
+    "quote",
+    "panel-work",
+    "video",
+    "panel-work",
+    "image",
+    "article-related-posts",
+    "panel-partners",
+    "panel-whitepaper",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Bouyges-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Bouyges-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/05-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/05-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/building-the-platform-for-natures-comeback-story/",
+  "path": "dept/awards/building-the-platform-for-natures-comeback-story",
+  "timestamp": "2026-10-09T10:07:44.441Z",
+  "title": "Sumthing - Building the platform for nature's comeback story - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "stats-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Sumthing-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Sumthing-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Sumthing-updates-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Sumthing-updates-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Sumthing-photo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Sumthing-photo.jpg"
+    ]
+  ]
+}

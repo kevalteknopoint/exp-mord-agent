@@ -1,0 +1,91 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/3d-projekte-ein-einblick-in-konzepte-und-services/",
+  "path": "dept/de-dach/insight/3d-projekte-ein-einblick-in-konzepte-und-services",
+  "timestamp": "2026-10-09T11:12:21.841Z",
+  "title": "3D-Projekte: Ein Einblick in Konzepte und Services - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "cta-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/metapolis-figure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/metapolis-figure.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/David-Pajung-Dept-e1652255398314-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/David-Pajung-Dept-e1652255398314-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/3D_blog_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/3D_blog_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/3D_blog_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/3D_blog_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/3D_blog_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/3D_blog_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/3D_blog_4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/3D_blog_4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/3D_blog_5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/3D_blog_5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/3D_blog_6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/3D_blog_6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/3D_blog_7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/3D_blog_7.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/3D_blog_8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/3D_blog_8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/3D_blog_9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/3D_blog_9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/David-Pajung-Dept-e1652255398314.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/David-Pajung-Dept-e1652255398314.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/metapolis-figure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/metapolis-figure.jpg"
+    ]
+  ]
+}

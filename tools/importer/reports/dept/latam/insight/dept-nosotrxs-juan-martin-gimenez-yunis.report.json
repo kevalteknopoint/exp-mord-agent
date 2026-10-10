@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-nosotrxs-juan-martin-gimenez-yunis/",
+  "path": "dept/latam/insight/dept-nosotrxs-juan-martin-gimenez-yunis",
+  "timestamp": "2026-10-09T23:29:16.141Z",
+  "title": "DEPT®/NOSOTRXS – Juan Martin Gimenez Yunis - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "media-with-text",
+    "title-and-content",
+    "image",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/8B7650F1-46A2-417D-BD2C-E6AE321311A9_1_105_c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/8B7650F1-46A2-417D-BD2C-E6AE321311A9_1_105_c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/80D9F913-2290-46E1-B8E8-C73F77663BB2_1_105_c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/80D9F913-2290-46E1-B8E8-C73F77663BB2_1_105_c-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/8B7650F1-46A2-417D-BD2C-E6AE321311A9_1_105_c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/8B7650F1-46A2-417D-BD2C-E6AE321311A9_1_105_c-1.jpeg"
+    ]
+  ]
+}

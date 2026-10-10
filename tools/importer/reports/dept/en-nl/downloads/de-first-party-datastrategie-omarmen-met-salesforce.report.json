@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/downloads/de-first-party-datastrategie-omarmen-met-salesforce/",
+  "path": "dept/en-nl/downloads/de-first-party-datastrategie-omarmen-met-salesforce",
+  "timestamp": "2026-10-09T17:44:07.993Z",
+  "title": "De first-partydatastrategie omarmen met Salesforce - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-nl",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/mushrooms-blue-reflective-material.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/mushrooms-blue-reflective-material.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/mushrooms-blue-reflective-material.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/mushrooms-blue-reflective-material.png"
+    ]
+  ]
+}

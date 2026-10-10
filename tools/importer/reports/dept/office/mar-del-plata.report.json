@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/mar-del-plata/",
+  "path": "dept/office/mar-del-plata",
+  "timestamp": "2026-10-09T22:38:49.539Z",
+  "title": "Mar del Plata - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Mar-del-Plata-Office-1-e1690382005889.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Mar-del-Plata-Office-1-e1690382005889.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Mar-del-Plata-Office-1-e1690382005889.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Mar-del-Plata-Office-1-e1690382005889.jpg"
+    ]
+  ]
+}

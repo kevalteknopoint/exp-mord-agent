@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/adobe-summit-2024-tech-marketing-insights/",
+  "path": "dept/downloads/adobe-summit-2024-tech-marketing-insights",
+  "timestamp": "2026-10-09T11:34:12.160Z",
+  "title": "DEPT® x Adobe | Tech & marketing insights 2024: Download the longread",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/pink-flower-blue-background-adobe.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/pink-flower-blue-background-adobe.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Adobe-Summit-2024-tech-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Adobe-Summit-2024-tech-marketing.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/event/dept-talks-con-zjanna-reinders-y-aruki/",
+  "path": "dept/latam/event/dept-talks-con-zjanna-reinders-y-aruki",
+  "timestamp": "2026-10-09T23:04:08.646Z",
+  "title": "DEPT® Talks con Zjanna Reinders y Aruki - DEPT®",
+  "template": "dept-event",
+  "locale": "latam",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Captura-de-Pantalla-2022-03-10-a-las-11.56.47.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Captura-de-Pantalla-2022-03-10-a-las-11.56.47.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/aruki-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/aruki-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Zjanna-Reinders-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Zjanna-Reinders-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Captura-de-Pantalla-2022-03-10-a-las-11.56.47-890x1024.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Captura-de-Pantalla-2022-03-10-a-las-11.56.47-890x1024.png"
+    ]
+  ]
+}

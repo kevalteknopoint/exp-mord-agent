@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/building-the-platform-for-natures-comeback-story/",
+  "path": "dept/case/building-the-platform-for-natures-comeback-story",
+  "timestamp": "2026-10-09T10:19:37.121Z",
+  "title": "Building the platform for nature's comeback story - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Sumthing-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Sumthing-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Sumthing-updates-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Sumthing-updates-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lisette-Halff.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lisette-Halff.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Layla-Sleep-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Layla-Sleep-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Jets-Bot-builder.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Jets-Bot-builder.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Sumthing-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Sumthing-header.jpg"
+    ]
+  ]
+}

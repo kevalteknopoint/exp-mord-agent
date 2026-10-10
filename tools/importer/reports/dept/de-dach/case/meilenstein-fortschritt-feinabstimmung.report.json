@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/meilenstein-fortschritt-feinabstimmung/",
+  "path": "dept/de-dach/case/meilenstein-fortschritt-feinabstimmung",
+  "timestamp": "2026-10-09T11:10:55.563Z",
+  "title": "Meilenstein, Fortschritt, Feinabstimmung - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/SWISS-International-Air-Lines-A330-1500x534-719x256-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/SWISS-International-Air-Lines-A330-1500x534-719x256-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Stefan-Tan_-HV-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Stefan-Tan_-HV-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/keyvisual.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/keyvisual.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Louis-Widmer-Website-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Louis-Widmer-Website-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/img.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/img.jpg"
+    ]
+  ]
+}

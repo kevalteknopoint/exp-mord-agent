@@ -2,26 +2,28 @@
   "status": "success",
   "url": "https://www.dept.global/latam/insight/la-proxima-decada-de-crecimiento-pertenece-a-lxs-inventorxs/",
   "path": "dept/latam/insight/la-proxima-decada-de-crecimiento-pertenece-a-lxs-inventorxs",
-  "timestamp": "2026-10-08T15:01:08.511Z",
+  "timestamp": "2026-10-09T09:53:24.035Z",
   "title": "La próxima década de crecimiento pertenece a lxs inventorxs - DEPT®",
   "template": "dept-insight",
   "locale": "latam",
   "components": [
     "insight-intro",
     "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
     "custom-listing"
   ],
-  "fallback": [
-    "insight-intro"
-  ],
+  "fallback": [],
   "images": [
-    [
-      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
-    ],
     [
       "https://www.dept.global/wp-content/uploads/2025/10/Trends2026_InsightPage_1080x1350.png",
       "/content/dam/exp-mord-agent/dept/uploads/2025/10/Trends2026_InsightPage_1080x1350.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",

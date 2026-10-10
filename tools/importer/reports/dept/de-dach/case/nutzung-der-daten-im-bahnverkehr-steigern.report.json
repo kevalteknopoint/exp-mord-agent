@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/nutzung-der-daten-im-bahnverkehr-steigern/",
+  "path": "dept/de-dach/case/nutzung-der-daten-im-bahnverkehr-steigern",
+  "timestamp": "2026-10-09T11:14:00.582Z",
+  "title": "Nutzung der Daten im Bahnverkehr steigern - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/photo-1560883171-4d504cacea1b.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/photo-1560883171-4d504cacea1b.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/photo-1572803090936-72796aef96a2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/photo-1572803090936-72796aef96a2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/photo-1568607601585-53706badcc53.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/photo-1568607601585-53706badcc53.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/photo-1586752488885-6ce47fdfd874.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/photo-1586752488885-6ce47fdfd874.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tim-van-Vliet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tim-van-Vliet.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Temedia-Journalismus-ein-gesicht-geben-Alternative-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/header-1440x810-c-marc-o-polo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/header-1440x810-c-marc-o-polo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/maxim-melnikov-7oh6dJVhurM-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/maxim-melnikov-7oh6dJVhurM-unsplash.jpg"
+    ]
+  ]
+}

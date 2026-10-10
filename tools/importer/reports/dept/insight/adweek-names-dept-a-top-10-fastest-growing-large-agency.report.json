@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/adweek-names-dept-a-top-10-fastest-growing-large-agency/",
+  "path": "dept/insight/adweek-names-dept-a-top-10-fastest-growing-large-agency",
+  "timestamp": "2026-10-09T21:48:57.239Z",
+  "title": "Adweek names DEPT® a top 10 fastest growing large agency - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/ADWEEK-NAMES-DEPT-A-TOP-10-FASTEST-GROWING-LARGE-AGENCY1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/ADWEEK-NAMES-DEPT-A-TOP-10-FASTEST-GROWING-LARGE-AGENCY1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/ADWEEK-NAMES-DEPT-A-TOP-10-FASTEST-GROWING-LARGE-AGENCY1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/ADWEEK-NAMES-DEPT-A-TOP-10-FASTEST-GROWING-LARGE-AGENCY1.jpg"
+    ]
+  ]
+}

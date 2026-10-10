@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/bringing-the-best-of-google-to-people-worldwide/",
+  "path": "dept/en-au/case/bringing-the-best-of-google-to-people-worldwide",
+  "timestamp": "2026-10-09T12:34:40.543Z",
+  "title": "Featured work: Creating an e-commerce destination for Google Store - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Google-closeup-phone-camera.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Google-closeup-phone-camera.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Google-website-components.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Google-website-components.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/tripp-trapp-by-stokke-high-chair-oak-white.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Google-store-headphones.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Google-store-headphones.webp"
+    ]
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/industry/dept-automotive/",
+  "path": "dept/en-nl/industry/dept-automotive",
+  "timestamp": "2026-10-09T16:55:27.167Z",
+  "title": "Digital agency specialising in the automotive industry - DEPT®",
+  "template": "dept-industry",
+  "locale": "en-nl",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "event-content-v2",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/smart_DATA_case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/smart_DATA_case.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Formula_6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Formula_6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_x_Audi_PR-header-1-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_x_Audi_PR-header-1-1200x750-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-30-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-30-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Triumph-Motorcycles.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Triumph-Motorcycles.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/AMAG.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/AMAG.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Tesla.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Tesla.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Smart.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Smart.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Piech.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Piech.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Lynk-Co.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Lynk-Co.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Lucid-Motors.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Lucid-Motors.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Harwoods.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Harwoods.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Autobeyl.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Autobeyl.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Audi.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Audi.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/regraded-AUDI-Amsterdam-%C2%A9rachelecclestone-093827-file1938-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/regraded-AUDI-Amsterdam--rachelecclestone-093827-file1938-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/smart_DATA_case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/smart_DATA_case.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-30-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-30-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/automotive-connected-future.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/automotive-connected-future.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/automotive-industry-digital-trends-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/automotive-industry-digital-trends-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/cars-on-lot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/cars-on-lot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/car-dashboard-technology.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/car-dashboard-technology.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-6.jpg"
+    ]
+  ]
+}

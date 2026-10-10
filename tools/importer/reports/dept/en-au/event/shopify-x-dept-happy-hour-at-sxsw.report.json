@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/shopify-x-dept-happy-hour-at-sxsw/",
+  "path": "dept/en-au/event/shopify-x-dept-happy-hour-at-sxsw",
+  "timestamp": "2026-10-09T11:56:49.139Z",
+  "title": "SXSW Sydney x DEPT: Daily events, panels, & dinners - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/SXSW-Sydney-2025-Shopify-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/SXSW-Sydney-2025-Shopify-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Experience-path.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Experience-path.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/SXSW-Sydney-2025-Shopify-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/SXSW-Sydney-2025-Shopify-1920x1080-1.png"
+    ]
+  ]
+}

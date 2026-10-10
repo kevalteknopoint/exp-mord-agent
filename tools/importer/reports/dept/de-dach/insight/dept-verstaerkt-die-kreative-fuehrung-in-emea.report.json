@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/dept-verstaerkt-die-kreative-fuehrung-in-emea/",
+  "path": "dept/de-dach/insight/dept-verstaerkt-die-kreative-fuehrung-in-emea",
+  "timestamp": "2026-10-09T11:51:47.335Z",
+  "title": "DEPT® verstärkt die kreative Führung in EMEA - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "case-quote",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Rod-Henriques_Web_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Rod-Henriques_Web_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Dept_Lari_Rimmler_02-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/LovieAward_Insight_1000x1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/LovieAward_Insight_1000x1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Mammut-Website-asset-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Mammut-Website-asset-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Trends-2025_Linkedin_event-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Trends-2025_Linkedin_event-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Rod-Henriques_Web_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Rod-Henriques_Web_1920x1080.png"
+    ]
+  ]
+}

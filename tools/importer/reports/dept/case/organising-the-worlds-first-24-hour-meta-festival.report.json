@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/organising-the-worlds-first-24-hour-meta-festival/",
+  "path": "dept/case/organising-the-worlds-first-24-hour-meta-festival",
+  "timestamp": "2026-10-09T10:38:46.940Z",
+  "title": "Organising the world's first 24-hour Meta Festival - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "stats-panel",
+    "full-width-image",
+    "stats-panel",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Meta-Fest-stills-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Meta-Fest-stills-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Meta-Festival_Whole-World.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Meta-Festival_Whole-World.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Highres-1920-px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Highres-1920-px.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Meta-Fest-stills-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Meta-Fest-stills-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Philips-header-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Philips-header-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google-Workspace01-e1678980997383.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google-Workspace01-e1678980997383.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Meta-Festival_Whole-World-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Meta-Festival_Whole-World-1024x576.png"
+    ]
+  ]
+}

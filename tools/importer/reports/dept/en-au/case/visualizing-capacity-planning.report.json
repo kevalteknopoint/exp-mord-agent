@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/visualizing-capacity-planning/",
+  "path": "dept/en-au/case/visualizing-capacity-planning",
+  "timestamp": "2026-10-09T12:40:32.346Z",
+  "title": "Visualizing capacity planning - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/multiscreen-2x.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/multiscreen-2x.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/SingleScreenPattern@2x.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/SingleScreenPattern-2x.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/00001-Tiger-of-Sweden-Spring21.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Virtual-Expo-Dubai-featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Virtual-Expo-Dubai-featured-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/Uisce-Eireann_Fishing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/Uisce-Eireann_Fishing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/multiscreen-2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/multiscreen-2x-1.png"
+    ]
+  ]
+}

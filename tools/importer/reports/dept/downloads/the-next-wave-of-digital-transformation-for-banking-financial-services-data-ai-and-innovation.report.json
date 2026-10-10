@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/the-next-wave-of-digital-transformation-for-banking-financial-services-data-ai-and-innovation/",
+  "path": "dept/downloads/the-next-wave-of-digital-transformation-for-banking-financial-services-data-ai-and-innovation",
+  "timestamp": "2026-10-09T18:37:20.661Z",
+  "title": "The next wave of digital transformation for BFSI: Data, AI, and innovation | Download the longread | DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "trends-floating-download",
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/bfsi-data-ai-innovation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/bfsi-data-ai-innovation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/next-wave-digital-transformation-BFSI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/next-wave-digital-transformation-BFSI.jpg"
+    ]
+  ]
+}

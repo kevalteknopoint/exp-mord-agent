@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/solutions/tech-data/cloud-infrastructure/",
+  "path": "dept/solutions/tech-data/cloud-infrastructure",
+  "timestamp": "2026-10-09T22:01:28.972Z",
+  "title": "Cloud infrastructure services - Cloud migrations, DevOps - DEPT®",
+  "template": "dept-solutions",
+  "locale": "global",
+  "components": [
+    "title-block",
+    "image-and-fact",
+    "highlighted-statement",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/therabody-ui.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/therabody-ui.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Virtual-Shopify-Roundtable-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Virtual-Shopify-Roundtable-Website-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Data-Strategy-featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Data-Strategy-featured-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEPT%C2%AE-TALKS-AI-every-day-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEPT--TALKS-AI-every-day-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Cloud-infrastructure.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Cloud-infrastructure.png"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/bol-com-sint-de-winkel-van-blije-koppies-music/",
+  "path": "dept/awards/bol-com-sint-de-winkel-van-blije-koppies-music",
+  "timestamp": "2026-10-09T10:05:52.740Z",
+  "title": "bol Sinterklaas – De winkel van blije koppies - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "stats-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-58-22-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-58-22-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-29-15-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-29-15-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-24-08-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-24-08-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-24-08-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/001_Bol_BLIJE-KOPPIES-POSTER_60_16x9_NL_nosubs_25cents-0-00-24-08-min.png"
+    ]
+  ]
+}

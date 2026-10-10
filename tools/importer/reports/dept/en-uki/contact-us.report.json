@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/contact-us/",
+  "path": "dept/en-uki/contact-us",
+  "timestamp": "2026-10-09T19:22:36.262Z",
+  "title": "Contact - DEPT®",
+  "template": "dept-page",
+  "locale": "en-uki",
+  "components": [
+    "contact-form-big",
+    "office-map"
+  ],
+  "fallback": [
+    "contact-form-big",
+    "office-map"
+  ],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/europe.png",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/europe.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/north-america.png",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/north-america.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/asia.png",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/asia.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/oceania.png",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/oceania.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/south-america.png",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/south-america.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/dept-new-1024x683-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/dept-new-1024x683-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/a-next-gen-collaboration/",
+  "path": "dept/en-uki/case/a-next-gen-collaboration",
+  "timestamp": "2026-10-09T19:37:57.939Z",
+  "title": "A next-gen collaboration - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries3-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries3-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Eurocamp-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Eurocamp-Image-Full-bleed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/printed-canvas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/printed-canvas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ]
+  ]
+}

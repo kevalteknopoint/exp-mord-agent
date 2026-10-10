@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/experience/product-design/",
+  "path": "dept/en-au/service/experience/product-design",
+  "timestamp": "2026-10-09T14:17:50.395Z",
+  "title": "Product design & development services | Customer experience agency - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text",
+    "media-with-text",
+    "highlighted-item-listing",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/product-managers-brainstorming.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/product-managers-brainstorming.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Product-development-magic-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Product-development-magic-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/product-development-processes-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/product-development-processes-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/How-to-prioritise-product-ideas-feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/How-to-prioritise-product-ideas-feature.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/product-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/product-design.jpg"
+    ]
+  ]
+}

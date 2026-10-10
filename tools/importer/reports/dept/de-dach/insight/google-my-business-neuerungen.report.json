@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/google-my-business-neuerungen/",
+  "path": "dept/de-dach/insight/google-my-business-neuerungen",
+  "timestamp": "2026-10-09T12:06:20.254Z",
+  "title": "Google My Business Neuerungen - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/admin-ajax.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/admin-ajax.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Job-Deibel-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Job-Deibel-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/image_1_google_my_business.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/image_1_google_my_business.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/image_2_google_my_business.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/image_2_google_my_business.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/image_3_google_my_business.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/image_3_google_my_business.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/IMG_20190122_110224-1200x675-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/IMG_20190122_110224-1200x675-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Job-Deibel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Job-Deibel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/admin-ajax.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/admin-ajax.jpeg"
+    ]
+  ]
+}

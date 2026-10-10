@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/transforming-a-digital-platform-into-an-inspirational-showroom/",
+  "path": "dept/en-uki/case/transforming-a-digital-platform-into-an-inspirational-showroom",
+  "timestamp": "2026-10-09T19:16:50.580Z",
+  "title": "Transforming a digital platform into an inspirational showroom - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/boconcept_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/boconcept_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/boconcept_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/boconcept_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/boconcept_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/boconcept_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/boconcept_4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/boconcept_4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Kenna-selfie-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Kenna-selfie-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Paul-Hartmann-Health-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Paul-Hartmann-Health-visual-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/8-Visual-4-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/8-Visual-4-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/boconcept_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/boconcept_1.png"
+    ]
+  ]
+}

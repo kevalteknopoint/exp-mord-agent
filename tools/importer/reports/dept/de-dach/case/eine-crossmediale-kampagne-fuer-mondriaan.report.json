@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-crossmediale-kampagne-fuer-mondriaan/",
+  "path": "dept/de-dach/case/eine-crossmediale-kampagne-fuer-mondriaan",
+  "timestamp": "2026-10-09T10:54:41.935Z",
+  "title": "Eine crossmediale Kampagne für Mondriaan - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Header-1440x810-c-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Header-1440x810-c-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jord-Wessels.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jord-Wessels.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/50-years-swiss-music-charts.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/50-years-swiss-music-charts.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Header-1440x810-c-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Header-1440x810-c-3.jpg"
+    ]
+  ]
+}

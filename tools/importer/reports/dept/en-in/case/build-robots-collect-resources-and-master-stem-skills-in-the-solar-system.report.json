@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/build-robots-collect-resources-and-master-stem-skills-in-the-solar-system/",
+  "path": "dept/en-in/case/build-robots-collect-resources-and-master-stem-skills-in-the-solar-system",
+  "timestamp": "2026-10-09T14:56:54.940Z",
+  "title": "Jet’s Bot Builder: Introducing early STEM education through gaming",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Jets-Bot-Builder-Home.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Jets-Bot-Builder-Home.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Jets-Bots-Graphics.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Jets-Bots-Graphics.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/JoeyEgger_3503.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/JoeyEgger_3503.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Website-_-Full-Bleed-Content-Image@2X-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Website-_-Full-Bleed-Content-Image-2X-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Amazon-Prime-x-Without-Remorse-6-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Amazon-Prime-x-Without-Remorse-6-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Website-_-Full-Bleed-Content-Image@2X-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Website-_-Full-Bleed-Content-Image-2X-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Jets-Bot-Builder-Home.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Jets-Bot-Builder-Home.jpg"
+    ]
+  ]
+}

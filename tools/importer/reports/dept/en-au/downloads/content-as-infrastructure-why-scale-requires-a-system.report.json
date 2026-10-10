@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/downloads/content-as-infrastructure-why-scale-requires-a-system/",
+  "path": "dept/en-au/downloads/content-as-infrastructure-why-scale-requires-a-system",
+  "timestamp": "2026-10-09T12:44:13.261Z",
+  "title": "Content as infrastructure: Why scale requires a system - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-au",
+  "components": [
+    "whitepaper-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DEPT%C2%AESTUDIOS-PR-assset-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DEPT-STUDIOS-PR-assset-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Navigating-Indias-DPDP-Act-with-Privacy-by-Design-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Navigating-Indias-DPDP-Act-with-Privacy-by-Design-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp"
+    ]
+  ]
+}

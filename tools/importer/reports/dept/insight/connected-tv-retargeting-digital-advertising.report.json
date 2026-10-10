@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/connected-tv-retargeting-digital-advertising/",
+  "path": "dept/insight/connected-tv-retargeting-digital-advertising",
+  "timestamp": "2026-10-09T20:47:10.871Z",
+  "title": "Connected TV retargeting & digital advertising - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "wrapper",
+    "wrapper",
+    "title-and-content",
+    "title-and-content",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/pexels-august-de-richelieu-4260639.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/pexels-august-de-richelieu-4260639.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/US-Connected-TV-Ad-Spending-2019-2024.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/US-Connected-TV-Ad-Spending-2019-2024.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/pexels-august-de-richelieu-4260639.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/pexels-august-de-richelieu-4260639.jpeg"
+    ]
+  ]
+}

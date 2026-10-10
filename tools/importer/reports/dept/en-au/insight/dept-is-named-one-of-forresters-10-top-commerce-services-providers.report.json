@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-is-named-one-of-forresters-10-top-commerce-services-providers/",
+  "path": "dept/en-au/insight/dept-is-named-one-of-forresters-10-top-commerce-services-providers",
+  "timestamp": "2026-10-09T13:23:20.408Z",
+  "title": "DEPT® is named one of Forrester’s 10 top Commerce Services Providers - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/shopping-trolley-1200x750-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/shopping-trolley-1200x750-c-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/forrester-wave-media-services-2024-dept.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/forrester-wave-media-services-2024-dept.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Wolfgang-_Web_1000x1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Wolfgang-_Web_1000x1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEPT-CES-2025-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEPT-CES-2025-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/2025-social-media-trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/2025-social-media-trends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/shopping-trolley-1200x750-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/shopping-trolley-1200x750-c-1.jpg"
+    ]
+  ]
+}

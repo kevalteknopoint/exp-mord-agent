@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/dept-und-smart-erschliessen-neue-zielgruppen-mit-d2c-kampagne/",
+  "path": "dept/case/dept-und-smart-erschliessen-neue-zielgruppen-mit-d2c-kampagne",
+  "timestamp": "2026-10-09T10:41:55.644Z",
+  "title": "DEPT® und smart erschließen neue Zielgruppen - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing_3-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing_3-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Lauren_Downer_DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Lauren_Downer_DEPT-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/FREITAG_SWAP_Set-3_PhilipFrowein_High-Res_RGB-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ]
+  ]
+}

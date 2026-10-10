@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/von-der-dunkelheit-ins-licht-eine-neue-e-commerce-plattform/",
+  "path": "dept/case/von-der-dunkelheit-ins-licht-eine-neue-e-commerce-plattform",
+  "timestamp": "2026-10-09T11:16:55.043Z",
+  "title": "Von der Dunkelheit ins Licht: eine neue E-Commerce Plattform - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-cards",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Flos-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Flos-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-7.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-7.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Danijel-Bonacic-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Danijel-Bonacic-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Final-hero-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Final-hero-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Header-image.png"
+    ]
+  ]
+}

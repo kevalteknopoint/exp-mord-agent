@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/privacy-policy/",
+  "path": "dept/latam/privacy-policy",
+  "timestamp": "2026-10-09T22:27:38.653Z",
+  "title": "Política de Privacidad Global - DEPT®",
+  "template": "dept-page",
+  "locale": "latam",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

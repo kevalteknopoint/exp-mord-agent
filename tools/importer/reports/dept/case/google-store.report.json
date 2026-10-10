@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/google-store/",
+  "path": "dept/case/google-store",
+  "timestamp": "2026-10-09T10:13:44.147Z",
+  "title": "Featured work: Turning Google Store into a world-class commerce destination - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-store-mobile-interface-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-store-mobile-interface-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-store-desktop.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-store-desktop.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-store-products.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-store-products.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-Pixel-Thumnail-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-Pixel-Thumnail-.webp"
+    ]
+  ]
+}

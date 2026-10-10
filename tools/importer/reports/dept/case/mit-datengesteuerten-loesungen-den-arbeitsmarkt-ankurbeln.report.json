@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/mit-datengesteuerten-loesungen-den-arbeitsmarkt-ankurbeln/",
+  "path": "dept/case/mit-datengesteuerten-loesungen-den-arbeitsmarkt-ankurbeln",
+  "timestamp": "2026-10-09T10:32:09.942Z",
+  "title": "Mit datengesteuerten Lösungen den Arbeitsmarkt ankurbeln - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-1a.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-1a.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-1181590443-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-1181590443-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/iStock-1294958620.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/iStock-1294958620.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rick-van-Sintmaartensdijk.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Insights.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Insights.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Randstad-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Randstad-1.jpg"
+    ]
+  ]
+}

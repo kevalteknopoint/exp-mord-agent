@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-expands-its-global-adobe-practice/",
+  "path": "dept/en-au/insight/dept-expands-its-global-adobe-practice",
+  "timestamp": "2026-10-09T13:18:16.748Z",
+  "title": "DEPT® expands its global Adobe practice - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/PR_Teknopoint-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/PR_Teknopoint-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/PR_Teknopoint-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/PR_Teknopoint-1000x1200-1.png"
+    ]
+  ]
+}

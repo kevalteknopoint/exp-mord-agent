@@ -1,0 +1,135 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/amazon/",
+  "path": "dept/en-dk/service/amazon",
+  "timestamp": "2026-10-09T15:31:52.440Z",
+  "title": "Amazon agency partner & marketing partner - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "cta-text",
+    "rich-text",
+    "four-card-information-block",
+    "client-panel",
+    "highlighted-item-listing",
+    "title-left-body-right",
+    "highlighted-item-listing",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Subservices-%E2%80%93-Brand-Experience-1200x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Subservices---Brand-Experience-1200x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Subservices-%E2%80%93-Marketplace-management-1200x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Subservices---Marketplace-management-1200x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Subservices-%E2%80%93-Retail-Media-1200x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Subservices---Retail-Media-1200x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Subservices-%E2%80%93-Strategy-and-Analytics-1200x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Subservices---Strategy-and-Analytics-1200x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/LOGO-CA-400x210-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/LOGO-CA-400x210-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Levis.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Levis.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Bugaboo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Bugaboo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/JBL.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/JBL.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Electrolux_logo_white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Electrolux_logo_white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-3M-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-3M-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Philips.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Philips.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-Miele-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-Miele-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Rituals.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Rituals.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-KK-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-KK-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-Positec-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-Positec-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-Schwartau-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-Schwartau-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-Leatherman-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-Leatherman-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-Delphis-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-Delphis-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-Gedore-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-Gedore-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/DeLonghi.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/DeLonghi.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Barilla-Pesto-Week-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Barilla-Pesto-Week-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/medela_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/medela_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/philips-case-image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/philips-case-image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/amazon-brand-analytics-dashboards.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/amazon-brand-analytics-dashboards.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/e-commerce-trends-2023-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/e-commerce-trends-2023-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/amazon-attribtion-concept-small.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/amazon-attribtion-concept-small.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept_20-Sep_Talks-Amazon-45-kopie-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept_20-Sep_Talks-Amazon-45-kopie-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Amazon-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Amazon-1.png"
+    ]
+  ]
+}

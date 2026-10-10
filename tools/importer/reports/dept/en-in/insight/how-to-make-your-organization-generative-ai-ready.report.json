@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/how-to-make-your-organization-generative-ai-ready/",
+  "path": "dept/en-in/insight/how-to-make-your-organization-generative-ai-ready",
+  "timestamp": "2026-10-09T16:55:02.182Z",
+  "title": "How to make your organization generative AI-ready - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/How-to-integrate-generative-AI-into-existing-business-processes-500X300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/How-to-integrate-generative-AI-into-existing-business-processes-500X300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Shaun_-Procter_Principal-Software-Engineer-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Shaun_-Procter_Principal-Software-Engineer-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Bias-in-ai-copywriting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Bias-in-ai-copywriting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/unlocking-growth-prepare-pioneer-event.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/unlocking-growth-prepare-pioneer-event.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/MELON-Rebrand-insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/MELON-Rebrand-insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/How-to-integrate-generative-AI-into-existing-business-processes-500X300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/How-to-integrate-generative-AI-into-existing-business-processes-500X300-1.png"
+    ]
+  ]
+}

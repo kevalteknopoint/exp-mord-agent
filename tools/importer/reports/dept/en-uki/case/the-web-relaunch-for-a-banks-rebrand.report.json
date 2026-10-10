@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/the-web-relaunch-for-a-banks-rebrand/",
+  "path": "dept/en-uki/case/the-web-relaunch-for-a-banks-rebrand",
+  "timestamp": "2026-10-09T19:16:00.702Z",
+  "title": "Featured work: Website relaunch for Migros Bank - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "full-width-image",
+    "case-intro",
+    "video",
+    "image",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/migrosbank-keyvisual-web-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/migrosbank-keyvisual-web-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/MB-02-Feed-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/MB-02-Feed-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/sustainable-farming-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/sustainable-farming-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/migrosbank-keyvisual-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/migrosbank-keyvisual-2.png"
+    ]
+  ]
+}

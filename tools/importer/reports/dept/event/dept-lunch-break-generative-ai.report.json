@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-lunch-break-generative-ai/",
+  "path": "dept/event/dept-lunch-break-generative-ai",
+  "timestamp": "2026-10-09T20:07:49.537Z",
+  "title": "DEPT® Lunch Break: Generative AI - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Event-header-website-landscape-static-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Event-header-website-landscape-static-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Event-header-website-landscape-static-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Event-header-website-landscape-static-min.jpg"
+    ]
+  ]
+}

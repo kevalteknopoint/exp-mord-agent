@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/the-2023-growth-marketing-report-deep-dive-tech-edition/",
+  "path": "dept/en-nl/insight/the-2023-growth-marketing-report-deep-dive-tech-edition",
+  "timestamp": "2026-10-09T17:42:07.839Z",
+  "title": "The 2023 growth marketing report deep dive: tech edition - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Blurred-lights-fast-technology.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Blurred-lights-fast-technology.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/2023-GMR-Infographic-Tech-Marketers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/2023-GMR-Infographic-Tech-Marketers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/green-archway-with-lights-growth-marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/green-archway-with-lights-growth-marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/abstract-gold.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/abstract-gold.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Blurred-lights-fast-technology.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Blurred-lights-fast-technology.png"
+    ]
+  ]
+}

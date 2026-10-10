@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/ces-2025-ai-sustainability-and-the-future-of-consumer-tech/",
+  "path": "dept/en-uki/insight/ces-2025-ai-sustainability-and-the-future-of-consumer-tech",
+  "timestamp": "2026-10-09T18:59:35.738Z",
+  "title": "CES 2025: AI, sustainability, and the future of consumer tech - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEPT-CES-2025-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEPT-CES-2025-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Judah-Headshot-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Judah-Headshot-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/dept-sign-ces-2025-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/dept-sign-ces-2025-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/man-wearing-vr-headset.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/man-wearing-vr-headset.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/deptsters-at-ces.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/deptsters-at-ces.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/dept-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/dept-signage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/dept-panel-ces-2025-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/dept-panel-ces-2025-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/TikTok-ban-insight-image-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/TikTok-ban-insight-image-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/5-AI-predictions-2025.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/5-AI-predictions-2025.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEPT-CES-2025-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEPT-CES-2025-min.jpg"
+    ]
+  ]
+}

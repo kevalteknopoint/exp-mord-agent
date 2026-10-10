@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/rethinking-heritage-a-modern-revamp-for-an-iconic-brand/",
+  "path": "dept/en-au/case/rethinking-heritage-a-modern-revamp-for-an-iconic-brand",
+  "timestamp": "2026-10-09T12:25:29.167Z",
+  "title": "Rethinking heritage: A modern revamp for an iconic brand - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/ricola-bento-v3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/ricola-bento-v3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/ricola-mood-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/ricola-mood-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/ricola-ecommerce-mobile.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/ricola-ecommerce-mobile.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ]
+  ]
+}

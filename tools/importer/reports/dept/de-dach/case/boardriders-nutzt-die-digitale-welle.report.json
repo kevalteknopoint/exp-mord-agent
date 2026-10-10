@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/boardriders-nutzt-die-digitale-welle/",
+  "path": "dept/de-dach/case/boardriders-nutzt-die-digitale-welle",
+  "timestamp": "2026-10-09T11:26:38.939Z",
+  "title": "Boardriders nutzt die digitale Welle - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/iStock-525212990.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/iStock-525212990.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1329128222-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1329128222-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/201811_MartinK_Portrait-2-e1627480286874.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/201811_MartinK_Portrait-2-e1627480286874.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/DIGIN_image_rectangle-farmer1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/YFt8Tyec_400x400.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/YFt8Tyec_400x400.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/iStock-525212990.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/iStock-525212990.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-web3-technologies-help-connect-with-gen-z-alpha/",
+  "path": "dept/insight/how-web3-technologies-help-connect-with-gen-z-alpha",
+  "timestamp": "2026-10-09T22:23:43.093Z",
+  "title": "How Web3 technologies help connect with Gen Z & Alpha - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Web3_masterclass_featuredimage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Web3_masterclass_featuredimage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT--150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/OMR-23-WEB3-ON-STAGE.001-1-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/OMR-23-WEB3-ON-STAGE.001-1-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/OMR-23-WEB3-ON-STAGE.004-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/OMR-23-WEB3-ON-STAGE.004-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Web3_masterclass_featuredimage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Web3_masterclass_featuredimage.jpg"
+    ]
+  ]
+}

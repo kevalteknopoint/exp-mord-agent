@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/downloads/explore-the-ada-dash-x-commercetools-integration/",
+  "path": "dept/en-in/downloads/explore-the-ada-dash-x-commercetools-integration",
+  "timestamp": "2026-10-09T15:41:23.518Z",
+  "title": "Explore the ADA/DASH x commercetools integration - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-in",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/glowing-skin-orange.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/glowing-skin-orange.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/glowing-skin-orange.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/glowing-skin-orange.png"
+    ]
+  ]
+}

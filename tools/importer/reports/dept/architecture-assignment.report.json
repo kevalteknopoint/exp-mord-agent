@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/architecture-assignment/",
+  "path": "dept/architecture-assignment",
+  "timestamp": "2026-10-09T10:02:15.875Z",
+  "title": "Architecture Assignment - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "full-width-image",
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/4-Amsterdam.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/4-Amsterdam.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/4-Amsterdam.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/4-Amsterdam.jpeg"
+    ]
+  ]
+}

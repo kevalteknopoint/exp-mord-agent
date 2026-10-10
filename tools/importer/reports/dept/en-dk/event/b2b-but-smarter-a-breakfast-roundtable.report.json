@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/b2b-but-smarter-a-breakfast-roundtable/",
+  "path": "dept/en-dk/event/b2b-but-smarter-a-breakfast-roundtable",
+  "timestamp": "2026-10-09T13:47:16.694Z",
+  "title": "B2B commerce, but smarter – A breakfast roundtable - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "event-people"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/heating-tubes-in-floor-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/heating-tubes-in-floor-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Jeroen-Paco-Heydendael-2-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Jeroen-Paco-Heydendael-2-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Rasmus-Keller-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Rasmus-Keller-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Tim-de-Kamper-Dept-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Tim-de-Kamper-Dept-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/heating-tubes-in-floor-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/heating-tubes-in-floor-1.webp"
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/building-the-future-of-cannabis-care/",
+  "path": "dept/case/building-the-future-of-cannabis-care",
+  "timestamp": "2026-10-09T10:19:21.750Z",
+  "title": "Building the future of cannabis care - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "quote",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/hero-1-3-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/hero-1-3-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/hero-2up-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/hero-2up-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/hero-3up-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/hero-3up-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/hero-appstore-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/hero-appstore-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/surfers-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/surfers-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/gastivo_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/gastivo_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/hero-1-2-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/hero-1-2-1024x576.png"
+    ]
+  ]
+}

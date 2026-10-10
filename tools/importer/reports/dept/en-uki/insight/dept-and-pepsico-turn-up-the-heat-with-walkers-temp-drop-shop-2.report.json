@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-and-pepsico-turn-up-the-heat-with-walkers-temp-drop-shop-2/",
+  "path": "dept/en-uki/insight/dept-and-pepsico-turn-up-the-heat-with-walkers-temp-drop-shop-2",
+  "timestamp": "2026-10-09T19:11:48.840Z",
+  "title": "DEPT® and PepsiCo turn up the heat with Walkers Temp Drop Shop - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/800kb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/800kb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Alexandra-Moorhouse-FINAL-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/2025-social-media-trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/2025-social-media-trends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/TikTok-ban-insight-image-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/TikTok-ban-insight-image-1200x670-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/Trainline-insight-image-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/Trainline-insight-image-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/800kb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/800kb.png"
+    ]
+  ]
+}

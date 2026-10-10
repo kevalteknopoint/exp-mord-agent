@@ -1,0 +1,84 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/on-the-quest-to-cure-cancer/",
+  "path": "dept/en-in/case/on-the-quest-to-cure-cancer",
+  "timestamp": "2026-10-09T16:06:02.634Z",
+  "title": "On the quest to cure cancer - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1044548366-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1044548366-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-512702234-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-512702234-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-119-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-119-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1167824519-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1167824519-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Visual-Light-120-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Visual-Light-120-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1168042197-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1168042197-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-645011548-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-645011548-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-development.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-development.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/HYVA-Case-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/HYVA-Case-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/micheile-dot-com-lZ_4nPFKcV8-unsplash.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1176678050-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1176678050-1-scaled.jpg"
+    ]
+  ]
+}

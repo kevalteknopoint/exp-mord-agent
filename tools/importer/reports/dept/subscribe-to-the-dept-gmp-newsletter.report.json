@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/subscribe-to-the-dept-gmp-newsletter/",
+  "path": "dept/subscribe-to-the-dept-gmp-newsletter",
+  "timestamp": "2026-10-09T22:02:29.398Z",
+  "title": "Subscribe to the DEPT® GMP Newsletter - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "form-page"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

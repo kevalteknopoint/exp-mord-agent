@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/fashion-enthusiasts-rejoice-with-an-optimized-seo-strategy/",
+  "path": "dept/en-uki/case/fashion-enthusiasts-rejoice-with-an-optimized-seo-strategy",
+  "timestamp": "2026-10-09T20:07:40.574Z",
+  "title": "Fashion enthusiasts rejoice with an optimised SEO strategy - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/rothys-flats-colorful.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/rothys-flats-colorful.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/rothys-landing-page.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/rothys-landing-page.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-peptide-booster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-peptide-booster.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/rothys-the-driver-featured-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/rothys-the-driver-featured-1.jpg"
+    ]
+  ]
+}

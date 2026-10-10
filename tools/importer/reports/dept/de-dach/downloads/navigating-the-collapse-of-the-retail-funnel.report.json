@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/navigating-the-collapse-of-the-retail-funnel/",
+  "path": "dept/de-dach/downloads/navigating-the-collapse-of-the-retail-funnel",
+  "timestamp": "2026-10-09T10:52:46.780Z",
+  "title": "Navigating the collapse of the Retail Funnel - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Collapse-of-the-retail-funnel-download-Header-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Collapse-of-the-retail-funnel-download-Header-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/navigating-collapse-retail-marketing-funnel-1024x535.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/navigating-collapse-retail-marketing-funnel-1024x535.jpg"
+    ]
+  ]
+}

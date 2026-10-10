@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/putting-marketing-in-the-spotlight/",
+  "path": "dept/latam/case/putting-marketing-in-the-spotlight",
+  "timestamp": "2026-10-09T21:40:55.767Z",
+  "title": "Putting marketing in the spotlight - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1220413167-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1220413167-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/teamwork.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/teamwork.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Habitz-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Habitz-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1187304458-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1187304458-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1221479375-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1221479375-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/newsitenl.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/newsitenl.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/D-Hero-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/D-Hero-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/unspecified.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/unspecified.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Signs_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Signs_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1187304458-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1187304458-1-scaled.jpg"
+    ]
+  ]
+}

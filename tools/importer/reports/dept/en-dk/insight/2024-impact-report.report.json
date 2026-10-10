@@ -1,0 +1,109 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/2024-impact-report/",
+  "path": "dept/en-dk/insight/2024-impact-report",
+  "timestamp": "2026-10-09T23:11:33.439Z",
+  "title": "2024 Impact Report - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "title-block-carousel",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "statement-v2",
+    "custom-listing-simple",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/OVERALL_FINAL-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/OVERALL_FINAL-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Pooja-Dindigal-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Pooja-Dindigal-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/impact-report_Waving-Flowers_16x9_v5-1-1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/impact-report_Waving-Flowers_16x9_v5-1-1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/web-flower_01_v1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/web-flower_01_v1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Signs.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Signs.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Walk.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Walk.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/HSN.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/HSN.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/ReflexAI.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/ReflexAI.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Juice.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Juice.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/web-flower_02_v2.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/web-flower_02_v2.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/web-flower_03_v1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/web-flower_03_v1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/web-photo-board_A_v5.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/web-photo-board_A_v5.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/web-flower_04_v2.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/web-flower_04_v2.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/2022.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/2022.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Report2023.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Report2023.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-Insight-Header-16x9-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-Insight-Header-16x9-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Signs_Featured_45.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Signs_Featured_45.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/OVERALL_FINAL-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/OVERALL_FINAL-1.png"
+    ]
+  ]
+}

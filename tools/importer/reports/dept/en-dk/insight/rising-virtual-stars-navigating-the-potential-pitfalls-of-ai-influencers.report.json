@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/rising-virtual-stars-navigating-the-potential-pitfalls-of-ai-influencers/",
+  "path": "dept/en-dk/insight/rising-virtual-stars-navigating-the-potential-pitfalls-of-ai-influencers",
+  "timestamp": "2026-10-09T15:02:19.197Z",
+  "title": "Rising (virtual) stars: Navigating the potential & pitfalls of AI influencers - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ai-influencers-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ai-influencers-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ai-influencers-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ai-influencers-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ai-influencers-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ai-influencers-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ai-influencers-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ai-influencers-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Navigating-the-edge-of-co-creation-in-influencer-marketing-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Navigating-the-edge-of-co-creation-in-influencer-marketing-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/sociam-commerce-trends-2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/sociam-commerce-trends-2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ai-influencers-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ai-influencers-featured.png"
+    ]
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/developing-an-open-source-hvac-controls-design-tool/",
+  "path": "dept/case/developing-an-open-source-hvac-controls-design-tool",
+  "timestamp": "2026-10-09T10:43:21.441Z",
+  "title": "Featured work: ctrl-flow open-source development - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/large-commerical-building.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/large-commerical-building.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ctrl-flow-tutorial.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ctrl-flow-tutorial.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/hvac-controls-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/hvac-controls-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/software-engineering-services-code-on-computer.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/software-engineering-services-code-on-computer.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/therabody-lifestyle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/therabody-lifestyle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-basketball.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/hvac-controls-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/hvac-controls-concept.jpg"
+    ]
+  ]
+}

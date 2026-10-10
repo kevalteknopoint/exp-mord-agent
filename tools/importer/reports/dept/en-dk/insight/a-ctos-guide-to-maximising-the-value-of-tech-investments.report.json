@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/a-ctos-guide-to-maximising-the-value-of-tech-investments/",
+  "path": "dept/en-dk/insight/a-ctos-guide-to-maximising-the-value-of-tech-investments",
+  "timestamp": "2026-10-09T14:01:17.369Z",
+  "title": "A CTO's guide for the recession - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Header-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Header-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-1-Insight-page-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-1-Insight-page-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/glass-ball-on-table.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/glass-ball-on-table.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Header-2-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Header-2-1024x576.png"
+    ]
+  ]
+}

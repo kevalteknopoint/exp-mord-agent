@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/lo-que-se-viene-influencer-marketing-en-2025/",
+  "path": "dept/latam/insight/lo-que-se-viene-influencer-marketing-en-2025",
+  "timestamp": "2026-10-09T23:28:55.782Z",
+  "title": "Lo que se viene: influencer marketing en 2025 - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "insight-cta",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/influencer-marketing-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/influencer-marketing-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/tiktok2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/tiktok2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/influencer-marketing-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/influencer-marketing-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/how-creator-economy-is-reshaping-marketing-500X300.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/how-creator-economy-is-reshaping-marketing-500X300.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/sociam-commerce-trends-2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/sociam-commerce-trends-2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg"
+    ]
+  ]
+}

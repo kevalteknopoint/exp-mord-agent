@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/cookies-2/",
+  "path": "dept/cookies-2",
+  "timestamp": "2026-10-09T11:18:58.497Z",
+  "title": "Cookies - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/dept-new.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/dept-new.jpg"
+    ]
+  ]
+}

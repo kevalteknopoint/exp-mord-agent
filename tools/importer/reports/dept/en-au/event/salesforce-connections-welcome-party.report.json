@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/salesforce-connections-welcome-party/",
+  "path": "dept/en-au/event/salesforce-connections-welcome-party",
+  "timestamp": "2026-10-09T11:56:35.639Z",
+  "title": "Salesforce Connections Welcome Party - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Salesforce-Connections-Event-Banner-1440x558-white-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Salesforce-Connections-Event-Banner-1440x558-white-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Salesforce-Connections-Event-Banner-1440x558-white-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Salesforce-Connections-Event-Banner-1440x558-white-min.png"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/5-common-reasons-facebook-landing-page-gets-rejected/",
+  "path": "dept/en-in/insight/5-common-reasons-facebook-landing-page-gets-rejected",
+  "timestamp": "2026-10-09T16:02:59.811Z",
+  "title": "5 Reasons Your Facebook Landing Page Gets Rejected",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/man-computers-1500x1000-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/man-computers-1500x1000-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Stephanie-Bissonnette-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Stephanie-Bissonnette-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Stephanie-Bissonnette.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Stephanie-Bissonnette.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/man-computers-1500x1000-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/man-computers-1500x1000-1.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/digital-organisation-roundtable/",
+  "path": "dept/en-dk/event/digital-organisation-roundtable",
+  "timestamp": "2026-10-09T18:10:01.047Z",
+  "title": "Digital Organisation Roundtable: How to develop and manage digital teams and organisations - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "form-with-header",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/B2B-roundtable-header-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/B2B-roundtable-header-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/B2B-roundtable-header-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/B2B-roundtable-header-image.jpg"
+    ]
+  ]
+}

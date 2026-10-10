@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/plattformwechsel-als-fundament-fur-nachhaltigen-wandel/",
+  "path": "dept/de-dach/plattformwechsel-als-fundament-fur-nachhaltigen-wandel",
+  "timestamp": "2026-10-09T22:52:34.322Z",
+  "title": "Plattformwechsel als Fundament für nachhaltigen Wandel - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "intro-text",
+    "panel-work",
+    "image",
+    "quote",
+    "panel-work",
+    "video",
+    "panel-work",
+    "image",
+    "panel-work",
+    "video",
+    "panel-industries",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Bouyges-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Bouyges-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Jungheinrich-Parts-Online-Screen-Ersatzteilfinder_MAM-54101-1200x675-c-2.jpeg"
+    ]
+  ]
+}

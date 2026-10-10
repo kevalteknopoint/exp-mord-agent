@@ -1,0 +1,80 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/revving-up-digital-transformation/",
+  "path": "dept/case/revving-up-digital-transformation",
+  "timestamp": "2026-10-09T10:49:56.371Z",
+  "title": "Revving up digital transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-12.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-12.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Full-Image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Full-Image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-10.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-10.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Angled-Desktops-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Angled-Desktops-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Full-Image-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Full-Image-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Harwoods-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Harwoods-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/regraded-AUDI-Amsterdam-%C2%A9rachelecclestone-093827-file1938-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/regraded-AUDI-Amsterdam--rachelecclestone-093827-file1938-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/medela_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/medela_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

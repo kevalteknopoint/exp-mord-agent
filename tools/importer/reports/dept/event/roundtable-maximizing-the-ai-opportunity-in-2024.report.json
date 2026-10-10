@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/roundtable-maximizing-the-ai-opportunity-in-2024/",
+  "path": "dept/event/roundtable-maximizing-the-ai-opportunity-in-2024",
+  "timestamp": "2026-10-09T21:24:53.839Z",
+  "title": "Roundtable: Maximizing the AI opportunity in 2024 - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "cta-text",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT%C2%AEAI-x-Microsoft-BG-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-AI-x-Microsoft-BG-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT%C2%AEAI-x-Microsoft-BG-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-AI-x-Microsoft-BG-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/CP-headshot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/CP-headshot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/E026KL2NWPK-UD7AA2ZBL-d4b28aa7eece-512-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/E026KL2NWPK-UD7AA2ZBL-d4b28aa7eece-512-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Headshot-w-logo-close-up.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Headshot-w-logo-close-up.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT%C2%AEAI-x-Microsoft-Social-asset-1080x1080-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-AI-x-Microsoft-Social-asset-1080x1080-logo.jpg"
+    ]
+  ]
+}

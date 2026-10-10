@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/unlocking-data-to-optimise-the-customer-journey-and-business-performance/",
+  "path": "dept/en-in/case/unlocking-data-to-optimise-the-customer-journey-and-business-performance",
+  "timestamp": "2026-10-09T16:28:44.255Z",
+  "title": "Unlocking data to optimise the customer journey - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/smart_DATA_case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/smart_DATA_case.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Frame-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Frame-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Frame-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Frame-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Sebastian_1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Sebastian_1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/smart_DATA_case.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/smart_DATA_case.png"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/brand-campaigns-content/production/",
+  "path": "dept/en-dk/service/brand-campaigns-content/production",
+  "timestamp": "2026-10-09T14:15:28.460Z",
+  "title": "Video Production - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Documentnaam_dept_Amsterdam_marketing_JRF_9-1-320x213-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Documentnaam_dept_Amsterdam_marketing_JRF_9-1-320x213-1.jpg"
+    ]
+  ]
+}

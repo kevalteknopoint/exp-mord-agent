@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/driving-140-growth-in-revenue-for-the-ultimate-wine-resource/",
+  "path": "dept/en-nl/case/driving-140-growth-in-revenue-for-the-ultimate-wine-resource",
+  "timestamp": "2026-10-09T18:07:31.159Z",
+  "title": "Driving 140% growth in revenue for the ultimate wine resource - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/clinking-wine-glasses.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/clinking-wine-glasses.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/aerial-view-wine-bottles.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/aerial-view-wine-bottles.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/wine.com-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/wine.com-copy.jpg"
+    ]
+  ]
+}

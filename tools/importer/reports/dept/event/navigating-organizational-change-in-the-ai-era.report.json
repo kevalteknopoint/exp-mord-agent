@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/navigating-organizational-change-in-the-ai-era/",
+  "path": "dept/event/navigating-organizational-change-in-the-ai-era",
+  "timestamp": "2026-10-09T21:24:01.039Z",
+  "title": "Navigating organizational change in the AI era - Roundtable with Penny Pritzker - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "title-and-content",
+    "event-register",
+    "event-registration-form",
+    "cta-text",
+    "image-with-content-cards"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT%C2%AEAI-x-Microsoft-BG-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-AI-x-Microsoft-BG-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Captura-de-pantalla-2023-03-09-a-las-12.56.50.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Captura-de-pantalla-2023-03-09-a-las-12.56.50.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Cristina-Pieretti.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Cristina-Pieretti.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Susan-Etlinger.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Susan-Etlinger.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/dimi-albers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/dimi-albers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/DEPT%C2%AEAI-x-Microsoft-BG-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/DEPT-AI-x-Microsoft-BG-1920x1080-1.jpg"
+    ]
+  ]
+}

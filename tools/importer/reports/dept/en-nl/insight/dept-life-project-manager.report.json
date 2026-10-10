@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/dept-life-project-manager/",
+  "path": "dept/en-nl/insight/dept-life-project-manager",
+  "timestamp": "2026-10-09T18:49:12.873Z",
+  "title": "DEPT® LIFE: Senior Project Manager - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/DEPT_1304-73-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/DEPT_1304-73-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lyndsay-Burrill-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lyndsay-Burrill-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Jack-Roache-e1653376401919.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Jack-Roache-e1653376401919.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/product-managers-brainstorming.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/product-managers-brainstorming.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lyndsay-Burrill.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lyndsay-Burrill.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/DEPT_1304-73-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/DEPT_1304-73-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/media-2/",
+  "path": "dept/en-au/service/growth/media-2",
+  "timestamp": "2026-10-09T23:05:55.040Z",
+  "title": "Media Digital Media Marketing Services | DEPT",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "service-post-header",
+    "title-and-content",
+    "panel-services",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT%C2%AE-TikTok_Instagram.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT--TikTok_Instagram.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/DEPT%C2%AE-TikTok_Instagram.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/DEPT--TikTok_Instagram.png"
+    ]
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/keeping-airline-profits-sustainable/",
+  "path": "dept/en-uki/insight/keeping-airline-profits-sustainable",
+  "timestamp": "2026-10-09T20:03:14.857Z",
+  "title": "Keeping airline profits sustainable - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/keeping_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/keeping_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/keeping_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/keeping_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/keeping_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/keeping_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/keeping_4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/keeping_4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jake-Welsh.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jake-Welsh.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/keeping_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/keeping_1.jpg"
+    ]
+  ]
+}

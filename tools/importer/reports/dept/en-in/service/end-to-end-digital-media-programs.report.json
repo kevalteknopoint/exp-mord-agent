@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/end-to-end-digital-media-programs/",
+  "path": "dept/en-in/service/end-to-end-digital-media-programs",
+  "timestamp": "2026-10-09T23:35:09.936Z",
+  "title": "End-to-end digital media programs - DEPT® full-service agency",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "cta-text",
+    "image",
+    "title-left-body-right",
+    "two-column-items-list",
+    "information-with-two-content-cards",
+    "routing-banner",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/end-to-end-digital-solutions.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/end-to-end-digital-solutions.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/light-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/light-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/light-abtract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/light-abtract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/futuristic-marketing-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/futuristic-marketing-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/ehealth.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/ehealth.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/wine.com-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/wine.com-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Layla-Sleep.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Layla-Sleep.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/cityscape.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/cityscape.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/creating-a-3d-nft-walking-hape/",
+  "path": "dept/en-au/case/creating-a-3d-nft-walking-hape",
+  "timestamp": "2026-10-09T12:45:25.939Z",
+  "title": "Creating a 3D NFT walking HAPE - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "video",
+    "video",
+    "panel-with-image-and-rich-text",
+    "video",
+    "image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HapePrime_Phone-Home@2x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HapePrime_Phone-Home-2x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HapePrime_Sketch2@2x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HapePrime_Sketch2-2x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HapePrime_Dev@2x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HapePrime_Dev-2x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HapePrime_RedWalk@2x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HapePrime_RedWalk-2x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HapePrime_Black_def@2x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HapePrime_Black_def-2x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/E026KL2NWPK-U02DE25GVDK-fc5a8133c593-512.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/ERIKS-Featured-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/ERIKS-Featured-image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Sumthing-photo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Sumthing-photo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/mixed-food-in-metal-dishes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/mixed-food-in-metal-dishes.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/15-Hape-i.o.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/15-Hape-i.o.jpg"
+    ]
+  ]
+}

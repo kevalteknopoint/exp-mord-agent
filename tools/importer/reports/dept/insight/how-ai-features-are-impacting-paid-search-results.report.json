@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-ai-features-are-impacting-paid-search-results/",
+  "path": "dept/insight/how-ai-features-are-impacting-paid-search-results",
+  "timestamp": "2026-10-09T20:49:36.076Z",
+  "title": "How AI features are impacting paid search results - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "typography",
+    "title-and-content",
+    "video",
+    "typography",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-insight"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/ai-concept-paid-search.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/ai-concept-paid-search.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/bing-chatgpt.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/bing-chatgpt.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/10-perspectives-on-AI-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/10-perspectives-on-AI-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/ai-concept-paid-search.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/ai-concept-paid-search.jpg"
+    ]
+  ]
+}

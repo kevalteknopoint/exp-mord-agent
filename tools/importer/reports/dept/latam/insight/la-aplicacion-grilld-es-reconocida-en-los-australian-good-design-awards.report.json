@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/la-aplicacion-grilld-es-reconocida-en-los-australian-good-design-awards/",
+  "path": "dept/latam/insight/la-aplicacion-grilld-es-reconocida-en-los-australian-good-design-awards",
+  "timestamp": "2026-10-09T23:27:55.494Z",
+  "title": "La app de Grill'd reconocida en los Australian Good Design Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Australian-Good-Design-Awards-Grills-LP-500x300-1.png"
+    ]
+  ]
+}

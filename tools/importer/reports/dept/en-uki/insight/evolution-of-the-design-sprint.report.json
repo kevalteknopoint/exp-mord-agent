@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/evolution-of-the-design-sprint/",
+  "path": "dept/en-uki/insight/evolution-of-the-design-sprint",
+  "timestamp": "2026-10-09T20:48:05.943Z",
+  "title": "Evolution of the design sprint - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "media-with-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Evolution_design_sprint_feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Evolution_design_sprint_feature.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Josh_Porter-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Josh_Porter-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/product-vision-meeting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/product-vision-meeting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Josh_Porter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Josh_Porter.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Evolution_design_sprint_feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Evolution_design_sprint_feature.jpg"
+    ]
+  ]
+}

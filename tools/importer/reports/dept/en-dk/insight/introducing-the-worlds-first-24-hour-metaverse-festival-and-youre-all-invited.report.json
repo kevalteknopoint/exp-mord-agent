@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-dk/insight/introducing-the-worlds-first-24-hour-metaverse-festival-and-youre-all-invited/",
   "path": "dept/en-dk/insight/introducing-the-worlds-first-24-hour-metaverse-festival-and-youre-all-invited",
-  "timestamp": "2026-10-08T15:00:35.576Z",
+  "timestamp": "2026-10-09T09:50:08.336Z",
   "title": "Introducing the world’s first 24-hour Metaverse Festival - DEPT®",
   "template": "dept-insight",
   "locale": "en-dk",
@@ -14,9 +14,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2022/05/Meta-Festival-Tumbnail.png",

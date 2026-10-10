@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/22-trends-fur-2022/",
+  "path": "dept/de-dach/downloads/22-trends-fur-2022",
+  "timestamp": "2026-10-09T11:29:23.663Z",
+  "title": "22 Trends für 2022 - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/brown-eye-blue-light.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/brown-eye-blue-light.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/brown-eye-blue-light.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/brown-eye-blue-light.png"
+    ]
+  ]
+}

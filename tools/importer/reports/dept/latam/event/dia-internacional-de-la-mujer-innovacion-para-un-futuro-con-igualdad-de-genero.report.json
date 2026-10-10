@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/event/dia-internacional-de-la-mujer-innovacion-para-un-futuro-con-igualdad-de-genero/",
+  "path": "dept/latam/event/dia-internacional-de-la-mujer-innovacion-para-un-futuro-con-igualdad-de-genero",
+  "timestamp": "2026-10-09T23:44:25.940Z",
+  "title": "Día Internacional de la Mujer – Innovación para un futuro con igualdad de género - DEPT®",
+  "template": "dept-event",
+  "locale": "latam",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-IWD-Event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--IWD-Event-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.13.11-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.13.11-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.14.04-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-09.14.04-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-IWD-Event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--IWD-Event-header.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/a-site-rebuild-for-the-leaders-in-eco-tech/",
+  "path": "dept/en-dk/case/a-site-rebuild-for-the-leaders-in-eco-tech",
+  "timestamp": "2026-10-09T13:47:55.536Z",
+  "title": "A site rebuild for the leaders in eco tech - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Desktop-Angle-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Desktop-Angle-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Split.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Split.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Mobile-x-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Mobile-x-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Comwell-case-SEO-migration-strategy-Featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Comwell-case-SEO-migration-strategy-Featured-image-500x344-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/JM-alternative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/JM-alternative.jpg"
+    ]
+  ]
+}

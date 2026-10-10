@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/giving-irish-citizens-better-access-to-health-services/",
+  "path": "dept/en-au/case/giving-irish-citizens-better-access-to-health-services",
+  "timestamp": "2026-10-09T13:05:01.774Z",
+  "title": "Giving Irish citizens better access to health services - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-credits",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-homepage-on-desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-homepage-on-desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/woman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/woman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/petri-dish.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/petri-dish.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ]
+  ]
+}

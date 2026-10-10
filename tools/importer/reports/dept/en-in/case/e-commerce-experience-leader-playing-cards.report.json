@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/e-commerce-experience-leader-playing-cards/",
+  "path": "dept/en-in/case/e-commerce-experience-leader-playing-cards",
+  "timestamp": "2026-10-09T15:45:55.068Z",
+  "title": "Bicyclecards.com - An e-commerce experience for the leader in playing cards - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "intro-text",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "image",
+    "quote",
+    "cta-text",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/bicyclecards-Stargazer-Bundle.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/bicyclecards-Stargazer-Bundle.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/bicyclecards-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/bicyclecards-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicyclecards-World-of-Warcraft.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicyclecards-World-of-Warcraft.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/03_Brand_Equity_Phase_I_Face_Judge_Preview_010221-310123_CLEAN_LF-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/03_Brand_Equity_Phase_I_Face_Judge_Preview_010221-310123_CLEAN_LF-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ]
+  ]
+}

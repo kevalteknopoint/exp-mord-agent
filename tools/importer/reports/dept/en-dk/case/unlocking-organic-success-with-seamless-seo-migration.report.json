@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/unlocking-organic-success-with-seamless-seo-migration/",
+  "path": "dept/en-dk/case/unlocking-organic-success-with-seamless-seo-migration",
+  "timestamp": "2026-10-09T13:31:46.339Z",
+  "title": "Unlocking organic success with seamless SEO migration - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Comwell_Images_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Comwell_Images_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Amazon_JBL_Woman-with-black-headphones-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Comwell-case-SEO-migration-strategy-Featured-image-500x344-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Comwell-case-SEO-migration-strategy-Featured-image-500x344-1.jpg"
+    ]
+  ]
+}

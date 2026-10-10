@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/advertising-during-a-recession-start-with-an-audit/",
+  "path": "dept/en-nl/insight/advertising-during-a-recession-start-with-an-audit",
+  "timestamp": "2026-10-09T17:05:57.241Z",
+  "title": "Advertising during a recession? Start with an Audit. - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Article-1-Homepage-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Article-1-Homepage-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Header-1-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Header-1-1024x576.png"
+    ]
+  ]
+}

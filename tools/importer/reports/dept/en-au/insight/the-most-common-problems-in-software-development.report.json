@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/the-most-common-problems-in-software-development/",
+  "path": "dept/en-au/insight/the-most-common-problems-in-software-development",
+  "timestamp": "2026-10-09T13:02:47.582Z",
+  "title": "The most common problems in software development - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "form-page",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/common-problems-software-development.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/common-problems-software-development.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/matt-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/matt-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/common-problems-software-development.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/common-problems-software-development.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/common-problems-software-development.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/common-problems-software-development.jpeg"
+    ]
+  ]
+}

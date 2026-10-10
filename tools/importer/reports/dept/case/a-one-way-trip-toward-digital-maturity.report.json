@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-one-way-trip-toward-digital-maturity/",
+  "path": "dept/case/a-one-way-trip-toward-digital-maturity",
+  "timestamp": "2026-10-09T10:43:09.039Z",
+  "title": "A one-way trip toward digital maturity - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "panel-with-cards",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SUNWEB_IBIZA_2022_488-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SUNWEB_IBIZA_2022_488-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SUNWEB_IBIZA_2022_377-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SUNWEB_IBIZA_2022_377-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/BB1_0677-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/BB1_0677-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Sander-Blokker-Dept-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Sander-Blokker-Dept-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Corny-Big-Case-Featured-Image-500x344-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Corny-Big-Case-Featured-Image-500x344-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otravo_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otravo_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/SUNWEB_IBIZA_2022_216-2.jpg"
+    ]
+  ]
+}

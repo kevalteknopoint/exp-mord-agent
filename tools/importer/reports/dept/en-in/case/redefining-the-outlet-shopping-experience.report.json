@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/redefining-the-outlet-shopping-experience/",
+  "path": "dept/en-in/case/redefining-the-outlet-shopping-experience",
+  "timestamp": "2026-10-09T16:10:52.805Z",
+  "title": "Featured work: A comprehensive shopping experience for VIA Outlets DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Via-outlets-shopping-exp-mobile.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Via-outlets-shopping-exp-mobile.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Via-outlets-shopping-exp-advent-cal.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Via-outlets-shopping-exp-advent-cal.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Via-outlets-shopping-exp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Via-outlets-shopping-exp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/WP20002_BLAK_11.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/WP20002_BLAK_11.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Via-outlets-shopping-exp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Via-outlets-shopping-exp.jpg"
+    ]
+  ]
+}

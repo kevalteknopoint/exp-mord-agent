@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/philips-and-dept-spread-bodypositivity-with-digital-first-campaign-starring-real-consumers/",
+  "path": "dept/en-au/insight/philips-and-dept-spread-bodypositivity-with-digital-first-campaign-starring-real-consumers",
+  "timestamp": "2026-10-09T13:41:10.847Z",
+  "title": "Philips and DEPT® spread #bodypositivity - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Philips-Lumea-featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Philips-Lumea-featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/IMG_6969-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/IMG_6969-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Philips-Lumea-featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Philips-Lumea-featured-image.png"
+    ]
+  ]
+}

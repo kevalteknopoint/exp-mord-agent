@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/riot-games-design-for-league-of-legendss-mid-season-invitational/",
+  "path": "dept/en-uki/case/riot-games-design-for-league-of-legendss-mid-season-invitational",
+  "timestamp": "2026-10-09T19:11:22.335Z",
+  "title": "Featured work: League of Legends’s Mid-Season Invitational - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/MSI24-BRAND-EXPRESSION-1-BLACK-16x9-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/MSI24-BRAND-EXPRESSION-1-BLACK-16x9-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/MSI-Key-Visual-16x9-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/MSI-Key-Visual-16x9-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Featured-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/msi-invitational-lol-design-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/msi-invitational-lol-design-min.png"
+    ]
+  ]
+}

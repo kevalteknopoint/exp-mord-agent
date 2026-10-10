@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/live-like-a-champion/",
+  "path": "dept/en-dk/case/live-like-a-champion",
+  "timestamp": "2026-10-09T14:32:07.180Z",
+  "title": "Lev som en vinder - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "statement",
+    "full-width-image",
+    "statement",
+    "video",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-93-7-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-93-7-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/jerome-boateng-visual.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/jerome-boateng-visual.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Screenshot-2019-07-24-at-13.52.11.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Screenshot-2019-07-24-at-13.52.11.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Joa%CC%83o-Ina%CC%81cio.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Joa-o-Ina-cio.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1262451395-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1262451395-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/boy-in-stands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/boy-in-stands.jpg"
+    ]
+  ]
+}

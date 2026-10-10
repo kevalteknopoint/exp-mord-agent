@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/agency/hello-monday/",
+  "path": "dept/en-nl/agency/hello-monday",
+  "timestamp": "2026-10-09T17:22:11.343Z",
+  "title": "HELLO MONDAY/DEPT® - DEPT®",
+  "template": "dept-agency",
+  "locale": "en-nl",
+  "components": [
+    "panel-agency-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/HM-office-e1646816915790.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/HM-office-e1646816915790.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/HM-office-e1646816915790.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/HM-office-e1646816915790.jpeg"
+    ]
+  ]
+}

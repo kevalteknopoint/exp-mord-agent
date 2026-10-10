@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/engineering/technology-strategy-architecture/architecture-sprints/",
+  "path": "dept/en-in/service/engineering/technology-strategy-architecture/architecture-sprints",
+  "timestamp": "2026-10-09T23:35:59.155Z",
+  "title": "Architecture sprints | Free technical architecture assessments - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "panel-with-rich-text",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "square-media-with-text",
+    "square-media-with-text",
+    "title-and-content",
+    "externally-triggered-form",
+    "rich-text",
+    "highlighted-item-listing",
+    "podcasts"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/architecure-sprints-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/architecure-sprints-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/search-and-discoverability.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/search-and-discoverability.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/download.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/download.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/iot-architecture-concept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/iot-architecture-concept.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/DEPT%C2%AE-x-Mach-Alliance.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/DEPT--x-Mach-Alliance.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/What-is-SFRA_-1000x1200-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/What-is-SFRA_-1000x1200-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/composable-architecture-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/composable-architecture-concept.jpg"
+    ]
+  ]
+}

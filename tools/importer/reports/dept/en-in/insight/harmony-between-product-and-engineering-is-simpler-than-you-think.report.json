@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/harmony-between-product-and-engineering-is-simpler-than-you-think/",
+  "path": "dept/en-in/insight/harmony-between-product-and-engineering-is-simpler-than-you-think",
+  "timestamp": "2026-10-09T23:31:58.950Z",
+  "title": "Harmony between product and engineering is simpler than you think   - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "podcasts",
+    "highlighted-insight"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-engineering.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/matt-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/matt-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Product-development-magic-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Product-development-magic-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-engineering.jpg"
+    ]
+  ]
+}

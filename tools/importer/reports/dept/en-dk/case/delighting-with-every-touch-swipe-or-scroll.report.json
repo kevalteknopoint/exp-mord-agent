@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/delighting-with-every-touch-swipe-or-scroll/",
+  "path": "dept/en-dk/case/delighting-with-every-touch-swipe-or-scroll",
+  "timestamp": "2026-10-09T14:14:46.388Z",
+  "title": "Delighting with every touch, swipe or scroll - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-10.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-10.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/Juices.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/Juices.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-12.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-12.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/013-Innocent.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/013-Innocent.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/drone-racing-league-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/drone-racing-league-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-11.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-11.jpg"
+    ]
+  ]
+}

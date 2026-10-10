@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/fans-rund-um-den-globus-inspirieren-und-unterhalten/",
+  "path": "dept/case/fans-rund-um-den-globus-inspirieren-und-unterhalten",
+  "timestamp": "2026-10-09T10:03:48.876Z",
+  "title": "Fans rund um den Globus inspirieren und unterhalten - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "intro-text",
+    "image",
+    "panel-with-cards",
+    "jumbotron",
+    "panel-with-rich-text",
+    "jumbotron",
+    "quote",
+    "image",
+    "panel-with-rich-text",
+    "jumbotron",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "jumbotron",
+    "call-to-action",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_slanted_static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_slanted_static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_players.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_players.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_jerseys.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_jerseys.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Christian-Frei-Dept-e1627491040164.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Christian-Frei-Dept-e1627491040164.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/retirment-house-influencers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/retirment-house-influencers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

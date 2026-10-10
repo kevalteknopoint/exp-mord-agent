@@ -1,0 +1,81 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/hypewear-by-about-you-der-erste-onlineshop-fur-digital-fashion/",
+  "path": "dept/case/hypewear-by-about-you-der-erste-onlineshop-fur-digital-fashion",
+  "timestamp": "2026-10-09T10:20:14.288Z",
+  "title": "HYPEWEAR by ABOUT YOU – der erste Onlineshop für Digital Fashion - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "image",
+    "title-and-content",
+    "image",
+    "awards-panel",
+    "quote",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop-Komprimiert.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop-Komprimiert.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-01-Desktop-Komprimiert.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-01-Desktop-Komprimiert.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Screenshot-2022-07-28-at-10.11.42.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Screenshot-2022-07-28-at-10.11.42.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/The-Lovie-Awards.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/The-Lovie-Awards.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/GDA23_HO_GOLD_N_RGB_Hypewear.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/GDA23_HO_GOLD_N_RGB_Hypewear.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/23_Annual_Multimedia_Auszeichnungslogo_Gold_RGB_Hypewear-white.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/23_Annual_Multimedia_Auszeichnungslogo_Gold_RGB_Hypewear-white.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/The-Webby-Awards.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/The-Webby-Awards.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Featured-images-501x501-MarcO-Polo-01-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Featured-images-501x501-MarcO-Polo-01-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/group-in-ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/group-in-ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/1.-Edelweiss_Mockup.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/1.-Edelweiss_Mockup.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Hypewear-Visual-Still-02-Desktop-Komprimiert-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Hypewear-Visual-Still-02-Desktop-Komprimiert-1.png"
+    ]
+  ]
+}

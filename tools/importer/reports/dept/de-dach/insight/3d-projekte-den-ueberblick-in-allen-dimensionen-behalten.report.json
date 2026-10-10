@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/3d-projekte-den-ueberblick-in-allen-dimensionen-behalten/",
+  "path": "dept/de-dach/insight/3d-projekte-den-ueberblick-in-allen-dimensionen-behalten",
+  "timestamp": "2026-10-09T11:12:05.449Z",
+  "title": "3D-Projekte: Den Überblick in allen Dimensionen behalten - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "cta-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/metafestival-visual-journee-16.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/metafestival-visual-journee-16.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Dept_Jakob_Ulrich-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Dept_Jakob_Ulrich-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/3D_Style_Mood.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/3D_Style_Mood.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/3D_Modelling-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/3D_Modelling-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/05-Optimierungen.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/05-Optimierungen.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/3D_Animation.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/3D_Animation.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Dept_Jakob_Ulrich.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Dept_Jakob_Ulrich.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/metafestival-visual-journee-16.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/metafestival-visual-journee-16.jpg"
+    ]
+  ]
+}

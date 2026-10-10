@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-face-the-e-commerce-challenges-of-today-without-a-head/",
+  "path": "dept/insight/how-to-face-the-e-commerce-challenges-of-today-without-a-head",
+  "timestamp": "2026-10-09T22:12:39.367Z",
+  "title": "How to face the e-commerce challenges of today - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Dept_Berlin_Office-11-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Dept_Berlin_Office-11-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tim-de-Kamper-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tim-de-Kamper-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tim-de-Kamper.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tim-de-Kamper.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Dept_Berlin_Office-11-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Dept_Berlin_Office-11-min.jpeg"
+    ]
+  ]
+}

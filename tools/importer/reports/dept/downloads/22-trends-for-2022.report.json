@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/22-trends-for-2022/",
+  "path": "dept/downloads/22-trends-for-2022",
+  "timestamp": "2026-10-09T11:32:11.409Z",
+  "title": "22 Trends for 2022 - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/brown-eye-blue-light.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/brown-eye-blue-light.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/brown-eye-blue-light.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/brown-eye-blue-light.png"
+    ]
+  ]
+}

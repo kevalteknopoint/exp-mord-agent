@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/how-to-accelerate-digital-innovation-in-a-tough-economy/",
+  "path": "dept/en-dk/insight/how-to-accelerate-digital-innovation-in-a-tough-economy",
+  "timestamp": "2026-10-09T15:30:33.897Z",
+  "title": "How to accelerate digital innovation in a tough economy - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/black-and-white-buildings.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/black-and-white-buildings.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/orange-arrows-on-white-background.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/orange-arrows-on-white-background.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/black-white-winding-path-stay-ahead.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/black-white-winding-path-stay-ahead.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT%C2%AE-1000X1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT--1000X1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Events-Header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Events-Header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/black-and-white-buildings.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/black-and-white-buildings.jpg"
+    ]
+  ]
+}

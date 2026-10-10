@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-last-of-us-the-metaverse-and-why-gaming-is-the-gateway-to-engagement-2/",
+  "path": "dept/insight/the-last-of-us-the-metaverse-and-why-gaming-is-the-gateway-to-engagement-2",
+  "timestamp": "2026-10-09T22:01:21.840Z",
+  "title": "The Last of Us, the metaverse, & why gaming is the gateway to engagement - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/2Website-Insight-Image-The-Last-Of-Us-HBO-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/2Website-Insight-Image-The-Last-Of-Us-HBO-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/The-Last-Of-Us-HBO.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/The-Last-Of-Us-HBO.jpg"
+    ]
+  ]
+}

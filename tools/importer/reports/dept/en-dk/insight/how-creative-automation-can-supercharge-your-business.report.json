@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/how-creative-automation-can-supercharge-your-business/",
+  "path": "dept/en-dk/insight/how-creative-automation-can-supercharge-your-business",
+  "timestamp": "2026-10-09T15:25:39.053Z",
+  "title": "How creative automation can supercharge your business - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-1-Website-header-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-1-Website-header-1920x1080-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/jamie-kenny-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/jamie-kenny-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/JlIloqE8.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/JlIloqE8.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/landingpage-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/landingpage-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/moon-creative-automatiom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/moon-creative-automatiom.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/DEPT-Interior-118-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/DEPT-Interior-118-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay-Ahead-1-Website-header-1920x1080-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay-Ahead-1-Website-header-1920x1080-2.png"
+    ]
+  ]
+}

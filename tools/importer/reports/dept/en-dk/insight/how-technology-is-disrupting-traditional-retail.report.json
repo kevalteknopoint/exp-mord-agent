@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/how-technology-is-disrupting-traditional-retail/",
+  "path": "dept/en-dk/insight/how-technology-is-disrupting-traditional-retail",
+  "timestamp": "2026-10-09T15:29:56.563Z",
+  "title": "How technology is disrupting traditional retail - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Website-Header-Image-1200x750-Livia-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Website-Header-Image-1200x750-Livia-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-Dam-Johnse-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-Dam-Johnse-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Website-Header-Image-1200x750-Livia-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Website-Header-Image-1200x750-Livia-1200x750-c.jpg"
+    ]
+  ]
+}

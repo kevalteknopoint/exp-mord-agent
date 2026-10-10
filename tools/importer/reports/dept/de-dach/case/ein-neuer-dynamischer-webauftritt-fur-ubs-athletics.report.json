@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-neuer-dynamischer-webauftritt-fur-ubs-athletics/",
+  "path": "dept/de-dach/case/ein-neuer-dynamischer-webauftritt-fur-ubs-athletics",
+  "timestamp": "2026-10-09T11:42:56.339Z",
+  "title": "Ein neuer, dynamischer Webauftritt für UBS Athletics - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/UBS-Athletics_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/UBS-Athletics_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Stefan-Tan_-HV-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Stefan-Tan_-HV-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/board.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/board.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/UBS-Athletics_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/UBS-Athletics_Hero.jpg"
+    ]
+  ]
+}

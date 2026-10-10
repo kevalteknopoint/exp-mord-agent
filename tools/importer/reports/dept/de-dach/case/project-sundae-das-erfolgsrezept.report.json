@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/project-sundae-das-erfolgsrezept/",
+  "path": "dept/de-dach/case/project-sundae-das-erfolgsrezept",
+  "timestamp": "2026-10-09T11:17:23.744Z",
+  "title": "Project Sundae: das Erfolgsrezept - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "jumbotron",
+    "case-intro",
+    "jumbotron",
+    "assets-and-copy",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/hse-logo-with-hand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/hse-logo-with-hand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/just-eat-takeaway-personalized.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/just-eat-takeaway-personalized.jpg"
+    ]
+  ]
+}

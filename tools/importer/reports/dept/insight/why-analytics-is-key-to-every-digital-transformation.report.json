@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/why-analytics-is-key-to-every-digital-transformation/",
+  "path": "dept/insight/why-analytics-is-key-to-every-digital-transformation",
+  "timestamp": "2026-10-09T21:12:44.242Z",
+  "title": "Why analytics is key to every digital transformation - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/data-analytics-missing-digital-transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/data-analytics-missing-digital-transformation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/david-grover-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/david-grover-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/transformation-flywheel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/transformation-flywheel.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/transformation-flywheel-too-much-automation.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/transformation-flywheel-too-much-automation.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/transformation-flywheel-digital-and-analytics.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/transformation-flywheel-digital-and-analytics.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/How-to-maintain-culture-experimentation-as-you-scale.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/How-to-maintain-culture-experimentation-as-you-scale.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/LTW-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/LTW-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Its-time-to-take-a-combined-approach-to-brand-and-CX.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Its-time-to-take-a-combined-approach-to-brand-and-CX.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/data-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/data-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/data-analytics-missing-digital-transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/data-analytics-missing-digital-transformation.jpg"
+    ]
+  ]
+}

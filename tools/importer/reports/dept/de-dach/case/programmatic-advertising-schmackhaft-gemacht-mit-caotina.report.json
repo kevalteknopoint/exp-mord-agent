@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/programmatic-advertising-schmackhaft-gemacht-mit-caotina/",
+  "path": "dept/de-dach/case/programmatic-advertising-schmackhaft-gemacht-mit-caotina",
+  "timestamp": "2026-10-09T11:16:59.942Z",
+  "title": "Programmatic Advertising – schmackhaft gemacht mit Caotina - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Luc-Suter-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Luc-Suter-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/keyvisual.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/keyvisual.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/headerbettybossi.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/headerbettybossi.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/babymarkt-website-overview.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/babymarkt-website-overview.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/210122_Caotina_Packshot_012-2.jpg"
+    ]
+  ]
+}

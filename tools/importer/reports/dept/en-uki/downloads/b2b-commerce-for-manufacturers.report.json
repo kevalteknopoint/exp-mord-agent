@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/b2b-commerce-for-manufacturers/",
+  "path": "dept/en-uki/downloads/b2b-commerce-for-manufacturers",
+  "timestamp": "2026-10-09T19:26:53.939Z",
+  "title": "B2B Commerce for Manufacturers: Establishing and Accelerating Effective Solutions - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/B2B-Commerce-Landing-Page-950x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/B2B-Commerce-Landing-Page-950x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/B2B-Commerce-Landing-Page-950x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/B2B-Commerce-Landing-Page-950x1080-1.png"
+    ]
+  ]
+}

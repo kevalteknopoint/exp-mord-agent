@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-spick-and-span-influencer-campaign-with-shiny-results/",
+  "path": "dept/case/a-spick-and-span-influencer-campaign-with-shiny-results",
+  "timestamp": "2026-10-09T18:35:57.743Z",
+  "title": "A spick-and-span influencer campaign with shiny results - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "tiktok-video",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/afghan-hound-in-dog-bed.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/afghan-hound-in-dog-bed.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ]
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/finding-the-perfect-pitch-with-havens-app/",
+  "path": "dept/en-uki/case/finding-the-perfect-pitch-with-havens-app",
+  "timestamp": "2026-10-09T20:08:19.240Z",
+  "title": "Finding the perfect pitch with Haven’s app - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-Full-bleed.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-Full-bleed.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/my-haven-desktop-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/my-haven-desktop-design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/my-haven-app.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/my-haven-app.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/haven-seaview-app-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/haven-seaview-app-design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Mobile-x-7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Mobile-x-7.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ganni7-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ganni7-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/TGG_hero_YT_16x9_CouchPress-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/TGG_hero_YT_16x9_CouchPress-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/under-armour-basketball.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/under-armour-basketball.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-Full-bleed-e1667315102794.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-Full-bleed-e1667315102794.jpg"
+    ]
+  ]
+}

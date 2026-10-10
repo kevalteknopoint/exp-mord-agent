@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/rag-der-beste-erste-schritt-fur-ihre-ki-transformation/",
+  "path": "dept/de-dach/insight/rag-der-beste-erste-schritt-fur-ihre-ki-transformation",
+  "timestamp": "2026-10-09T11:40:34.696Z",
+  "title": "RAG: Der beste erste Schritt für Ihre KI Transformation - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "media-with-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/RAG-solutions-LLMs_AI-concept-1200x670px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/RAG-solutions-LLMs_AI-concept-1200x670px.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT--150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/RAG-Diagram-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/RAG-Diagram-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/RAG-solutions-LLMs_AI-concept-1200x670px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/RAG-solutions-LLMs_AI-concept-1200x670px.png"
+    ]
+  ]
+}

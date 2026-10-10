@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/2025-ist-die-deadline-fuer-digitale-barrierefreiheit/",
+  "path": "dept/insight/2025-ist-die-deadline-fuer-digitale-barrierefreiheit",
+  "timestamp": "2026-10-09T21:36:34.941Z",
+  "title": "2025 ist die Deadline für digitale Barrierefreiheit  - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "case-study-showcase",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/accessibility-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/accessibility-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Asher-wren-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Asher-wren-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/digital-trends-2023.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/digital-trends-2023.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sustainability-in-tech.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sustainability-in-tech.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/accessibility-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/accessibility-concept.jpg"
+    ]
+  ]
+}

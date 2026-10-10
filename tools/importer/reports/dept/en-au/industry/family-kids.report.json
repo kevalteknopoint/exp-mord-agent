@@ -1,0 +1,122 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/industry/family-kids/",
+  "path": "dept/en-au/industry/family-kids",
+  "timestamp": "2026-10-09T12:02:26.858Z",
+  "title": "Digital agency specialising in family & kids - DEPT®",
+  "template": "dept-industry",
+  "locale": "en-au",
+  "components": [
+    "industry-intro",
+    "assets-and-copy",
+    "title-with-cta",
+    "image-and-fact",
+    "highlighted-logos",
+    "work-listing",
+    "highlighted-statement",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Kids-Hello-Monday_Billboard-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Kids-Hello-Monday_Billboard-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/GoogleKidsSpace-Case-07.1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/GoogleKidsSpace-Case-07.1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/liewood_mobile_screens_low.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/liewood_mobile_screens_low.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/prudence-kids-finance-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/prudence-kids-finance-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/sesamestreetyourself-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/sesamestreetyourself-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/magical-storybook.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/magical-storybook.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Disney.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Disney.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/The-Wiggles.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/The-Wiggles.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Sesame-Street.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Sesame-Street.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Youtube-Kids.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Youtube-Kids.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Nerf.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Nerf.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bugaboo.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bugaboo.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Hasbro.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Hasbro.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Google-Kids-Space.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Google-Kids-Space.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Netflix.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Netflix.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Smileyscope.svg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Smileyscope.svg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/GoogleKidsSpace-Case-07.1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/GoogleKidsSpace-Case-07.1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Kids-Hello-Monday_Billboard-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Kids-Hello-Monday_Billboard-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Boekieclub-Visual-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Boekieclub-Visual-03-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/sesamestreetyourself-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/sesamestreetyourself-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Sephora-tweens-Insight-image-1200x620-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Sephora-tweens-Insight-image-1200x620-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/BFSI-and-Neopets_Feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/BFSI-and-Neopets_Feature.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Kids-Hello-Monday_Billboard-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Kids-Hello-Monday_Billboard-1.jpg"
+    ]
+  ]
+}

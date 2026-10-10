@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/get-smart-with-philips-hue/",
+  "path": "dept/case/get-smart-with-philips-hue",
+  "timestamp": "2026-10-09T10:12:10.743Z",
+  "title": "Featured work: Influencer marketing campaign for Philips Hue - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "quote",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Photo-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Photo-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Photo-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Photo-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Photo-3-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Photo-3-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Marco-Wallenburg.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Marco-Wallenburg.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Philips-multigroomer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Philips-multigroomer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Juridisch-Loket-02-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Juridisch-Loket-02-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Philips-Hue.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Philips-Hue.jpg"
+    ]
+  ]
+}

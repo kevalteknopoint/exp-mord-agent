@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/building-the-platform-for-natures-comeback-story/",
+  "path": "dept/en-uki/case/building-the-platform-for-natures-comeback-story",
+  "timestamp": "2026-10-09T19:54:03.641Z",
+  "title": "Building the platform for nature's comeback story - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/girl-white-dress-grass.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/girl-white-dress-grass.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Sumthing-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Sumthing-header.jpg"
+    ]
+  ]
+}

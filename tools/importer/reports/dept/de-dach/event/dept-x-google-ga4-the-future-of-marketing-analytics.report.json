@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-x-google-ga4-the-future-of-marketing-analytics/",
+  "path": "dept/de-dach/event/dept-x-google-ga4-the-future-of-marketing-analytics",
+  "timestamp": "2026-10-09T11:02:12.068Z",
+  "title": "DEPT® x Google – GA4: The Future of Marketing Analytics - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/DEPT%C2%AE-GA4-Event-Event-Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/DEPT--GA4-Event-Event-Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Michael-Jaeschke_Google-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Michael-Jaeschke_Google-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Wioletta_2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Wioletta_2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tobias-Kra%CC%88ft-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tobias-Kra-ft-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Camiele-Wenniger-Dept-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Camiele-Wenniger-Dept-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Jonas_Albrecht_DEPT%C2%AE-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Jonas_Albrecht_DEPT--2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/DEPT%C2%AE-GA4-Event-Event-Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/DEPT--GA4-Event-Event-Header.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/el-futuro-agentico-de-la-ia-tu-mejor-estrategia-no-se-construye-en-solitario/",
+  "path": "dept/latam/insight/el-futuro-agentico-de-la-ia-tu-mejor-estrategia-no-se-construye-en-solitario",
+  "timestamp": "2026-10-09T23:25:15.837Z",
+  "title": "El futuro agéntico de la IA: tu mejor estrategia no se construye en solitario - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/ai-agents-concept.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/ai-agents-concept.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/alex-glaser-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/alex-glaser-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/ai-agents-concept.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/ai-agents-concept.webp"
+    ]
+  ]
+}

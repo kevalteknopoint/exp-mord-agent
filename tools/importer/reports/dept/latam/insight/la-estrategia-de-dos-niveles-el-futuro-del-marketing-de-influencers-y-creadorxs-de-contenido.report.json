@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/la-estrategia-de-dos-niveles-el-futuro-del-marketing-de-influencers-y-creadorxs-de-contenido/",
+  "path": "dept/latam/insight/la-estrategia-de-dos-niveles-el-futuro-del-marketing-de-influencers-y-creadorxs-de-contenido",
+  "timestamp": "2026-10-09T23:28:11.243Z",
+  "title": "Estrategia de dos niveles: el futuro del marketing de influencers y creadorxs - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/influencer-creator.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/influencer-creator.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Running-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Running-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/2025-social-media-trends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/2025-social-media-trends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/TikTok-ban-insight-image-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/TikTok-ban-insight-image-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/influencer-creator.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/influencer-creator.webp"
+    ]
+  ]
+}

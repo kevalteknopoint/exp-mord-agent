@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/a-360-growth-strategy-on-amazon/",
+  "path": "dept/en-dk/case/a-360-growth-strategy-on-amazon",
+  "timestamp": "2026-10-09T14:39:59.569Z",
+  "title": "A 360° growth strategy on Amazon - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "event-content-v2",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/pregnant-baby-medela.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/pregnant-baby-medela.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/medela_2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/medela_2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/medela_3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/medela_3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Medela_case_trend_line.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Medela_case_trend_line.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ganni-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ganni-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/medela_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/medela_1.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/how-to-reduce-costs-and-increase-customer-satisfaction-through-self-service/",
+  "path": "dept/en-in/insight/how-to-reduce-costs-and-increase-customer-satisfaction-through-self-service",
+  "timestamp": "2026-10-09T16:57:34.175Z",
+  "title": "How to reduce costs and increase customer satisfaction through self-service - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/shadow-person-phone-stay-ahead.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/shadow-person-phone-stay-ahead.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/purple-arrows-stay-ahed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/purple-arrows-stay-ahed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Stay_Ahead_Loyalty-Featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Stay_Ahead_Loyalty-Featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Events-Header-1440x588-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Events-Header-1440x588-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/creative-automation-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/creative-automation-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/shadow-person-phone-stay-ahead.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/shadow-person-phone-stay-ahead.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/the-lovie-awards-beyond-currents-shaping-europes-internet-culture-and-innovation/",
+  "path": "dept/en-au/event/the-lovie-awards-beyond-currents-shaping-europes-internet-culture-and-innovation",
+  "timestamp": "2026-10-09T11:57:15.460Z",
+  "title": "The Lovie Awards: Beyond - Currents Shaping Europe’s Internet Culture & Innovation - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Lovie-Awards-2023-Event-header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Lovie-Awards-2023-Event-header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Marijke-Smallegange-11-09-2019-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Marijke-Smallegange-11-09-2019-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/David-Newton-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/David-Newton-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ramin-Bahari-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ramin-Bahari-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Jacqueline-Kavanagh-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Jacqueline-Kavanagh-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Lovie-Awards-2023-Event-header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Lovie-Awards-2023-Event-header.png"
+    ]
+  ]
+}

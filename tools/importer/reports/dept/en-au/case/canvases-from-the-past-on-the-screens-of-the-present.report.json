@@ -1,0 +1,88 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/canvases-from-the-past-on-the-screens-of-the-present/",
+  "path": "dept/en-au/case/canvases-from-the-past-on-the-screens-of-the-present",
+  "timestamp": "2026-10-09T12:39:15.371Z",
+  "title": "Canvases from the past on screens of the present - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/de-doeken-van-toen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/de-doeken-van-toen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-1-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-1-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-5-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-5-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-6-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-6-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-8-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-8-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-9.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-9.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Franklin-Schamhart.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Franklin-Schamhart.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/HYVA-Case-Header-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/HYVA-Case-Header-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/wilson-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/wilson-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-7-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-7-1.png"
+    ]
+  ]
+}

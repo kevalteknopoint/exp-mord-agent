@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/dept-und-smart-erschliessen-neue-zielgruppen-mit-d2c-kampagne/",
+  "path": "dept/de-dach/case/dept-und-smart-erschliessen-neue-zielgruppen-mit-d2c-kampagne",
+  "timestamp": "2026-10-09T11:32:40.339Z",
+  "title": "DEPT® und smart erschließen neue Zielgruppen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/smart_case_digital_marketing.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/smart_case_digital_marketing.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/smart_case_digital_marketing_2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/smart_case_digital_marketing_2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing_3-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing_3-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Arm_Hero_Static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Arm_Hero_Static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/smart_case_digital_marketing.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/smart_case_digital_marketing.webp"
+    ]
+  ]
+}

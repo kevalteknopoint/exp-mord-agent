@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/der-einstieg-eines-einzelhandelriesen-in-die-welt-von-tiktok/",
+  "path": "dept/de-dach/case/der-einstieg-eines-einzelhandelriesen-in-die-welt-von-tiktok",
+  "timestamp": "2026-10-09T11:33:05.280Z",
+  "title": "Der Einstieg eines Online-Giganten in die Welt von TikTok - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "full-width-image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1616_RRD.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1616_RRD.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1463_RSD.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1463_RSD.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1098_rsd.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1098_rsd.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1652_RSD.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1652_RSD.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/oysterl2x-kempen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/oysterl2x-kempen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg"
+    ]
+  ]
+}

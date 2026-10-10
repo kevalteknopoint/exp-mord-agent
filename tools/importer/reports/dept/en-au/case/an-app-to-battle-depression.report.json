@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/an-app-to-battle-depression/",
+  "path": "dept/en-au/case/an-app-to-battle-depression",
+  "timestamp": "2026-10-09T12:26:24.141Z",
+  "title": "An app to battle depression - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/beyond-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/beyond-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/beyond-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/beyond-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Template-Full-screen-33-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Template-Full-screen-33-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Meta-Festival_Whole-World.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Meta-Festival_Whole-World.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/BeyondBlueProject@2X-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/BeyondBlueProject-2X-1.jpg"
+    ]
+  ]
+}

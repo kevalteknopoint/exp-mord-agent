@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/a-unique-digital-experience-for-researchers-and-art-lovers/",
+  "path": "dept/en-in/case/a-unique-digital-experience-for-researchers-and-art-lovers",
+  "timestamp": "2026-10-09T14:45:24.940Z",
+  "title": "A unique digital experience for researchers and art lovers - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_6_Overview-mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_6_Overview-mobile-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_5_Overview-desktop-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_5_Overview-desktop-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_7_Detail-page-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_7_Detail-page-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_8_Detail-page-mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_8_Detail-page-mobile-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_4_Side-drawer-mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_4_Side-drawer-mobile-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Franklin-Schamhart.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Franklin-Schamhart.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/230511_EBay_SHOT_01_CAR_WASH_0102_v3RGB-copy-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/VGM_6_Overview-mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/VGM_6_Overview-mobile-1.png"
+    ]
+  ]
+}

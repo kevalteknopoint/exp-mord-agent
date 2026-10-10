@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/illuminating-louis-poulsen-a-radiant-digital-transformation/",
+  "path": "dept/en-uki/case/illuminating-louis-poulsen-a-radiant-digital-transformation",
+  "timestamp": "2026-10-09T20:17:02.840Z",
+  "title": "Illuminating Louis Poulsen: A radiant digital transformation - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/LouisPoulsen-spot3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/LouisPoulsen-spot3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/LouisPoulsen-spot6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/LouisPoulsen-spot6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/LouisPoulsen-spot7.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/LouisPoulsen-spot7.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ]
+  ]
+}

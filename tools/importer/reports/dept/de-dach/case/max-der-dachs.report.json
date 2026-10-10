@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/max-der-dachs/",
+  "path": "dept/de-dach/case/max-der-dachs",
+  "timestamp": "2026-10-09T11:09:25.240Z",
+  "title": "Max der Dachs - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/190814-maxderdachs-sc-home.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/190814-maxderdachs-sc-home.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2019-08-15-um-08.41.40.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2019-08-15-um-08.41.40.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2019-08-15-um-08.42.34.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2019-08-15-um-08.42.34.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Bildschirmfoto-2019-08-15-um-08.42.52.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Bildschirmfoto-2019-08-15-um-08.42.52.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/traveling-adventure.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/traveling-adventure.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Insights.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Insights.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/PE_eMobilitaet_F_2184x1228.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/PE_eMobilitaet_F_2184x1228.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/190814-maxderdachs-sc-home.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/190814-maxderdachs-sc-home.png"
+    ]
+  ]
+}

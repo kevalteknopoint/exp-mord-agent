@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/event/dept-is-heading-to-shoptalk-europe/",
+  "path": "dept/en-dk/event/dept-is-heading-to-shoptalk-europe",
+  "timestamp": "2026-10-09T13:49:23.340Z",
+  "title": "Join us at Shoptalk Europe - DEPT®",
+  "template": "dept-event",
+  "locale": "en-dk",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "event-people",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/SHOPTALK-EU-2026-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/SHOPTALK-EU-2026-Website-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Jack-Williams-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Jack-Williams-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Tim-de-Kamper-Dept-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Tim-de-Kamper-Dept-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Lucas-Nutbey-director-of-strategy-bij-DEPT%C2%AE-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Lucas-Nutbey-director-of-strategy-bij-DEPT--.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Naomi-de-Vries-1-edited-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Naomi-de-Vries-1-edited-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/jonsson-product-photography2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/jonsson-product-photography2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1080x1350-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1080x1350-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/New-Hire-Irene-de-Vos-1920-x-1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/SHOPTALK-EU-2026-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/SHOPTALK-EU-2026-Website-1920x1080-1.png"
+    ]
+  ]
+}

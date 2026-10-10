@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/die-elektrische-digitale-und-vernetzte-zukunft-der-automotive-branche/",
+  "path": "dept/de-dach/downloads/die-elektrische-digitale-und-vernetzte-zukunft-der-automotive-branche",
+  "timestamp": "2026-10-09T11:31:21.634Z",
+  "title": "Die elektrische, digitale und vernetzte Zukunft der Automotive Branche - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/automotive-connected-future.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/automotive-connected-future.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/automotive-connected-future.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/automotive-connected-future.jpg"
+    ]
+  ]
+}

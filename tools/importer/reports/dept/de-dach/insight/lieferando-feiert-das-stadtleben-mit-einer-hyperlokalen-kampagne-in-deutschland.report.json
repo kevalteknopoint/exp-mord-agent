@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/lieferando-feiert-das-stadtleben-mit-einer-hyperlokalen-kampagne-in-deutschland/",
+  "path": "dept/de-dach/insight/lieferando-feiert-das-stadtleben-mit-einer-hyperlokalen-kampagne-in-deutschland",
+  "timestamp": "2026-10-09T22:47:17.039Z",
+  "title": "Lieferando feiert das Stadtleben mit einer hyperlokalen Kampagne in Deutschland - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Lieferando_PR_Insight-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Lieferando_PR_Insight-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/luebue_NEU-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/luebue_NEU-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/JET_Katy_Perry_Perfomance_Thumbnail_1x1_Pizza_UK_IRE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/JET_Katy_Perry_Perfomance_Thumbnail_1x1_Pizza_UK_IRE.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT%C2%AExLufthansa_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-xLufthansa_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Lieferando_PR_Insight-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Lieferando_PR_Insight-1920x1080-1.jpg"
+    ]
+  ]
+}

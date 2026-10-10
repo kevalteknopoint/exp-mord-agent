@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-create-inclusive-shopping-experiences-in-the-metaverse/",
+  "path": "dept/insight/how-to-create-inclusive-shopping-experiences-in-the-metaverse",
+  "timestamp": "2026-10-09T22:12:11.943Z",
+  "title": "7 Ways to Create Inclusive Shopping Experiences in the Metaverse | Applied® | BASIC/DEPT® | Cultural Insights, Behaviors, Interests",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "thinking-intro_container",
+    "thinking-overview_container",
+    "detail-body_container",
+    "detail-media_container",
+    "detail-body_container"
+  ],
+  "fallback": [
+    "thinking-intro_container",
+    "thinking-overview_container",
+    "detail-body_container",
+    "detail-media_container",
+    "detail-body_container"
+  ],
+  "images": []
+}

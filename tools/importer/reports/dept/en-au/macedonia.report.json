@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/macedonia/",
+  "path": "dept/en-au/macedonia",
+  "timestamp": "2026-10-09T14:03:30.242Z",
+  "title": "DEPT® Macedonia - DEPT®",
+  "template": "dept-page",
+  "locale": "en-au",
+  "components": [
+    "cta-text",
+    "numbered-carousel",
+    "three-row-block",
+    "media-with-text",
+    "six-block-content",
+    "job-list",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Celebration-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Celebration-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/DEPT%C2%AE_DATA-1-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/DEPT-_DATA-1-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/DEPT-Fest-2022-Sat-651.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/DEPT-Fest-2022-Sat-651.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/1675345357972-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/1675345357972-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Careers-at-Dept-agency.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Careers-at-Dept-agency.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-10.jpg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-10.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-18.jpg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-18.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/themes/dept/public/320x320-30.jpg",
+      "/content/dam/exp-mord-agent/dept/themes/dept/public/320x320-30.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Ivan-Blazevic.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Ivan-Blazevic.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/1675345358572.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/1675345358572.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/newburyport/",
+  "path": "dept/office/newburyport",
+  "timestamp": "2026-10-09T22:39:24.062Z",
+  "title": "Newburyport - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Newburyport.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Newburyport.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Newburyport-983x1024.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Newburyport-983x1024.png"
+    ]
+  ]
+}

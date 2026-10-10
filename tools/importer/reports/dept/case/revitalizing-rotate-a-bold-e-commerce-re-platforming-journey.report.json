@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/revitalizing-rotate-a-bold-e-commerce-re-platforming-journey/",
+  "path": "dept/case/revitalizing-rotate-a-bold-e-commerce-re-platforming-journey",
+  "timestamp": "2026-10-09T10:48:03.139Z",
+  "title": "Revitalizing ROTATE: A bold e-commerce re-platforming journey - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "image",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/spot2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/spot2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/spot6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/spot6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nivea_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nivea_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Rotate-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Rotate-featured.jpg"
+    ]
+  ]
+}

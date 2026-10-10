@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dogstudio-dept-strengthens-creative-leadership-with-new-executive-creative-director/",
+  "path": "dept/insight/dogstudio-dept-strengthens-creative-leadership-with-new-executive-creative-director",
+  "timestamp": "2026-10-09T20:23:06.839Z",
+  "title": "DEPT® - Dogstudio/DEPT® strengthens creative leadership with new Executive Creative Director - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/LauraCortes_DogstudioDEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/LauraCortes_DogstudioDEPT-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/15-Hape-i.o.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/15-Hape-i.o.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Virtual-Expo-Dubai-featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Virtual-Expo-Dubai-featured-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_-_Insights_Image.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_-_Insights_Image.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/LauraCortes_DogstudioDEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/LauraCortes_DogstudioDEPT-.jpg"
+    ]
+  ]
+}

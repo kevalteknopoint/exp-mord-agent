@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/creating-collectibles-for-a-sport-at-the-forefront-of-digital-innovation/",
+  "path": "dept/en-in/case/creating-collectibles-for-a-sport-at-the-forefront-of-digital-innovation",
+  "timestamp": "2026-10-09T15:39:04.465Z",
+  "title": "Drone Racing League NFT marketplace - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "quote",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/drone-racing-league-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/drone-racing-league-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/DRL_Asset1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/DRL_Asset1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/jon-principe.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/jon-principe.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1269732224-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1269732224-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-861247950-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-861247950-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/DRL_Asset1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/DRL_Asset1.jpeg"
+    ]
+  ]
+}

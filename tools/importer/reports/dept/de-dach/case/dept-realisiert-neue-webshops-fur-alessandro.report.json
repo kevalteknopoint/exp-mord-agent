@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/dept-realisiert-neue-webshops-fur-alessandro/",
+  "path": "dept/de-dach/case/dept-realisiert-neue-webshops-fur-alessandro",
+  "timestamp": "2026-10-09T11:32:28.265Z",
+  "title": "DEPT® realisiert neue Webshops für alessandro - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "call-to-action",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/07.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/07.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/05-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/05-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/02-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/askari.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/askari.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Isostar_Life-is-your-playground.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Isostar_Life-is-your-playground.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Nivea-How-to-take-care-dry-hands-step-8.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/07.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/07.png"
+    ]
+  ]
+}

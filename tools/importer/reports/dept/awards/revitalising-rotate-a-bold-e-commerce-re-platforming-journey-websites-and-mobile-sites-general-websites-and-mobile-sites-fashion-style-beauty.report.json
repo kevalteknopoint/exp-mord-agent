@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/revitalising-rotate-a-bold-e-commerce-re-platforming-journey-websites-and-mobile-sites-general-websites-and-mobile-sites-fashion-style-beauty/",
+  "path": "dept/awards/revitalising-rotate-a-bold-e-commerce-re-platforming-journey-websites-and-mobile-sites-general-websites-and-mobile-sites-fashion-style-beauty",
+  "timestamp": "2026-10-09T10:34:01.941Z",
+  "title": "Revitalising ROTATE: A bold e-commerce re-platforming journey - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "video",
+    "panel-with-list",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "statement",
+    "image",
+    "get-in-touch",
+    "highlighted-cases"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/spot2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/spot2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/spot6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/spot6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Tobias-Pors.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Tobias-Pors.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Meier-Tobler-via-Yves-Keel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Trainline_Featured_16_9.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Trainline_Featured_16_9.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Rotate-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Rotate-featured.jpg"
+    ]
+  ]
+}

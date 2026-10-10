@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-in/insight/whats-next-influencer-marketing-in-2025/",
   "path": "dept/en-in/insight/whats-next-influencer-marketing-in-2025",
-  "timestamp": "2026-10-08T15:01:42.216Z",
+  "timestamp": "2026-10-09T09:54:49.740Z",
   "title": "2025 influencer marketing trends - What's next? - DEPT®",
   "template": "dept-insight",
   "locale": "en-in",
@@ -13,24 +13,22 @@
     "assets-and-copy",
     "insight-cta",
     "assets-and-copy",
+    "assets-and-copy",
     "image",
+    "assets-and-copy",
+    "assets-and-copy",
     "assets-and-copy",
     "custom-listing"
   ],
-  "fallback": [
-    "insight-intro",
-    "image",
-    "insight-cta",
-    "image"
-  ],
+  "fallback": [],
   "images": [
-    [
-      "https://www.dept.global/wp-content/uploads/2023/12/charlotte-scorer-150x150.jpeg",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/12/charlotte-scorer-150x150.jpeg"
-    ],
     [
       "https://www.dept.global/wp-content/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg",
       "/content/dam/exp-mord-agent/dept/uploads/2023/12/Whats-next-in-influencer-marketing.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/charlotte-scorer-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/charlotte-scorer-150x150.jpeg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2023/12/influencer-marketing-1.jpeg",

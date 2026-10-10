@@ -1,0 +1,82 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/event/dia-internacional-de-la-mujer-x-dept-accelerateaction/",
+  "path": "dept/latam/event/dia-internacional-de-la-mujer-x-dept-accelerateaction",
+  "timestamp": "2026-10-09T23:44:18.340Z",
+  "title": "Día Internacional de la Mujer x DEPT®: #AccelerateAction - DEPT®",
+  "template": "dept-event",
+  "locale": "latam",
+  "components": [
+    "event-intro",
+    "event-info",
+    "wrapper",
+    "event-content-v2",
+    "event-people",
+    "event-content-v2",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/IWD-event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/IWD-event-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Charlie-Hunt.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Charlie-Hunt.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Carryn-Quibell-Dept-1-min-1-e1740493188871.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Carryn-Quibell-Dept-1-min-1-e1740493188871.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/susan-obrien-profilepic-iwd-e1740408465637.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/susan-obrien-profilepic-iwd-e1740408465637.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/tina-fegent-profilepic-iwd-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/tina-fegent-profilepic-iwd-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Kristen-Lutjen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Kristen-Lutjen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Lisa-Colantuono.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Lisa-Colantuono.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Deborah-Holstein.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Deborah-Holstein.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Fiona-Spooner.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Fiona-Spooner.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Isobel-Sita.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Isobel-Sita.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Sharon-Gallacher.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Sharon-Gallacher.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/2025-trends-report-2025.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/2025-trends-report-2025.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/johnnie-walker-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/johnnie-walker-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/IWD-event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/IWD-event-header.jpg"
+    ]
+  ]
+}

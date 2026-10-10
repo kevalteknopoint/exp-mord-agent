@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-commerce-is-helping-brands-drive-growth-today-and-in-the-future/",
+  "path": "dept/en-au/insight/dept-commerce-is-helping-brands-drive-growth-today-and-in-the-future",
+  "timestamp": "2026-10-09T13:16:26.071Z",
+  "title": "DEPT®/COMMERCE is helping brands drive growth today & in the future - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "statement",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Featured-Image-16-by-9-DEPT%C2%AE-commerce-Logo-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Featured-Image-16-by-9-DEPT--commerce-Logo-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/group-of-friends.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/group-of-friends.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/BANG-OLUFSEN_featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/BANG-OLUFSEN_featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Desktop-Background-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Desktop-Background-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Featured-Image-16-by-9-DEPT%C2%AE-commerce-Logo-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Featured-Image-16-by-9-DEPT--commerce-Logo-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/bringing-art-to-life-in-a-digital-manner/",
+  "path": "dept/en-au/case/bringing-art-to-life-in-a-digital-manner",
+  "timestamp": "2026-10-09T12:34:12.462Z",
+  "title": "Bringing art to life in a digital manner - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lousiana_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lousiana_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lousiana_2.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lousiana_2.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lousiana_3.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lousiana_3.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lousiana_4.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lousiana_4.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rasmus-Keller.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rasmus-Keller.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Allianz-half-width-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Allianz-half-width-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Sci-Girls-Project-Header-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Sci-Girls-Project-Header-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lousiana_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lousiana_1.png"
+    ]
+  ]
+}

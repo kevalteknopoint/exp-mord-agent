@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/enhancing-the-customer-experience-through-comprehensive-brand-guidelines/",
+  "path": "dept/en-nl/case/enhancing-the-customer-experience-through-comprehensive-brand-guidelines",
+  "timestamp": "2026-10-09T18:10:59.745Z",
+  "title": "Enhancing the customer experience through comprehensive brand guidelines - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Icons-Module.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Icons-Module.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/3-Tab-Module.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/3-Tab-Module.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Elements-Module-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Elements-Module-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sophie.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sophie.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/spin-magazine-open-graph.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/spin-magazine-open-graph.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Final-hero-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Final-hero-min.png"
+    ]
+  ]
+}

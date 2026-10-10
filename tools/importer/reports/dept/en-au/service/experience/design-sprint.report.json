@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/experience/design-sprint/",
+  "path": "dept/en-au/service/experience/design-sprint",
+  "timestamp": "2026-10-09T14:17:29.634Z",
+  "title": "Design sprints | Customer experience agency - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/designsprints.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/designsprints.png"
+    ]
+  ]
+}

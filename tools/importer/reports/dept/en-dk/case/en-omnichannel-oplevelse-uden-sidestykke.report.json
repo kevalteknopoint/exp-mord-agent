@@ -1,0 +1,89 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/en-omnichannel-oplevelse-uden-sidestykke/",
+  "path": "dept/en-dk/case/en-omnichannel-oplevelse-uden-sidestykke",
+  "timestamp": "2026-10-09T14:18:28.539Z",
+  "title": "En omnichannel-oplevelse uden sidestykke - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "panel-two-media",
+    "quote",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Hero.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Hero.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/50_50-C.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/50_50-C.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/50_50-D.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/50_50-D.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/magasin-website-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/magasin-website-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Fullscreen-UI-2-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Fullscreen-UI-2-2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Fullscreen-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Fullscreen-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Fullscreen-UI-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Fullscreen-UI-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/50-50-A-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/50-50-A-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/50.50-B-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/50.50-B-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rasmus-Keller.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rasmus-Keller.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1806-IKEA-Midsommar-Influencer-Event-82.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Google-Workspace01-e1678980997383.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Google-Workspace01-e1678980997383.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/magasin-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/magasin-scaled.jpg"
+    ]
+  ]
+}

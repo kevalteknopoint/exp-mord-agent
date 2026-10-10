@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/sharing-the-magic-of-irl-events-through-social-media/",
+  "path": "dept/en-uki/case/sharing-the-magic-of-irl-events-through-social-media",
+  "timestamp": "2026-10-09T19:13:15.361Z",
+  "title": "Sharing the magic of IRL events through social media - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/twitchcon-las-vegas-group.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/twitchcon-las-vegas-group.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Puppy-Playtime-Carry-Case-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/twitchcon-las-vegas-group.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/twitchcon-las-vegas-group.jpg"
+    ]
+  ]
+}

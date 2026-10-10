@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/acht-dinge-die-marken-von-der-digitalen-transformation-von-adidas-lernen-ko%cc%88nnen/",
+  "path": "dept/de-dach/downloads/acht-dinge-die-marken-von-der-digitalen-transformation-von-adidas-lernen-konnen",
+  "timestamp": "2026-10-09T23:47:38.839Z",
+  "title": "Acht Dinge, die Marken von der digitalen Transformation von adidas lernen können - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-detail-panel",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Landing-Page-950x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Landing-Page-950x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Landing-Page-950x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Landing-Page-950x1080-1.png"
+    ]
+  ]
+}

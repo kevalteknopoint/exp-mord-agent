@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/meet-us-at-ecommerce-expo/",
+  "path": "dept/en-uki/event/meet-us-at-ecommerce-expo",
+  "timestamp": "2026-10-09T23:56:02.754Z",
+  "title": "Meet us at eCommerce Expo - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "four-card-information-block",
+    "title-and-content",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/eCommerce-Expo-event.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/eCommerce-Expo-event.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/eCommerce-Expo-event.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/eCommerce-Expo-event.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Derek-Brady-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Derek-Brady-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mark-Wright.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mark-Wright.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/1558100548788.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/1558100548788.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/eCommerce-Expo-Registration-banner.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/eCommerce-Expo-Registration-banner.png"
+    ]
+  ]
+}

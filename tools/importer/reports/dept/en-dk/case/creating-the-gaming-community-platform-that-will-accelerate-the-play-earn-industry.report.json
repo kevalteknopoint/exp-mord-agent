@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/creating-the-gaming-community-platform-that-will-accelerate-the-play-earn-industry/",
+  "path": "dept/en-dk/case/creating-the-gaming-community-platform-that-will-accelerate-the-play-earn-industry",
+  "timestamp": "2026-10-09T14:12:07.041Z",
+  "title": "Creating the Gaming Community Platform that will accelerate the play & earn industry - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "quote",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/04-Mobile-Angled-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/04-Mobile-Angled-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/05-Mobile-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/05-Mobile-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/02-Template-Mobiles-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/02-Template-Mobiles-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Jochem-van-Rossem-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Jochem-van-Rossem-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_500x300.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_500x300.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/wempe1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/wempe1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Louis-Poulsen-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Louis-Poulsen-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ]
+  ]
+}

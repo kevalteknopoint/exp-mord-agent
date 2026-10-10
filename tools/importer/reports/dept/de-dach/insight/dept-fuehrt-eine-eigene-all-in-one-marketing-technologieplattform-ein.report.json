@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/dept-fuehrt-eine-eigene-all-in-one-marketing-technologieplattform-ein/",
+  "path": "dept/de-dach/insight/dept-fuehrt-eine-eigene-all-in-one-marketing-technologieplattform-ein",
+  "timestamp": "2026-10-09T11:23:26.796Z",
+  "title": "DEPT® führt eine eigene All-in-One Marketing-Technologieplattform ein - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Ada_by_Dept_KV.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Ada_by_Dept_KV.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jannis-Ritterspach-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jannis-Ritterspach-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Ada_by_Dept_KV.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Ada_by_Dept_KV.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jannis-Ritterspach.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jannis-Ritterspach.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Ada_by_Dept_KV.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Ada_by_Dept_KV.png"
+    ]
+  ]
+}

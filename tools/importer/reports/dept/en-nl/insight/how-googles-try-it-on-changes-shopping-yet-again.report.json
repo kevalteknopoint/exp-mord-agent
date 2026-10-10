@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/how-googles-try-it-on-changes-shopping-yet-again/",
+  "path": "dept/en-nl/insight/how-googles-try-it-on-changes-shopping-yet-again",
+  "timestamp": "2026-10-09T18:12:12.942Z",
+  "title": "How Google’s “try it on” changes shopping yet again  - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Online-shopping-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Online-shopping-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/wesley-valstar-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/wesley-valstar-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/try-it-on-uxui-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/try-it-on-uxui-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/thumbs-up-on-wall-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/thumbs-up-on-wall-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/durablity-concept-knots.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/durablity-concept-knots.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Online-shopping-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Online-shopping-02.jpg"
+    ]
+  ]
+}

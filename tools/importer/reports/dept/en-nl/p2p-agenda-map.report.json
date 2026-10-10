@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/p2p-agenda-map/",
+  "path": "dept/en-nl/p2p-agenda-map",
+  "timestamp": "2026-10-09T23:55:04.934Z",
+  "title": "Prepare to Pioneer – Agenda and Map - DEPT®",
+  "template": "dept-page",
+  "locale": "en-nl",
+  "components": [
+    "main-page-header",
+    "panel-with-rich-text",
+    "image"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Floor-plan-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Floor-plan-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Website-landing-page-1440-x-588-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Website-landing-page-1440-x-588-min.png"
+    ]
+  ]
+}

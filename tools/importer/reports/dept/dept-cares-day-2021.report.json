@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/dept-cares-day-2021/",
+  "path": "dept/dept-cares-day-2021",
+  "timestamp": "2026-10-09T22:54:48.452Z",
+  "title": "DEPT® Cares Day 2021 - DEPT®",
+  "template": "dept-page",
+  "locale": "global",
+  "components": [
+    "post-header",
+    "panel-with-rich-text",
+    "full-width-image",
+    "panel-with-rich-text",
+    "video",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Dept-cares-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Dept-cares-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-in/insight/dept-enhances-cloud-technology-practice/",
   "path": "dept/en-in/insight/dept-enhances-cloud-technology-practice",
-  "timestamp": "2026-10-08T16:17:12.218Z",
+  "timestamp": "2026-10-09T09:53:43.439Z",
   "title": "DEPT® enhances cloud technology practice - DEPT®",
   "template": "dept-insight",
   "locale": "en-in",
@@ -12,9 +12,7 @@
     "title-and-content",
     "get-in-touch"
   ],
-  "fallback": [
-    "statement"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/04/Cloud_proposition_-_image_-_1920x1080.jpg",

@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-power-of-twitch-for-brand-advertising/",
+  "path": "dept/insight/the-power-of-twitch-for-brand-advertising",
+  "timestamp": "2026-10-09T22:04:44.041Z",
+  "title": "The power of Twitch for brand advertising - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/The-power-of-Twitch-for-brand-advertising-Social-image-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/The-power-of-Twitch-for-brand-advertising-Social-image-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Lyubomir-Isaev-Dept-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Lyubomir-Isaev-Dept-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/twitch-desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/twitch-desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/smart-PR-landing-page-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/smart-PR-landing-page-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Audience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Audience.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/2Website-Insight-Image-The-Last-Of-Us-HBO-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/2Website-Insight-Image-The-Last-Of-Us-HBO-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/fortnite-gaming-unreal-engine.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/fortnite-gaming-unreal-engine.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Lyubomir-Isaev-Dept-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Lyubomir-Isaev-Dept-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Twitch-advertising-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Twitch-advertising-concept.jpg"
+    ]
+  ]
+}

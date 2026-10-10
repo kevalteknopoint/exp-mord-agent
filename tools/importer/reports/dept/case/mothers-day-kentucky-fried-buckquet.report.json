@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/mothers-day-kentucky-fried-buckquet/",
+  "path": "dept/case/mothers-day-kentucky-fried-buckquet",
+  "timestamp": "2026-10-09T10:33:01.539Z",
+  "title": "Mother's Day: Kentucky Fried Buckquet - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/KFC-MotherDayPack.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/KFC-MotherDayPack.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/KFC-MothersDayWebsite.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/KFC-MothersDayWebsite.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/KFC-MothersDay-Collage.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/KFC-MothersDay-Collage.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/KFC-MothersDay-Packaging.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/KFC-MothersDay-Packaging.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/KFC-MothersDay-Collage-Buckquet.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/KFC-MothersDay-Collage-Buckquet.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/KFC-MothersDay-FinalBuckquet.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/KFC-MothersDay-FinalBuckquet.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/KFC-MothersDay-Mobile.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/KFC-MothersDay-Mobile.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/12/KFC-MotherDayPack.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/12/KFC-MotherDayPack.webp"
+    ]
+  ]
+}

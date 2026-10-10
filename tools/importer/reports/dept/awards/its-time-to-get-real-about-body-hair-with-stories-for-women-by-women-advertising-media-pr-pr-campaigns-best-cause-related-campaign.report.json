@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/its-time-to-get-real-about-body-hair-with-stories-for-women-by-women-advertising-media-pr-pr-campaigns-best-cause-related-campaign/",
+  "path": "dept/awards/its-time-to-get-real-about-body-hair-with-stories-for-women-by-women-advertising-media-pr-pr-campaigns-best-cause-related-campaign",
+  "timestamp": "2026-10-09T10:23:32.543Z",
+  "title": "It’s time to get real about body hair. With stories for women, by women. - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "text-block-hero",
+    "jumbotron",
+    "panel-with-list",
+    "jumbotron",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ]
+  ]
+}

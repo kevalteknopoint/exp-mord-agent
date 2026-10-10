@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/el-comercio-en-chatgpt-ha-hecho-su-debut-lo-que-las-marcas-deben-saber/",
+  "path": "dept/latam/insight/el-comercio-en-chatgpt-ha-hecho-su-debut-lo-que-las-marcas-deben-saber",
+  "timestamp": "2026-10-09T23:26:05.941Z",
+  "title": "El comercio en ChatGPT ha hecho su debut: lo que las marcas deben saber - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Chatgpt-Commerce-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Chatgpt-Commerce-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/ai-agents-concept.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/ai-agents-concept.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/tiktok-pastel-phones.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/tiktok-pastel-phones.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/Chatgpt-Commerce-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/Chatgpt-Commerce-1920x1080-1.webp"
+    ]
+  ]
+}

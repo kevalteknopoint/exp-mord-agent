@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/tennis-point-vom-legacy-system-zur-skalierbaren-commerce-plattform/",
+  "path": "dept/de-dach/case/tennis-point-vom-legacy-system-zur-skalierbaren-commerce-plattform",
+  "timestamp": "2026-10-09T11:22:31.940Z",
+  "title": "Vom Legacy-System zur skalierbaren Commerce-Plattform - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Case-Study-Image-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Case-Study-Image-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Case-Study-Image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Case-Study-Image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Case-Study-Image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Case-Study-Image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Case-Study-Image-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Case-Study-Image-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Case-Study-Image-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Case-Study-Image-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Case-Study-Image-7.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Case-Study-Image-7.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-636008560-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-636008560-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Tennis-Point-Grid-image-1920x1080-1.gif"
+    ]
+  ]
+}

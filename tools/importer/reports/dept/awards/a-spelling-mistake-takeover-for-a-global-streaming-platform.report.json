@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/a-spelling-mistake-takeover-for-a-global-streaming-platform/",
+  "path": "dept/awards/a-spelling-mistake-takeover-for-a-global-streaming-platform",
+  "timestamp": "2026-10-09T10:02:54.642Z",
+  "title": "A SPELLING MISTAKE TAKEOVER FOR A GLOBAL STREAMING PLATFORM - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/twith-pr.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/twith-pr.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/twith-replies.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/twith-replies.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/TheLogoSwap.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/TheLogoSwap.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/TheLogoSwap.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/TheLogoSwap.png"
+    ]
+  ]
+}

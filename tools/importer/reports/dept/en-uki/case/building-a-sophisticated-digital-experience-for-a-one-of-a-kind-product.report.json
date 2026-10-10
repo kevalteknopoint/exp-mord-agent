@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/building-a-sophisticated-digital-experience-for-a-one-of-a-kind-product/",
+  "path": "dept/en-uki/case/building-a-sophisticated-digital-experience-for-a-one-of-a-kind-product",
+  "timestamp": "2026-10-09T19:52:31.963Z",
+  "title": "Building a sophisticated digital experience for a one-of-a-kind product - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoops-uxui3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoops-uxui3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-photography1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-photography1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-photography2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-photography2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-photography3.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-photography3.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/luis-morera-klNRtxIgiMM-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/whoop-on-dirtbiker.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/whoop-on-dirtbiker.webp"
+    ]
+  ]
+}

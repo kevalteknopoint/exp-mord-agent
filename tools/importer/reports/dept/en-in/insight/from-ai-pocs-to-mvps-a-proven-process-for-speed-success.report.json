@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/from-ai-pocs-to-mvps-a-proven-process-for-speed-success/",
+  "path": "dept/en-in/insight/from-ai-pocs-to-mvps-a-proven-process-for-speed-success",
+  "timestamp": "2026-10-09T15:58:21.139Z",
+  "title": "From AI POCs to MVPs: A proven process for speed & success - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "insight-cta",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/ai-poc-to-mvp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/ai-poc-to-mvp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Nathan-Coppens-e1740738400934-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Nathan-Coppens-e1740738400934-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/ai-transformation-trends-technology-report.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/ai-transformation-trends-technology-report.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Online-shopping-Insights-1164x655-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Online-shopping-Insights-1164x655-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Trends-report-2025-Featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Trends-report-2025-Featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/ai-poc-to-mvp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/ai-poc-to-mvp.jpg"
+    ]
+  ]
+}

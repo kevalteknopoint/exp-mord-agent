@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/datenbasierte-dynamische-werbemittel-fur-co-brand-kampagnen/",
+  "path": "dept/de-dach/case/datenbasierte-dynamische-werbemittel-fur-co-brand-kampagnen",
+  "timestamp": "2026-10-09T11:30:53.641Z",
+  "title": "Datenbasierte dynamische Werbemittel für Co-Brand Kampagnen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20201203_161611-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20201203_161611-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Intersport-Laptop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Intersport-Laptop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Mountain-Rescue-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Mountain-Rescue-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/20201203_161611.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/20201203_161611.jpg"
+    ]
+  ]
+}

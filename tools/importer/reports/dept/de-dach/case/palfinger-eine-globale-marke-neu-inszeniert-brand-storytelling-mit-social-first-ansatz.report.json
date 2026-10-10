@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/palfinger-eine-globale-marke-neu-inszeniert-brand-storytelling-mit-social-first-ansatz/",
+  "path": "dept/de-dach/case/palfinger-eine-globale-marke-neu-inszeniert-brand-storytelling-mit-social-first-ansatz",
+  "timestamp": "2026-10-09T11:15:45.441Z",
+  "title": "Palfinger: Eine globale Marke neu inszeniert – Brand Storytelling mit Social-First Ansatz - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger_Web-Header_v4.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger_Web-Header_v4.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger-1600x900-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger-Web-asset-1920x1080-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger-Web-asset-1920x1080-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger-1600x900-1.png"
+    ]
+  ]
+}

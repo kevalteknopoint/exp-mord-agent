@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/the-product-mindset-a-blueprint-for-legacy-brands-in-a-world-that-wont-wait/",
+  "path": "dept/en-uki/insight/the-product-mindset-a-blueprint-for-legacy-brands-in-a-world-that-wont-wait",
+  "timestamp": "2026-10-09T20:39:32.621Z",
+  "title": "The product mindset: a blueprint for legacy brands in a world that won’t wait - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/blueorange-building.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/blueorange-building.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mark-Wright-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mark-Wright-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/influencer-creator.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/influencer-creator.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/2-One-milion-ads-Adobe-Talk-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/CPG-trends-Insights-1164x655-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/CPG-trends-Insights-1164x655-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/blueorange-building.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/blueorange-building.webp"
+    ]
+  ]
+}

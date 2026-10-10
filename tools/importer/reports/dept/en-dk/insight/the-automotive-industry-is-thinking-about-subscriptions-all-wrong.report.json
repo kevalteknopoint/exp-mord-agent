@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/the-automotive-industry-is-thinking-about-subscriptions-all-wrong/",
+  "path": "dept/en-dk/insight/the-automotive-industry-is-thinking-about-subscriptions-all-wrong",
+  "timestamp": "2026-10-09T15:08:27.542Z",
+  "title": "The automotive industry is thinking about subscriptions all wrong - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/car-dashboard-technology.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/car-dashboard-technology.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Katrine-Andersen-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Katrine-Andersen-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/woman-using-app-in-car.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/woman-using-app-in-car.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Reddit-Feature-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Reddit-Feature-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/How-to-integrate-generative-AI-into-existing-business-processes-500X300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/How-to-integrate-generative-AI-into-existing-business-processes-500X300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/asher-wren-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/asher-wren-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/car-dashboard-technology.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/car-dashboard-technology.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-to-navigate-non-endemic-advertising-in-retail-media/",
+  "path": "dept/insight/how-to-navigate-non-endemic-advertising-in-retail-media",
+  "timestamp": "2026-10-09T22:15:22.365Z",
+  "title": "How to navigate non-endemic advertising in retail media  - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/retail-media-non-endemics.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/retail-media-non-endemics.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/nilufar-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/nilufar-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Mastering-Amazon-Ads-2.0_-Harness-data-AI-and-machine-learning-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Mastering-Amazon-Ads-2.0_-Harness-data-AI-and-machine-learning-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/abstract-gold.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/abstract-gold.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/person-closeup-denim-suit.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/person-closeup-denim-suit.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/nilufar.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/nilufar.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/retail-media-non-endemics.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/retail-media-non-endemics.png"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-continues-investment-in-germany-unites-under-one-brand-and-announces-new-leadership/",
+  "path": "dept/insight/dept-continues-investment-in-germany-unites-under-one-brand-and-announces-new-leadership",
+  "timestamp": "2026-10-09T21:06:24.463Z",
+  "title": "DEPT® continues investment in Germany, unites under one brand, and announces new leadership - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Germany-management-team.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Germany-management-team.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Germany-management-team.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Germany-management-team.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Impact-Report-2022_Alternate-Featured-Image_1000-x-1201.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Impact-Report-2022_Alternate-Featured-Image_1000-x-1201.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Insight-1000x1200-15.17.04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Insight-1000x1200-15.17.04.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Germany-management-team.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Germany-management-team.jpg"
+    ]
+  ]
+}

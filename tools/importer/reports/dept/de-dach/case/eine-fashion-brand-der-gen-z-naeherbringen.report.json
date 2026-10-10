@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/eine-fashion-brand-der-gen-z-naeherbringen/",
+  "path": "dept/de-dach/case/eine-fashion-brand-der-gen-z-naeherbringen",
+  "timestamp": "2026-10-09T10:55:20.446Z",
+  "title": "Eine Fashion Brand der Gen Z näherbringen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/03-Walder-Design-Moods-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/03-Walder-Design-Moods-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/nordstrom-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/nordstrom-featured.png"
+    ]
+  ]
+}

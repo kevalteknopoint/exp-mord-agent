@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/a-next-gen-collaboration/",
+  "path": "dept/en-in/case/a-next-gen-collaboration",
+  "timestamp": "2026-10-09T14:43:20.645Z",
+  "title": "A next-gen collaboration - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "statement",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries3-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries3-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mille-Munk-Sorensen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mille-Munk-Sorensen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Website-_-Full-Bleed-Content-Image@2X-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Website-_-Full-Bleed-Content-Image-2X-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2020/11/DEPT-Yamaha-Case-Study.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Becel-5-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Becel-5-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/partner/google-cloud-platform/",
+  "path": "dept/latam/partner/google-cloud-platform",
+  "timestamp": "2026-10-09T22:25:13.342Z",
+  "title": "Google Cloud Platform Partner y Reseller - DEPT®",
+  "template": "dept-partner",
+  "locale": "latam",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "points-table",
+    "insight-cta",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Google-DEPT-partner.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Google-DEPT-partner.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Google-DEPT-partner.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Google-DEPT-partner.png"
+    ]
+  ]
+}

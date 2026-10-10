@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dept-talks-tech-for-good-accelerating-your-journey-to-net-zero/",
+  "path": "dept/en-au/event/dept-talks-tech-for-good-accelerating-your-journey-to-net-zero",
+  "timestamp": "2026-10-09T12:54:29.739Z",
+  "title": "DEPT® Talks: Tech for Good: accelerating your journey to net zero - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/DEPT%C2%AETalks-Salesforce-Website-Header-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/DEPT-Talks-Salesforce-Website-Header-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/sr3xjFig-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/sr3xjFig-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nelleke-van-Grinsven-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nelleke-van-Grinsven-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.20.39-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.20.39-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Dieuwertje-Damen-e1678872358614-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Dieuwertje-Damen-e1678872358614-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/DEPT%C2%AETalks-Salesforce-Website-Header-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/DEPT-Talks-Salesforce-Website-Header-min.jpg"
+    ]
+  ]
+}

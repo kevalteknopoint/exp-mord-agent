@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/insight/how-to-maintain-your-culture-of-experimentation-as-you-scale/",
   "path": "dept/en-au/insight/how-to-maintain-your-culture-of-experimentation-as-you-scale",
-  "timestamp": "2026-10-08T14:59:18.939Z",
+  "timestamp": "2026-10-09T09:59:08.336Z",
   "title": "How to maintain your culture of experimentation as you scale - DEPT®",
   "template": "dept-insight",
   "locale": "en-au",
@@ -21,9 +21,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "quote"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/05/How-to-maintain-culture-experimentation-as-you-scale.jpg",

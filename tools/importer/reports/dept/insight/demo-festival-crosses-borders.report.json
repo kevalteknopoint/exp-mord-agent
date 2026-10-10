@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/demo-festival-crosses-borders/",
+  "path": "dept/insight/demo-festival-crosses-borders",
+  "timestamp": "2026-10-09T20:54:56.240Z",
+  "title": "DEMO Festival crosses borders - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/demo-fest-travelator-screen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/demo-fest-travelator-screen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1000x1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1000x1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Our-most-advanced-and-silliest-Snap-AR-work-ever-1200x670px.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Our-most-advanced-and-silliest-Snap-AR-work-ever-1200x670px.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/JETFLIX-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/JETFLIX-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEMO_Insight.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEMO_Insight.jpg"
+    ]
+  ]
+}

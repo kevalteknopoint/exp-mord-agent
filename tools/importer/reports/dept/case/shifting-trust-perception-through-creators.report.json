@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/shifting-trust-perception-through-creators/",
+  "path": "dept/case/shifting-trust-perception-through-creators",
+  "timestamp": "2026-10-09T10:57:45.166Z",
+  "title": "Featured work: Cash App's Weird for Real creator campaign - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Cashapp-featured-image.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Cashapp-featured-image.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Fitbit-IE-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Fitbit-IE-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Cashapp-featured-image.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Cashapp-featured-image.webp"
+    ]
+  ]
+}

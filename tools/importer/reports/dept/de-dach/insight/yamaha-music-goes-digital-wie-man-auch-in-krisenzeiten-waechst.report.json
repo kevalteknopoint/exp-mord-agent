@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/yamaha-music-goes-digital-wie-man-auch-in-krisenzeiten-waechst/",
+  "path": "dept/de-dach/insight/yamaha-music-goes-digital-wie-man-auch-in-krisenzeiten-waechst",
+  "timestamp": "2026-10-09T11:57:39.281Z",
+  "title": "Yamaha Music goes Digital: Wie man auch in Krisenzeiten wächst - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "image-with-content-cards",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/DEPTxOMR-50.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/DEPTxOMR-50.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Dept_Serina_Gummert-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Dept_Serina_Gummert-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Serina-Gumert.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Serina-Gumert.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Robin-Gaberle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Robin-Gaberle.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Alec-Burns.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Alec-Burns.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Stina_Kozok-3990-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Stina_Kozok-3990-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/frazer-locke-amazon.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/frazer-locke-amazon.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Dept_Serina_Gummert.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Dept_Serina_Gummert.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/DEPTxOMR-50.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/DEPTxOMR-50.jpg"
+    ]
+  ]
+}

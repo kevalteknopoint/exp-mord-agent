@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/insight/tracking-the-impact-of-covid-19-and-charting-signs-of-recovery/",
   "path": "dept/en-au/insight/tracking-the-impact-of-covid-19-and-charting-signs-of-recovery",
-  "timestamp": "2026-10-08T16:13:19.036Z",
+  "timestamp": "2026-10-09T09:37:14.474Z",
   "title": "Tracking the impact of COVID-19 and charting signs of recovery - DEPT®",
   "template": "dept-insight",
   "locale": "en-au",
@@ -16,10 +16,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "image",
-    "image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/03/photo-1584582868981-38dbd5d1a86e-1200x750-c.jpeg",

@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/crm-vs-cdp-vs-dmp/",
+  "path": "dept/en-dk/insight/crm-vs-cdp-vs-dmp",
+  "timestamp": "2026-10-09T14:13:31.441Z",
+  "title": "The difference between CRM, CDP, & DMP - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "panel-with-cards",
+    "title-and-content",
+    "title-and-content",
+    "statement",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CPD-CRM-DMP-Insight-1200x630-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CPD-CRM-DMP-Insight-1200x630-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/image-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/image-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Personal-Assistant_CRM.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Personal-Assistant_CRM.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Personal-Genius_CDP.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Personal-Genius_CDP.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Scout_DMP.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Scout_DMP.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-in-spreadsheet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-in-spreadsheet.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/before-your-data-project.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/before-your-data-project.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/data-analytics-missing-digital-transformation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/data-analytics-missing-digital-transformation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CPD-CRM-DMP-Insight-1200x630-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CPD-CRM-DMP-Insight-1200x630-1.jpg"
+    ]
+  ]
+}

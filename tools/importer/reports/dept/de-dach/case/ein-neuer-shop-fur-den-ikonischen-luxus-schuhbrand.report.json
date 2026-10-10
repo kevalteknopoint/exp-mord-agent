@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ein-neuer-shop-fur-den-ikonischen-luxus-schuhbrand/",
+  "path": "dept/de-dach/case/ein-neuer-shop-fur-den-ikonischen-luxus-schuhbrand",
+  "timestamp": "2026-10-09T11:43:10.635Z",
+  "title": "Ein neuer Shop für den ikonischen Luxus-Schuhbrand - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Inuikii_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Inuikii_Hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Inuikii_Image01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Inuikii_Image01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Inuikii_Image02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Inuikii_Image02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Inuikii_Image03.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Inuikii_Image03.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Isabel-Yasar-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Isabel-Yasar-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Dept-x-quadient-case-1440x810-c-quadient.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Dept-x-quadient-case-1440x810-c-quadient.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/pasted-image-0-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/pasted-image-0-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/190814-maxderdachs-sc-home.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/190814-maxderdachs-sc-home.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Inuikii_Hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Inuikii_Hero.jpg"
+    ]
+  ]
+}

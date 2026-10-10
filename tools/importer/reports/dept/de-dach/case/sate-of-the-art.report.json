@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/sate-of-the-art/",
+  "path": "dept/de-dach/case/sate-of-the-art",
+  "timestamp": "2026-10-09T11:18:38.367Z",
+  "title": "State of the Art - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Ferrari-California-T-Frontansicht-article169Gallery-34c5df96-836949.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Ferrari-California-T-Frontansicht-article169Gallery-34c5df96-836949.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/ghd-case-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/ghd-case-image-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/brooke-cagle-32431-unsplash-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/brooke-cagle-32431-unsplash-1440x810-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Ferrari-California-T-Frontansicht-article169Gallery-34c5df96-836949.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Ferrari-California-T-Frontansicht-article169Gallery-34c5df96-836949.jpg"
+    ]
+  ]
+}

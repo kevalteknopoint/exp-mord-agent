@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/easy-genomics-an-open-source-digital-solution/",
+  "path": "dept/awards/easy-genomics-an-open-source-digital-solution",
+  "timestamp": "2026-10-09T10:16:37.840Z",
+  "title": "Easy Genomics - An open-source digital solution to simplify genomic sequencing for labs around the globe. - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "cta-text",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "quote"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Website-_-Summary-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Website-_-Summary-Image-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/shutterstock_551281720.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/shutterstock_551281720.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Easy-Genomics-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Easy-Genomics-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/My-project.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/My-project.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Website-_-Summary-Image-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Website-_-Summary-Image-1.png"
+    ]
+  ]
+}

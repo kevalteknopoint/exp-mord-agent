@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/dept-awarded-silver-as-campaigns-global-digital-innovation-agency-of-the-year/",
+  "path": "dept/en-dk/insight/dept-awarded-silver-as-campaigns-global-digital-innovation-agency-of-the-year",
+  "timestamp": "2026-10-09T14:52:17.946Z",
+  "title": "DEPT® awarded Silver as Campaign's Global Digital Innovation Agency of the Year - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Campaign-2023-silver-500X300.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Campaign-2023-silver-500X300.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Campaign-2023-silver-500X300.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Campaign-2023-silver-500X300.png"
+    ]
+  ]
+}

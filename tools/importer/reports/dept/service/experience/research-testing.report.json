@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/service/experience/research-testing/",
+  "path": "dept/service/experience/research-testing",
+  "timestamp": "2026-10-09T22:51:21.978Z",
+  "title": "Research & testing | Customer experience agency - DEPT®",
+  "template": "dept-service",
+  "locale": "global",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Research-Testing.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Research-Testing.png"
+    ]
+  ]
+}

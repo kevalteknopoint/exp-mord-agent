@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/digitale-narrative-fuer-luxusuhren-schaffen/",
+  "path": "dept/de-dach/case/digitale-narrative-fuer-luxusuhren-schaffen",
+  "timestamp": "2026-10-09T11:39:06.940Z",
+  "title": "Digitale Narrative für Luxusuhren schaffen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/jaeger-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/jaeger-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/jaeger-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/jaeger-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1085747632-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1085747632-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/jaeger-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/jaeger-1.jpeg"
+    ]
+  ]
+}

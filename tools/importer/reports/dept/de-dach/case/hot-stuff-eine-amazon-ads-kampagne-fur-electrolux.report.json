@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/hot-stuff-eine-amazon-ads-kampagne-fur-electrolux/",
+  "path": "dept/de-dach/case/hot-stuff-eine-amazon-ads-kampagne-fur-electrolux",
+  "timestamp": "2026-10-09T11:03:29.711Z",
+  "title": "Hot Stuff – eine Amazon Ads Kampagne für Electrolux - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Header.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Bedroom.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Bedroom.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Living-Room.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Living-Room.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Story-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Story-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Frigidaire_Case_Header.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Frigidaire_Case_Header.jpeg"
+    ]
+  ]
+}

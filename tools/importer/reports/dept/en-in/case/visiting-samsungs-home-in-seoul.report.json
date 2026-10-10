@@ -1,0 +1,62 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/visiting-samsungs-home-in-seoul/",
+  "path": "dept/en-in/case/visiting-samsungs-home-in-seoul",
+  "timestamp": "2026-10-09T15:35:13.747Z",
+  "title": "Visiting Samsung's home in Seoul - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "jumbotron",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1169744232-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1169744232-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/samsung_2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/samsung_2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/samsung_3-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/samsung_3-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/samsung_1-scaled-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/samsung_1-scaled-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Tolga-Ozturk-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Tolga-Ozturk-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Philips-multigroomer.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Philips-multigroomer.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-639001344-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-639001344-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/ITA-Group-Case-Image-Mockup-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/ITA-Group-Case-Image-Mockup-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/samsung_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/samsung_1-scaled.jpg"
+    ]
+  ]
+}

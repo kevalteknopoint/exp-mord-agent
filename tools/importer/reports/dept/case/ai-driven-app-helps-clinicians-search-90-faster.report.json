@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/ai-driven-app-helps-clinicians-search-90-faster/",
+  "path": "dept/case/ai-driven-app-helps-clinicians-search-90-faster",
+  "timestamp": "2026-10-09T10:53:36.089Z",
+  "title": "Featured work: AI-driven app for CaryHealth",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Clair-case-study-asset-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Clair-case-study-asset-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Clair-case-study-asset-2.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Clair-case-study-asset-2.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Clair-case-study-asset-4.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Clair-case-study-asset-4.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Clair-AI-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Clair-AI-signage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Fingerspelling-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Fingerspelling-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Clair-case-study-asset-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Clair-case-study-asset-1.webp"
+    ]
+  ]
+}

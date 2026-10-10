@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/event/dept-talks-next-in-customer-experience/",
+  "path": "dept/en-in/event/dept-talks-next-in-customer-experience",
+  "timestamp": "2026-10-09T15:49:35.439Z",
+  "title": "DEPT® Talks: Next in Customer Experience - DEPT®",
+  "template": "dept-event",
+  "locale": "en-in",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/DEPT%C2%AE-CX-Breakfast-header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/DEPT--CX-Breakfast-header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/1630345057486-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/1630345057486-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/KTP_2418.L.KatinkaTrompPhotography.com-gedeeld-1-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/KTP_2418.L.KatinkaTrompPhotography.com-gedeeld-1-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Ryely-Newman-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Ryely-Newman-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Johanne-Bruun-Rasmussen-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Johanne-Bruun-Rasmussen-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/DEPT%C2%AE-CX-Breakfast-header-912x1024.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/DEPT--CX-Breakfast-header-912x1024.png"
+    ]
+  ]
+}

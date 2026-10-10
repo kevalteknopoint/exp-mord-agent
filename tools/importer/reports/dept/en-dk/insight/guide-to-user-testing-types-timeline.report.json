@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/guide-to-user-testing-types-timeline/",
+  "path": "dept/en-dk/insight/guide-to-user-testing-types-timeline",
+  "timestamp": "2026-10-09T15:22:55.236Z",
+  "title": "Guide to user testing - types & timeline - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/user-testing-guide-focus-group.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/user-testing-guide-focus-group.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Jesse-stevens-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Jesse-stevens-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/user-testing-guide-focus-group.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/user-testing-guide-focus-group.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/user-testing-scaled-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/user-testing-scaled-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/user-testing-emoney-visual-dept-scaled.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/user-testing-emoney-visual-dept-scaled.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Jesse-stevens.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Jesse-stevens.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/user-testing-guide-focus-group.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/user-testing-guide-focus-group.jpg"
+    ]
+  ]
+}

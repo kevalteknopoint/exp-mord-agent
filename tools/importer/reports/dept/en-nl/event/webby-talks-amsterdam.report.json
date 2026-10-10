@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/webby-talks-amsterdam/",
+  "path": "dept/en-nl/event/webby-talks-amsterdam",
+  "timestamp": "2026-10-09T18:33:02.040Z",
+  "title": "Webby Talks: Amsterdam - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-header",
+    "event-register",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/image-events-page.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/image-events-page.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Nick-Borenstein-Headshot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Nick-Borenstein-Headshot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Rod-Headshot-2-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Rod-Headshot-2-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Tiago-Nascimento-Dept%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Tiago-Nascimento-Dept-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Webby-Talks-2024-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Webby-Talks-2024-1.png"
+    ]
+  ]
+}

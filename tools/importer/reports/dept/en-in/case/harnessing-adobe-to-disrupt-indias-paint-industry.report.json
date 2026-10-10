@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/harnessing-adobe-to-disrupt-indias-paint-industry/",
+  "path": "dept/en-in/case/harnessing-adobe-to-disrupt-indias-paint-industry",
+  "timestamp": "2026-10-09T15:56:24.542Z",
+  "title": "Harnessing Adobe to disrupt India’s paint industry  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Birla-Opus_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Birla-Opus_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/e4m-India-Interview-Series-September-1920x1080-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/e4m-India-Interview-Series-September-1920x1080-2-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Tech-whitelabel-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Tech-whitelabel-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Birla-Opus_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Birla-Opus_Featured_16_9.webp"
+    ]
+  ]
+}

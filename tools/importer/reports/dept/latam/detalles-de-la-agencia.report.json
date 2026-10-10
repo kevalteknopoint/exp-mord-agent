@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/detalles-de-la-agencia/",
+  "path": "dept/latam/detalles-de-la-agencia",
+  "timestamp": "2026-10-09T23:47:07.135Z",
+  "title": "Detalles de la agencia - DEPT®",
+  "template": "dept-page",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text",
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/dept-logo2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/dept-logo2.png"
+    ]
+  ]
+}

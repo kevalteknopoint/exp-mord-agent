@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-x-salesforce-connections-2024-chicago/",
+  "path": "dept/event/dept-x-salesforce-connections-2024-chicago",
+  "timestamp": "2026-10-09T21:18:56.035Z",
+  "title": "DEPT® x Salesforce Connections 2024 - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "four-card-information-block",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Salesforce-connections-00000-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Salesforce-connections-00000-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Salesforce-connections-00000-5.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Salesforce-connections-00000-5.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Ryan-Nicholson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Ryan-Nicholson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Carryn-Quibell-profile-picture.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Carryn-Quibell-profile-picture.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Nick-Mundil-profile-picture.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Nick-Mundil-profile-picture.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Wesley-Duenow.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Wesley-Duenow.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Cezar-Wasecki-profile-picture.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Cezar-Wasecki-profile-picture.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/steve-holsinger-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/steve-holsinger-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Michael-Giudice-profile-picture.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Michael-Giudice-profile-picture.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Eric-Wood-profile-picture.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Eric-Wood-profile-picture.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Steven-Jennings-profile-picture.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Steven-Jennings-profile-picture.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Noelle.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Noelle.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Salesforce-connections-00000-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Salesforce-connections-00000-3.jpg"
+    ]
+  ]
+}

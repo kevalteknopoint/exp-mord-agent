@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/what-weve-learned-from-one-year-of-amazon-marketing-cloud/",
+  "path": "dept/insight/what-weve-learned-from-one-year-of-amazon-marketing-cloud",
+  "timestamp": "2026-10-09T21:10:07.909Z",
+  "title": "What we’ve learned from one year of Amazon Marketing Cloud - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/amazon-marketing-cloud.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/amazon-marketing-cloud.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Alec-Burns-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Alec-Burns-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Ad-Types-Overlap-Graph.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Ad-Types-Overlap-Graph.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Alec-Burns.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Alec-Burns.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/amazon-marketing-cloud.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/amazon-marketing-cloud.jpg"
+    ]
+  ]
+}

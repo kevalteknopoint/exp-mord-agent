@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/depts-pioneering-work-recognised-with-35-lovie-award-finalists/",
+  "path": "dept/en-au/insight/depts-pioneering-work-recognised-with-35-lovie-award-finalists",
+  "timestamp": "2026-10-09T13:36:15.438Z",
+  "title": "DEPT®’s pioneering work recognized with 35 Lovie Award Finalists - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Lovie-Awards-Finalist-2023-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Lovie-Awards-Finalist-2023-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/lovies-2022-featured-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/lovies-2022-featured-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Insight-1000x1200-15.17.04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Insight-1000x1200-15.17.04.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Google-Premier-Awards-2023-Insights-1000x1200-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Google-Premier-Awards-2023-Insights-1000x1200-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Lovie-Awards-Finalist-2023-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Lovie-Awards-Finalist-2023-1.png"
+    ]
+  ]
+}

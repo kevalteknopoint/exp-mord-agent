@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-is-heading-to-advertising-week-ny/",
+  "path": "dept/event/dept-is-heading-to-advertising-week-ny",
+  "timestamp": "2026-10-09T20:06:58.357Z",
+  "title": "DEPT® IS HEADING TO ADVERTISING WEEK NY - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Advertising-Week-NY-Landing-page-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Advertising-Week-NY-Landing-page-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Roy-Armale.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Roy-Armale.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Asher-Wren.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Asher-Wren.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/jon-judah-headshot-2025-e1755202842262.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/jon-judah-headshot-2025-e1755202842262.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-DEPT%C2%AE_3Q-e1679308650172.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-DEPT-_3Q-e1679308650172.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Sculptural-light-in-motion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Sculptural-light-in-motion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Advertising-Week-NY-Landing-page-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Advertising-Week-NY-Landing-page-1920x1080-1.png"
+    ]
+  ]
+}

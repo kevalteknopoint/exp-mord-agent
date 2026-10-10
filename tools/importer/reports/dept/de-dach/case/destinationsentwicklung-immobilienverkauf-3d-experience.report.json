@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/destinationsentwicklung-immobilienverkauf-3d-experience/",
+  "path": "dept/de-dach/case/destinationsentwicklung-immobilienverkauf-3d-experience",
+  "timestamp": "2026-10-09T11:34:35.851Z",
+  "title": "Destinations­­­ent­­wicklung, Immobilien­verkauf, 3D-Experience - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "image",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_screens-desktop_v2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_screens-desktop_v2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_Mobile_screens.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_Mobile_screens.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/yann-wanner-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/yann-wanner-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Featured-Image_DS.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Featured-Image_DS.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/DS_Case_Mockup_Slide_1920x1080_Mood_01-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Andermatt-Swiss-Alps_Keyvisual_1.jpg"
+    ]
+  ]
+}

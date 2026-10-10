@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-uki/case/maximising-data-european-rail-travel/",
   "path": "dept/en-uki/case/maximising-data-european-rail-travel",
-  "timestamp": "2026-10-08T15:14:36.644Z",
+  "timestamp": "2026-10-09T09:47:51.935Z",
   "title": "Maximising data usage in European rail travel - DEPT®",
   "template": "dept-case",
   "locale": "en-uki",
@@ -18,10 +18,7 @@
     "highlighted-cases",
     "next-case"
   ],
-  "fallback": [
-    "full-width-image",
-    "statement"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/04/eurail_1.jpg",
@@ -32,16 +29,16 @@
       "/content/dam/exp-mord-agent/dept/uploads/2022/07/Matt-Lacey.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2023/01/001-Heinz.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2023/01/001-Heinz.jpg"
+      "https://www.dept.global/wp-content/uploads/2021/03/BPD_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/BPD_1.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-signage.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-signage.jpg"
+      "https://www.dept.global/wp-content/uploads/2021/09/Image-Full-bleed-e1667315102794.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Image-Full-bleed-e1667315102794.jpg"
     ],
     [
-      "https://www.dept.global/wp-content/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg",
-      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Beats-eCommerce-Web-Design-Case-Study-Hero-Image-Mobile.jpg"
+      "https://www.dept.global/wp-content/uploads/2023/06/Beam-Header-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Beam-Header-Image.jpg"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2021/04/maxim-melnikov-7oh6dJVhurM-unsplash.jpg",

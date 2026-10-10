@@ -1,0 +1,73 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/designing-a-diverse-commerce-customer-experience/",
+  "path": "dept/en-in/case/designing-a-diverse-commerce-customer-experience",
+  "timestamp": "2026-10-09T15:43:02.840Z",
+  "title": "A diverse commerce customer experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-495800486-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-495800486-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/ann-summers-mobile-mockup-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/ann-summers-mobile-mockup-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-653942568-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-653942568-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-890295048-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-890295048-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/ann-summers-desktop-mockup-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/ann-summers-desktop-mockup-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-94-2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-94-2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/VDK-Read-More-VDK.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/VDK-Read-More-VDK.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Corny-Big-Case-Featured-Image-500x344-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Corny-Big-Case-Featured-Image-500x344-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1221887249-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1221887249-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-653942568-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-653942568-scaled.jpg"
+    ]
+  ]
+}

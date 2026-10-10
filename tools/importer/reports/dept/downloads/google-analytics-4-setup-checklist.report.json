@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/google-analytics-4-setup-checklist/",
+  "path": "dept/downloads/google-analytics-4-setup-checklist",
+  "timestamp": "2026-10-09T11:40:32.389Z",
+  "title": "Google Analytics 4 Setup Checklist - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/bubbles-closeup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/bubbles-closeup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/bubbles-closeup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/bubbles-closeup.png"
+    ]
+  ]
+}

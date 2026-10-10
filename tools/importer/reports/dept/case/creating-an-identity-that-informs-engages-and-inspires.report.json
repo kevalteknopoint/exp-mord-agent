@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/creating-an-identity-that-informs-engages-and-inspires/",
+  "path": "dept/case/creating-an-identity-that-informs-engages-and-inspires",
+  "timestamp": "2026-10-09T18:35:20.841Z",
+  "title": "Creating an identity that informs, engages, and inspires - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "information-with-two-content-cards",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Step-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Step-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Step-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Step-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Step-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Step-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Johanne-Bruun-Rasmussen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Johanne-Bruun-Rasmussen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Smileyscope1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Smileyscope1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Google-Play-1920x1080-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Google-Play-1920x1080-Header.png"
+    ]
+  ]
+}

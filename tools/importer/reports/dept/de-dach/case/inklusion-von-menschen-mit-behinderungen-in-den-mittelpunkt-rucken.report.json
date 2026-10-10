@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/inklusion-von-menschen-mit-behinderungen-in-den-mittelpunkt-rucken/",
+  "path": "dept/de-dach/case/inklusion-von-menschen-mit-behinderungen-in-den-mittelpunkt-rucken",
+  "timestamp": "2026-10-09T11:05:20.550Z",
+  "title": "Inklusion von Menschen mit Behinderungen in den Mittelpunkt rücken - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-Campaign-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-Campaign-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-campaign-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-campaign-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO_Campaign3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO_Campaign3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Kardex-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Kardex-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/ANNEMARIE-BOeRLIND-NATUCOLLAGEN-BOOST-Gesichtsfluid-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/ANNEMARIE-BOeRLIND-NATUCOLLAGEN-BOOST-Gesichtsfluid-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Oxxio-1-e1530628250257.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Oxxio-1-e1530628250257.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png"
+    ]
+  ]
+}

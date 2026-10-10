@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/navigating-e-commerce-platform-migration-strategy-challenges-and-approaches/",
+  "path": "dept/insight/navigating-e-commerce-platform-migration-strategy-challenges-and-approaches",
+  "timestamp": "2026-10-09T22:46:07.775Z",
+  "title": "Navigating e-commerce platform migration: strategy, challenges, and approaches - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/e-commerce-platform-migration-tips-lessons-learned.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/e-commerce-platform-migration-tips-lessons-learned.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/elina-andrus-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/elina-andrus-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Mach-Insight-page-1000x1200-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Mach-Insight-page-1000x1200-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/The-role-of-headless-CMS-in-your-global-expansion500x344.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/The-role-of-headless-CMS-in-your-global-expansion500x344.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/build-ecommerce-brand-noisy-world.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/build-ecommerce-brand-noisy-world.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/e-commerce-platform-migration-tips-lessons-learned.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/e-commerce-platform-migration-tips-lessons-learned.jpeg"
+    ]
+  ]
+}

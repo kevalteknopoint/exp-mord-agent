@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/commerce-future/",
+  "path": "dept/en-uki/event/commerce-future",
+  "timestamp": "2026-10-10T00:24:36.170Z",
+  "title": "Commerce of the Future: faster than culture - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-intro",
+    "event-info",
+    "event-content-v2",
+    "event-program-v2",
+    "event-people",
+    "custom-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Frame-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Frame-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Jack-new-hire-4x5-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Jack-new-hire-4x5-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Charlotte-Scorer.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Charlotte-Scorer.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Mark_Wright_optimized_800.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Mark_Wright_optimized_800.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/241101_ClaireDinhut_786_optimized_800.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/241101_ClaireDinhut_786_optimized_800.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/foot-locker-bus-in-paris-min.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/foot-locker-bus-in-paris-min.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/Pit-Viper-Shopify.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/Pit-Viper-Shopify.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/gen-z-woman.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/gen-z-woman.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Experience-path.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Experience-path.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-qc.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-qc.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/the-future-geo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/the-future-geo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/08/Frame-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/08/Frame-1-1.jpg"
+    ]
+  ]
+}

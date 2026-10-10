@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/a-crafted-motion-video-to-help-reach-new-traders/",
+  "path": "dept/en-uki/case/a-crafted-motion-video-to-help-reach-new-traders",
+  "timestamp": "2026-10-09T19:32:05.840Z",
+  "title": "A crafted motion video to help reach new traders - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/O2-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/O2-Image-Full-bleed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Barilla-Pesto-Week-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Barilla-Pesto-Week-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Smileyscope1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Smileyscope1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/magasin-case-visual-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/magasin-case-visual-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/O2-Image-Full-bleed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/O2-Image-Full-bleed.png"
+    ]
+  ]
+}

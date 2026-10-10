@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/lufthansa-group-ernennt-dept-als-digitalagentur/",
+  "path": "dept/de-dach/insight/lufthansa-group-ernennt-dept-als-digitalagentur",
+  "timestamp": "2026-10-09T12:15:54.334Z",
+  "title": "Die Lufthansa Group ernennt DEPT® als Digitalagentur für EMEA - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT%C2%AExLufthansa_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-xLufthansa_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/JagermeisterDEPT-NDH2.0-wLogo-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/JagermeisterDEPT-NDH2.0-wLogo-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-x-Shopify-orange-dress.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-x-Shopify-orange-dress.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DEPT%C2%AExLufthansa_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DEPT-xLufthansa_1920x1080.png"
+    ]
+  ]
+}

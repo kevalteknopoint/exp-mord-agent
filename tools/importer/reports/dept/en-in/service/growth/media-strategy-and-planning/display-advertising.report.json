@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/service/growth/media-strategy-and-planning/display-advertising/",
+  "path": "dept/en-in/service/growth/media-strategy-and-planning/display-advertising",
+  "timestamp": "2026-10-09T16:32:26.911Z",
+  "title": "Display advertising - DEPT®",
+  "template": "dept-service",
+  "locale": "en-in",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Media_-Display-Advertising-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Media_-Display-Advertising-1.png"
+    ]
+  ]
+}

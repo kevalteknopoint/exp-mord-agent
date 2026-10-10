@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/hamburg/",
+  "path": "dept/office/hamburg",
+  "timestamp": "2026-10-09T22:38:01.881Z",
+  "title": "Hamburg - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Hamburg-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Hamburg-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Hamburg-1-983x1024.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Hamburg-1-983x1024.png"
+    ]
+  ]
+}

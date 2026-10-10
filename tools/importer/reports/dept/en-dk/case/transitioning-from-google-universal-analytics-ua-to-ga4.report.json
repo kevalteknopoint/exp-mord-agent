@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/transitioning-from-google-universal-analytics-ua-to-ga4/",
+  "path": "dept/en-dk/case/transitioning-from-google-universal-analytics-ua-to-ga4",
+  "timestamp": "2026-10-09T13:30:29.336Z",
+  "title": "Transitioning from Google Universal Analytics (UA) to GA4 - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/JYSK-brand.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/JYSK-brand.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/JYSK-50.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/JYSK-50.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/JYSK-24.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/JYSK-24.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Picture-JYSK-GA4-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Picture-JYSK-GA4-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Oliver-Pedersen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Oliver-Pedersen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Netflix-Featured-image-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Netflix-Featured-image-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Skyteam-case-min-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Skyteam-case-min-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/jysk-lounge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/jysk-lounge.jpg"
+    ]
+  ]
+}

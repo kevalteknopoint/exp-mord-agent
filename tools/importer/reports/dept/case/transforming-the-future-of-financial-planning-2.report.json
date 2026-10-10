@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/transforming-the-future-of-financial-planning-2/",
+  "path": "dept/case/transforming-the-future-of-financial-planning-2",
+  "timestamp": "2026-10-09T11:08:22.439Z",
+  "title": "Featured work: eMoney mobile app design & development - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-160-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-160-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-161-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-161-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-161-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-161-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Rectangle-489-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Rectangle-489-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg"
+    ]
+  ]
+}

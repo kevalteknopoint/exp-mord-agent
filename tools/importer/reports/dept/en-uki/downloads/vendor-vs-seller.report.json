@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/downloads/vendor-vs-seller/",
+  "path": "dept/en-uki/downloads/vendor-vs-seller",
+  "timestamp": "2026-10-09T19:41:00.153Z",
+  "title": "Vendor vs. Seller models on Amazon - DEPT®",
+  "template": "dept-downloads",
+  "locale": "en-uki",
+  "components": [
+    "whitepaper-detail-panel"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Vendor-vs.-Seller-Landing-Page-950x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Vendor-vs.-Seller-Landing-Page-950x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Amazon-Vendor-vs.-Seller-Landing-Page-950x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Amazon-Vendor-vs.-Seller-Landing-Page-950x1080-1.jpg"
+    ]
+  ]
+}

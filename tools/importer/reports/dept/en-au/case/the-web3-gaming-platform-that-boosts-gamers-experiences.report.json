@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/the-web3-gaming-platform-that-boosts-gamers-experiences/",
+  "path": "dept/en-au/case/the-web3-gaming-platform-that-boosts-gamers-experiences",
+  "timestamp": "2026-10-09T12:35:07.032Z",
+  "title": "The Web3 gaming platform that boosts gamers’ experiences - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Merit-Gaming-02.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Merit-Gaming-02.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Merit-Gaming-4-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Merit-Gaming-4-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Merit-Gaming-10-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Merit-Gaming-10-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Jochem-van-Rossem-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Jochem-van-Rossem-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Pit-Viper-Glasses-still-creative.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/ehealth-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/ehealth-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Vizio-Insight-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Vizio-Insight-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Merit-Gaming-Thumbnail.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Merit-Gaming-Thumbnail.jpg"
+    ]
+  ]
+}

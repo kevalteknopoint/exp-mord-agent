@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/technology/tools-effectiveness-media-buying/",
+  "path": "dept/en-au/service/growth/technology/tools-effectiveness-media-buying",
+  "timestamp": "2026-10-09T14:28:13.039Z",
+  "title": "Monitor effectiveness of media buying - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Technology-Tools_-Monitor-Effectiveness-of-Media-Buying-320x200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Technology-Tools_-Monitor-Effectiveness-of-Media-Buying-320x200-1.png"
+    ]
+  ]
+}

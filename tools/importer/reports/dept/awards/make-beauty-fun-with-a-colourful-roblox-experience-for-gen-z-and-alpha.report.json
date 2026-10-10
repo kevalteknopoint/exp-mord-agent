@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/make-beauty-fun-with-a-colourful-roblox-experience-for-gen-z-and-alpha/",
+  "path": "dept/awards/make-beauty-fun-with-a-colourful-roblox-experience-for-gen-z-and-alpha",
+  "timestamp": "2026-10-09T10:27:26.340Z",
+  "title": "Make beauty fun - with a colourful Roblox Experience for Gen Z and Alpha - fundraising for LGBTQ+ communities - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "statement",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT%C2%AE-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Keyvisual-essence-Roblox-Game-DEPT--1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/cosnova_cases-collage_dept-4-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/cosnova_cases-collage_dept-4-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/11/Jan-Gutkuhn-DEPT%C2%AE.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/11/Jan-Gutkuhn-DEPT-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/cosnova_cases-collage_dept-4-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/cosnova_cases-collage_dept-4-1-min.jpg"
+    ]
+  ]
+}

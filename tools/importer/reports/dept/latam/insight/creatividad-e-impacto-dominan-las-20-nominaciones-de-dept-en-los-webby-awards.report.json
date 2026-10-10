@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/creatividad-e-impacto-dominan-las-20-nominaciones-de-dept-en-los-webby-awards/",
+  "path": "dept/latam/insight/creatividad-e-impacto-dominan-las-20-nominaciones-de-dept-en-los-webby-awards",
+  "timestamp": "2026-10-09T23:33:30.774Z",
+  "title": "Creatividad e impacto en los Webby Awards - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-shortlist.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-shortlist.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Captura-de-Pantalla-2022-06-16-a-las-13.38.31-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/anthem-awards-hand-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/anthem-awards-hand-logo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1164x655-2-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-shortlist.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-shortlist.webp"
+    ]
+  ]
+}

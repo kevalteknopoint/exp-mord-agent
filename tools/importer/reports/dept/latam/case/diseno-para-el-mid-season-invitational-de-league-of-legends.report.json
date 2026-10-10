@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/diseno-para-el-mid-season-invitational-de-league-of-legends/",
+  "path": "dept/latam/case/diseno-para-el-mid-season-invitational-de-league-of-legends",
+  "timestamp": "2026-10-09T21:35:54.834Z",
+  "title": "Diseño para el Mid-Season Invitational de League of Legends - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/MSI24-BRAND-EXPRESSION-1-BLACK-16x9-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/MSI24-BRAND-EXPRESSION-1-BLACK-16x9-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/MSI-Key-Visual-16x9-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/MSI-Key-Visual-16x9-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Aegon-16-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Aegon-16-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Frame-58.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Frame-58.jpg"
+    ]
+  ]
+}

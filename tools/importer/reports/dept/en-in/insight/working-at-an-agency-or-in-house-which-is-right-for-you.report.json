@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/working-at-an-agency-or-in-house-which-is-right-for-you/",
+  "path": "dept/en-in/insight/working-at-an-agency-or-in-house-which-is-right-for-you",
+  "timestamp": "2026-10-09T16:07:29.140Z",
+  "title": "Working at an agency or in-house - Which is right for you? - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "panel-with-image-and-rich-text",
+    "wrapper",
+    "panel-with-image-and-rich-text",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220113BlogFI_AgencyInHouse.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220113BlogFI_AgencyInHouse.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Phoebe-Martell-Crawford-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Phoebe-Martell-Crawford-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/laura-rodnitzky-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/laura-rodnitzky-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/julie-honor.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/julie-honor.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Ellen-Corrigan-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Ellen-Corrigan-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Phoebe-Martell-Crawford.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Phoebe-Martell-Crawford.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20220113BlogFI_AgencyInHouse.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20220113BlogFI_AgencyInHouse.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/celebrating-confidence-and-culture-with-savage-x-fenty-content/",
+  "path": "dept/en-au/case/celebrating-confidence-and-culture-with-savage-x-fenty-content",
+  "timestamp": "2026-10-09T12:39:59.145Z",
+  "title": "Celebrating confidence and culture with Savage X Fenty content - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Jets-Bot-Builder-Home.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Jets-Bot-Builder-Home.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/savage-fenty.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/savage-fenty.jpg"
+    ]
+  ]
+}

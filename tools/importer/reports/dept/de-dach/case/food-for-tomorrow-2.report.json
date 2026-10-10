@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/food-for-tomorrow-2/",
+  "path": "dept/de-dach/case/food-for-tomorrow-2",
+  "timestamp": "2026-10-09T11:00:06.140Z",
+  "title": "Food for Tomorrow - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "video",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/avina-presskit-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/avina-presskit-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/avina-presskit-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/avina-presskit-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1190632451-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1190632451-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/avina-presskit-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/avina-presskit-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Valentin-Baumann_HV-Dept-e1627480506586.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Valentin-Baumann_HV-Dept-e1627480506586.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/190809-swissmilk-rezept-datenbank_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/190809-swissmilk-rezept-datenbank_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Bonmarche_header-1-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Bonmarche_header-1-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/family-yoga.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/family-yoga.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1172325528-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1172325528-scaled.jpg"
+    ]
+  ]
+}

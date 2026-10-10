@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/netflix-playground/",
+  "path": "dept/case/netflix-playground",
+  "timestamp": "2026-10-09T18:50:41.938Z",
+  "title": "Featured work: Netflix Playground Visual Identity - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "text",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design-noodles-moves.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design-noodles-moves.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design-noodles-with-hats.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design-noodles-with-hats.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/netflix-playground-billboard-mockup.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/netflix-playground-billboard-mockup.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/cristine-enero-Hh5SE7THZFI-unsplash-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Netflix-playground-visual-design.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Netflix-playground-visual-design.webp"
+    ]
+  ]
+}

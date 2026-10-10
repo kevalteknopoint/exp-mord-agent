@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/how-to-create-an-integrated-search-strategy/",
+  "path": "dept/en-dk/insight/how-to-create-an-integrated-search-strategy",
+  "timestamp": "2026-10-09T15:32:36.740Z",
+  "title": "How to create an integrated search strategy - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/How-to-create-an-integrated-search-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/How-to-create-an-integrated-search-strategy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Arthur-Lescarret-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Arthur-Lescarret-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/How-to-create-an-integrated-search-strategy-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/How-to-create-an-integrated-search-strategy-2.jpg"
+    ]
+  ]
+}

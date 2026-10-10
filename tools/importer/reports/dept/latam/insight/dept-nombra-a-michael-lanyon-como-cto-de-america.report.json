@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/insight/dept-nombra-a-michael-lanyon-como-cto-de-america/",
+  "path": "dept/latam/insight/dept-nombra-a-michael-lanyon-como-cto-de-america",
+  "timestamp": "2026-10-09T23:30:23.561Z",
+  "title": "DEPT® nombra a Michael Lanyon como CTO de América - DEPT®",
+  "template": "dept-insight",
+  "locale": "latam",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "case-quote",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/New-Hire-Michael%E2%80%A8Lanyon-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/New-Hire-Michael-Lanyon-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Gartner-Magic-Quadrant-2026-Insight-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/AI-Impact-Gap_Featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/AI-Impact-Gap_Featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/B2ACustomer-journey-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/B2ACustomer-journey-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/New-Hire-Michael%E2%80%A8Lanyon-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/New-Hire-Michael-Lanyon-1920x1080-1.png"
+    ]
+  ]
+}

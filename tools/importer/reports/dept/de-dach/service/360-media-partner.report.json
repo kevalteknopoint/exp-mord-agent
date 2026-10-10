@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/360-media-partner/",
+  "path": "dept/de-dach/service/360-media-partner",
+  "timestamp": "2026-10-09T22:53:17.486Z",
+  "title": "Mediaagentur Services - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "service-post-header",
+    "rich-text",
+    "panel-services",
+    "js-media-parallax",
+    "panel-work",
+    "panel-partners",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/media-strategy-planning-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/media-strategy-planning-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/ADa-Home-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/ADa-Home-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/regraded-AUDI-Amsterdam-%C2%A9rachelecclestone-093827-file1938-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/regraded-AUDI-Amsterdam--rachelecclestone-093827-file1938-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Elodie-Kemble-e1756290907397.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Elodie-Kemble-e1756290907397.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/media-strategy-planning-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/media-strategy-planning-concept.jpg"
+    ]
+  ]
+}

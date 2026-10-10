@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/the-sweet-chocolate-taste-of-nostalgia/",
+  "path": "dept/case/the-sweet-chocolate-taste-of-nostalgia",
+  "timestamp": "2026-10-09T11:05:43.662Z",
+  "title": "Featured work: Chocomel - The sweet chocolate taste of nostalgia - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Chocomel-x-DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Chocomel-x-DEPT-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ramin-Bahari.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ramin-Bahari.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/chocomel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/chocomel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET-Project-Sundae-Featured-Profile.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET-Project-Sundae-Featured-Profile.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-toucan.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-toucan.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Chocomel-x-DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Chocomel-x-DEPT-.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/lotus-biscoff-launches-new-global-campaign-and-introduces-a-tasty-pov/",
+  "path": "dept/en-dk/insight/lotus-biscoff-launches-new-global-campaign-and-introduces-a-tasty-pov",
+  "timestamp": "2026-10-09T14:51:38.617Z",
+  "title": "Lotus Biscoff launches new global campaign - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Biscoff-asset-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Biscoff-asset-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Biscoff-asset-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Biscoff-asset-1920x1080-1.jpg"
+    ]
+  ]
+}

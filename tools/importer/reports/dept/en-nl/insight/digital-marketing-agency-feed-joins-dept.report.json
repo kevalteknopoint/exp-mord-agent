@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-nl/insight/digital-marketing-agency-feed-joins-dept/",
   "path": "dept/en-nl/insight/digital-marketing-agency-feed-joins-dept",
-  "timestamp": "2026-10-08T14:59:47.274Z",
+  "timestamp": "2026-10-09T09:56:00.535Z",
   "title": "Digital marketing agency Feed joins Dept - DEPT®",
   "template": "dept-insight",
   "locale": "en-nl",
@@ -16,10 +16,7 @@
     "highlighted-item-listing",
     "get-in-touch"
   ],
-  "fallback": [
-    "jumbotron",
-    "image"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2021/12/DeptxFeed-01.png",
@@ -28,10 +25,6 @@
     [
       "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
       "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
-    ],
-    [
-      "https://www.dept.global/wp-content/uploads/2021/04/Media_-Feed-Services.png",
-      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Media_-Feed-Services.png"
     ],
     [
       "https://www.dept.global/wp-content/uploads/2021/12/DeptxFeed-01.png",

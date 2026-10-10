@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/a-mobile-first-website-for-a-buzzworthy-sneaker/",
+  "path": "dept/en-au/case/a-mobile-first-website-for-a-buzzworthy-sneaker",
+  "timestamp": "2026-10-09T11:52:58.674Z",
+  "title": "A mobile-first website for a buzzworthy sneaker - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "panel-two-media",
+    "call-to-action",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Comp-002-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Comp-002-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/White-Zeeman.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/White-Zeeman.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Black-Zeeman.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Black-Zeeman.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Visual-Light-103-3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Visual-Light-103-3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Katy-White-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Katy-White-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/petsafe-cover-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/petsafe-cover-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Griffin-funding-mortgage-bankers-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Griffin-funding-mortgage-bankers-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/images_3bdeb23789256dc9275f4db356204558.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/do-it-in-italian-growing-local-sales-for-a-global-brand/",
+  "path": "dept/en-au/case/do-it-in-italian-growing-local-sales-for-a-global-brand",
+  "timestamp": "2026-10-09T12:55:57.339Z",
+  "title": "Do it in Italian: Growing local sales for a global brand  - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/bosch-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/bosch-image-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/bosch-image-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/bosch-image-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/bosch-image-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/bosch-image-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/bosch-image-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/bosch-image-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/valentin-linkesch.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/valentin-linkesch.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/HomeTeam_Featured_169.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/HomeTeam_Featured_169.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Le-Mans_Asset3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Le-Mans_Asset3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/thumbnail-ricola@2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/thumbnail-ricola-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/bosch-image-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/bosch-image-1.jpeg"
+    ]
+  ]
+}

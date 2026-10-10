@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/skoda-brand-lift-mit-videomarketing/",
+  "path": "dept/de-dach/case/skoda-brand-lift-mit-videomarketing",
+  "timestamp": "2026-10-09T11:20:54.975Z",
+  "title": "Škoda Brand Lift mit Videomarketing - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "stats-panel",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/enyaq-opener-732d19.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/enyaq-opener-732d19.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/skoda-kodiaq-dynamisch-1520.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/skoda-kodiaq-dynamisch-1520.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/team-se_case_image2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/team-se_case_image2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Lehner-Versand_Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Lehner-Versand_Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/eBay-Comic-Con-Website-Image-4-1920x1080-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1269732224-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1269732224-1-scaled.jpg"
+    ]
+  ]
+}

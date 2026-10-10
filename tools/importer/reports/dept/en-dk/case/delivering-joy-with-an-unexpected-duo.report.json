@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/case/delivering-joy-with-an-unexpected-duo/",
+  "path": "dept/en-dk/case/delivering-joy-with-an-unexpected-duo",
+  "timestamp": "2026-10-09T14:15:02.983Z",
+  "title": "Delivering joy with an unexpected duo - DEPT®",
+  "template": "dept-case",
+  "locale": "en-dk",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "stats-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/JET-Christina-Latto-Staircase.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/JET-Christina-Latto-Staircase.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Just-Eat-christina-aguilera-latto.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Just-Eat-christina-aguilera-latto.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Just-Eat-Christina-Aguilera-Latto-orange.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Just-Eat-Christina-Aguilera-Latto-orange.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/JET-Christina-Latto-dinnertable.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/JET-Christina-Latto-dinnertable.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/edwin-andrade-4V1dC_eoCwg-unsplash-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/500-x-300-_.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/500-x-300-_.jpg"
+    ]
+  ]
+}

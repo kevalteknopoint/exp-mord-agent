@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/the-dangers-of-non-secure-http/",
+  "path": "dept/en-dk/insight/the-dangers-of-non-secure-http",
+  "timestamp": "2026-10-09T15:09:18.239Z",
+  "title": "The dangers of non-secure HTTP - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Documentnaam_dept_Amsterdam_marketing_JRF_9-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Documentnaam_dept_Amsterdam_marketing_JRF_9-1200x750-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lasse-Rasmussen-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lasse-Rasmussen-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Dept-42-1-1200x675-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Dept-42-1-1200x675-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/accessories-brands-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/accessories-brands-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Ronan-Lowry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Ronan-Lowry.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Documentnaam_dept_Amsterdam_marketing_JRF_9-1200x750-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Documentnaam_dept_Amsterdam_marketing_JRF_9-1200x750-c.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/creando-una-campana-de-marketing-directa-al-consumidor/",
+  "path": "dept/case/creando-una-campana-de-marketing-directa-al-consumidor",
+  "timestamp": "2026-10-09T10:31:04.339Z",
+  "title": "Creando una campaña de marketing directa al consumidor - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing_3-.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing_3-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Lauren_Downer_DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Lauren_Downer_DEPT-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Header-1440x810-c-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Header-1440x810-c-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ]
+  ]
+}

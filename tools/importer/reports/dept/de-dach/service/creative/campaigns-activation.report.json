@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/creative/campaigns-activation/",
+  "path": "dept/de-dach/service/creative/campaigns-activation",
+  "timestamp": "2026-10-09T12:06:40.056Z",
+  "title": "Campaigns & Activation - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Julien-Kelch.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Julien-Kelch.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/DEPT_19Dec-008-1200x750-c-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/DEPT_19Dec-008-1200x750-c-1.jpg"
+    ]
+  ]
+}

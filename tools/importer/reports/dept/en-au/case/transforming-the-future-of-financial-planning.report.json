@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/transforming-the-future-of-financial-planning/",
+  "path": "dept/en-au/case/transforming-the-future-of-financial-planning",
+  "timestamp": "2026-10-09T12:37:04.140Z",
+  "title": "Transforming the future of financial planning - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-160-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-160-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-161-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-161-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Visual-Light-161-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Visual-Light-161-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Dave_Witting.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Dave_Witting.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/sustainable-farming-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/sustainable-farming-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/boy-in-stands.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/boy-in-stands.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/iStock-1306185369-1440x810-c.jpeg"
+    ]
+  ]
+}

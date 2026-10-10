@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/all-for-none-dept-dublin-joins-ad-net-zero/",
+  "path": "dept/en-uki/insight/all-for-none-dept-dublin-joins-ad-net-zero",
+  "timestamp": "2026-10-09T18:49:13.840Z",
+  "title": "All for none: DEPT® Dublin joins Ad Net Zero - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/DEPT%C2%AE-joins-Ad-Net-Zero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/DEPT--joins-Ad-Net-Zero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Brophy-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Brophy-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Brophy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Brophy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/DEPT%C2%AE-joins-Ad-Net-Zero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/DEPT--joins-Ad-Net-Zero.jpg"
+    ]
+  ]
+}

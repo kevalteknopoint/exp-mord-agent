@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/inspiring-travel-with-a-eurovisionary-campaign/",
+  "path": "dept/awards/inspiring-travel-with-a-eurovisionary-campaign",
+  "timestamp": "2026-10-09T10:22:33.451Z",
+  "title": "Inspiring travel with a Eurovisionary campaign - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/53704836284_2562edbe2b_k.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/53704836284_2562edbe2b_k.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/Social-Lead-Image-min-1-2-3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/Social-Lead-Image-min-1-2-3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/53704836244_e10a1d2e1c_k.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/53704836244_e10a1d2e1c_k.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/53704836284_2562edbe2b_k.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/53704836284_2562edbe2b_k.jpg"
+    ]
+  ]
+}

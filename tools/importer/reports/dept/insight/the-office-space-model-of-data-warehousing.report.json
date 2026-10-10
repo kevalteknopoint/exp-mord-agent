@@ -1,0 +1,65 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-office-space-model-of-data-warehousing/",
+  "path": "dept/insight/the-office-space-model-of-data-warehousing",
+  "timestamp": "2026-10-09T22:03:24.246Z",
+  "title": "The “Office Space” model of data warehousing - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "cta-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-in-spreadsheet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-in-spreadsheet.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/david-grover-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/david-grover-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/09/layers-common-successful-data-warehouse-clear.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/09/layers-common-successful-data-warehouse-clear.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/09/home-renovation-model.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/09/home-renovation-model.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/09/made-to-order-model.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/09/made-to-order-model.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/09/office-space-model.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/09/office-space-model.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/data-in-spreadsheet.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/data-in-spreadsheet.jpg"
+    ]
+  ]
+}

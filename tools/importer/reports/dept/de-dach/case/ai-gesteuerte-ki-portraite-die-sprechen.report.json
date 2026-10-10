@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/ai-gesteuerte-ki-portraite-die-sprechen/",
+  "path": "dept/de-dach/case/ai-gesteuerte-ki-portraite-die-sprechen",
+  "timestamp": "2026-10-09T11:24:03.241Z",
+  "title": "Von Rembrandt bis Real-Time: Das KI-gesteuerte Porträt, das sieht und spricht - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/TP-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/TP-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/TP-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/TP-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/TP3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/TP3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/TP-4.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/TP-4.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/1770909050-coop_bosw_keyvisual.jpg.avif",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/1770909050-coop_bosw_keyvisual.jpg.avif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/cx-design/conversational-voice/",
+  "path": "dept/en-dk/service/cx-design/conversational-voice",
+  "timestamp": "2026-10-09T14:17:15.066Z",
+  "title": "Conversational & Voice - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Conversational-Voice-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Conversational-Voice-1.png"
+    ]
+  ]
+}

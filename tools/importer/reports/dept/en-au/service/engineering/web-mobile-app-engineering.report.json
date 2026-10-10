@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/engineering/web-mobile-app-engineering/",
+  "path": "dept/en-au/service/engineering/web-mobile-app-engineering",
+  "timestamp": "2026-10-09T18:41:20.049Z",
+  "title": "Web & mobile app development | Software engineering agency - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "partner-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-engineering.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-engineering.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/product-development-processes-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/product-development-processes-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/What-is-SFRA_-1000x1200-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/What-is-SFRA_-1000x1200-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/web-mobile-eng.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/web-mobile-eng.jpg"
+    ]
+  ]
+}

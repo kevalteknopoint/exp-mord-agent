@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/unboxing-amazon-ideas-technology-innovation/",
+  "path": "dept/en-in/insight/unboxing-amazon-ideas-technology-innovation",
+  "timestamp": "2026-10-09T16:57:52.168Z",
+  "title": "Unboxing Amazon ideas, technology & innovation - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/IMG_20221027_160155.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/IMG_20221027_160155.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sebastian-gilles-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sebastian-gilles-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/1-1920x1080.jpg.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/1-1920x1080.jpg.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/DEPTxKOTAK_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPT%C2%AEAGENTStudio-PR-image-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPT-AGENTStudio-PR-image-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/sebastian-gilles.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/sebastian-gilles.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/IMG_20221027_160155.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/IMG_20221027_160155.jpeg"
+    ]
+  ]
+}

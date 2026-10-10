@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/skalierung-des-erfolgs-von-hotels-mit-google-search-ads/",
+  "path": "dept/de-dach/case/skalierung-des-erfolgs-von-hotels-mit-google-search-ads",
+  "timestamp": "2026-10-09T11:20:46.939Z",
+  "title": "Skalierung des Erfolgs von Hotels mit Google Search Ads - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-google-360.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-google-360.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/b-b-hotels-gmp.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/b-b-hotels-gmp.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-ad-strat.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-ad-strat.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-search-strat2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-search-strat2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/breno-assis-r3WAWU5Fi5Q-unsplash-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/breno-assis-r3WAWU5Fi5Q-unsplash-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/BB-Hotels-search-strat2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/BB-Hotels-search-strat2.jpg"
+    ]
+  ]
+}

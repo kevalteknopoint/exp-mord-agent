@@ -1,0 +1,68 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/dept-shoptalk-europe/",
+  "path": "dept/en-uki/event/dept-shoptalk-europe",
+  "timestamp": "2026-10-09T19:47:19.260Z",
+  "title": "Join us at Shoptalk Europe - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "event-people",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/SHOPTALK-EU-2026-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/SHOPTALK-EU-2026-Website-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Jack-Williams-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Jack-Williams-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Tim-de-Kamper-Dept-edited.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Tim-de-Kamper-Dept-edited.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Lucas-Nutbey-director-of-strategy-bij-DEPT%C2%AE-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Lucas-Nutbey-director-of-strategy-bij-DEPT--.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/Naomi-de-Vries-1-edited-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/Naomi-de-Vries-1-edited-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Nathan-Coppens-e1740738400934.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/06/jonsson-product-photography2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/06/jonsson-product-photography2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Agentic-engineering-concept-2-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/SHOPTALK-EU-2026-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/SHOPTALK-EU-2026-Website-1920x1080-1.png"
+    ]
+  ]
+}

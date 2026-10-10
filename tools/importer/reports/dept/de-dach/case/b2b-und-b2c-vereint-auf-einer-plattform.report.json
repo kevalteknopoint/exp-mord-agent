@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/b2b-und-b2c-vereint-auf-einer-plattform/",
+  "path": "dept/de-dach/case/b2b-und-b2c-vereint-auf-einer-plattform",
+  "timestamp": "2026-10-09T11:25:38.263Z",
+  "title": "B2B und B2C vereint auf einer Plattform - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/DEPT_Agentur_%C2%A9PascalBuenning_Lingoda_04_WrongTattoo_TattooStudio_1001_V2-2-scaled.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/DEPT_Agentur_-PascalBuenning_Lingoda_04_WrongTattoo_TattooStudio_1001_V2-2-scaled.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/Kenna-selfie-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/Kenna-selfie-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Allianz-half-width-2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Allianz-half-width-2-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/a-new-sitecore-platform-for-the-leaders-in-sustainable-tech/",
+  "path": "dept/en-uki/case/a-new-sitecore-platform-for-the-leaders-in-sustainable-tech",
+  "timestamp": "2026-10-09T19:37:45.440Z",
+  "title": "A site rebuild for the leaders in eco tech - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Desktop-Angle-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Desktop-Angle-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Split.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Split.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Mobile-x-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Mobile-x-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Boca-Keto-Beach--scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Boca-Keto-Beach--scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/ROAD-DAD-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/ROAD-DAD-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Image-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Image-Full-bleed-1.png"
+    ]
+  ]
+}

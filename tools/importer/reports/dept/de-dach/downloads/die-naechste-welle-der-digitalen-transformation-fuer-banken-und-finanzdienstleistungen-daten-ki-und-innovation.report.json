@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/die-naechste-welle-der-digitalen-transformation-fuer-banken-und-finanzdienstleistungen-daten-ki-und-innovation/",
+  "path": "dept/de-dach/downloads/die-naechste-welle-der-digitalen-transformation-fuer-banken-und-finanzdienstleistungen-daten-ki-und-innovation",
+  "timestamp": "2026-10-09T22:38:11.939Z",
+  "title": "Die nächste Welle der digitalen Transformation für Banken und Finanzdienstleistungen: Daten, KI und Innovation - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "trends-floating-download",
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/bfsi-data-ai-innovation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/bfsi-data-ai-innovation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/next-wave-digital-transformation-BFSI-1024x555.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/next-wave-digital-transformation-BFSI-1024x555.jpg"
+    ]
+  ]
+}

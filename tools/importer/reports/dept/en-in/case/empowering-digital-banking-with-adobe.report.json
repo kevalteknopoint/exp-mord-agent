@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/empowering-digital-banking-with-adobe/",
+  "path": "dept/en-in/case/empowering-digital-banking-with-adobe",
+  "timestamp": "2026-10-09T15:48:06.939Z",
+  "title": "Digital card launch with AEM upgrade and migration to AMS cloud",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/IDFC-First-Bank-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/IDFC-First-Bank-Case-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/Headshot-Himanshu-2-1-e1776691034628.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Vizio-Insight-500x300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Vizio-Insight-500x300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Justdiggit-header-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Justdiggit-header-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/key-bank.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/key-bank.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/IDFC-First-Bank-Case-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/IDFC-First-Bank-Case-1.png"
+    ]
+  ]
+}

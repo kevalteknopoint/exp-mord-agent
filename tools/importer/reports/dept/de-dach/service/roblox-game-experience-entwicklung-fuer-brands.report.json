@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/roblox-game-experience-entwicklung-fuer-brands/",
+  "path": "dept/de-dach/service/roblox-game-experience-entwicklung-fuer-brands",
+  "timestamp": "2026-10-09T11:28:12.720Z",
+  "title": "Roblox Game-Experience-Entwicklung für Brands - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/David-Pajung-Dept-e1652255398314.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/David-Pajung-Dept-e1652255398314.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

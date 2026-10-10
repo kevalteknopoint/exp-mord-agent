@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/prepare-to-pioneer-interest/",
+  "path": "dept/en-uki/event/prepare-to-pioneer-interest",
+  "timestamp": "2026-10-09T18:31:38.535Z",
+  "title": "Event: Prepare to Pioneer - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Website-landing-page-1440-x-588-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Website-landing-page-1440-x-588-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/rory-cellan-jones-headshot-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/rory-cellan-jones-headshot-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/alex-allcott-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/alex-allcott-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/cassie-hall-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/cassie-hall-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Christoph-Lieflander-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Christoph-Lieflander-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Alice-Brine-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Alice-Brine-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/dimi-sf.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/dimi-sf.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Untitled-design-5-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Untitled-design-5-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Untitled-design-6-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Untitled-design-6-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/jeff-bowerman-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/jeff-bowerman-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Website-landing-page-1440-x-588-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Website-landing-page-1440-x-588-min.png"
+    ]
+  ]
+}

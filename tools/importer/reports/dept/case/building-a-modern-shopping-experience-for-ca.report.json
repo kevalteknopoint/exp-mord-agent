@@ -1,0 +1,92 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/building-a-modern-shopping-experience-for-ca/",
+  "path": "dept/case/building-a-modern-shopping-experience-for-ca",
+  "timestamp": "2026-10-09T10:14:55.740Z",
+  "title": "Building a modern shopping experience for C&A - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/woman-cA.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/woman-cA.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-02-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-02-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/group-in-ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/group-in-ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-06-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-06-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-07.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-07.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-08-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-08-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-09.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-09.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/05-verena-sandbote-e1627480031616.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/05-verena-sandbote-e1627480031616.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1313751774-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1313751774-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/HM_Virtual_Showroom_featured-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/HM_Virtual_Showroom_featured-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

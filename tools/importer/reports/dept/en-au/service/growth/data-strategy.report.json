@@ -2,7 +2,7 @@
   "status": "success",
   "url": "https://www.dept.global/en-au/service/growth/data-strategy/",
   "path": "dept/en-au/service/growth/data-strategy",
-  "timestamp": "2026-10-08T16:16:47.720Z",
+  "timestamp": "2026-10-09T09:47:10.040Z",
   "title": "Data consultancy services | Strategy, integration, transformation | - DEPT®",
   "template": "dept-service",
   "locale": "en-au",
@@ -13,16 +13,9 @@
     "text-block-hero",
     "panel-with-cards",
     "highlighted-item-listing",
-    "get-in-touch",
-    "footer-top"
+    "get-in-touch"
   ],
-  "fallback": [
-    "rich-text",
-    "two-column-items-list",
-    "text-block-hero",
-    "panel-with-cards",
-    "footer-top"
-  ],
+  "fallback": [],
   "images": [
     [
       "https://www.dept.global/wp-content/uploads/2023/01/gdpr-compliance-ai-ml-models.jpg",

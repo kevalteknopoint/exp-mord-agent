@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/how-to-talk-to-white-kids-about-racism/",
+  "path": "dept/case/how-to-talk-to-white-kids-about-racism",
+  "timestamp": "2026-10-09T10:18:58.051Z",
+  "title": "How to Talk to White Kids About Racism - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "quote",
+    "image",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HTWKR-case-03.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HTWKR-case-03.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HTWKR-case-04.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HTWKR-case-04.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/HTWKR-case-05.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/HTWKR-case-05.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/anders-jessen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/anders-jessen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Fingerspelling-01.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Fingerspelling-01.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Smileyscope1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Smileyscope1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2019/12/sesame-street-ar-app-children-phone.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2019/12/sesame-street-ar-app-children-phone.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HM_htracism.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HM_htracism.png"
+    ]
+  ]
+}

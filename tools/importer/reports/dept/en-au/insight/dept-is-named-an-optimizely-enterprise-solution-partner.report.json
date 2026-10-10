@@ -1,0 +1,34 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-is-named-an-optimizely-enterprise-solution-partner/",
+  "path": "dept/en-au/insight/dept-is-named-an-optimizely-enterprise-solution-partner",
+  "timestamp": "2026-10-09T13:23:07.835Z",
+  "title": "DEPT® is named an Optimizely Enterprise Solution Partner - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/opti.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/opti.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Mellissa-Flowerdew-Clarke-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Brian-Robinson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Brian-Robinson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/opti.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/opti.jpg"
+    ]
+  ]
+}

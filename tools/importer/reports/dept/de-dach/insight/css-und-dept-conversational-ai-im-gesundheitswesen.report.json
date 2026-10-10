@@ -1,0 +1,32 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/css-und-dept-conversational-ai-im-gesundheitswesen/",
+  "path": "dept/de-dach/insight/css-und-dept-conversational-ai-im-gesundheitswesen",
+  "timestamp": "2026-10-09T11:18:53.148Z",
+  "title": "CSS und DEPT® setzen neue Maßstäbe für Conversational AI im Gesundheitswesen - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "case-quote",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPTxCSS_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPTxCSS_Logo_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DEPTxCSS_Logo_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DEPTxCSS_Logo_1920x1080.png"
+    ]
+  ]
+}

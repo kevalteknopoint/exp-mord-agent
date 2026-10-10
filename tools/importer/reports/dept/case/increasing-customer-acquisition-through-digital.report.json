@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/increasing-customer-acquisition-through-digital/",
+  "path": "dept/case/increasing-customer-acquisition-through-digital",
+  "timestamp": "2026-10-09T10:24:00.198Z",
+  "title": "Increasing customer acquisition through digital - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "stats-panel",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "panel-with-rich-text",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20210504_Stills_3691_1_720x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20210504_Stills_3691_1_720x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20210310_DSC1007_1_1296x.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20210310_DSC1007_1_1296x.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/lou-amodeo.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/lou-amodeo.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Bicycle-playing-cards-e-commerce-website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/roblox-1920x1080-v2-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/roblox-1920x1080-v2-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/eye-bobs.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/eye-bobs.jpg"
+    ]
+  ]
+}

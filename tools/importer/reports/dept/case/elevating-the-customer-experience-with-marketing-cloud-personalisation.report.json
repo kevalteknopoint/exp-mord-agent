@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/elevating-the-customer-experience-with-marketing-cloud-personalisation/",
+  "path": "dept/case/elevating-the-customer-experience-with-marketing-cloud-personalisation",
+  "timestamp": "2026-10-09T10:52:39.246Z",
+  "title": "Featured work: Audley Travel cross-channel marketing - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Audley-3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Audley-3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Audley-city-view.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Audley-city-view.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Audley.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Audley.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Alexander-Van-Rompuy-.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Alexander-Van-Rompuy-.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Screenshot-2024-01-09-at-11.07.19.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Screenshot-2024-01-09-at-11.07.19.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Audley-city-view.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Audley-city-view.png"
+    ]
+  ]
+}

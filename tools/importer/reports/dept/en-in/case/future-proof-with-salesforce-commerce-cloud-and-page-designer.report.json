@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/future-proof-with-salesforce-commerce-cloud-and-page-designer/",
+  "path": "dept/en-in/case/future-proof-with-salesforce-commerce-cloud-and-page-designer",
+  "timestamp": "2026-10-09T15:54:17.940Z",
+  "title": "Strolling into new ground - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "points-table",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/download-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/download-8.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Bugaboo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Bugaboo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/download-9.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/download-9.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Grid-scaled-3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Grid-scaled-3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Birla-Opus_Featured_16_9.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Birla-Opus_Featured_16_9.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/download-8.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/download-8.jpg"
+    ]
+  ]
+}

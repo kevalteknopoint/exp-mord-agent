@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/turning-nothing-to-wear-into-something-to-love/",
+  "path": "dept/en-au/case/turning-nothing-to-wear-into-something-to-love",
+  "timestamp": "2026-10-09T12:37:31.660Z",
+  "title": "Featured work: Turning nothing to wear into something with eBay UK | DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/eBay-fridge-magnets.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/eBay-fridge-magnets.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Ebay4.jpg.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Ebay4.jpg.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Smileyscope1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Smileyscope1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/eBay-fridge.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/eBay-fridge.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/wie-ki-die-datenerfassung-fuer-die-krebsforschung-revolutioniert/",
+  "path": "dept/de-dach/case/wie-ki-die-datenerfassung-fuer-die-krebsforschung-revolutioniert",
+  "timestamp": "2026-10-09T11:27:21.339Z",
+  "title": "Wie KI die Datenerfassung für die Krebsforschung revolutioniert - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/2-DEPT-Krebsliga-AI-Data-Extraction-Opening-Visual.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/2-DEPT-Krebsliga-AI-Data-Extraction-Opening-Visual.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/3-Image.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/3-Image.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/4-DEPT-Krebsliga-AI-Data-Extraction-Tool-C.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/4-DEPT-Krebsliga-AI-Data-Extraction-Tool-C.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/4-DEPT-Krebsliga-AI-Data-Extraction-Tool-A.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/4-DEPT-Krebsliga-AI-Data-Extraction-Tool-A.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/4-DEPT-Krebsliga-AI-Data-Extraction-Tool-B.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/4-DEPT-Krebsliga-AI-Data-Extraction-Tool-B.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/5-DEPT-Krebsliga-AI-Data-Extraction-Decision-Tree.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/5-DEPT-Krebsliga-AI-Data-Extraction-Decision-Tree.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/6-DEPT-Krebsliga-AI-Data-Extraction-Closing-Visual.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/6-DEPT-Krebsliga-AI-Data-Extraction-Closing-Visual.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/07.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/07.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/1-DEPT-Krebsliga-AI-Data-Case-Logo.png"
+    ]
+  ]
+}

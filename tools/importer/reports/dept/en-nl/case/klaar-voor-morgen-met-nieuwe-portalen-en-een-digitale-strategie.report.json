@@ -1,0 +1,69 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/klaar-voor-morgen-met-nieuwe-portalen-en-een-digitale-strategie/",
+  "path": "dept/en-nl/case/klaar-voor-morgen-met-nieuwe-portalen-en-een-digitale-strategie",
+  "timestamp": "2026-10-09T18:27:13.348Z",
+  "title": "Klaar voor morgen met nieuwe portalen en een digitale strategie - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "image",
+    "intro-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-cards",
+    "panel-two-media",
+    "panel-with-rich-text",
+    "image",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Maandag02.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Maandag02.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Maandag04.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Maandag04.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Maandag08.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Maandag08.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Maandag10.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Maandag10.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Maandag-12A.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Maandag-12A.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Maandag-12B.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Maandag-12B.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Nick-collage-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Nick-collage-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Maandag02-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Maandag02-1024x576.png"
+    ]
+  ]
+}

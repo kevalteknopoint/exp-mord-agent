@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/a-scalable-marketing-automation-solution-to-increase-margin-and-brand-loyalty/",
+  "path": "dept/case/a-scalable-marketing-automation-solution-to-increase-margin-and-brand-loyalty",
+  "timestamp": "2026-10-09T10:45:35.141Z",
+  "title": "Automation to increase margin and loyalty - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Holiday2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Holiday2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1165603368-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1165603368-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1158220335-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1158220335-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Peter-van-Alphen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Peter-van-Alphen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Whitelabel-Case-RB-Basement-featured.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Sprite-Dogstudio-Insights-image.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Sprite-Dogstudio-Insights-image.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Inter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Inter.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/otravo_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/otravo_1-scaled.jpg"
+    ]
+  ]
+}

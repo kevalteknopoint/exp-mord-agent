@@ -1,0 +1,92 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/het-bouwen-van-een-moderne-winkelervaring-voor-ca/",
+  "path": "dept/case/het-bouwen-van-een-moderne-winkelervaring-voor-ca",
+  "timestamp": "2026-10-09T10:18:18.650Z",
+  "title": "Het bouwen van een moderne winkelervaring voor C&A - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "image",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/woman-cA.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/woman-cA.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-02-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-02-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/group-in-ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/group-in-ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-06-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-06-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-07.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-07.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-08-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-08-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/CA-Case-Visual-09.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/CA-Case-Visual-09.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/05-verena-sandbote-e1627480031616.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/05-verena-sandbote-e1627480031616.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Cheetos-Insight-Featured-1920x1080-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/multiscreen-2x-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/multiscreen-2x-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/regraded-AUDI-Amsterdam-%C2%A9rachelecclestone-093827-file1938-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/regraded-AUDI-Amsterdam--rachelecclestone-093827-file1938-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/group-in-ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/group-in-ca-denim.jpg"
+    ]
+  ]
+}

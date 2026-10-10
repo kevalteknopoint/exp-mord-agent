@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/engineering/commerce-platforms/tiktok-shop/",
+  "path": "dept/en-au/service/engineering/commerce-platforms/tiktok-shop",
+  "timestamp": "2026-10-09T14:14:54.834Z",
+  "title": "TikTok Shop & commerce platform integration - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/Tiktokisierung_Woman-in-front-of-smartphone.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/Tiktokisierung_Woman-in-front-of-smartphone.jpeg"
+    ]
+  ]
+}

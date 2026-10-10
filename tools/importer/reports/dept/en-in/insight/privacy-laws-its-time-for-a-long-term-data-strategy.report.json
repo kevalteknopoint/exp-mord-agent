@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/privacy-laws-its-time-for-a-long-term-data-strategy/",
+  "path": "dept/en-in/insight/privacy-laws-its-time-for-a-long-term-data-strategy",
+  "timestamp": "2026-10-09T23:33:17.646Z",
+  "title": "It's time for a long-term data strategy - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "image",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "article-related-posts",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/data-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/data-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/data-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/data-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/data-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/data-concept.jpg"
+    ]
+  ]
+}

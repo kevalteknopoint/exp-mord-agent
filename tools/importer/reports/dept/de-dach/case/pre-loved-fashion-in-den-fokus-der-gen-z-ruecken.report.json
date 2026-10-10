@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/pre-loved-fashion-in-den-fokus-der-gen-z-ruecken/",
+  "path": "dept/de-dach/case/pre-loved-fashion-in-den-fokus-der-gen-z-ruecken",
+  "timestamp": "2026-10-09T11:16:30.541Z",
+  "title": "Pre-Loved-Fashion in den Fokus der Gen Z rücken - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_3-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_3-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/hessnatur_1700x1700-480x480-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/hessnatur_1700x1700-480x480-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ]
+  ]
+}

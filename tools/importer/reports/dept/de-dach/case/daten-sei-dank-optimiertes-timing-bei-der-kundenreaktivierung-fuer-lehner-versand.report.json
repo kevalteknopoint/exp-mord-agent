@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/daten-sei-dank-optimiertes-timing-bei-der-kundenreaktivierung-fuer-lehner-versand/",
+  "path": "dept/de-dach/case/daten-sei-dank-optimiertes-timing-bei-der-kundenreaktivierung-fuer-lehner-versand",
+  "timestamp": "2026-10-09T11:30:39.267Z",
+  "title": "Optimiertes Timing bei der Kundenreaktivierung für Lehner Versand - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "stats-panel",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Lehner-Versand_Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Lehner-Versand_Header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Tobias-Kra%CC%88ft.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Tobias-Kra-ft.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Rotate-featured.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Rotate-featured.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Lehner-Versand_Header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Lehner-Versand_Header.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/schedule-ad-copy-sitelink-extensions/",
+  "path": "dept/insight/schedule-ad-copy-sitelink-extensions",
+  "timestamp": "2026-10-09T21:40:39.141Z",
+  "title": "How-to: schedule your ad copy and sitelink extensions - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/8-how-to-broadcast-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/8-how-to-broadcast-FT.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/label-ads.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/label-ads.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/automate-adwords-rules-1024x323-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/automate-adwords-rules-1024x323-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/enable-ads-1024x521-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/enable-ads-1024x521-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/pause-ads-1024x597-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/pause-ads-1024x597-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/ad-extensions-1024x190-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/ad-extensions-1024x190-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Joseph-Kerschbaum-Dept.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/8-how-to-broadcast-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/8-how-to-broadcast-FT.jpeg"
+    ]
+  ]
+}

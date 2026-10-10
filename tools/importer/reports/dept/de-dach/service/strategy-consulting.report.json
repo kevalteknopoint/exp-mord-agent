@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/service/strategy-consulting/",
+  "path": "dept/de-dach/service/strategy-consulting",
+  "timestamp": "2026-10-09T22:54:04.253Z",
+  "title": "Strategie-Beratung: Branding, Marketing, E-Business - DEPT®",
+  "template": "dept-service",
+  "locale": "de-dach",
+  "components": [
+    "service-post-header",
+    "rich-text",
+    "panel-services",
+    "js-media-parallax",
+    "panel-work",
+    "panel-partners",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Header-StrategyConcept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Header-StrategyConcept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/ADa-Home-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/ADa-Home-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/regraded-AUDI-Amsterdam-%C2%A9rachelecclestone-093827-file1938-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/regraded-AUDI-Amsterdam--rachelecclestone-093827-file1938-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/Luc-Suter-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/Luc-Suter-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Header-StrategyConcept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Header-StrategyConcept.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/dept-launches-ai-powered-global-content-engine-powered-by-adobe/",
+  "path": "dept/en-uki/insight/dept-launches-ai-powered-global-content-engine-powered-by-adobe",
+  "timestamp": "2026-10-09T20:29:11.051Z",
+  "title": "DEPT® launches AI-powered global content engine powered by Adobe - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "case-quote",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DEPT%C2%AESTUDIOS-PR-assset-1920x1080-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DEPT-STUDIOS-PR-assset-1920x1080-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Marjan-Straathof-DEPT%C2%AE-website-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Marjan-Straathof-DEPT--website-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/Navigating-Indias-DPDP-Act-with-Privacy-by-Design-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/Navigating-Indias-DPDP-Act-with-Privacy-by-Design-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-1000x1200-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Forrester-_-2026-_-Insight-_-Phrase-1000x1200-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Blackroll-1080x1350-alternative-featured.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Blackroll-1080x1350-alternative-featured.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/uber-eats-commercial-super-bowl.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/uber-eats-commercial-super-bowl.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/DEPT%C2%AESTUDIOS-PR-assset-1920x1080-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/DEPT-STUDIOS-PR-assset-1920x1080-3.png"
+    ]
+  ]
+}

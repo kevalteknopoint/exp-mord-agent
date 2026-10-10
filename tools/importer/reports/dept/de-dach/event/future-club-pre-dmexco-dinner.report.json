@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/future-club-pre-dmexco-dinner/",
+  "path": "dept/de-dach/event/future-club-pre-dmexco-dinner",
+  "timestamp": "2026-10-09T11:04:30.185Z",
+  "title": "Future Club x Shopify: Pre-DMEXCO Dinner - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-intro",
+    "event-info",
+    "assets-and-copy",
+    "insight-cta"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DFC-DACH-Pre-DMEXCO-Dinner-Website-Hero-Banner-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DFC-DACH-Pre-DMEXCO-Dinner-Website-Hero-Banner-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Shoptalk-DFC-LP-1920X1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/06/DFC-DACH-Pre-DMEXCO-Dinner-Website-Hero-Banner-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/06/DFC-DACH-Pre-DMEXCO-Dinner-Website-Hero-Banner-1920x1080-1.png"
+    ]
+  ]
+}

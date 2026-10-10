@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/service/growth/data-strategy/",
+  "path": "dept/en-uki/service/growth/data-strategy",
+  "timestamp": "2026-10-09T19:50:28.643Z",
+  "title": "Data strategy - DEPT®",
+  "template": "dept-service",
+  "locale": "en-uki",
+  "components": [
+    "panel-with-rich-text",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/data-strategy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/data-strategy.jpg"
+    ]
+  ]
+}

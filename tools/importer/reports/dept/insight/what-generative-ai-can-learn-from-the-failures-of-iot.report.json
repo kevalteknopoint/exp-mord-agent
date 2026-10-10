@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/what-generative-ai-can-learn-from-the-failures-of-iot/",
+  "path": "dept/insight/what-generative-ai-can-learn-from-the-failures-of-iot",
+  "timestamp": "2026-10-09T21:06:49.966Z",
+  "title": "What generative AI can learn from the failures of IoT - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/generative-AI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/generative-AI.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/bob-briski-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/bob-briski-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/How-to-integrate-generative-AI-into-existing-business-processes-500X300-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/How-to-integrate-generative-AI-into-existing-business-processes-500X300-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/ai-voice-search.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/ai-voice-search.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-metal-closeup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-metal-closeup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/bob-briski.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/bob-briski.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/generative-AI.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/generative-AI.jpg"
+    ]
+  ]
+}

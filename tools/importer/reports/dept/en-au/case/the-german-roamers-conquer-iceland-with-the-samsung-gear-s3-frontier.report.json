@@ -1,0 +1,72 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/the-german-roamers-conquer-iceland-with-the-samsung-gear-s3-frontier/",
+  "path": "dept/en-au/case/the-german-roamers-conquer-iceland-with-the-samsung-gear-s3-frontier",
+  "timestamp": "2026-10-09T12:33:56.136Z",
+  "title": "Conquering Iceland with The German Roamers - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "call-to-action",
+    "panel-two-media",
+    "title-and-content",
+    "full-width-image",
+    "stats-panel",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung4-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung4-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung3-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung3-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samaung1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samaung1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung2-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung2-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/1_Tag1_@lennartpagel.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/1_Tag1_-lennartpagel.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung6.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung6.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samaung1-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samaung1-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/JET_Katy_Perry_Perfomance_Display_16x9_Pizza_UK_IRE-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/friday-health-members.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/friday-health-members.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Samsung2-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Samsung2-1.jpeg"
+    ]
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/masgeschneiderte-inhalte-die-inspiration-und-information-verbinden/",
+  "path": "dept/de-dach/case/masgeschneiderte-inhalte-die-inspiration-und-information-verbinden",
+  "timestamp": "2026-10-09T11:09:17.442Z",
+  "title": "Maßgeschneiderte Inhalte, die Inspiration und Information verbinden - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/fritz-chair.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/fritz-chair.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Visual-Light-207.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Visual-Light-207.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Full-screen-UI-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Full-screen-UI-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/50-50-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/50-50-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Full-screen-UI-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Full-screen-UI-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Visual-Light-198.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Visual-Light-198.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Full-screen-UI-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Full-screen-UI-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/night-owl-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/night-owl-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/group-in-ca-denim.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/group-in-ca-denim.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Le-Mans_Asset3.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Le-Mans_Asset3.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Palfinger-1600x900-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Palfinger-1600x900-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Hero-1024x576.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Hero-1024x576.png"
+    ]
+  ]
+}

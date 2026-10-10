@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/antrieb-leben-kultur/",
+  "path": "dept/de-dach/case/antrieb-leben-kultur",
+  "timestamp": "2026-10-09T11:24:54.534Z",
+  "title": "Antrieb, Leben, Kultur - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/imghome.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/imghome.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Tom-Jonasse_HV-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Tom-Jonasse_HV-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Rembrandt1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Rembrandt1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/masai_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/masai_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Printzessin-Header-New-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Printzessin-Header-New-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/imghome.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/imghome.jpg"
+    ]
+  ]
+}

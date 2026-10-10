@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/insight/the-tech-and-team-dynamics-keeping-brands-competitive/",
+  "path": "dept/en-uki/insight/the-tech-and-team-dynamics-keeping-brands-competitive",
+  "timestamp": "2026-10-09T20:40:33.934Z",
+  "title": "The tech and team dynamics keeping brands competitive - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-uki",
+  "components": [
+    "article-post-header",
+    "panel-with-image-and-rich-text",
+    "call-to-action",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_Office_Berlin_20.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_Office_Berlin_20.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Thomas-Clayson-1024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Thomas-Clayson-1024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Dept_Office_Berlin_20.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Dept_Office_Berlin_20.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Dept_Office_Berlin_20.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Dept_Office_Berlin_20.jpg"
+    ]
+  ]
+}

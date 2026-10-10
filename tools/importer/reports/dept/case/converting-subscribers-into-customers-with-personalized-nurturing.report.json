@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/converting-subscribers-into-customers-with-personalized-nurturing/",
+  "path": "dept/case/converting-subscribers-into-customers-with-personalized-nurturing",
+  "timestamp": "2026-10-09T10:28:48.039Z",
+  "title": "Featured work: Converting smart’s subscribers into customers - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "image",
+    "case-intro",
+    "video",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "image",
+    "assets-and-copy",
+    "image",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-ev-brand-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-ev-brand-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-marketing-automation.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-marketing-automation.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-marketing-automation-welcome-journey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-marketing-automation-welcome-journey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-marketing-automation-campaign.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-marketing-automation-campaign.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/zscaler-digital-signage.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/zscaler-digital-signage.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-ev-brand-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-ev-brand-image.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/melts-dir-eine-influencerinnen-kampagne-fuer-den-launch-der-neuen-melts/",
+  "path": "dept/de-dach/case/melts-dir-eine-influencerinnen-kampagne-fuer-den-launch-der-neuen-melts",
+  "timestamp": "2026-10-09T11:11:05.097Z",
+  "title": "Eine Influencer:innen Kampagne für den Launch der neuen ‘Melts’  - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/man-biting-into-slice-of-pizza.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/man-biting-into-slice-of-pizza.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/pizza-hut-melts.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/pizza-hut-melts.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Hochbahn_Mood_Image4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Hochbahn_Mood_Image4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Pizza-Hut_Case_DE-e1712240432347.jpg"
+    ]
+  ]
+}

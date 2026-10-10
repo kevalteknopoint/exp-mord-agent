@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-and-ghd-leverage-ai-to-actualise-sustainability-through-spatial-technology/",
+  "path": "dept/insight/dept-and-ghd-leverage-ai-to-actualise-sustainability-through-spatial-technology",
+  "timestamp": "2026-10-09T20:57:29.358Z",
+  "title": "DEPT® and GHD leverage AI to actualize sustainability through spatial technology - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "two-quotes",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPTxGHD_Logo_1920x1080.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPTxGHD_Logo_1920x1080.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/AI-predictions-2025.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/AI-predictions-2025.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Mammut-Website-asset-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Mammut-Website-asset-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Insight-image-GEO-vs-SEO-1200x670-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Insight-image-GEO-vs-SEO-1200x670-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPTxGHD_Logo_1920x1080.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPTxGHD_Logo_1920x1080.jpg"
+    ]
+  ]
+}

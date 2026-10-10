@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/grilld-releases-new-app-and-appoints-dept-as-digital-partner-in-australia/",
+  "path": "dept/insight/grilld-releases-new-app-and-appoints-dept-as-digital-partner-in-australia",
+  "timestamp": "2026-10-09T20:45:17.865Z",
+  "title": "Grill’d releases new app and appoints DEPT® as digital partner in Australia - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1920-x-1088.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1920-x-1088.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1920-x-1088.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1920-x-1088.jpg"
+    ]
+  ]
+}

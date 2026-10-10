@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/an-app-to-help-reduce-hospitalisations-during-a-pandemic/",
+  "path": "dept/en-in/case/an-app-to-help-reduce-hospitalisations-during-a-pandemic",
+  "timestamp": "2026-10-09T14:50:21.868Z",
+  "title": "An app to help reduce hospitalisations during a pandemic - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/covid-care-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/covid-care-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/covidcareProject-Header.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/covidcareProject-Header.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/covid-care-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/covid-care-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/covid-care-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/covid-care-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/Hypewear-Visual-Still-02-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/20170901-DEPT-FESTIVAL-HR-295-min-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Q70321005_1CN_back.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Q70321005_1CN_back.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CovidCareProject@2X-1-e1696469621781.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CovidCareProject-2X-1-e1696469621781.jpg"
+    ]
+  ]
+}

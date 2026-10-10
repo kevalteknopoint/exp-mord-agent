@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/event/dept-friends-dinner/",
+  "path": "dept/en-nl/event/dept-friends-dinner",
+  "timestamp": "2026-10-09T23:43:46.834Z",
+  "title": "DEPT® + Friends Dinner - DEPT®",
+  "template": "dept-event",
+  "locale": "en-nl",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register",
+    "image",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/DEPT%C2%AEFriend-Dinner_Event-header-1440-x-588.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/DEPT-Friend-Dinner_Event-header-1440-x-588.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/BYTE-HEAD-SHOTS1322.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/BYTE-HEAD-SHOTS1322.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/467100d500835f1b260e32c15772a484.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/467100d500835f1b260e32c15772a484.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/DEPT%C2%AEFriend-Dinner_Event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/DEPT-Friend-Dinner_Event-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/DEPT%C2%AEFriend-Dinner_Event-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/DEPT-Friend-Dinner_Event-header.jpg"
+    ]
+  ]
+}

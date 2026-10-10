@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/meisterhaft-wie-digitale-transformation-gelingt-zeigen-dept-shopify-und-jaegermeister/",
+  "path": "dept/de-dach/insight/meisterhaft-wie-digitale-transformation-gelingt-zeigen-dept-shopify-und-jaegermeister",
+  "timestamp": "2026-10-09T12:17:07.239Z",
+  "title": "Meisterhaft! Wie digitale Transformation gelingt, zeigen DEPT®, Shopify und Jägermeister - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "video",
+    "image-with-content-cards",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Jagermeister-Masterclass--e1718637162435.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Jagermeister-Masterclass--e1718637162435.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Susanne-Wehr.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Susanne-Wehr.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Fabian-Muessig.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Fabian-Muessig.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Linda-Hoffmann-shopify.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Linda-Hoffmann-shopify.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Insights-DEPT%C2%AE-commerce-Logo-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Insights-DEPT--commerce-Logo-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Dept_Dirk_Bloessl_01-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Jagermeister-Masterclass--e1718637162435.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Jagermeister-Masterclass--e1718637162435.png"
+    ]
+  ]
+}

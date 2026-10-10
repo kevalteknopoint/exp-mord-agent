@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dept-x-cannes-lions-2023/",
+  "path": "dept/en-au/event/dept-x-cannes-lions-2023",
+  "timestamp": "2026-10-09T12:56:36.642Z",
+  "title": "DEPT® x Cannes Lions 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details",
+    "title-left-body-right",
+    "image",
+    "four-card-information-block"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Cannes-Lions-event-header-1905x975-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Cannes-Lions-event-header-1905x975-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Map_website.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Map_website.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/dimi-albers.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/dimi-albers.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_-_Insights_Image.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/US_Rebrand_Missy_Forristal_-_Prepare_to_Pioneer_-_Insights_Image.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Isabel-Perry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Isabel-Perry.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/tobias-cummins-headshot.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/tobias-cummins-headshot.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Asher-wren-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Asher-wren-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Joanna-Trippett-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Joanna-Trippett-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Captura-de-pantalla-2023-05-31-a-las-01.40.57.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Captura-de-pantalla-2023-05-31-a-las-01.40.57.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nils-Zundorf.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nils-Zundorf.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Rene-Verbong.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Rene-Verbong.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Danijel-Bonacic-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Danijel-Bonacic-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Thomas-van-Slooten.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Thomas-van-Slooten.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/heleen-min.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/heleen-min.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Marjan-Straathof.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Marjan-Straathof.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Ines-Saraiva.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Ines-Saraiva.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Cannes-Lions-event-header-1905x975-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Cannes-Lions-event-header-1905x975-1.jpg"
+    ]
+  ]
+}

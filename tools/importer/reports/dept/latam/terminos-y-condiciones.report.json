@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/terminos-y-condiciones/",
+  "path": "dept/latam/terminos-y-condiciones",
+  "timestamp": "2026-10-09T22:34:17.540Z",
+  "title": "Términos y condiciones - DEPT®",
+  "template": "dept-page",
+  "locale": "latam",
+  "components": [
+    "post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text",
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-logo-ho-wh.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-logo-ho-wh.png"
+    ]
+  ]
+}

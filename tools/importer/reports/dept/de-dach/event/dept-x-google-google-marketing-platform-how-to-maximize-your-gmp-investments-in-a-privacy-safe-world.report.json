@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/event/dept-x-google-google-marketing-platform-how-to-maximize-your-gmp-investments-in-a-privacy-safe-world/",
+  "path": "dept/de-dach/event/dept-x-google-google-marketing-platform-how-to-maximize-your-gmp-investments-in-a-privacy-safe-world",
+  "timestamp": "2026-10-09T22:40:53.239Z",
+  "title": "DEPT® x Google – Google Marketing Platform - DEPT®",
+  "template": "dept-event",
+  "locale": "de-dach",
+  "components": [
+    "event-header",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-program"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/GMP-Event-Event-header-1905x975-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/GMP-Event-Event-header-1905x975-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Christian_Pahler.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Christian_Pahler.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Tobias-Kraft-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Tobias-Kraft-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Annekatrin-Molenaar-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Annekatrin-Molenaar-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Daniel-Landman-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Daniel-Landman-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/DEPT%C2%AExGoogle.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/DEPT-xGoogle.jpg"
+    ]
+  ]
+}

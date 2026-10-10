@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/service/growth/programmatic-advertising/",
+  "path": "dept/en-uki/service/growth/programmatic-advertising",
+  "timestamp": "2026-10-09T19:51:42.539Z",
+  "title": "Programmatic advertising - DEPT®",
+  "template": "dept-service",
+  "locale": "en-uki",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Programmatic-advertising.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Programmatic-advertising.png"
+    ]
+  ]
+}

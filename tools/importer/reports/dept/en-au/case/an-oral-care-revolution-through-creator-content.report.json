@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/an-oral-care-revolution-through-creator-content/",
+  "path": "dept/en-au/case/an-oral-care-revolution-through-creator-content",
+  "timestamp": "2026-10-09T12:27:30.174Z",
+  "title": "An oral care revolution through creator content - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "stats-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Sonicare-Case-Visual-02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Sonicare-Case-Visual-02-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Sonicare-Case-Visual-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Sonicare-Case-Visual-03-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/World-finance-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/World-finance-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Sonicare-Case-Visual-02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Sonicare-Case-Visual-02-1.png"
+    ]
+  ]
+}

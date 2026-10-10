@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/case/a-state-of-the-art-virtual-exhibition/",
+  "path": "dept/en-nl/case/a-state-of-the-art-virtual-exhibition",
+  "timestamp": "2026-10-09T17:37:28.641Z",
+  "title": "A state-of-the-art virtual exhibition - DEPT®",
+  "template": "dept-case",
+  "locale": "en-nl",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "video",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Rikke-Agersnap.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Rikke-Agersnap.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Smileyscope1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Smileyscope1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/medela_1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/medela_1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Buut-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Buut-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Bartlett-School-of-Architecture_Featured-Image.png"
+    ]
+  ]
+}

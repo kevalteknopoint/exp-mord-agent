@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/service/growth/technology/google-marketing-platform-products/",
+  "path": "dept/en-au/service/growth/technology/google-marketing-platform-products",
+  "timestamp": "2026-10-09T14:27:59.735Z",
+  "title": "GMP Products - DEPT®",
+  "template": "dept-service",
+  "locale": "en-au",
+  "components": [
+    "oversized-image",
+    "media-with-text",
+    "media-with-text",
+    "media-with-text",
+    "media-with-text",
+    "media-with-text",
+    "media-with-text",
+    "media-with-text",
+    "routing-banner"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/WHITE_GOOGLE-PLATFORM-VISUAL.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/WHITE_GOOGLE-PLATFORM-VISUAL.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Campaign-Manager-360-1920.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Campaign-Manager-360-1920.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Search-Ads-360-1920.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Search-Ads-360-1920.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Analytics-360-1920.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Analytics-360-1920.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Display-Video-360-1920.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Display-Video-360-1920.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Google-Data-Studio-360-1920.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Google-Data-Studio-360-1920.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Google-Surveys-360-1920.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Google-Surveys-360-1920.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Google-Tag-Manager-360-1920.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Google-Tag-Manager-360-1920.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/07/DESKTOPOVERSIZED-IMAGEWHITE-1920.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/07/DESKTOPOVERSIZED-IMAGEWHITE-1920.jpg"
+    ]
+  ]
+}

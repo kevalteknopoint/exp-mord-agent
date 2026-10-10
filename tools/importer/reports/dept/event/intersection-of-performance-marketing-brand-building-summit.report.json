@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/intersection-of-performance-marketing-brand-building-summit/",
+  "path": "dept/event/intersection-of-performance-marketing-brand-building-summit",
+  "timestamp": "2026-10-09T21:22:53.235Z",
+  "title": "Intersection of Performance Marketing & Brand Building Summit - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "event-content-v2",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Brand-Innovators-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Brand-Innovators-Website-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/carryn-quibell-ceo-americas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/carryn-quibell-ceo-americas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Sam-Huston-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Sam-Huston-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/epi_Logo_1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/epi_Logo_1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Webby-shortlist.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Webby-shortlist.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/influencer-creator.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/influencer-creator.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Brand-Innovators-Website-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Brand-Innovators-Website-1920x1080-1.png"
+    ]
+  ]
+}

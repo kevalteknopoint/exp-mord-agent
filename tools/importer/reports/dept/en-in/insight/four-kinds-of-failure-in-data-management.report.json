@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/four-kinds-of-failure-in-data-management/",
+  "path": "dept/en-in/insight/four-kinds-of-failure-in-data-management",
+  "timestamp": "2026-10-09T15:57:46.544Z",
+  "title": "Four kinds of failure in data management - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Google-Data-Studio-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Google-Data-Studio-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/david-grover-min-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/david-grover-min-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/Google-Data-Studio-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/Google-Data-Studio-2.jpg"
+    ]
+  ]
+}

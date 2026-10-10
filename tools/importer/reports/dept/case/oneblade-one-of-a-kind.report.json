@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/oneblade-one-of-a-kind/",
+  "path": "dept/case/oneblade-one-of-a-kind",
+  "timestamp": "2026-10-09T10:37:35.669Z",
+  "title": "OneBlade, One of a Kind - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "video",
+    "case-intro",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "video",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips_3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips_3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Gleneagles_case_hero.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Gleneagles_case_hero.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-OneBlade-One-of-a-kind.png"
+    ]
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/brookfield-zoo-chicago/",
+  "path": "dept/case/brookfield-zoo-chicago",
+  "timestamp": "2026-10-09T10:13:25.784Z",
+  "title": "Featured work: Brookfield Zoo Chicago web experience - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "title-block-carousel",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-toucan.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-toucan.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-lion.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-lion.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-design-work-website-feature.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-design-work-website-feature.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-design-work-multi-screens.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-design-work-multi-screens.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-Case-page-Carousel-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-Case-page-Carousel-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-Case-page-Carousel-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-Case-page-Carousel-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-Case-page-Carousel-5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-Case-page-Carousel-5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-Case-page-Carousel-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-Case-page-Carousel-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/ebay-Love-Island_1920x1080_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/ebay-Love-Island_1920x1080_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Brookfield-Zoo-toucan.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Brookfield-Zoo-toucan.webp"
+    ]
+  ]
+}

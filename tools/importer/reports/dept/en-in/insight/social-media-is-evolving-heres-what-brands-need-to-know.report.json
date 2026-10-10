@@ -1,0 +1,59 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/insight/social-media-is-evolving-heres-what-brands-need-to-know/",
+  "path": "dept/en-in/insight/social-media-is-evolving-heres-what-brands-need-to-know",
+  "timestamp": "2026-10-09T16:34:34.491Z",
+  "title": "Social media is evolving. Here’s what brands need to know. - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-in",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Evolution-of-social-media-featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Evolution-of-social-media-featured-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/05/Jessica-White-Dept-1-min-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/05/Jessica-White-Dept-1-min-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/KFC-Buckquet-Campaign.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/KFC-Buckquet-Campaign.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Twitch_TikTok_Launch_Response_Black.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Twitch_TikTok_Launch_Response_Black.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/800kb.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/800kb.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/BFSI-and-Neopets_Feature.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/BFSI-and-Neopets_Feature.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/DEPT-CES-2025-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/DEPT-CES-2025-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/01/plane-window.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/01/plane-window.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Evolution-of-social-media-featured-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Evolution-of-social-media-featured-image.jpg"
+    ]
+  ]
+}

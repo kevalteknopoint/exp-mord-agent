@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/inspiring-and-entertaining-fans-all-over-the-globe/",
+  "path": "dept/en-au/case/inspiring-and-entertaining-fans-all-over-the-globe",
+  "timestamp": "2026-10-09T12:10:13.569Z",
+  "title": "Inspiring and entertaining fans all over the globe - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "jumbotron",
+    "statement",
+    "image",
+    "panel-with-cards",
+    "jumbotron",
+    "title-and-content",
+    "jumbotron",
+    "quote",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "jumbotron",
+    "call-to-action",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_slanted_static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_slanted_static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_players.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_players.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/INTER_jerseys.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/INTER_jerseys.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Lucas-Nutbey-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/asos-sportswear_1420_Retouched-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Filecoin-Featured-image-500x300-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/KFC-website-and-application.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/KFC-website-and-application.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Inter.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Inter.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-reduce-costs-and-increase-customer-satisfaction-through-self-service-2/",
+  "path": "dept/en-au/insight/how-to-reduce-costs-and-increase-customer-satisfaction-through-self-service-2",
+  "timestamp": "2026-10-09T13:16:31.039Z",
+  "title": "How to reduce costs and increase customer satisfaction through self-service - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/shadow-person-phone-stay-ahead.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/shadow-person-phone-stay-ahead.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/purple-arrows-stay-ahed.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/purple-arrows-stay-ahed.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/shadow-person-phone-stay-ahead.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/shadow-person-phone-stay-ahead.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/umsatzsteigerung-dank-programmatic-advertising/",
+  "path": "dept/de-dach/case/umsatzsteigerung-dank-programmatic-advertising",
+  "timestamp": "2026-10-09T11:24:06.566Z",
+  "title": "Umsatzsteigerung dank Programmatic Advertising - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/betty_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/betty_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Betty-Bossi-STDC.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Betty-Bossi-STDC.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/smart_case_digital_marketing.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/smart_case_digital_marketing.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/headerbettybossi.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/headerbettybossi.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/iStock-1002823828-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/iStock-1002823828-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/betty_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/betty_2.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/insight/recap-der-salesforce-world-tour-hamburg/",
+  "path": "dept/de-dach/insight/recap-der-salesforce-world-tour-hamburg",
+  "timestamp": "2026-10-09T11:41:50.640Z",
+  "title": "Recap der Salesforce World Tour Hamburg - DEPT®",
+  "template": "dept-insight",
+  "locale": "de-dach",
+  "components": [
+    "article-post-header",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Salesforce-World-Event-Banner-1440x558-white-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Salesforce-World-Event-Banner-1440x558-white-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/G-nuAr_g-2-e1627388428112-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/G-nuAr_g-2-e1627388428112-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Salesforce-World-Tour_Hamburg-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Salesforce-World-Tour_Hamburg-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Salesforce-World-Tour-Hamburg_1-1-1-1-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Salesforce-World-Tour-Hamburg_1-1-1-1-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Salesforce-World-Tour-Hamburg_2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Salesforce-World-Tour-Hamburg_2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/G-nuAr_g-2-e1627388428112.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/G-nuAr_g-2-e1627388428112.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Salesforce-World-Event-Banner-1440x558-white-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Salesforce-World-Event-Banner-1440x558-white-1.png"
+    ]
+  ]
+}

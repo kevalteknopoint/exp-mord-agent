@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/accelerate-digital-growth-using-salesforce-marketing-cloud-2/",
+  "path": "dept/case/accelerate-digital-growth-using-salesforce-marketing-cloud-2",
+  "timestamp": "2026-10-09T10:50:55.358Z",
+  "title": "Accelerating digital growth using Salesforce Marketing Cloud - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-01-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-01-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-02-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-02-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-03-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-03-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-04-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-04-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/Beiersdorf-05-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/Beiersdorf-05-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Nadine-Hendriks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Nadine-Hendriks.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/01/spotify-music-talk-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/01/spotify-music-talk-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/DEPT-Growth-Invention-Company.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/DEPT-Growth-Invention-Company.webp"
+    ]
+  ]
+}

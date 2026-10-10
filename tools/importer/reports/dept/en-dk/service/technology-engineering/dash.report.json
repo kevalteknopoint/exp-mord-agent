@@ -1,0 +1,38 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/service/technology-engineering/dash/",
+  "path": "dept/en-dk/service/technology-engineering/dash",
+  "timestamp": "2026-10-09T23:21:57.984Z",
+  "title": "DASH - DEPT®",
+  "template": "dept-service",
+  "locale": "en-dk",
+  "components": [
+    "main-page-header",
+    "video",
+    "panel-with-rich-text",
+    "four-card-information-block",
+    "panel-with-rich-text",
+    "cta-text",
+    "get-in-touch",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Ecommerce-design-system.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Ecommerce-design-system.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/ADA-DASH-Stacked-Logo-White.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/ADA-DASH-Stacked-Logo-White.jpg"
+    ]
+  ]
+}

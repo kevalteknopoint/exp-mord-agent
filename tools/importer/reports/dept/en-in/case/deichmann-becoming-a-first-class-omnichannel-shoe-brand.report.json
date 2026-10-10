@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/deichmann-becoming-a-first-class-omnichannel-shoe-brand/",
+  "path": "dept/en-in/case/deichmann-becoming-a-first-class-omnichannel-shoe-brand",
+  "timestamp": "2026-10-09T15:42:21.839Z",
+  "title": "Becoming an omnichannel shoe brand - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1085747632-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1085747632-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/82cc48dfffb087abaceada588c77f2bc.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/82cc48dfffb087abaceada588c77f2bc.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/deichmann-2-0.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/deichmann-2-0.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/d14f7e49518215.58b71312c29c4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/d14f7e49518215.58b71312c29c4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/7b0cc249518215.58b71312c156d.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/7b0cc249518215.58b71312c156d.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Carolin-Bornholdt-Dept-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Carolin-Bornholdt-Dept-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Plane-Holiday-1440x810-c-tui.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Plane-Holiday-1440x810-c-tui.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/canyon2-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/canyon2-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/blurb.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/blurb.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/iStock-1085747632-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/iStock-1085747632-1-scaled.jpg"
+    ]
+  ]
+}

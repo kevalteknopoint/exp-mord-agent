@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/how-to-light-up-an-audience-with-the-power-of-shared-experience/",
+  "path": "dept/en-au/case/how-to-light-up-an-audience-with-the-power-of-shared-experience",
+  "timestamp": "2026-10-09T13:08:54.835Z",
+  "title": "How to light up an audience with the power of shared experience - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Hurdl-concert-confetti.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Hurdl-concert-confetti.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/VMA-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/VMA-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/HM_htracism.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/HM_htracism.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Twitch_Audience.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Twitch_Audience.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Hurdl-concert-confetti.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Hurdl-concert-confetti.jpg"
+    ]
+  ]
+}

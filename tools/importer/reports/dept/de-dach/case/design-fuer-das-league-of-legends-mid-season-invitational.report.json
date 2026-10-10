@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/design-fuer-das-league-of-legends-mid-season-invitational/",
+  "path": "dept/de-dach/case/design-fuer-das-league-of-legends-mid-season-invitational",
+  "timestamp": "2026-10-09T11:34:09.339Z",
+  "title": "Design für das League of Legends Mid-Season Invitational - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/MSI24-BRAND-EXPRESSION-1-BLACK-16x9-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/MSI24-BRAND-EXPRESSION-1-BLACK-16x9-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/MSI-Key-Visual-16x9-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/MSI-Key-Visual-16x9-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Philips-Lumea.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Philips-Lumea.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/msi-invitational-lol-design-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/msi-invitational-lol-design-min.png"
+    ]
+  ]
+}

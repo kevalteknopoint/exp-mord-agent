@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/how-decision-systems-personalize-the-right-content-for-every-customer-at-scale/",
+  "path": "dept/insight/how-decision-systems-personalize-the-right-content-for-every-customer-at-scale",
+  "timestamp": "2026-10-09T20:52:30.658Z",
+  "title": "How decision systems personalize the right content for every customer at scale - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "insight-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/The-decision-layer-in-content-at-scale-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/The-decision-layer-in-content-at-scale-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Mitchell-Kirkham-Cooper-150x150.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Mitchell-Kirkham-Cooper-150x150.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/AI-tooling-best-next-offer-commerce.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Creative-automation-is-more-than-efficiency.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Creative-automation-is-more-than-efficiency.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/03/Adobe-Download-DEPTSTUDIOS-version-1600x900-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/The-decision-layer-in-content-at-scale-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/The-decision-layer-in-content-at-scale-1920x1080-1.png"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/how-to-generate-product-ideas-dept/",
+  "path": "dept/downloads/how-to-generate-product-ideas-dept",
+  "timestamp": "2026-10-09T11:41:57.940Z",
+  "title": "How to generate product ideas in software development - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/blue-metal-closeup.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/blue-metal-closeup.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Open-graph-image-1200x630-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Open-graph-image-1200x630-1.png"
+    ]
+  ]
+}

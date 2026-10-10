@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/2022-recap-and-2023-predictions/",
+  "path": "dept/downloads/2022-recap-and-2023-predictions",
+  "timestamp": "2026-10-09T11:31:21.996Z",
+  "title": "2022 recap and 2023 predictions - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/orange-blur-on-black-background.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/orange-blur-on-black-background.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/orange-blur-on-black-background.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/orange-blur-on-black-background.jpg"
+    ]
+  ]
+}

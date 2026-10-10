@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/dept-trends-2022/",
+  "path": "dept/en-uki/event/dept-trends-2022",
+  "timestamp": "2026-10-09T19:48:02.479Z",
+  "title": "DEPT® Trends 2022 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/landingpage-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/landingpage-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Jake-Welsh-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Jake-Welsh-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/Josephine-Gerves-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/Josephine-Gerves-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Brandon-Aaskov-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Brandon-Aaskov-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Emma-Santangelo-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Emma-Santangelo-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/Lisanne-Maatman-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/Lisanne-Maatman-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/12/landingpage-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/12/landingpage-image.png"
+    ]
+  ]
+}

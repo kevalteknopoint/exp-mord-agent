@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/the-technology-to-kickstart-digital-transformation-for-your-smb/",
+  "path": "dept/insight/the-technology-to-kickstart-digital-transformation-for-your-smb",
+  "timestamp": "2026-10-09T22:07:28.540Z",
+  "title": "The technology to kickstart digital transformation for your SMB - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Dept_Berlin_Office-8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Dept_Berlin_Office-8-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Anthony-van-de-Veen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Anthony-van-de-Veen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/11/Anthony-van-de-Veen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/11/Anthony-van-de-Veen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Dept_Berlin_Office-8-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Dept_Berlin_Office-8-1.jpg"
+    ]
+  ]
+}

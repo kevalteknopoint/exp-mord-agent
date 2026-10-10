@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/salesforce-commerce-cloud-vs-magento-2-on-premise/",
+  "path": "dept/en-au/insight/salesforce-commerce-cloud-vs-magento-2-on-premise",
+  "timestamp": "2026-10-09T12:43:42.863Z",
+  "title": "Salesforce Commerce Cloud vs. Magento 2 On-Premise - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "statement",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Salesforce-Commerce-Cloud-1200x630-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Salesforce-Commerce-Cloud-1200x630-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Ryan-Nicholson-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Ryan-Nicholson-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/Vineyard-vines-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/Vineyard-vines-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/What-is-SFRA_-1000x1200-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/What-is-SFRA_-1000x1200-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/The-power-of-Twitch-for-brand-advertising-Social-image-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/The-power-of-Twitch-for-brand-advertising-Social-image-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Ryan-Nicholson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Ryan-Nicholson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Salesforce-Commerce-Cloud-1200x630-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Salesforce-Commerce-Cloud-1200x630-1.jpg"
+    ]
+  ]
+}

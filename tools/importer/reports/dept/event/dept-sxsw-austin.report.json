@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-sxsw-austin/",
+  "path": "dept/event/dept-sxsw-austin",
+  "timestamp": "2026-10-09T20:08:23.839Z",
+  "title": "Meet us at SXSW - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "event-content-v2",
+    "wrapper",
+    "event-people",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/SXSW-2025-Insight-Featured-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/SXSW-2025-Insight-Featured-1920x1080-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Asher-wren-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Asher-wren-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Laura-tron.1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Laura-tron.1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/6455458e6bbebf1717f6829b_Travis-Ashley.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/6455458e6bbebf1717f6829b_Travis-Ashley.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Signs-Web-asset-2-1000x1200-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/DEPT-B-Corp-Recertifiction.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/DEPT-B-Corp-Recertifiction.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/Enterprise-data-featured-4x5-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/Enterprise-data-featured-4x5-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/02/SXSW-2025-Insight-Featured-1920x1080-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/02/SXSW-2025-Insight-Featured-1920x1080-1.jpg"
+    ]
+  ]
+}

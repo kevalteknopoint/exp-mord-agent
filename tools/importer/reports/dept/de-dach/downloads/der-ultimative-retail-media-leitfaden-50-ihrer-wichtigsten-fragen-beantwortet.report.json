@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/downloads/der-ultimative-retail-media-leitfaden-50-ihrer-wichtigsten-fragen-beantwortet/",
+  "path": "dept/de-dach/downloads/der-ultimative-retail-media-leitfaden-50-ihrer-wichtigsten-fragen-beantwortet",
+  "timestamp": "2026-10-09T11:31:04.763Z",
+  "title": "Der ultimative Retail Media Leitfaden – 50 Ihrer wichtigsten Fragen beantwortet  - DEPT®",
+  "template": "dept-downloads",
+  "locale": "de-dach",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ultimate-Retail-media-guide-Header-image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ultimate-Retail-media-guide-Header-image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/ultimate-retail-media-guide-open-graph-1024x535.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/ultimate-retail-media-guide-open-graph-1024x535.png"
+    ]
+  ]
+}

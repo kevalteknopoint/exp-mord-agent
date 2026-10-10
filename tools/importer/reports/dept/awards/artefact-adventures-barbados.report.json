@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/awards/artefact-adventures-barbados/",
+  "path": "dept/awards/artefact-adventures-barbados",
+  "timestamp": "2026-10-09T10:04:45.241Z",
+  "title": "ARtefact Adventures: Barbados - DEPT®",
+  "template": "dept-awards",
+  "locale": "global",
+  "components": [
+    "talking-points",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Road-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Road-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/ARtefact-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/ARtefact-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Road-4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Road-4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/ROAD-Game-ARTefacts.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/ROAD-Game-ARTefacts.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Artifact-6.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Artifact-6.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/07/Road-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/07/Road-1.png"
+    ]
+  ]
+}

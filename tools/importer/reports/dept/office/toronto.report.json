@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/toronto/",
+  "path": "dept/office/toronto",
+  "timestamp": "2026-10-09T22:40:27.910Z",
+  "title": "Toronto - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Toronto-01-e1678112929360.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Toronto-01-e1678112929360.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Toronto-01-e1678112929360.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Toronto-01-e1678112929360.jpg"
+    ]
+  ]
+}

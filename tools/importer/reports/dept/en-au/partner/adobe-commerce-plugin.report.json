@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/partner/adobe-commerce-plugin/",
+  "path": "dept/en-au/partner/adobe-commerce-plugin",
+  "timestamp": "2026-10-09T14:04:09.039Z",
+  "title": "Adobe Commerce plugin: Credit card rewards browser plugin - DEPT®",
+  "template": "dept-partner",
+  "locale": "en-au",
+  "components": [
+    "partner-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "form-page",
+    "cta-text",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/06/Adobe.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/06/Adobe.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/adobe-logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/adobe-logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/falling-down-e-commerce.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/falling-down-e-commerce.png"
+    ]
+  ]
+}

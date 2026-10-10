@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/gemeinsam-die-zukunft-der-fmcg-branche-gestalten/",
+  "path": "dept/de-dach/gemeinsam-die-zukunft-der-fmcg-branche-gestalten",
+  "timestamp": "2026-10-09T22:41:59.040Z",
+  "title": "Gemeinsam die Zukunft der FMCG Branche gestalten - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "industry-post-header",
+    "intro-text",
+    "wrapper",
+    "wrapper",
+    "client-panel",
+    "panel-partners",
+    "panel-whitepaper",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/FMCG_Header-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/FMCG_Header-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/LOGO-innocent-400x210-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/LOGO-innocent-400x210-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Douglas.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Douglas.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Chocomel.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Chocomel.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/LOGO-Schwartau-400x210-.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/LOGO-Schwartau-400x210-.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/LOGO-Kraft-Heinz-400x210-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/LOGO-Kraft-Heinz-400x210-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Aldi-Sud-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Aldi-Sud-Logo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Diageo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Diageo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Beiersdorf.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Beiersdorf.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/LOGO-alessandro-400x210-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/LOGO-alessandro-400x210-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/BIPA.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/BIPA.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/FMCG_Header-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/FMCG_Header-1.jpg"
+    ]
+  ]
+}

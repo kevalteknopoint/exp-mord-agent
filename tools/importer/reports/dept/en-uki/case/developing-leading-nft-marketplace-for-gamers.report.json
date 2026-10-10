@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/developing-leading-nft-marketplace-for-gamers/",
+  "path": "dept/en-uki/case/developing-leading-nft-marketplace-for-gamers",
+  "timestamp": "2026-10-09T20:04:27.487Z",
+  "title": "Developing the leading NFT marketplace for gamers - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/merit-circle-game-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/merit-circle-game-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/03-Template-Desktop.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/03-Template-Desktop.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/04-Mobile-Angled-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/04-Mobile-Angled-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Max-Pinas-e1678309880474.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Max-Pinas-e1678309880474.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/cookeware-company.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/cookeware-company.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/MWELL-Image-Full-bleed-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/MWELL-Image-Full-bleed-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/steelseries1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/steelseries1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Sphere-Visual-Logo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Sphere-Visual-Logo.png"
+    ]
+  ]
+}

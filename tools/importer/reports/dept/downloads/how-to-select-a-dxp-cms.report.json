@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/how-to-select-a-dxp-cms/",
+  "path": "dept/downloads/how-to-select-a-dxp-cms",
+  "timestamp": "2026-10-09T11:42:05.109Z",
+  "title": "How to select a DXP/CMS: Download DEPT®’s selection guide | DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/green-and-orange-plastic.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/green-and-orange-plastic.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/how-to-select-a-dxp.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/how-to-select-a-dxp.png"
+    ]
+  ]
+}

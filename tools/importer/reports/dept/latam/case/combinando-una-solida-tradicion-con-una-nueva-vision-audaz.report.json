@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/combinando-una-solida-tradicion-con-una-nueva-vision-audaz/",
+  "path": "dept/latam/case/combinando-una-solida-tradicion-con-una-nueva-vision-audaz",
+  "timestamp": "2026-10-09T21:29:07.657Z",
+  "title": "Combinando una sólida tradición con una nueva visión audaz - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-having-shots.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-having-shots.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/jagermeister_homepage_layout-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/jagermeister_homepage_layout-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/smilin-man-with-bottles-in-front-of-the-eyes.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/smilin-man-with-bottles-in-front-of-the-eyes.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/jagermeister-layout-tiles.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/jagermeister-layout-tiles.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/jagermeister-mobile-layout-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/jagermeister-mobile-layout-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/jagermeister-mobile-layout-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/jagermeister-mobile-layout-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/jagermeister-mobile-layout-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/jagermeister-mobile-layout-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1210783873-min-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/group-of-young-people-laughing-playing-with-blocks.jpg"
+    ]
+  ]
+}

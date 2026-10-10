@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/the-worlds-first-nft-portal-for-brands/",
+  "path": "dept/en-au/case/the-worlds-first-nft-portal-for-brands",
+  "timestamp": "2026-10-09T12:35:47.972Z",
+  "title": "The world’s first NFT portal for brands - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "quote",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Algorand_Post_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Algorand_Post_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Algorand_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Algorand_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Algorand_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Algorand_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/airplane-wing-clouds.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/airplane-wing-clouds.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/CovidCareProject@2X-1-e1696469621781.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/CovidCareProject-2X-1-e1696469621781.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/Layla-Sleep.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/Layla-Sleep.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ]
+  ]
+}

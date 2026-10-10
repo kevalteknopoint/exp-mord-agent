@@ -1,0 +1,89 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-commerce-week-2023/",
+  "path": "dept/event/dept-commerce-week-2023",
+  "timestamp": "2026-10-09T20:04:30.441Z",
+  "title": "DEPT® Commerce Week 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-program",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Desktop-Background-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Desktop-Background-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Desktop-Background-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Desktop-Background-2-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/1642493330207.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/1642493330207.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Jordan-Bourse.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Jordan-Bourse.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/09/Oliver-Lange-HM.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/09/Oliver-Lange-HM.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Jan-Redeker_Weber.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Jan-Redeker_Weber.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Ralph-Rijks-for-Commerce-Week-2023.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Ralph-Rijks-for-Commerce-Week-2023.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/NBK-Retail-39-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/NBK-Retail-39-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/unnamed.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/unnamed.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Tobias-Cummins.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Tobias-Cummins.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Gesine-Meitler-Dept-02-e1627485608705.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Isabel-Perry.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Isabel-Perry.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/Captura-de-Pantalla-2022-10-18-a-las-08.46.52.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Alexis-Stepanek.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Alexis-Stepanek.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-15.32.45.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Captura-de-pantalla-2023-02-16-a-las-15.32.45.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/katy-sf.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/katy-sf.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Desktop-Background-2-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Desktop-Background-2-1.jpg"
+    ]
+  ]
+}

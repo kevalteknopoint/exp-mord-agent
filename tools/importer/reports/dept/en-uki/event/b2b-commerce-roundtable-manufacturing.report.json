@@ -1,0 +1,36 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/b2b-commerce-roundtable-manufacturing/",
+  "path": "dept/en-uki/event/b2b-commerce-roundtable-manufacturing",
+  "timestamp": "2026-10-09T19:42:47.077Z",
+  "title": "B2B Commerce Roundtable for Manufacturers - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-details",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/B2B-Commerce-Landing-Page-950x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/B2B-Commerce-Landing-Page-950x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/content-chunkcing-ai-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/content-chunkcing-ai-.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/09/Geiger-Insight-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/09/Geiger-Insight-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/B2B-Commerce-Landing-Page-950x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/B2B-Commerce-Landing-Page-950x1080-1.png"
+    ]
+  ]
+}

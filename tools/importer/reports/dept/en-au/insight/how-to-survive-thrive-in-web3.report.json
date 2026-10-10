@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/how-to-survive-thrive-in-web3/",
+  "path": "dept/en-au/insight/how-to-survive-thrive-in-web3",
+  "timestamp": "2026-10-09T13:17:32.444Z",
+  "title": "How to survive & thrive in Web3 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "intro-text",
+    "panel-with-image-and-rich-text",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "quote",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "video",
+    "call-to-action",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/women-wearing-vr-goggles.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/women-wearing-vr-goggles.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/web3-panel.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/web3-panel.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/women-wearing-vr-goggles.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/women-wearing-vr-goggles.jpg"
+    ]
+  ]
+}

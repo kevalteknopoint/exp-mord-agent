@@ -1,0 +1,46 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/keeping-users-engaged-with-active-crm/",
+  "path": "dept/en-uki/case/keeping-users-engaged-with-active-crm",
+  "timestamp": "2026-10-09T20:17:55.478Z",
+  "title": "Keeping users engaged with active CRM - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-post-header",
+    "video",
+    "statement",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "video",
+    "title-and-content",
+    "highlighted-item-listing",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/08/artboard-5a.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/08/artboard-5a.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sophie.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sophie.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/KLM-1-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/KLM-1-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/GT-2560x1707-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/GT-2560x1707-1-min.jpg"
+    ]
+  ]
+}

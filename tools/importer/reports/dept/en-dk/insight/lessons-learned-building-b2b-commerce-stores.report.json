@@ -1,0 +1,52 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-dk/insight/lessons-learned-building-b2b-commerce-stores/",
+  "path": "dept/en-dk/insight/lessons-learned-building-b2b-commerce-stores",
+  "timestamp": "2026-10-09T14:50:59.135Z",
+  "title": "Lessons learned building B2B commerce stores - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-dk",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/10/The-future-of-e-commerce-is-composable-cookieless-sustainable-personal-1-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/10/The-future-of-e-commerce-is-composable-cookieless-sustainable-personal-1-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/build-ecommerce-brand-noisy-world.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/build-ecommerce-brand-noisy-world.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/e-commerce-platform-migration-tips-lessons-learned.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/e-commerce-platform-migration-tips-lessons-learned.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Victor-Lunde-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Victor-Lunde-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Lessons-learned-building-B2B-commerce-stores-open-graph.jpeg"
+    ]
+  ]
+}

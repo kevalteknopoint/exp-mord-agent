@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/dept-cares-day-2020/",
+  "path": "dept/en-au/insight/dept-cares-day-2020",
+  "timestamp": "2026-10-09T18:09:35.243Z",
+  "title": "DEPT® Cares Day 2020 - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "insights-header"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/IMG_9563-1200x750-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/IMG_9563-1200x750-c-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/09/IMG_9563-1200x750-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/09/IMG_9563-1200x750-c.jpeg"
+    ]
+  ]
+}

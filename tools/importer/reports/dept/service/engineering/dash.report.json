@@ -1,0 +1,80 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/service/engineering/dash/",
+  "path": "dept/service/engineering/dash",
+  "timestamp": "2026-10-09T22:49:50.213Z",
+  "title": "DASH - Website & e-commerce accelerator - DEPT®",
+  "template": "dept-service",
+  "locale": "global",
+  "components": [
+    "main-page-header",
+    "video",
+    "title-and-content",
+    "four-card-information-block",
+    "title-and-content",
+    "client-panel",
+    "cta-text",
+    "get-in-touch",
+    "podcasts",
+    "footer-top"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/Ecommerce-design-system.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/Ecommerce-design-system.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/product-design.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/product-design.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/growth-marketing-abstract.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/growth-marketing-abstract.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/5.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/5.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/4.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/4.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Contentful.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Contentful.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Commercetools.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Commercetools.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/01/3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/01/3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/sanity.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/sanity.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/cloudinary.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/cloudinary.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/07/stripe-logo-wo.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/07/stripe-logo-wo.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/motion-speed-technology-abstract-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/motion-speed-technology-abstract-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/ADA-DASH-Stacked-Logo-White.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/ADA-DASH-Stacked-Logo-White.jpg"
+    ]
+  ]
+}

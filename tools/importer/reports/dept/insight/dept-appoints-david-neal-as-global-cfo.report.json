@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/dept-appoints-david-neal-as-global-cfo/",
+  "path": "dept/insight/dept-appoints-david-neal-as-global-cfo",
+  "timestamp": "2026-10-09T20:58:32.239Z",
+  "title": "DEPT® appoints David Neal as Global CFO",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "case-intro",
+    "case-quote",
+    "assets-and-copy",
+    "case-quote",
+    "assets-and-copy",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DavidNeal_Web_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DavidNeal_Web_1920x1080.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Ines-Saraiva-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Ines-Saraiva-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1000x1200.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/DEPT-Lovie-Agency-of-the-year-2024_1000x1200.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/Forrester-_-2024-_-Insight-_-Phrase-1164x655-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Anthem-Awards-2024.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Anthem-Awards-2024.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/12/DavidNeal_Web_1920x1080.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/12/DavidNeal_Web_1920x1080.png"
+    ]
+  ]
+}

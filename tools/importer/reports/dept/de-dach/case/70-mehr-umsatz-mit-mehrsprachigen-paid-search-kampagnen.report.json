@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/case/70-mehr-umsatz-mit-mehrsprachigen-paid-search-kampagnen/",
+  "path": "dept/de-dach/case/70-mehr-umsatz-mit-mehrsprachigen-paid-search-kampagnen",
+  "timestamp": "2026-10-09T11:22:46.081Z",
+  "title": "70% mehr Umsatz mit mehrsprachigen Paid-Search-Kampagnen - DEPT®",
+  "template": "dept-case",
+  "locale": "de-dach",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "call-to-action",
+    "title-and-content",
+    "panel-two-media",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/SD_03_T28_1886M_Y0_X_EC_0.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/SD_03_T28_1886M_Y0_X_EC_0.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/SD_01_T59_5909_Y4_X_EC_0.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/SD_01_T59_5909_Y4_X_EC_0.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/9613_2tile1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/9613_2tile1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/9613_2tile2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/9613_2tile2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Christina-Hansen.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Christina-Hansen.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-170510613-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-170510613-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Figleaves_Header-1440x810-c.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Figleaves_Header-1440x810-c.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/Alzheimer-case-header-1440x810-c.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/Alzheimer-case-header-1440x810-c.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/Marks-scaled.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/Marks-scaled.jpeg"
+    ]
+  ]
+}

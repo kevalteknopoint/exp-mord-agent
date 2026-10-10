@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/ge-lighting/",
+  "path": "dept/en-au/case/ge-lighting",
+  "timestamp": "2026-10-09T13:04:24.867Z",
+  "title": "Rolling out one coherent website worldwide - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "post-header",
+    "intro-text",
+    "panel-with-rich-text",
+    "call-to-action",
+    "panel-with-rich-text",
+    "get-in-touch",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/jonathan-whiteside-svp.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/jonathan-whiteside-svp.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/VIA-outlets.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/VIA-outlets.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/GELEDLamp_Lifestyle-e1481056128297-ge-lightning.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/GELEDLamp_Lifestyle-e1481056128297-ge-lightning.jpeg"
+    ]
+  ]
+}

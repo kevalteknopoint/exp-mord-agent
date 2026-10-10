@@ -1,0 +1,53 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/crafting-a-digitally-immersive-showroom-in-six-weeks/",
+  "path": "dept/en-uki/case/crafting-a-digitally-immersive-showroom-in-six-weeks",
+  "timestamp": "2026-10-09T19:59:17.536Z",
+  "title": "Creating an immersive showroom in six weeks - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "assets-and-copy",
+    "jumbotron",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/10/Ganni-SS20-MJJ_3405.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/10/Ganni-SS20-MJJ_3405.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/GAN_WINDOW_DRESS_UP_short2-1.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/GAN_WINDOW_DRESS_UP_short2-1.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/ganni-levis.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/ganni-levis.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/T2775-001-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/T2775-001-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/08/GAN_SWITCHING.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/08/GAN_SWITCHING.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Skyteam-case-min-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Skyteam-case-min-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/Ganni7-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/Ganni7-1.jpg"
+    ]
+  ]
+}

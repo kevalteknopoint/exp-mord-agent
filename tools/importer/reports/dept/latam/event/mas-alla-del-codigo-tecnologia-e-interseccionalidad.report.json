@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/event/mas-alla-del-codigo-tecnologia-e-interseccionalidad/",
+  "path": "dept/latam/event/mas-alla-del-codigo-tecnologia-e-interseccionalidad",
+  "timestamp": "2026-10-09T23:44:00.735Z",
+  "title": "Más allá del código: Tecnología e Interseccionalidad - DEPT®",
+  "template": "dept-event",
+  "locale": "latam",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Screenshot-2023-11-16-at-18.33.54.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Screenshot-2023-11-16-at-18.33.54.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/MeTEvent_FormBackground-4-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/MeTEvent_FormBackground-4-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Soledad-Salas-web-Soledad-Salas-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Soledad-Salas-web-Soledad-Salas-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/paucardecampera-Paula-Cardenau-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/paucardecampera-Paula-Cardenau-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/foto-perfil-1-Mailen-Garcia-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/foto-perfil-1-Mailen-Garcia-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/WIN_20230106_16_55_44_Pro-Karen-Fernandez-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/WIN_20230106_16_55_44_Pro-Karen-Fernandez-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/MeTEvent_FormBackground-4-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/MeTEvent_FormBackground-4-1.jpg"
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/de-dach/dept-newsletter-bestaetigung/",
+  "path": "dept/de-dach/dept-newsletter-bestaetigung",
+  "timestamp": "2026-10-09T11:28:46.895Z",
+  "title": "DEPT® Newsletter Bestätigung - DEPT®",
+  "template": "dept-page",
+  "locale": "de-dach",
+  "components": [
+    "assets-and-copy"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/subscribe-DEPT-newsletter.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/subscribe-DEPT-newsletter.gif"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/subscribe-DEPT-newsletter.gif",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/subscribe-DEPT-newsletter.gif"
+    ]
+  ]
+}

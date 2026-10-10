@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/join-dept-at-dreamforce-2024/",
+  "path": "dept/event/join-dept-at-dreamforce-2024",
+  "timestamp": "2026-10-09T21:23:19.240Z",
+  "title": "Join DEPT® at Dreamforce 2024 - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-registration-form",
+    "event-register",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/DEPT%C2%AE-x-Dreamforce-2023-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/DEPT--x-Dreamforce-2023-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/DEPT%C2%AE-x-Dreamforce-2023-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/DEPT--x-Dreamforce-2023-header.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Ryan-Nicholson.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Ryan-Nicholson.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Cezar-Wasecki-profile-picture.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Cezar-Wasecki-profile-picture.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/Steve-Jennings.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/Steve-Jennings.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/08/nick-mundil.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/08/nick-mundil.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/08/DEPT%C2%AE-x-Dreamforce-2023-header.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/08/DEPT--x-Dreamforce-2023-header.jpg"
+    ]
+  ]
+}

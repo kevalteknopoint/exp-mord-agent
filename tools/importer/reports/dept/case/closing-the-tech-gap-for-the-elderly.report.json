@@ -1,0 +1,50 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/case/closing-the-tech-gap-for-the-elderly/",
+  "path": "dept/case/closing-the-tech-gap-for-the-elderly",
+  "timestamp": "2026-10-09T10:24:51.893Z",
+  "title": "Closing the tech gap for the elderly - DEPT®",
+  "template": "dept-case",
+  "locale": "global",
+  "components": [
+    "case-post-header",
+    "statement",
+    "video",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Untitled-design-3-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Untitled-design-3-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/dossy-Full-bleed-Project-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/dossy-Full-bleed-Project-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/dossy-Website-_-Summary-Image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/dossy-Website-_-Summary-Image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/hero-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/hero-1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Chocomel-x-DEPT%C2%AE.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Chocomel-x-DEPT-.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/Dossy-feature-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/Dossy-feature-image.png"
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/react-dont-retreat-putting-together-a-marketing-strategy-to-counter-covid-19/",
+  "path": "dept/insight/react-dont-retreat-putting-together-a-marketing-strategy-to-counter-covid-19",
+  "timestamp": "2026-10-09T21:34:56.363Z",
+  "title": "React, don’t retreat. putting together a marketing strategy to counter COVID-19 - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "highlighted-item-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/A25zoLn2-1200x750-c-1200x750-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/A25zoLn2-1200x750-c-1200x750-c-1.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/Philipp-Griesser-Dept-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/Philipp-Griesser-Dept-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/photo-1506365558634-e0c754979231-1-scaled-1200x675-c.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/photo-1506365558634-e0c754979231-1-scaled-1200x675-c.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/A25zoLn2-1200x750-c-1200x750-c-1.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/A25zoLn2-1200x750-c-1200x750-c-1.jpeg"
+    ]
+  ]
+}

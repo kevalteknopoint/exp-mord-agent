@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/putting-disability-inclusion-in-the-spotlight/",
+  "path": "dept/en-au/case/putting-disability-inclusion-in-the-spotlight",
+  "timestamp": "2026-10-09T12:20:10.642Z",
+  "title": "Putting disability inclusion in the spotlight - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-Campaign-image.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-Campaign-image.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO-campaign-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO-campaign-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/WHO_Campaign3.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/WHO_Campaign3.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Lizzie-Powell.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Lizzie-Powell.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/02/Bissel-Thumbnail-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/02/Bissel-Thumbnail-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1216092090-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1216092090-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/06/Campaign-Guidelines-22-Bringing-it-all-together.png"
+    ]
+  ]
+}

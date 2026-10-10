@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/insight/advertising-on-reddit-3-things-brands-need-to-know/",
+  "path": "dept/insight/advertising-on-reddit-3-things-brands-need-to-know",
+  "timestamp": "2026-10-09T21:48:33.036Z",
+  "title": "Advertising on Reddit? 3 Things Brands Need to Know - DEPT®",
+  "template": "dept-insight",
+  "locale": "global",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "wrapper",
+    "wrapper",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/13-ctv-advertising-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/13-ctv-advertising-FT.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Stephanie-Bissonnette-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Stephanie-Bissonnette-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/1-advertising-on-reddit-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/1-advertising-on-reddit-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/1-advertising-on-reddit-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/1-advertising-on-reddit-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/Jolly-on-a-motion-blurred-train-platform.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/10/ChatGPT-Ads_2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/10/ChatGPT-Ads_2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/Agentic-engineering-concept-1-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Stephanie-Bissonnette.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Stephanie-Bissonnette.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/13-ctv-advertising-FT.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/13-ctv-advertising-FT.jpeg"
+    ]
+  ]
+}

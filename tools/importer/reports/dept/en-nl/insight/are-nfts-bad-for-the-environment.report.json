@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-nl/insight/are-nfts-bad-for-the-environment/",
+  "path": "dept/en-nl/insight/are-nfts-bad-for-the-environment",
+  "timestamp": "2026-10-09T17:09:20.962Z",
+  "title": "Are NFTs bad for the environment? - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-nl",
+  "components": [
+    "article-post-header",
+    "image",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "title-and-content",
+    "jumbotron",
+    "title-and-content",
+    "call-to-action",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/power-lines.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/power-lines.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/nft-concept.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/nft-concept.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/power-lines.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/power-lines.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/trees.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/trees.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/08/2-Black-Friday-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/08/2-Black-Friday-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/The-end-of-virality-as-a-brand-strategy-Insight-1920x1080-1.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/creator-marketing-measurement-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/kelsey-headshot.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/kelsey-headshot.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/05/power-lines.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/05/power-lines.jpg"
+    ]
+  ]
+}

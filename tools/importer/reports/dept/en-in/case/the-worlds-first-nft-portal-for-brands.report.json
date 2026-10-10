@@ -1,0 +1,64 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-in/case/the-worlds-first-nft-portal-for-brands/",
+  "path": "dept/en-in/case/the-worlds-first-nft-portal-for-brands",
+  "timestamp": "2026-10-09T16:24:57.675Z",
+  "title": "The world’s first NFT portal for brands - DEPT®",
+  "template": "dept-case",
+  "locale": "en-in",
+  "components": [
+    "case-post-header",
+    "full-width-image",
+    "statement",
+    "full-width-image",
+    "title-and-content",
+    "quote",
+    "full-width-image",
+    "title-and-content",
+    "full-width-image",
+    "title-and-content",
+    "quote",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Algorand_Post_2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Algorand_Post_2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Algorand_1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Algorand_1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/02/Algorand_3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/02/Algorand_3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/Kristin-Cronin-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/06/1-EPS606_071410_J6I3423-scaled-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Joann-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Joann-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/wine.com-copy.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/wine.com-copy.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/12/algorand-concept.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/12/algorand-concept.jpg"
+    ]
+  ]
+}

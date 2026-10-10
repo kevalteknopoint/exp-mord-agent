@@ -1,0 +1,27 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/roundtable-amazon-marketing-cloud/",
+  "path": "dept/en-au/event/roundtable-amazon-marketing-cloud",
+  "timestamp": "2026-10-09T11:56:24.862Z",
+  "title": "Roundtable: Amazon Marketing Cloud - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/AMC-Roundtable-Source-image-2000x1570-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/AMC-Roundtable-Source-image-2000x1570-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Alec-Burns-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Alec-Burns-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/AMC-Roundtable-Source-image-2000x1570-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/AMC-Roundtable-Source-image-2000x1570-1.jpg"
+    ]
+  ]
+}

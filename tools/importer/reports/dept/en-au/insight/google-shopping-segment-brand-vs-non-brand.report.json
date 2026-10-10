@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/google-shopping-segment-brand-vs-non-brand/",
+  "path": "dept/en-au/insight/google-shopping-segment-brand-vs-non-brand",
+  "timestamp": "2026-10-09T13:55:56.439Z",
+  "title": "Google Shopping: How and Why to Segment Brand vs. Non-Brand",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/online-shopping-platform.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/online-shopping-platform.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/03/Willem-Blom-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/03/Willem-Blom-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Google-Shopping-BRand-vs-Non-Brand.HR-Microsoft-Word-Today-at-2.19.38-PM-2-e1680725970703.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Google-Shopping-BRand-vs-Non-Brand.HR-Microsoft-Word-Today-at-2.19.38-PM-2-e1680725970703.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/image005-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/image005-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/04/online-shopping-platform.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/04/online-shopping-platform.jpg"
+    ]
+  ]
+}

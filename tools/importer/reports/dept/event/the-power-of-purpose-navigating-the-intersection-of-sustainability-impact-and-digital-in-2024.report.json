@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/the-power-of-purpose-navigating-the-intersection-of-sustainability-impact-and-digital-in-2024/",
+  "path": "dept/event/the-power-of-purpose-navigating-the-intersection-of-sustainability-impact-and-digital-in-2024",
+  "timestamp": "2026-10-09T21:26:42.039Z",
+  "title": "The Power of Purpose: Navigating the intersection of sustainability, impact and digital in 2024  - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "title-and-content",
+    "image-with-content-cards",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Impact-Virtual-Event-Landing-P.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Impact-Virtual-Event-Landing-P.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/DEPT%C2%AE-IMPACT-1920X1080-No-logo.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/DEPT--IMPACT-1920X1080-No-logo.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Irving-X.-Chan-Gomez.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Irving-X.-Chan-Gomez.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.20.39.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/11/Captura-de-Pantalla-2022-11-11-a-las-12.20.39.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Kathy-Guis.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Kathy-Guis.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/05/Mark-Brutten.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/05/Mark-Brutten.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Impact-Virtual-Event-Landing-P.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Impact-Virtual-Event-Landing-P.png"
+    ]
+  ]
+}

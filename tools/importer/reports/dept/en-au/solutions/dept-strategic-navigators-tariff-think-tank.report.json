@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/solutions/dept-strategic-navigators-tariff-think-tank/",
+  "path": "dept/en-au/solutions/dept-strategic-navigators-tariff-think-tank",
+  "timestamp": "2026-10-09T14:32:19.840Z",
+  "title": "DEPT® Strategic Navigators",
+  "template": "dept-solutions",
+  "locale": "en-au",
+  "components": [
+    "title-block",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "highlighted-statement",
+    "highlighted-item-listing",
+    "work-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-LP.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-LP.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/strategic-navigators-tariff-disruption-portrait.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/strategic-navigators-tariff-disruption-portrait.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/adage-tariff-press.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/adage-tariff-press.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/futureweek.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/futureweek.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/campaign.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/campaign.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/digiday.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/digiday.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/the-drum.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/the-drum.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/06/Omoda-Featured-Image.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/06/Omoda-Featured-Image.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Strategic-Navigators-LP.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Strategic-Navigators-LP.jpg"
+    ]
+  ]
+}

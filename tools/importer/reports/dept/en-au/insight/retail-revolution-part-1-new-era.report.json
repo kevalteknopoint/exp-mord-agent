@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/insight/retail-revolution-part-1-new-era/",
+  "path": "dept/en-au/insight/retail-revolution-part-1-new-era",
+  "timestamp": "2026-10-09T13:46:42.536Z",
+  "title": "Retail evolution, part 1: a new era - DEPT®",
+  "template": "dept-insight",
+  "locale": "en-au",
+  "components": [
+    "article-post-header",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "image",
+    "title-and-content",
+    "cta-text",
+    "highlighted-item-listing",
+    "get-in-touch"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/e-commerce-trends-2023-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/e-commerce-trends-2023-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Sam-Huston-Dept-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Sam-Huston-Dept-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/17-retail-revolution-part-4-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/17-retail-revolution-part-4-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20-retail-revolution-part-1-FT.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20-retail-revolution-part-1-FT.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20-retail-revolution-part-1-2.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20-retail-revolution-part-1-2.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/20-retail-revolution-part-1-3.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/20-retail-revolution-part-1-3.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/07/Chatgpt-Assistance-Healthcare-AU-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/05/Souvenir-Shop-PR-1920x1080-insight-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/04/DEPTxAdobe-Accelerator_1080x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/e-commerce-trends-2023-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/e-commerce-trends-2023-1.png"
+    ]
+  ]
+}

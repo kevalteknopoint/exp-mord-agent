@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/event/dept-talks-the-power-of-content/",
+  "path": "dept/en-uki/event/dept-talks-the-power-of-content",
+  "timestamp": "2026-10-09T19:47:39.761Z",
+  "title": "The Power of Content - DEPT®",
+  "template": "dept-event",
+  "locale": "en-uki",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Event-header-1-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Event-header-1-min.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Franklin-3-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Franklin-3-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Heleen-2-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Heleen-2-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Isaac-2-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Isaac-2-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Janine-Katee-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Janine-Katee-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Luca-2-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Luca-2-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Maarten-van-Es-150x150.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Maarten-van-Es-150x150.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Richard-2-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Richard-2-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Salome-3-150x150.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Salome-3-150x150.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/02/Event-header-1-min.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/02/Event-header-1-min.png"
+    ]
+  ]
+}

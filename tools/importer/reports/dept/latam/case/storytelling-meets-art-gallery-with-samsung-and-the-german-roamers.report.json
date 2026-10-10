@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/case/storytelling-meets-art-gallery-with-samsung-and-the-german-roamers/",
+  "path": "dept/latam/case/storytelling-meets-art-gallery-with-samsung-and-the-german-roamers",
+  "timestamp": "2026-10-09T22:56:05.265Z",
+  "title": "Storytelling meets art gallery with Samsung and the German Roamers - DEPT®",
+  "template": "dept-case",
+  "locale": "latam",
+  "components": [
+    "case-post-header",
+    "image",
+    "statement",
+    "panel-two-media",
+    "title-and-content",
+    "stats-panel",
+    "call-to-action",
+    "title-and-content",
+    "title-and-content",
+    "get-in-touch",
+    "highlighted-cases",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/sam_1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/sam_1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/sam_2-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/sam_2-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/05/sam_3-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/05/sam_3-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/09/Arm_Hero_Static.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/09/Arm_Hero_Static.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/Meta-case_itsyourworld-custom_1920x1080.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/Meta-case_itsyourworld-custom_1920x1080.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/07/iStock-1313751774-1-scaled.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/07/iStock-1313751774-1-scaled.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Samsung-IFA-Header-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Samsung-IFA-Header-2.jpg"
+    ]
+  ]
+}

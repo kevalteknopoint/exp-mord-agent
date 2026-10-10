@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/office/paris/",
+  "path": "dept/office/paris",
+  "timestamp": "2026-10-09T22:39:32.085Z",
+  "title": "Paris - DEPT®",
+  "template": "dept-office",
+  "locale": "global",
+  "components": [
+    "panel-location-detail"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Paris-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Paris-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/Paris-1-768x800.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/Paris-1-768x800.png"
+    ]
+  ]
+}

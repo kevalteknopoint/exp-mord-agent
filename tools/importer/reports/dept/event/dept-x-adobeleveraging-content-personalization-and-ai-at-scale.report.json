@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/event/dept-x-adobeleveraging-content-personalization-and-ai-at-scale/",
+  "path": "dept/event/dept-x-adobeleveraging-content-personalization-and-ai-at-scale",
+  "timestamp": "2026-10-09T21:14:57.439Z",
+  "title": "DEPT® x Adobe Leveraging content, personalization, and AI at scale - DEPT®",
+  "template": "dept-event",
+  "locale": "global",
+  "components": [
+    "event-header",
+    "event-register",
+    "event-registration-form",
+    "image-with-content-cards",
+    "title-and-content",
+    "event-register"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/DEPT%C2%AE-Adobe-Summit-Landing-page-header-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/DEPT--Adobe-Summit-Landing-page-header-1-2.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Adobe-Image-pardot-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Adobe-Image-pardot-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Yash-Mody.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Yash-Mody.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Oleg-Sidorenko-Dept-2.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Oleg-Sidorenko-Dept-2.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/04/Praveen.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/04/Praveen.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/DEPT%C2%AE-Adobe-Summit-Landing-page-header-1-2.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/DEPT--Adobe-Summit-Landing-page-header-1-2.png"
+    ]
+  ]
+}

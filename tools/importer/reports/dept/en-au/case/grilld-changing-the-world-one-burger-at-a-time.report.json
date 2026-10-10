@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/case/grilld-changing-the-world-one-burger-at-a-time/",
+  "path": "dept/en-au/case/grilld-changing-the-world-one-burger-at-a-time",
+  "timestamp": "2026-10-09T13:06:47.340Z",
+  "title": "Changing the world one burger at a time - DEPT®",
+  "template": "dept-case",
+  "locale": "en-au",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "case-quote",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1920-x-1088.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1920-x-1088.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1920-x-1081.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1920-x-1081.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1920-x-1089.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1920-x-1089.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1920-x-1083.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1920-x-1083.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/03/Grilld-1000-x-1200.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/03/Grilld-1000-x-1200.jpg"
+    ]
+  ]
+}

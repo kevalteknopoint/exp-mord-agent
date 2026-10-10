@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/service/experiencia/design-sprint/",
+  "path": "dept/latam/service/experiencia/design-sprint",
+  "timestamp": "2026-10-09T22:29:36.938Z",
+  "title": "Design Sprint - DEPT®",
+  "template": "dept-service",
+  "locale": "latam",
+  "components": [
+    "panel-with-rich-text"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2021/04/designsprints.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2021/04/designsprints.png"
+    ]
+  ]
+}

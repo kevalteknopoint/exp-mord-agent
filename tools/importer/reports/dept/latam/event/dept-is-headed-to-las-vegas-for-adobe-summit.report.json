@@ -1,0 +1,117 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/latam/event/dept-is-headed-to-las-vegas-for-adobe-summit/",
+  "path": "dept/latam/event/dept-is-headed-to-las-vegas-for-adobe-summit",
+  "timestamp": "2026-10-09T23:45:09.570Z",
+  "title": "Join DEPT® at Adobe Summit - DEPT®",
+  "template": "dept-event",
+  "locale": "latam",
+  "components": [
+    "event-intro",
+    "wrapper",
+    "event-content-v2",
+    "event-program-v2",
+    "event-people",
+    "work-listing",
+    "custom-listing"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/AdobeSummit26-Landing-page-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/AdobeSummit26-Landing-page-1920x1080-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Andrew-Dimitriou.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Andrew-Dimitriou.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/03/carryn-quibell-ceo-americas.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/03/carryn-quibell-ceo-americas.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/New-Hire-Michael%E2%80%A8Lanyon-1080x1350-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/New-Hire-Michael-Lanyon-1080x1350-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/09/Jonathan-Whiteside.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/09/Jonathan-Whiteside.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/09/alex-glaser.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/09/alex-glaser.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Vishnu_Mohan.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Vishnu_Mohan.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/10/Himanshu-Mody.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/10/Himanshu-Mody.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/10/JessicaNarisety_Headshot.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/10/JessicaNarisety_Headshot.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/Claire-Shalbrack_preferred.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/Claire-Shalbrack_preferred.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/01/james-lowe.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/01/james-lowe.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/12/Evan_Davey.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/12/Evan_Davey.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2025/04/Saurabh-Shah-Dept-1-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2025/04/Saurabh-Shah-Dept-1-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Screenshot-2026-02-03-at-11.33.25-AM.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Screenshot-2026-02-03-at-11.33.25-AM.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Screenshot-2026-02-09-at-10.17.23-AM.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Screenshot-2026-02-09-at-10.17.23-AM.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/CEAT_Bringing-tyre-shopping-online-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Tata-Capital_1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Tata-Capital_1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/04/smart-car-electric-mobility-charging.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/04/smart-car-electric-mobility-charging.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1920x1080_1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/03/Finserv-MARKETS-Reduce-Time-to-Market-by-40-with-Adobe-Experience-Manager-1920x1080_1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/11/aem-implementations.jpeg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/11/aem-implementations.jpeg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Smart-6.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Smart-6.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/10/pink-flower-blue-background-adobe.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/10/pink-flower-blue-background-adobe.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/07/Adobe-thumbnail-500x300-min.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/07/Adobe-thumbnail-500x300-min.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/01/AdobeSummit26-Landing-page-1920x1080-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/01/AdobeSummit26-Landing-page-1920x1080-1.png"
+    ]
+  ]
+}

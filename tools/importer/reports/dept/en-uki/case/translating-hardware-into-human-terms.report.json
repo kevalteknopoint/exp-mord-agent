@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-uki/case/translating-hardware-into-human-terms/",
+  "path": "dept/en-uki/case/translating-hardware-into-human-terms",
+  "timestamp": "2026-10-09T19:17:40.540Z",
+  "title": "Translating hardware into human terms - DEPT®",
+  "template": "dept-case",
+  "locale": "en-uki",
+  "components": [
+    "case-intro-title",
+    "assets-and-copy",
+    "case-intro",
+    "image",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "assets-and-copy",
+    "next-case"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-store-mobile-interface-1.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-store-mobile-interface-1.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-store-desktop.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-store-desktop.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-store-products.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-store-products.webp"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2022/03/Paulas-Choice-peptide-booster.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2022/03/Paulas-Choice-peptide-booster.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2026/02/Google-Pixel-Thumnail-.webp",
+      "/content/dam/exp-mord-agent/dept/uploads/2026/02/Google-Pixel-Thumnail-.webp"
+    ]
+  ]
+}

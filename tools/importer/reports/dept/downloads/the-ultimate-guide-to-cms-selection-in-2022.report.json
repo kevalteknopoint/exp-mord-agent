@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/downloads/the-ultimate-guide-to-cms-selection-in-2022/",
+  "path": "dept/downloads/the-ultimate-guide-to-cms-selection-in-2022",
+  "timestamp": "2026-10-09T11:46:04.017Z",
+  "title": "The ultimate guide to CMS selection in 2022 - DEPT®",
+  "template": "dept-downloads",
+  "locale": "global",
+  "components": [
+    "whitepaper-intro"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/computer-component.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/computer-component.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2024/11/computer-component.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2024/11/computer-component.png"
+    ]
+  ]
+}

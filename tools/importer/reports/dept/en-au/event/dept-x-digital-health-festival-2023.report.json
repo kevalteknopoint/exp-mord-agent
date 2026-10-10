@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "url": "https://www.dept.global/en-au/event/dept-x-digital-health-festival-2023/",
+  "path": "dept/en-au/event/dept-x-digital-health-festival-2023",
+  "timestamp": "2026-10-09T12:56:45.309Z",
+  "title": "DEPT® x Digital Health Festival 2023 - DEPT®",
+  "template": "dept-event",
+  "locale": "en-au",
+  "components": [
+    "event-details"
+  ],
+  "fallback": [],
+  "images": [
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Digital-health-event-header-1905x975-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Digital-health-event-header-1905x975-1.png"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Heisey-Grove_v3_2021-2-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Heisey-Grove_v3_2021-2-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Evan-Davey-Dept-1-1-150x150.jpg",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Evan-Davey-Dept-1-1-150x150.jpg"
+    ],
+    [
+      "https://www.dept.global/wp-content/uploads/2023/05/Digital-health-event-header-1905x975-1.png",
+      "/content/dam/exp-mord-agent/dept/uploads/2023/05/Digital-health-event-header-1905x975-1.png"
+    ]
+  ]
+}

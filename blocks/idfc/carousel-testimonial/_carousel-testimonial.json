@@ -1,0 +1,68 @@
+{
+  "definitions": [
+    {
+      "title": "Carousel Testimonial",
+      "id": "carousel-testimonial",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Carousel Testimonial",
+              "filter": "carousel-testimonial"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Carousel Testimonial Item",
+      "id": "carousel-testimonial-item",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Testimonial",
+              "model": "carousel-testimonial-item"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "carousel-testimonial-item",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Avatar (optional; an item with only an image becomes a decorative bubble)",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Avatar Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Testimonial (date, name in bold, quote)",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "carousel-testimonial",
+      "components": ["carousel-testimonial-item"]
+    }
+  ]
+}

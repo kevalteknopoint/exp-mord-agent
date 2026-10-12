@@ -1,0 +1,20 @@
+{
+  "variantName": "carousel-hero",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "promo hero slider",
+    "imagePattern": "large right image/video",
+    "structure": "heading + text + 2 CTAs + media"
+  },
+  "contentPattern": "One row per slide: cell 1 = media (image; or link to video asset for video slides), cell 2 = heading (h1 on first slide / h2 others), supporting paragraph, primary CTA link (strong/button), secondary link",
+  "usage": {
+    "pagesUsing": ["https://www.idfcfirst.bank.in/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-12"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

@@ -1,0 +1,156 @@
+/* cards-apply-now: fixed side tab opening a slide-out product list (structural only) */
+.cards-apply-now .cards-apply-now-trigger {
+  position: fixed;
+  z-index: 90;
+  right: 0;
+  bottom: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  width: 72px;
+  margin: 0;
+  padding: 12px 8px;
+  border: 0;
+  border-radius: 8px 0 0 8px;
+  background: Canvas;
+  color: CanvasText;
+  font: inherit;
+  text-align: center;
+  cursor: pointer;
+
+  /* the global button style is single-line and clipped; the side tab label wraps */
+  white-space: normal;
+  overflow: visible;
+}
+
+.cards-apply-now .cards-apply-now-trigger-icon img {
+  display: block;
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.cards-apply-now .cards-apply-now-panel {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(100%, 420px);
+  padding: 48px 24px 24px;
+  overflow-y: auto;
+  background: Canvas;
+  color: CanvasText;
+  box-shadow: 0 0 24px rgb(0 0 0 / 20%);
+}
+
+.cards-apply-now .cards-apply-now-panel[hidden] {
+  display: none;
+}
+
+.cards-apply-now .cards-apply-now-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 32px;
+  height: 32px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.cards-apply-now .cards-apply-now-close::before,
+.cards-apply-now .cards-apply-now-close::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 18px;
+  height: 2px;
+  background: currentcolor;
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.cards-apply-now .cards-apply-now-close::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.cards-apply-now .cards-apply-now-header > :first-child {
+  margin-top: 0;
+}
+
+.cards-apply-now .cards-apply-now-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 24px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-apply-now .cards-apply-now-item {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  text-align: center;
+}
+
+.cards-apply-now .cards-apply-now-icon img {
+  display: block;
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.cards-apply-now .cards-apply-now-body p {
+  margin: 0;
+}
+
+.cards-apply-now .cards-apply-now-item-linked .cards-apply-now-link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+.cards-apply-now .cards-apply-now-tag {
+  display: inline-block;
+  margin-left: 4px;
+  padding: 0 6px;
+  border-radius: 4px;
+  font-size: 0.75em;
+  font-style: normal;
+}
+
+/* Universal Editor: show the drawer inline so it can be authored */
+.cards-apply-now.cards-apply-now-inline .cards-apply-now-trigger,
+.cards-apply-now.cards-apply-now-inline .cards-apply-now-panel {
+  position: static;
+  width: auto;
+  box-shadow: none;
+}
+
+.cards-apply-now.cards-apply-now-inline .cards-apply-now-close {
+  display: none;
+}
+
+@media (width >= 600px) {
+  .cards-apply-now .cards-apply-now-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (width >= 900px) {
+  .cards-apply-now .cards-apply-now-panel {
+    top: auto;
+    bottom: 24px;
+    max-height: calc(100vh - 48px);
+    width: 520px;
+    border-radius: 16px 0 0 16px;
+  }
+}

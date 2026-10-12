@@ -1,0 +1,20 @@
+{
+  "variantName": "tabs-products",
+  "baseBlock": "tabs",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light with gradient cards",
+    "density": "dense",
+    "purpose": "product catalogue",
+    "imagePattern": "line icon per card",
+    "structure": "icon tabs + 3-col card grid + 2 CTAs"
+  },
+  "contentPattern": "xwalk tabs-style item rows: one row per product card: cell 1 = tab label (rows with the same label are grouped into one panel; first row of a tab may carry the tab icon image), cell 2 = card icon image, cell 3 = card title (h2/strong), benefit paragraph(s), primary CTA link, secondary link. Optional card theme (blue/red/plum/black/chocolate) authored as a classes/select field.",
+  "usage": {
+    "pagesUsing": ["https://www.idfcfirst.bank.in/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-12"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

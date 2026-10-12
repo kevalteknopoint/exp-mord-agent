@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "url": "https://www.idfcfirst.bank.in/",
+  "path": "idfc",
+  "timestamp": "2026-10-12T13:32:56.106Z",
+  "title": "IDFC FIRST Bank - Personal Banking, Loans, Accounts, Cards, Investment | IDFC FIRST Bank",
+  "template": "home",
+  "blocks": [
+    "carousel-hero",
+    "tabs-products",
+    "carousel-features",
+    "calculator-finance",
+    "carousel-spotlight",
+    "columns-app",
+    "cards-app-links",
+    "carousel-testimonial",
+    "tabs-articles",
+    "carousel-awards",
+    "cards-stats",
+    "cards-support",
+    "cards-apply-now"
+  ]
+}

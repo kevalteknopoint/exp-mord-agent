@@ -1,0 +1,143 @@
+/* carousel-awards: award card slider (image top, copy, arrow link), arrows above (structural only) */
+.carousel-awards .carousel-awards-nav {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.carousel-awards .carousel-awards-nav[hidden] {
+  display: none;
+}
+
+.carousel-awards .carousel-awards-prev,
+.carousel-awards .carousel-awards-next {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.carousel-awards .carousel-awards-prev:disabled,
+.carousel-awards .carousel-awards-next:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.carousel-awards .carousel-awards-prev::after,
+.carousel-awards .carousel-awards-next::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 7px;
+  height: 7px;
+  border-top: 2px solid currentcolor;
+  border-left: 2px solid currentcolor;
+  transform: translate(-30%, -50%) rotate(-45deg);
+}
+
+.carousel-awards .carousel-awards-next::after {
+  transform: translate(-70%, -50%) rotate(135deg);
+}
+
+.carousel-awards .carousel-awards-track {
+  display: flex;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+
+.carousel-awards .carousel-awards-track::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-awards .carousel-awards-card {
+  position: relative;
+  flex: 0 0 80%;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  min-height: 440px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.carousel-awards .carousel-awards-image {
+  aspect-ratio: 278 / 252;
+  overflow: hidden;
+}
+
+.carousel-awards .carousel-awards-image picture,
+.carousel-awards .carousel-awards-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.carousel-awards .carousel-awards-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 16px 17px;
+}
+
+.carousel-awards .carousel-awards-body p {
+  margin: 0;
+}
+
+.carousel-awards .carousel-awards-link-wrap {
+  align-self: flex-end;
+  margin-top: auto;
+  padding-top: 16px;
+}
+
+/* arrow-only link; the text stays available to assistive tech, the card is the hit area */
+.carousel-awards .carousel-awards-link {
+  display: inline-block;
+  position: static;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  color: inherit;
+  font-size: 0;
+}
+
+.carousel-awards .carousel-awards-link::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+.carousel-awards .carousel-awards-link::after {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-top: 2px solid currentcolor;
+  border-right: 2px solid currentcolor;
+  transform: translate(2px, 4px) rotate(45deg);
+}
+
+@media (width >= 600px) {
+  .carousel-awards .carousel-awards-card {
+    flex-basis: calc((100% - 16px) / 2);
+  }
+}
+
+@media (width >= 900px) {
+  .carousel-awards .carousel-awards-card {
+    flex-basis: calc((100% - 48px) / 4);
+  }
+}

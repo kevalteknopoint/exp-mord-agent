@@ -59,7 +59,20 @@
         "table",
         "text",
         "title",
-        "video"
+        "video",
+        "carousel-hero",
+        "tabs-products",
+        "carousel-features",
+        "calculator-finance",
+        "carousel-spotlight",
+        "columns-app",
+        "cards-app-links",
+        "carousel-testimonial",
+        "tabs-articles",
+        "carousel-awards",
+        "cards-stats",
+        "cards-support",
+        "cards-apply-now"
       ]
     }
   ]

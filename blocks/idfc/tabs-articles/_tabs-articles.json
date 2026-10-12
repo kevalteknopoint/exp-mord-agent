@@ -1,0 +1,76 @@
+{
+  "definitions": [
+    {
+      "title": "Tabs Articles",
+      "id": "tabs-articles",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Tabs Articles",
+              "filter": "tabs-articles"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Tabs Articles Item",
+      "id": "tabs-articles-item",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Article",
+              "model": "tabs-articles-item",
+              "tab": "Savings Account"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "tabs-articles-item",
+      "fields": [
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "tab",
+          "value": "",
+          "label": "Tab / Category (items with the same category share a tab)"
+        },
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Article Image (leave empty for the tab's Know More link)",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Article Image Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text (h3 title link, date | read time) or a single Know More link",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "tabs-articles",
+      "components": ["tabs-articles-item"]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "variantName": "columns-app",
+  "baseBlock": "columns",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "medium",
+    "purpose": "app promotion",
+    "imagePattern": "phone mockup + QR",
+    "structure": "text+2 CTAs | image | heading + QR card"
+  },
+  "contentPattern": "1 row x 3 cells: cell 1 = h2, paragraph, 2 links; cell 2 = phone image (+ ratings image); cell 3 = heading paragraph, h3 'Download IDFC FIRST Bank App', QR image",
+  "usage": {
+    "pagesUsing": ["https://www.idfcfirst.bank.in/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-12"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

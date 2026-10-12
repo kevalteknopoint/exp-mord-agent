@@ -153,7 +153,6 @@
                 "resourceType": "core/franklin/components/block/v1/block",
                 "template": {
                   "name": "Carousel",
-                  "model": "carousel",
                   "filter": "carousel"
                 }
               }
@@ -425,6 +424,388 @@
                   "name": "Video",
                   "model": "video",
                   "filter": "video"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Calculator Finance",
+          "id": "calculator-finance",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Calculator Finance",
+                  "model": "calculator-finance",
+                  "filter": "calculator-finance"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Calculator Finance Tab",
+          "id": "calculator-finance-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Calculator Tab",
+                  "model": "calculator-finance-item",
+                  "label": "Savings Account",
+                  "calc_type": "savings"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards App Links",
+          "id": "cards-app-links",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards App Links",
+                  "filter": "cards-app-links"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards App Links Item",
+          "id": "cards-app-links-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "App Link",
+                  "model": "cards-app-links-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Apply Now",
+          "id": "cards-apply-now",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Apply Now",
+                  "model": "cards-apply-now",
+                  "filter": "cards-apply-now",
+                  "trigger_label": "Select a Product"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Apply Now Item",
+          "id": "cards-apply-now-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Product Link",
+                  "model": "cards-apply-now-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Stats",
+          "id": "cards-stats",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Stats",
+                  "filter": "cards-stats"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Stats Item",
+          "id": "cards-stats-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Stat",
+                  "model": "cards-stats-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Support",
+          "id": "cards-support",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Cards Support",
+                  "filter": "cards-support"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards Support Item",
+          "id": "cards-support-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Support Link",
+                  "model": "cards-support-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Awards",
+          "id": "carousel-awards",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Carousel Awards",
+                  "filter": "carousel-awards"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Awards Item",
+          "id": "carousel-awards-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Award",
+                  "model": "carousel-awards-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Features",
+          "id": "carousel-features",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Carousel Features",
+                  "filter": "carousel-features"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Features Card",
+          "id": "carousel-features-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Feature Card",
+                  "model": "carousel-features-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Hero",
+          "id": "carousel-hero",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Carousel Hero",
+                  "filter": "carousel-hero"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Hero Slide",
+          "id": "carousel-hero-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Carousel Hero Slide",
+                  "model": "carousel-hero-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Spotlight",
+          "id": "carousel-spotlight",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Carousel Spotlight",
+                  "filter": "carousel-spotlight"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Spotlight Card",
+          "id": "carousel-spotlight-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Spotlight Card",
+                  "model": "carousel-spotlight-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Testimonial",
+          "id": "carousel-testimonial",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Carousel Testimonial",
+                  "filter": "carousel-testimonial"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Carousel Testimonial Item",
+          "id": "carousel-testimonial-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Testimonial",
+                  "model": "carousel-testimonial-item"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Columns App",
+          "id": "columns-app",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/columns/v1/columns",
+                "template": {
+                  "columns": "3",
+                  "rows": "1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Tabs Articles",
+          "id": "tabs-articles",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Tabs Articles",
+                  "filter": "tabs-articles"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Tabs Articles Item",
+          "id": "tabs-articles-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Article",
+                  "model": "tabs-articles-item",
+                  "tab": "Savings Account"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Tabs Products",
+          "id": "tabs-products",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Tabs Products",
+                  "filter": "tabs-products"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Tabs Products Card",
+          "id": "tabs-products-item",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "Product Card",
+                  "model": "tabs-products-item",
+                  "tab_label": "Popular"
                 }
               }
             }

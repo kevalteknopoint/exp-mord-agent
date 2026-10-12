@@ -1,0 +1,20 @@
+{
+  "variantName": "tabs-articles",
+  "baseBlock": "tabs",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "medium",
+    "purpose": "blog articles by category",
+    "imagePattern": "article image",
+    "structure": "pill tabs + image + title + meta + know more"
+  },
+  "contentPattern": "One row per article: cell 1 = tab label (category), cell 2 = article image, cell 3 = title link (h3), date | read time paragraph. Per-category 'Know More' link authored as a row with only label + link.",
+  "usage": {
+    "pagesUsing": ["https://www.idfcfirst.bank.in/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-12"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

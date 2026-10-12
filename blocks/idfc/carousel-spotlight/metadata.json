@@ -1,0 +1,20 @@
+{
+  "variantName": "carousel-spotlight",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "gradient cards on grey",
+    "density": "medium",
+    "purpose": "quick actions",
+    "imagePattern": "outline icon top-right",
+    "structure": "title + text + arrow CTA"
+  },
+  "contentPattern": "One row per card: cell 1 = icon image, cell 2 = h3 title, description, CTA link",
+  "usage": {
+    "pagesUsing": ["https://www.idfcfirst.bank.in/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-12"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

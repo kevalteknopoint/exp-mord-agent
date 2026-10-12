@@ -1,0 +1,297 @@
+{
+  "templates": [
+    {
+      "name": "home",
+      "urls": [
+        "https://www.idfcfirst.bank.in/"
+      ],
+      "representativeUrl": "https://www.idfcfirst.bank.in/",
+      "description": "IDFC FIRST Bank homepage: hero slider, product tabs, feature/spotlight/award carousels, calculators, app promo, testimonials, articles, stats, support links, apply-now drawer",
+      "blocks": [
+        {
+          "name": "carousel-hero",
+          "instances": [
+            ".homepage-banner .embla-home-static-banner"
+          ]
+        },
+        {
+          "name": "tabs-products",
+          "instances": [
+            ".product-tabs .home-tab-content"
+          ]
+        },
+        {
+          "name": "carousel-features",
+          "instances": [
+            ".what-make-us-spl .special-embla-slider"
+          ]
+        },
+        {
+          "name": "calculator-finance",
+          "instances": [
+            ".calulator .revamp_financial_calc"
+          ]
+        },
+        {
+          "name": "carousel-spotlight",
+          "instances": [
+            ".spotlight .spotlight-carousel"
+          ]
+        },
+        {
+          "name": "columns-app",
+          "instances": [
+            ".adv-mobile-app .advance-mobile-app > .row"
+          ]
+        },
+        {
+          "name": "cards-app-links",
+          "instances": [
+            ".adv-mobile-app .bottom-nav"
+          ]
+        },
+        {
+          "name": "carousel-testimonial",
+          "instances": [
+            ".compliment .embla-testi-slider"
+          ]
+        },
+        {
+          "name": "tabs-articles",
+          "instances": [
+            ".manage-your-finance .home-blog-tab-content"
+          ]
+        },
+        {
+          "name": "carousel-awards",
+          "instances": [
+            ".awards-accordian .embla-awards-banner"
+          ]
+        },
+        {
+          "name": "cards-stats",
+          "instances": [
+            ".helping-communities .custom-div"
+          ]
+        },
+        {
+          "name": "cards-support",
+          "instances": [
+            ".getInTouch .get-intouch-revamp .col-lg-12"
+          ]
+        },
+        {
+          "name": "cards-apply-now",
+          "instances": [
+            ".apply-now.aem-GridColumn .apply-now-container"
+          ]
+        }
+      ],
+      "urlPattern": "/",
+      "sections": [
+        {
+          "id": "rc3",
+          "name": "hero-carousel",
+          "selector": [
+            ".homepage-banner.aem-GridColumn",
+            ".homepage-banner"
+          ],
+          "style": null,
+          "blocks": [
+            "carousel-hero"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "rc4",
+          "name": "app-scanner",
+          "selector": [
+            ".homepage-scanner.aem-GridColumn",
+            ".homepage-scanner"
+          ],
+          "style": "app-scanner",
+          "blocks": [],
+          "defaultContent": [
+            ".homepage-scanner .grnt-qr-new"
+          ]
+        },
+        {
+          "id": "rc5",
+          "name": "product-tabs",
+          "selector": [
+            ".product-tabs.aem-GridColumn",
+            ".product-tabs"
+          ],
+          "style": null,
+          "blocks": [
+            "tabs-products"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "rc6",
+          "name": "what-makes-us-special",
+          "selector": [
+            ".what-make-us-spl.aem-GridColumn",
+            ".what-make-us-spl"
+          ],
+          "style": null,
+          "blocks": [
+            "carousel-features"
+          ],
+          "defaultContent": [
+            ".what-make-us-spl .what-make-special > .container > h2.title",
+            ".what-make-us-spl .what-make-special > .container > p",
+            ".what-make-us-spl .what-make-special > .container > a.knowMore"
+          ]
+        },
+        {
+          "id": "rc7",
+          "name": "financial-calculators",
+          "selector": [
+            ".calulator.aem-GridColumn",
+            ".calulator"
+          ],
+          "style": "dark-red",
+          "blocks": [
+            "calculator-finance"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "rc8",
+          "name": "spotlight",
+          "selector": [
+            ".spotlight.aem-GridColumn",
+            ".spotlight"
+          ],
+          "style": "light-grey",
+          "blocks": [
+            "carousel-spotlight"
+          ],
+          "defaultContent": [
+            ".spotlight .spotlight-heading-container"
+          ]
+        },
+        {
+          "id": "rc9",
+          "name": "mobile-app",
+          "selector": [
+            ".adv-mobile-app.aem-GridColumn",
+            ".adv-mobile-app"
+          ],
+          "style": null,
+          "blocks": [
+            "columns-app",
+            "cards-app-links"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "rc10",
+          "name": "testimonials",
+          "selector": [
+            ".compliment.aem-GridColumn",
+            ".compliment"
+          ],
+          "style": "light-grey",
+          "blocks": [
+            "carousel-testimonial"
+          ],
+          "defaultContent": [
+            ".compliment .testimonial-section figure",
+            ".compliment .testimonial-section h2.h2"
+          ]
+        },
+        {
+          "id": "rc11",
+          "name": "manage-finances",
+          "selector": [
+            ".manage-your-finance.aem-GridColumn",
+            ".manage-your-finance"
+          ],
+          "style": null,
+          "blocks": [
+            "tabs-articles"
+          ],
+          "defaultContent": [
+            ".manage-your-finance h2.home-carousel-2-heading"
+          ]
+        },
+        {
+          "id": "rc12",
+          "name": "awards",
+          "selector": [
+            ".awards-accordian.aem-GridColumn",
+            ".awards-accordian"
+          ],
+          "style": null,
+          "blocks": [
+            "carousel-awards"
+          ],
+          "defaultContent": [
+            ".awards-accordian .home-awards-sec > .container > h2.title",
+            ".awards-accordian .home-awards-sec > .container > p.sub-title",
+            ".awards-accordian .home-awards-sec > .container > a.knowMore"
+          ]
+        },
+        {
+          "id": "rc13",
+          "name": "communities",
+          "selector": [
+            ".helping-communities.aem-GridColumn",
+            ".helping-communities"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-stats"
+          ],
+          "defaultContent": [
+            ".helping-communities .communities-heading"
+          ]
+        },
+        {
+          "id": "rc14",
+          "name": "get-in-touch",
+          "selector": [
+            ".getInTouch.aem-GridColumn",
+            ".getInTouch"
+          ],
+          "style": "light-grey",
+          "blocks": [
+            "cards-support"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "rc15",
+          "name": "mission-banner",
+          "selector": [
+            ".cust-friendly.aem-GridColumn",
+            ".cust-friendly"
+          ],
+          "style": "mission",
+          "blocks": [],
+          "defaultContent": [
+            ".cust-friendly .customer-friendly .col-lg-12"
+          ]
+        },
+        {
+          "id": "rc16",
+          "name": "apply-now-drawer",
+          "selector": [
+            ".apply-now.aem-GridColumn"
+          ],
+          "style": null,
+          "blocks": [
+            "cards-apply-now"
+          ],
+          "defaultContent": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "projectType": "xwalk"
+  }
+}

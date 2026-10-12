@@ -1,0 +1,20 @@
+{
+  "variantName": "calculator-finance",
+  "baseBlock": "calculator",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "dark red",
+    "density": "dense",
+    "purpose": "interactive financial calculators",
+    "imagePattern": "illustration left",
+    "structure": "intro + tabbed sliders calculator + CTA"
+  },
+  "contentPattern": "Row 1 = intro: cell 1 = illustration image, cell 2 = heading, paragraph, footnote disclaimer. Following rows = one per calculator tab: cell 1 = tab label, cell 2 = calculator type key (savings|personal-loan|credit-card|home-loan|two-wheeler-loan) plus range/default values as text, cell 3 = Apply Now CTA link and disclaimer text.",
+  "usage": {
+    "pagesUsing": ["https://www.idfcfirst.bank.in/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-12"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

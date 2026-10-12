@@ -1,0 +1,179 @@
+/* tabs-articles: pill category tabs + article card slider + Know More link (structural only) */
+.tabs-articles .tabs-articles-list {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.tabs-articles .tabs-articles-list::-webkit-scrollbar {
+  display: none;
+}
+
+.tabs-articles .tabs-articles-tab {
+  flex: 0 0 auto;
+  margin: 0;
+  padding: 8px 16px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.tabs-articles .tabs-articles-tab[aria-selected='true'] {
+  font-weight: bold;
+}
+
+.tabs-articles .tabs-articles-panel {
+  margin-top: 30px;
+}
+
+.tabs-articles .tabs-articles-panel[hidden] {
+  display: none;
+}
+
+.tabs-articles .tabs-articles-slider {
+  position: relative;
+}
+
+.tabs-articles .tabs-articles-track {
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+
+.tabs-articles .tabs-articles-track::-webkit-scrollbar {
+  display: none;
+}
+
+.tabs-articles .tabs-articles-card {
+  flex: 0 0 85%;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.tabs-articles .tabs-articles-card-image {
+  aspect-ratio: 373 / 204;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.tabs-articles .tabs-articles-card-image picture,
+.tabs-articles .tabs-articles-card-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.tabs-articles .tabs-articles-card-body > * {
+  margin: 0 0 12px;
+}
+
+.tabs-articles .tabs-articles-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 8px;
+}
+
+.tabs-articles .tabs-articles-card-read::before {
+  content: '|';
+  margin-right: 8px;
+}
+
+/* the article link is stretched over the whole card */
+.tabs-articles .tabs-articles-card-linked {
+  position: relative;
+}
+
+.tabs-articles .tabs-articles-card-link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+.tabs-articles .tabs-articles-prev,
+.tabs-articles .tabs-articles-next {
+  position: absolute;
+  z-index: 1;
+  top: 100px;
+  width: 36px;
+  height: 36px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: Canvas;
+  color: CanvasText;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.tabs-articles .tabs-articles-prev {
+  left: 12px;
+}
+
+.tabs-articles .tabs-articles-next {
+  right: 12px;
+}
+
+.tabs-articles .tabs-articles-prev[hidden],
+.tabs-articles .tabs-articles-next[hidden] {
+  display: none;
+}
+
+.tabs-articles .tabs-articles-prev::after,
+.tabs-articles .tabs-articles-next::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 7px;
+  height: 7px;
+  border-top: 2px solid currentcolor;
+  border-left: 2px solid currentcolor;
+  transform: translate(-30%, -50%) rotate(-45deg);
+}
+
+.tabs-articles .tabs-articles-next::after {
+  transform: translate(-70%, -50%) rotate(135deg);
+}
+
+.tabs-articles .tabs-articles-more {
+  margin: 32px 0 0;
+  text-align: center;
+}
+
+.tabs-articles .tabs-articles-more-link::after {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-left: 12px;
+  border-top: 2px solid currentcolor;
+  border-right: 2px solid currentcolor;
+  transform: translateY(-1px) rotate(45deg);
+}
+
+@media (width >= 600px) {
+  .tabs-articles .tabs-articles-card {
+    flex-basis: calc((100% - 20px) / 2);
+  }
+}
+
+@media (width >= 900px) {
+  .tabs-articles .tabs-articles-card {
+    flex-basis: calc((100% - 40px) / 3);
+  }
+}

@@ -1,0 +1,52 @@
+/* cards-app-links: row of centred icon + text + link items (structural only) */
+.cards-app-links .cards-app-links-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-app-links .cards-app-links-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  text-align: center;
+}
+
+.cards-app-links .cards-app-links-icon img {
+  display: block;
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.cards-app-links .cards-app-links-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cards-app-links .cards-app-links-body p {
+  margin: 0;
+}
+
+.cards-app-links .cards-app-links-body .cards-app-links-cta-wrap {
+  margin-top: auto;
+  padding-top: 16px;
+}
+
+@media (width >= 600px) {
+  .cards-app-links .cards-app-links-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (width >= 900px) {
+  .cards-app-links .cards-app-links-list {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}

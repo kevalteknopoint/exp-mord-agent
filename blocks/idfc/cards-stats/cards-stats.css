@@ -1,0 +1,46 @@
+/* cards-stats: grid of impact stat cards (icon, stat, description) (structural only) */
+.cards-stats .cards-stats-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-stats .cards-stats-card {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 250px;
+  padding: 24px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.cards-stats .cards-stats-icon img {
+  display: block;
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+}
+
+.cards-stats .cards-stats-body > * {
+  margin: 0 0 16px;
+}
+
+.cards-stats .cards-stats-body > :last-child {
+  margin-bottom: 0;
+}
+
+@media (width >= 600px) {
+  .cards-stats .cards-stats-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (width >= 900px) {
+  .cards-stats .cards-stats-list {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}

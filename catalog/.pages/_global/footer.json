@@ -1,0 +1,19 @@
+{
+  "detected": true,
+  "selector": "footer.footer",
+  "bounds": {
+    "x": 0,
+    "y": 6763,
+    "width": 1440,
+    "height": 1344
+  },
+  "complexity": "moderate",
+  "effort": "medium",
+  "estimatedHours": "2-4",
+  "features": [
+    "social-icons",
+    "legal-section"
+  ],
+  "columnCount": 7,
+  "linkCount": 150
+}

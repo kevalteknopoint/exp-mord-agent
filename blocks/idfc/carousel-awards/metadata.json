@@ -1,0 +1,20 @@
+{
+  "variantName": "carousel-awards",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "maroon image + grey text",
+    "density": "medium",
+    "purpose": "awards",
+    "imagePattern": "award photo top",
+    "structure": "image + description + arrow link"
+  },
+  "contentPattern": "One row per award: cell 1 = award image, cell 2 = description paragraph + link to detail page",
+  "usage": {
+    "pagesUsing": ["https://www.idfcfirst.bank.in/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-12"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

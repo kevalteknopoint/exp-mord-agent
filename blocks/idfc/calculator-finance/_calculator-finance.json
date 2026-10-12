@@ -1,0 +1,111 @@
+{
+  "definitions": [
+    {
+      "title": "Calculator Finance",
+      "id": "calculator-finance",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Calculator Finance",
+              "model": "calculator-finance",
+              "filter": "calculator-finance"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Calculator Finance Tab",
+      "id": "calculator-finance-item",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Calculator Tab",
+              "model": "calculator-finance-item",
+              "label": "Savings Account",
+              "calc_type": "savings"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "calculator-finance",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Illustration",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Illustration Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Intro (heading, paragraph, footnotes starting with *)",
+          "valueType": "string"
+        }
+      ]
+    },
+    {
+      "id": "calculator-finance-item",
+      "fields": [
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "label",
+          "value": "",
+          "label": "Tab Label"
+        },
+        {
+          "component": "select",
+          "valueType": "string",
+          "name": "calc_type",
+          "value": "savings",
+          "label": "Calculator Type",
+          "options": [
+            { "name": "Savings Account interest", "value": "savings" },
+            { "name": "Personal Loan EMI", "value": "personal-loan" },
+            { "name": "Credit Card rewards", "value": "credit-card" },
+            { "name": "Home Loan EMI", "value": "home-loan" },
+            { "name": "Two Wheeler Loan EMI", "value": "two-wheeler-loan" }
+          ]
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "calc_ranges",
+          "value": "",
+          "label": "Range overrides (optional, e.g. amount: 10000 - 50000000, 2500000)"
+        },
+        {
+          "component": "richtext",
+          "name": "cta",
+          "value": "",
+          "label": "Apply Now link and disclaimer",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "calculator-finance",
+      "components": ["calculator-finance-item"]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "variantName": "cards-app-links",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "purpose": "channel quick links",
+    "imagePattern": "small icon",
+    "structure": "icon + text + link"
+  },
+  "contentPattern": "One row per item: cell 1 = icon image, cell 2 = text paragraph (with bold), link",
+  "usage": {
+    "pagesUsing": ["https://www.idfcfirst.bank.in/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-12"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

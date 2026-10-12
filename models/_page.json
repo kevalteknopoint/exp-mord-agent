@@ -21,6 +21,20 @@
           "name": "keywords",
           "multi": true,
           "label": "Keywords"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "nav",
+          "label": "Navigation",
+          "description": "Path of the header fragment, e.g. /idfc/nav"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "footer",
+          "label": "Footer",
+          "description": "Path of the footer fragment, e.g. /idfc/footer"
         }
       ]
     }

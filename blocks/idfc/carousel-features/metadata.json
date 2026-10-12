@@ -1,0 +1,20 @@
+{
+  "variantName": "carousel-features",
+  "baseBlock": "carousel",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "gradient blue/orange",
+    "density": "medium",
+    "purpose": "usp feature slider",
+    "imagePattern": "circular icon",
+    "structure": "icon + heading + expandable text + CTA"
+  },
+  "contentPattern": "One row per card: cell 1 = icon image, cell 2 = h3 title, description paragraph (revealed on Read more), optional CTA link",
+  "usage": {
+    "pagesUsing": ["https://www.idfcfirst.bank.in/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-12"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

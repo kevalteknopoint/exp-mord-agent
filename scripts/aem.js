@@ -307,6 +307,18 @@ function createOptimizedPicture(
   const { pathname } = url;
   const ext = pathname.substring(pathname.lastIndexOf('.') + 1);
 
+  // External images (different origin) are served by their own host and may not
+  // support the AEM optimization query params, so use the original src as-is.
+  const isExternal = url.origin !== window.location.origin;
+  if (isExternal) {
+    const img = document.createElement('img');
+    img.setAttribute('loading', eager ? 'eager' : 'lazy');
+    img.setAttribute('alt', alt);
+    img.setAttribute('src', src);
+    picture.appendChild(img);
+    return picture;
+  }
+
   // webp
   breakpoints.forEach((br) => {
     const source = document.createElement('source');
@@ -554,14 +566,15 @@ async function loadBlock(block) {
   if (status !== 'loading' && status !== 'loaded') {
     block.dataset.blockStatus = 'loading';
     const { blockName } = block.dataset;
+    // blocks of a site kept in a sub-folder (blocks/<folder>/<name>/), see scripts.js BLOCK_FOLDERS
+    const folder = window.hlx.blockFolders?.[blockName];
+    const blockPath = `${window.hlx.codeBasePath}/blocks/${folder ? `${folder}/` : ''}${blockName}`;
     try {
-      const cssLoaded = loadCSS(`${window.hlx.codeBasePath}/blocks/${blockName}/${blockName}.css`);
+      const cssLoaded = loadCSS(`${blockPath}/${blockName}.css`);
       const decorationComplete = new Promise((resolve) => {
         (async () => {
           try {
-            const mod = await import(
-              `${window.hlx.codeBasePath}/blocks/${blockName}/${blockName}.js`
-            );
+            const mod = await import(`${blockPath}/${blockName}.js`);
             if (mod.default) {
               await mod.default(block);
             }

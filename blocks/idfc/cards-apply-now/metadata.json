@@ -1,0 +1,20 @@
+{
+  "variantName": "cards-apply-now",
+  "baseBlock": "cards",
+  "canonicalModel": "standalone",
+  "visualCharacteristics": {
+    "colorScheme": "floating white panel",
+    "density": "dense",
+    "purpose": "apply drawer",
+    "imagePattern": "product icon",
+    "structure": "trigger + heading + icon link list"
+  },
+  "contentPattern": "Row 1 = trigger: tab image + label 'Select a Product', panel heading 'Apply for a product now', paragraph. Then one row per product: cell 1 = icon image, cell 2 = product name link (optional NEW tag as em/strong).",
+  "usage": {
+    "pagesUsing": ["https://www.idfcfirst.bank.in/"],
+    "reuseCount": 1,
+    "lastUsed": "2026-10-12"
+  },
+  "options": [],
+  "memberVariantIds": []
+}

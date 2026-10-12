@@ -24,7 +24,20 @@
       "table",
       "text",
       "title",
-      "video"
+      "video",
+      "carousel-hero",
+      "tabs-products",
+      "carousel-features",
+      "calculator-finance",
+      "carousel-spotlight",
+      "columns-app",
+      "cards-app-links",
+      "carousel-testimonial",
+      "tabs-articles",
+      "carousel-awards",
+      "cards-stats",
+      "cards-support",
+      "cards-apply-now"
     ]
   },
   {
@@ -93,5 +106,83 @@
   {
     "id": "video",
     "components": []
+  },
+  {
+    "id": "calculator-finance",
+    "components": [
+      "calculator-finance-item"
+    ]
+  },
+  {
+    "id": "cards-app-links",
+    "components": [
+      "cards-app-links-item"
+    ]
+  },
+  {
+    "id": "cards-apply-now",
+    "components": [
+      "cards-apply-now-item"
+    ]
+  },
+  {
+    "id": "cards-stats",
+    "components": [
+      "cards-stats-item"
+    ]
+  },
+  {
+    "id": "cards-support",
+    "components": [
+      "cards-support-item"
+    ]
+  },
+  {
+    "id": "carousel-awards",
+    "components": [
+      "carousel-awards-item"
+    ]
+  },
+  {
+    "id": "carousel-features",
+    "components": [
+      "carousel-features-item"
+    ]
+  },
+  {
+    "id": "carousel-hero",
+    "components": [
+      "carousel-hero-item"
+    ]
+  },
+  {
+    "id": "carousel-spotlight",
+    "components": [
+      "carousel-spotlight-item"
+    ]
+  },
+  {
+    "id": "carousel-testimonial",
+    "components": [
+      "carousel-testimonial-item"
+    ]
+  },
+  {
+    "id": "columns-app",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "tabs-articles",
+    "components": [
+      "tabs-articles-item"
+    ]
+  },
+  {
+    "id": "tabs-products",
+    "components": [
+      "tabs-products-item"
+    ]
   }
 ]

@@ -20,6 +20,20 @@
         "name": "keywords",
         "multi": true,
         "label": "Keywords"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "nav",
+        "label": "Navigation",
+        "description": "Path of the header fragment, e.g. /idfc/nav"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "footer",
+        "label": "Footer",
+        "description": "Path of the footer fragment, e.g. /idfc/footer"
       }
     ]
   },
@@ -607,6 +621,478 @@
         "name": "placeholder_imageAlt",
         "value": "",
         "label": "Placeholder Image Alt Text"
+      }
+    ]
+  },
+  {
+    "id": "calculator-finance",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Illustration",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Illustration Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Intro (heading, paragraph, footnotes starting with *)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "calculator-finance-item",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "label",
+        "value": "",
+        "label": "Tab Label"
+      },
+      {
+        "component": "select",
+        "valueType": "string",
+        "name": "calc_type",
+        "value": "savings",
+        "label": "Calculator Type",
+        "options": [
+          {
+            "name": "Savings Account interest",
+            "value": "savings"
+          },
+          {
+            "name": "Personal Loan EMI",
+            "value": "personal-loan"
+          },
+          {
+            "name": "Credit Card rewards",
+            "value": "credit-card"
+          },
+          {
+            "name": "Home Loan EMI",
+            "value": "home-loan"
+          },
+          {
+            "name": "Two Wheeler Loan EMI",
+            "value": "two-wheeler-loan"
+          }
+        ]
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "calc_ranges",
+        "value": "",
+        "label": "Range overrides (optional, e.g. amount: 10000 - 50000000, 2500000)"
+      },
+      {
+        "component": "richtext",
+        "name": "cta",
+        "value": "",
+        "label": "Apply Now link and disclaimer",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-app-links-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Icon",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Icon Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (paragraph with bold, link)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-apply-now",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "trigger_image",
+        "label": "Side Tab Icon",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "trigger_label",
+        "value": "",
+        "label": "Side Tab Label"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Panel heading and paragraph",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-apply-now-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Product Icon",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Product Icon Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Product link (optional NEW tag in italics)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-stats-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Icon",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Icon Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (stat title in bold or h3, description)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards-support-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Icon",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Icon Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Link label",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "carousel-awards-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Award Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Award Image Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Description and link to the award page",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "carousel-features-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Icon",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Icon Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (h3 title, description revealed on Read more, optional link)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "carousel-hero-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "media_image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "media_imageAlt",
+        "value": "",
+        "label": "Image Alt Text"
+      },
+      {
+        "component": "aem-content",
+        "valueType": "string",
+        "name": "media_video",
+        "label": "Video (optional, replaces the image)"
+      },
+      {
+        "component": "richtext",
+        "name": "content_text",
+        "value": "",
+        "label": "Text (heading, paragraph, primary and secondary link)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "carousel-spotlight-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Icon",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Icon Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (h3 title, description, CTA link)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "carousel-testimonial-item",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Avatar (optional; an item with only an image becomes a decorative bubble)",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Avatar Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Testimonial (date, name in bold, quote)",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "columns-app",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "columns",
+        "value": "",
+        "label": "Columns"
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "rows",
+        "value": "",
+        "label": "Rows"
+      }
+    ]
+  },
+  {
+    "id": "tabs-articles-item",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "tab",
+        "value": "",
+        "label": "Tab / Category (items with the same category share a tab)"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Article Image (leave empty for the tab's Know More link)",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "value": "",
+        "label": "Article Image Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Text (h3 title link, date | read time) or a single Know More link",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "tabs-products-item",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "tab_label",
+        "value": "",
+        "label": "Tab Label (cards with the same label share a tab)"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "tab_icon",
+        "label": "Tab Icon (set on the first card of a tab)",
+        "multi": false
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "icon",
+        "label": "Card Icon",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "iconAlt",
+        "value": "",
+        "label": "Card Icon Alt Text"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Card Content (title, benefit, primary and secondary link)",
+        "valueType": "string"
+      },
+      {
+        "component": "select",
+        "valueType": "string",
+        "name": "theme",
+        "value": "",
+        "label": "Card Theme",
+        "options": [
+          {
+            "name": "Default",
+            "value": ""
+          },
+          {
+            "name": "Blue",
+            "value": "blue"
+          },
+          {
+            "name": "Red",
+            "value": "red"
+          },
+          {
+            "name": "Plum",
+            "value": "plum"
+          },
+          {
+            "name": "Black",
+            "value": "black"
+          },
+          {
+            "name": "Chocolate",
+            "value": "chocolate"
+          }
+        ]
       }
     ]
   }

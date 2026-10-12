@@ -1,0 +1,68 @@
+{
+  "definitions": [
+    {
+      "title": "Cards App Links",
+      "id": "cards-app-links",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Cards App Links",
+              "filter": "cards-app-links"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Cards App Links Item",
+      "id": "cards-app-links-item",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "App Link",
+              "model": "cards-app-links-item"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "cards-app-links-item",
+      "fields": [
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Icon",
+          "multi": false
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "imageAlt",
+          "value": "",
+          "label": "Icon Alt Text"
+        },
+        {
+          "component": "richtext",
+          "name": "text",
+          "value": "",
+          "label": "Text (paragraph with bold, link)",
+          "valueType": "string"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "cards-app-links",
+      "components": ["cards-app-links-item"]
+    }
+  ]
+}

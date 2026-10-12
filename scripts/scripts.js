@@ -13,6 +13,30 @@ import {
   loadCSS,
 } from './aem.js';
 
+// blocks that live in a site sub-folder: blocks/<folder>/<name>/ instead of blocks/<name>/
+// (every new IDFC block must be listed here, and in the section filter in models/_section.json)
+const BLOCK_FOLDERS = {
+  idfc: [
+    'carousel-hero',
+    'tabs-products',
+    'carousel-features',
+    'calculator-finance',
+    'carousel-spotlight',
+    'columns-app',
+    'cards-app-links',
+    'carousel-testimonial',
+    'tabs-articles',
+    'carousel-awards',
+    'cards-stats',
+    'cards-support',
+    'cards-apply-now',
+  ],
+};
+window.hlx = window.hlx || {};
+window.hlx.blockFolders = Object.fromEntries(
+  Object.entries(BLOCK_FOLDERS).flatMap(([folder, names]) => names.map((name) => [name, folder])),
+);
+
 /**
  * Moves all the attributes from a given elmenet to another given element.
  * @param {Element} from the element to copy attributes from

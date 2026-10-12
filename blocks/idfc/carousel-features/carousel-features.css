@@ -1,0 +1,147 @@
+/* carousel-features: multi-card horizontal slider with expandable copy (structural only) */
+.carousel-features {
+  position: relative;
+}
+
+.carousel-features .carousel-features-nav {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.carousel-features .carousel-features-nav[hidden] {
+  display: none;
+}
+
+.carousel-features .carousel-features-prev,
+.carousel-features .carousel-features-next {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.carousel-features .carousel-features-prev:disabled,
+.carousel-features .carousel-features-next:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.carousel-features .carousel-features-prev::after,
+.carousel-features .carousel-features-next::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 8px;
+  height: 8px;
+  border-top: 2px solid currentcolor;
+  border-left: 2px solid currentcolor;
+  transform: translate(-30%, -50%) rotate(-45deg);
+}
+
+.carousel-features .carousel-features-next::after {
+  transform: translate(-70%, -50%) rotate(135deg);
+}
+
+.carousel-features .carousel-features-track {
+  display: flex;
+  gap: 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+
+.carousel-features .carousel-features-track::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-features .carousel-features-card {
+  flex: 0 0 85%;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 290px;
+  padding: 16px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.carousel-features .carousel-features-icon,
+.carousel-features .carousel-features-icon picture,
+.carousel-features .carousel-features-icon img {
+  display: block;
+  width: 78px;
+  height: 78px;
+  border-radius: 50%;
+  object-fit: contain;
+}
+
+.carousel-features .carousel-features-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+}
+
+.carousel-features .carousel-features-body > :first-child {
+  margin-top: 0;
+}
+
+.carousel-features .carousel-features-detail[hidden] {
+  display: none;
+}
+
+.carousel-features .carousel-features-toggle {
+  align-self: flex-start;
+  margin: auto 0 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+
+.carousel-features .carousel-features-toggle::after {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-left: 8px;
+  border-right: 2px solid currentcolor;
+  border-bottom: 2px solid currentcolor;
+  transform: translateY(-3px) rotate(45deg);
+}
+
+.carousel-features .carousel-features-toggle[aria-expanded='true']::after {
+  transform: translateY(1px) rotate(-135deg);
+}
+
+@media (width >= 600px) {
+  .carousel-features .carousel-features-card {
+    flex-basis: calc((100% - 24px) / 2);
+  }
+}
+
+@media (width >= 900px) {
+  .carousel-features .carousel-features-track {
+    gap: 90px;
+  }
+
+  /* ~3.3 cards visible so the next card peeks in */
+  .carousel-features .carousel-features-card {
+    flex-basis: calc((100% - 270px) / 3.3);
+  }
+}
